@@ -1,0 +1,17 @@
+{
+  "": {
+    "84AF9F4A45969994E8B97A90FC70370A": "クラフト済みのアイテムを素材にリサイクルする。"
+  },
+  "Juno_CraftingFormulas_ManyOutput_RecycleStation": {
+    "0684B2D541C2C2E556951F9C4C05CA9B": "リサイクル"
+  },
+  "Juno_CraftingFormulas_RecycleStation": {
+    "5F1CAD0440B1AEE2C477B7BA39D02E61": "リサイクル機"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "6C66A0AC4269CF9E4A832B83F3CF7093": "リサイクル機"
+  },
+  "Juno_UpdateItemData": {
+    "5947B6C54FB9E1443525839FAFC9D3F6": "古いものがまた新しく。"
+  }
+}

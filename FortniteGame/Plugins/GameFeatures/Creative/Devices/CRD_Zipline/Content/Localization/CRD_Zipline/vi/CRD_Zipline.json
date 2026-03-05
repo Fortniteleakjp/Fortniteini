@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Không Thể Dùng Dây Trượt",
+    "768283974295183A2A78FCBFBAFE1742": "Tạo ra một dây trượt giúp người chơi di chuyển giữa các điểm",
+    "C7C925214E0954D490E48DB594FCAE7C": "Tạo ra một dây trượt giúp người chơi di chuyển giữa các điểm",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Tùy chỉnh ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Thiết bị Chỉ Tạo Tạm Thời đóng vai trò làm một giao diện điện thoại cho các điểm trục đường Dây Trượt",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Dây Trượt",
+    "8CE167104123A4888338D3A2901028D8": "Dây Trượt",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Điểm Điều Khiển Dây Trượt"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Bất Kỳ",
+    "ECreativeTeamType.Any.DisplayName": "Bất Kỳ",
+    "ClassSlotMetaData.DisplayPattern": "Nghề {0}",
+    "Device_Zipline_C.Color.DisplayName": "Màu",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Xác định mức độ hướng tiến lên của Điểm Điều Khiển này ảnh hưởng đến độ cong của đường tại địa điểm đó.",
+    "Device_Zipline_C.UseCustomColor.Description": "Xác định xem chúng ta có dùng một màu tùy chỉnh thay vì mặc định hay không",
+    "Device_Zipline_C.Color.Description": "Xác định màu tùy chỉnh để sử dụng.",
+    "Device_Zipline_C.Selected Class.Description": "Xác định nghề nào có thể sử dụng Dây Trượt này.",
+    "Device_Zipline_C.Selected Team.Description": "Xác định đội nào có thể sử dụng Dây Trượt này.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Nếu được thiết lập, thiết bị sẽ cho phép tất cả ngoại trừ nghề đã chọn.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Nếu được thiết lập, thiết bị sẽ cho phép tất cả ngoại trừ đội đã chọn.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Đảo Ngược Lựa Chọn Nghề",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Đảo Ngược Lựa Chọn Đội",
+    "ECreativeClassType.NoClass.DisplayName": "Không Có Nghề",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "Device_Zipline_C.OnAttach.DisplayName": "Khi Gắn",
+    "Device_Zipline_C.OnDetach.DisplayName": "Khi Tách",
+    "Device_Zipline_C.Selected Class.DisplayName": "Nghề Được Chọn",
+    "Device_Zipline_C.Selected Team.DisplayName": "Đội Được Chọn",
+    "Device_Zipline_C.OnAttach.Description": "Gửi một tín hiệu khi một tác nhân bám vào dây trượt.",
+    "Device_Zipline_C.OnDetach.Description": "Gửi một sự kiện khi một tác nhân tách khỏi dây trượt",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Cường Độ Tiếp Tuyến",
+    "TeamIndexMetaData.DisplayPattern": "Đội {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Dùng Màu Tùy Chỉnh"
+  }
+}

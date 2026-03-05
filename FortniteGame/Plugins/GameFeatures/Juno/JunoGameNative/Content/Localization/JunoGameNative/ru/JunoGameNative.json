@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "расстояние между: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: генерация вне {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Разместить: {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "Игрок {0} <Yellow>устранён</>",
+    "OnPlayerSavedByTotemGameEvent": "<Yellow>Тотем спасает жизнь</> игроку {0}"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Подарить: {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Давай мне что угодно!",
+    "LNFDropNOfX": "{WantItem} ({WantItemCount})"
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Присоединиться к лагерю: {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Недостаточно для обмена. Чтобы получить {SellItem} ({SellItemCount} шт.), вы должны отдать {WantItem} ({WantItemCount} шт.). \n Осталось комплектов: {BundleCount}.",
+    "TradeXForX": "Обменять {WantItem} ({WantItemCount} шт.) на {SellItem} ({SellItemCount} шт.). \n Осталось комплектов: {BundleCount}."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Готово",
+    "GetX": "Получить: {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>заходит в мир</>",
+    "GameMemberDisconnected": "{0} <Yellow>покидает мир</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "доп. заряд",
+    "ChargeCostUnits": "заряд",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Продолжить",
+    "JunoSpeech_NoAIRole": "Без работы",
+    "JunoSpeech_NoBoundCampName": "Безымянное поселение",
+    "JunoSpeech_NoLastUsedGatheringActor": "Нет рабочего места"
+  },
+  "JunoStorageChest": {
+    "Open": "Открыть",
+    "Search": "Искать"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "Поселение {VillageCount} игрока {PlayerName}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Вы исключены за бездействие. Сервер прервал соединение, потому что вы бездействовали слишком долго.",
+    "SpawnedWhenPermanentlyDead": "У этого клиента не осталось жизней."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "В режим помощи со строительством"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Это последний мир друга, в котором вы можете разместить чужие материалы на этой неделе.",
+    "MCPItemPlacedMessageTitleText": "Внимание! Чужие материалы",
+    "MCPItemPlacedMessageDescription_NLeft": "На этой неделе вы можете разместить чужие материалы ещё в {0} мирах своих друзей."
+  }
+}

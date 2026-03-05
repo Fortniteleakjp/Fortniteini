@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Enstrümanını Seç",
+    "E70730D546323455388D0F8862938650": "Enstrümanını Seç",
+    "94FB361A46082147B697C19A318D8F49": "Şarkını Seç",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Müzik Yapma Döngüleri",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Müzik Parçaları",
+    "LockerJamTracksCategory": "Dolabım Müzik Parçaları"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Müzik Parçası"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Günün Tınıları",
+    "setlist_1_title": "Günün Tınıları",
+    "setlist_title_1": "Günün Tınıları",
+    "daily_1_desc": "Günün Tınıları Açıklaması!",
+    "setlist_1_desc": "Günün Tınıları Açıklaması!",
+    "setlist_desc_1": "Günün Tınıları Açıklaması!",
+    "festival_1_title": "Festival Seçkileri",
+    "setlist_3_title": "Festival Seçkileri",
+    "setlist_title_3": "Festival Seçkileri",
+    "festival_1_desc": "Festival Seçkileri Açıklaması!",
+    "setlist_3_desc": "Festival Seçkileri Açıklaması!",
+    "setlist_desc_3": "Festival Seçkileri Açıklaması!",
+    "setlist_desc_Fortnitemares": "FORTNITE Kâbusları",
+    "setlist_title_Fortnitemares": "FORTNITE Kâbusları",
+    "setlist_2_title": "Sahne Işığı Şarkı Listesi",
+    "setlist_title_2": "Sahne Işığı Şarkı Listesi",
+    "spotlight_1_title": "Sahne Işığı Şarkı Listesi",
+    "setlist_2_desc": "Sahne Işığı Şarkı Listesi Açıklaması!",
+    "setlist_desc_2": "Sahne Işığı Şarkı Listesi Açıklaması!",
+    "spotlight_1_desc": "Sahne Işığı Şarkı Listesi Açıklaması!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Özel Şarkı Listesi",
+    "ProductMode_DisplayName_Setlist1": "Günlü Şarkı Listesi",
+    "Daily_1_Title": "Günün Tınıları",
+    "Daily_1_Desc": "Tablodan Günün Tınıları Açıklaması",
+    "Festival_1_Title": "Festival Seçkileri",
+    "Festival_1_Desc": "Tablodan Festival Seçkileri Açıklaması",
+    "Default_Title": "Festival Şarkı Listesi",
+    "ProductMode_DisplayName_Setlist3": "Sahne Işığı Şarkı Listesi",
+    "Spotlight_1_Title": "Sahne Işığı Şarkı Listesi",
+    "Spotlight_1_Desc": "Tablodan Sahne Işığı Şarkı Listesi Açıklaması",
+    "Default_Desc": "BU VARSAYILAN ŞARKI LİSTESİ AÇIKLAMASI!",
+    "ProductMode_DisplayName_Setlist2": "Haftalık Şarkı Listesi"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Sanatçı Adı",
+    "SparksAvailableFilter": "Mevcut",
+    "SparksDefaultFilter": "Varsayılan",
+    "SparksFeaturedSort": "Öne Çıkan",
+    "SparksFeaturedFilter": "Yeni ve Öne Çıkanlar",
+    "SparksOwnedFilter": "Var",
+    "SparksOwnedSort": "Sahiplik",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Arşivlenenleri Göster",
+    "SparksAlphaSort": "Şarkı Adı, A-Z",
+    "SparksAlphaSortReverse": "Şarkı Adı, Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

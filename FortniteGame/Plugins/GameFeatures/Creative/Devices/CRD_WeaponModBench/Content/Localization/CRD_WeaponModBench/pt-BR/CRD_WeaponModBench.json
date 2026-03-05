@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Dispositivo que permite que as pessoas comprem, apliquem e removam modificações de armas modificáveis.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Dispositivo que permite que as pessoas comprem, apliquem e removam modificações de armas modificáveis. Deixe um item no dispositivo para definir a moeda que será necessária.",
+    "C71343894A060847493A649689759A65": "Conjunto de estojos com os quais é possível interagir para gerar armas modificadas.",
+    "460F73D54CB382F639D9F28B319DB307": "PERSONALIZAR ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Não Pode Usar a Bancada de Modificações",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Créditos",
+    "53C6F3F34E06E917D367268882E08D87": "Determina a moeda necessária para modificar uma arma.",
+    "A30B8506487121E7C4E703A5629FBE05": "Desabilitar ao Receber de",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Desabilitado",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Desabilita o dispositivo, impedindo que modificadores sejam comprados ou removidos.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Habilitar ao Receber de",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Habilita o dispositivo e permite que os jogadores comecem a derrapar.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Galeria de Estojos de Armas Modificadas",
+    "0B7642504100909455884BA8ECBE7AD4": "Bancada de Modificações de Arma",
+    "1EBC090141D82557511D43B7E5342FD4": "Bancada de Modificações de Arma"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Classe Permitida",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Equipe Permitida",
+    "ECreativeClassType.Any.DisplayName": "Qualquer Uma",
+    "ECreativeTeamType.Any.DisplayName": "Qualquer Uma",
+    "ClassSlotMetaData.DisplayPattern": "Classe: {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Determina se a raridade de um item é exibida para o jogador, se estiver sem recursos.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Determina se o dispositivo deve ser habilitado quando o minijogo inicia.",
+    "Device_WeaponModBench_C.ModCost.Description": "Determina o custo para equipar um modificador numa arma modificável. O valor se aplica a todos os modificadores selecionáveis. \"Não Substituir\" utiliza os mesmos valores que o Battle Royale e está sujeito a alteração.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Determina qual classe pode usar essa Bancada de Modificações de Arma.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Determina qual equipe pode usar essa Bancada de Modificações de Arma.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Desabilitar",
+    "Device_WeaponModBench_C.Disable.Description": "Desabilita o dispositivo, impedindo que modificadores sejam comprados ou removidos.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Habilitar",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Habilitado ao Começar Minijogo",
+    "Device_WeaponModBench_C.Enable.Description": "Habilita o dispositivo e permite que modificadores sejam comprados e removidos.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Quando definido, o dispositivo permitirá todo mundo, menos a Classe Permitida.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Quando definido, o dispositivo permitirá todo mundo, menos a Equipe Permitida.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Inverter Seleção de Classe",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Inverter Seleção de Equipe",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Custo do Modificador",
+    "ECreativeClassType.NoClass.DisplayName": "Sem Classe",
+    "BoolMetaData.FalseDisplayName": "Desligado",
+    "BoolMetaData.TrueDisplayName": "Ligado",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Exibir Raridade de Item na Janela de Itens Faltantes",
+    "TeamIndexMetaData.DisplayPattern": "Equipe {0}"
+  }
+}

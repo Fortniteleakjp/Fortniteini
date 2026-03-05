@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "用来加速。 ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "当你想让推进更加有力时！"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "将大型推进器安装至现有结构和动态物体上。",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "将小型推进器安装至现有结构和动态物体上。",
+    "FB90A27F4B95E168E9C6CA88443875D0": "大型推进器",
+    "5E9A371D43E076126910D39AF338F4B5": "小型推进器"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "大型推进器",
+    "RemoteThruster_DisplayName": "小型推进器"
+  }
+}

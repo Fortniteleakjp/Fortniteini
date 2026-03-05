@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "Tuffati",
+    "BS_MainTitle": "Fall Guys",
+    "BS_InteractionBlocked": "Non utilizzabile dai Fall Guys.",
+    "BS_Control_Jump": "Salta",
+    "BS_Control_QuitCourse": "Abbandona percorso"
+  }
+}

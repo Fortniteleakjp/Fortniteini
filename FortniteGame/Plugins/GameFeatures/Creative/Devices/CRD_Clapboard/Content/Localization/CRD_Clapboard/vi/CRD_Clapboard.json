@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "Bảng Quay Phim",
+    "56A03FF7436EC20DE829418960AB9A08": "Bảng Quay Phim",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "Đếm Ngược",
+    "54EF511B43B2E65B7886F99DA6DD9816": "Đếm Xuôi",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "Đã Tắt",
+    "AE5B62204B1FB18FD103519F4F38C337": "Nếu được thiết lập, bảng quay phim này sẽ chỉ gửi một tín hiệu nếu luồng đạt đến mốc thời gian của nó là luồng được chỉ định.",
+    "77D7DD294A81C19292A44388D4D1A105": "Luồng Không Hợp Lệ",
+    "15CAFDE0497C42D493DB10828B7326A0": "Gửi một tín hiệu khi video đang phát đạt đến mốc thời gian đã định sẵn.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "Gửi tín hiệu khi luồng đang phát đạt đến một điểm nhất định trong khi phát.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "Đặt bộ đếm giờ trên bảng quay phim để đếm ngược về 0 hoặc đếm lên thời gian được thiết lập.",
+    "47A0B0E747D41C694384768BB2B392E6": "Luồng Cụ Thể",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "Thời Gian (Mili giây)",
+    "2ED1F344488EB2612D092586C1725442": "Thời Gian (Phút)",
+    "5750BFD542FFB083102152A0A1BC2154": "Thời Gian (Giây)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "Báo Cáo Thời Gian",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "Truyền Khi Đã Đạt Thời Gian",
+    "FF2400934566662794B5DB97A137A842": "Khi bộ đếm thời gian của thiết bị này kết thúc, gửi tín hiệu trên kênh này.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0}ms",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0}s",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "Tắt",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "Bật",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "Đã Đạt Thời Gian",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "Khi bộ đếm thời gian của thiết bị này kết thúc, gửi tín hiệu trên kênh này."
+  }
+}

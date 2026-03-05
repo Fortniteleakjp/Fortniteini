@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "khoảng cách giữa: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: tạo bên ngoài {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Đặt {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>đã bị hạ gục</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>đã được một tín vật cứu</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Quà Tặng {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Cho tôi mọi thứ!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Tham Gia Trại {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Không đủ để bán. Cần x{WantItemCount} {WantItem} để bán lấy x{SellItemCount} {SellItem}. \n Còn {BundleCount} bộ quà.",
+    "TradeXForX": "Bán x{WantItemCount} {WantItem} lấy x{SellItemCount} {SellItem}. \n Còn {BundleCount} bộ quà."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Đã hoàn thành!",
+    "GetX": "Nhận {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>đã vào thế giới</>",
+    "GameMemberDisconnected": "{0} <Yellow>đã rời khỏi thế giới</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "thêm lượt nạp",
+    "ChargeCostUnits": "tiến công",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Tiếp tục",
+    "JunoSpeech_NoAIRole": "Thất Nghiệp",
+    "JunoSpeech_NoBoundCampName": "Làng Vô Danh",
+    "JunoSpeech_NoLastUsedGatheringActor": "Không Có Trạm"
+  },
+  "JunoStorageChest": {
+    "Open": "Mở",
+    "Search": "Tìm Kiếm"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "Làng của {PlayerName} {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Không thấy động tĩnh gì, game đành \"nghỉ xả hơi\". Kết nối của bạn với máy chủ đã bị mất vì bạn không hoạt động quá lâu.",
+    "SpawnedWhenPermanentlyDead": "Người chơi này đã hết mạng."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Vào Chế Độ Lắp Ráp Theo Hướng Dẫn"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Đây là thế giớig bạn bè cuối cùng mà bạn có thể đặt nội dung thuộc sở hữu của mình trong tuần này.",
+    "MCPItemPlacedMessageTitleText": "Cảnh Báo! Nội Dung Thuộc Sở Hữu",
+    "MCPItemPlacedMessageDescription_NLeft": "Bạn có thể đặt nội dung thuộc sở hữu của mình vào {0} thế giới bạn bè nữa trong tuần này."
+  }
+}

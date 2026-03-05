@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "Un mesh scheletro che può riprodurre un'animazione.",
+    "477037CE4A29EB50C5A6E5B004123435": "Mesh animata",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "Mesh animata",
+    "9D01ABCB4C57956061A5B8BD095D856B": "Applica animazioni alla mesh dello skeleton",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "Pausa animazione",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "Mette in pausa l'animazione.",
+    "ED9506B7426508B1B97535AF002D07C9": "Riproduci animazione",
+    "4E6399154374E72C93B24A9FB9E86176": "Inverti riproduzione animazione",
+    "06C0CF2E41126953274F7B964A00DAE4": "Gioca",
+    "971EF1A7489930888171E8A553647F92": "Riproduci l'animazione al contrario.",
+    "070EC9F24AA5A04C8C685397F8E618AF": "Riproduci l'animazione.",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "Inversione",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "Arrestato"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "Animazione",
+    "Device_AnimatedMesh_C.InitialState.Description": "Determina se riprodurre l'animazione all'inizio.",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "Stato iniziale",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "Loop",
+    "Device_AnimatedMesh_C.PlayRate.Description": "Moltiplicatore usato per controllare la velocità di riproduzione dell'animazione.",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "Pausa",
+    "Device_AnimatedMesh_C.Pause.Description": "Mette in pausa l'animazione.",
+    "Device_AnimatedMesh_C.Play.DisplayName": "Gioca",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "Tasso di gioco",
+    "EAnimationPlayState.Playing.DisplayName": "Gioca",
+    "Device_AnimatedMesh_C.Reverse.Description": "Riproduci l'animazione al contrario.",
+    "Device_AnimatedMesh_C.Play.Description": "Riproduci l'animazione.",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "Retromarcia",
+    "EAnimationPlayState.Reversing.DisplayName": "Inversione",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "Mesh scheletro",
+    "EAnimationPlayState.Stopped.DisplayName": "Arrestato",
+    "Device_AnimatedMesh_C.Animation.Description": "Determina l'animazione da riprodurre.",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "Il mesh scheletro su cui riprodurre l'animazione.",
+    "Device_AnimatedMesh_C.Loop.Description": "Determina se l'animazione si riprodurrà ciclicamente dopo la conclusione."
+  }
+}

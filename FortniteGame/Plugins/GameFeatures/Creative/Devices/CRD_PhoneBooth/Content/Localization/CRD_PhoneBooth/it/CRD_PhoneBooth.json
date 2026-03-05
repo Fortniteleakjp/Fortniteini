@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "Consente ai giocatori di cambiare costume nel gioco!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "Consente ai giocatori di cambiare costume nel gioco!",
+    "6858477D482601B747C2A5B828C69E76": "Consente ai giocatori di cambiare costume nel gioco!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Cambia\r\ncostume",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Cabina spogliatoio",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Cabina spogliatoio",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Personalizza",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Rimuove tutti i giocatori dalla cabina spogliatoio alla ricezione di un segnale dal canale selezionato.",
+    "1F0C513442C1083AE99BE581F865957A": "Rimuove il giocatore attivatore dalla cabina spogliatoio alla ricezione di un segnale dal canale selezionato."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Disabilita",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Disabilita il dispositivo, rimuove tutti i giocatori dalla cabina spogliatoio e ne impedisce l'utilizzo.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Abilita",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Abilitato all'avvio del gioco",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Abilita il dispositivo, permettendo ai giocatori di usare la cabina spogliatoio.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Nasconde l'icona dell'interfaccia se Falso.",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "All'ingresso del giocatore",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Quando il giocatore esce",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Rimuovi tutti i giocatori",
+    "C8A4072D491C9059C5CFF1854936E573": "Rimuovi giocatore attivatore",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Mostra segnalatore interfaccia",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Attivato quando un giocatore entra nel dispositivo Cabina spogliatoio",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Attivato quando un giocatore esce dal dispositivo Cabina spogliatoio",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Determina se il dispositivo sia abilitato o meno all'avvio della partita."
+  }
+}

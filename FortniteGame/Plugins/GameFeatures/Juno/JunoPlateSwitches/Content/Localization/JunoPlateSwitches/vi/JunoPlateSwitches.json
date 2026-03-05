@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Tấm Phẳng Áp Suất",
+    "53154EE74D5D376B3B686BB88086E6C1": "Tấm Phẳng Kích Hoạt"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "Nút bạn có thể đứng lên để bật kênh. Nút phải được nhấn giữ để hoạt động! Có thể kết nối với kênh để cho phép kích hoạt bật và tắt.",
+    "5105BE2640EF2F340BFDACBBD992B887": "Nút bạn có thể đứng lên để bật kênh. Không cần giữ nút bấm như Tấm Phẳng Áp Suất.",
+    "3EE5611646661AE4DCB8A286F3C86C08": "Một công tắc mà bạn có thể đứng phía sau... VÀ từ phía trên!",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Tấm Phẳng Áp Suất",
+    "72407BB74A3BB4361BC8138E65BE9602": "Tấm Phẳng Kích Hoạt",
+    "B007D95344C458E23652D897346A66AE": "Hoạt động tốt nhất dưới áp suất."
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Tấm Phẳng Áp Suất",
+    "TriggerPlate_DisplayName": "Tấm Phẳng Kích Hoạt"
+  }
+}

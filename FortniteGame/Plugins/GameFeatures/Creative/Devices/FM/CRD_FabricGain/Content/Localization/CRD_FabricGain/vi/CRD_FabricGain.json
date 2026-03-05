@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Điều chỉnh âm lượng đầu vào âm thanh Ghép Nối trước khi gửi nó cho thiết bị âm thanh Ghép Nối khác. Khi bạn có một bản phối âm với nhiều đầu vào âm thanh, áp dụng Tăng Cường cho một vài trong số chúng có thể giúp cân bằng âm lượng của từng tín hiệu đầu vào trong tổng thể bản phối âm.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "Điều chỉnh âm lượng đầu vào âm thanh Ghép Nối trước khi gửi nó cho thiết bị âm thanh Ghép Nối khác. Khi bạn có một bản phối âm với nhiều đầu vào âm thanh, áp dụng Tăng Cường cho một vài trong số chúng có thể giúp cân bằng âm lượng của từng tín hiệu đầu vào trong tổng thể bản phối âm.",
+    "43690F0542ED4B273A4C72B2627C2936": "Nhân âm lượng của tín hiệu đầu vào âm thanh với giá trị đã chọn. Giá trị 0 sẽ tắt âm thanh. Giá trị 2 sẽ tăng gấp đôi âm lượng.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Hiệu Ứng Tăng Cường Ghép Nối",
+    "8A62F091464769AD6A2A51B1CECCED46": "Hiệu Ứng Tăng Cường Ghép Nối",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Hiệu Ứng Tăng Cường Ghép Nối"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Cho Phép Truy Cập Cáp",
+    "EEnabledOnPhase.Always.DisplayName": "Luôn luôn",
+    "Device_FabricGain_C.AudioIn.DisplayName": "Đầu Vào Âm Thanh",
+    "Device_FabricGain_C.AudioOut.DisplayName": "Đầu Ra Âm Thanh",
+    "EEnabledOnPhase.Create Only.DisplayName": "Chỉ Tạo",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Xác định xem Công Cụ Ghép Nối có thể truy cập vào cổng đầu vào hoặc đầu ra cáp bất kỳ trên thiết bị hay không.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "Xác định thiết bị sẽ được bật trong suốt giai đoạn nào của trận đấu. Trước Trận bao gồm tất cả các giai đoạn trước khi bắt đầu trận đấu (như sảnh chờ trước trận đấu hoặc đếm ngược đến khi bắt đầu trận đấu.) Thiết lập này không ảnh hưởng đến Chế Độ Chỉnh Sửa.",
+    "Device_FabricGain_C.Disable.DisplayName": "Tắt",
+    "Device_FabricGain_C.Disable.Description": "Tắt thiết bị khi có sự kiện xảy ra.",
+    "Device_FabricGain_C.Enable.DisplayName": "Bật",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "Bật theo Giai Đoạn",
+    "Device_FabricGain_C.Enable.Description": "Bật thiết bị khi có sự kiện xảy ra.",
+    "Device_FabricGain_C.Gain.DisplayName": "Tăng Cường",
+    "Device_FabricGain_C.GainIn.DisplayName": "Đầu Vào Tăng Cường",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Chỉ Trong Trận Đấu",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "Thông Tin Pháp Lý",
+    "EEnabledOnPhase.None.DisplayName": "Không",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "Khi Tắt",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "Khi Bật",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Ghép Nối",
+    "Device_FabricGain_C.LegalInfo.Description": "Xin lưu ý: Việc sử dụng Thiết bị âm thanh Ghép Nối chỉ giới hạn trong việc sáng tác các tác phẩm âm nhạc mới và độc quyền.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "Đầu Vào Nút Nguồn",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Chỉ Có Trước Trận",
+    "Device_FabricGain_C.AudioOut.Description": "Thiết lập đích cho cáp Đầu Ra Âm Thanh của thiết bị này.",
+    "Device_FabricGain_C.AudioIn.Description": "Thiết lập phím bấm cho cổng Đầu Vào Âm Thanh của thiết bị này.",
+    "Device_FabricGain_C.GainIn.Description": "Thiết lập phím bấm cho núm Tăng Cường của thiết bị này.",
+    "Device_FabricGain_C.OnDisabled.Description": "Kích hoạt một sự kiện khi thiết bị được tắt.",
+    "Device_FabricGain_C.OnEnabled.Description": "Kích hoạt một sự kiện khi thiết bị được bật."
+  }
+}

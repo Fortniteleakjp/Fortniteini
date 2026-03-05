@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Perangkat Pemuat Level",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Perangkat Pemuat Level",
+    "6290D58B473E479F05752B83814E9464": "Perangkat pemuat level akan memuat level yang dibuat di perangkat instance level dan memungkinkanmu untuk menempatkan dan memutarnya di mana saja di pulaumu, termasuk di atas perangkat pemuat level lain.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "Perangkat pemuat level akan memuat level yang dibuat di perangkat instance level dan memungkinkanmu untuk menempatkan dan memutarnya di mana saja di pulaumu, termasuk di atas perangkat pemuat level lain.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "Perangkat pemuat level akan memuat level yang dibuat di perangkat instance level dan memungkinkanmu untuk menempatkan dan memutarnya di mana saja di pulaumu, termasuk di atas perangkat pemuat level lain."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Nonaktifkan",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Menonaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Aktifkan",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Aktifkan saat Mulai Game",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Mengaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Nama Instance Level",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Nama level yang akan dimuat.",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Menentukan apakah perangkat ini diaktifkan saat game dimulai."
+  }
+}

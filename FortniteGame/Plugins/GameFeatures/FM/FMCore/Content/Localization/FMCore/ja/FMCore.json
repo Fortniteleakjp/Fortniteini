@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "シーク",
+    "MusicTimeNetSyncInterfaceSeekTarget": "ターゲットを探す",
+    "MusicTimeNetSyncInterfaceSeek_Description": "シークでターゲットを探そう。",
+    "MusicTimeNetSyncInterfaceSpeed": "スピード",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "クロックの設定スピード。",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "シークの実施先。"
+  }
+}

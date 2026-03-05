@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "Nguyên Liệu Tùy Chỉnh Cảnh Quan Juno"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "Bật Biểu Thức Vật Liệu Cảnh Quan Juno"
+  },
+  "JunoLandscape": {
+    "Juno": "Juno"
+  }
+}

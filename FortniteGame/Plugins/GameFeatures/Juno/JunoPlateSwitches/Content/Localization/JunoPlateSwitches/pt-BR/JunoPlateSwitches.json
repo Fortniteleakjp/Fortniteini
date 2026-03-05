@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Placa de Pressão",
+    "53154EE74D5D376B3B686BB88086E6C1": "Placa de Acionamento"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "Botão no qual você pode pisar para ligar canais. O botão só funciona enquanto pressionado! Pode ser conectado a um canal para ligar ou desligar acionamentos.",
+    "5105BE2640EF2F340BFDACBBD992B887": "Botão no qual você pode pisar para ligar canais. Ao contrário da Placa de Pressão, esse botão não precisa ficar pressionado.",
+    "3EE5611646661AE4DCB8A286F3C86C08": "Um interruptor que não se chateia em ser pisoteado.",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Placa de Pressão",
+    "72407BB74A3BB4361BC8138E65BE9602": "Placa de Acionamento",
+    "B007D95344C458E23652D897346A66AE": "Funciona melhor sob pressão."
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Placa de Pressão",
+    "TriggerPlate_DisplayName": "Placa de Acionamento"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "إكسسوار",
+    "1DC695F543617CDD983D6CA98D244D3F": "ماسورة",
+    "644AFB924BC996E1358E8DAC5E388D65": "الطاقة",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "التركيز",
+    "43384B4746A525AAE21308A2255D4AB7": "قبضة"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "مسدسات بلازما من العنبر",
+    "Plasma_Pistols_T5_Amber_DisplayName": "مسدسات بلازما من العنبر",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "مسدسات بلازما ناسفة",
+    "Plasma_Pistols_T1_Bone_DisplayName": "مسدسات بلازما العظام",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "مسدسات بلازما ساطعة",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "مسدسات بلازما المخالب",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "مسدسات بلازما المخالب",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "مسدسات بلازما المخالب",
+    "Plasma_Pistols_T3_Copper_DisplayName": "مسدسات بلازما نحاسية",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "مسدسات بلازما ملعونة",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "مسدسات بلازما من الزمرد",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "مسدسات بلازما من الزمرد",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "مسدسات بلازما من الخشب المرن",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "مسدسات بلازما من الصنوبر المكسو بالثلج",
+    "Plasma_Pistols_T1_Glass_DisplayName": "مسدسات بلازما زجاجية",
+    "Plasma_Pistols_T3_Gold_DisplayName": "مسدسات بلازما ذهبية",
+    "Plasma_Pistols_T2_Granite_DisplayName": "مسدسات بلازما غرانيتية",
+    "Plasma_Pistols_T3_Iron_DisplayName": "مسدسات بلازما حديدية",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "مسدسات بلازما من الجذور العُقدية",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "مسدسات بلازما من الماهوغاني",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "مسدسات بلازما من الملاكيت",
+    "Plasma_Pistols_T2_Marble_DisplayName": "مسدسات بلازما من الرخام",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "مسدسات بلازما من السبج",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "مسدسات بلازما من الصخور الحمراء",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "مسدسات بلازما من الياقوت",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "مسدسات بلازما من الياقوت",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "مسدسات بلازما من الحجر الرملي",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "مسدسات بلازما الياقوت الأزرق",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "مسدسات بلازما الياقوت الأزرق",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "مسدسات بلازما القرن المحطم",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "مسدسات بلازما القرن المحطم",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "مسدسات بلازما العاصفة",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "مسدسات بلازما للحماية من العاصفة",
+    "Plasma_Pistols_T1_Wood_DisplayName": "مسدسات بلازما خشبية"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "مسدسات البلازما"
+  }
+}

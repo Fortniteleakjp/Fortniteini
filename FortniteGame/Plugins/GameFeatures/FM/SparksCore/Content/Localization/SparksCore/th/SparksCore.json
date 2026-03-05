@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "เลือกเครื่องดนตรีที่คุณจะเล่น",
+    "E70730D546323455388D0F8862938650": "เลือกเครื่องดนตรีที่คุณจะเล่น",
+    "94FB361A46082147B697C19A318D8F49": "เลือกเพลงของคุณ",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "แจมลูป",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "แจมแทร็ก",
+    "LockerJamTracksCategory": "ล็อกเกอร์แจมแทร็ก"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "แจมแทร็ก"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "มู้ดประจำวัน",
+    "setlist_1_title": "มู้ดประจำวัน",
+    "setlist_title_1": "มู้ดประจำวัน",
+    "daily_1_desc": "มู้ดประจำวัน!",
+    "setlist_1_desc": "คำอธิบายมู้ดประจำวัน!",
+    "setlist_desc_1": "คำอธิบายมู้ดประจำวัน!",
+    "festival_1_title": "เฟสติวัลคัดสรร",
+    "setlist_3_title": "เฟสติวัลคัดสรร",
+    "setlist_title_3": "เฟสติวัลคัดสรร",
+    "festival_1_desc": "คำอธิบายเฟสติวัลคัดสรร!",
+    "setlist_3_desc": "คำอธิบายเฟสติวัลคัดสรร!",
+    "setlist_desc_3": "คำอธิบายเฟสติวัลคัดสรร!",
+    "setlist_desc_Fortnitemares": "คืนหลอน Fortnite",
+    "setlist_title_Fortnitemares": "คืนหลอน Fortnite",
+    "setlist_2_title": "เซ็ตลิสต์สปอตไลท์",
+    "setlist_title_2": "เซ็ตลิสต์สปอตไลท์",
+    "spotlight_1_title": "เซ็ตลิสต์สปอตไลท์",
+    "setlist_2_desc": "คำอธิบายเซ็ตลิสต์สปอตไลท์!",
+    "setlist_desc_2": "คำอธิบายเซ็ตลิสต์สปอตไลท์!",
+    "spotlight_1_desc": "คำอธิบายเซ็ตลิสต์สปอตไลท์!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "เซ็ตลิสต์ที่กำหนดเอง",
+    "ProductMode_DisplayName_Setlist1": "เซ็ตลิสต์ประจำวัน",
+    "Daily_1_Title": "มู้ดประจำวัน",
+    "Daily_1_Desc": "คำอธิบายมู้ดประจำวันจากตาราง",
+    "Festival_1_Title": "เฟสติวัลคัดสรร",
+    "Festival_1_Desc": "คำอธิบายเฟสติวัลคัดสรรจากตาราง",
+    "Default_Title": "เซ็ตลิสต์เฟสติวัล",
+    "ProductMode_DisplayName_Setlist3": "เซ็ตลิสต์สปอตไลท์",
+    "Spotlight_1_Title": "เซ็ตลิสต์สปอตไลท์",
+    "Spotlight_1_Desc": "คำอธิบายเซ็ตลิสต์สปอตไลท์จากตาราง",
+    "Default_Desc": "นี่คือคำอธิบายเซ็ตลิสต์เริ่มต้น!",
+    "ProductMode_DisplayName_Setlist2": "เซ็ตลิสต์รายสัปดาห์"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "ชื่อศิลปิน",
+    "SparksAvailableFilter": "พร้อมให้ใช้งาน",
+    "SparksDefaultFilter": "ค่าเริ่มต้น",
+    "SparksFeaturedSort": "แนะนำ",
+    "SparksFeaturedFilter": "ใหม่และแนะนำ",
+    "SparksOwnedFilter": "มีแล้ว",
+    "SparksOwnedSort": "เป็นเจ้าของ",
+    "SparksSongSecondaryFilterUnarchivedOnly": "แสดงไอเทมที่เก็บไว้",
+    "SparksAlphaSort": "ชื่อเพลง, A-Z",
+    "SparksAlphaSortReverse": "ชื่อเพลง, Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

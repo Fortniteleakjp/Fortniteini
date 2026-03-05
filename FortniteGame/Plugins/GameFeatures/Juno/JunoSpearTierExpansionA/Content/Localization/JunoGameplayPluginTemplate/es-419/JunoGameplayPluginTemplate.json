@@ -1,0 +1,37 @@
+{
+  "": {
+    "02D507F542501C32987007BB40B310CF": "Vas a necesitar un <EmphA>aserradero</>.",
+    "46465B3F47396715F622C8B9C8D00E02": "Vas a necesitar un <EmphA>aserradero</>.",
+    "7DA1447E47D8D89073ACF0AAA1A2864B": "Vas a necesitar un <EmphA>aserradero</>.",
+    "A681DC5345D98537642259976B7D96FD": "Vas a necesitar un <EmphA>aserradero</>."
+  },
+  "Juno_BoostedItemNames_SpearTierExpansionA": {
+    "Spear_T5_T5_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T6_T6_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T7_T7_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T8_T8_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T7_T7_Honed_Dragon_Opal_DisplayName": "Lanza de opalina de dragón",
+    "Spear_T8_T8_Honed_Dragon_Opal_DisplayName": "Lanza de opalina de dragón",
+    "Spear_T5_T5_Honed_Kozustone_DisplayName": "Lanza de piedra de Kozu",
+    "Spear_T6_T6_Honed_Kozustone_DisplayName": "Lanza de piedra de Kozu",
+    "Spear_T7_T7_Honed_Kozustone_DisplayName": "Lanza de piedra de Kozu",
+    "Spear_T8_T8_Honed_Kozustone_DisplayName": "Lanza de piedra de Kozu",
+    "Spear_T6_T6_Honed_Steel_DisplayName": "Lanza de acero",
+    "Spear_T7_T7_Honed_Steel_DisplayName": "Lanza de acero",
+    "Spear_T8_T8_Honed_Steel_DisplayName": "Lanza de acero"
+  },
+  "Juno_UpdateItemData": {
+    "311316ED4D182EEA2FA46DAA81FD15E5": "Una lanza legendaria para combates cuerpo a cuerpo o a distancia. Toca para atacar. Mantén para lanzar.",
+    "B25A2F324DB535390E4B73930870E49A": "Una lanza rara para combates cuerpo a cuerpo o a distancia. Toca para atacar. Mantén para lanzar.",
+    "9586F8E1415780F4E24C91BC3AF6173F": "Una lanza sin igual.",
+    "3D7692F9440542E88EC2D0BE65D1A7D0": "Una lanza épica para combates cuerpo a cuerpo o a distancia. Toca para atacar. Mantén para lanzar.",
+    "9FE27A4249F4F9C0F7527782A3B1C0F8": "Una lanza poco común para combates cuerpo a cuerpo o a distancia. Toca para atacar. Mantén para lanzar.",
+    "D94E848A42A304BA80384AB51A03A759": "En sus lanzas, listos, ¡fuera!",
+    "1F54FBF84AFFB2CCD540CD80D88B83BC": "Lanza",
+    "2EA3F9C34873AAA9DAA84885A9BCD37B": "Lanza",
+    "52E93B624E1B24175BB6F6811B0B3856": "Lanza",
+    "824F02E94ED416162B699D95ED1A1A60": "Lanza",
+    "C3ED5020413D4F9AC37D7B828F778F0A": "Lánzate al peligro.",
+    "888AAE0B4DA62E8ED2440D80116B1BD1": "Cuidado, que pica."
+  }
+}

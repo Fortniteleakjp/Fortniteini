@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "Скелетная сетка, которая может воспроизводить анимацию.",
+    "477037CE4A29EB50C5A6E5B004123435": "Анимированная сетка",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "Анимированная сетка",
+    "9D01ABCB4C57956061A5B8BD095D856B": "Применяет анимацию к скелетной сетке",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "Пауза анимации",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "Приостанавливает анимацию.",
+    "ED9506B7426508B1B97535AF002D07C9": "Воспроизведение анимации",
+    "4E6399154374E72C93B24A9FB9E86176": "Обратное воспроизведение анимации",
+    "06C0CF2E41126953274F7B964A00DAE4": "Воспроизведение",
+    "971EF1A7489930888171E8A553647F92": "Воспроизводит анимацию задом наперёд.",
+    "070EC9F24AA5A04C8C685397F8E618AF": "Воспроизводит анимацию.",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "Обратное воспроизведение",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "Остановлено"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "Анимация",
+    "Device_AnimatedMesh_C.InitialState.Description": "Определяет, воспроизводится ли анимация на начальном этапе.",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "Начальное состояние",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "Повторение",
+    "Device_AnimatedMesh_C.PlayRate.Description": "Множитель, контролирующий скорость воспроизведения анимации.",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "Пауза",
+    "Device_AnimatedMesh_C.Pause.Description": "Приостанавливает анимацию.",
+    "Device_AnimatedMesh_C.Play.DisplayName": "Воспроизведение",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "Частота воспроизведений",
+    "EAnimationPlayState.Playing.DisplayName": "Воспроизведение",
+    "Device_AnimatedMesh_C.Reverse.Description": "Воспроизводит анимацию задом наперёд.",
+    "Device_AnimatedMesh_C.Play.Description": "Воспроизводит анимацию.",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "Обратное воспроизведение",
+    "EAnimationPlayState.Reversing.DisplayName": "Обратное воспроизведение",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "Скелетная сетка",
+    "EAnimationPlayState.Stopped.DisplayName": "Остановлено",
+    "Device_AnimatedMesh_C.Animation.Description": "Анимация для воспроизведения.",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "Скелетная сетка, на которой воспроизводится анимация.",
+    "Device_AnimatedMesh_C.Loop.Description": "Определяет, должна ли анимация воспроизводиться заново, когда доходит до конца."
+  }
+}

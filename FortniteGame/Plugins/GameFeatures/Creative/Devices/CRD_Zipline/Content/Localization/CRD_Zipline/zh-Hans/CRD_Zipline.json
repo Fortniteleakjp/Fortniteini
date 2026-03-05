@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "不可使用滑索",
+    "768283974295183A2A78FCBFBAFE1742": "创造一条让玩家从一个点移动到另一个点的滑索。",
+    "C7C925214E0954D490E48DB594FCAE7C": "创造一条让玩家从一个点移动到另一个点的滑索。",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "自定义 ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "临时创意专用设备，用作滑索样条线点的手机工具界面。",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "滑索",
+    "8CE167104123A4888338D3A2901028D8": "滑索",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "滑索控制点"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "任意",
+    "ECreativeTeamType.Any.DisplayName": "任意",
+    "ClassSlotMetaData.DisplayPattern": "职业{0}",
+    "Device_Zipline_C.Color.DisplayName": "颜色",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "确定此控制点在前进方向上对该位置路径曲线的影响。",
+    "Device_Zipline_C.UseCustomColor.Description": "确定是否使用自定义颜色，而非默认颜色",
+    "Device_Zipline_C.Color.Description": "确定要使用的自定义颜色。",
+    "Device_Zipline_C.Selected Class.Description": "确定可使用此滑索的职业。",
+    "Device_Zipline_C.Selected Team.Description": "确定可使用此滑索的队伍。",
+    "Device_Zipline_C.Invert Class Selection.Description": "设置后，设备将允许除所选职业之外的所有职业。",
+    "Device_Zipline_C.Invert Team Selection.Description": "设置后，设备将允许除所选队伍之外的所有队伍。",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "反向选择职业",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "反向选择队伍",
+    "ECreativeClassType.NoClass.DisplayName": "无职业",
+    "BoolMetaData.FalseDisplayName": "关",
+    "BoolMetaData.TrueDisplayName": "开",
+    "Device_Zipline_C.OnAttach.DisplayName": "使用时",
+    "Device_Zipline_C.OnDetach.DisplayName": "离开时",
+    "Device_Zipline_C.Selected Class.DisplayName": "所选职业",
+    "Device_Zipline_C.Selected Team.DisplayName": "所选队伍",
+    "Device_Zipline_C.OnAttach.Description": "特工使用滑索时发送信号。",
+    "Device_Zipline_C.OnDetach.Description": "特工离开滑索时发送事件",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "切线强度",
+    "TeamIndexMetaData.DisplayPattern": "小队{0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "使用自定义颜色"
+  }
+}

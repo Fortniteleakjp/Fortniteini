@@ -1,0 +1,7 @@
+{
+  "": {
+    "E388F6954FCA2BB059B0CC88267FB542": "Modale FTUE - non ha trovato alias widget per {alias}. Forniscine uno nei plugin della modalità di gioco.",
+    "D05FCB494076FED68D50B9943D1E905C": "Il modale FTUE dev'essere un widget attivabile: {widget}",
+    "93E17E724AD2949B023EF3A643457DFE": "Il modale FTUE ha ricevuto un oggetto BindTo non valido: {object}"
+  }
+}

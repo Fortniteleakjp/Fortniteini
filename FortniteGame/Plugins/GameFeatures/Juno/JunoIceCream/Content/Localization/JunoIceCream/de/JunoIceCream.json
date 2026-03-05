@@ -1,0 +1,20 @@
+{
+  "": {
+    "6A31DE274B0444C42C341BB39ED7DE5C": "Du benötigst einen <EmphA>Mixer</>.",
+    "79EDC71546DFF16F6D376A807B8C057C": "Du benötigst einen <EmphA>Mixer</>.",
+    "5B1A181240601D2C8B93B1989A32DC0C": "Du benötigst etwas Kaltes und Weiches."
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F30AD94846FE3D71D4E9CB839A7EFEBA": "Fröstelbeeren-Eiscreme",
+    "70A1111E46AD7601EE0732B1D69F64A2": "Scharfe Eiscreme"
+  },
+  "Juno_UpdateItemData": {
+    "5C4061EA4933787FD658459CC7FB33B1": "Iss es, bevor es schmilzt.",
+    "B219707D4D40717FC31E2F9F3C7B0F24": "Iss es, bevor es schmilzt.",
+    "64A4F0A843F6B87C22DD4B88D7EF9798": "Kann gegessen werden. Verleiht vorübergehend Immunität gegen Brennen.",
+    "336CB5E0430C56B49DCDE8941E86F8A4": "Kann gegessen werden. Verleiht vorübergehend Immunität gegen Einfrieren.",
+    "CC5087DC481F5A04DBEFA480881F54B2": "Eiscreme",
+    "A3F9607D41D80C179555DF9A26FF518F": "Zu kalt, um heiß zu sein.",
+    "CE8B0C8D4E0B2CA9429D6FA70619FA9F": "Zu heiß, um kalt zu sein."
+  }
+}

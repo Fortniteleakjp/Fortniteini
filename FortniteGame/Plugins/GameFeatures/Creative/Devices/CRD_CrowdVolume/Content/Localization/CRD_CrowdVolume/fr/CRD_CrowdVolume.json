@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Volume de foule",
+    "CBA0009043A15E05890AC68F8056B814": "Volume de foule",
+    "E1067A64427AA66B822488B1D608CD94": "Volume de foule",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Désactiver",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Désactive l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "BFBBEB534C644E161C3AE491501828F6": "Activer",
+    "650644994C28CFD38E31829A56E3464F": "Active l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Fait apparaître une foule pour vous acclamer.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Fait apparaître une foule pour vous acclamer.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Fait apparaître une foule pour vous acclamer.",
+    "7EDB5C9C49AC528E948643B2245928A7": "Cet appareil vous permet de configurer une foule.",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=carré, other=carrés)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=carré, other=carrés)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=carré, other=carrés)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Toujours",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Alignement des personnages",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Direction aléatoire des personnages",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Taille aléatoire des personnages",
+    "EEnabledOnPhase.Create Only.DisplayName": "Création",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Densité de la foule",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Définit les phases du jeu pendant lesquelles l'appareil est activé. L'avant-jeu comprend toutes les phases qui précèdent le début du jeu (le salon d'attente de joueurs sur les îles à la une et le compte à rebours du jeu).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Désactiver",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Désactive l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Activer",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Activé pendant la phase",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Active l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Partie",
+    "EEnabledOnPhase.None.DisplayName": "Aucune",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Avant-jeu",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Définit la densité de la foule.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Définit la précision de l'alignement des membres de la foule sur une grille.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Définit dans quelle mesure la taille des membres de la foule est aléatoire.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Définit dans quelle mesure la direction à laquelle font face les membres de la foule est aléatoire.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Définit la profondeur de la zone (en carrés).",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Définit la hauteur de la zone (en carrés).",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Définit la largeur de la zone (en carrés).",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Profondeur de la zone",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Hauteur de la zone",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Largeur de la zone"
+  }
+}

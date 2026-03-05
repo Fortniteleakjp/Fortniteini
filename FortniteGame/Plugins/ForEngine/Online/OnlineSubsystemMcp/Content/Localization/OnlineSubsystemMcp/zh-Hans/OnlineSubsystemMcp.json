@@ -1,0 +1,23 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "未能结算，用户有正在进行中的交易。",
+    "ErrorPurchaseNotAllowed": "未能结算，用户不被允许购买。",
+    "ErrorNoUIHandler": "未能显示购买流用户界面。"
+  },
+  "McpQueryResult": {
+    "GenericError": "与游戏服务器({0})通信时发生了一个错误。",
+    "GenericHTTPError": "与游戏服务器通信时发生了如下错误：:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "连接服务器失败。",
+    "JsonError": "{0}类型的服务器错误",
+    "InvalidJson": "无法分析服务器响应。无效的JSON。错误{0}",
+    "NonObjectJson": "无法分析服务器响应。不是一个JSON对象。"
+  },
+  "OnlineFriend": {},
+  "OnlineIdentity": {},
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "无法分析来自购买服务的收据。"
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "Epic Games"
+  }
+}

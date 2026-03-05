@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Falta clase de módulo.\n\nVe a la implementación de tu proyecto y encuentra el plano de espacio de la zona de juego que se utiliza.\n\nConfigura \"CaptureToolWidgetClass\" en el componente de la zona de juego SparksCommonUtils en el módulo que quieras crear aquí.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} ignored event (no NPS component available)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} increased pool size: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} increased pool size: {size}"
+  }
+}

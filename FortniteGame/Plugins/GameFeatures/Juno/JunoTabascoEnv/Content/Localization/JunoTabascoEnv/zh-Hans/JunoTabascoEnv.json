@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "拾取木材",
+    "EC841CD54B7090D2510D7586F386C251": "拾取木材"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "按 E 开始编辑"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "自定义"
+  }
+}

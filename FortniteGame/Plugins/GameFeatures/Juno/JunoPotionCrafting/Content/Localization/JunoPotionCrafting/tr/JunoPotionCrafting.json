@@ -1,0 +1,67 @@
+{
+  "": {
+    "28E9012042F684EC33E64DBC67B7AB87": "Hasar Yansıtma İksiri",
+    "1496D4C04E61EA2F2E1A25A15D805DAD": "İç",
+    "5DD082614C19B68F0671C8B133F30027": "İç",
+    "732AE4164DA289CBAD2D9BA4CF94BF3F": "İç",
+    "8316CE6444093E54E05602B571AF8877": "İç",
+    "9009A17845156ABA2159A3A5EE6351A7": "İç",
+    "956461C2408989F89DBAF680FCE4DDBB": "İç",
+    "5FACCFEF4329C6DAD80BB5B1FAD7FA57": "İçilen Can İksiri",
+    "B78B3B934FC3A3BFE45E5BA5773A1C4C": "İçilen Can İksiri",
+    "2287C68342BE4554C7F900B0AB411EA3": "İçilen Can İksiri (Alan Etkisi)",
+    "62B9C0D5420E62347A3FC1B3C50DD129": "İçilen Can İksiri (Alan Etkisi)",
+    "D0FB1E8E4F3A5D7AD427DCBCF6B4E5EB": "İçilen İksir",
+    "781DE0DB4FD81FA3FF69E58D8296C55E": "Büyük",
+    "70BC96B04C86369A43ED339F68FD8024": "Büyük İçilen Can İksiri",
+    "A0E4329649446A6E0ADCEEBEDB31DD59": "Büyük İçilen Can İksiri (Alan Etkisi)",
+    "485E0400440602F8EC8A4E9D4EFEA5B6": "Büyük Fırlatılan Can İksiri",
+    "F9178367488B97E376AD168CE5BFB207": "Büyük Fırlatılan Can İksiri (Alan Etkisi)",
+    "3945E028409BF1B15E3361B819DC8DA0": "Kavanozu Al",
+    "39331BF447EA294E86FD3F9EFD116216": "Birincil Malzeme",
+    "3A48212E48DF26F20CF068861108E56A": "Birincil Malzeme",
+    "53687A5A40CAE9CD9BBF48BD49E94D64": "İkincil Malzeme",
+    "96A832CA40190EC452482C92A191D387": "İkincil Malzeme",
+    "B5C2358C4CAB187FA98995ADD68F8FED": "Dayanıklılık İksiri",
+    "B899DA28495F7A3BC705349680537CDB": "Fırlatılabilir Can İksiri",
+    "35B4F31541C8BE8B36843C83593AC8C2": "Fırlatılabilir Can İksiri (Alan Etkisi)",
+    "C04220B441D86E5CAD152FB2B6B3433D": "Fırlatılabilir iksir",
+    "EEDBCBAD486E3AD1FC8BD68916A3901E": "Fırlatılan Can İksiri",
+    "F58EF6304F74C220FC31B1AEC3D031F4": "Fırlatılan Can İksiri (Alan Etkisi)",
+    "13098D354B5285DB5DE12AB421042EB6": "Şişe",
+    "AF8BD4784E59154FE4AEBEAB925229A6": "Şişe",
+    "57D3A27449FC3EC3F53F598E5B8AFF2C": "<img id=\"IcoGra\"/> <Gra>Çayır</>'da bulunan bir <EmphA>düşman yaratıktan</> düşen kokulu bir eşyaya ihtiyacın var.",
+    "9A88751C42039EA7DA66DD965EA0FF09": "<img id=\"IcoGra\"/> <Gra>Çayır</>'da bulunan bir <EmphA>düşman yaratıktan</> düşen kokulu bir eşyaya ihtiyacın var.",
+    "CB0263AD4E908E6DF53E11A7570F0D9B": "<img id=\"IcoGra\"/> <Gra>Çayır</>'da bulunan bir <EmphA>düşman yaratıktan</> düşen kokulu bir eşyaya ihtiyacın var.",
+    "30F3303046A320581C5FF0965B3AF507": "Bir <EmphA>sıkacağa</> ihtiyacın olacak.",
+    "545578D8444EA9FCED0BD580966D9B4F": "Bir <EmphA>sıkacağa</> ihtiyacın olacak.",
+    "787CD8D147E518DE75287E8BAFAF0843": "Bir <EmphA>sıkacağa</> ihtiyacın olacak.",
+    "7C56876143D57D54687A86A1AEA6BB8D": "[PH] Heal AOE Potion"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "99A19BC9400AB7C8AAA881BCC2EA458F": "Can İksiri"
+  },
+  "Juno_CBCFormulas_PotionCrafting": {
+    "1DCCC0244DBBD0A6B6927F903D428D7F": "İçilen Can İksiri",
+    "85309E644A761BCC7F9A08AC379B65A6": "Fırlatılan Can İksiri"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "35F407C54D0DE1D0486E9D8E9B7D26D3": "İksir üret."
+  },
+  "Juno_UpdateItemData": {
+    "13F70595471A6B7F1AD303A8FCC9CF31": "İçebileceğin bir iksir!",
+    "2801A8BB45BF0EAF3468F88C4090F125": "İçebileceğin bir iksir!",
+    "FB5A74CF4600210AE9CDA390F2EEF219": "İçebileceğin bir iksir!",
+    "5462E70A40CB33E531AA37A515619D7C": "Tadını çıkar!",
+    "CB11C816427592AE1B396680CD65DD47": "Tadını çıkar!",
+    "E5554B724FD31AB167850A913524043F": "Tadını çıkar!",
+    "4C6C794746CA495BDF3C4498B75DC802": "İksir Kazanı",
+    "523282BD483A1420C02C5E81FE3BB25C": "At. İyileştirir.",
+    "530016A4477F3750BEF0C4970A72E6C5": "İksiri fırlat ve etkilerinin yayılmasını seyret!",
+    "00E4B31A47FD7A5A2B6EAFBADD29BBD9": "İksiri fırlat ve canın yayılmasını seyret!",
+    "3FFBFF7746FE53FE9BD9E1ABB395303A": "Hünerlerini konuşturma zamanı!",
+    "08A142164446E1C6B13D27B4B827CDFA": "Ups!",
+    "4176E80449892747BA4CBD89458823A1": "Ups!",
+    "5633430645A77733929F418A9EB7D72D": "Ups!"
+  }
+}

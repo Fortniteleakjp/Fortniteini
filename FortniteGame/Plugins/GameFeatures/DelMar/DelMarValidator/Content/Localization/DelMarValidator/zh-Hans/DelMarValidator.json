@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "一圈以上的非环形（非循环）赛道必须在 RR 检查点终点线启用瞬间移动，并且下一个检查点数组必须只能引用你的 RR 检查点起点线。 {0}",
+    "MultipleFinishLines": "多个 RR 检查点标记为“终点线”。 一条 RR 赛道必须刚好有一条 RR 检查点终点线。 {0}",
+    "MultipleStartLines": "多个 RR 检查点标记为“起点线”。 一条 RR 赛道必须刚好有一条 RR 检查点起点线。 {0}",
+    "NoFinishLine": "没有 RR 检查点标记为“终点线”。 一条 RR 赛道必须刚好有一条 RR 检查点终点线。 {0}",
+    "NoStartLine": "没有 RR 检查点标记为“起点线”。 一条 RR 赛道必须刚好有一条 RR 检查点起点线。 {0}",
+    "Checkpoint has invalid Next Checkpoint": "重置并重制 {0} 个“下一检查点”来修复。 {1}",
+    "Loop": "你不能在同一圈内循环返回到已经去过的检查点。 设备{0}拥有一个引用{1}的下一检查点数组，这已于之前在赛圈中被{2}引用。 {3}",
+    "DoesntOverlapFinishLine": "你的主要 RR 赛道必须从你的 RR 检查点起点线延伸至你的 RR 检查点终点线。 当前未与标记为终点线的 RR 检查点相交。 {0}",
+    "DoesntOverlapStartingLine": "你的主要 RR 赛道必须从你的 RR 检查点起点线延伸至你的 RR 检查点终点线。 当前未与标记为起点线的 RR 检查点相交。 {0}",
+    "DeadEnd": "{0} 并不包含一个或多个最终导向 RR 终点线检查点的“下一个检查点”。 {1}",
+    "Orphan": "{0}在赛道中未连接。"
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "在同一个关卡标签中放置了超过一个RR比赛管理器。赛道必须包含刚好一个RR比赛管理器。{0}",
+    "MultipleModeManager": "已放置多个 RR 比赛管理器。 赛道必须包含刚好一个 RR 比赛管理器。 {0}",
+    "MultipleModeManagerForMode": "已放置多个 RR 比赛管理器。 赛道必须包含刚好一个 RR 比赛管理器。 {0}",
+    "NoModeManager": "没有放置 RR 比赛管理器。 赛道必须包含刚好一个 RR 比赛管理器。 RR 竞争比赛管理器、RR 竞速赛比赛管理器等等 {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "多条 RR 赛道的赛道类型值设置为“主要”。 必须刚好有一条主要赛道。 {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "没有 RR 赛道的赛道类型值设置为“主要”。 必须刚好有一条主要赛道。 {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "当你的 RR 检查点起点线和终点线与 RR 检查点相同时，该赛道则为环形，并且在“风格编辑器窗口”的“设备”标签栏中，你的主要赛道样条线必须将“循环赛道”设置为真实。 {0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} 的赛道类型为“二级”，但在风格编辑器窗口的设备标签栏中被设定为循环赛道。 仅“主要”和“外观”赛道类型可以设置为循环赛道。 {1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} 的最终节点在本圈中要比首个节点更早连接至赛道。 该 RR 赛道可以设计成向后延伸、逆该赛道而行，或者该样条线的某端可以非常接近于你不希望玩家导航到达的赛道部分。 在透视图中选择该 RR 赛道，并检查该次要 RR 赛道样条线的连接线按要求重新连至你的赛道。 {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

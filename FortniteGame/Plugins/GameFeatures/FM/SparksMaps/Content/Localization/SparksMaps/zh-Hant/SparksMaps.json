@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "缺少小工具類別。\n\n前往你的專案實作中，找到其所使用的 Playspace 藍圖。\n\n將 SparksCommonUtils 遊戲空間組件上的「CaptureToolWidgetClass」設定為您要在此處建立的小工具。",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} 忽略事件（無 NPS 組件可用）",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} 已增加池子大小：{size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} 已增加池子大小：{size}"
+  }
+}

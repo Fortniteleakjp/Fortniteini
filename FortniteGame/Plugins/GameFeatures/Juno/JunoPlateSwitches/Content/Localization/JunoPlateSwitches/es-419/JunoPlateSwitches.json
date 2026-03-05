@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Placa de presión",
+    "53154EE74D5D376B3B686BB88086E6C1": "Placa de activación"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "Un botón sobre el que puedes pararte para activar canales. ¡El botón debe quedarse abajo para que funcione! Puede conectarse a un canal para permitir que se active o desactive.",
+    "5105BE2640EF2F340BFDACBBD992B887": "Un botón sobre el que puedes pararte para activar canales. A diferencia de una placa de presión, el botón no tiene que quedarse abajo.",
+    "3EE5611646661AE4DCB8A286F3C86C08": "Puedes pararte detrás de este interruptor... ¡Y encima también!",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Placa de presión",
+    "72407BB74A3BB4361BC8138E65BE9602": "Placa de activación",
+    "B007D95344C458E23652D897346A66AE": "Funciona mejor bajo presión."
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Placa de presión",
+    "TriggerPlate_DisplayName": "Placa de activación"
+  }
+}

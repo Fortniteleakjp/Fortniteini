@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Một đạo cụ trong môi trường sẽ tạo hiệu ứng Nitro cho người chơi ở xung quanh bình nitro nó khi bị phá hủy.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Một đạo cụ trong môi trường sẽ tạo hiệu ứng Nitro cho người chơi ở xung quanh bình nitro nó khi bị phá hủy.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Một đạo cụ trong môi trường sẽ tạo hiệu ứng Nitro cho người chơi ở xung quanh bình nitro nó khi bị phá hủy.",
+    "30E5234B40854AF182F76E99E0005299": "TÙY CHỈNH BÌNH NITRO",
+    "3A16E0DE435CF07612216D94958139C0": "Tắt Khi Nhận Tín Hiệu",
+    "A17C5EC645C874D630065CA36AD5AB43": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Bật Khi Nhận Tín Hiệu",
+    "6480B4A0446374163AA14886F9A0633A": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Lập Tức",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Bình Nitro",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Bình Nitro",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "Khi Bình Nitro Phát Nổ",
+    "6DE8D3364821C2389FC94292884E08A9": "Khi Bình Nitro Được Phóng Đi",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Kích hoạt khi bình nitro phát nổ.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Kích hoạt khi bình nitro bắt đầu phóng đi.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=Giây, other=Giây)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Cho Phép Tái Tạo Bình Nitro",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Cho phép tái tạo bình nitro sau một khoảng Thời Gian Chờ Tái Tạo khi bình nitro phát nổ.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Thiết lập thời gian cần có để tái tạo bình nitro.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Chọn có tái tạo bình nitro hay không sau khi bình nitro phát nổ trong trận.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Thiết lập hệ số mức lực dùng để phóng bình nitro đi.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Xác định bình nitro này có được bật và hiển thị khi bắt đầu trận hay không.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Tắt Thiết Bị",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Vô hiệu hóa và ẩn bình nitro.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "Không Cho Phép Tái Tạo Bình Nitro",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Bật Thiết Bị",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Kích hoạt và hiện bình nitro.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Hệ Số Lực Phóng",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "Khi Bình Nitro Phát Nổ",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "Khi Bình Nitro Được Phóng Đi",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Không cho phép tái tạo bình nitro. Đếm ngược Thời Gian Chờ Tái Tạo sẽ không chạy. Nếu thời gian đếm ngược đã chạy rồi, bình nitro sẽ không tái tạo khi hết thời gian đếm ngược.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Độ Trễ Tái Tạo",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Có Tái Tạo",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Bật Khi Bắt Đầu",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Kích hoạt khi bình nitro phát nổ.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Kích hoạt khi bình nitro được phóng đi."
+  }
+}

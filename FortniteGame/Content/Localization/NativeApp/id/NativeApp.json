@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} Salinan"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Eliminasi Ganda",
+    "Down": "Bawah",
+    "DebugLoadContentFail": "Unduhan Gagal",
+    "Eliminated": "Tereliminasi",
+    "Elimination": "Eliminasi",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Keluar dari Sesi",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "Tidak bisa masuk ke Menu Utama saat berada di Sesi Seluler UEFN.",
+    "UEFNMobileSessionMainMenuError_Title": "Sesi Seluler",
+    "MultiElimination": "Eliminasi Berganda",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Terjadi kesalahan. Kamu akan Keluar dari Sesi Seluler sekarang",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Terjadi kesalahan: {Reason} Kamu akan Keluar dari Sesi Seluler sekarang",
+    "TripleElimination": "Eliminasi Tripel",
+    "Win": "Menang",
+    "UEFNMobileSessionMainMenu_MessageBody": "Kamu tidak bisa masuk ke Lobi Fortnite saat berada di Sesi Seluler. Mau Keluar?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Terjadi kesalahan saat memutar ulang tayangan."
+  },
+  "SpriteCategory": {
+    "Lighting": "Pencahayaan"
+  }
+}

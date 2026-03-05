@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "Espada Lendária. Ideal para combater inimigos no corpo a corpo.",
+    "A5C5C211434AA2839F6672858D879834": "Não tem nada mais afiado que isso.",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "Espada",
+    "691AD6104B64E9B53B152A932C3A7948": "Você precisará de uma <EmphA>Serraria</>.",
+    "AF59C13740BF3D246EFE6894041683CA": "Você precisará de uma <EmphA>Serraria</>.",
+    "D46F690B44A43726C9409EBBF35FBD5A": "Você precisará de uma <EmphA>Serraria</>.",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "Você precisará de uma <EmphA>Serraria</>."
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "Espada de Bambu",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "Espada de Bambu",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "Espada de Bambu",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "Espada de Bambu",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "Espada de Opala Dracônica",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "Espada de Opala Dracônica",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "Espada de Pedra Kozu",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "Espada de Pedra Kozu",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "Espada de Pedra Kozu",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "Espada de Pedra Kozu",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "Espada de Aço",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "Espada de Aço",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "Espada de Aço"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "Espada Rara. Ideal para combater inimigos no corpo a corpo.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "Para negócios de espadachim.",
+    "CAD24296497618FE393B79B375B3D198": "Espada Épica. Ideal para combater inimigos no corpo a corpo.",
+    "7F0D841F4798D9DA06E8CB9880022753": "Espada Incomum. Ideal para combater inimigos no corpo a corpo.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "Tipo uma faca... mas bem melhor.",
+    "30D0CC564A676E401A2AF193711F5A03": "Abra suas asas e solte sua espada.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "Espada",
+    "C9A902E24804F529DDB98399903E1F9F": "Espada",
+    "F07655364C7958D6AB473B8B9ABA433A": "Espada"
+  }
+}

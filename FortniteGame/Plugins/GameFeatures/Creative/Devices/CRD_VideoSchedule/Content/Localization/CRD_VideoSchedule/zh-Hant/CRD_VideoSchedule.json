@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "根據時間表播放影片。",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "在 UEFN 安排影片播放時間表。",
+    "04683984415B4636C2EF72B51E178286": "影片時間表",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "影片時間表"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "填寫時間表時對齊",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "控制影片播放器",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "每日",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "不重複",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "填寫時間表",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "填寫時間表時留間隔",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "每小時",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "連結至應由此時間表控制的影片播放器裝置。",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "重複時間表",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "時間表（測試）",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "開始",
+    "Device_VideoSchedule_Native_C.Start.Description": "開始播放影片時間表。",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "停止",
+    "Device_VideoSchedule_Native_C.Stop.Description": "停止播放影片時間表。",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "測試控制接收",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "測試接收控制影片播放器事件的功能。",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "時間表是否應該重複"
+  }
+}

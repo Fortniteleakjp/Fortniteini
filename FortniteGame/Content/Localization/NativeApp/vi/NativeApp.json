@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} Sao Chép"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Hạ Gục Kép",
+    "Down": "Xuống",
+    "DebugLoadContentFail": "Tải Xuống Thất Bại",
+    "Eliminated": "Đã Hạ Gục",
+    "Elimination": "Lượt Hạ Gục",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Thoát Phiên",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "Bạn không thể chuyển tới Menu Chính trong Phiên Đấu UEFN Mobile.",
+    "UEFNMobileSessionMainMenuError_Title": "Phiên Đấu Di Động",
+    "MultiElimination": "Hạ Gục Liên Tiếp",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Đã có sự cố xảy ra. Hiện sẽ Thoát Phiên Đấu Di Động",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Đã có sự cố xảy ra: {Reason}. Hiện sẽ Thoát Phiên Đấu Di Động",
+    "TripleElimination": "Hạ Gục Ba",
+    "Win": "Chiến Thắng",
+    "UEFNMobileSessionMainMenu_MessageBody": "Bạn không thể vào Sảnh Fortnite trong Phiên Đấu Di Động. Bạn có muốn Thoát không?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Xảy ra lỗi trong khi bật phát lại."
+  },
+  "SpriteCategory": {
+    "Lighting": "Ánh Sáng"
+  }
+}

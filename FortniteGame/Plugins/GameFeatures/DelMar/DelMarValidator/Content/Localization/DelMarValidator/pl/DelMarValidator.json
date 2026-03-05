@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Tor otwarty (niezapętlony), który zawiera więcej niż jedno okrążenie w ramach wyścigu, musi w punkcie kontrolnym RR Meta posiadać włączony Teleport, a tabela „Następne punkty kontrolne” musi zawierać odniesienie wyłącznie do twojego punktu kontrolnego RR oznaczonego jako Linia startowa. {0}",
+    "MultipleFinishLines": "Więcej niż jeden punkt kontrolny RR oznaczono jako Meta. W obrębie toru RR musi znajdować się dokładnie jeden punkt kontrolny oznaczony jako Meta. {0}",
+    "MultipleStartLines": "Więcej niż jeden punkt kontrolny RR oznaczono jako Linia startu. W obrębie toru RR musi znajdować się dokładnie jeden punkt kontrolny oznaczony jako Linia startu. {0}",
+    "NoFinishLine": "Brak punktu kontrolnego RR oznaczonego jako Meta. W obrębie toru RR musi znajdować się dokładnie jeden punkt kontrolny oznaczony jako Meta. {0}",
+    "NoStartLine": "Brak punktu kontrolnego RR oznaczonego jako Linia startu. W obrębie toru RR musi znajdować się dokładnie jeden punkt kontrolny oznaczony jako Linia startu. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Zresetuj i powtórz „Następne punkty kontrolne” dla punktu kontrolnego {0}, aby rozwiązać problem.{1}",
+    "Loop": "Nie możesz wracać do już odwiedzonych punktów kontrolnych w ramach okrążenia. Urządzenie {0} posiada tabelę „Następne punkty kontrolne” odnoszącą się do punktu kontrolnego {1}, do którego {2} odnosi się wcześniej na długości toru. {3}",
+    "DoesntOverlapFinishLine": "Twój główny tor RR musi rozciągać się od punktu kontrolnego Linia startu w RR do punktu kontrolnego Meta w RR. W tej chwili nie przecina punktu kontrolnego RR oznaczonego jako Meta. {0}",
+    "DoesntOverlapStartingLine": "Twój główny tor RR musi rozciągać się od punktu kontrolnego Linia startu w RR do punktu kontrolnego Meta w RR. W tej chwili nie przecina punktu kontrolnego RR oznaczonego jako Linia startu. {0}",
+    "DeadEnd": "{0} nie zawiera jednego lub więcej odniesień „Następne punkty kontrolne”, które ostatecznie prowadzą do punktu kontrolnego Meta w RR. {1}",
+    "Orphan": "Punkt kontrolny {0} nie jest połączony na torze."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Umieszczono więcej niż jednego Menadżera wyścigu RR o tym samym tagu poziomu. Tory muszą zawierać dokładnie jednego Menadżera wyścigu RR. {0}",
+    "MultipleModeManager": "Umieszczono więcej niż jednego Menadżera wyścigu RR. Tory muszą zawierać dokładnie jednego Menadżera wyścigu RR. {0}",
+    "MultipleModeManagerForMode": "Umieszczono więcej niż jednego Menadżera wyścigu RR.Tory muszą zawierać dokładnie jednego Menadżera wyścigu RR.{0}",
+    "NoModeManager": "Nie umieszczono Menadżera wyścigu RR. Tory muszą zawierać dokładnie jednego Menadżera wyścigu RR. Menadżer wyścigu rankingowego RR, menadżer wyścigu dla trybu Speed Run w RR, itp. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Więcej niż jeden tor w RR został oznaczony jako Tor główny. Musi istnieć dokładnie jeden Tor główny. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Żaden tor w RR nie został oznaczony jako Tor główny. Musi istnieć dokładnie jeden Tor główny. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Jeśli punkty kontrolne RR Start i Meta są tym samym punktem kontrolnym, tor uznaje się za Tor zamknięty i wartość parametru „Tor zapętlony” dla krzywej toru głównego musi być ustawiona jako Prawda na karcie Urządzenia w oknie edytora stylów.{0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} posiada drugi tor, ale jest ustawiony jako Tor zapętlony na karcie Urządzenia w oknie edytora stylów.Parametr Tor zapętlony można zastosować tylko do torów głównych albo kosmetycznych.{1}",
+    "DelMarMapCheck_AuthoredBackwards": "Lokalizacja węzła końcowego dla {0} łączy się z torem we wcześniejszym punkcie niż pierwszy węzeł. Ten tor RR mógł zostać skonstruowany odwrotnie niż należy, pod prąd właściwego kierunku toru, ALBO jeden z końców krzywej toru może być zbyt blisko części toru, do której zgodnie z twoim planem gracze nie mają trafiać. Wybierz ten tor RR w widoku perspektywy i sprawdź, czy linie łączące drugiego toru RR zbiegają się z torem zgodnie z oczekiwaniami. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

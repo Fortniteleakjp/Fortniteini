@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "ไม่สามารถขึ้นซิปไลน์ได้",
+    "768283974295183A2A78FCBFBAFE1742": "สร้างซิปไลน์ที่ทำให้ผู้เล่นเคลื่อนที่จากจุดหนึ่งไปยังอีกจุดหนึ่งได้",
+    "C7C925214E0954D490E48DB594FCAE7C": "สร้างซิปไลน์ที่ทำให้ผู้เล่นเคลื่อนที่จากจุดหนึ่งไปยังอีกจุดหนึ่งได้",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "ปรับแต่ง ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "อุปกรณ์ที่สร้างขึ้นชั่วคราวเท่านั้นซึ่งทำหน้าที่เป็นอินเทอร์เฟซเครื่องมือโทรศัพท์สำหรับจุดเส้นโค้งของซิปไลน์",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "ซิปไลน์",
+    "8CE167104123A4888338D3A2901028D8": "ซิปไลน์",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "จุดควบคุมซิปไลน์"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "ใดๆ",
+    "ECreativeTeamType.Any.DisplayName": "ใดๆ",
+    "ClassSlotMetaData.DisplayPattern": "คลาส {0}",
+    "Device_Zipline_C.Color.DisplayName": "สี",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "กำหนดว่าทิศทางด้านหน้าของจุดควบคุมนี้จะมีผลต่อความโค้งของเส้นทางในสถานที่นี้มากน้อยแค่ไหน",
+    "Device_Zipline_C.UseCustomColor.Description": "กำหนดว่าเราจะใช้สีที่กำหนดเองแทนสีเริ่มต้นหรือไม่",
+    "Device_Zipline_C.Color.Description": "กำหนดสีที่กำหนดเองที่จะใช้",
+    "Device_Zipline_C.Selected Class.Description": "กำหนดว่าอาชีพใดสามารถใช้ซิปไลน์นี้ได้",
+    "Device_Zipline_C.Selected Team.Description": "กำหนดว่าทีมใดสามารถใช้ซิปไลน์นี้ได้",
+    "Device_Zipline_C.Invert Class Selection.Description": "หากตั้งค่าไว้ อุปกรณ์จะอนุญาตทั้งหมดยกเว้นอาชีพที่เลือกไว้",
+    "Device_Zipline_C.Invert Team Selection.Description": "หากตั้งค่าไว้ อุปกรณ์จะอนุญาตทั้งหมดยกเว้นทีมที่เลือกไว้",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "เลือกเฉพาะคลาสที่ไม่ได้เลือก",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "เฉพาะทีมที่ไม่ได้เลือก",
+    "ECreativeClassType.NoClass.DisplayName": "ไม่มีคลาส",
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "Device_Zipline_C.OnAttach.DisplayName": "เมื่อยึดตัวกับซิปไลน์",
+    "Device_Zipline_C.OnDetach.DisplayName": "เมื่อปลดตัวเองออกจากซิปไลน์",
+    "Device_Zipline_C.Selected Class.DisplayName": "คลาสที่เลือก",
+    "Device_Zipline_C.Selected Team.DisplayName": "ทีมที่เลือก",
+    "Device_Zipline_C.OnAttach.Description": "ส่งสัญญาณเมื่อเอเจนต์ยึดตัวกับซิปไลน์",
+    "Device_Zipline_C.OnDetach.Description": "ส่งอีเวนต์เมื่อเอเจนต์ปลดตัวเองออกจากซิปไลน์",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "ระดับของเส้นสัมผัส",
+    "TeamIndexMetaData.DisplayPattern": "ทีม {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "ใช้สีที่กำหนดเอง"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "수신 시 게임 종료 대기열에 추가",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "섬 세션의 모든 플레이어를 강제 매치메이킹합니다.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "게임 스트림",
+    "D6605AA24CE9BB51B09055B216381F62": "게임 스트림",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "섬 코드",
+    "4906BC4442B704E71E23E9B9A01FF370": "레벨 포털",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "매치메이킹 포털이 가리킬 섬 코드를 설정합니다.",
+    "413FED52446F49764E9AF9B6A2F275BB": "수신 시 인원 이동"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "수신 시 사용 안 함",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "수신 시 사용",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "게임 종료 시 대기",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "인원 이동"
+  }
+}

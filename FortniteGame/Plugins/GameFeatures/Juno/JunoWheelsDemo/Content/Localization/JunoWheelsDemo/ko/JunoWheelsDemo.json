@@ -1,0 +1,37 @@
+{
+  "": {
+    "3DFDE81643E7D20A34FDAFB767995803": "방향 변경",
+    "92652D8545B1CA8018D6C9B4F59A3B4B": "바퀴를 몇 개 사용해서 주행을 시작하세요.",
+    "8952DE4B4A423626BB418EBD36B5E02C": "대형 바퀴를 사용해서 제대로 움직여 보세요!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "08410B7445494CD7AE6943A995EAB820": "기존 구조물과 움직이는 사물에 대형 바퀴를 부착합니다.",
+    "0543AC9A42B83420E765149897CA51A4": "기존 구조물과 움직이는 사물에 소형 바퀴를 부착합니다.",
+    "765C88EC48D17A74F9E180A8750ECD23": "대형 전동 바퀴",
+    "E90B23314823AB3C6F5B118AB04CD994": "대형 기본 바퀴",
+    "0802974540A98C76D4589EB0BBDC7B7E": "대형 회전식 바퀴",
+    "58CAD8CD489BA279918B91B15ECD65E4": "중형 전동 바퀴",
+    "E21006B74A7C6000CEB9DCA65F94F071": "중형 회전식 바퀴",
+    "95DF699B40FEBEF7CD25DDBA6B4DA86C": "소형 전동 바퀴",
+    "B8AAB3E0475AA97DB27C7097EBFD8473": "소형 기본 바퀴",
+    "97B775654F98D4839EFA95AB36531855": "소형 회전식 바퀴"
+  },
+  "Juno_UpdateItemData": {
+    "E07BA5004580C1D7181D4B97C2EE64F2": "운전석으로부터 신호를 받으면 회전하고 방향을 전환합니다. 전원 공급기에서 초당 약간의 전력을 사용합니다.",
+    "5D139B9549BF88A29F75F39FC0CF4ED3": "운전석으로부터 신호를 받으면 회전하고 방향을 전환합니다. 전원 공급기에서 초당 적정 수준의 전력을 사용합니다.",
+    "2311D4DC4B5257A9588B5CA049A04E77": "운전석으로부터 신호를 받으면 회전하고 방향을 전환합니다. 전원 공급기에서 초당 일부 전력을 사용합니다.",
+    "72B3B2154A806CE2EB7679AE4A5C1885": "운전석으로부터 신호를 받으면 회전합니다. 전원 공급기에서 초당 약간의 전력을 사용합니다.",
+    "5A7429E14FB631A613A04DBD1BD74486": "운전석으로부터 신호를 받으면 회전합니다. 전원 공급기에서 초당 적정 수준의 전력을 사용합니다.",
+    "40ABDE8D4776B407C523C784E862FA58": "운전석으로부터 신호를 받으면 회전합니다. 전원 공급기에서 초당 일부 전력을 사용합니다."
+  },
+  "PP_CraftingFormulas_WheelPlacer": {
+    "WheelPowerLarge_DisplayName": "대형 전동 바퀴",
+    "WheelLarge_DisplayName": "대형 기본 바퀴",
+    "WheelSteerLarge_DisplayName": "대형 회전식 바퀴",
+    "WheelPowerMedium_DisplayName": "중형 전동 바퀴",
+    "WheelSteerMedium_DisplayName": "중형 회전식 바퀴",
+    "WheelPowerSmall_DisplayName": "소형 전동 바퀴 ",
+    "Wheel_DisplayName": "소형 기본 바퀴",
+    "WheelSteerSmall_DisplayName": "소형 회전식 바퀴"
+  }
+}

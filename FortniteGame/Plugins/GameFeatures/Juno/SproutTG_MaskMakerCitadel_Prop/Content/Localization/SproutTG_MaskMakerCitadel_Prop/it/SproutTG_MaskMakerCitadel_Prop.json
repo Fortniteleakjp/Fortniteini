@@ -1,0 +1,48 @@
+{
+  "": {
+    "31FAE6BD73F7D30C53E0C058C7CA42CF": "Poltrona del dominio di Daigo",
+    "31FAE6BD73F7D30C53E0C058CEAF2645": "Poltrona del dominio di Daigo",
+    "725D91602604049153E0C058C7CA42CF": "Letto del dominio di Daigo",
+    "725D91602604049153E0C058CEAF2645": "Letto del dominio di Daigo",
+    "C2EAAFD6C82FC31853E0C058C7CA42CF": "Panca del dominio di Daigo",
+    "C2EAAFD6C82FC31853E0C058CEAF2645": "Panca del dominio di Daigo",
+    "7DA1D85A596CBE4353E0C058C7CA42CF": "Mobiletto del dominio di Daigo",
+    "7DA1D85A596CBE4353E0C058CEAF2645": "Mobiletto del dominio di Daigo",
+    "35D8B7A52D98408453E0C058C7CA42CF": "Lanterna da soffitto del dominio di Daigo",
+    "35D8B7A52D98408453E0C058CEAF2645": "Lanterna da soffitto del dominio di Daigo",
+    "113ED41A7D5B16D053E0C058C7CA42CF": "Barbecue del dominio di Daigo",
+    "113ED41A7D5B16D053E0C058CEAF2645": "Barbecue del dominio di Daigo",
+    "4EB40FD8AF54A5BA53E0C058C7CA42CF": "Stendardo decorativo del dominio di Daigo",
+    "4EB40FD8AF54A5BA53E0C058CEAF2645": "Stendardo decorativo del dominio di Daigo",
+    "EABDE35A4EEE0CC753E0C058C7CA42CF": "Maschera decorativa del dominio di Daigo",
+    "EABDE35A4EEE0CC753E0C058CEAF2645": "Maschera decorativa del dominio di Daigo",
+    "3DF46819471DBC5653E0C058C7CA42CF": "Gong del dominio di Daigo",
+    "3DF46819471DBC5653E0C058CEAF2645": "Gong del dominio di Daigo",
+    "4CBA8D5B52EA14B753E0C058C7CA42CF": "Lanterna appesa del dominio di Daigo",
+    "4CBA8D5B52EA14B753E0C058CEAF2645": "Lanterna appesa del dominio di Daigo",
+    "A593B69E9C2924F053E0C058C7CA42CF": "Vetrina del dominio di Daigo",
+    "A593B69E9C2924F053E0C058CEAF2645": "Vetrina del dominio di Daigo",
+    "D12ECD89C04F886853E0C058C7CA42CF": "Stendardo da interno del dominio di Daigo",
+    "D12ECD89C04F886853E0C058CEAF2645": "Stendardo da interno del dominio di Daigo",
+    "2CBA7A26336B14A053E0C058C7CA42CF": "Panca decorata del dominio di Daigo",
+    "2CBA7A26336B14A053E0C058CEAF2645": "Panca decorata del dominio di Daigo",
+    "3546D1FA55E907EB53E0C058C7CA42CF": "Portale decorato del dominio di Daigo",
+    "3546D1FA55E907EB53E0C058CEAF2645": "Portale decorato del dominio di Daigo",
+    "AE7B30427C9D186453E0C058C7CA42CF": "Lanterna decorata del dominio di Daigo",
+    "AE7B30427C9D186453E0C058CEAF2645": "Lanterna decorata del dominio di Daigo",
+    "E2D6175399D0918B53E0C058C7CA42CF": "Lanterna da esterno del dominio di Daigo",
+    "E2D6175399D0918B53E0C058CEAF2645": "Lanterna da esterno del dominio di Daigo",
+    "B3E17695DD6308F253E0C058C7CA42CF": "Credenza del dominio di Daigo",
+    "B3E17695DD6308F253E0C058CEAF2645": "Credenza del dominio di Daigo",
+    "F7E45FABA0BEB93953E0C058C7CA42CF": "Armadietto del dominio di Daigo",
+    "F7E45FABA0BEB93953E0C058CEAF2645": "Armadietto del dominio di Daigo",
+    "E65E56C2BE958FAE53E0C058C7CA42CF": "Tavolo del dominio di Daigo",
+    "E65E56C2BE958FAE53E0C058CEAF2645": "Tavolo del dominio di Daigo"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Premi E per modificare"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Personalizza"
+  }
+}

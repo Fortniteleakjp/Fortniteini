@@ -1,0 +1,32 @@
+{
+  "": {
+    "2A3DA133450DE1F4E7762EBFC3C8F144": "타락한 도끼",
+    "5916DF4549227279E8AD35931888404D": "타락한 석궁",
+    "9875D91146C4D8408E03BAAEFDF0BB3F": "타락한 쌍단검",
+    "F32A2C4A460D4C6BC10DD7BD49D31F18": "타락한 망치",
+    "9695AF99464F0C9FEC50C3BE822C43AF": "타락한 마체테",
+    "76AEC6DD4CF9D18F7BFDC9BCFAEAA530": "타락한 곡괭이",
+    "69115BA249B1068F42E315B62BF89A6C": "타락한 플라스마 권총",
+    "8CC4CDD3405EAA085765AAB2E319DF1D": "타락한 창",
+    "934302ED42B3386302EC7F9B113AC1FA": "타락한 검",
+    "4F041E594D370BBE74E3BDA4A7A4BBAF": "<emphA>세공된 타락한 수정</>을 사용해 무기를 만드세요.",
+    "4709780A4E901F20D82492ADE6339182": "<text color=\"E2FCFFFF\">세공된 타락한 수정</>으로 무기 제작",
+    "C000930E48E063391FFEDFA82B24B571": "몇 초마다, 회피하면 접촉 시 폭발하며 적을 추적하는 가면을 소환합니다.",
+    "1698974C46A90E20604D21BB850149FE": "첨탑의 분노 IV",
+    "96F30C124D97236C1039428F0ED3FB2C": "첨탑의 분노 IV",
+    "9AF379BD41AED1FFBDBC898B76D03198": "첨탑의 영감을 크게 받았습니다.",
+    "BD73B5584E28FBB049C627BCB4B934BA": "<EmphA>타락한 수정</>과 <EmphA>보석 세공기</>가 필요합니다.",
+    "19CC8E6C4A0EBC05523D13B480BC3BFA": "제작 자원"
+  },
+  "Juno_GameplayItemCraftingFormulas_CutCorruptedCrystalMaterial": {
+    "CutCorruptedCrystal_DisplayName": "세공된 타락한 수정",
+    "EssenceOfSpireWrathIV_DisplayName": "첨탑 분노 IV"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "A623134E47F36B4867D2559117996AF6": "세공된 타락한 수정"
+  },
+  "Juno_UpdateItemData": {
+    "89238479458E64E9C358C986EFA5832A": "무섭도록 날카롭습니다.",
+    "6BA4926A4017F26CA4BA1E9607643091": "소형 무기를 제작하는 데 사용합니다. 타락한 수정을 연마해서 만듭니다."
+  }
+}

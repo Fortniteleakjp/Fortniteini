@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Classe de gadget manquante.\r\n\r\nAllez dans l'implémentation de votre projet et trouvez l'espace de jeu blueprint utilisé.\r\n\r\nDéfinissez 'CaptureToolWidgetClass' sur le composant d'espace de jeu SparksCommonUtils au gadget que vous souhaitez créer ici.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} ignored event (no NPS component available)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} increased pool size: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} increased pool size: {size}"
+  }
+}

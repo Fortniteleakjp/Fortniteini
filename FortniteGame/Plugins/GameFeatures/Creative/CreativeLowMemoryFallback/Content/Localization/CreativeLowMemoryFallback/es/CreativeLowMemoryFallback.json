@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "Memoria baja",
+    "Return to main menu reason (default)": "Se ha alcanzado un nivel crítico de memoria. La sesión ha finalizado.\n ¡Se ha guardado tu último progreso! Vuelve al modo Creativo y continúa donde lo dejaste.",
+    "Warning toast description (default)": "Esta sesión podría cerrarse de forma inesperada."
+  }
+}

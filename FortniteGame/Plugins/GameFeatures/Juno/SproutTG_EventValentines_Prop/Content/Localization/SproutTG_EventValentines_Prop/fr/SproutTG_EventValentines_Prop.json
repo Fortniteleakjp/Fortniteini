@@ -1,0 +1,39 @@
+{
+  "": {
+    "AEBC2E7142F793C2CA6937BA95C9EC1A": "Aaaah, Briquopolis, la ville de l'amour ! Mince, le surnom est déjà pris ? Bon, bah, la ville des baguettes fantaisie, des fleurs et des cartes de Saint-Valentin !",
+    "37AABB8141D9DEECEE0D3B8B714D0030": "Demander une tâche à Tournesol à son stand de jardinage",
+    "6BA4C62B4AAA7B08AEA1EB953E661B58": "Demander une tâche à Tournesol à son stand de jardinage",
+    "64C9B3296032154453E0C058C7CA42CF": "Boîte de chocolats",
+    "9A7B9AC3461B11F439FEAFAEC6E43D50": "Le cours a commencé.",
+    "03EBE76045EAE8F786C729808E4D2BCE": "Cupidon",
+    "9E16B3B7453E93240A8414869653CB88": "Surprise de Cupidon",
+    "29F7967C4550EECA69A5FDA64B817588": "Tout le monde adore les fleurs ! ",
+    "376ECA7C41B55ACBBCF16BAE100DF5CC": "Donner une carte de Saint-Valentin à quelqu'un ou la placer dans un casier à colis",
+    "507F6FDE478BE9B00EB392BE5B06FB92": "Donner une carte de Saint-Valentin à quelqu'un ou la placer dans un casier à colis",
+    "2CDB6B0A44269ED99A5ADCBA9E7E7FC8": "Offrir des fleurs à quelqu'un ou les placer sur un comptoir",
+    "F946D3964604AD103163569CA5CA5E04": "Offrir des fleurs à quelqu'un ou les placer sur un comptoir",
+    "0DB6D692480865C7A09B54985D80BB09": "Inventaire plein",
+    "90EBD0734AA72564D0165C95714F1C4E": "Rien de tel pour exprimer vos sentiments envers quelqu'un que de les coucher sur du papier.",
+    "64C9B3296032154453E0C058CEAF2645": "SBID_Prop_ETVS_Decor_Clutter_S_BoxChocolate_01_A",
+    "8B990943471C23B967A50A9A48C312A7": "Sentir",
+    "97D08AB44A2D3F400568D1906C04AA35": "Prendre",
+    "80C0DB794D8561804EE976B711701188": "Ces baguettes fantaisie ont été faites main par des artisans italiens. Elles sont imprégnées du pouvoir de l'amour, de l'amitié et de la mignonnerie.",
+    "240296D34A8B03582A71CBA1A369EA4B": "Utiliser une baguette fantaisie dans 3 commerces différents",
+    "29C464744AA3038C9621F2AF0B115C88": "Utiliser une baguette fantaisie dans 3 commerces différents",
+    "3A0F0A254A3ADA4FECD8ECA9C47EC1E4": "Carte de Saint-Valentin",
+    "704B4EB54F2C1A2F3508CB9AFDA42975": "Rendez-vous au stand de jardinage de Tournesol s'il vous faut plus de baguettes !",
+    "D8A730004089389760C0A38A6A265835": "Rendez-vous au stand de jardinage de Tournesol s'il vous faut plus de cartes !",
+    "A7B8B9EC422480F76D21AFBE6D42F521": "Rendez-vous au stand de jardinage de Tournesol s'il vous faut plus de fleurs !"
+  },
+  "Juno_UpdateItemData": {
+    "13FAF2D243D7D1541E628CB91CEF3A9C": "<3",
+    "EF885A75430C9C308D771DBFFF64FC3C": "<3",
+    "B1FFB9C94560B6B62AB460968556B64F": "Une unique rose.",
+    "FE4FB0184009CA6EFF389DA8071F569C": "Baguette fantaisie",
+    "D630569D4B780264EF7D899D3DC39BA4": "Rose",
+    "77B429CD4028696A3FF68DBFFB715749": "Exprimez votre amour.",
+    "B53705404FDC60A19D547F92A8480886": "Exprimez votre amour.",
+    "DD9777784AF13E3A94027C8C528539B3": "Baguette d'étoile stellaire",
+    "77C699A94FDE52D87D430CB034BD5AF8": "Vous sentez ça ? C'est l'odeur de l'amour."
+  }
+}

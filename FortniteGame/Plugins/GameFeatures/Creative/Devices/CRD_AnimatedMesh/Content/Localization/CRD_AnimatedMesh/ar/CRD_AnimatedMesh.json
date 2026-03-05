@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "شبكة عظمية يمكنها تشغيل رسوم متحركة",
+    "477037CE4A29EB50C5A6E5B004123435": "شبكة متحركة",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "شبكة متحركة",
+    "9D01ABCB4C57956061A5B8BD095D856B": "تطبيق الرسوم المتحركة على الشبكة العظيمة",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "إيقاف مؤقت للرسوم متحركة",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "إيقاف مؤقت للرسوم متحركة.",
+    "ED9506B7426508B1B97535AF002D07C9": "تشغيل الرسوم المتحركة",
+    "4E6399154374E72C93B24A9FB9E86176": "تشغيل عكس الرسوم المتحركة",
+    "06C0CF2E41126953274F7B964A00DAE4": "مُشغَّل حاليًا",
+    "971EF1A7489930888171E8A553647F92": "لتشغيل الرسوم المتحركة بالعكس.",
+    "070EC9F24AA5A04C8C685397F8E618AF": "لتشغيل الرسوم المتحركة.",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "حركة عكسية",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "متوقفة"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "رسوم متحركة",
+    "Device_AnimatedMesh_C.InitialState.Description": "لتحديد تشغيل الرسوم المتحركة في البداية من عدمه.",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "الحالة الأولية",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "الحلقة",
+    "Device_AnimatedMesh_C.PlayRate.Description": "استخدم المُضاعِف للتحكم في سرعة إعادة تشغيل الرسوم المتحركة.",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "إيقاف مؤقت",
+    "Device_AnimatedMesh_C.Pause.Description": "إيقاف مؤقت للرسوم المتحركة.",
+    "Device_AnimatedMesh_C.Play.DisplayName": "تشغيل",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "تقييم اللعب",
+    "EAnimationPlayState.Playing.DisplayName": "مُشغَّل حاليًا",
+    "Device_AnimatedMesh_C.Reverse.Description": "لتشغيل الرسوم المتحركة بالعكس.",
+    "Device_AnimatedMesh_C.Play.Description": "لتشغيل الرسوم المتحركة.",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "معكوس",
+    "EAnimationPlayState.Reversing.DisplayName": "حركة عكسية",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "شبكة شبحية",
+    "EAnimationPlayState.Stopped.DisplayName": "متوقفة",
+    "Device_AnimatedMesh_C.Animation.Description": "الرسوم المتحركة للعب.",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "الشبكة العظيمة لتشغيل الرسوم المتحركة.",
+    "Device_AnimatedMesh_C.Loop.Description": "ما إذا كان إعادة تشغيل الرسوم المتحركة ستكرر بمجرد أن تصل إلى النهاية."
+  }
+}

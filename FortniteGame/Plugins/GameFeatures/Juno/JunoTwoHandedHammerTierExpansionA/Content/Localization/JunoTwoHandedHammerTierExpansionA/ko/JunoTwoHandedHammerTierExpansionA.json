@@ -1,0 +1,37 @@
+{
+  "": {
+    "28E72C38425C3B8AB2AA5EA8E5AD1A15": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "57A539DD47CDF8395F0088A467105B02": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "B9FE580C4925E2BEE1E22F98C900FB65": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "F90A1F3346CC9875EE491F8829E2FCF8": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "3DEA426B44A835F144B182A957DA5EBA": "에픽 전쟁 망치입니다. 이 무거운 강타 무기로 상대를 날려 버리세요.",
+    "14FF72094B53E97CB9F429B87FBACFD0": "전쟁 망치 열 번에 안 넘어가는 나무는 없습니다.",
+    "FA3F83A648BF69AE6614108F5CD80077": "끝장냈어.",
+    "8B20EDAD47A6DABF370409A594644EFC": "희귀 전쟁 망치입니다. 이 무거운 강타 무기로 상대를 날려 버리세요.",
+    "4174AF8D49365E67706702BAC373BB4F": "고급 전쟁 망치입니다. 이 무거운 강타 무기로 상대를 날려 버리세요.",
+    "A40AF6404A4825AF67DBF1BD3BF5C248": "다른 것들보다 무겁습니다.",
+    "D4B3E1D842FC7E9DB09905BCA958CB7E": "승리는 망치로 얻어내야 제맛이죠."
+  },
+  "Juno_BoostedItemNames_TwoHandedHammerTierExpansionA": {
+    "War_Hammer_T5_T5_Honed_Bamboo_DisplayName": "대나무 전쟁 망치",
+    "War_Hammer_T6_T6_Honed_Bamboo_DisplayName": "대나무 전쟁 망치",
+    "War_Hammer_T7_T7_Honed_Bamboo_DisplayName": "대나무 전쟁 망치",
+    "War_Hammer_T8_T8_Honed_Bamboo_DisplayName": "대나무 전쟁 망치",
+    "War_Hammer_T7_T7_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 전쟁 망치",
+    "War_Hammer_T8_T8_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 전쟁 망치",
+    "War_Hammer_T5_T5_Honed_Kozustone_DisplayName": "코주스톤 전쟁 망치",
+    "War_Hammer_T6_T6_Honed_Kozustone_DisplayName": "코주스톤 전쟁 망치",
+    "War_Hammer_T7_T7_Honed_Kozustone_DisplayName": "코주스톤 전쟁 망치",
+    "War_Hammer_T8_T8_Honed_Kozustone_DisplayName": "코주스톤 전쟁 망치",
+    "War_Hammer_T6_T6_Honed_Steel_DisplayName": "강철 전쟁 망치",
+    "War_Hammer_T7_T7_Honed_Steel_DisplayName": "강철 전쟁 망치",
+    "War_Hammer_T8_T8_Honed_Steel_DisplayName": "강철 전쟁 망치"
+  },
+  "Juno_UpdateItemData": {
+    "04FB67D4444ED093AE4F1DBC81F23A1E": "전설 전쟁 망치입니다. 이 무거운 강타 무기로 상대를 날려 버리세요.",
+    "05BE2FD048E3A4B77D62B79D36CC3EC6": "전쟁 망치",
+    "972268DD4AFBA4F71925EABA369E28C3": "전쟁 망치",
+    "993B8EED481C3F515FA04BA6FAEAF045": "전쟁 망치",
+    "FEFA7012457936A9E78946843E2A1D15": "전쟁 망치"
+  }
+}

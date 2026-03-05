@@ -1,0 +1,24 @@
+{
+  "": {
+    "589BC8C545D9D766C0F02DAA67AF848E": "Accrochez des ballons plus grands et envolez-vous !",
+    "46C7F27B4A5570C7071636BB7EF37E8D": "Un super as de la gonflette.",
+    "2FB1FBF64A8E9BE1A2F1C7BA5B611584": "Un as de la gonflette.",
+    "644DE9964A9EB1D0E32D6CB2C74B7685": "Mieux qu'une bouée. C'est un ballon ! "
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F022CD50420DB9CA0BC872AA6D67BBB5": "Un grand ballon à déployer à utiliser avec le système de connexion par canal. Il peut être déployé et s'envoler grâce aux contrôles des canaux.",
+    "812DFE244981B3CEE5E8E0ABBA8D2940": "Un petit ballon à déployer à utiliser avec le système de connexion par canal. Il peut être déployé et s'envoler grâce aux contrôles des canaux.",
+    "2AA87E9E40F4F4D87E02BBB60A2F4230": "Grand ballon\nà activation",
+    "7988ADD74C897E641532648A25A6DF3C": "Petit ballon\nà activation",
+    "B57EF9BD4D82A829083838A7E5BE2085": "Un grand ballon à attacher à des structures existantes et des objets dynamiques.",
+    "B3815C7846E7DD14D5367CAC8F99EB48": "Un petit ballon à attacher à des structures existantes et des objets dynamiques.",
+    "000401864743389FEA88AFA4F5CC7938": "Grand ballon",
+    "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Petit ballon"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "ActivatedBalloon_DisplayName": "Ballon à activation",
+    "ActivatedBalloonLarge_DisplayName": "Grand ballon\nà activation",
+    "BalloonLarge_DisplayName": "Grand ballon",
+    "Balloon_DisplayName": "Petit ballon"
+  }
+}

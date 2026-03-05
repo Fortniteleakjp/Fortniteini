@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "بوابة متجر العناصر",
+    "A636CB9048F6D10A27FAE2ACA3336261": "بوابة متجر العناصر",
+    "ECA01A1C4D96960EA267CEA75C458F15": "بوابة متجر العناصر",
+    "F0DA7B7A455C002838011E9950021E4F": "بوابة متجر العناصر",
+    "F6BA046441D88E68E7317EB0D779DDEE": "بوابة متجر العناصر",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "افتح المتجر",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "افتح المتجر",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "افتح المتجر عند الاستلام",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "افتح المتجر: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "افتح المتجر: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "يفتح المتجر للاعب المشغل عند الاستلام على القناة المحددة.",
+    "18E3F3AD48251A9142A05A8349684E89": "يفتح هذا الجهاز متجر العناصر عند تنشيطه.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "يفتح هذا الجهاز متجر العناصر عند تنشيطه.",
+    "79656CFD409EE4E11B68988ACDCA8585": "يفتح هذا الجهاز متجر العناصر عند تنشيطه.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "يفتح هذا الجهاز متجر العناصر عند تنشيطه.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "يفتح هذا الجهاز متجر العناصر عند تنشيطه."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "دائمًا",
+    "EEnabledOnPhase.Create Only.DisplayName": "إنشاء فقط",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "لتحديد مراحل اللعبة التي سيتم خلالها تمكين الجهاز. يتضمن ما قبل اللعبة جميع المراحل قبل بدء اللعبة (انتظار اللاعبين في حجرة الانتظار في الجزر المميزة والعد التنازلي لبدء اللعبة).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "لتحديد طول مدة التفاعل المطلوبة لتنشيط الجهاز.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "تعطيل",
+    "Device_Store_C.Disable.DisplayName": "معطّل",
+    "Device_Store_C.Disable.Description": "لتعطيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "Device_ItemShop_V2_C.Disable.Description": "لتعطيل الجهاز.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "تمكين",
+    "Device_Store_C.Enable.DisplayName": "تمكين",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "التفعيل في المرحلة",
+    "Device_Store_C.Enable.Description": "لتفعيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "Device_ItemShop_V2_C.Enable.Description": "لتفعيل الجهاز.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "بيئة اللعب فقط",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "وقت التفاعل",
+    "EEnabledOnPhase.None.DisplayName": "لا شيء",
+    "Device_Store_C.OpenStore.DisplayName": "فتح المتجر",
+    "Device_Store_C.OpenStore.Description": "يفتح المتجر للاعب المشغل عند الاستلام على القناة المحددة.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "ما قبل اللعبة فقط"
+  }
+}

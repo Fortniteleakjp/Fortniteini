@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Płyta naciskowa",
+    "53154EE74D5D376B3B686BB88086E6C1": "Płyta aktywująca"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "Przycisk, który wymaga stania, by włączać kanały. Bez nacisku przestaje działać! Umożliwia wysyłanie sygnału włącz/wyłącz poprzez połączenie z kanałem.",
+    "5105BE2640EF2F340BFDACBBD992B887": "Przycisk, który wymaga stania, by włączać kanały. Jednak w przeciwieństwie do płyty naciskowej, nie musi być ciągle wciśnięty!",
+    "3EE5611646661AE4DCB8A286F3C86C08": "Przełącznik aktywowany stopami.",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Płyta naciskowa",
+    "72407BB74A3BB4361BC8138E65BE9602": "Płyta aktywująca",
+    "B007D95344C458E23652D897346A66AE": "Czasami trochę nacisku działa tam, gdzie zawodzi dyplomacja."
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Płyta naciskowa",
+    "TriggerPlate_DisplayName": "Płyta aktywująca"
+  }
+}

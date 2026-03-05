@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "لوح",
+    "56A03FF7436EC20DE829418960AB9A08": "لوح",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "العد التنازلي",
+    "54EF511B43B2E65B7886F99DA6DD9816": "العد التصاعدي",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "تم التعطيل",
+    "AE5B62204B1FB18FD103519F4F38C337": "إذا تم التعيين، فلن يرسل اللوح إشارة إلا إذا كان البث الذي يصل إلى طابعه الزمني هو البث المحدد.",
+    "77D7DD294A81C19292A44388D4D1A105": "بث غير صالح",
+    "15CAFDE0497C42D493DB10828B7326A0": "يرسل إشارة عندما يصل مقطع الفيديو قيد التشغيل حاليًا إلى طابع زمني محدد.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "يرسل إشارات عندما يصل البث قيد التشغيل إلى نقطة في إعادة التشغيل.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "تعيين المؤقت على اللوح ليعد تنازليًا إلى صفر أو تصاعديًا إلى الوقت المعين.",
+    "47A0B0E747D41C694384768BB2B392E6": "بث محدد",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "وقت (بالمللي ثانية)",
+    "2ED1F344488EB2612D092586C1725442": "وقت (بالدقائق)",
+    "5750BFD542FFB083102152A0A1BC2154": "وقت (بالثواني)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "قراءات الوقت",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "الإرسال عند الوصول إلى الوقت",
+    "FF2400934566662794B5DB97A137A842": "يرسل إشارة على هذه القناة عندما يصل مؤقت الجهاز إلى نهاية الوقت.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0}م.ث",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0}ث",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "تعطيل",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "لتعطيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "تمكين",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "لتفعيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "بلغت الوقت",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "يرسل إشارة على هذه القناة عندما يصل مؤقت الجهاز إلى نهاية الوقت."
+  }
+}

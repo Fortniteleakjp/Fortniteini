@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Une corniche pouvant être placée pour permettre aux joueurs de faire des sauts d'escalade.",
+    "EFF5545942BE6E906FA09492A029002C": "Une corniche pouvant être placée pour permettre aux joueurs de faire des sauts d'escalade.",
+    "39AFB32446569697402D1D827A10908B": "Une corniche pouvant être placée pour permettre aux joueurs de faire des sauts d'escalade.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Désactiver si reçu depuis",
+    "39698C45412DE4DC33043394E36BCF15": "Désactive l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Activer si reçu depuis",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Active l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Anneau de métal",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Aucun",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Corniche à placer",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Corniche à placer",
+    "97078157436AE317038738A4DBF33EAE": "Poutre de bois"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Maillage personnalisé",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Définit si la corniche est activée et visible pendant le jeu.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Désactiver",
+    "Device_PlaceableLedge_C.Disable.Description": "Désactive l'appareil.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Activer",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Activer pendant le jeu",
+    "Device_PlaceableLedge_C.Enable.Description": "Active l'appareil.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Si défini sur Oui, cet appareil utilise un anneau pouvant être gravi au lieu d'une poutre. ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Type de maillage de corniche",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Anneau de métal",
+    "ELedgeMeshSelections.None.DisplayName": "Aucun",
+    "BoolMetaData.FalseDisplayName": "Non",
+    "BoolMetaData.TrueDisplayName": "Oui",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "Définit le maillage personnalisé à utiliser sur la corniche si l'option de maillage est définie sur Personnalisé.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Poutre de bois"
+  }
+}

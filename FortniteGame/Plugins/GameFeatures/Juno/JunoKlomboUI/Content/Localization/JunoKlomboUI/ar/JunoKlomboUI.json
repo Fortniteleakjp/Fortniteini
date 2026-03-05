@@ -1,0 +1,29 @@
+{
+  "": {
+    "66154818419BE970410E9AA46BE0EC33": "الشاطئ",
+    "3B04DA4A43DB0505833073946BE0E91A": "إلغاء",
+    "B3C2115241A075BB82A745A3241666B5": "اندفاع",
+    "1BA471C04115C1F647866CA5E30F712E": "تأكيد",
+    "FB0CBD6B4DBA137A8A5FF3A049682BF5": "نزول",
+    "8EB05A024E30B03058E9D7B7303C9D4B": "هل ترغب في تقديم <ToUpperEmphasis>{ResourceCount} المزيد {ResourceName}</> لفتح المزار؟",
+    "E086D52E4AD9E74DAFFA0B917A5B5F66": "هل ترغب في تقديم <ToUpperEmphasis>{ResourceCount} {ResourceName}</> لفتح المزار؟",
+    "80A47EF643DC7A204A4AE889FEA80E6C": "إخفاء عناصر التحكم",
+    "F829A6A642555A53297941B1EF96F45A": "الغابة",
+    "3D3A30324F017B24F7B916B6107A218F": "كلومبو",
+    "A13BC3C84693A9765D9AACAB19275AF1": "إطلاق",
+    "1ACCF6634CB477A4C0A1E280E8BFEC97": "الجُزر المفقودة",
+    "1C585D5F410E69692075D5982E22F8BD": "الجُزر المفقودة",
+    "67A8FF8A493260B59A645C99BB4584EF": "الجُزر المفقودة",
+    "C1E0B58C461632533E3812A1A23D0CCB": "الجُزر المفقودة",
+    "49734683475414336C91D8AD73FF1E74": "جبال",
+    "62E2265F42110C238FAC09B9D90C03B7": "السهول",
+    "FFDDB40B47F25C29497178ADC3503C49": "مزار الصدع",
+    "15F73FAE47C2EDCB5A34EFB10FAB8DBE": "إظهار عناصر التحكم",
+    "1746A88A4D0A969F41E3A49CA244DCB0": "هذا سيدمّر المخطط من العالم",
+    "FFD701D443F93768BDAD919710452E9B": "المكنسة",
+    "086D18C74CA99D0CF992BC8F5B677819": "المكنسة (اضغط باستمرار)",
+    "3BE48D82410FF27B492EFC8DC2299D18": "ستحتاج إلى <ToUpperEmphasis>{ResourceCount} المزيد {ResourceName}</> لفتح المزار!",
+    "661E6805481F6738D4DCA0B9D84A6605": "ستحتاج إلى <ToUpperEmphasis>{ResourceCount} {ResourceName}</> لفتح المزار!",
+    "A4AF39CA42D7D3C1CC703E94555D174C": "ستحتاج إلى <ToUpperEmphasis>{ResourceCount} {ResourceName}</> لفتح المزار! هل ترغب في تقديم <ToUpperEmphasis>{InventoryCount} {ResourceName}</> الآن والعودة بالبقية؟"
+  }
+}

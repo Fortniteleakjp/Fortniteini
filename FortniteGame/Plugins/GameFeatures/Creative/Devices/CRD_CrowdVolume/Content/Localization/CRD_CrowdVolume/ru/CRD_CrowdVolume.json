@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Область с толпой",
+    "CBA0009043A15E05890AC68F8056B814": "Область с толпой",
+    "E1067A64427AA66B822488B1D608CD94": "Область с толпой",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Выключить",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "BFBBEB534C644E161C3AE491501828F6": "Включить",
+    "650644994C28CFD38E31829A56E3464F": "Включает устройство при получении сигнала по выбранному каналу.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Создаёт толпу, которая будет вас подбадривать.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Создаёт толпу, которая будет вас подбадривать.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Создаёт толпу, которая будет вас подбадривать.",
+    "7EDB5C9C49AC528E948643B2245928A7": "Данное устройство позволяет создавать толпу.",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=клетка, few=клетки, many=клеток, other=клетки)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=клетка, few=клетки, many=клеток, other=клетки)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=клетка, few=клетки, many=клеток, other=клетки)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Всегда",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Расположение персонажей",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Случайные значения угла персонажа",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Случайные значения размера персонажа",
+    "EEnabledOnPhase.Create Only.DisplayName": "Только при создании",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Плотность толпы",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Определяет, на каких этапах игры устройство будет активно. Стадия «До начала игры» включает в себя все этапы, предшествующие началу игры (ожидание игроков на рекомендуемых островах и отсчёт до начала игры).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Выключить",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Включить",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Активно во время фазы",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Включает устройство при получении сигнала по выбранному каналу.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Только во время игры",
+    "EEnabledOnPhase.None.DisplayName": "Нет",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "До начала игры",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Определяет плотность толпы.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Определяет точность расположения участников толпы на сетке.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Определяет характер случайности при выборе размера участников толпы.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Определяет характер случайности при выборе направления взгляда участников толпы.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Длина области (в клетках).",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Высота области (в клетках).",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Ширина области (в клетках).",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Длина области",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Высота области",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Ширина области"
+  }
+}

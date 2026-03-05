@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "群眾空間區塊",
+    "CBA0009043A15E05890AC68F8056B814": "群眾空間區塊",
+    "E1067A64427AA66B822488B1D608CD94": "群眾空間區塊",
+    "4C46C8CA41311206CF70698F2FE39BEB": "停用",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "在接收選定頻道的訊號時停用裝置。",
+    "BFBBEB534C644E161C3AE491501828F6": "啟用",
+    "650644994C28CFD38E31829A56E3464F": "在接收選定頻道的訊號時啟用裝置。",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "生成一群群眾為你歡呼。",
+    "2253A34C49B07B7CD62CB18E4F691187": "生成一群群眾為你歡呼。",
+    "F4DA79224C576591D48AF68C10A6FD46": "生成一群群眾為你歡呼。",
+    "7EDB5C9C49AC528E948643B2245928A7": "此裝置可用來設定群眾。",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=塊地塊, other=塊地塊)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=塊地塊, other=塊地塊)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=塊地塊, other=塊地塊)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "始終",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "角色對對齊度",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "角色角度隨機性",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "角色比例隨機性",
+    "EEnabledOnPhase.Create Only.DisplayName": "僅限建立",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "群眾密度",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "決定啟用裝置的遊戲階段。遊戲前包含遊戲開始前的所有階段（特色島嶼的玩家等待大廳與遊戲開始倒數）。",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "停用",
+    "BP_CrowdVolume_Device_C.Disable.Description": "在接收選定頻道的訊號時停用裝置。",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "啟用",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "階段期間啟用",
+    "BP_CrowdVolume_Device_C.Enable.Description": "在接收選定頻道的訊號時啟用裝置。",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "僅限遊戲過程中",
+    "EEnabledOnPhase.None.DisplayName": "無",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "僅限遊戲前",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "設定群眾的密集程度。",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "設定群眾角色在網格上對齊的精確度。",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "設定群眾角色大小的隨機程度。",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "設定群眾角色朝向方向的隨機程度。",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "以地塊為單位設定區域深度。",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "以地塊為單位設定區域高度。",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "以地塊為單位設定區域寬度。",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "區域深度",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "區域高度",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "區域寬度"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Error al comprobar los datos del jugador"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "No se pudo eliminar la persistencia y se agotaron los reintentos permitidos"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "No se pudieron recuperar los puntos de control disponibles",
+    "FailedToSetInitialCheckpointErrorMessage": "No pudo establecerse el punto de control inicial",
+    "InvalidJunoWorldErrorMessage": "Entorno de Juno no válido al intentar iniciar el controlador del punto de control",
+    "InvalidJunoRootPlayspaceErrorMessage": "Raíz de zona de juego no válida al intentar iniciar el controlador del punto de control"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Se intentó iniciar la persistencia del jugador cuando ya se había iniciado.",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Almacenamiento de datos de persistencia del jugador no válido",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "No se puede crear controlador del punto de control"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Intentando detener la persistencia del jugador con una identificación de jugador no válida",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Intentando iniciar la persistencia del jugador varias veces",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Intentando iniciar la persistencia del jugador con una identificación de jugador no válida",
+    "StalePlayerPersistenceHandlerErrorMessage": "Controlador de persistencia del jugador obsoleto al finalizar la inicialización",
+    "UnableToCreatePlayerPersistenceErrorMessage": "No se puede crear el controlador de persistencia del jugador",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Almacenamiento de datos de persistencia del jugador válido no disponible"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "可播放動畫的骨骼網格。",
+    "477037CE4A29EB50C5A6E5B004123435": "動畫網格",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "動畫網格",
+    "9D01ABCB4C57956061A5B8BD095D856B": "將動畫套用至骨骼網格",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "暫停動畫",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "暫停動畫。",
+    "ED9506B7426508B1B97535AF002D07C9": "播放動畫",
+    "4E6399154374E72C93B24A9FB9E86176": "倒放動畫",
+    "06C0CF2E41126953274F7B964A00DAE4": "播放中",
+    "971EF1A7489930888171E8A553647F92": "反向播放動畫。",
+    "070EC9F24AA5A04C8C685397F8E618AF": "播放動畫。",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "倒放",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "已停止"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "動畫",
+    "Device_AnimatedMesh_C.InitialState.Description": "決定動畫是否在開始時就自動播放。",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "初始狀態",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "循環",
+    "Device_AnimatedMesh_C.PlayRate.Description": "控制動畫播放速度的倍率。",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "暫停",
+    "Device_AnimatedMesh_C.Pause.Description": "暫停動畫。",
+    "Device_AnimatedMesh_C.Play.DisplayName": "播放",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "播放速度",
+    "EAnimationPlayState.Playing.DisplayName": "播放中",
+    "Device_AnimatedMesh_C.Reverse.Description": "反向播放動畫。",
+    "Device_AnimatedMesh_C.Play.Description": "播放動畫。",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "倒放",
+    "EAnimationPlayState.Reversing.DisplayName": "倒放",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "骨骼網格",
+    "EAnimationPlayState.Stopped.DisplayName": "已停止",
+    "Device_AnimatedMesh_C.Animation.Description": "要播放的動畫。",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "要套用動畫的骨骼網格。",
+    "Device_AnimatedMesh_C.Loop.Description": "動畫播放結束後是否會自動重播。"
+  }
+}

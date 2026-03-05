@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "一名车手进入该体积时激活一条指定赛道。 通常用于没有几何体的赛道。",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "RR 生效赛道体积"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "力量隐藏赛道重生",
+    "MultipleValues": "多个值",
+    "Off Track Radius": "赛道外半径",
+    "Use Back Endcap": "使用后部端盖",
+    "Use Front Endcap": "使用前部端盖",
+    "Use Stable Roll": "使用稳定翻滚"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "改变多个节点形状",
+    "DeleteMultipleNodeConfirmation": "删除多个节点？",
+    "DeleteMultipleNodes": "删除多个节点",
+    "EnableOOBTube": "启用 OOB 管",
+    "MeshCustomizations": "批量自定义网格体",
+    "MultipleNodesSelected": "已选多个节点",
+    "UseStableRollOnMultiple": "批量使用稳定翻滚"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "删除节点",
+    "DeleteNodeConfirmation": "删除节点？",
+    "MetaDataIndexTitle": "索引：{CurrentIndex}",
+    "SingleNodeSelected": "已选单个节点",
+    "SplitNode": "节点分岔",
+    "SplitNodeConfirmation": "节点分岔？"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "设备",
+    "DeviceProperties": "设备属性",
+    "EditDevice": "编辑设备",
+    "EditTrack": "编辑赛道",
+    "Looping Track": "循环赛道",
+    "None": "无",
+    "RoadStyle": "道路风格",
+    "SelectSplinePoints": "选择样条线点",
+    "SelectedPoints": "已选点",
+    "Theme": "主题",
+    "Track": "赛道"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "次要赛道存在不良连接！请仔细检查，确保所有次要赛道都已连接到主要或次要赛道：{1}。地图：{2}",
+    "NoEndTrackConnection": "Secondary Track Has no EndTrackConnection in {0}. 地图：{1}",
+    "NoStartTrackConnection": "Secondary Track Has no StartTrackConnection in {0}. 地图：{1}",
+    "SecondaryTrackLoops": "检测到次要赛道循环！ 赛道 {0} 上检测到循环（开始赛道：{1}）。 地图：{2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "高级",
+    "AttachToEnd": "附着以结束",
+    "AttachToStart": "附着以开始",
+    "Attaching": "附着中",
+    "ConvertOobTubesToNative_Label": "将蓝图 OOB 管转为原生",
+    "ConvertOobTubesToNative_Tooltip": "将所有现有蓝图 OOB 管转为其原生同等类型。",
+    "DelMarTrack": "Del Mar 赛道",
+    "PrintAttachableActors": "打印附件 Actors",
+    "RebuildOobTube": "重建 OOB 管",
+    "DelMarStyleEditor": "风格编辑器"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Del Mar 样条线部件观察器"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "OOB 管",
+    "Rebuild OOB Tube": "重建 OOB 管",
+    "RoadSplineTabTitle": "道路样条线",
+    "SelectedSplineTabTitle": "已选节点",
+    "SplineLengthTitle": "样条线长度：{SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "选择样条线点",
+    "SelectedPoints": "已选点"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "倾斜道路",
+    "Change Road Shape": "改变道路形状",
+    "FlatRoad": "平坦道路",
+    "HalfPipe": "一半管道",
+    "Pipe": "管",
+    "RoadShape": "道路形状",
+    "Tunnel": "隧道"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "添加下一个样条线点至当前选项。",
+    "SelectAddPrevSplinePointToolTip": "添加上一个样条线点至当前选项。",
+    "DeleteMultipleNodeConfirmation": "删除多个节点？",
+    "SelectDeleteSplinePointToolTip": "删除当前选项的点。",
+    "SelectAllSplinePointToolTip": "选择所有样条线点。",
+    "SelectFirstSplinePointToolTip": "选择首个样条线点。",
+    "SelectLastSplinePointToolTip": "选择最后一个样条线点。",
+    "SelectNextSplinePointToolTip": "选择下一个样条线点。",
+    "SelectPrevSplinePointToolTip": "选择上一个样条线点。",
+    "SplitNodeConfirmation": "选定节点分岔？",
+    "SelectSplitSplinePointToolTip": "选定索引处拆分节点。"
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Toggle the selected spline point's to UseStableRoll flag",
+    "ToggleUseStableRoll": "使用稳定翻滚"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "待激活赛道"
+  }
+}

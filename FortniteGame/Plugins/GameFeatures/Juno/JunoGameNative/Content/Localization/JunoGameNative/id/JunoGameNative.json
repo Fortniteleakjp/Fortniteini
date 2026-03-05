@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "jarak antara: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: buat di luar {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Tempatkan {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>tereliminasi</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>diselamatkan oleh totem</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Hadiahkan {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Serahkan semuanya padaku!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Bergabung dengan Kamp {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Tidak cukup untuk bertransaksi. Perlu x{WantItemCount} {WantItem} untuk ditukar dengan x{SellItemCount} {SellItem}. \n {BundleCount} bundel tersisa.",
+    "TradeXForX": "Tukar x{WantItemCount} {WantItem} dengan x{SellItemCount} {SellItem}. \n {BundleCount} bundel tersisa."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Selesai!",
+    "GetX": "Dapatkan {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>masuk ke dunia</>",
+    "GameMemberDisconnected": "{0} <Yellow>keluar dari dunia</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "tambah energi",
+    "ChargeCostUnits": "biaya",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Lanjut",
+    "JunoSpeech_NoAIRole": "Menganggur",
+    "JunoSpeech_NoBoundCampName": "Desa Tanpa Nama",
+    "JunoSpeech_NoLastUsedGatheringActor": "Tidak Ada Stasiun"
+  },
+  "JunoStorageChest": {
+    "Open": "Buka",
+    "Search": "Bongkar"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "Desa {PlayerName} {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Dikeluarkan karena diam. Koneksimu ke host hilang karena diam terlalu lama.",
+    "SpawnedWhenPermanentlyDead": "Klien ini kehabisan nyawa."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Masuk ke Pembangunan Berpandu"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Ini dunia terakhir milik temanmu yang bisa kamu isi dengan konten milikmu untuk minggu ini.",
+    "MCPItemPlacedMessageTitleText": "Peringatan! Konten yang Dimiliki",
+    "MCPItemPlacedMessageDescription_NLeft": "Kamu bisa menempatkan konten milikmu di {0} lagi dunia teman-temanmu minggu ini."
+  }
+}

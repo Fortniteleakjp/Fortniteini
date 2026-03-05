@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} من النسخ"
+  },
+  "Fortnite": {
+    "DoubleElimination": "تصفية مزدوجة",
+    "Down": "أسفل",
+    "DebugLoadContentFail": "فشل التنزيل",
+    "Eliminated": "تمت التصفية",
+    "Elimination": "التصفية",
+    "UEFNMobileSessionMainMenuError_Confirmation": "مغادرة الجلسة",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "الانتقال إلى القائمة الرئيسية غير مسموح به في جلسة UEFN على الهاتف المحمول.",
+    "UEFNMobileSessionMainMenuError_Title": "جلسة جهاز محمول",
+    "MultiElimination": "تصفية متعددة",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "حدثت مشكلة. ستتم مغادرة جلسة الجهاز المحمول الآن",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "حدثت مشكلة: {Reason}. ستتم مغادرة جلسة الجهاز المحمول الآن",
+    "TripleElimination": "تصفية ثلاثية",
+    "Win": "فوز",
+    "UEFNMobileSessionMainMenu_MessageBody": "لا يمكنك دخول ردهة Fortnite خلال وجودك في جلسة جهاز محمول. هل تريد المغادرة؟"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "حدث خطأ أثناء تشغيل الإعادة."
+  },
+  "SpriteCategory": {
+    "Lighting": "الإضاءة"
+  }
+}

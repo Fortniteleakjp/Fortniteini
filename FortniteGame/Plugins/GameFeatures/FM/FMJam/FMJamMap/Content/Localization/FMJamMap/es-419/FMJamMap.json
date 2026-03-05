@@ -1,0 +1,37 @@
+{
+  "": {
+    "24E89F1843DFC6EA9EFA37A1991529C5": "Mostrar siempre",
+    "52B8FBAF40F5FE90A24B5BAC4EBCE0D7": "Anclas",
+    "5EEA4BE24E710329B6F3BBB12EF9E920": "Anclas",
+    "AC42D6E848910CF2C5A9BBB0F0A81B15": "Anclas",
+    "30EA631F4233B87423C9DEB5F7B952B5": "Animar joystick dinámico",
+    "24F4670C406DBF4F1B4B98978F4C6E49": "Relleno de la zona de bloqueo de correr automáticamente",
+    "8CD38EE3444D137C2D190FB75AF2E177": "Tamaño de la zona de bloqueo de correr automáticamente",
+    "ADD09514442FFA77EE6EEF9BA35FED43": "Sin bordes",
+    "5C0117894FE94EB617D990A345092116": "Tamaño del botón",
+    "31CD161F49CC2A4FE8B07E9A9B457A71": "Se puede mover la cámara al mantener tras presionar el botón",
+    "745525824BF613BD31B12BA6CBE89B0A": "¡Combina distintos bucles para crear mezclas únicas!",
+    "6BF0E54347F314D93ECB6CA4ACF8F4EA": "Zona sin uso",
+    "8851066C40215F98E4CBF999FA38AFBA": "Joystick dinámico",
+    "97B960ED4DBE0DBCF8CC90B6CD54D0FF": "Explora el terreno del Escenario de improvisación de Festival para encontrar amigos y escenarios donde puedes mezclar canciones exitosas de tu biblioteca. Que nunca falte la música en Fortnite Festival.",
+    "42A11A2547B09000C726C7A99BDE00C9": "Festival",
+    "893ACCBF454F24B42A838DB44EF44264": "Escenario de improvisación de Festival",
+    "C9010A584F0E45F13FE8C888CC10551E": "Por cada canción, elige entre bucles de guitarra, bajo, batería o voz.",
+    "60585B2B47F626B2C0AA0BA219977F79": "Escenario de improvisación",
+    "E61D951E4F49D19B4203488619933E26": "Escenario de improvisación",
+    "49FE800D4EB0879B574516AC6765BEBC": "Varía",
+    "C3613A494533620F2E0F099899E9B78F": "Opacidad del joystick de movimiento - En movimiento",
+    "9FC6351443248A5AE1359FBC20C71E66": "Opacidad del joystick de movimiento - Inactividad",
+    "9E8FD1BC4685B31B9BF7928E4FE8867E": "¡Combina canciones populares en el modo multijugador!",
+    "5B9A77094FD1B4FFA15D829EE5AD1C7F": "Elige un bucle de improvisación para empezar a tocar en cualquier momento. ¡Cualquiera que esté cerca puede unirse!",
+    "9B970F35448761D53205B79D51F04309": "Restablecer posición del joystick",
+    "3B1EF45D4E110472B0B1E4A61704F557": "Tamaño",
+    "45893B434FC542D36DB113BC764CC8BE": "Tamaño",
+    "A3CD64734EC6C30DE12776ADE7BECD2C": "Empieza a improvisar",
+    "C2C5814F4FD39CC42F71FD81F7A1A556": "Cambia instrumentos",
+    "9C82F6FB45201EE313688EBFCF09A758": "Tamaño de la zona táctil"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Te expulsaron por inactividad. Se perdió tu conexión con el servidor por inactividad prolongada."
+  }
+}

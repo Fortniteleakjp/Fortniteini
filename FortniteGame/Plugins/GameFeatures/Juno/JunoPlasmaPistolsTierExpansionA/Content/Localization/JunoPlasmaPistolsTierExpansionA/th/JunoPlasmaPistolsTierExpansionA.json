@@ -1,0 +1,41 @@
+{
+  "": {
+    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "ทำเควสต์ <emphA>หวดเข้าเป้าเป๊ะ!</> ของ<emphA>โจนส์แค้นฝังหุ่น</>ให้สำเร็จ เพื่อปลดล็อกสูตรการคราฟต์ ",
+    "2526E3264410B707308E20B8534279DB": "ทำเควสต์ <emphA>หวดเข้าเป้าเป๊ะ!</> ของ<emphA>โจนส์แค้นฝังหุ่น</>ให้สำเร็จ เพื่อปลดล็อกสูตรการคราฟต์ ",
+    "31A9F48344282DCF8F65FE8B306F22C8": "ทำเควสต์ <emphA>หวดเข้าเป้าเป๊ะ!</> ของ<emphA>โจนส์แค้นฝังหุ่น</>ให้สำเร็จ เพื่อปลดล็อกสูตรการคราฟต์ ",
+    "A0E91B49404BEF991ACE78A035FB9FA5": "ทำเควสต์ <emphA>หวดเข้าเป้าเป๊ะ!</> ของ<emphA>โจนส์แค้นฝังหุ่น</>ให้สำเร็จ เพื่อปลดล็อกสูตรการคราฟต์ ",
+    "0BF1727A4D90DCAEE14B258CC4212DE3": "ปืนพกพลาสมาชั้นยอด ทำลายโครงสร้างอะตอมศัตรูด้วยการระเบิดพวกมัน!",
+    "BAAFC86C4534ACB06CC80994621448C0": "ปืนพกพลาสมาในตำนานทำลายโครงสร้างอะตอมของศัตรูด้วยการระเบิดพวกนั้นให้กระจุย!",
+    "44C70BA449A264B9703BCEABB9D340A3": "ปีเตอร์ ไพเพอร์พกปืนพกพลาสมา",
+    "422220DB4E40F60B63AEEFAE27DEA53E": "ปืนยิงระยะไกล",
+    "599752D6488B6EC23EC0C68BED53ED65": "ปืนยิงระยะไกล",
+    "62257ECA477347F53A1A868296689A18": "ปืนยิงระยะไกล",
+    "EA747D1E453DCB0F43A86580E4B5C092": "ปืนยิงระยะไกล",
+    "BF1756B943F369BD9986D993E258750C": "ปืนพกพลาสมาหายากทำลายโครงสร้างอะตอมศัตรูด้วยการระเบิดพวกมัน!",
+    "ADCCA19C4060AFD909BE87A5893C2CE0": "ปืนพกพลาสมาพิเศษทำลายโครงสร้างอะตอมศัตรูด้วยการระเบิดพวกมัน!",
+    "46AA227040F5CC18B31C5CB3B87F2B93": "วี้ดดดด ฝุบ-เปรี้ยง!",
+    "0CD3C87C459B141BAA857593CCFE8EF6": "วื้ดดด-ปัง!",
+    "EFE2F67D4FE0515AF526C1898CC016BD": "ตืดดด-โป้ง!"
+  },
+  "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
+    "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "ปืนพกพลาสมาไม้ไผ่",
+    "Plasma_Pistols_T6_T6_Honed_Bamboo_DisplayName": "ปืนพกพลาสมาไม้ไผ่",
+    "Plasma_Pistols_T7_T7_Honed_Bamboo_DisplayName": "ปืนพกพลาสมาไม้ไผ่",
+    "Plasma_Pistols_T8_T8_Honed_Bamboo_DisplayName": "ปืนพกพลาสมาไม้ไผ่",
+    "Plasma_Pistols_T7_T7_Honed_Dragon_Opal_DisplayName": "ปืนพกพลาสมาโอปอลมังกร",
+    "Plasma_Pistols_T8_T8_Honed_Dragon_Opal_DisplayName": "ปืนพกพลาสมาโอปอลมังกร",
+    "Plasma_Pistols_T5_T5_Honed_Kozustone_DisplayName": "ปืนพกพลาสมาหินโคสุ",
+    "Plasma_Pistols_T6_T6_Honed_Kozustone_DisplayName": "ปืนพกพลาสมาหินโคสุ",
+    "Plasma_Pistols_T7_T7_Honed_Kozustone_DisplayName": "ปืนพกพลาสมาหินโคสุ",
+    "Plasma_Pistols_T8_T8_Honed_Kozustone_DisplayName": "ปืนพกพลาสมาหินโคสุ",
+    "Plasma_Pistols_T6_T6_Honed_Steel_DisplayName": "ปืนพกพลาสมาเหล็กกล้า",
+    "Plasma_Pistols_T7_T7_Honed_Steel_DisplayName": "ปืนพกพลาสมาเหล็กกล้า",
+    "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "ปืนพกพลาสมาเหล็กกล้า"
+  },
+  "Juno_UpdateItemData": {
+    "154D52A747D30B2EAFA712A289645F6D": "ปืนพกพลาสมา",
+    "61FD372A4CB97B18D20D6FA5761F7026": "ปืนพกพลาสมา",
+    "7B04D8D34F9407730A1CDB9CE3F62067": "ปืนพกพลาสมา",
+    "E4EF40D34E94A918540D478454F8A407": "ปืนพกพลาสมา"
+  }
+}

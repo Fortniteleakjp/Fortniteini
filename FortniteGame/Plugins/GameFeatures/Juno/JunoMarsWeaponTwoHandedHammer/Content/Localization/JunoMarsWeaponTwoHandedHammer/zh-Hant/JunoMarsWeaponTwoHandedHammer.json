@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "焦點",
+    "43F09C044AF62206095CF781534EA856": "把手",
+    "E6B68B79478A46E9684822B2F134867F": "錘頭",
+    "DB549DF44E248CF55461B2BF32444D9A": "楔子"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "琥珀戰錘",
+    "War_Hammer_T5_Amber_DisplayName": "琥珀戰錘",
+    "War_Hammer_T2_Blast_Core_DisplayName": "爆裂戰錘",
+    "War_Hammer_T1_Bone_DisplayName": "骨製戰錘",
+    "War_Hammer_T2_Brightcore_DisplayName": "耀眼戰錘",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "利爪戰錘",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "利爪戰錘",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "利爪戰錘",
+    "War_Hammer_T3_Copper_DisplayName": "銅製戰錘",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "咒縛戰錘",
+    "War_Hammer_T4_Emerald_DisplayName": "翡翠戰錘",
+    "War_Hammer_T5_Emerald_DisplayName": "翡翠戰錘",
+    "War_Hammer_T1_Flexwood_DisplayName": "彈力木戰錘",
+    "War_Hammer_T1_Frostpine_DisplayName": "霜松戰錘",
+    "War_Hammer_T1_Glass_DisplayName": "玻璃戰錘",
+    "War_Hammer_T3_Gold_DisplayName": "黃金戰錘",
+    "War_Hammer_T2_Granite_DisplayName": "花崗岩戰錘",
+    "War_Hammer_T3_Iron_DisplayName": "鐵製戰錘",
+    "War_Hammer_T1_Knotroot_DisplayName": "節根戰錘",
+    "War_Hammer_T1_Mahogany_DisplayName": "桃花心木戰錘",
+    "War_Hammer_T2_Malachite_DisplayName": "孔雀石戰錘",
+    "War_Hammer_T2_Marble_DisplayName": "大理石戰錘",
+    "War_Hammer_T2_Obsidian_DisplayName": "黑曜石戰錘",
+    "War_Hammer_T2_Redrock_DisplayName": "紅岩戰錘",
+    "War_Hammer_T4_Ruby_DisplayName": "紅寶石戰錘",
+    "War_Hammer_T5_Ruby_DisplayName": "紅寶石戰錘",
+    "War_Hammer_T2_Sandstone_DisplayName": "砂岩戰錘",
+    "War_Hammer_T4_Sapphire_DisplayName": "藍寶石戰錘",
+    "War_Hammer_T5_Sapphire_DisplayName": "藍寶石戰錘",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "破碎犄角戰錘",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "破碎犄角戰錘",
+    "War_Hammer_T1_Storm_Core_DisplayName": "風暴戰錘",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "風暴護衛戰錘",
+    "War_Hammer_T1_Wood_DisplayName": "木製戰錘"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "戰錘"
+  }
+}

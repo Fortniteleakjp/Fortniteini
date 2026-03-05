@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "Ambil Kayu",
+    "EC841CD54B7090D2510D7586F386C251": "Ambil Kayu"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Tekan E untuk Edit"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Sesuaikan"
+  }
+}

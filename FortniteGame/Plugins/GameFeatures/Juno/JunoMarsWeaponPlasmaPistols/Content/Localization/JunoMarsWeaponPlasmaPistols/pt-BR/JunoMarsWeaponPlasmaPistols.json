@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "Acessório",
+    "1DC695F543617CDD983D6CA98D244D3F": "Barril",
+    "644AFB924BC996E1358E8DAC5E388D65": "Energia",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "Foco",
+    "43384B4746A525AAE21308A2255D4AB7": "Empunhadura"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "Pistolas de Plasma de Âmbar",
+    "Plasma_Pistols_T5_Amber_DisplayName": "Pistolas de Plasma de Âmbar",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "Pistolas de Plasma Explosivas",
+    "Plasma_Pistols_T1_Bone_DisplayName": "Pistolas de Plasma de Osso",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "Pistolas de Plasma Brilhantes",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "Pistolas de Plasma de Garra",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "Pistolas de Plasma de Garra",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "Pistolas de Plasma de Garra",
+    "Plasma_Pistols_T3_Copper_DisplayName": "Pistolas de Plasma de Cobre",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "Pistolas de Plasma Amaldiçoadas",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "Pistolas de Plasma de Esmeralda",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "Pistolas de Plasma de Esmeralda",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "Pistolas de Plasma de Madeira Macia",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "Pistolas de Plasma de Pinhal Gélido",
+    "Plasma_Pistols_T1_Glass_DisplayName": "Pistolas de Plasma de Vidro",
+    "Plasma_Pistols_T3_Gold_DisplayName": "Pistolas de Plasma de Ouro",
+    "Plasma_Pistols_T2_Granite_DisplayName": "Pistolas de Plasma de Granito",
+    "Plasma_Pistols_T3_Iron_DisplayName": "Pistolas de Plasma de Ferro",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "Pistolas de Plasma de Raízes",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "Pistolas de Plasma de Mogno",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "Pistolas de Plasma de Malaquita",
+    "Plasma_Pistols_T2_Marble_DisplayName": "Pistolas de Plasma de Mármore",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "Pistolas de Plasma de Obsidiana",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "Pistolas de Plasma de Pedra Vermelha",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "Pistolas de Plasma de Rubi",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "Pistolas de Plasma de Rubi",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "Pistolas de Plasma de Arenito",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "Pistolas de Plasma de Safira",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "Pistolas de Plasma de Safira",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "Pistolas de Plasma Parte-chifres",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "Pistolas de Plasma Parte-chifres",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "Pistolas de Plasma da Tempestade",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "Pistolas de Plasma de Guarda da Tempestade",
+    "Plasma_Pistols_T1_Wood_DisplayName": "Pistolas de Plasma de Madeira"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "Pistolas de Plasma"
+  }
+}

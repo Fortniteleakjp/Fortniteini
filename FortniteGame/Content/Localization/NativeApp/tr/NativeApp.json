@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} Kopya"
+  },
+  "Fortnite": {
+    "DoubleElimination": "İkili Avlama",
+    "Down": "Aşağı",
+    "DebugLoadContentFail": "İndirme Başarısız",
+    "Eliminated": "Avlanma",
+    "Elimination": "Avlama",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Oturumdan Çık",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "UEFN Mobil Oturum'da Ana Menü'ye gitmeye izin verilmez.",
+    "UEFNMobileSessionMainMenuError_Title": "Mobil Oturum",
+    "MultiElimination": "Çoklu Avlama",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Bir şeyler ters gitti. Mobil Oturum'dan şimdi çıkılacak",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Bir şeyler ters gitti: {Reason} Mobil Oturum'dan şimdi çıkılacak",
+    "TripleElimination": "Üçlü Avlama",
+    "Win": "Zafer",
+    "UEFNMobileSessionMainMenu_MessageBody": "Mobil Oturum'dayken Fortnite lobisine giremezsin. Çıkış yapmak istiyor musun?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Tekrar oynatırken bir hata oluştu."
+  },
+  "SpriteCategory": {
+    "Lighting": "Işık"
+  }
+}

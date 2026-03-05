@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Copie de {0}"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Double élimination",
+    "Down": "K.-O.",
+    "DebugLoadContentFail": "Échec du téléchargement",
+    "Eliminated": "Éliminé",
+    "Elimination": "Élimination",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Quitter la session",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "Il est impossible d'accéder au menu principal lors d'une session mobile de l'UEFN.",
+    "UEFNMobileSessionMainMenuError_Title": "Session mobile",
+    "MultiElimination": "Triple élimination",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Une erreur s'est produite. La session mobile va maintenant se terminer.",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Une erreur est survenue : {Reason}. La session mobile va maintenant se terminer.",
+    "TripleElimination": "Triple élimination",
+    "Win": "Victoire",
+    "UEFNMobileSessionMainMenu_MessageBody": "Vous ne pouvez pas entrer dans un salon Fortnite pendant une session mobile. Voulez-vous quitter ?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Une erreur s'est produite pendant la lecture."
+  },
+  "SpriteCategory": {
+    "Lighting": "Foudre"
+  }
+}

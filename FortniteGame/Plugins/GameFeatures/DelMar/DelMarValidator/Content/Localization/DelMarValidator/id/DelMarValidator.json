@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Trek non-sirkuit (tidak ber-loop) yang lebih dari satu lap harus memiliki Teleportasi Diaktifkan di Checkpoint RR Garis Finis, dengan deret Checkpoint Selanjutnya yang merujuk hanya ke Checkpoint RR Garis Mulai-mu. {0}",
+    "MultipleFinishLines": "Lebih dari satu Checkpoint RR ditandai sebagai \"Garis Finis\". Harus ada persis satu Checkpoint RR Garis Finis di Trek RR. {0}",
+    "MultipleStartLines": "Lebih dari satu Checkpoint RR yang ditandai sebagai \"Garis Mulai\". Harus ada persis satu Checkpoint RR Garis Mulai di Trek RR. {0}",
+    "NoFinishLine": "Tidak ada Checkpoint RR yang ditandai sebagai \"Garis Finis\". Harus ada persis satu Checkpoint RR Garis Finis di Trek RR. {0}",
+    "NoStartLine": "Tidak ada Checkpoint RR yang ditandai sebagai \"Garis Mulai\". Harus ada persis satu Checkpoint RR Garis Mulai di Trek RR. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Reset dan buat ulang \"Checkpoint Selanjutnya\" untuk {0} untuk memperbaikinya. {1}",
+    "Loop": "Kamu tidak bisa memutar kembali ke checkpoint yang sudah dikunjungi dalam satu lap. Perangkat {0} memiliki Deret Checkpoint Selanjutnya yang merujuk ke {1}, yang sudah dirujuk sebelumnya oleh {2} di lap. {3}",
+    "DoesntOverlapFinishLine": "Trek RR Primermu harus membentang dari Checkpoint RR Garis Mulai-mu hingga Checkpoint RR Garis Finis-mu. Saat ini, Trek itu tidak berpotongan dengan Checkpoint RR-mu yang ditandai sebagai Garis Finis. {0}",
+    "DoesntOverlapStartingLine": "Trek RR Primermu harus membentang dari Checkpoint RR Garis Mulai-mu hingga Checkpoint RR Garis Finis-mu. Saat ini, Trek itu tidak berpotongan dengan Checkpoint RR-mu yang ditandai sebagai Garis Mulai. {0}",
+    "DeadEnd": "{0} tidak mengandung satu atau lebih rujukan \"Checkpoint Selanjutnya\" yang akhirnya akan mengarah ke Checkpoint RR Garis Finis. {1}",
+    "Orphan": "{0} tidak terhubung di dalam trek."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Ada lebih dari satu Manajer Balapan RR yang ditempatkan dalam satu tag level yang sama. Trek harus berisi satu Manajer Balapan RR saja. {0}",
+    "MultipleModeManager": "Ada lebih dari satu Manajer Balapan RR yang ditempatkan. Trek harus memiliki persis satu Manajer Balapan RR. {0}",
+    "MultipleModeManagerForMode": "Ada lebih dari satu Manajer Balapan RR yang ditempatkan. Trek harus berisi satu Manajer Balapan RR saja. {0}",
+    "NoModeManager": "Tidak ada Manajer Balapan RR yang ditempatkan. Trek harus memiliki persis satu Manajer Balapan RR. Manajer Balapan Kompetitif RR, Manajer Balapan Balap Waktu RR, dll. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Lebih dari satu Trek RR dengan nilai Tipe Trek yang diatur sebagai \"Primer\". Harus ada persis satu Trek Primer. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Tidak ada Trek RR yang nilai Tipe Trek-nya diatur sebagai \"Primer\". Harus ada persis satu Trek Primer. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Saat Checkpoint RR Garis Mulai dan Garis Finis-mu adalah Checkpoint RR yang sama, berarti trek dianggap sirkuit dan Spline Trek Primer-mu harus memiliki \"Trek Ber-loop\" yang diatur ke true di tab Perangkat dari Jendela Editor Gaya. {0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} memiliki Tipe Trek \"Sekunder\", tapi diatur menjadi Trek Ber-loop di tab Perangkat dari Jendela Editor Gaya. Hanya Tipe Trek \"Primer\" dan \"Kosmetik\" yang bisa diatur sebagai Trek Ber-loop. {1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} memiliki penempatan simpul terakhir yang terhubung dengan trek pada titik lebih awal di lap daripada simpul pertama. Trek RR ini mungkin dibuat terbalik, melawan arah trek, ATAU salah satu ujung spline mungkin terlalu dekat dengan bagian trek yang tidak dimaksudkan untuk dinavigasi pemain. Pilih Trek RR ini di pemandangan perspektif dan periksa apakah garis koneksi dari spline Trek RR Sekunder ini terhubung ke Trek-mu seperti yang diharapkan. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

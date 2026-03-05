@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Désactivé</> : les emotes de danse sont jouées à leur vitesse normale et la musique de l'emote est diffusée par-dessus la piste musicale.",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Activé</> : les emotes de danse se synchronisent au rythme de la piste musicale. La musique des emotes est également désactivée.",
+    "JamTrackAudioTabName": "Pistes musicales",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "Synchroniser mes emotes de danse avec les pistes musicales",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Ces paramètres permettent de modifier le comportement de vos emotes de danse pendant la lecture d'une piste musicale."
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "Ajuste le volume des musiques en jeu dans Fortnite Festival.",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "Musique - Fortnite Festival"
+  }
+}

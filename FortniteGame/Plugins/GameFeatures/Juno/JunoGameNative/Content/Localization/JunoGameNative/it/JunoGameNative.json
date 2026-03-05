@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "spazio tra: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: genera fuori da {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Posiziona {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>ha subito l'eliminazione</>",
+    "OnPlayerSavedByTotemGameEvent": "<Yellow>Un totem ha salvato</> {0}"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "{ItemDisplayText} regalo"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Tutto a me!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Unisciti all'accampamento {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Insufficiente per lo scambio. Occorrono x{WantItemCount} {WantItem} da scambiare con x{SellItemCount} {SellItem}. \n {BundleCount} bundle rimasti.",
+    "TradeXForX": "Scambia x{WantItemCount} {WantItem} per x{SellItemCount} {SellItem}. \n {BundleCount} bundle rimasti."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Terminato!",
+    "GetX": "Ottieni {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>ha effettuato l'accesso al mondo</>",
+    "GameMemberDisconnected": "{0} <Yellow>ha effettuato l'uscita dal mondo</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "aggiungi carica",
+    "ChargeCostUnits": "carica",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Continua",
+    "JunoSpeech_NoAIRole": "Senza mansione",
+    "JunoSpeech_NoBoundCampName": "Villaggio senza nome",
+    "JunoSpeech_NoLastUsedGatheringActor": "Nessuna stazione"
+  },
+  "JunoStorageChest": {
+    "Open": "Apri",
+    "Search": "Esamina"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "Villaggio di {PlayerName} {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Espulso per inattività. La connessione all'host è stata interrotta perché sei rimasto inattivo per troppo tempo.",
+    "SpawnedWhenPermanentlyDead": "Questo cliente è fuori dalle nostre vite."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Entra in costruzione guidata"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Questo è l'ultimo dei mondi degli amici in cui puoi posizionare contenuti di proprietà questa settimana.",
+    "MCPItemPlacedMessageTitleText": "Attenzione! Contenuti di proprietà",
+    "MCPItemPlacedMessageDescription_NLeft": "Questa settimana puoi posizionare contenuti di proprietà in più di {0} mondi degli amici."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "物品商店傳送門",
+    "A636CB9048F6D10A27FAE2ACA3336261": "物品商店傳送門",
+    "ECA01A1C4D96960EA267CEA75C458F15": "物品商店傳送門",
+    "F0DA7B7A455C002838011E9950021E4F": "物品商店傳送門",
+    "F6BA046441D88E68E7317EB0D779DDEE": "物品商店傳送門",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "開啟商店",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "開啟商店",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "從此接收時開啟商店",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "開啟商店：{Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "開啟商店：{Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "接收到選定頻道的訊號時為觸發玩家開啟商店。",
+    "18E3F3AD48251A9142A05A8349684E89": "當啟動時，這個裝置會打開物品商店。",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "當啟動時，這個裝置會打開物品商店。",
+    "79656CFD409EE4E11B68988ACDCA8585": "當啟動時，這個裝置會打開物品商店。",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "當啟動時，這個裝置會打開物品商店。",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "當啟動時，這個裝置會打開物品商店。"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "始終",
+    "EEnabledOnPhase.Create Only.DisplayName": "僅限建立",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "決定啟用裝置的遊戲階段。遊戲前包含遊戲開始前的所有階段（特色島嶼的玩家等待大廳與遊戲開始倒數）。",
+    "Device_ItemShop_V2_C.InteractTime.Description": "決定啟動裝置所需的互動時長。",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "停用",
+    "Device_Store_C.Disable.DisplayName": "停用",
+    "Device_Store_C.Disable.Description": "在接收選定頻道的訊號時停用裝置。",
+    "Device_ItemShop_V2_C.Disable.Description": "停用裝置。",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "啟用",
+    "Device_Store_C.Enable.DisplayName": "啟用",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "階段時啟用",
+    "Device_Store_C.Enable.Description": "在接收選定頻道的訊號時啟用裝置。",
+    "Device_ItemShop_V2_C.Enable.Description": "啟用裝置。",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "僅限遊戲過程中",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "互動時間",
+    "EEnabledOnPhase.None.DisplayName": "無",
+    "Device_Store_C.OpenStore.DisplayName": "開啟商店",
+    "Device_Store_C.OpenStore.Description": "接收到選定頻道的訊號時為觸發玩家開啟商店。",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "僅限遊戲前"
+  }
+}

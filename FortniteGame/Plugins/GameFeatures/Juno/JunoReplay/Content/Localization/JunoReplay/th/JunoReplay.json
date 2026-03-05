@@ -1,0 +1,6 @@
+{
+  "GameSettingRegistryExtension_JunoReplay": {
+    "ReplayRecordingJuno_Name": "บันทึกการเล่นซ้ำจูโน",
+    "ReplayRecordingJuno_Description": "เปิด/ปิด การบันทึกรีเพลย์สำหรับแมตช์จูโน"
+  }
+}

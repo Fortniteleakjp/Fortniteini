@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Jedna liczba całkowita określająca liczbę wyborów w dialogu do wygenerowania (większa będzie lepsza).",
+    "NulledOption": "NIEUŻYWANE. ZIGNORUJ.",
+    "OptionFive_NPCResponse": "Pełna odpowiedź postaci niezależnej aktywowana tylko, gdy gracz wybierze „OptionFive” (jeśli użyto).",
+    "OptionFour_NPCResponse": "Pełna odpowiedź postaci niezależnej aktywowana tylko, gdy gracz wybierze „OptionFour” (jeśli użyto).",
+    "OptionOne_NPCResponse": "Pełna odpowiedź postaci niezależnej aktywowana tylko, gdy gracz wybierze „OptionOne” (jeśli użyto).",
+    "OptionSix_NPCResponse": "Pełna odpowiedź postaci niezależnej aktywowana tylko, gdy gracz wybierze „OptionSix” (jeśli użyto).",
+    "OptionThree_NPCResponse": "Pełna odpowiedź postaci niezależnej aktywowana tylko, gdy gracz wybierze „OptionThree” (jeśli użyto).",
+    "OptionTwo_NPCResponse": "Pełna odpowiedź postaci niezależnej aktywowana tylko, gdy gracz wybierze „OptionTwo” (jeśli użyto).",
+    "MainQuestion": "Najważniejsze pytanie, jakie zadaje postać niezależna, na które gracz odpowie, wybierając jedną z opcji.",
+    "OptionFive": "Tekst piątej opcji dialogowej przedstawianej graczowi. To potencjalna odpowiedź na „MainQuestion”.",
+    "OptionOne": "Tekst pierwszej opcji dialogowej przedstawianej graczowi. To potencjalna odpowiedź na „MainQuestion”.",
+    "OptionFour": "Tekst czwartej opcji dialogowej przedstawianej graczowi. To potencjalna odpowiedź na „MainQuestion”.",
+    "OptionTwo": "Tekst drugiej opcji dialogowej przedstawianej graczowi. To potencjalna odpowiedź na „MainQuestion”.",
+    "OptionSix": "Tekst szóstej opcji dialogowej przedstawianej graczowi. To potencjalna odpowiedź na „MainQuestion”.",
+    "OptionThree": "Tekst trzeciej opcji dialogowej przedstawianej graczowi. To potencjalna odpowiedź na „MainQuestion”."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Pomyśl krytycznie i oprzyj swój wybór wyłącznie na bieżącej kwestii dialogowej, a nie aktualnym głównym nastroju postaci niezależnej. Wybierz, które uczucie chcesz dostosować (radość, smutek, złość, strach, neutralność), co odtworzy animację i zwiększy wynik tego uczucia. Jednak głównym nastrojem postaci niezależnej będzie ten, który ma ogólnie najwyższą wartość, przy czym radość wpływa na pozytywne nastawienie, smutek na smętne zachowanie, złość na konfrontację, a strach na lęk.",
+    "FeelingChangeValue": "Ustaw intensywność FeelingChange. Ponieważ uczucia szybko przemijają, wartość musi odpowiadać emocjonalnej wadze danej chwili: w przypadku prostych, swobodnych rozmów użyj niskiej wartości między 0 a 20 (przy czym proste przywitania będą bliższe 0), w przypadku znaczących wydarzeń lub dialogów wymagających działania gracza użyj umiarkowanej wartości między 20 a 60, a w przypadku ważnych, przełomowych momentów (takich jak zdrada, wykonanie zadania lub otrzymanie idealnego prezentu) użyj silnej wartości między 60 a 100.",
+    "DialogueDescription": "Linia dialogowa, którą chcesz wykonać."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Myślę..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Myślę..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Myślę..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "Definicja przedmiotu: „{0}” nie jest zarejestrowana w danych funkcji gry i nie da się jej umiejscowić.",
+    "DuplicatePrimaryAssetError": "Dwa różne materiały dzielą ten sam pierwotny identyfikator materiału: „{0}” oraz „{1}”."
+  }
+}

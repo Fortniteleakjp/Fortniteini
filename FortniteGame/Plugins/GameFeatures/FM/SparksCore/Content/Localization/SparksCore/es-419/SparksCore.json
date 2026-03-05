@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Elige un instrumento",
+    "E70730D546323455388D0F8862938650": "Elige un instrumento",
+    "94FB361A46082147B697C19A318D8F49": "Elige una canción",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Bucles de improvisación",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Pistas de improvisación",
+    "LockerJamTracksCategory": "Pistas de improvisación de casillero"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Pista de improvisación"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Ritmos diarios",
+    "setlist_1_title": "Ritmos diarios",
+    "setlist_title_1": "Ritmos Diarios",
+    "daily_1_desc": "¡Descripción de Ritmos diarios!",
+    "setlist_1_desc": "¡Descripción de Ritmos diarios!",
+    "setlist_desc_1": "¡Descripción de Ritmos Diarios!",
+    "festival_1_title": "Favoritos de Festival",
+    "setlist_3_title": "Favoritos de Festival",
+    "setlist_title_3": "Favoritos de Festival",
+    "festival_1_desc": "¡Descripción de Favoritos de Festival!",
+    "setlist_3_desc": "¡Descripción de Favoritos de Festival!",
+    "setlist_desc_3": "¡Descripción de Favoritos de Festival!",
+    "setlist_desc_Fortnitemares": "Fortnite: Pesadillas",
+    "setlist_title_Fortnitemares": "Fortnite: Pesadillas",
+    "setlist_2_title": "Ritmos de Spotlight",
+    "setlist_title_2": "Ritmos de Spotlight",
+    "spotlight_1_title": "Ritmos de Spotlight",
+    "setlist_2_desc": "¡Descripción de Ritmos de Spotlight!",
+    "setlist_desc_2": "¡Descripción de Ritmos de Spotlight!",
+    "spotlight_1_desc": "¡Descripción de Ritmos de Spotlight!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Repertorio personal",
+    "ProductMode_DisplayName_Setlist1": "Repertorio diario",
+    "Daily_1_Title": "Ritmos diarios",
+    "Daily_1_Desc": "Descripción de Ritmos diarios de la tabla",
+    "Festival_1_Title": "Favoritos de Festival",
+    "Festival_1_Desc": "Descripción de Selecciones de Festival de la tabla",
+    "Default_Title": "Repertorio de Festival",
+    "ProductMode_DisplayName_Setlist3": "Ritmos de Spotlight",
+    "Spotlight_1_Title": "Ritmos de Spotlight",
+    "Spotlight_1_Desc": "Descripción de Ritmos de Spotlight de la tabla",
+    "Default_Desc": "¡ESTA ES LA DESCRIPCIÓN PREDETERMINADA DEL REPERTORIO!",
+    "ProductMode_DisplayName_Setlist2": "Repertorio semanal"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Nombre del artista",
+    "SparksAvailableFilter": "Disponible",
+    "SparksDefaultFilter": "Predeterminado",
+    "SparksFeaturedSort": "Destacadas",
+    "SparksFeaturedFilter": "Nuevas y destacadas",
+    "SparksOwnedFilter": "Lo tienes",
+    "SparksOwnedSort": "Propiedad",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Mostrar archivadas",
+    "SparksAlphaSort": "Título de la canción, A-Z",
+    "SparksAlphaSortReverse": "Título de la canción, Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

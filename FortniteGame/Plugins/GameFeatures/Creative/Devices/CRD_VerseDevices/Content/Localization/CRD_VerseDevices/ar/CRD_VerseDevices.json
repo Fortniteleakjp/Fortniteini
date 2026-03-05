@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "معطّل",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "معطّل",
+    "7F622AD141A596DB6DA4A69D874C2761": "مُفعل",
+    "F635B92B4F6D69AC48F18D8428078A2F": "مُفعل",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "يسمح للاعبين بتشغيل نص مخصص من الفقرة",
+    "0156B90F4D5E75298F886FA5AFC000E7": "يحمّل ويشغّل نصًا محددًا من الفقرة.",
+    "12BB4013449DF18D296F85AA4CB849E1": "جهاز النص",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "جهاز النص",
+    "4033820A43CE091C31CEF486B399093F": "جهاز النص"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "لتحديد ما إذا كان جهاز النص مرئيًا في خلال الألعاب.",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "ممكّن مع بدء اللعبة",
+    "VerseDevice_C.VisibleInGame.DisplayName": "مرئي في اللعبة",
+    "VerseDevice_C.Enabled at Game Start.Description": "لتحديد ما إذا كان سيتم تشغيل البرنامج النصي المُرفق في أثناء المباراة."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "เพิ่มไปยังคิวจบเกมเมื่อได้รับจาก",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "บังคับผู้เล่นทุกคนในเซสชันบนเกาะให้จับคู่แข่งขัน",
+    "8A7E9FBB45B757940356DFBCBD04F720": "สตรีมเกม",
+    "D6605AA24CE9BB51B09055B216381F62": "สตรีมเกม",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "รหัสเกาะ",
+    "4906BC4442B704E71E23E9B9A01FF370": "ประตูมิติเลเวล",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "ตั้งรหัสเกาะที่ต้องการให้พอร์ทัลจับคู่ผู้เล่นพาผู้เล่นไป",
+    "413FED52446F49764E9AF9B6A2F275BB": "โอนย้ายประชากรเมื่อได้รับจาก"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "ปิดใช้งานเมื่อได้รับอีเวนต์",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "เปิดใช้งานเมื่อได้รับอีเวนต์",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "เข้าคิวเมื่อจบเกม",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "โอนย้ายประชากร"
+  }
+}

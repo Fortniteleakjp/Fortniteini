@@ -1,0 +1,41 @@
+{
+  "": {
+    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "完成<emphA>復仇瓊斯</>的<emphA>搞定！</>任務以解鎖製作配方。 ",
+    "2526E3264410B707308E20B8534279DB": "完成<emphA>復仇瓊斯</>的<emphA>搞定！</>任務以解鎖製作配方。 ",
+    "31A9F48344282DCF8F65FE8B306F22C8": "完成<emphA>復仇瓊斯</>的<emphA>搞定！</>任務以解鎖製作配方。 ",
+    "A0E91B49404BEF991ACE78A035FB9FA5": "完成<emphA>復仇瓊斯</>的<emphA>搞定！</>任務以解鎖製作配方。 ",
+    "0BF1727A4D90DCAEE14B258CC4212DE3": "史詩電漿手槍。轟爆敵人的原子結構！",
+    "BAAFC86C4534ACB06CC80994621448C0": "傳奇電漿手槍。轟爆敵人的原子結構！",
+    "44C70BA449A264B9703BCEABB9D340A3": "和尚端「漿」上「槍」，槍滑漿灑漿燙槍。",
+    "422220DB4E40F60B63AEEFAE27DEA53E": "遠程槍",
+    "599752D6488B6EC23EC0C68BED53ED65": "遠程槍",
+    "62257ECA477347F53A1A868296689A18": "遠程槍",
+    "EA747D1E453DCB0F43A86580E4B5C092": "遠程槍",
+    "BF1756B943F369BD9986D993E258750C": "稀有的電漿手槍。轟爆敵人的原子結構！",
+    "ADCCA19C4060AFD909BE87A5893C2CE0": "罕見的電漿手槍。轟爆敵人的原子結構！",
+    "46AA227040F5CC18B31C5CB3B87F2B93": "嗡嗡——咻砰！",
+    "0CD3C87C459B141BAA857593CCFE8EF6": "嗡——咻！",
+    "EFE2F67D4FE0515AF526C1898CC016BD": "吱——砰！"
+  },
+  "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
+    "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "竹製電漿手槍",
+    "Plasma_Pistols_T6_T6_Honed_Bamboo_DisplayName": "竹製電漿手槍",
+    "Plasma_Pistols_T7_T7_Honed_Bamboo_DisplayName": "竹製電漿手槍",
+    "Plasma_Pistols_T8_T8_Honed_Bamboo_DisplayName": "竹製電漿手槍",
+    "Plasma_Pistols_T7_T7_Honed_Dragon_Opal_DisplayName": "龍歐珀電漿手槍",
+    "Plasma_Pistols_T8_T8_Honed_Dragon_Opal_DisplayName": "龍歐珀電漿手槍",
+    "Plasma_Pistols_T5_T5_Honed_Kozustone_DisplayName": "寇祖石電漿手槍",
+    "Plasma_Pistols_T6_T6_Honed_Kozustone_DisplayName": "寇祖石電漿手槍",
+    "Plasma_Pistols_T7_T7_Honed_Kozustone_DisplayName": "寇祖石電漿手槍",
+    "Plasma_Pistols_T8_T8_Honed_Kozustone_DisplayName": "寇祖石電漿手槍",
+    "Plasma_Pistols_T6_T6_Honed_Steel_DisplayName": "鋼製電漿手槍",
+    "Plasma_Pistols_T7_T7_Honed_Steel_DisplayName": "鋼製電漿手槍",
+    "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "鋼製電漿手槍"
+  },
+  "Juno_UpdateItemData": {
+    "154D52A747D30B2EAFA712A289645F6D": "電漿手槍",
+    "61FD372A4CB97B18D20D6FA5761F7026": "電漿手槍",
+    "7B04D8D34F9407730A1CDB9CE3F62067": "電漿手槍",
+    "E4EF40D34E94A918540D478454F8A407": "電漿手槍"
+  }
+}

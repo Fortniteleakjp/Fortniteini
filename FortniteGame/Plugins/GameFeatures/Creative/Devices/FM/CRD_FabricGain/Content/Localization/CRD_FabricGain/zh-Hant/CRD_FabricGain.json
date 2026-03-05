@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "在將 Patchwork 音訊傳送到其他 Patchwork 裝置前，先調整其音訊輸入音量。當你的混音中有多個音訊來源時，對其中部分輸入套用「增益」可以幫助平衡整體音量。",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "在將 Patchwork 音訊傳送到其他 Patchwork 裝置前，先調整其音訊輸入音量。當你的混音中有多個音訊來源時，對其中部分輸入套用「增益」可以幫助平衡整體音量。",
+    "43690F0542ED4B273A4C72B2627C2936": "將輸入的音訊音量乘以所選數值。值設為 0 時會將音訊靜音。值設為 2 時則會將音訊音量放大兩倍。",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork 增益效果",
+    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork 增益效果",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork 增益效果"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "允許存取電纜",
+    "EEnabledOnPhase.Always.DisplayName": "始終",
+    "Device_FabricGain_C.AudioIn.DisplayName": "音訊輸入",
+    "Device_FabricGain_C.AudioOut.DisplayName": "音訊輸出",
+    "EEnabledOnPhase.Create Only.DisplayName": "僅限建立",
+    "Device_FabricGain_C.AllowPortSelection.Description": "決定 Patchwork 工具是否可以存取此裝置的電纜輸入或輸出埠。",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "決定啟用裝置的遊戲階段。「遊戲前階段」包含所有在遊戲正式開始前的階段，例如預備大廳或遊戲開始倒數等。此設定不影響編輯模式。",
+    "Device_FabricGain_C.Disable.DisplayName": "停用",
+    "Device_FabricGain_C.Disable.Description": "當事件發生時停用裝置。",
+    "Device_FabricGain_C.Enable.DisplayName": "啟用",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "階段時啟用",
+    "Device_FabricGain_C.Enable.Description": "當事件發生時啟用裝置。",
+    "Device_FabricGain_C.Gain.DisplayName": "增益",
+    "Device_FabricGain_C.GainIn.DisplayName": "增益輸入",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "僅限遊戲過程中",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "法律資訊",
+    "EEnabledOnPhase.None.DisplayName": "無",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "停用時",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "啟用時",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "請注意：Patchwork 音訊裝置僅限用於創作全新且原創的音樂作品。",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "電源鍵輸入",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "僅限遊戲前",
+    "Device_FabricGain_C.AudioOut.Description": "設定此裝置音訊輸出電纜的目的端。",
+    "Device_FabricGain_C.AudioIn.Description": "設定此裝置的音訊輸入埠輸入來源。",
+    "Device_FabricGain_C.GainIn.Description": "設定此裝置的增益旋鈕輸入來源。",
+    "Device_FabricGain_C.OnDisabled.Description": "裝置停用時觸發事件。",
+    "Device_FabricGain_C.OnEnabled.Description": "裝置啟用時觸發事件。"
+  }
+}

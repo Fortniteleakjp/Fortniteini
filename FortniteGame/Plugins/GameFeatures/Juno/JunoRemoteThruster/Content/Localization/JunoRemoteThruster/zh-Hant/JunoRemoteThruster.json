@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "需要加速的時候可以用幾個。 ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "讓你的加速再「咻！」一下"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "為現有結構和動態物件安裝大型推進器。",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "為現有結構和動態物件安裝小型推進器。",
+    "FB90A27F4B95E168E9C6CA88443875D0": "大型推進器",
+    "5E9A371D43E076126910D39AF338F4B5": "小型推進器"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "大型推進器",
+    "RemoteThruster_DisplayName": "小型推進器"
+  }
+}

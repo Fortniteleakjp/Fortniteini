@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "複数の値",
+    "NoComponent": "なし",
+    "ConvertSelectedActorsToIAsText": "[Juno] {0}をインスタンスアクタに変換"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "解決されたアクタパスの特性 '{0}' 、解決された行の名前 '{1}' および/またはリプレゼンテーション '{2}' が他の特性の名前と衝突しています",
+    "JunoResolveBiomeIngredients_Output": "R\"ドキュメント(以下の特性を追加:{ActorPath} : ストリング : スポーンするアクタのストリングパス (表の行からコピー){Representation} : 名前 : どのように作成されるべきかを示すEJunoRepresentationの値 (表の行からコピー){RowName} : フロート : 選ばれた行の名前)ドキュメント",
+    "JunoResolveBiomeIngredients_Input": "R\"ドキュメント(空間データのストリームから以下の特性を読み取り:{BiomeTableName} : ストリング : 読み取る地形データ表のパス{FilterName} : 名前 : 任意。 指定された場合、このプロパティの値と一致するタイプ名の行のみを選択します。{LayerWeight} : フロート : 任意。 指定された場合、'Weight'の代わりに'LayerWeights'の列が使われ、この値で補間されます。)ドキュメント",
+    "JunoResolveBiomeIngredients_Param": "R\"ドキュメント(設定のプロパティはオーバーライドされる場合あり:{P0} : 名前{P1} : 名前{P2} : 名前{P3} : 名前{P4} : 名前{P5} : 名前)ドキュメント",
+    "UPCGJunoPathfindSettingsShapePin": "経路検索の形状 (おそらく風景！)",
+    "UnableToGetPointData": "入力から地点データを取得できませんでした",
+    "UnableToGetSpatialData": "入力から空間データを取得できませんでした"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "高所テクスチャのデータを取得できず、初期化が失敗しました。",
+    "TextureInitFailed": "このテクスチャのデータを取得できず、初期化が失敗しました。",
+    "LandscapeComponentLost": "景観コンポーネントをひとつ以上参照できなかったため、草地マップは生成されません。"
+  }
+}

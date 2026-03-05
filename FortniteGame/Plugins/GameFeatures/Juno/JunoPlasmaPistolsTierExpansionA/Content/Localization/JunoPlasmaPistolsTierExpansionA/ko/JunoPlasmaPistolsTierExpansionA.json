@@ -1,0 +1,41 @@
+{
+  "": {
+    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "2526E3264410B707308E20B8534279DB": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "31A9F48344282DCF8F65FE8B306F22C8": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "A0E91B49404BEF991ACE78A035FB9FA5": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "0BF1727A4D90DCAEE14B258CC4212DE3": "에픽 플라스마 권총입니다. 적을 날려 버려 원자 구조를 분열시킵니다!",
+    "BAAFC86C4534ACB06CC80994621448C0": "전설 플라스마 권총입니다. 적을 날려 버려 원자 구조를 분열시킵니다!",
+    "44C70BA449A264B9703BCEABB9D340A3": "팔랑팔랑 휘둘러 펑펑 쏘는 플라스마 권총입니다.",
+    "422220DB4E40F60B63AEEFAE27DEA53E": "원거리 총",
+    "599752D6488B6EC23EC0C68BED53ED65": "원거리 총",
+    "62257ECA477347F53A1A868296689A18": "원거리 총",
+    "EA747D1E453DCB0F43A86580E4B5C092": "원거리 총",
+    "BF1756B943F369BD9986D993E258750C": "희귀 플라스마 권총입니다. 적을 날려 버려 원자 구조를 분열시킵니다!",
+    "ADCCA19C4060AFD909BE87A5893C2CE0": "고급 플라스마 권총입니다. 적을 날려 버려 원자 구조를 분열시킵니다!",
+    "46AA227040F5CC18B31C5CB3B87F2B93": "브르르르 지직 펑!",
+    "0CD3C87C459B141BAA857593CCFE8EF6": "우르르르 쩌억!",
+    "EFE2F67D4FE0515AF526C1898CC016BD": "지지지직 쾅!"
+  },
+  "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
+    "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "대나무 플라스마 권총",
+    "Plasma_Pistols_T6_T6_Honed_Bamboo_DisplayName": "대나무 플라스마 권총",
+    "Plasma_Pistols_T7_T7_Honed_Bamboo_DisplayName": "대나무 플라스마 권총",
+    "Plasma_Pistols_T8_T8_Honed_Bamboo_DisplayName": "대나무 플라스마 권총",
+    "Plasma_Pistols_T7_T7_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 플라스마 권총",
+    "Plasma_Pistols_T8_T8_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 플라스마 권총",
+    "Plasma_Pistols_T5_T5_Honed_Kozustone_DisplayName": "코주스톤 플라스마 권총",
+    "Plasma_Pistols_T6_T6_Honed_Kozustone_DisplayName": "코주스톤 플라스마 권총",
+    "Plasma_Pistols_T7_T7_Honed_Kozustone_DisplayName": "코주스톤 플라스마 권총",
+    "Plasma_Pistols_T8_T8_Honed_Kozustone_DisplayName": "코주스톤 플라스마 권총",
+    "Plasma_Pistols_T6_T6_Honed_Steel_DisplayName": "강철 플라스마 권총",
+    "Plasma_Pistols_T7_T7_Honed_Steel_DisplayName": "강철 플라스마 권총",
+    "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "강철 플라스마 권총"
+  },
+  "Juno_UpdateItemData": {
+    "154D52A747D30B2EAFA712A289645F6D": "플라스마 권총",
+    "61FD372A4CB97B18D20D6FA5761F7026": "플라스마 권총",
+    "7B04D8D34F9407730A1CDB9CE3F62067": "플라스마 권총",
+    "E4EF40D34E94A918540D478454F8A407": "플라스마 권총"
+  }
+}

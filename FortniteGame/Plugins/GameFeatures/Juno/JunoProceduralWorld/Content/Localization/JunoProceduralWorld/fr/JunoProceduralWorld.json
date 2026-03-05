@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Valeurs multiples",
+    "NoComponent": "Rien",
+    "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Attributs pour le chemin résolu de l'acteur '{0}', nom de la rangée du chemin résolu '{1}' et/ou représentation '{2}' entre en conflit avec le nom d'autres attributs.",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Ajoute les attributs suivants :{ActorPath} : Chemin : un chemin pour faire apparaître l'acteur (copié depuis la rangée du tableau){Representation} : Nom : Une valeur de EJunoRepresentation pour expliquer comment il doit être crée (copié depuis la rangée du tableau){RowName} : Flotter : le nom de la rangée choisie)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Lire les attributs suivants sur le flot des données spatiales :{BiomeTableName} : Chemin : un chemin qui permet de lire le tableau des données du biome{FilterName} : Nom : optionnel. Si spécifié, sélectionne uniquement les rangées avec un nom type qui correspond à la valeur de cette propriété. {LayerWeight} : Flotter : optionnel. Si spécifié, la colonne 'LayerWeights' est utilisée à la place de celle 'Weight', interpolée par cette valeur.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(Les paramètres de propriété peuvent être supplantés avec :{P0} : Nom{P1} : Nom{P2} : Nom{P3} : Nom{P4} : Nom{P5} : Nom)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Forme sur laquelle trouver son chemin (probablement un paysage !)",
+    "UnableToGetPointData": "Impossible de récupérer les données du point depuis le dispositif d'entrée.",
+    "UnableToGetSpatialData": "Impossible de récupérer les données spatiales depuis le dispositif d'entrée."
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Les données n'ont pas pu être récupérées pour la texture de hauteur ; l'initialisation a échoué.",
+    "TextureInitFailed": "Les données n'ont pas pu être récupérées pour cette texture ; l'initialisation a échoué.",
+    "LandscapeComponentLost": "Référence à un ou plusieurs composants de paysage perdu(s) ; les mappages d'herbe ne seront pas générés."
+  }
+}

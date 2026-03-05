@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "从何处接收信号时添加到结束游戏队列",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "强制岛屿赛局内所有玩家进行匹配。",
+    "8A7E9FBB45B757940356DFBCBD04F720": "游戏流送",
+    "D6605AA24CE9BB51B09055B216381F62": "游戏流送",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "岛屿代码",
+    "4906BC4442B704E71E23E9B9A01FF370": "等级门户",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "设置匹配传送门将传送的岛屿的代码。",
+    "413FED52446F49764E9AF9B6A2F275BB": "从何处接收信号时转移 Population"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "从何处接收到信号时禁用",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "从选定频道中接收信号时禁用。",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "从何处接收到信号时启用",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "从选定频道中接收信号时启用。",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "结束游戏时队列",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "转移填充"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "เล่นวิดีโอตามตารางเวลา",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "กำหนดเวลาการเล่นวิดีโอใน UEFN",
+    "04683984415B4636C2EF72B51E178286": "กำหนดการวิดีโอ",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "กำหนดการวิดีโอ"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "จัดตำแหน่งเมื่อเติมตารางเวลา",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "ควบคุมตัวเล่นวิดีโอ",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "ประจำวัน",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "ไม่ทำซ้ำ",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "เติมกำหนดการ",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "ช่องว่างเมื่อเติมตารางเวลา",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "รายชั่วโมง",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "เชื่อมต่อกับอุปกรณ์ตัวเล่นวิดีโอที่ควรจะถูกควบคุมโดยตารางเวลานี้",
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "ทำซ้ำกำหนดการ",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "กำหนดการ (ทดสอบ)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "เริ่ม",
+    "Device_VideoSchedule_Native_C.Start.Description": "เริ่มการเล่นตามกำหนดการวิดีโอ",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "หยุด",
+    "Device_VideoSchedule_Native_C.Stop.Description": "หยุดการเล่นตามกำหนดการวิดีโอ",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "รับการควบคุมการทดสอบ",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "ทดสอบฟังก์ชันเพื่อรับอีเวนต์ควบคุมตัวเล่นวิดีโอ",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "กำหนดว่าจะวนกำหนดเวลาซ้ำหรือไม่"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Volume folla",
+    "CBA0009043A15E05890AC68F8056B814": "Volume folla",
+    "E1067A64427AA66B822488B1D608CD94": "Volume folla",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Disabilita",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Disabilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "BFBBEB534C644E161C3AE491501828F6": "Abilita",
+    "650644994C28CFD38E31829A56E3464F": "Abilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Genera una folla per motivarti.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Genera una folla per motivarti.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Genera una folla per motivarti.",
+    "7EDB5C9C49AC528E948643B2245928A7": "Con questo dispositivo, puoi configurare una folla.",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=casella, other=caselle)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=casella, other=caselle)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=casella, other=caselle)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Sempre",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Allineamento personaggi",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Casualità angolo personaggio",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Casualità scala personaggio",
+    "EEnabledOnPhase.Create Only.DisplayName": "Solo creazione",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Densità folla",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Determina le fasi di gioco in cui il dispositivo sarà abilitato. Il pre-partita comprende tutte le fasi che precedono l'inizio del gioco, come la lobby di attesa per le isole in evidenza e il conto alla rovescia di inizio partita.",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Disabilita",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Disabilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Abilita",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Abilitato durante la fase",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Abilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Solo in gioco",
+    "EEnabledOnPhase.None.DisplayName": "Nessuna",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Solo pre-partita",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Imposta la densità della folla.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Imposta la precisione con cui i membri della folla sono allineati su una griglia.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Imposta il grado di casualità delle dimensioni dei membri della folla.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Imposta il grado di casualità della direzione in cui sono rivolti i membri della folla.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Imposta la profondità della zona in unità.",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Imposta l'altezza della zona in unità.",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Imposta la larghezza della zona in unità.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Profondità della zona",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Altezza della zona",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Larghezza della zona"
+  }
+}

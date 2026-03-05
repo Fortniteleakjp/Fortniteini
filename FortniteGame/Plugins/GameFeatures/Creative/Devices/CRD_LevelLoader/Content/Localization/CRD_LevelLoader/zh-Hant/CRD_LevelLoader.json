@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "分層載入裝置",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "分層載入裝置",
+    "6290D58B473E479F05752B83814E9464": "分層載入裝置會載入在分層實例裝置中建立的分層，而且允許你將分層放置在島嶼的任何地點並旋轉，包括可疊放在其他分層載入裝置的上方。",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "分層載入裝置會載入在分層實例裝置中建立的分層，而且允許你將分層放置在島嶼的任何地點並旋轉，包括可疊放在其他分層載入裝置的上方。",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "分層載入裝置會載入在分層實例裝置中建立的分層，而且允許你將分層放置在島嶼的任何地點並旋轉，包括可疊放在其他分層載入裝置的上方。"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "停用",
+    "BP_LevelLoaderDevice_C.Disable.Description": "在接收選定頻道的訊號時停用裝置。",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "啟用",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "遊戲開始時啟用",
+    "BP_LevelLoaderDevice_C.Enable.Description": "在接收選定頻道的訊號時啟用裝置。",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "分層實例名稱",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "將要載入的分層實例。",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "在遊戲開始時，此裝置是否啟用。"
+  }
+}

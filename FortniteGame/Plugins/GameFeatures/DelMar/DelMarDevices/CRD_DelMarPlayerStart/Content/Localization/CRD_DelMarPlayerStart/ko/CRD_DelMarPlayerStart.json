@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "로켓 레이싱 레이스 시작 장소",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "로켓 레이싱 플레이어 시작",
+    "0DF3230B4B023C3622D22CA51A8972F7": "로켓 레이싱 플레이어 시작 위치"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "차량이 출발선에 생성되는 순서를 결정합니다. 출발선에서 생성 시 0 미만의 값을 무시합니다.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "우선순위"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "Lama",
+    "33EE7DD140FA593C65E6858D3ED133F0": "Inquadratura",
+    "7D92FBAF4FF2178468D08FB5447138AA": "Impugnatura"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "Pugnali doppi d'ambra",
+    "Dual_Daggers_T5_Amber_DisplayName": "Pugnali doppi d'ambra",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "Pugnali doppi esplosivi",
+    "Dual_Daggers_T1_Bone_DisplayName": "Pugnali doppi d'osso",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "Pugnali doppi luminosi",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "Pugnali doppi dell'artiglio",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "Pugnali doppi dell'artiglio",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "Pugnali doppi dell'artiglio",
+    "Dual_Daggers_T3_Copper_DisplayName": "Pugnali doppi di rame",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "Pugnali doppi maledetti",
+    "Dual_Daggers_T4_Emerald_DisplayName": "Pugnali doppi di smeraldo",
+    "Dual_Daggers_T5_Emerald_DisplayName": "Pugnali doppi di smeraldo",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "Pugnali doppi di Legnoflesso",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "Pugnali doppi di Freddopino",
+    "Dual_Daggers_T1_Glass_DisplayName": "Pugnali doppi di vetro",
+    "Dual_Daggers_T3_Gold_DisplayName": "Pugnali doppi d'oro",
+    "Dual_Daggers_T2_Granite_DisplayName": "Pugnali doppi di granito",
+    "Dual_Daggers_T3_Iron_DisplayName": "Pugnali doppi di ferro",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "Pugnali doppi di Nodotorto",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "Pugnali doppi di mogano",
+    "Dual_Daggers_T2_Malachite_DisplayName": "Pugnali doppi di malachite",
+    "Dual_Daggers_T2_Marble_DisplayName": "Pugnali doppi di marmo",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "Pugnali doppi di ossidiana",
+    "Dual_Daggers_T2_Redrock_DisplayName": "Pugnali doppi di roccia rossa",
+    "Dual_Daggers_T4_Ruby_DisplayName": "Pugnali doppi di rubino",
+    "Dual_Daggers_T5_Ruby_DisplayName": "Pugnali doppi di rubino",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "Pugnali doppi di arenaria",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "Pugnali doppi di zaffiro",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "Pugnali doppi di zaffiro",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "Pugnali doppi di Corno infranto",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "Pugnali doppi di Corno infranto",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "Pugnali doppi della Tempesta",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "Pugnali doppi fenditempesta",
+    "Dual_Daggers_T1_Wood_DisplayName": "Pugnali doppi di legno"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "Pugnali doppi"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "GameSettingRegistryExtension_JunoReplay": {
+    "ReplayRecordingJuno_Name": "錄製 Juno 重播",
+    "ReplayRecordingJuno_Description": "切換錄製 Juno 對戰的開/關狀態。"
+  }
+}

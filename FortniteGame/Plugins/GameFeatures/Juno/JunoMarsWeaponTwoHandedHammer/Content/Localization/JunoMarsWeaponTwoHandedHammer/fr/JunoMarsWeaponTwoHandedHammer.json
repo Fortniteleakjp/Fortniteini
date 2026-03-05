@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Focalisation",
+    "43F09C044AF62206095CF781534EA856": "Manche",
+    "E6B68B79478A46E9684822B2F134867F": "Tête",
+    "DB549DF44E248CF55461B2BF32444D9A": "Tranchant"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Marteau de guerre en ambre",
+    "War_Hammer_T5_Amber_DisplayName": "Marteau de guerre en ambre",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Marteau de guerre explosif",
+    "War_Hammer_T1_Bone_DisplayName": "Marteau de guerre en os",
+    "War_Hammer_T2_Brightcore_DisplayName": "Marteau de guerre en diaphanite",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Marteau de guerre en griffes",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Marteau de guerre en griffes",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Marteau de guerre en griffes",
+    "War_Hammer_T3_Copper_DisplayName": "Marteau de guerre en cuivre",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Marteau de guerre maudit",
+    "War_Hammer_T4_Emerald_DisplayName": "Marteau de guerre en émeraude",
+    "War_Hammer_T5_Emerald_DisplayName": "Marteau de guerre en émeraude",
+    "War_Hammer_T1_Flexwood_DisplayName": "Marteau de guerre en bois souple",
+    "War_Hammer_T1_Frostpine_DisplayName": "Marteau de guerre en pin nordique",
+    "War_Hammer_T1_Glass_DisplayName": "Marteau de guerre en verre",
+    "War_Hammer_T3_Gold_DisplayName": "Marteau de guerre en or",
+    "War_Hammer_T2_Granite_DisplayName": "Marteau de guerre en granit",
+    "War_Hammer_T3_Iron_DisplayName": "Marteau de guerre en fer",
+    "War_Hammer_T1_Knotroot_DisplayName": "Marteau de guerre en bois noueux",
+    "War_Hammer_T1_Mahogany_DisplayName": "Marteau de guerre en acajou",
+    "War_Hammer_T2_Malachite_DisplayName": "Marteau de guerre en malachite",
+    "War_Hammer_T2_Marble_DisplayName": "Marteau de guerre en marbre",
+    "War_Hammer_T2_Obsidian_DisplayName": "Marteau de guerre en obsidienne",
+    "War_Hammer_T2_Redrock_DisplayName": "Marteau de guerre en pierre rouge",
+    "War_Hammer_T4_Ruby_DisplayName": "Marteau de guerre en rubis",
+    "War_Hammer_T5_Ruby_DisplayName": "Marteau de guerre en rubis",
+    "War_Hammer_T2_Sandstone_DisplayName": "Marteau de guerre en grès",
+    "War_Hammer_T4_Sapphire_DisplayName": "Marteau de guerre en saphir",
+    "War_Hammer_T5_Sapphire_DisplayName": "Marteau de guerre en saphir",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Marteau de guerre en corne brisée",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Marteau de guerre en corne brisée",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Marteau de guerre tempétueux",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Marteau de guerre de garde-tempête",
+    "War_Hammer_T1_Wood_DisplayName": "Marteau de guerre en bois"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Marteau de guerre"
+  }
+}

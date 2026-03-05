@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "Pojemnik, który pozwala łącznie zapisywać i umieszczać rekwizyty z zachowaniem ich relacji.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "Pojemnik, który pozwala łącznie zapisywać i umieszczać rekwizyty z zachowaniem ich relacji.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "Pojemnik, który pozwala łącznie zapisywać i umieszczać rekwizyty z zachowaniem ich relacji.",
+    "B83B1047441082FB019A61A98B6D0581": "Tryb kreatywny",
+    "5407FED74DA205FC418FA485B7622650": "Można edytować",
+    "3D5826A149B0F5277962A9A36BFFE13F": "Edycja",
+    "78335B4046FF677AC12593921618222C": "Błąd",
+    "4AA32A31415D1CEE34CCED9C69768627": "Urządzenie instancji poziomu",
+    "85848E934539608AA1BD9D834830CA76": "Urządzenie instancji poziomu",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "Zablokowane",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "Umieszczono",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "Umieszczanie"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "Spowoduje to usunięcie zawartości wszystkich urządzeń dla tego poziomu."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "Zawartość kolekcji",
+    "BP_LevelInstanceDevice_C.EditState.Description": "Określa, czy na tym poziomie można dodawać obiekty.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "Wyłącz",
+    "BP_LevelInstanceDevice_C.Disable.Description": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "Stan edycji",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "Można edytować",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "Włącz",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "Włączono od początku gry",
+    "BP_LevelInstanceDevice_C.Enable.Description": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "Głębokość poziomu",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "Wysokość poziomu",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "Nazwa instancji poziomu",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "Szerokość poziomu",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "Zablokowano",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "Nazwa poziomu, który zostanie wczytany.",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "Uniemożliwia uwzględnienie w instancji poziomu treści, która nie pasuje do wyboru.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "Głębokość placu budowy (w polach). \r\n\r\nUWAGA: Zmniejszenie rozmiaru może spowodować usunięcie rekwizytów, które znajdą się poza jego granicami.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "Wysokość placu budowy (w polach). \r\n\r\nUWAGA: Zmniejszenie rozmiaru może spowodować usunięcie rekwizytów, które znajdą się poza jego granicami.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "Szerokość placu budowy (w polach). \r\n\r\nUWAGA: Zmniejszenie rozmiaru może spowodować usunięcie rekwizytów, które znajdą się poza jego granicami.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "Określa, czy urządzenie ma być włączane od razu po rozpoczęciu gry."
+  }
+}

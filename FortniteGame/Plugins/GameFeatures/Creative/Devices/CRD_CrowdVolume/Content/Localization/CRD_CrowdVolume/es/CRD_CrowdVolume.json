@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Generador de multitudes",
+    "CBA0009043A15E05890AC68F8056B814": "Generador de multitudes",
+    "E1067A64427AA66B822488B1D608CD94": "Generador de multitudes",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Deshabilitar",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BFBBEB534C644E161C3AE491501828F6": "Habilitar",
+    "650644994C28CFD38E31829A56E3464F": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Genera una multitud que vitorea.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Genera una multitud que vitorea.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Genera una multitud que vitorea.",
+    "7EDB5C9C49AC528E948643B2245928A7": "Este dispositivo te permite colocar una multitud.",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=casilla, other=casillas)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=casilla, other=casillas)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=casilla, other=casillas)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0} %",
+    "524941774170EB80263952B139029CF0": "{0} %",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0} %",
+    "E38B41C544828B86144091BA57C7AC52": "{0} %"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Siempre",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Ajuste de los personajes",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Aleatoriedad del ángulo de los personajes",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Aleatoriedad del tamaño de los personajes",
+    "EEnabledOnPhase.Create Only.DisplayName": "Solo durante la creación",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Densidad de la multitud",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Establece las fases de la partida durante las que el dispositivo estará habilitado. \"Solo fase anterior\" incluye todas las fases anteriores al comienzo de la partida (mientras se espera a todos los jugadores en la sala de las islas destacadas y la cuenta atrás inicial).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Deshabilitar",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Permitir",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Habilitado durante fase",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Solo en partida",
+    "EEnabledOnPhase.None.DisplayName": "Nada",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Solo fase anterior",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Establece la densidad de la multitud.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Establece la precisión con la que se alinean los miembros de la multitud en relación a una cuadrícula.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Establece la cantidad de aleatoriedad que determina el tamaño de los miembros de la multitud.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Establece la cantidad de aleatoriedad que determina hacia qué dirección miran los miembros de la multitud.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Establece la profundidad de la zona en casillas.",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Establece la altura de la zona en casillas.",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Establece el ancho de la zona en casillas.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Profundidad de la zona",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Altura de la zona",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Anchura de la zona"
+  }
+}

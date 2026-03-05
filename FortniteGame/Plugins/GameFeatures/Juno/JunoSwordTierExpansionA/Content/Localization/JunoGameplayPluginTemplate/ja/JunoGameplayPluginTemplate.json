@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "レジェンドの剣。敵に近づいての近接戦闘に最適。",
+    "A5C5C211434AA2839F6672858D879834": "これより強いペンはない。",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "剣",
+    "691AD6104B64E9B53B152A932C3A7948": "<EmphA>製材機</>が必要だ。",
+    "AF59C13740BF3D246EFE6894041683CA": "<EmphA>製材機</>が必要だ。",
+    "D46F690B44A43726C9409EBBF35FBD5A": "<EmphA>製材機</>が必要だ。",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "<EmphA>製材機</>が必要だ。"
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "竹の剣",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "竹の剣",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "竹の剣",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "竹の剣",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "ドラゴンオパールの剣",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "ドラゴンオパールの剣",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "神津石の剣",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "神津石の剣",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "神津石の剣",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "神津石の剣",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "鋼鉄の剣",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "鋼鉄の剣",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "鋼鉄の剣"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "レアの剣。敵に近づいての近接戦闘に最適。",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "みじめな体ケン。",
+    "CAD24296497618FE393B79B375B3D198": "エピックの剣。敵に近づいての近接戦闘に最適。",
+    "7F0D841F4798D9DA06E8CB9880022753": "アンコモンの剣。敵に近づいての近接戦闘に最適。",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "ナイフっぽいけど… ずっと強力。",
+    "30D0CC564A676E401A2AF193711F5A03": "その翼と剣を広げて。",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "剣",
+    "C9A902E24804F529DDB98399903E1F9F": "剣",
+    "F07655364C7958D6AB473B8B9ABA433A": "剣"
+  }
+}

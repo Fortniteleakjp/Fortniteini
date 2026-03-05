@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "อุปกรณ์ตัวโหลดด่าน",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "อุปกรณ์ตัวโหลดด่าน",
+    "6290D58B473E479F05752B83814E9464": "อุปกรณ์ตัวโหลดด่านจะโหลดด่านที่สร้างขึ้นในอุปกรณ์อินสแตนซ์ด่าน และอนุญาตให้คุณวางและหมุนด่านที่ไหนก็ได้บนเกาะของคุณ รวมถึงด้านบนอุปกรณ์ตัวโหลดด่านเครื่องอื่น",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "อุปกรณ์ตัวโหลดด่านจะโหลดด่านที่สร้างขึ้นในอุปกรณ์อินสแตนซ์ด่าน และอนุญาตให้คุณวางและหมุนด่านที่ไหนก็ได้บนเกาะของคุณ รวมถึงด้านบนอุปกรณ์ตัวโหลดด่านเครื่องอื่น",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "อุปกรณ์ตัวโหลดด่านจะโหลดด่านที่สร้างขึ้นในอุปกรณ์อินสแตนซ์ด่าน และอนุญาตให้คุณวางและหมุนด่านที่ไหนก็ได้บนเกาะของคุณ รวมถึงด้านบนอุปกรณ์ตัวโหลดด่านเครื่องอื่น"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "ปิดใช้งาน",
+    "BP_LevelLoaderDevice_C.Disable.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "เปิดใช้งาน",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "เปิดใช้งานเมื่อเริ่มเกม",
+    "BP_LevelLoaderDevice_C.Enable.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "ชื่ออินสแตนซ์ด่าน",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "ชื่อของด่านที่จะโหลด",
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "กำหนดว่าอุปกรณ์นี้จะเปิดใช้งานหรือไม่เมื่อเริ่มเกม"
+  }
+}

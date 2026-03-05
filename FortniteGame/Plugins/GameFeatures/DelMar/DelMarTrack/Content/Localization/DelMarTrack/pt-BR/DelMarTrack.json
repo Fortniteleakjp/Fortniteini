@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Ativa uma pista determinada quando um piloto insere este volume. Geralmente usado em pistas sem geometria.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "Volume de pista ativa do RR"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Forçar ressurgimentos de pista oculta",
+    "MultipleValues": "Valores múltiplos",
+    "Off Track Radius": "Raio fora da pista",
+    "Use Back Endcap": "Usar extremidade traseira",
+    "Use Front Endcap": "Usar extremidade frontal",
+    "Use Stable Roll": "Usar rolamento estável"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "Alterar forma de nós múltiplos",
+    "DeleteMultipleNodeConfirmation": "Excluir nós múltiplos?",
+    "DeleteMultipleNodes": "Excluir nós múltiplos",
+    "EnableOOBTube": "Habilitar Tubo OOB",
+    "MeshCustomizations": "Personalizações de malha em múltiplos",
+    "MultipleNodesSelected": "Nós múltiplos selecionados",
+    "UseStableRollOnMultiple": "Usar rolamento estável em múltiplos"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "Excluir nó",
+    "DeleteNodeConfirmation": "Excluir nó?",
+    "MetaDataIndexTitle": "Índice: {CurrentIndex}",
+    "SingleNodeSelected": "Nó único selecionado",
+    "SplitNode": "Dividir no nó",
+    "SplitNodeConfirmation": "Dividir no nó?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "Dispositivo",
+    "DeviceProperties": "Propriedades do dispositivo",
+    "EditDevice": "Editar dispositivo",
+    "EditTrack": "Editar pista",
+    "Looping Track": "Pista com loop",
+    "None": "Nenhuma",
+    "RoadStyle": "Estilo da estrada",
+    "SelectSplinePoints": "Selecionar pontos de spline",
+    "SelectedPoints": "Pontos selecionados",
+    "Theme": "Tema",
+    "Track": "Pista"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "Conexão ruim na pista secundária! Veja se todas as pistas secundárias estão conectadas a pistas principais ou secundárias: {1}). Mapa: {2}",
+    "NoEndTrackConnection": "A pista secundária não tem EndTrackConnection em {0}. Mapa: {1}",
+    "NoStartTrackConnection": "A pista secundária não tem StartTrackConnection em {0}. Mapa: {1}",
+    "SecondaryTrackLoops": "Loop na pista secundária detectado! Loop detectado na pista {0} (pista inicial: {1}). Mapa: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "Avançado",
+    "AttachToEnd": "Vincular ao fim",
+    "AttachToStart": "Vincule para começar",
+    "Attaching": "Vincular",
+    "ConvertOobTubesToNative_Label": "Converter tubos OOB de blueprint para nativo",
+    "ConvertOobTubesToNative_Tooltip": "Converte todos os tubos OOB de blueprint para seu equivalente nativo.",
+    "DelMarTrack": "Pista Del Mar",
+    "PrintAttachableActors": "Imprimir atores vinculáveis",
+    "RebuildOobTube": "Reconstruir Tubo OOB",
+    "DelMarStyleEditor": "Editor de estilo"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Visualizador de componente de spline Del Mar"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "Tubo OOB",
+    "Rebuild OOB Tube": "Reconstruir Tubo OOB",
+    "RoadSplineTabTitle": "Spline de estrada",
+    "SelectedSplineTabTitle": "Nó selecionado",
+    "SplineLengthTitle": "Comprimento do spline: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "Selecionar pontos de spline",
+    "SelectedPoints": "Pontos selecionados"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "Estrada inclinada",
+    "Change Road Shape": "Alterar formato da estrada",
+    "FlatRoad": "Estrada plana",
+    "HalfPipe": "Meio-cano",
+    "Pipe": "Cano",
+    "RoadShape": "Formato da estrada",
+    "Tunnel": "Túnel"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Adicione o próximo ponto de spline à seleção atual.",
+    "SelectAddPrevSplinePointToolTip": "Adicione o ponto de spline anterior à seleção atual.",
+    "DeleteMultipleNodeConfirmation": "Excluir nós múltiplos?",
+    "SelectDeleteSplinePointToolTip": "Excluir ponto na seleção atual.",
+    "SelectAllSplinePointToolTip": "Selecione todos os pontos de spline.",
+    "SelectFirstSplinePointToolTip": "Selecione o primeiro ponto de spline.",
+    "SelectLastSplinePointToolTip": "Selecione o último ponto de spline.",
+    "SelectNextSplinePointToolTip": "Selecione o próximo ponto de spline.",
+    "SelectPrevSplinePointToolTip": "Selecione o ponto de spline anterior.",
+    "SplitNodeConfirmation": "Dividir no nó selecionado?",
+    "SelectSplitSplinePointToolTip": "Dividir nós em índices selecionados."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Alterna o sinalizador UseStableRoll do ponto de spline selecionado",
+    "ToggleUseStableRoll": "Usar rolamento estável"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Rastreie para ativar"
+  }
+}

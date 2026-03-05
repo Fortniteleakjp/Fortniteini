@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "الذاكرة ضعيفة",
+    "Return to main menu reason (default)": "وصلت الذاكرة إلى مستويات حرجة - انتهت الجلسة.\n تم حفظ آخر تقدم لك! عُد إلى الوضع الإبداعي واستأنف اللعبة من حيث توقفت.",
+    "Warning toast description (default)": "قد تنتهي الجلسة بشكل غير متوقع."
+  }
+}

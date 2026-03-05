@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "Почти готово! Запустите приложение, чтобы завершить процесс.",
+    "DownloadCompleteNotification.Title": "Завершите установку и начните игру",
+    "DownloadCompleteNotification.ActionText": "Установить",
+    "InstallBundleSourceValkyrieDownloadedFmt": "InstallBundleSourceGameCustom: загружено {0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "InstallBundleSourceGameCustom: установлено {0}",
+    "Simulate_BuildVerify_Error": "Ошибка установки. Обратитесь в службу поддержки."
+  }
+}

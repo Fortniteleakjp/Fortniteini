@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "間距：{1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}：在{1}以外生成",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}，{ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "放置{ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>被淘汰掉了</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>已被圖騰拯救</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "贈送{ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "給我全部的東西！",
+    "LNFDropNOfX": "{WantItemCount} 個{WantItem}。"
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "加入營地{0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "數量不足以交易。需要 {WantItemCount} 個{WantItem}換取 {SellItemCount} 個{SellItem}。\n剩下 {BundleCount} 組。",
+    "TradeXForX": "用 {WantItemCount} 個{WantItem}換取 {SellItemCount} 個{SellItem}。\n剩下 {BundleCount} 組。"
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "完成！",
+    "GetX": "取得{0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>已進入世界</>",
+    "GameMemberDisconnected": "{0} <Yellow>已退出世界</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "增加充能",
+    "ChargeCostUnits": "充能",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "？？？",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "繼續",
+    "JunoSpeech_NoAIRole": "無業",
+    "JunoSpeech_NoBoundCampName": "無名村莊",
+    "JunoSpeech_NoLastUsedGatheringActor": "無站點"
+  },
+  "JunoStorageChest": {
+    "Open": "開啟",
+    "Search": "搜索"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName}的村莊{VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "因閒置而被踢出。由於你閒置時間過長，與主機的連線已丟失。",
+    "SpawnedWhenPermanentlyDead": "這位顧客沒命了。"
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "進入引導建物"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "這個好友世界是你這週最後可以放置擁有的內容的世界。",
+    "MCPItemPlacedMessageTitleText": "警告！已擁有內容",
+    "MCPItemPlacedMessageDescription_NLeft": "你這週還可以在{0}名好友的世界放置擁有的內容。"
+  }
+}

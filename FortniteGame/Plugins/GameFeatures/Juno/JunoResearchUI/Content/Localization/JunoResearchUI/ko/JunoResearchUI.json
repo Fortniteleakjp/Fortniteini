@@ -1,0 +1,33 @@
+{
+  "": {
+    "19ACA3784C9E44E8BE91899105DF6A04": "0",
+    "75E779BC48F72B0FB644BF830A11A1C1": "<Essence_Current>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "9BAE8D574CAD3975632AAB9854E8ABA3": "<Essence_Full>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "E885F4D4445059F3D3E224A08C420745": "능력 장비",
+    "453CFCA043482357A9490992C2D88E98": "뒤로",
+    "A66FFD79437A7C4EE261A58B81F9F1DF": "닫기",
+    "AC1CC62543EB6DB85055919D0313B288": "제작 레시피",
+    "00B7D9BF432BC3CE81140CA02785CD37": "정수",
+    "FEFB063C42905A6210A5C4A1614916D5": "히어로",
+    "71F083C3404AB8E3A747779A7EF01671": "히어로 숙련에는 <Research>히어로 무기</> 및 <Research>능력 장비</> 아이템 제작법과 <Research>지속 효과</>가 포함됩니다.\n\n모은 정수를 사용해 아이템에 대해 배우고 조건을 충족해 잠금 해제해 보세요!  잠금 해제된 제작법은 <Research>히어로 스테이션</>에서 만들 수 있습니다. 히어로 스테이션은 화강암을 모으면 발견할 수 있으며, <Research>건설 메뉴</>에서 제작할 수 있습니다.\n\n잠금이 해제된 <Research>지속 효과</>는 효과의 등급 조건이 충족되는 한 지정된 무기에 자동으로 적용됩니다.",
+    "0B32CD5A4ED05EFBDBB0259E89474222": "배우기",
+    "2DD93B44441F8685E6012DBFFA0D3C6F": "레벨 {Curr}/{Max}",
+    "27FD1DCD43DFFEB7F45E40B1C2D89659": "숙련 완료!",
+    "6B280313437D1F92980653BB23B1B8A3": "숙련",
+    "8622C6FC44D18974363C8F9DF2210E6D": "숙련 가능!",
+    "9E62741E4D0B658A763EC8B9E897BB03": "숙련 가능!",
+    "955710F848FC692B0D6F6C85659B6228": "더 많은 숙련 분기가 곧 추가됩니다!",
+    "177907084ED421444E82248E1A639E08": "신규!",
+    "F2A2739A40218E238C686D84E34CB03B": "오디세이",
+    "8452A3A346AD7425CC6AAFA6B0535F32": "지속 효과",
+    "850AC88E4A827A0FFF643EBA4C1DDB50": "연구",
+    "7A2D475343B4E45A60D5CABB82E919AD": "이 <Research>지속 효과</>는 모든 등급의 <Research>{Theme} 능력 장비</> 장착 시 적용됩니다.",
+    "5A23004B4E60012AC25115820A8CDEDA": "이 <Research>지속 효과</>는 모든 등급의 <Research>{Theme} 무기</> 장착 시 적용됩니다.",
+    "28988A8049879442C9F30EBDAD228E26": "잠금 해제 요건:",
+    "73C4C01F44D1CD89BA3C2C9B834E3D0F": "<ItemName>{ItemName}</> 제작 능력을 잠금 해제합니다.",
+    "3F95333544CE1E9B8F7B5C86225E2168": "무기",
+    "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
+    "E94F82024EF41828E5066E94805EFC16": "{Num}개 이용 가능",
+    "FB1530584BB53CC80CA5F7B059A572E0": "{Num}개 이용 가능"
+  }
+}

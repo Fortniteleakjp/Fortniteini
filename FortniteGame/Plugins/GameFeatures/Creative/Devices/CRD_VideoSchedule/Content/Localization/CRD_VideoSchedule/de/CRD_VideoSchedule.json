@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Gibt ein Video basierend auf einem Zeitplan wieder.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Erstellt einen Zeitplan für die Video-Wiedergabe in UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Video-Zeitplan",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "Video-Zeitplan"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Ausrichten beim Füllen des Zeitplans",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Video-Player kontrollieren",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Täglich",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Zeitplan nicht wiederholen",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Zeitplan füllen",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Lücke beim Füllen des Zeitplans",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Stündlich",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Erstellt einen Link zum Video-Player-Gerät, das von diesem Zeitplan kontrolliert werden soll.",
+    "BoolMetaData.FalseDisplayName": "Aus",
+    "BoolMetaData.TrueDisplayName": "Ein",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Zeitplan wiederholen",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Zeitplan (Test)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Starten",
+    "Device_VideoSchedule_Native_C.Start.Description": "Startet die Wiedergabe des Video-Zeitplans.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Stoppen",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Stoppt die Wiedergabe des Video-Zeitplans.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Kontrollübernahme testen",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Mit dieser Testfunktion erhältst du die Kontrolle über das Video-Player-Event.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Bestimmt, ob der Zeitplan wiederholt wird."
+  }
+}

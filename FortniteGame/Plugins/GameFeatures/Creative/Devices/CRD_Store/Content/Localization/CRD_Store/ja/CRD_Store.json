@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "アイテムショップのポータル",
+    "A636CB9048F6D10A27FAE2ACA3336261": "アイテムショップのポータル",
+    "ECA01A1C4D96960EA267CEA75C458F15": "アイテムショップのポータル",
+    "F0DA7B7A455C002838011E9950021E4F": "アイテムショップのポータル",
+    "F6BA046441D88E68E7317EB0D779DDEE": "アイテムショップのポータル",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "ストアを開く",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "ストアを開く",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "受信しているとストアを開く",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "ストアを開く: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "ストアを開く: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "選択したチャンネルで受信すると、起動したプレイヤーはストアを開く。",
+    "18E3F3AD48251A9142A05A8349684E89": "この仕掛けは起動時にアイテムショップを開く。",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "この仕掛けは起動時にアイテムショップを開く。",
+    "79656CFD409EE4E11B68988ACDCA8585": "この仕掛けは起動時にアイテムショップを開く。",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "この仕掛けは起動時にアイテムショップを開く。",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "この仕掛けは起動時にアイテムショップを開く。"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "常時",
+    "EEnabledOnPhase.Create Only.DisplayName": "作成限定",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "仕掛けが有効になるゲームフェーズを設定する。「ゲーム前」はゲームが始まる前の全てのフェーズ(おすすめの島でプレイヤーを待っている間のロビーとゲームスタートのカウントダウン)が含まれます。",
+    "Device_ItemShop_V2_C.InteractTime.Description": "仕掛けを起動するのに必要なインタラクトの長さの設定。",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "無効化",
+    "Device_Store_C.Disable.DisplayName": "無効化",
+    "Device_Store_C.Disable.Description": "選択されたチャンネルから信号を受信していると、この仕掛けを無効にする。",
+    "Device_ItemShop_V2_C.Disable.Description": "仕掛けを無効化する。",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "有効化",
+    "Device_Store_C.Enable.DisplayName": "有効化",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "有効なゲームフェーズ",
+    "Device_Store_C.Enable.Description": "選択されたチャンネルから信号を受信していると、この仕掛けを有効にする。",
+    "Device_ItemShop_V2_C.Enable.Description": "仕掛けを有効化する。",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "ゲームプレイのみ",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "インタラクト時間",
+    "EEnabledOnPhase.None.DisplayName": "なし",
+    "Device_Store_C.OpenStore.DisplayName": "ストアを開く",
+    "Device_Store_C.OpenStore.Description": "選択したチャンネルで受信すると、起動したプレイヤーはストアを開く。",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "ゲーム前のみ"
+  }
+}

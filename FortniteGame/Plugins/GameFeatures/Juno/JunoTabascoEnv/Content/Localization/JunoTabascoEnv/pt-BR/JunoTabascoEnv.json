@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "Pegar Madeira",
+    "EC841CD54B7090D2510D7586F386C251": "Pegar Madeira"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Pressionar E para Editar"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Personalizar"
+  }
+}

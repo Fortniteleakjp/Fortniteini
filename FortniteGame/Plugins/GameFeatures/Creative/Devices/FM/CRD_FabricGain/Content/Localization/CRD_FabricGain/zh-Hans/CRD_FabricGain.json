@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "在将 Patchwork 音频输入发送到另一 Patchwork 音频设备前调整音量。拥有多个音频输出的混音时，对其中一些采用增益有助于平衡各个输入在总混音中的音量平衡。",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "在将 Patchwork 音频输入发送到另一 Patchwork 音频设备前调整音量。拥有多个音频输出的混音时，对其中一些采用增益有助于平衡各个输入在总混音中的音量平衡。",
+    "43690F0542ED4B273A4C72B2627C2936": "音频输出音量与选定数值相乘。数值为 0，则静音。数值为 2，则音频音量翻倍。",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork 增益效果",
+    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork 增益效果",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork 增益效果"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "允许缆线连接",
+    "EEnabledOnPhase.Always.DisplayName": "永远",
+    "Device_FabricGain_C.AudioIn.DisplayName": "音频输入",
+    "Device_FabricGain_C.AudioOut.DisplayName": "音频输出",
+    "EEnabledOnPhase.Create Only.DisplayName": "仅限创建",
+    "Device_FabricGain_C.AllowPortSelection.Description": "确定 Patchwork 工具是否可访问设备上输入或输出端口的任意缆线。",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "确定设备将被启用的游戏阶段。游戏前阶段包括游戏开始前的所有阶段（如游戏前大厅或开始游戏前的倒计时）。此设置不影响编辑模式。",
+    "Device_FabricGain_C.Disable.DisplayName": "禁用",
+    "Device_FabricGain_C.Disable.Description": "事件发生时禁用设备。",
+    "Device_FabricGain_C.Enable.DisplayName": "启用",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "在该阶段启用",
+    "Device_FabricGain_C.Enable.Description": "事件发生时启用设备。",
+    "Device_FabricGain_C.Gain.DisplayName": "增益",
+    "Device_FabricGain_C.GainIn.DisplayName": "增益输入",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "仅限游戏",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "法律信息",
+    "EEnabledOnPhase.None.DisplayName": "无",
+    "BoolMetaData.FalseDisplayName": "关",
+    "BoolMetaData.TrueDisplayName": "开",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "禁用时",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "启用时",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "请注意：使用 Patchwork 音频设备仅限于创作新的原创音乐作品。",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "电力按钮按下",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "仅限游戏倒计时",
+    "Device_FabricGain_C.AudioOut.Description": "设置此设备音频输出缆线的目标。",
+    "Device_FabricGain_C.AudioIn.Description": "设置此设备音频输入端口的输入。",
+    "Device_FabricGain_C.GainIn.Description": "设置此设备增益旋钮的输入。",
+    "Device_FabricGain_C.OnDisabled.Description": "设备禁用时触发事件。",
+    "Device_FabricGain_C.OnEnabled.Description": "设备启用时触发一个事件。"
+  }
+}

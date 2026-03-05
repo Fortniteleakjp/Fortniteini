@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "単一の整数。生成すべき会話の選択肢数を表している(多いほどよい)。",
+    "NulledOption": "不使用テキスト 無視する。",
+    "OptionFive_NPCResponse": "NPCの返答全文、プレイヤーが「OptionFive」(使用されていれば)を選択している場合にのみ発生。",
+    "OptionFour_NPCResponse": "NPCの返答全文、プレイヤーが「OptionFour」(使用されていれば)を選択している場合にのみ発生。",
+    "OptionOne_NPCResponse": "NPCの返答全文、プレイヤーが「OptionOne」(使用されていれば)を選択している場合にのみ発生。",
+    "OptionSix_NPCResponse": "NPCの返答全文、プレイヤーが「OptionSix」(使用されていれば)を選択している場合にのみ発生。",
+    "OptionThree_NPCResponse": "NPCの返答全文、プレイヤーが「OptionThree」(使用されていれば)を選択している場合にのみ発生。",
+    "OptionTwo_NPCResponse": "NPCの返答全文、プレイヤーが「OptionTwo」(使用されていれば)を選択している場合にのみ発生。",
+    "MainQuestion": "NPCが尋ねるメインの質問、プレイヤーは選択肢をひとつ選んで回答。",
+    "OptionFive": "プレイヤーに提示される5番目の会話オプションのテキスト。 「MainQuestion」への回答候補。",
+    "OptionOne": "プレイヤーに提示される最初の会話オプションのテキスト。 「MainQuestion」への回答候補。",
+    "OptionFour": "プレイヤーに提示される4番目の会話オプションのテキスト。 「MainQuestion」への回答候補。",
+    "OptionTwo": "プレイヤーに提示される2番目の会話オプションのテキスト。 「MainQuestion」への回答候補。",
+    "OptionSix": "プレイヤーに提示される6番目の会話オプションのテキスト。 「MainQuestion」への回答候補。",
+    "OptionThree": "プレイヤーに提示される3番目の会話オプションのテキスト。 「MainQuestion」への回答候補。"
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "肝心なのは、会話の直前のセリフにのみ基づいて選択を行い、NPCがその時点で抱えているメイン感情に左右されないこと。なお、NPCの感情については調整対象(喜び、悲しみ、怒り、おびえ、ニュートラル)を選んだ後に、アニメーションが再生されて、対象感情のスコアが加算される。ただし、NPCのメイン感情はこれらの中でもっともスコアが高いものとし、喜びなら前向きになり、悲しみなら陰気になり、怒りなら対抗的になり、おびえなら物怖じする。",
+    "FeelingChangeValue": "FeelingChangeの強度を設定する。感情は素早く衰えるため、値は瞬間的な感情の重みに沿ったものとしなければならない。単純で何気ない会話なら、控え目に0～20の値を使用する(もっとも簡単なあいさつは0に近い)。プレイヤーのアクションを必要とする大事なイベントや会話なら、ほどほどに20～60の値を使用。大掛かりで、きわめて重要な瞬間(裏切り、クエスト達成、最高のプレゼントの受け取りなど)なら、高い値として60～100を使用すること。",
+    "DialogueDescription": "言わせたいセリフ。"
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "思考中…"
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "思考中…"
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "思考中…"
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "アイテムの定義「{0}」はゲーム機能のデータに登録されていないため、見つけることができません。",
+    "DuplicatePrimaryAssetError": "2つの異なるアセットが同じプライマリアセットID「{0}」と「{1}」を共有しています"
+  }
+}

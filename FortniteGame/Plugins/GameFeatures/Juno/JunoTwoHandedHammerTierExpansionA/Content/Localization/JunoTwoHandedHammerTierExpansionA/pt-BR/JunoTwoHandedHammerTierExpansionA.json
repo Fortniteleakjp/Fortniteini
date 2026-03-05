@@ -1,0 +1,37 @@
+{
+  "": {
+    "28E72C38425C3B8AB2AA5EA8E5AD1A15": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
+    "57A539DD47CDF8395F0088A467105B02": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
+    "B9FE580C4925E2BEE1E22F98C900FB65": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
+    "F90A1F3346CC9875EE491F8829E2FCF8": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
+    "3DEA426B44A835F144B182A957DA5EBA": "Martelo de Guerra Épico. Golpeie os oponentes com esta arma de impacto pesado.",
+    "14FF72094B53E97CB9F429B87FBACFD0": "Martelo de Guerra que martela.",
+    "FA3F83A648BF69AE6614108F5CD80077": "Na mosca.",
+    "8B20EDAD47A6DABF370409A594644EFC": "Martelo de Guerra Raro. Golpeie os oponentes com esta arma de impacto pesado.",
+    "4174AF8D49365E67706702BAC373BB4F": "Martelo de Guerra Incomum. Golpeie os oponentes com esta arma de impacto pesado.",
+    "A40AF6404A4825AF67DBF1BD3BF5C248": "Pesado até demais.",
+    "D4B3E1D842FC7E9DB09905BCA958CB7E": "A vitória é um prato que se degusta com um martelo."
+  },
+  "Juno_BoostedItemNames_TwoHandedHammerTierExpansionA": {
+    "War_Hammer_T5_T5_Honed_Bamboo_DisplayName": "Martelo de Guerra de Bambu",
+    "War_Hammer_T6_T6_Honed_Bamboo_DisplayName": "Martelo de Guerra de Bambu",
+    "War_Hammer_T7_T7_Honed_Bamboo_DisplayName": "Martelo de Guerra de Bambu",
+    "War_Hammer_T8_T8_Honed_Bamboo_DisplayName": "Martelo de Guerra de Bambu",
+    "War_Hammer_T7_T7_Honed_Dragon_Opal_DisplayName": "Martelo de Guerra de Opala Dracônica",
+    "War_Hammer_T8_T8_Honed_Dragon_Opal_DisplayName": "Martelo de Guerra de Opala Dracônica",
+    "War_Hammer_T5_T5_Honed_Kozustone_DisplayName": "Martelo de Guerra de Pedra Kozu",
+    "War_Hammer_T6_T6_Honed_Kozustone_DisplayName": "Martelo de Guerra de Pedra Kozu",
+    "War_Hammer_T7_T7_Honed_Kozustone_DisplayName": "Martelo de Guerra de Pedra Kozu",
+    "War_Hammer_T8_T8_Honed_Kozustone_DisplayName": "Martelo de Guerra de Pedra Kozu",
+    "War_Hammer_T6_T6_Honed_Steel_DisplayName": "Martelo de Guerra de Aço",
+    "War_Hammer_T7_T7_Honed_Steel_DisplayName": "Martelo de Guerra de Aço",
+    "War_Hammer_T8_T8_Honed_Steel_DisplayName": "Martelo de Guerra de Aço"
+  },
+  "Juno_UpdateItemData": {
+    "04FB67D4444ED093AE4F1DBC81F23A1E": "Martelo de Guerra Lendário. Golpeie os oponentes com esta arma de impacto pesado.",
+    "05BE2FD048E3A4B77D62B79D36CC3EC6": "Martelo de Guerra",
+    "972268DD4AFBA4F71925EABA369E28C3": "Martelo de Guerra",
+    "993B8EED481C3F515FA04BA6FAEAF045": "Martelo de Guerra",
+    "FEFA7012457936A9E78946843E2A1D15": "Martelo de Guerra"
+  }
+}

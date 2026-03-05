@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "Un maillage squelettique qui peut jouer une animation.",
+    "477037CE4A29EB50C5A6E5B004123435": "Maillage animé",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "Maillage animé",
+    "9D01ABCB4C57956061A5B8BD095D856B": "Applique des animations au maillage squelettique.",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "Mettre en pause l'animation",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "Met en pause l'animation.",
+    "ED9506B7426508B1B97535AF002D07C9": "Jouer l'animation",
+    "4E6399154374E72C93B24A9FB9E86176": "Jouer l'animation à l'envers",
+    "06C0CF2E41126953274F7B964A00DAE4": "Lecture",
+    "971EF1A7489930888171E8A553647F92": "Lit l'animation à l'envers.",
+    "070EC9F24AA5A04C8C685397F8E618AF": "Lit l'animation.",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "Inversé",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "Arrêt"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "Animation",
+    "Device_AnimatedMesh_C.InitialState.Description": "Définit l'état de départ de l'animation.",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "État de départ",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "Boucle",
+    "Device_AnimatedMesh_C.PlayRate.Description": "Ce multiplicateur contrôle la vitesse de lecture de l'animation",
+    "BoolMetaData.FalseDisplayName": "Non",
+    "BoolMetaData.TrueDisplayName": "Oui",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "Mettre en pause",
+    "Device_AnimatedMesh_C.Pause.Description": "Met en pause l'animation.",
+    "Device_AnimatedMesh_C.Play.DisplayName": "Lire",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "Vitesse de lecture",
+    "EAnimationPlayState.Playing.DisplayName": "Lecture",
+    "Device_AnimatedMesh_C.Reverse.Description": "Lit l'animation à l'envers.",
+    "Device_AnimatedMesh_C.Play.Description": "Lit l'animation.",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "Lire à l'envers",
+    "EAnimationPlayState.Reversing.DisplayName": "Inversé",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "Maillage squelettique",
+    "EAnimationPlayState.Stopped.DisplayName": "Arrêt",
+    "Device_AnimatedMesh_C.Animation.Description": "L'animation à lire.",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "Le maillage squelettique sur lequel l'animation est lue.",
+    "Device_AnimatedMesh_C.Loop.Description": "Définit si l'animation reprend en boucle lorsqu'elle se termine"
+  }
+}

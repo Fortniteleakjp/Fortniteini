@@ -1,0 +1,29 @@
+{
+  "": {
+    "71A3F0BE4BC401EDE8B47B95349DEB84": "Aç",
+    "720C69504E4939D88E00D99BFCF8A8D0": "Aç",
+    "ED441C00473C8BBFA99707B9326177C1": "Güç Hücresi",
+    "0B2B80644FCC0FFF6CD779B0D1CF6F58": "Araç Kontrol Ünitesi",
+    "769BB15949AFF1D8966456BDE44FBFCD": "Araç Kontrol Ünitesi",
+    "7C8E79484A3A1067EC71B9BB7763EB0E": "Araç Kontrol Ünitesi",
+    "9A37E02F4EAFB15EB33D378B3616B601": "Araç Kontrol Ünitesi",
+    "01692D2545D048DD3FFFEE80A8AE31C8": "<EmphA>Toprakta</> bulunan <EmphA>organik</> bir kaynağa ihtiyacın olacak."
+  },
+  "Juno_UpdateItemData": {
+    "E34B1A154A9B1F3E569CA4B01FD1009E": "Ufak bir güç avucunun içinde.",
+    "5B6A24294D0D954A8185D480AF6D8096": "Büyük Güç Merkezi",
+    "B691209A4F938FE92EA504BA5290C96B": "Orta Güç Merkezi",
+    "4DCFA2C2464B8884929713B612BDC204": "Bir yapının üstüne yerleştirip bağlı oyuncaklara güç sağlamak için güç hücrelerini yerleştir. Bol miktarda güç barındırır.",
+    "B44851ED463714FE7F10CFB591926A47": "Bir yapının üstüne yerleştirip bağlı oyuncaklara güç sağlamak için güç hücrelerini yerleştir. Orta miktarda güç barındırır.",
+    "D6C9ABB6498B1D8753B21A838B8CCF03": "Bir yapının üstüne yerleştirip bağlı oyuncaklara güç sağlamak için güç hücrelerini yerleştir. Ufak miktarda güç barındırır.",
+    "2EC89F09471DC7BD1A0E199C8F7ED74E": "Düzeneklerine güç sağlamak için bunları güç merkezinin içine yerleştir.",
+    "2DC55E444BCAF9CE3B3BFDA77991163B": "Power Bank",
+    "960679A546697BC052B8F8816BB01087": "Küçük Güç Merkezi"
+  },
+  "PP_CraftingFormulas_PowerSystem": {
+    "PowerCenterLarge_DisplayName": "Büyük Güç Merkezi",
+    "PowerCenterMedium_DisplayName": "Orta Güç Merkezi",
+    "PowerCell_DisplayName": "Güç Hücresi",
+    "PowerCenterSmall_DisplayName": "Küçük Güç Merkezi"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Chọn Nhạc Cụ Của Bạn",
+    "E70730D546323455388D0F8862938650": "Chọn Nhạc Cụ Của Bạn",
+    "94FB361A46082147B697C19A318D8F49": "Chọn Bài Hát Của Bạn",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Vòng Lặp Biến Tấu",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Bản Nhạc Biến Tấu",
+    "LockerJamTracksCategory": "Bản Nhạc Biến Tấu Trong Tủ Đồ"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Bản Nhạc Biến Tấu"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Phong Cách Thường Ngày",
+    "setlist_1_title": "Phong Cách Thường Ngày",
+    "setlist_title_1": "Phong Cách Thường Ngày",
+    "daily_1_desc": "Mô Tả Phong Cách Thường Ngày!",
+    "setlist_1_desc": "Mô Tả Phong Cách Thường Ngày!",
+    "setlist_desc_1": "Mô Tả Phong Cách Thường Ngày!",
+    "festival_1_title": "Lựa Chọn Cho Lễ Hội",
+    "setlist_3_title": "Lựa Chọn Cho Lễ Hội",
+    "setlist_title_3": "Lựa Chọn Cho Lễ Hội",
+    "festival_1_desc": "Mô Tả Lựa Chọn Cho Lễ Hội!",
+    "setlist_3_desc": "Mô Tả Lựa Chọn Cho Lễ Hội!",
+    "setlist_desc_3": "Mô Tả Lựa Chọn Cho Lễ Hội!",
+    "setlist_desc_Fortnitemares": "Fortnite Ác Mộng",
+    "setlist_title_Fortnitemares": "Fortnite Ác Mộng",
+    "setlist_2_title": "Chương Trình Biểu Diễn Tiêu Điểm",
+    "setlist_title_2": "Chương Trình Biểu Diễn Tiêu Điểm",
+    "spotlight_1_title": "Chương Trình Biểu Diễn Tiêu Điểm",
+    "setlist_2_desc": "Mô Tả Chương Trình Biểu Diễn Tiêu Điểm!",
+    "setlist_desc_2": "Mô Tả Chương Trình Biểu Diễn Tiêu Điểm!",
+    "spotlight_1_desc": "Mô Tả Chương Trình Biểu Diễn Tiêu Điểm!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Chương Trình Biểu Diễn Tùy Chỉnh",
+    "ProductMode_DisplayName_Setlist1": "Chương Trình Biểu Diễn Hàng Ngày",
+    "Daily_1_Title": "Phong Cách Thường Ngày",
+    "Daily_1_Desc": "Mô Tả Phong Cách Thường Ngày bằng Bảng",
+    "Festival_1_Title": "Lựa Chọn Cho Lễ Hội",
+    "Festival_1_Desc": "Mô Tả Lựa Chọn Cho Lễ Hội từ Bảng",
+    "Default_Title": "Chương Trình Biểu Diễn Lễ Hội",
+    "ProductMode_DisplayName_Setlist3": "Chương Trình Biểu Diễn Tiêu Điểm",
+    "Spotlight_1_Title": "Chương Trình Biểu Diễn Tiêu Điểm",
+    "Spotlight_1_Desc": "Mô Tả Chương Trình Biểu Diễn Tiêu Điểm Từ Bảng",
+    "Default_Desc": "ĐÂY LÀ PHẦN MÔ TẢ MẶC ĐỊNH CHO CHƯƠNG TRÌNH BIỂU DIỄN!",
+    "ProductMode_DisplayName_Setlist2": "Chương Trình Biểu Diễn Hàng Tuần"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Tên Nghệ Sĩ",
+    "SparksAvailableFilter": "Khả Dụng",
+    "SparksDefaultFilter": "Mặc Định",
+    "SparksFeaturedSort": "Nổi Bật",
+    "SparksFeaturedFilter": "Mới Toanh & Nổi Bật",
+    "SparksOwnedFilter": "Đã Sở Hữu",
+    "SparksOwnedSort": "Quyền Sở Hữu",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Hiện Lưu Trữ",
+    "SparksAlphaSort": "Tiêu Đề Bài Hát, A-Z",
+    "SparksAlphaSortReverse": "Tiêu Đề Bài Hát, Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

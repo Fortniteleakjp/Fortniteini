@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "군중 볼륨",
+    "CBA0009043A15E05890AC68F8056B814": "군중 볼륨",
+    "E1067A64427AA66B822488B1D608CD94": "군중 볼륨",
+    "4C46C8CA41311206CF70698F2FE39BEB": "사용 안 함",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "BFBBEB534C644E161C3AE491501828F6": "사용",
+    "650644994C28CFD38E31829A56E3464F": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "응원해 줄 군중을 생성합니다.",
+    "2253A34C49B07B7CD62CB18E4F691187": "응원해 줄 군중을 생성합니다.",
+    "F4DA79224C576591D48AF68C10A6FD46": "응원해 줄 군중을 생성합니다.",
+    "7EDB5C9C49AC528E948643B2245928A7": "군중을 생성하는 장치입니다.",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0}타일",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0}타일",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0}타일",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "항상",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "캐릭터 정렬",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "캐릭터 각도 랜덤성",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "캐릭터 스케일 랜덤성",
+    "EEnabledOnPhase.Create Only.DisplayName": "제작만",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "군중 밀도",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "장치가 사용 상태로 설정되는 게임 단계를 결정합니다. '게임 시작 전'에는 게임이 시작되기 전까지의 모든 단계가 포함됩니다. (추천 섬의 대기실에서 플레이어를 기다리는 시간, 게임 시작 카운트다운)",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "비활성화",
+    "BP_CrowdVolume_Device_C.Disable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "사용",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "사용 단계",
+    "BP_CrowdVolume_Device_C.Enable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "게임플레이만",
+    "EEnabledOnPhase.None.DisplayName": "없음",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "게임 시작 전",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "군중의 밀도를 설정합니다.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "군중 캐릭터를 그리드에 얼마나 정확히 맞출지 설정합니다.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "군중 캐릭터 규모의 랜덤성 정도를 설정합니다.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "군중 캐릭터가 바라보는 방향의 랜덤성 정도를 설정합니다.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "구역의 깊이를 타일 단위로 설정합니다.",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "구역의 높이를 타일 단위로 설정합니다.",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "구역의 너비를 타일 단위로 설정합니다.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "구역 깊이",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "구역 높이",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "구역 너비"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "Fast geschafft! Öffne zum Abschließen die App.",
+    "DownloadCompleteNotification.Title": "Schließe die Installation ab und spiele",
+    "DownloadCompleteNotification.ActionText": "Installieren",
+    "InstallBundleSourceValkyrieDownloadedFmt": "InstallBundleSourceGameCustom hat {0} heruntergeladen",
+    "InstallBundleSourceValkyrieInstalledFmt": "InstallBundleSourceGameCustom hat {0} installiert",
+    "Simulate_BuildVerify_Error": "Die Installation ist beschädigt. Wende dich bitte an den Support."
+  }
+}

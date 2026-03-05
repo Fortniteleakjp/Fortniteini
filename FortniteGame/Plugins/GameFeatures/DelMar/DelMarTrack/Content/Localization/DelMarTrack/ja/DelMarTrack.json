@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "レーサーがこのボリュームに入ると、既定のトラックを起動する。 通常、ジオメトリなしのトラックに使用する。",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "RRアクティブトラックボリューム"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "非表示トラックのリスポーンを強制",
+    "MultipleValues": "複数値",
+    "Off Track Radius": "トラック外範囲",
+    "Use Back Endcap": "後面エンドキャップを使用",
+    "Use Front Endcap": "前面エンドキャップを使用",
+    "Use Stable Roll": "安定したロールを使用"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "複数のノードの形状を変更",
+    "DeleteMultipleNodeConfirmation": "複数のノードを削除しますか？",
+    "DeleteMultipleNodes": "複数のノードを削除",
+    "EnableOOBTube": "OOBチューブを有効化",
+    "MeshCustomizations": "複数でのメッシュカスタマイズ",
+    "MultipleNodesSelected": "複数のノードを選択中",
+    "UseStableRollOnMultiple": "安定したロールを複数に使用"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "ノードを削除",
+    "DeleteNodeConfirmation": "ノードを削除しますか？",
+    "MetaDataIndexTitle": "インデックス：{CurrentIndex}",
+    "SingleNodeSelected": "単一ノードを選択中",
+    "SplitNode": "ノードで分割",
+    "SplitNodeConfirmation": "ノードで分割しますか？"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "仕掛け",
+    "DeviceProperties": "仕掛けのプロパティ",
+    "EditDevice": "仕掛けを編集",
+    "EditTrack": "トラックを編集",
+    "Looping Track": "ループトラック",
+    "None": "なし",
+    "RoadStyle": "ロードスタイル",
+    "SelectSplinePoints": "スプライン点を選択",
+    "SelectedPoints": "選択中の点",
+    "Theme": "テーマ",
+    "Track": "トラック"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "セカンダリトラックの接続が不良です！すべてのセカンダリトラックがプライマリトラックまたはセカンダリトラックに接続されていることを確認してください：{1}。マップ：{2}",
+    "NoEndTrackConnection": "{0}のセカンダリトラックにはEndTrackConnectionがありません。 マップ：{1}",
+    "NoStartTrackConnection": "{0}のセカンダリトラックにはStartTrackConnectionがありません。 マップ：{1}",
+    "SecondaryTrackLoops": "セカンダリトラックループが検出されました！ トラック{0}でループが検出されました(開始トラック：{1})。 マップ：{2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "詳細",
+    "AttachToEnd": "終点に取り付ける",
+    "AttachToStart": "始点に取り付ける",
+    "Attaching": "取り付け中",
+    "ConvertOobTubesToNative_Label": "ブループリントOOBチューブをネイティブに変換",
+    "ConvertOobTubesToNative_Tooltip": "既存のすべてのブループリントOOBチューブをネイティブの同等のものに変換します。",
+    "DelMarTrack": "Del Marトラック",
+    "PrintAttachableActors": "取り付け可能なアクタを表示",
+    "RebuildOobTube": "OOBチューブを再構築",
+    "DelMarStyleEditor": "スタイルエディタ"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Del Marスプラインコンポーネントビジュアライザ"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "OOBチューブ",
+    "Rebuild OOB Tube": "OOBチューブを再構築",
+    "RoadSplineTabTitle": "ロードスプライン",
+    "SelectedSplineTabTitle": "選択中のノード",
+    "SplineLengthTitle": "スプラインの長さ：{SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "スプライン点を選択",
+    "SelectedPoints": "選択中の点"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "傾斜したロード",
+    "Change Road Shape": "ロードの形状の変更",
+    "FlatRoad": "平らなロード",
+    "HalfPipe": "ハーフパイプ",
+    "Pipe": "パイプ",
+    "RoadShape": "ロードの形状",
+    "Tunnel": "トンネル"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "次のスプライン点を現在の選択に追加します。",
+    "SelectAddPrevSplinePointToolTip": "前のスプライン点を現在の選択に追加します。",
+    "DeleteMultipleNodeConfirmation": "複数のノードを削除しますか？",
+    "SelectDeleteSplinePointToolTip": "現在の選択で点を削除します。",
+    "SelectAllSplinePointToolTip": "すべてのスプライン点を選択します。",
+    "SelectFirstSplinePointToolTip": "最初のスプライン点を選択します。",
+    "SelectLastSplinePointToolTip": "最後のスプライン点を選択します。",
+    "SelectNextSplinePointToolTip": "次のスプライン点を選択します。",
+    "SelectPrevSplinePointToolTip": "前のスプライン点を選択します。",
+    "SplitNodeConfirmation": "選択中のノードで分割しますか？",
+    "SelectSplitSplinePointToolTip": "選択中のインデックスでノードを分割しますか？"
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "選択中のスプライン点をUseStableRollフラグに切り替えます。",
+    "ToggleUseStableRoll": "安定したロールを使用"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "有効にするトラック"
+  }
+}

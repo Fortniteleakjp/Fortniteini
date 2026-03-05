@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "Item-Shop-Portal",
+    "A636CB9048F6D10A27FAE2ACA3336261": "Item-Shop-Portal",
+    "ECA01A1C4D96960EA267CEA75C458F15": "Item-Shop-Portal",
+    "F0DA7B7A455C002838011E9950021E4F": "Item-Shop-Portal",
+    "F6BA046441D88E68E7317EB0D779DDEE": "Item-Shop-Portal",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Shop öffnen",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Shop öffnen",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Shop öffnen bei Empfang von",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Shop öffnen: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Shop öffnen: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Öffnet den Shop für den auslösenden Spieler, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "18E3F3AD48251A9142A05A8349684E89": "Dieses Gerät öffnet bei Aktivierung den Item-Shop.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "Dieses Gerät öffnet bei Aktivierung den Item-Shop.",
+    "79656CFD409EE4E11B68988ACDCA8585": "Dieses Gerät öffnet bei Aktivierung den Item-Shop.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "Dieses Gerät öffnet bei Aktivierung den Item-Shop.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "Dieses Gerät öffnet bei Aktivierung den Item-Shop."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Immer",
+    "EEnabledOnPhase.Create Only.DisplayName": "Nur beim Erschaffen",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Bestimmt, in welchen Spielphasen das Gerät eingeschaltet ist. „Nur vor dem Spiel“ schließt alle Phasen vor dem Start des Spiels ein (die Lobby, in der auf vorgestellten Inseln auf Spieler gewartet wird, sowie den Startcountdown).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Bestimmt, wie lange interagiert werden muss, um das Gerät zu aktivieren.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Ausschalten",
+    "Device_Store_C.Disable.DisplayName": "Ausschalten",
+    "Device_Store_C.Disable.Description": "Schaltet das Gerät aus, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "Device_ItemShop_V2_C.Disable.Description": "Schaltet das Gerät aus.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Einschalten",
+    "Device_Store_C.Enable.DisplayName": "Einschalten",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Eingeschaltet während Phase",
+    "Device_Store_C.Enable.Description": "Schaltet das Gerät ein, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "Device_ItemShop_V2_C.Enable.Description": "Schaltet das Gerät ein.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Nur Gameplay",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Interaktionszeit",
+    "EEnabledOnPhase.None.DisplayName": "Nie",
+    "Device_Store_C.OpenStore.DisplayName": "Shop öffnen",
+    "Device_Store_C.OpenStore.Description": "Öffnet den Shop für den auslösenden Spieler, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Nur vor dem Spiel"
+  }
+}

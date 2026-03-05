@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Rocket Racingレースのスタート地点",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "RRプレイヤースタート",
+    "0DF3230B4B023C3622D22CA51A8972F7": "RRプレイヤースタート位置"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "スタート地点でスポーンを試みるマシンの順番を決定する。 スタート地点でスポーンする時は、0以下の値は無視される。",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "優先度"
+  }
+}

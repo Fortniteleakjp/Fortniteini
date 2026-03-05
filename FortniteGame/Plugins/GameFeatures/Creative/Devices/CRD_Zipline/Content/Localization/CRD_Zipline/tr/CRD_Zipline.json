@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Çelik Halata Binilemiyor",
+    "768283974295183A2A78FCBFBAFE1742": "Oyuncuları bir noktadan diğer noktaya götüren bir çelik halat oluşturur.",
+    "C7C925214E0954D490E48DB594FCAE7C": "Oyuncuları bir noktadan diğer noktaya götüren bir çelik halat oluşturur.",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Özelleştir ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Çelik Halat birleşme noktaları için bir telefon aracı arayüzü görevi gören, geçici süreliğine getirilmiş bir cihaz.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Çelik Halat",
+    "8CE167104123A4888338D3A2901028D8": "Çelik Halat",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Çelik Halat Kontrol Noktası"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Herhangi Biri",
+    "ECreativeTeamType.Any.DisplayName": "Herhangi Biri",
+    "ClassSlotMetaData.DisplayPattern": "{0}. Sınıf",
+    "Device_Zipline_C.Color.DisplayName": "Renk",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Bu kontrol noktasının ileri yönünün bu bölgedeki yol eğrisini ne kadar etkileyeceğini belirler.",
+    "Device_Zipline_C.UseCustomColor.Description": "Varsayılan renk yerine özel renk kullanılıp kullanılmayacağını belirler.",
+    "Device_Zipline_C.Color.Description": "Kullanılacak özel rengi belirler.",
+    "Device_Zipline_C.Selected Class.Description": "Hangi sınıfın bu Çelik Halat'ı kullanabileceğini belirler.",
+    "Device_Zipline_C.Selected Team.Description": "Hangi takımın bu Çelik Halat'ı kullanabileceğini belirler.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Ayarlandığında cihaz seçilen sınıf hariç herkese izin verir.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Ayarlandığında cihaz seçilen takım hariç herkese izin verir.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Sınıf Seçimini Tersine Çevir",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Takım Seçimini Tersine Çevir",
+    "ECreativeClassType.NoClass.DisplayName": "Hiçbir Sınıf",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "Device_Zipline_C.OnAttach.DisplayName": "Bağlandığında",
+    "Device_Zipline_C.OnDetach.DisplayName": "Bağ Koptuğunda",
+    "Device_Zipline_C.Selected Class.DisplayName": "Seçilen Sınıf",
+    "Device_Zipline_C.Selected Team.DisplayName": "Seçilen Takım",
+    "Device_Zipline_C.OnAttach.Description": "Bir kullanıcı çelik halata bağlandığında bir etkinlik gönderir.",
+    "Device_Zipline_C.OnDetach.Description": "Bir kullanıcı çelik halattan bağını kopardığında bir etkinlik gönderir.",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Tanjant Yoğunluğu",
+    "TeamIndexMetaData.DisplayPattern": "{0}. Takım",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Özel Renk Kullan"
+  }
+}

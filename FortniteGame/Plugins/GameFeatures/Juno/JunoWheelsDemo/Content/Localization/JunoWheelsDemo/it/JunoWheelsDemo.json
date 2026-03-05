@@ -1,0 +1,37 @@
+{
+  "": {
+    "3DFDE81643E7D20A34FDAFB767995803": "Cambia direzione",
+    "92652D8545B1CA8018D6C9B4F59A3B4B": "Usa qualche ruota per mettere in moto qualcosa.",
+    "8952DE4B4A423626BB418EBD36B5E02C": "Usa ruote più grandi per muoverti davvero!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "08410B7445494CD7AE6943A995EAB820": "Attacca ruote grandi a strutture esistenti e oggetti dinamici.",
+    "0543AC9A42B83420E765149897CA51A4": "Attacca ruote piccole a strutture esistenti e oggetti dinamici.",
+    "765C88EC48D17A74F9E180A8750ECD23": "Ruota alimentata grande",
+    "E90B23314823AB3C6F5B118AB04CD994": "Ruota semplice grande",
+    "0802974540A98C76D4589EB0BBDC7B7E": "Ruota sterzante grande",
+    "58CAD8CD489BA279918B91B15ECD65E4": "Ruota alimentata media",
+    "E21006B74A7C6000CEB9DCA65F94F071": "Ruota sterzante media",
+    "95DF699B40FEBEF7CD25DDBA6B4DA86C": "Ruota alimentata piccola",
+    "B8AAB3E0475AA97DB27C7097EBFD8473": "Ruota semplice piccola",
+    "97B775654F98D4839EFA95AB36531855": "Ruota sterzante piccola"
+  },
+  "Juno_UpdateItemData": {
+    "E07BA5004580C1D7181D4B97C2EE64F2": "Gira e ruota quando riceve un segnale dal sedile del guidatore. Consuma una piccola quantità di potenza al secondo ottenuta da un centro di alimentazione.",
+    "5D139B9549BF88A29F75F39FC0CF4ED3": "Gira e ruota quando riceve un segnale dal sedile del guidatore. Consuma una moderata quantità di potenza al secondo ottenuta da un centro di alimentazione.",
+    "2311D4DC4B5257A9588B5CA049A04E77": "Gira e ruota quando riceve un segnale dal sedile del guidatore. Consuma potenza al secondo ottenuta da un centro di alimentazione.",
+    "72B3B2154A806CE2EB7679AE4A5C1885": "Gira quando riceve un segnale dal sedile del guidatore. Consuma una piccola quantità di potenza al secondo ottenuta da un centro di alimentazione",
+    "5A7429E14FB631A613A04DBD1BD74486": "Gira quando riceve un segnale dal sedile del guidatore. Consuma una moderata quantità di potenza al secondo ottenuta da un centro di alimentazione",
+    "40ABDE8D4776B407C523C784E862FA58": "Gira quando riceve un segnale dal sedile del guidatore. Consuma potenza al secondo ottenuta da un centro di alimentazione"
+  },
+  "PP_CraftingFormulas_WheelPlacer": {
+    "WheelPowerLarge_DisplayName": "Ruota alimentata grande",
+    "WheelLarge_DisplayName": "Ruota semplice grande",
+    "WheelSteerLarge_DisplayName": "Ruota girevole grande",
+    "WheelPowerMedium_DisplayName": "Ruota alimentata media",
+    "WheelSteerMedium_DisplayName": "Ruota girevole media",
+    "WheelPowerSmall_DisplayName": "Ruota alimentata piccola ",
+    "Wheel_DisplayName": "Ruota semplice piccola",
+    "WheelSteerSmall_DisplayName": "Ruota girevole piccola"
+  }
+}

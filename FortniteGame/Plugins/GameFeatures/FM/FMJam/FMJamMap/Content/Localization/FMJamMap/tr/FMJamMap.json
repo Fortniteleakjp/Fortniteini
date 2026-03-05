@@ -1,0 +1,37 @@
+{
+  "": {
+    "24E89F1843DFC6EA9EFA37A1991529C5": "Her Zaman Göster",
+    "52B8FBAF40F5FE90A24B5BAC4EBCE0D7": "Bağlantılar",
+    "5EEA4BE24E710329B6F3BBB12EF9E920": "Bağlantılar",
+    "AC42D6E848910CF2C5A9BBB0F0A81B15": "Bağlantılar",
+    "30EA631F4233B87423C9DEB5F7B952B5": "Dinamik Analogu Oynat",
+    "24F4670C406DBF4F1B4B98978F4C6E49": "Otomatik Koşma Kilit Alanı Boşluğu",
+    "8CD38EE3444D137C2D190FB75AF2E177": "Otomatik Koşma Kilit Alanı Boyutu",
+    "ADD09514442FFA77EE6EEF9BA35FED43": "Çerçevesiz",
+    "5C0117894FE94EB617D990A345092116": "Buton Boyutu",
+    "31CD161F49CC2A4FE8B07E9A9B457A71": "Tıklama Oranı",
+    "745525824BF613BD31B12BA6CBE89B0A": "Eşsiz kombinasyonlar yaratmak için farklı döngüleri birleştir!",
+    "6BF0E54347F314D93ECB6CA4ACF8F4EA": "Ölü Alan",
+    "8851066C40215F98E4CBF999FA38AFBA": "Dinamik Analog",
+    "97B960ED4DBE0DBCF8CC90B6CD54D0FF": "Müzik Yapma Sahnesi festival alanını keşfederek yeni arkadaşlar ve kütüphanendeki popüler şarkıları çalabileceğin sahneler bul. Fortnite Festival'de Müzik Çalınmak İçin Var.",
+    "42A11A2547B09000C726C7A99BDE00C9": "Festival",
+    "893ACCBF454F24B42A838DB44EF44264": "Festival Müzik Yapma Sahnesi",
+    "C9010A584F0E45F13FE8C888CC10551E": "Her müzik parçası için lead, bas, bateri ve vokal arasından birini seç.",
+    "60585B2B47F626B2C0AA0BA219977F79": "Müzik Yapma Sahnesi",
+    "E61D951E4F49D19B4203488619933E26": "Müzik Yapma Sahnesi",
+    "49FE800D4EB0879B574516AC6765BEBC": "Değişiklik iyidir",
+    "C3613A494533620F2E0F099899E9B78F": "Hareket Çubuğu Şeffaflığı - Hareketli",
+    "9FC6351443248A5AE1359FBC20C71E66": "Hareket Çubuğu Şeffaflığı - Beklemede",
+    "9E8FD1BC4685B31B9BF7928E4FE8867E": "Popüler şarkıların çok oyunculu mashup'larını yap!",
+    "5B9A77094FD1B4FFA15D829EE5AD1C7F": "İstediğin zaman müzik yapmaya başlamak için bir Müzik Döngüsü'nü oynat. Etrafındakiler de sana katılabilir!",
+    "9B970F35448761D53205B79D51F04309": "Analog Konumunu Sıfırla",
+    "3B1EF45D4E110472B0B1E4A61704F557": "Boyut",
+    "45893B434FC542D36DB113BC764CC8BE": "Boyut",
+    "A3CD64734EC6C30DE12776ADE7BECD2C": "Müzik yapmaya başla",
+    "C2C5814F4FD39CC42F71FD81F7A1A556": "Enstrüman değiştir",
+    "9C82F6FB45201EE313688EBFCF09A758": "Dokunmatik Bölge Boyutu"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Hareketsiz kaldığın için atıldın. Uzun süre boyunca hareketsiz kaldığın için sunucuyla bağlantın kesildi."
+  }
+}

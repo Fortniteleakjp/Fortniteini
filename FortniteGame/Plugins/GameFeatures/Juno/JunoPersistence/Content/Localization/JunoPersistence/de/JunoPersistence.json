@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Fehler beim Überprüfen der Spielerdaten"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Fortbestand konnte nicht bereinigt werden und es wurde dabei die erlaubte Anzahl an Wiederholungsversuchen aufgebraucht."
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Verfügbare Checkpoints konnten nicht abgerufen werden",
+    "FailedToSetInitialCheckpointErrorMessage": "Einrichten des ersten Checkpoints fehlgeschlagen",
+    "InvalidJunoWorldErrorMessage": "Ungültige Juno-Welt beim Versuch, den Checkpoint Handler zu initialisieren",
+    "InvalidJunoRootPlayspaceErrorMessage": "Ungültige Root Playspace beim Versuch, den Checkpoint Handler zu initialisieren"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Hat versucht, fortbestehende Spielerdaten zu initialisieren, nachdem diese bereits initialisiert wurden",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Ungültiger „Fortbestehende Spielerdaten“-Speicherstand",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Checkpoint Handler konnte nicht erstellt werden"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Versucht mehrfach, fortbestehende Spielerdaten mit ungültiger Spieler-ID zu deinitialisieren",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Versucht mehrfach, fortbestehende Spielerdaten zu initialisieren",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Versucht mehrfach, fortbestehende Spielerdaten mit ungültiger Spieler-ID zu initialisieren",
+    "StalePlayerPersistenceHandlerErrorMessage": "Fortbestehende-Spielerdaten-Handler lief beim Abschluss der Initialisierung ab",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Fortbestehende-Spielerdaten-Handler konnte nicht erstellt werden",
+    "InvalidPlayerPersistenceStorageErrorMessage": "„Fortbestehende Spielerdaten“-Speicherstand konnte nicht abgerufen werden"
+  }
+}

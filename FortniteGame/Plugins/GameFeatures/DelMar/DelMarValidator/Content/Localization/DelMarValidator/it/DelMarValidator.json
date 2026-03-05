@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Una pista non a circuito (non in loop) con più di un giro deve avere il Teletrasporto abilitato sul Punto di controllo della linea d'arrivo RR e il suo array Prossimo punto di controllo deve fare riferimento solo al tuo Punto di controllo della linea di partenza RR. {0}",
+    "MultipleFinishLines": "Più di un Punto di controllo RR è contrassegnato come \"linea d'arrivo\". In una pista RR dev'esserci esattamente un Punto di controllo della linea d'arrivo RR. {0}",
+    "MultipleStartLines": "Più di un Punto di controllo RR è contrassegnato come \"linea di partenza\". In una pista RR dev'esserci esattamente un Punto di controllo della linea di partenza RR. {0}",
+    "NoFinishLine": "Nessun Punto di controllo RR è contrassegnato come \"linea d'arrivo\". In una pista RR dev'esserci esattamente un Punto di controllo della linea d'arrivo RR. {0}",
+    "NoStartLine": "Nessun Punto di controllo RR è contrassegnato come \"linea di partenza\". In una pista RR dev'esserci esattamente un Punto di controllo della linea di partenza RR. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Per risolvere, ripristina e ripeti \"Prossimi punti di controllo\" per {0}.{1}",
+    "Loop": "Non sono consentiti loop di ritorno a punti di controllo già visitati all'interno di un giro. Il dispositivo {0} ha un array Prossimi punti di controllo che fa riferimento a {1}, a cui {2} ha fatto riferimento in precedenza nel giro. {3}",
+    "DoesntOverlapFinishLine": "La tua pista primaria RR deve estendersi dal Punto di controllo della linea di partenza RR al Punto di controllo della linea d'arrivo RR. Al momento non interseca il Punto di controllo RR contrassegnato come linea d'arrivo. {0}",
+    "DoesntOverlapStartingLine": "La tua pista primaria RR deve estendersi dal Punto di controllo della linea di partenza RR al Punto di controllo della linea d'arrivo RR. Al momento non interseca il Punto di controllo RR contrassegnato come linea di partenza. {0}",
+    "DeadEnd": "{0} non contiene uno o più riferimenti ai \"Prossimi punti di controllo\" che conducono al Punto di controllo della linea d'arrivo RR. {1}",
+    "Orphan": "Collegamento ai binari di {0} assente."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "C'è più di una Gestione gara RR posizionata con lo stesso tag livello. Le piste devono contenere esattamente una Gestione gara RR. {0}",
+    "MultipleModeManager": "C'è più di una Gestione gara RR posizionata. Le piste devono contenere esattamente una Gestione gara RR. {0}",
+    "MultipleModeManagerForMode": "C'è più di una Gestione gara RR posizionata. Le piste devono contenere esattamente una Gestione gara RR. {0}",
+    "NoModeManager": "Non c'è alcuna Gestione gara RR posizionata. Le piste devono contenere esattamente una Gestione gara RR. Gestione gara competitiva RR, Gestione Gara di velocità RR, ecc. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Più di una pista RR ha il valore del tipo di pista impostato su \"primario\". Dev'esserci esattamente una pista primaria. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Nessuna pista RR ha il valore del tipo di pista impostato su \"primario\". Dev'esserci esattamente una pista primaria. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Quando i Punti di controllo della linea di partenza e d'arrivo RR sono lo stesso Punto di controllo RR, la pista è considerata un circuito e la Spline della pista primaria deve avere \"Pista in loop\" impostata su Vero nella scheda Dispositivo della finestra Editor stile.{0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} ha un tipo di pista \"secondario\" ma è impostato su Pista in loop nella scheda Dispositivo della finestra Editor stile.Solo i tipi di pista \"primario\" ed \"estetico\" possono essere impostati su Pista in loop.{1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} ha un nodo di piazzamento finale che si collega alla pista in un punto precedente del giro rispetto al primo nodo. Questa pista RR potrebbe essere stata creata al contrario, contro il flusso della pista OPPURE una delle due estremità della Spline potrebbe essere troppo vicina a una parte della pista in cui non si vuole che i giocatori navighino. Seleziona questa pista RR nella vista prospettica e verifica che le linee di connessione di questa Spline della pista secondaria RR si colleghino alla tua pista come previsto. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

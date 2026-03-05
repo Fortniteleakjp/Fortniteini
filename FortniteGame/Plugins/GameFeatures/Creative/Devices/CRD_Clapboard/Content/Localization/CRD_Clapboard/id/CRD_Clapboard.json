@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "Papan Ketap",
+    "56A03FF7436EC20DE829418960AB9A08": "Papan Ketap",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "Hitung Mundur",
+    "54EF511B43B2E65B7886F99DA6DD9816": "Hitung Maju",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "Dinonaktifkan",
+    "AE5B62204B1FB18FD103519F4F38C337": "Jika diatur, papan ketap ini hanya akan mengirim sinyal jika stream yang mencapai stempel waktunya adalah stream yang ditentukan.",
+    "77D7DD294A81C19292A44388D4D1A105": "Stream Tidak Valid",
+    "15CAFDE0497C42D493DB10828B7326A0": "Mengirim sinyal saat video yang sedang diputar mencapai stempel waktu yang ditentukan.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "Mengirim sinyal saat stream yang sedang diputar mencapai suatu titik di pemutarannya.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "Mengatur timer di papan ketap untuk menghitung mundur ke 0 atau menghitung naik ke waktu yang ditentukan.",
+    "47A0B0E747D41C694384768BB2B392E6": "Stream Spesifik",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "Waktu (Milidetik)",
+    "2ED1F344488EB2612D092586C1725442": "Waktu (Menit)",
+    "5750BFD542FFB083102152A0A1BC2154": "Waktu (Detik)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "Pembacaan Waktu",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "Transmisikan Saat Waktu Tercapai",
+    "FF2400934566662794B5DB97A137A842": "Saat timer perangkat berakhir, kirim sinyal di saluran ini.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0}mdtk",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0} dtk",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "Nonaktifkan",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "Menonaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "Aktifkan",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "Mengaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "Waktu Tercapai",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "Saat timer perangkat berakhir, kirim sinyal di saluran ini."
+  }
+}

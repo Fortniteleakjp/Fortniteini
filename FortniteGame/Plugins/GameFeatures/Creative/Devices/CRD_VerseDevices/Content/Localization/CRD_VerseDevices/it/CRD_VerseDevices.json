@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "Disabilitato",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "Disabilitato",
+    "7F622AD141A596DB6DA4A69D874C2761": "Abilitato",
+    "F635B92B4F6D69AC48F18D8428078A2F": "Abilitato",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "Consente ai giocatori di eseguire uno script Verse personalizzato.",
+    "0156B90F4D5E75298F886FA5AFC000E7": "Carica ed esegue uno script Verse specificato.",
+    "12BB4013449DF18D296F85AA4CB849E1": "Dispositivo script",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "Dispositivo script",
+    "4033820A43CE091C31CEF486B399093F": "Dispositivo script"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "Determina se il dispositivo script è visibile durante le partite.",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "Abilitato all'avvio del gioco",
+    "VerseDevice_C.VisibleInGame.DisplayName": "Visibile in gioco",
+    "VerseDevice_C.Enabled at Game Start.Description": "Determina se lo script allegato verrà eseguito durante la partita."
+  }
+}

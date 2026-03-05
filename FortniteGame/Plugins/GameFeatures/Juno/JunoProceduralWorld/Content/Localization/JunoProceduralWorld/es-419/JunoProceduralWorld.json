@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Valores múltiples",
+    "NoComponent": "Ninguno",
+    "ConvertSelectedActorsToIAsText": "[Juno] Convertir {0} en actores mencionados"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Atributos para la ruta de actor resuelta '{0}', nombre de fila resuelto '{1}' y/o representación '{2}' interfieren con otros nombres de atributos",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(añade los siguientes atributos:{ActorPath} : Cadena de caracteres : Una cadena de caracteres para que el actor aparezca (copiada de la fila de la tabla){Representation} : Nombre: Un valor de EJunoRepresentation para saber cómo debe crearse (copiado de la fila de la tabla){RowName} : Float : El nombre de la fila elegida.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Lee los siguientes atributos del flujo de datos espaciales:{BiomeTableName} : Cadena de caracteres : Una ruta que debe leer la tabla de datos de biomas{FilterName} : Nombre : Opcional. Si se especifica, solo seleccionará filas con un nombre de tipo que coincida con el valor de esta propiedad.{LayerWeight} : Float : Opcional. Si se especifica, se usará la columna 'LayerWeights' en lugar de 'Weight', interpolada por este valor.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(las propiedades de los ajustes se pueden anular con:{P0} : Nombre{P1} : Nombre{P2} : Nombre{P3} : Nombre{P4} : Nombre{P5} : Nombre)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Forma por la que se encontrará un camino (quizás un paisaje)",
+    "UnableToGetPointData": "No se pueden obtener datos de puntos de la entrada",
+    "UnableToGetSpatialData": "No se pueden obtener datos espaciales de la entrada"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "No se pudieron recuperar los datos de la textura de altura. No se pudo inicializar.",
+    "TextureInitFailed": "No se pudieron recuperar los datos de esta textura. No se pudo inicializar.",
+    "LandscapeComponentLost": "Consulta uno o más componentes de paisaje perdidos. No se generarán mapas de césped."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Một đường đua không khép kín (không phải vòng lặp) có nhiều hơn một vòng đua phải Bật Dịch Chuyển tại Mốc Vạch Đích Rocket Racing và danh sách Mốc Kế Tiếp của đường đua này chỉ được tham chiếu đến Mốc Vạch Xuất Phát Rocket Racing. {0}",
+    "MultipleFinishLines": "Có nhiều hơn một Mốc Rocket Racing được đánh dấu là \"Vạch Đích\". Phải có đúng một Mốc Vạch Đích Rocket Racing trong Đường Đua của Rocket Racing. {0}",
+    "MultipleStartLines": "Có nhiều hơn một Mốc Rocket Racing được đánh dấu là \"Vạch Xuất Phát\". Phải có đúng một Mốc Vạch Xuất Phát Rocket Racing trong Đường Đua của Rocket Racing. {0}",
+    "NoFinishLine": "Không có Mốc Rocket Racing được đánh dấu là \"Vạch Đích\". Phải có đúng một Mốc Vạch Đích Rocket Racing trong Đường Đua của Rocket Racing. {0}",
+    "NoStartLine": "Không có Mốc Rocket Racing được đánh dấu là \"Vạch Xuất Phát\". Phải có đúng một Mốc Vạch Xuất Phát Rocket Racing trong Đường Đua của Rocket Racing. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Cài lại và thiết lập lại \"Mốc Kế Tiếp\" cho {0} để sửa lỗi. {1}",
+    "Loop": "Bạn không thể quay lại các mốc đã qua trong một vòng đua. Thiết bị {0} có Danh Sách Mốc Kế Tiếp tham chiếu đến {1}, đã được {2} tham chiếu trước đó trong vòng đua. {3}",
+    "DoesntOverlapFinishLine": "Đường Đua Rocket Racing Chính của bạn phải kéo dài từ Mốc Vạch Xuất Phát Rocket Racing đến Mốc Vạch Đích Rocket Racing. Đường này hiện không giao với Mốc Rocket Racing được đánh dấu là Vạch Đích của bạn. {0}",
+    "DoesntOverlapStartingLine": "Đường Đua Rocket Racing Chính của bạn phải kéo dài từ Mốc Vạch Xuất Phát Rocket Racing đến Mốc Vạch Đích Rocket Racing. Đường này hiện không giao với Mốc Rocket Racing được đánh dấu là Vạch Xuất Phát của bạn. {0}",
+    "DeadEnd": "{0} không chứa một hoặc nhiều tham chiếu \"Mốc Kế Tiếp\" dẫn đến Mốc Vạch Đích Rocket Racing. {1}",
+    "Orphan": "{0} không được kết nối với đường đua."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Bạn hiện đang cài đặt nhiều hơn một Trình Quản Lý Rocket Racing với cùng một thẻ cấp độ. Các đường đua cần có một Trình Quản Lý Rocket Racing duy nhất. {0}",
+    "MultipleModeManager": "Có nhiều hơn một Trình Quản Lý Rocket Racing nào được đặt. Các đường đua cần có một Trình Quản Lý Rocket Racing duy nhất. {0}",
+    "MultipleModeManagerForMode": "Bạn hiện đanng cài đặt nhiều hơn một Trình Quản Lý Rocket Racing. Các đường đua cần có một Trình Quản Lý Rocket Racing duy nhất. {0}",
+    "NoModeManager": "Không có Trình Quản Lý Rocket Racing nào được đặt. Các đường đua cần có một Trình Quản Lý Rocket Racing duy nhất. Trình Quản Lý Chế Độ Cạnh Tranh Rocket Racing, Trình Quản Lý Chế Độ Chinh Phục Thời Gian Rocket Racing, etc. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Có hiều hơn một Đường Đua của Rocket Racing có Loại Đường Đua được đặt là \"Chính\". Chỉ có thể có một Đường Đua Chính. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Không có Đường Đua Của Rocket Racing có Loại Đường Đua được đặt là \"Chính\". Chỉ có thể có một Đường Đua Chính. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Khi Mốc Vạch Xuất Phát và Vạch Đích Rocket Racing của bạn là cùng một Mốc Rocket Racing, đường đua được coi là một vòng đua khép kín và Đường Dẫn Đường Đua Chính của bạn phải đặt \"Đường Đua Vòng Lặp\" thành có trên tab Thiết Bị của Trình Chỉnh Sửa Phong Cách. {0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} có Loại Đường Đua là \"Phụ\", nhưng được đặt thành Đường Đua Vòng Lặp trên tab Thiết bị của Trình Chỉnh Sửa Phong Cách. Chỉ có Loại Đường Đua \"Chính\" và \"Trang Trí\" mới có thể áp dụng chế độ này. {1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} có một nút cuối kết nối với đường đua ở vị trí sớm hơn nút đầu tiên trong vòng đua. Có thể đường đua Rocket Racing này được thiết kế ngược với hướng di chuyển, HOẶC một trong hai đầu của đường dẫn quá gần một phần của đường đua mà bạn không dự định để người chơi tiếp cận. Hãy chọn đường đua Rocket Racing này trong chế độ xem phối cảnh và xác nhận rằng các đường kết nối từ đường dẫn của đường đua Rocket Racing Phụ liên kết chính xác với đường đua của bạn. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

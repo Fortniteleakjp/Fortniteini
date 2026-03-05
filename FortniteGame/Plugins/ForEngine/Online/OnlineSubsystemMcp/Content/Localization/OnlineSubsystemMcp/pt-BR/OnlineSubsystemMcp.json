@@ -1,0 +1,23 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "Falha ao finalizar a compra, usuário tem uma transação em andamento.",
+    "ErrorPurchaseNotAllowed": "Falha ao finalizar a compra, usuário não tem permissão para comprar.",
+    "ErrorNoUIHandler": "Falha ao exibir a IU de fluxo de compra."
+  },
+  "McpQueryResult": {
+    "GenericError": "Ocorreu um erro de comunicação com os servidores do jogo ({0}).",
+    "GenericHTTPError": "Ocorreu um erro na comunicação com os servidores do jogo:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "A conexão com o servidor falhou.",
+    "JsonError": "Erro do tipo {0} no servidor",
+    "InvalidJson": "Impossível analisar a resposta do servidor. JSON incorreto. Erro {0}",
+    "NonObjectJson": "Impossível analisar a resposta do servidor. Não é um objeto JSON."
+  },
+  "OnlineFriend": {},
+  "OnlineIdentity": {},
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "Impossível analisar os recibos de compra do serviço."
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "Epic Games"
+  }
+}

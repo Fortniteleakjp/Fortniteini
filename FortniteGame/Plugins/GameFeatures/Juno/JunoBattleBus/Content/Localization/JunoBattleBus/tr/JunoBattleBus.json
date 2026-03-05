@@ -1,0 +1,40 @@
+{
+  "": {
+    "F5D61A094B45C706BCC7C79EDD07717C": "BBSkydivingDown",
+    "081D9FD54B77244077CFBDAC685DA6E8": "BBSkydivingUp",
+    "57387B2A48CA6FC06CC96182B6763417": "Savaş Otobüsü",
+    "FA8287B645FBB5D9FEEF32BFAD36F292": "Savaş Otobüsü",
+    "613C889A437677B2819282A0F04B300C": "Düt düt, binmeyen kalmasın!",
+    "55023335BA627A42DE446281C7CA42CF": "Otobüs İstasyonu",
+    "1426D5DB45655F86ACD81587CBB9F73C": "Hızlı Seyahati İptal Et",
+    "6A760B4342CA17DBA550E69CAE563BBA": "Hızlı Seyahat",
+    "DA42055D42A2FDBDA7AF129090E80D23": "Hızlı Seyahat",
+    "47D3262E43EEAE406915EC90E939EA78": "Planör",
+    "E557EAE94B7FDC8584F75397D63429F6": "Planör",
+    "F6696CF34A757AA818C004912AAFEC0F": "Planör",
+    "55023335BA627A42DE446281CEAF2645": "JBID_Juno_BusStop",
+    "617E709B4BA5E6E30CBB6E8E440AF3C5": "Hızlı Seyahate Katıl",
+    "644F21D342720FB35918F09EE13F5D00": "KA",
+    "3BCAA9E84292E8ABE033BDB60DC840D9": "Kayıp Adalar",
+    "1F0751F543D8D657CDE333B7FE32D6D5": "AÜ",
+    "0BE8C8B34DD0ADD40418DEA58FD07676": "Asi Üssü",
+    "556A63864ABE3BE9C244A887A67B28E8": "Aşağı Hava Dalışı",
+    "93864B1C474CDA3AB7E1BA9F9DFBAA63": "Yukarı Hava Dalışı",
+    "05098888491CC33D6FADCCAEA4EC3DB5": "Standart savaş planörü. ",
+    "BB44B05C4AB7C54038CC0795459DA452": "Savaş Otobüsü'nün hızlı seyahat ağına özel bir terminal.",
+    "87E6D50E49343BFE79EA9AAAA7EA73C1": "Brick Life'a git",
+    "FFFBA818479EE850114ED6AC1AC595E3": "Haritayı Görüntüle"
+  },
+  "JunoBattleBusBlueprintLibrary": {
+    "BusStationLettersLong": "{0} Otobüs İstasyonu",
+    "BusStationNumbersLong": "{0}. Otobüs İstasyonu",
+    "BusStationNumbersShort": "{0}",
+    "ConvertIndexToLetters": "{0}"
+  },
+  "JunoBusTeleportControllerComponent": {
+    "OnPlayerThankedBusDriverEvent": "{0} <Yellow>otobüs şoförüne teşekkür etti</>"
+  },
+  "Juno_CraftingFormulas_BattleBus": {
+    "BusStop_DisplayName": "Otobüs Durağı"
+  }
+}

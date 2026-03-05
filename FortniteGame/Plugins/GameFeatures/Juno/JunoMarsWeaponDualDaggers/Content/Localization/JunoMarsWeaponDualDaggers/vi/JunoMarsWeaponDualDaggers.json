@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "Lưỡi Cắt",
+    "33EE7DD140FA593C65E6858D3ED133F0": "Tâm Điểm",
+    "7D92FBAF4FF2178468D08FB5447138AA": "Cán rìu"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "Cặp Dao Găm Hổ Phách",
+    "Dual_Daggers_T5_Amber_DisplayName": "Cặp Dao Găm Hổ Phách",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "Cặp Dao Găm Nổ",
+    "Dual_Daggers_T1_Bone_DisplayName": "Cặp Dao Găm Xương",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "Cặp Dao Găm Tươi Sáng",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "Cặp Dao Găm Móng Vuốt",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "Cặp Dao Găm Móng Vuốt",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "Cặp Dao Găm Móng Vuốt",
+    "Dual_Daggers_T3_Copper_DisplayName": "Cặp Dao Găm Đồng",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "Cặp Dao Găm Bị Nguyền",
+    "Dual_Daggers_T4_Emerald_DisplayName": "Cặp Dao Găm Lục Bảo",
+    "Dual_Daggers_T5_Emerald_DisplayName": "Cặp Dao Găm Lục Bảo",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "Cặp Dao Găm Gỗ Đa Năng",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "Cặp Dao Găm Gỗ Thông Băng Giá",
+    "Dual_Daggers_T1_Glass_DisplayName": "Cặp Dao Găm Thủy Tinh",
+    "Dual_Daggers_T3_Gold_DisplayName": "Cặp Dao Găm Vàng",
+    "Dual_Daggers_T2_Granite_DisplayName": "Cặp Dao Găm Đá Hoa Cương",
+    "Dual_Daggers_T3_Iron_DisplayName": "Cặp Dao Găm Sắt",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "Cặp Dao Găm Gỗ Xoắn",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "Cặp Dao Găm Gỗ Gụ",
+    "Dual_Daggers_T2_Malachite_DisplayName": "Cặp Dao Găm Đá Khổng Tước",
+    "Dual_Daggers_T2_Marble_DisplayName": "Cặp Dao Găm Đá Cẩm Thạch",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "Cặp Dao Găm Hắc Diện Thạch",
+    "Dual_Daggers_T2_Redrock_DisplayName": "Cặp Dao Găm Đá Đỏ",
+    "Dual_Daggers_T4_Ruby_DisplayName": "Cặp Dao Găm Ruby",
+    "Dual_Daggers_T5_Ruby_DisplayName": "Cặp Dao Găm Ruby",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "Cặp Dao Găm Sa Thạch",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "Cặp Dao Găm Bảo Thạch",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "Cặp Dao Găm Bảo Thạch",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "Cặp Dao Găm Sừng Vụn",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "Cặp Dao Găm Sừng Vụn",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "Cặp Dao Găm Bão",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "Cặp Dao Găm Hộ Vệ Bão",
+    "Dual_Daggers_T1_Wood_DisplayName": "Cặp Dao Găm Gỗ"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "Cặp Dao Găm"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Copia di {0}"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Doppia eliminazione",
+    "Down": "Giù",
+    "DebugLoadContentFail": "Download non riuscito",
+    "Eliminated": "Eliminato",
+    "Elimination": "Eliminazione",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Abbandona sessione",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "Non è consentito accedere al menu principale durante una sessione di UEFN per dispositivi mobili.",
+    "UEFNMobileSessionMainMenuError_Title": "Sessione su mobile",
+    "MultiElimination": "Eliminazione multipla",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Qualcosa è andato storto. La sessione su mobile sta per chiudersi",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Qualcosa è andato storto: {Reason}. La sessione su mobile sta per chiudersi",
+    "TripleElimination": "Tripla eliminazione",
+    "Win": "Vittoria",
+    "UEFNMobileSessionMainMenu_MessageBody": "Non puoi accedere alla lobby di Fortnite mentre giochi su mobile. Vuoi uscire?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Si è verificato un errore durante la riproduzione del replay."
+  },
+  "SpriteCategory": {
+    "Lighting": "Illuminazione"
+  }
+}

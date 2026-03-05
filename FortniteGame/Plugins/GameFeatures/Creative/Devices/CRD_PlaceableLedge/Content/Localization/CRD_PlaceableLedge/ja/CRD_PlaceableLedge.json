@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "設置可能な足場。プレイヤーはこの足場から飛び上がることができる。",
+    "EFF5545942BE6E906FA09492A029002C": "設置可能な足場。プレイヤーはこの足場から飛び上がることができる。",
+    "39AFB32446569697402D1D827A10908B": "設置可能な足場。プレイヤーはこの足場から飛び上がることができる。",
+    "1B6B2930405A922826E5319CC16C6F4D": "受信していると無効になる",
+    "39698C45412DE4DC33043394E36BCF15": "選択されたチャンネルから信号を受信していると、この仕掛けを無効にする。",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "受信していると有効になる",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "選択されたチャンネルから信号を受信していると、この仕掛けを有効にする。",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "金属のリング",
+    "7E36FA504A82288E8BFF03B718AAF93E": "なし",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "設置可能な足場",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "設置可能な足場",
+    "97078157436AE317038738A4DBF33EAE": "木の梁"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "カスタムメッシュ",
+    "Device_PlaceableLedge_C.Enable during game.Description": "ゲーム中に足場を有効にして表示するかどうかの設定。",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "無効化",
+    "Device_PlaceableLedge_C.Disable.Description": "仕掛けを無効化する。",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "有効化",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "ゲーム中に有効化",
+    "Device_PlaceableLedge_C.Enable.Description": "仕掛けを有効化する。",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "オンの場合、この仕掛けが梁の代わりに登れるリングを使うようになる。 ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "足場のメッシュの選択",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "金属のリング",
+    "ELedgeMeshSelections.None.DisplayName": "なし",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "メッシュのオプションが「カスタム」に設定されている場合に、足場に使用するカスタムのメッシュ。",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "木の梁"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "": {
+    "02D507F542501C32987007BB40B310CF": "Vous aurez besoin d'une <EmphA>scierie</>.",
+    "46465B3F47396715F622C8B9C8D00E02": "Vous aurez besoin d'une <EmphA>scierie</>.",
+    "7DA1447E47D8D89073ACF0AAA1A2864B": "Vous aurez besoin d'une <EmphA>scierie</>.",
+    "A681DC5345D98537642259976B7D96FD": "Vous aurez besoin d'une <EmphA>scierie</>."
+  },
+  "Juno_BoostedItemNames_SpearTierExpansionA": {
+    "Spear_T5_T5_Honed_Bamboo_DisplayName": "Lance en bambou",
+    "Spear_T6_T6_Honed_Bamboo_DisplayName": "Lance en bambou",
+    "Spear_T7_T7_Honed_Bamboo_DisplayName": "Lance en bambou",
+    "Spear_T8_T8_Honed_Bamboo_DisplayName": "Lance en bambou",
+    "Spear_T7_T7_Honed_Dragon_Opal_DisplayName": "Lance en opale draconique",
+    "Spear_T8_T8_Honed_Dragon_Opal_DisplayName": "Lance en opale draconique",
+    "Spear_T5_T5_Honed_Kozustone_DisplayName": "Lance en kozulithe",
+    "Spear_T6_T6_Honed_Kozustone_DisplayName": "Lance en kozulithe",
+    "Spear_T7_T7_Honed_Kozustone_DisplayName": "Lance en kozulithe",
+    "Spear_T8_T8_Honed_Kozustone_DisplayName": "Lance en kozulithe",
+    "Spear_T6_T6_Honed_Steel_DisplayName": "Lance en acier",
+    "Spear_T7_T7_Honed_Steel_DisplayName": "Lance en acier",
+    "Spear_T8_T8_Honed_Steel_DisplayName": "Lance en acier"
+  },
+  "Juno_UpdateItemData": {
+    "311316ED4D182EEA2FA46DAA81FD15E5": "Une lance légendaire, parfaite pour les combats rapprochés ou à distance. Appuyer pour attaquer, maintenir pour lancer.",
+    "B25A2F324DB535390E4B73930870E49A": "Une lance rare, parfaite pour les combats rapprochés ou à distance. Appuyer pour attaquer, maintenir pour lancer.",
+    "9586F8E1415780F4E24C91BC3AF6173F": "Véritable fer de lance.",
+    "3D7692F9440542E88EC2D0BE65D1A7D0": "Une lance épique, parfaite pour les combats rapprochés ou à distance. Appuyer pour attaquer, maintenir pour lancer.",
+    "9FE27A4249F4F9C0F7527782A3B1C0F8": "Une lance atypique, parfaite pour les combats rapprochés ou à distance. Appuyer pour attaquer, maintenir pour lancer.",
+    "D94E848A42A304BA80384AB51A03A759": "Idéale pour soldat en freelance.",
+    "1F54FBF84AFFB2CCD540CD80D88B83BC": "Lance",
+    "2EA3F9C34873AAA9DAA84885A9BCD37B": "Lance",
+    "52E93B624E1B24175BB6F6811B0B3856": "Lance",
+    "824F02E94ED416162B699D95ED1A1A60": "Lance",
+    "C3ED5020413D4F9AC37D7B828F778F0A": "Le plus dur, c'est de se lancer.",
+    "888AAE0B4DA62E8ED2440D80116B1BD1": "Combattez la violence par la vio-lance."
+  }
+}

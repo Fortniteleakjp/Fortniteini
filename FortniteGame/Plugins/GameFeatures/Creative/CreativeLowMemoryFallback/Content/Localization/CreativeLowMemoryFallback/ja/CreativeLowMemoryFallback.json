@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "メモリ残量少",
+    "Return to main menu reason (default)": "メモリが危険域に達し、セッションが終了しました。\n 直前の進行度は保存されています！ クリエイティブに戻り、最後に保存された状態のゲームに戻りましょう。",
+    "Warning toast description (default)": "セッションが予期せず終了する可能性があります。"
+  }
+}

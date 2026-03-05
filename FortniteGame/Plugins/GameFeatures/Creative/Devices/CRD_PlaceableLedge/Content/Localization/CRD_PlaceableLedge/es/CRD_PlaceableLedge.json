@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Un saliente que se puede colocar y que permite que los jugadores se impulsen.",
+    "EFF5545942BE6E906FA09492A029002C": "Un saliente que se puede colocar y que permite que los jugadores se impulsen.",
+    "39AFB32446569697402D1D827A10908B": "Un saliente que se puede colocar y que permite que los jugadores se impulsen.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Deshabilitar al recibir desde",
+    "39698C45412DE4DC33043394E36BCF15": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Habilitar al recibir desde",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Anillo de metal",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Ninguno",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Saliente",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Saliente",
+    "97078157436AE317038738A4DBF33EAE": "Viga de madera"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Malla personalizada",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Establece si el saliente está habilitado y es visible durante la partida.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Deshabilitar",
+    "Device_PlaceableLedge_C.Disable.Description": "Deshabilita el dispositivo.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Habilitar",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Habilitar durante partida",
+    "Device_PlaceableLedge_C.Enable.Description": "Habilita el dispositivo.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Si se establece en Sí, este dispositivo usará un anillo trepable en lugar de un rayo. ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Selección de malla de saliente",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Anillo de metal",
+    "ELedgeMeshSelections.None.DisplayName": "Ninguno",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "La malla personalizada que se usa para el saliente si la opción se establece en Personalizada.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Viga de madera"
+  }
+}

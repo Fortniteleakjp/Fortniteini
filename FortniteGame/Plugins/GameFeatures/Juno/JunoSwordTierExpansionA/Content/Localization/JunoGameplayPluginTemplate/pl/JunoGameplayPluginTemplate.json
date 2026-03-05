@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "Legendarny miecz. Idealny do walki wręcz.",
+    "A5C5C211434AA2839F6672858D879834": "Żadne pióro nie jest mocniejsze od tego miecza.",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "Miecz",
+    "691AD6104B64E9B53B152A932C3A7948": "Potrzebujesz <EmphA>tartaku.</>",
+    "AF59C13740BF3D246EFE6894041683CA": "Potrzebujesz <EmphA>tartaku.</>",
+    "D46F690B44A43726C9409EBBF35FBD5A": "Potrzebujesz <EmphA>tartaku.</>",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "Potrzebujesz <EmphA>tartaku.</>"
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "Bambusowy miecz",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "Bambusowy miecz",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "Bambusowy miecz",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "Bambusowy miecz",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "Smokoopalowy miecz",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "Smokoopalowy miecz",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "Kozukamienny miecz",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "Kozukamienny miecz",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "Kozukamienny miecz",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "Kozukamienny miecz",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "Stalowy miecz",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "Stalowy miecz",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "Stalowy miecz"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "Rzadki miecz. Idealny do walki wręcz.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "Zamiecz przeciwników.",
+    "CAD24296497618FE393B79B375B3D198": "Epicki miecz. Idealny do walki wręcz.",
+    "7F0D841F4798D9DA06E8CB9880022753": "Niepospolity miecz. Idealny do walki wręcz.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "Przypomina nóż... ale jest o wiele lepszy.",
+    "30D0CC564A676E401A2AF193711F5A03": "Pomieczuj sobie.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "Miecz",
+    "C9A902E24804F529DDB98399903E1F9F": "Miecz",
+    "F07655364C7958D6AB473B8B9ABA433A": "Miecz"
+  }
+}

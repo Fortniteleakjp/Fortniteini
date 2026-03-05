@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Copiar {0}"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Eliminación doble",
+    "Down": "Abajo",
+    "DebugLoadContentFail": "No se pudo descargar",
+    "Eliminated": "Eliminado",
+    "Elimination": "Eliminación",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Salir de la sesión",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "No se puede ir al menú principal en una sesión de dispositivo móvil de UEFN.",
+    "UEFNMobileSessionMainMenuError_Title": "Sesión de dispositivo móvil",
+    "MultiElimination": "Eliminación múltiple",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Algo salió mal. La sesión de dispositivo móvil se cerrará ahora",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Algo salió mal: {Reason}. La sesión de dispositivo móvil se cerrará ahora",
+    "TripleElimination": "Eliminación triple",
+    "Win": "Victoria",
+    "UEFNMobileSessionMainMenu_MessageBody": "No puedes entrar a la sala de Fortnite mientras estés en una sesión de dispositivo móvil. ¿Quieres salir?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Ocurrió un error al tratar de reproducir de nuevo el video."
+  },
+  "SpriteCategory": {
+    "Lighting": "Iluminación"
+  }
+}

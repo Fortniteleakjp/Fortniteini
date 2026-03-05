@@ -1,0 +1,48 @@
+{
+  "": {
+    "31FAE6BD73F7D30C53E0C058C7CA42CF": "Sillón del Dominio de Daigo",
+    "31FAE6BD73F7D30C53E0C058CEAF2645": "Sillón del Dominio de Daigo",
+    "725D91602604049153E0C058C7CA42CF": "Cama del Dominio de Daigo",
+    "725D91602604049153E0C058CEAF2645": "Cama del Dominio de Daigo",
+    "C2EAAFD6C82FC31853E0C058C7CA42CF": "Banca del Dominio de Daigo",
+    "C2EAAFD6C82FC31853E0C058CEAF2645": "Banca del Dominio de Daigo",
+    "7DA1D85A596CBE4353E0C058C7CA42CF": "Alacena del Dominio de Daigo",
+    "7DA1D85A596CBE4353E0C058CEAF2645": "Alacena del Dominio de Daigo",
+    "35D8B7A52D98408453E0C058C7CA42CF": "Farol de techo del Dominio de Daigo",
+    "35D8B7A52D98408453E0C058CEAF2645": "Farol de techo del Dominio de Daigo",
+    "113ED41A7D5B16D053E0C058C7CA42CF": "Parrilla a carbón del Dominio de Daigo",
+    "113ED41A7D5B16D053E0C058CEAF2645": "Parrilla a carbón del Dominio de Daigo",
+    "4EB40FD8AF54A5BA53E0C058C7CA42CF": "Estandarte decorativo del Dominio de Daigo",
+    "4EB40FD8AF54A5BA53E0C058CEAF2645": "Estandarte decorativo del Dominio de Daigo",
+    "EABDE35A4EEE0CC753E0C058C7CA42CF": "Máscara decorativa del Dominio de Daigo",
+    "EABDE35A4EEE0CC753E0C058CEAF2645": "Máscara decorativa del Dominio de Daigo",
+    "3DF46819471DBC5653E0C058C7CA42CF": "Gong del Dominio de Daigo",
+    "3DF46819471DBC5653E0C058CEAF2645": "Gong del Dominio de Daigo",
+    "4CBA8D5B52EA14B753E0C058C7CA42CF": "Farol colgante del Dominio de Daigo",
+    "4CBA8D5B52EA14B753E0C058CEAF2645": "Farol colgante del Dominio de Daigo",
+    "A593B69E9C2924F053E0C058C7CA42CF": "Estantería del Dominio de Daigo",
+    "A593B69E9C2924F053E0C058CEAF2645": "Estantería del Dominio de Daigo",
+    "D12ECD89C04F886853E0C058C7CA42CF": "Estandarte de interior del Dominio de Daigo",
+    "D12ECD89C04F886853E0C058CEAF2645": "Estandarte de interior del Dominio de Daigo",
+    "2CBA7A26336B14A053E0C058C7CA42CF": "Banca adornada del Dominio de Daigo",
+    "2CBA7A26336B14A053E0C058CEAF2645": "Banca adornada del Dominio de Daigo",
+    "3546D1FA55E907EB53E0C058C7CA42CF": "Portal adornado del Dominio de Daigo",
+    "3546D1FA55E907EB53E0C058CEAF2645": "Portal adornado del Dominio de Daigo",
+    "AE7B30427C9D186453E0C058C7CA42CF": "Farol adornado del Dominio de Daigo",
+    "AE7B30427C9D186453E0C058CEAF2645": "Farol adornado del Dominio de Daigo",
+    "E2D6175399D0918B53E0C058C7CA42CF": "Farol de exteriores del Dominio de Daigo",
+    "E2D6175399D0918B53E0C058CEAF2645": "Farol de exteriores del Dominio de Daigo",
+    "B3E17695DD6308F253E0C058C7CA42CF": "Aparador del Dominio de Daigo",
+    "B3E17695DD6308F253E0C058CEAF2645": "Aparador del Dominio de Daigo",
+    "F7E45FABA0BEB93953E0C058C7CA42CF": "Armario de depósito del Dominio de Daigo",
+    "F7E45FABA0BEB93953E0C058CEAF2645": "Armario de depósito del Dominio de Daigo",
+    "E65E56C2BE958FAE53E0C058C7CA42CF": "Mesa del Dominio de Daigo",
+    "E65E56C2BE958FAE53E0C058CEAF2645": "Mesa del Dominio de Daigo"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Presiona E para editar"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Personalizar"
+  }
+}

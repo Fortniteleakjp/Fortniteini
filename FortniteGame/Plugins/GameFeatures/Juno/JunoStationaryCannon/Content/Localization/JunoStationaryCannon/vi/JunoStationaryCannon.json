@@ -1,0 +1,32 @@
+{
+  "": {
+    "E4FDC6B94D56DD466250B1A936A5C1DD": "Ngắm Xuống",
+    "29F455524C2069AAEE31759F9C76B57C": "Ngắm Lên",
+    "7488B9DE44D5931BC7117BBC0066D326": "Súng Thần Công",
+    "EFE6221E43951480B611DEABB45D7B81": "Đạn Thần Công",
+    "9C94476B477FFEAFC1385DBAC023EA77": "FailReasonNoAmmo",
+    "9935A7B6453984A4F5857D8F00838D84": "FailReasonNoSpaceToExit",
+    "0B2A126F4CB6A4A093BBCF85DA4CD51D": "FailReasonOccupied",
+    "76CAEF45496C404BF55397973C5D83A6": "FailReasonOnCooldown",
+    "C24CB8BB4046588C245EE6854914FDAF": "Bắn",
+    "C1EE2F47435FBB50269E7AAE424494B1": "Tiến Vào",
+    "512BEDB34663E03FFC51869194DB9419": "LEGO® Fortnite (Súng Thần Công)",
+    "CE1643774F9969575EC6779CFC7722F3": "Nạp Đạn Thần Công",
+    "577AE1E6405A407D10B5FB91C1B75D61": "Nhặt Lên",
+    "A24DB9944CD5E72687821C83570FABC4": "Ngồi",
+    "3481B72C49C82035847F6C9925A917CF": "Khớp Xoay Trái",
+    "2CFF39674CF1770621AE1A80EBFC84A3": "Khớp Xoay Phải",
+    "3CB5A40D4E07D5480A6245B8DCF65AE8": "Du hành hay gặp rắc rối - tùy bạn chọn.",
+    "461E46C64AEAF7C3E461EBACF4D182EA": "Bạn sẽ cần <EmphA>Bàn Chế Tạo</> và tài nguyên <EmphA>nổ</>."
+  },
+  "Juno_GameplayItemCraftingFormulas_StationaryCannon": {
+    "Cannon_DisplayName": "Súng Thần Công",
+    "CannonBall_T1_DisplayName": "Đạn Thần Công"
+  },
+  "Juno_UpdateItemData": {
+    "F22126C747614BB89975DDAF5E7941E5": "Một khẩu súng thần công mạnh mẽ có thể bắn cả đạn thần công và người chơi.",
+    "5F376C3248A0EA01F4EB7DBDA8B62B53": "Đạn cho Súng Thần Công.",
+    "ED97F00F49ADBC8B468C0A88D0018CE8": "ĐẠN THẦN CÔNG!",
+    "6C73A4B34F4D91A2810BBF9496BD6CC2": "Súng Thần Công"
+  }
+}

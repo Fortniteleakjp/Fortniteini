@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "Portal de tienda de objetos",
+    "A636CB9048F6D10A27FAE2ACA3336261": "Portal de tienda de objetos",
+    "ECA01A1C4D96960EA267CEA75C458F15": "Portal de tienda de objetos",
+    "F0DA7B7A455C002838011E9950021E4F": "Portal de tienda de objetos",
+    "F6BA046441D88E68E7317EB0D779DDEE": "Portal de tienda de objetos",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Abrir tienda",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Abrir tienda",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Abrir tienda cuando se recibe",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Abrir tienda: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Abrir tienda: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Abre la tienda para el jugador activador al recibir una señal en el canal seleccionado.",
+    "18E3F3AD48251A9142A05A8349684E89": "Este dispositivo abre la tienda de objetos al activarse.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "Este dispositivo abre la tienda de objetos al activarse.",
+    "79656CFD409EE4E11B68988ACDCA8585": "Este dispositivo abre la tienda de objetos al activarse.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "Este dispositivo abre la tienda de objetos al activarse.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "Este dispositivo abre la tienda de objetos al activarse."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Siempre",
+    "EEnabledOnPhase.Create Only.DisplayName": "Solo crear",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Determina las fases de la partida en las que se habilitará el dispositivo. La fase anterior a la partida incluye todas las fases anteriores al inicio de la partida (la sala de espera de jugadores en islas destacadas y la cuenta regresiva de inicio de la partida).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Determina la duración de la interacción requerida para activar el dispositivo.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Deshabilitar",
+    "Device_Store_C.Disable.DisplayName": "Deshabilitar",
+    "Device_Store_C.Disable.Description": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "Device_ItemShop_V2_C.Disable.Description": "Deshabilita el dispositivo.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Habilitar",
+    "Device_Store_C.Enable.DisplayName": "Habilitar",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Habilitado en fase",
+    "Device_Store_C.Enable.Description": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "Device_ItemShop_V2_C.Enable.Description": "Habilita el dispositivo.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Solo durante la partida",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Tiempo de interacción",
+    "EEnabledOnPhase.None.DisplayName": "Nunca",
+    "Device_Store_C.OpenStore.DisplayName": "Abrir tienda",
+    "Device_Store_C.OpenStore.Description": "Abre la tienda para el jugador activador al recibir una señal en el canal seleccionado.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Solo en fase anterior a la partida"
+  }
+}

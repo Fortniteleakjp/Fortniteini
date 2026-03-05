@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "모드를 구매하고, 모드를 장착할 수 있는 무기에 모드를 장착 또는 제거할 수 있게 하는 장치입니다.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "모드를 구매하고, 모드를 장착할 수 있는 무기에 모드를 장착 또는 제거할 수 있게 하는 장치입니다. 장치 위에 아이템을 떨어트려 필요한 화폐를 설정합니다.",
+    "C71343894A060847493A649689759A65": "상호작용해 모드 장착 무기를 생성할 수 있는 케이스 세트입니다.",
+    "460F73D54CB382F639D9F28B319DB307": "커스터마이징 ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "모드 벤치를 사용할 수 없습니다",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "크레딧",
+    "53C6F3F34E06E917D367268882E08D87": "무기 개조에 필요한 화폐를 설정합니다.",
+    "A30B8506487121E7C4E703A5629FBE05": "수신 시 사용 안 함",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "사용 안 함",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "장치를 사용 안 함 상태로 설정하고 모드를 구매 및 제거할 수 없게 합니다.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "수신 시 사용",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "장치를 사용 상태로 설정하고 플레이어의 그라인드 시작을 허용합니다.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "모드를 장착한 무기 진열대 갤러리",
+    "0B7642504100909455884BA8ECBE7AD4": "무기 모드 벤치",
+    "1EBC090141D82557511D43B7E5342FD4": "무기 모드 벤치"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "허용할 클래스",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "허용할 팀",
+    "ECreativeClassType.Any.DisplayName": "모두",
+    "ECreativeTeamType.Any.DisplayName": "모두",
+    "ClassSlotMetaData.DisplayPattern": "{0} 클래스",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "플레이어에게 자원이 부족할 때 아이템 등급을 표시할지 여부를 설정합니다.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "미니게임 시작 시 이 장치를 사용 상태로 설정할지 설정합니다.",
+    "Device_WeaponModBench_C.ModCost.Description": "모드를 장착할 수 있는 무기에 모드를 장착하는 데 필요한 비용을 설정합니다. 선택 가능한 모든 모드에 적용됩니다. 오버라이드하지 않음 옵션은 배틀로얄 옵션의 비용을 사용하며, 변경될 수 있습니다.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "이 무기 모드 벤치를 사용할 수 있는 클래스를 설정합니다.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "이 무기 모드 벤치를 사용할 수 있는 팀을 설정합니다.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "사용 안 함",
+    "Device_WeaponModBench_C.Disable.Description": "장치를 사용 안 함 상태로 설정하고 모드를 구매 및 제거할 수 없게 합니다.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "사용",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "미니게임 시작 시 사용",
+    "Device_WeaponModBench_C.Enable.Description": "장치를 사용 상태로 설정하고 모드를 구매 및 제거할 수 있게 합니다.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "설정하면 허용할 클래스를 제외하고 모두 허용합니다.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "설정하면 허용할 팀을 제외하고 모두 허용합니다.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "클래스 선택 반전",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "팀 선택 반전",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "모드 비용",
+    "ECreativeClassType.NoClass.DisplayName": "클래스 없음",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "부족한 아이템 메시지에 아이템 등급 표시",
+    "TeamIndexMetaData.DisplayPattern": "{0} 팀"
+  }
+}

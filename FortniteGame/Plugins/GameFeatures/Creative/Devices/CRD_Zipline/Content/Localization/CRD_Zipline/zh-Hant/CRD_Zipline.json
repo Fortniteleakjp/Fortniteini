@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "無法搭乘滑索",
+    "768283974295183A2A78FCBFBAFE1742": "創建一條可以讓玩家在兩點間移動的滑索",
+    "C7C925214E0954D490E48DB594FCAE7C": "創建一條可以讓玩家在兩點間移動的滑索",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "自訂 ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "短暫的創意模式限定裝置，可作為滑索曲線點的電話工具介面",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "滑索",
+    "8CE167104123A4888338D3A2901028D8": "滑索",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "滑索控制點"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "任意",
+    "ECreativeTeamType.Any.DisplayName": "任意",
+    "ClassSlotMetaData.DisplayPattern": "職業{0}",
+    "Device_Zipline_C.Color.DisplayName": "色彩",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "決定此控制點的前向方向對此位置滑索曲線影響的程度。",
+    "Device_Zipline_C.UseCustomColor.Description": "決定是否使用自訂顏色，而非預設顏色。",
+    "Device_Zipline_C.Color.Description": "決定要使用的自訂顏色。",
+    "Device_Zipline_C.Selected Class.Description": "決定哪個職業能夠使用這個滑索。",
+    "Device_Zipline_C.Selected Team.Description": "決定哪支隊伍能夠使用這個滑索。",
+    "Device_Zipline_C.Invert Class Selection.Description": "若設定此選項，除了選定職業外，裝置將允許其餘所有職業。",
+    "Device_Zipline_C.Invert Team Selection.Description": "若設定此選項，除了選定隊伍外，裝置將允許其餘所有隊伍。",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "反轉職業選擇",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "反轉隊伍選擇",
+    "ECreativeClassType.NoClass.DisplayName": "無職業",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "Device_Zipline_C.OnAttach.DisplayName": "連接時",
+    "Device_Zipline_C.OnDetach.DisplayName": "斷開時",
+    "Device_Zipline_C.Selected Class.DisplayName": "選定職業",
+    "Device_Zipline_C.Selected Team.DisplayName": "選定隊伍",
+    "Device_Zipline_C.OnAttach.Description": "當角色單位連接上滑索時，傳送一個訊號。",
+    "Device_Zipline_C.OnDetach.Description": "當角色單位斷開滑索時，傳送一個事件",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "切線強度",
+    "TeamIndexMetaData.DisplayPattern": "隊伍{0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "使用自訂顏色"
+  }
+}

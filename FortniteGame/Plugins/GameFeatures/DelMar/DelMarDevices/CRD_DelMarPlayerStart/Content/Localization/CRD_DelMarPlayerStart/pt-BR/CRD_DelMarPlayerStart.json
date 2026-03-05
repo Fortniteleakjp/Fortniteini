@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Ponto de largada para uma corrida do Rocket Racing",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "Início do jogador do RR",
+    "0DF3230B4B023C3622D22CA51A8972F7": "Posição inicial do jogador do RR"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "Determina em que ordem os carros tentarão ser gerados na linha de largada. Valores abaixo de zero serão ignorados na geração na linha de chegada.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "Prioridade"
+  }
+}

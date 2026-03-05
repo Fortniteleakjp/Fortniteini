@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "レベルローダーの仕掛け",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "レベルローダーの仕掛け",
+    "6290D58B473E479F05752B83814E9464": "レベルローダーの仕掛けは、レベルインスタンスの仕掛けで作成したレベルを読み込み、他のレベルローダーの仕掛けの上などといった、島の任意の場所に設置したり回転させたりすることができます。",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "レベルローダーの仕掛けは、レベルインスタンスの仕掛けで作成したレベルを読み込み、他のレベルローダーの仕掛けの上などといった、島の任意の場所に設置したり回転させたりすることができます。",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "レベルローダーの仕掛けは、レベルインスタンスの仕掛けで作成したレベルを読み込み、他のレベルローダーの仕掛けの上などといった、島の任意の場所に設置したり回転させたりすることができます。"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "無効化",
+    "BP_LevelLoaderDevice_C.Disable.Description": "選択されたチャンネルから信号を受信していると、この仕掛けを無効にする。",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "有効化",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "ゲーム開始時に有効にする",
+    "BP_LevelLoaderDevice_C.Enable.Description": "選択されたチャンネルから信号を受信していると、この仕掛けを有効にする。",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "レベルインスタンス名",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "ロードされるレベルの名前。",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "ゲームの開始時に、この仕掛けを有効にするかの設定。"
+  }
+}

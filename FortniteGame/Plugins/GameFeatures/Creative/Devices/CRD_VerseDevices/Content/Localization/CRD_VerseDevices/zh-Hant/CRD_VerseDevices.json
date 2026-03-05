@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "已停用",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "已停用",
+    "7F622AD141A596DB6DA4A69D874C2761": "已啟用",
+    "F635B92B4F6D69AC48F18D8428078A2F": "已啟用",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "讓玩家執行自訂 Verse 腳本",
+    "0156B90F4D5E75298F886FA5AFC000E7": "載入並執行指定 Verse 腳本。",
+    "12BB4013449DF18D296F85AA4CB849E1": "腳本裝置",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "腳本裝置",
+    "4033820A43CE091C31CEF486B399093F": "腳本裝置"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "決定在遊戲過程中腳本是否可見。",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "遊戲開始時啟用",
+    "VerseDevice_C.VisibleInGame.DisplayName": "遊戲中可見",
+    "VerseDevice_C.Enabled at Game Start.Description": "在遊戲過程中是否執行附加腳本。"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "Cổng Cửa Tiệm Vật Phẩm",
+    "A636CB9048F6D10A27FAE2ACA3336261": "Cổng Cửa Tiệm Vật Phẩm",
+    "ECA01A1C4D96960EA267CEA75C458F15": "Cổng Cửa Tiệm Vật Phẩm",
+    "F0DA7B7A455C002838011E9950021E4F": "Cổng Cửa Tiệm Vật Phẩm",
+    "F6BA046441D88E68E7317EB0D779DDEE": "Cổng Cửa Tiệm Vật Phẩm",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Mở Cửa Hàng",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Mở Cửa Hàng",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Mở Cửa Hàng Khi Nhận Tín Hiệu",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Mở Cửa Hàng: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Mở Cửa Hàng: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Mở Cửa Hàng cho người chơi kích hoạt khi nhận từ kênh đã chọn.",
+    "18E3F3AD48251A9142A05A8349684E89": "Khi được kích hoạt, thiết bị này mở cửa tiệm vật phẩm.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "Khi được kích hoạt, thiết bị này mở cửa tiệm vật phẩm.",
+    "79656CFD409EE4E11B68988ACDCA8585": "Khi được kích hoạt, thiết bị này mở cửa tiệm vật phẩm.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "Khi được kích hoạt, thiết bị này mở cửa tiệm vật phẩm.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "Khi được kích hoạt, thiết bị này mở cửa tiệm vật phẩm."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Luôn luôn",
+    "EEnabledOnPhase.Create Only.DisplayName": "Chỉ Tạo",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Xác định thiết bị sẽ được bật trong suốt giai đoạn nào của trận đấu. Trước Trận Đấu bao gồm tất cả các giai đoạn trước khi Trận Đấu bắt đầu (sảnh chờ người chơi trên Đảo Nổi Bật và Đếm Ngược Thời Gian Bắt Đầu Trận Đấu).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Xác định thời gian tương tác cần thiết để kích hoạt thiết bị.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Tắt",
+    "Device_Store_C.Disable.DisplayName": "Tắt",
+    "Device_Store_C.Disable.Description": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "Device_ItemShop_V2_C.Disable.Description": "Tắt thiết bị.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Bật",
+    "Device_Store_C.Enable.DisplayName": "Bật",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Bật theo Giai Đoạn",
+    "Device_Store_C.Enable.Description": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "Device_ItemShop_V2_C.Enable.Description": "Bật thiết bị.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Chỉ Trong Trận Đấu",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Thời Gian Tương Tác",
+    "EEnabledOnPhase.None.DisplayName": "Không",
+    "Device_Store_C.OpenStore.DisplayName": "Mở Cửa Hàng",
+    "Device_Store_C.OpenStore.Description": "Mở Cửa Hàng cho người chơi kích hoạt khi nhận từ kênh đã chọn.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Chỉ Có Trước Trận"
+  }
+}

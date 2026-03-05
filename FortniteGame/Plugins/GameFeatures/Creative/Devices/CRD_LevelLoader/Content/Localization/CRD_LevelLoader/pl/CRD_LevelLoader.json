@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Urządzenie wczytywania poziomu",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Urządzenie wczytywania poziomu",
+    "6290D58B473E479F05752B83814E9464": "Urządzenie wczytywania poziomu wczytuje poziomy stworzone w urządzeniu instancji poziomu, umożliwiając ich umieszczanie i obracanie w dowolnym miejscu na wyspie, w tym na innych urządzeniach wczytywania poziomu.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "Urządzenie wczytywania poziomu wczytuje poziomy stworzone w urządzeniu instancji poziomu, umożliwiając ich umieszczanie i obracanie w dowolnym miejscu na wyspie, w tym na innych urządzeniach wczytywania poziomu.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "Urządzenie wczytywania poziomu wczytuje poziomy stworzone w urządzeniu instancji poziomu, umożliwiając ich umieszczanie i obracanie w dowolnym miejscu na wyspie, w tym na innych urządzeniach wczytywania poziomu."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Wyłącz",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Włącz",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Włączono od początku gry",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Nazwa instancji poziomu",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Nazwa poziomu, który zostanie wczytany.",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Określa, czy urządzenie ma być włączane od razu po rozpoczęciu gry."
+  }
+}

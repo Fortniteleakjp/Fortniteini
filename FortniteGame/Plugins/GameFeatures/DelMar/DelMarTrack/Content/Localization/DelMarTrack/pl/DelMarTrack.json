@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Aktywuje dany tor, gdy zawodnik wjedzie na ten obszar. Zazwyczaj używane na torach bez geometrii.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "Przestrzeń aktywnego toru RR"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Wymuś odradzanie na ukrytym torze",
+    "MultipleValues": "Wiele wartości",
+    "Off Track Radius": "Promień wykroczenia poza tor",
+    "Use Back Endcap": "Użyj tylnej nakładki",
+    "Use Front Endcap": "Użyj przedniej nakładki",
+    "Use Stable Roll": "Użyj stabilnego przechyłu bocznego"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "Zmień kształt wielu węzłów",
+    "DeleteMultipleNodeConfirmation": "Usunąć wiele węzłów?",
+    "DeleteMultipleNodes": "Usuń wiele węzłów",
+    "EnableOOBTube": "Podłącz przewód OOB",
+    "MeshCustomizations": "Dostosowania siatki na wielu",
+    "MultipleNodesSelected": "Wybrano wiele węzłów",
+    "UseStableRollOnMultiple": "Użyj stabilnego przechyłu bocznego na wielu"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "Usuń węzeł",
+    "DeleteNodeConfirmation": "Usunąć węzeł?",
+    "MetaDataIndexTitle": "Indeks: {CurrentIndex}",
+    "SingleNodeSelected": "Wybrano jeden węzeł",
+    "SplitNode": "Podziel węzeł",
+    "SplitNodeConfirmation": "Podzielić węzeł?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "Urządzenie",
+    "DeviceProperties": "Właściwości urządzenia",
+    "EditDevice": "Edytuj urządzenie",
+    "EditTrack": "Edytuj trasę",
+    "Looping Track": "Tor zapętlony",
+    "None": "Brak",
+    "RoadStyle": "Rodzaj drogi",
+    "SelectSplinePoints": "Wybierz krzywe sklejane",
+    "SelectedPoints": "Wybrane połączenia",
+    "Theme": "Motyw",
+    "Track": "Trasa"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "Nieprawidłowe połączenie drugiej trasy! Wszystkie drugie trasy muszą być połączone z trasą główną lub inną trasą drugorzędną: {1}. Mapa: {2}",
+    "NoEndTrackConnection": "Druga trasa nie ma połączenia z linią mety w {0}. Mapa: {1}",
+    "NoStartTrackConnection": "Druga trasa nie ma połączenia z linią startu w {0}. Mapa: {1}",
+    "SecondaryTrackLoops": "Wykryto pętlę na drugiej trasie! Wykryto pętlę na trasie {0} (Trasa rozpoczynająca: {1}). Mapa: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "Zaawansowane",
+    "AttachToEnd": "Zamocuj do końcówki",
+    "AttachToStart": "Zamocuj na początku",
+    "Attaching": "Mocowanie",
+    "ConvertOobTubesToNative_Label": "Konwertuj schemat przewodu OOB na natywny",
+    "ConvertOobTubesToNative_Tooltip": "Konwertuje wszystkie istniejące schematy przewodów OOB na natywne.",
+    "DelMarTrack": "Tor Del Mar",
+    "PrintAttachableActors": "Wydrukuj elementy do zamocowania",
+    "RebuildOobTube": "Odnów przewód OOB",
+    "DelMarStyleEditor": "Edytor stylów"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Wizualizator komponentów krzywej Del Mar"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "Przewód OOB",
+    "Rebuild OOB Tube": "Odnów przewód OOB",
+    "RoadSplineTabTitle": "Drogowa krzywa",
+    "SelectedSplineTabTitle": "Wybrany węzeł",
+    "SplineLengthTitle": "Długość krzywej: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "Wybierz krzywe sklejane",
+    "SelectedPoints": "Wybrane połączenia"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "Droga z krawężnikami",
+    "Change Road Shape": "Zmień kształt drogi",
+    "FlatRoad": "Droga płaska",
+    "HalfPipe": "Rampa",
+    "Pipe": "Rura",
+    "RoadShape": "Kształt drogi",
+    "Tunnel": "Tunel"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Dodaj następną krzywą sklejaną do bieżącego zaznaczenia.",
+    "SelectAddPrevSplinePointToolTip": "Dodaj poprzednią krzywą sklejaną do bieżącego zaznaczenia.",
+    "DeleteMultipleNodeConfirmation": "Usunąć wiele węzłów?",
+    "SelectDeleteSplinePointToolTip": "Usuń połączenie w bieżącym zaznaczeniu.",
+    "SelectAllSplinePointToolTip": "Wybierz wszystkie krzywe sklejane.",
+    "SelectFirstSplinePointToolTip": "Wybierz pierwszą krzywą sklejaną.",
+    "SelectLastSplinePointToolTip": "Wybierz ostatnią krzywą sklejaną.",
+    "SelectNextSplinePointToolTip": "Wybierz następną krzywą sklejaną.",
+    "SelectPrevSplinePointToolTip": "Wybierz poprzednią krzywą sklejaną.",
+    "SplitNodeConfirmation": "Podzielić wybrany węzeł?",
+    "SelectSplitSplinePointToolTip": "Podziel węzły na wybranych indeksach."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Przełącz wybraną krzywą sklejaną na flagę UseStableRoll",
+    "ToggleUseStableRoll": "Użyj stabilnego przechyłu bocznego"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Tor do aktywowania"
+  }
+}

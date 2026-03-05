@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "刀锋",
+    "33EE7DD140FA593C65E6858D3ED133F0": "专注",
+    "7D92FBAF4FF2178468D08FB5447138AA": "手柄"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "琥珀双匕首",
+    "Dual_Daggers_T5_Amber_DisplayName": "琥珀双匕首",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "爆裂双匕首",
+    "Dual_Daggers_T1_Bone_DisplayName": "白骨双匕首",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "光明双匕首",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "尖爪双匕首",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "尖爪双匕首",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "尖爪双匕首",
+    "Dual_Daggers_T3_Copper_DisplayName": "铜制双匕首",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "诅咒双匕首",
+    "Dual_Daggers_T4_Emerald_DisplayName": "翡翠双匕首",
+    "Dual_Daggers_T5_Emerald_DisplayName": "翡翠双匕首",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "仙人掌木双匕首",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "寒松双匕首",
+    "Dual_Daggers_T1_Glass_DisplayName": "玻璃双匕首",
+    "Dual_Daggers_T3_Gold_DisplayName": "黄金双匕首",
+    "Dual_Daggers_T2_Granite_DisplayName": "花岗岩双匕首",
+    "Dual_Daggers_T3_Iron_DisplayName": "铁制双匕首",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "环节木双匕首",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "桃花心木双匕首",
+    "Dual_Daggers_T2_Malachite_DisplayName": "孔雀石双匕首",
+    "Dual_Daggers_T2_Marble_DisplayName": "大理石双匕首",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "黑曜石双匕首",
+    "Dual_Daggers_T2_Redrock_DisplayName": "红岩双匕首",
+    "Dual_Daggers_T4_Ruby_DisplayName": "红宝石双匕首",
+    "Dual_Daggers_T5_Ruby_DisplayName": "红宝石双匕首",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "砂岩双匕首",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "蓝宝石双匕首",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "蓝宝石双匕首",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "破碎犄角双匕首",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "破碎犄角双匕首",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "风暴双匕首",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "风暴护卫双匕首",
+    "Dual_Daggers_T1_Wood_DisplayName": "木制双匕首"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "双匕首"
+  }
+}

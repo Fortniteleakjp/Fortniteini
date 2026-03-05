@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "إضافة إلى قائمة انتظار نهاية اللعبة عند الاستلام من",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "لإجبار جميع اللاعبين الموجودين في جلسة بالجزيرة على العثور على لاعبين.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "بث اللعبة",
+    "D6605AA24CE9BB51B09055B216381F62": "بث اللعبة",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "رمز الجزيرة",
+    "4906BC4442B704E71E23E9B9A01FF370": "بوابة المستوى",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "لتعيين رمز الجزيرة الذي ستشير إليه بوابة العثور على اللاعبين.",
+    "413FED52446F49764E9AF9B6A2F275BB": "لنقل السكان عند الاستلام من"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "تعطيل عند الاستلام من",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "لتعطيل الجهاز عند تلقي إشارة من القناة المحددة.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "تفعيل عند الاستلام من",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "لتفعيل الجهاز عند تلقي إشارة من القناة المحددة.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "قائمة الانتظار عند نهاية اللعبة",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "نقل السكان"
+  }
+}

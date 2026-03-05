@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Rocket Racing yarışı için bir başlangıç konumudur.",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "RR Oyuncu Başlangıcı",
+    "0DF3230B4B023C3622D22CA51A8972F7": "RR Oyuncu Başlangıç Konumu"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "Araçların başlangıç çizgisindeki sıralamasını belirler. Başlangıç çizgisi sıralaması belirlenirken sıfırın altındaki değerler göz ardı edilir.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "Öncelik"
+  }
+}

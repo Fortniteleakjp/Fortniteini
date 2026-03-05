@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Un dispositivo que permite que los jugadores compren y apliquen o eliminen accesorios de armas que se pueden modificar.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Un dispositivo que permite que los jugadores compren y apliquen o eliminen accesorios de armas que se pueden modificar. Suelta un objeto en el dispositivo para establecer la moneda necesaria.",
+    "C71343894A060847493A649689759A65": "Un conjunto de maletines con el que se puede interactuar para generar armas modificadas.",
+    "460F73D54CB382F639D9F28B319DB307": "PERSONALIZAR ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "No se puede usar el banco de accesorios",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Créditos",
+    "53C6F3F34E06E917D367268882E08D87": "Determina la moneda establecida necesaria para modificar un arma.",
+    "A30B8506487121E7C4E703A5629FBE05": "Deshabilitar cuando se recibe",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Deshabilitado",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Deshabilita el dispositivo e impide comprar y eliminar accesorios.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Habilitar cuando se recibe",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Habilita el dispositivo y permite que los jugadores empiecen a deslizarse.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Galería de maletín de armas modificables",
+    "0B7642504100909455884BA8ECBE7AD4": "Banco de accesorios de armas",
+    "1EBC090141D82557511D43B7E5342FD4": "Banco de accesorios de armas"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Clase permitida",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Equipo permitido",
+    "ECreativeClassType.Any.DisplayName": "Cualquiera",
+    "ECreativeTeamType.Any.DisplayName": "Cualquiera",
+    "ClassSlotMetaData.DisplayPattern": "Clase {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Determina si el jugador ve la rareza del objeto si le faltan recursos.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Determina si este dispositivo debería habilitarse cuando comience el minijuego.",
+    "Device_WeaponModBench_C.ModCost.Description": "Determina cuánto cuesta equipar un accesorio a un arma que se puede modificar. Este valor se aplicará a todos los accesorios seleccionables. No anular usa los costos de Batalla campal, por lo que pueden cambiar.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Determina qué clase puede usar este banco de accesorios de armas.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Determina qué equipo puede usar este banco de accesorios de armas.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Deshabilitar",
+    "Device_WeaponModBench_C.Disable.Description": "Deshabilita el dispositivo e impide comprar y eliminar accesorios.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Habilitar",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Habilitado al inicio del minijuego",
+    "Device_WeaponModBench_C.Enable.Description": "Habilita el dispositivo y permite comprar y eliminar accesorios.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Si se establece, el dispositivo permitirá a todos excepto a la clase permitida.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Si se establece, el dispositivo permitirá a todos excepto al equipo permitido.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Invertir selección de clase",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Invertir selección de equipo",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Costo de accesorio",
+    "ECreativeClassType.NoClass.DisplayName": "Ninguna clase",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Mostrar rareza del objeto en el mensaje del objeto que falta",
+    "TeamIndexMetaData.DisplayPattern": "Equipo {0}"
+  }
+}

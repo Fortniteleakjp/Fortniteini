@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Appareil de chargement de niveau",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Appareil de chargement de niveau",
+    "6290D58B473E479F05752B83814E9464": "L'appareil de chargement de niveau charge des niveaux qui ont été créés dans l'appareil d'instance de niveau et vous permet de les placer et de les faire pivoter n'importe où sur votre île, même par-dessus d'autres appareils de chargement de niveau.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "L'appareil de chargement de niveau charge des niveaux qui ont été créés dans l'appareil d'instance de niveau et vous permet de les placer et de les faire pivoter n'importe où sur votre île, même par-dessus d'autres appareils de chargement de niveau.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "L'appareil de chargement de niveau charge des niveaux qui ont été créés dans l'appareil d'instance de niveau et vous permet de les placer et de les faire pivoter n'importe où sur votre île, même par-dessus d'autres appareils de chargement de niveau."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Désactiver",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Désactive l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Activer",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Activer au démarrage du jeu",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Active l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Nom de l'instance de niveau",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Le nom de l'instance de niveau qui sera chargée.",
+    "BoolMetaData.FalseDisplayName": "Non",
+    "BoolMetaData.TrueDisplayName": "Oui",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Définit si cet appareil est activé ou non lorsque le jeu commence."
+  }
+}

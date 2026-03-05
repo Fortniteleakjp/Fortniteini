@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "Zwischenraum: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: außerhalb von {1} generiert",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "{ItemName} platzieren"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>wurde eliminiert</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>wurde von einem Totem gerettet</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "{ItemDisplayText} schenken"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Gib mir alles!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}"
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Dem Lager {0} anschließen"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Nicht genug für Tausch vorhanden. Für den Tausch von {SellItemCount}-mal {SellItem} wird {WantItemCount}-mal {WantItem} benötigt. \n {BundleCount} Stapel übrig.",
+    "TradeXForX": "{WantItemCount}-mal {WantItem} für {SellItemCount}-mal {SellItem} eintauschen. \n {BundleCount} Stapel übrig."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Abgeschlossen!",
+    "GetX": "{0} erhalten"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>hat die Welt betreten</>",
+    "GameMemberDisconnected": "{0} <Yellow>hat die Welt verlassen</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "Ladung hinzufügen",
+    "ChargeCostUnits": "ladung",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Weiter",
+    "JunoSpeech_NoAIRole": "Untätig",
+    "JunoSpeech_NoBoundCampName": "Dorf ohne Namen",
+    "JunoSpeech_NoLastUsedGatheringActor": "Keine Station"
+  },
+  "JunoStorageChest": {
+    "Open": "Öffnen",
+    "Search": "Durchsuchen"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "Dorf von {PlayerName} {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Kick wegen Inaktivität. Die Verbindung zum Host wurde unterbrochen, weil du zu lange inaktiv warst.",
+    "SpawnedWhenPermanentlyDead": "Dieser Klient hat keine Leben mehr."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Angeleitetes Bauen starten"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Dies ist die letzte Welt eines Freundes, auf der du diese Woche Inhalte im Besitz platzieren kannst.",
+    "MCPItemPlacedMessageTitleText": "Warnung! Inhalte im Besitz",
+    "MCPItemPlacedMessageDescription_NLeft": "Du kannst Inhalte im Besitz in dieser Woche noch auf {0} weiteren Welt(en) deiner Freunde platzieren."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "Użyj kilku takich, gdy potrzeba zwiększyć obroty. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "Gdy jeszcze bardziej trzeba podkręcić obroty."
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "Przymocuj duże silniki do istniejących budowli i dynamicznych obiektów.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "Przymocuj małe silniki do istniejących budowli i dynamicznych obiektów.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "Duży silnik",
+    "5E9A371D43E076126910D39AF338F4B5": "Mały silnik"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "Duży silnik",
+    "RemoteThruster_DisplayName": "Mały silnik"
+  }
+}

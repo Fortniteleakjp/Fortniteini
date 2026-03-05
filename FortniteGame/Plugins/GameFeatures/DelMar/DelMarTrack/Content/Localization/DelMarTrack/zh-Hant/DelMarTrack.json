@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "當賽車手進入此區域時啟動指定賽道。通常用於沒有幾何體的賽道。",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "Rocket Racing 已啟用賽道區域"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "強制隱藏賽道重新生成",
+    "MultipleValues": "多個值",
+    "Off Track Radius": "偏離道路半徑",
+    "Use Back Endcap": "使用後方展示端",
+    "Use Front Endcap": "使用前方展示端",
+    "Use Stable Roll": "使用穩定滾動"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "變更多個節點的形狀",
+    "DeleteMultipleNodeConfirmation": "刪除多個節點？",
+    "DeleteMultipleNodes": "刪除多個節點",
+    "EnableOOBTube": "啟用 OOB 管路",
+    "MeshCustomizations": "多人時網格自訂",
+    "MultipleNodesSelected": "已選擇多個節點",
+    "UseStableRollOnMultiple": "多人時使用穩定滾動"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "刪除節點",
+    "DeleteNodeConfirmation": "刪除節點？",
+    "MetaDataIndexTitle": "索引：{CurrentIndex}",
+    "SingleNodeSelected": "已選擇一個節點",
+    "SplitNode": "在節點處拆分",
+    "SplitNodeConfirmation": "在節點處拆分？"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "裝置",
+    "DeviceProperties": "裝置屬性",
+    "EditDevice": "編輯裝置",
+    "EditTrack": "編輯賽道",
+    "Looping Track": "循環賽道",
+    "None": "無",
+    "RoadStyle": "道路樣式",
+    "SelectSplinePoints": "選定樣條曲線點",
+    "SelectedPoints": "選定點",
+    "Theme": "主題",
+    "Track": "賽道"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "次要賽道連接不良！請確定所有次要賽道都連接到主要或次要賽道：{1}。地圖：{2}",
+    "NoEndTrackConnection": "次要賽道在{0}中缺少 EndTrackConnection。地圖：{1}",
+    "NoStartTrackConnection": "次要賽道在{0}中缺少 StartTrackConnection。地圖：{1}",
+    "SecondaryTrackLoops": "偵測到次要賽道循環！在賽道{0}偵測到循環（起始賽道：{1}）。地圖：{2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "進階",
+    "AttachToEnd": "附加到尾部",
+    "AttachToStart": "附加到前端",
+    "Attaching": "附加中",
+    "ConvertOobTubesToNative_Label": "將藍圖 OOB 管路轉換為原生",
+    "ConvertOobTubesToNative_Tooltip": "將所有現有的藍圖 OOB 管路轉換為其對應之原生 OOB 管路。",
+    "DelMarTrack": "德爾馬賽道",
+    "PrintAttachableActors": "可附加印花對象",
+    "RebuildOobTube": "重建 OOB 管路",
+    "DelMarStyleEditor": "樣式編輯器"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "德爾馬",
+    "DelMarSplineComponentVisualizer": "德爾馬樣條曲線組件視覺工具"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "OOB 管路",
+    "Rebuild OOB Tube": "重建 OOB 管路",
+    "RoadSplineTabTitle": "道路樣條曲線",
+    "SelectedSplineTabTitle": "選定節點",
+    "SplineLengthTitle": "樣條曲線長度：{SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "選定樣條曲線點",
+    "SelectedPoints": "選定點"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "彎曲道路",
+    "Change Road Shape": "變更道路形狀",
+    "FlatRoad": "平坦道路",
+    "HalfPipe": "U 型",
+    "Pipe": "管子",
+    "RoadShape": "道路形狀",
+    "Tunnel": "隧道"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "將下一個樣條曲線點加入目前選擇。",
+    "SelectAddPrevSplinePointToolTip": "將前一個樣條曲線點加入目前選擇。",
+    "DeleteMultipleNodeConfirmation": "刪除多個節點？",
+    "SelectDeleteSplinePointToolTip": "刪除目前選擇的點。",
+    "SelectAllSplinePointToolTip": "選擇所有樣條曲線點。",
+    "SelectFirstSplinePointToolTip": "選擇第一個樣條曲線點。",
+    "SelectLastSplinePointToolTip": "選擇最後一個樣條曲線點。",
+    "SelectNextSplinePointToolTip": "選擇下一個樣條曲線點。",
+    "SelectPrevSplinePointToolTip": "選擇前一個樣條曲線點。",
+    "SplitNodeConfirmation": "在選定節點處拆分？",
+    "SelectSplitSplinePointToolTip": "在選定指標處拆分？"
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "將選定之樣條曲線點切換至 UseStableRoll 標誌",
+    "ToggleUseStableRoll": "使用穩定滾動"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "要啟動的賽道"
+  }
+}

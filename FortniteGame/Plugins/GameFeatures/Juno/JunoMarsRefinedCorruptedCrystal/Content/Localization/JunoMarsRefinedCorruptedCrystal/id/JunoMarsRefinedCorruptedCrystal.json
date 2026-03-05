@@ -1,0 +1,32 @@
+{
+  "": {
+    "2A3DA133450DE1F4E7762EBFC3C8F144": "Kapak Korup",
+    "5916DF4549227279E8AD35931888404D": "Busur Silang Korup",
+    "9875D91146C4D8408E03BAAEFDF0BB3F": "Belati Ganda Korup",
+    "F32A2C4A460D4C6BC10DD7BD49D31F18": "Palu Korup",
+    "9695AF99464F0C9FEC50C3BE822C43AF": "Parang Korup",
+    "76AEC6DD4CF9D18F7BFDC9BCFAEAA530": "Beliung Korup",
+    "69115BA249B1068F42E315B62BF89A6C": "Pistol Plasma Korup",
+    "8CC4CDD3405EAA085765AAB2E319DF1D": "Tombak Korup",
+    "934302ED42B3386302EC7F9B113AC1FA": "Pedang Korup",
+    "4F041E594D370BBE74E3BDA4A7A4BBAF": "Rakit Senjata menggunakan <emphA>Potongan Kristal Korup</>.",
+    "4709780A4E901F20D82492ADE6339182": "Rakit senjata dengan <text color=\"E2FCFFFF\">Potongan Kristal Korup</>",
+    "C000930E48E063391FFEDFA82B24B571": "Tiap beberapa detik, elakan kamu akan memunculkan topeng pencari musuh yang meledak saat bersentuhan.",
+    "1698974C46A90E20604D21BB850149FE": "Amarah Spire IV",
+    "96F30C124D97236C1039428F0ED3FB2C": "Amarah Spire IV",
+    "9AF379BD41AED1FFBDBC898B76D03198": "SANGAT Ter-Inspirasi.",
+    "BD73B5584E28FBB049C627BCB4B934BA": "Kamu butuh <EmphA>Kristal Korup</> dan <EmphA>Pemotong Permata</>.",
+    "19CC8E6C4A0EBC05523D13B480BC3BFA": "sumber daya perakitan"
+  },
+  "Juno_GameplayItemCraftingFormulas_CutCorruptedCrystalMaterial": {
+    "CutCorruptedCrystal_DisplayName": "Potongan Kristal Korup",
+    "EssenceOfSpireWrathIV_DisplayName": "Amarah Spire IV"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "A623134E47F36B4867D2559117996AF6": "Potongan Kristal Korup"
+  },
+  "Juno_UpdateItemData": {
+    "89238479458E64E9C358C986EFA5832A": "Luar biasa tajam.",
+    "6BA4926A4017F26CA4BA1E9607643091": "Gunakan untuk merakit senjata ringan. Dihaluskan dari Kristal Korup."
+  }
+}

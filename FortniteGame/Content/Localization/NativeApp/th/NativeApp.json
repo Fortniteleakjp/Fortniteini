@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "คัดลอก {0}"
+  },
+  "Fortnite": {
+    "DoubleElimination": "กำจัดควบสอง",
+    "Down": "ลง",
+    "DebugLoadContentFail": "ดาวน์โหลดไม่สำเร็จ",
+    "Eliminated": "ถูกกำจัดแล้ว",
+    "Elimination": "การกำจัด",
+    "UEFNMobileSessionMainMenuError_Confirmation": "ออกจากเซสชัน",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "ไม่อนุญาตให้ไปที่เมนูหลักในเซสชันมือถือ UEFN",
+    "UEFNMobileSessionMainMenuError_Title": "เซสชันมือถือ",
+    "MultiElimination": "กำจัดหลายเด้ง",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "เกิดข้อผิดพลาดบางอย่างขึ้น เซสชันมือถือกำลังจะปิดลง",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "เกิดข้อผิดพลาดบางอย่างขึ้น: {Reason} เซสชันมือถือกำลังจะปิดลง",
+    "TripleElimination": "กำจัดควบสาม",
+    "Win": "ชนะ",
+    "UEFNMobileSessionMainMenu_MessageBody": "คุณไม่สามารถเข้าห้องล็อบบี้ Fortnite ขณะอยู่ในเซสชันมือถือได้ คุณต้องการออกหรือไม่?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "เกิดข้อผิดพลาดในขณะรีเพลย์"
+  },
+  "SpriteCategory": {
+    "Lighting": "แสงไฟ"
+  }
+}

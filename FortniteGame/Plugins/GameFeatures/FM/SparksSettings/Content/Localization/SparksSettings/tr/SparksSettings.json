@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Kapalı</>: Dans ifadeleri normal hızda oynar ve ifadenin müziği, müzik parçasının üzerine oynatılır.",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Açık</>: Dans ifadeleri müzik parçasının ritmine senkronize olur ve ifadenin müziği susturulur.",
+    "JamTrackAudioTabName": "Müzik Parçaları",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "Dans İfadelerimi Müzik Parçaları İle Senkronize Et",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Bu ayarlar, bir müzik parçası oynatılırken dans ifadelerine ne olacağını değiştirir."
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "Festival'de oynanış müziğinin ses düzeyini ayarla.",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "Müzik - Festival"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Воспроизводит видеоролики в соответствии с программой передач.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Позволяет создать расписание воспроизведения видеороликов в UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Программа видеопередач",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "Программа видеопередач"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Компоновка при заполнении расписания",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Управление видеопроигрывателем",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Ежедневно",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Не повторять",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Заполнить расписание",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Пробел при заполнении расписания",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Ежечасно",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Ссылка на видеопроигрыватель, который должен управляться этой программой передач.",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Повторять программу передач",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Программа передач (тест)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Начать",
+    "Device_VideoSchedule_Native_C.Start.Description": "Запустить воспроизведение программы видеопередач.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Остановить",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Остановить воспроизведение программы видеопередач.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Проверка получения управления",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Функция для проверки получения управляющего события видеопроигрывателя.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Определяет, должна ли повторяться программа передач."
+  }
+}

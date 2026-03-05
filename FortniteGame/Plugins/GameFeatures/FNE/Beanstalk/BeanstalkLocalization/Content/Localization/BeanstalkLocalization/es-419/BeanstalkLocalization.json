@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "Lanzarse",
+    "BS_MainTitle": "Fall Guys",
+    "BS_InteractionBlocked": "Las alubias no pueden usar eso.",
+    "BS_Control_Jump": "Saltar",
+    "BS_Control_QuitCourse": "Abandonar pista"
+  }
+}

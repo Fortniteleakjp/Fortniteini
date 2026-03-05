@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "ระดับเสียงของฝูงชน",
+    "CBA0009043A15E05890AC68F8056B814": "ระดับเสียงของฝูงชน",
+    "E1067A64427AA66B822488B1D608CD94": "ระดับเสียงของฝูงชน",
+    "4C46C8CA41311206CF70698F2FE39BEB": "ปิดการใช้งาน",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "ปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BFBBEB534C644E161C3AE491501828F6": "เปิดการใช้งาน",
+    "650644994C28CFD38E31829A56E3464F": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "สร้างฝูงชนเพื่อให้กำลังใจคุณ",
+    "2253A34C49B07B7CD62CB18E4F691187": "สร้างฝูงชนเพื่อให้กำลังใจคุณ",
+    "F4DA79224C576591D48AF68C10A6FD46": "สร้างฝูงชนเพื่อให้กำลังใจคุณ",
+    "7EDB5C9C49AC528E948643B2245928A7": "อุปกรณ์นี้ช่วยให้คุณสร้างฝูงชนได้",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=ช่อง, other=ช่อง)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=ช่อง, other=ช่อง)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=ช่อง, other=ช่อง)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "ตลอดเวลา",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "การจัดตำแหน่งตัวละคร",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "การสุ่มมุมของตัวละคร",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "การสุ่มปริมาณตัวละคร",
+    "EEnabledOnPhase.Create Only.DisplayName": "เฉพาะสร์าง",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "ความหนาแน่นของฝูงชน",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "กำหนดช่วงเวลาในเกมที่จะเปิดการใช้งานอุปกรณ์ ก่อนเริ่มเกมรวมถึงทุกช่วงเวลาก่อนที่เกมจะเริ่ม (ล็อบบี้รอผู้เล่นในเกาะแนะนำและการนับถอยหลังเริ่มเกม)",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "ปิดการใช้งาน",
+    "BP_CrowdVolume_Device_C.Disable.Description": "ปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "เปิดการใช้งาน",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "เปิดการใช้งานระหว่างช่วง",
+    "BP_CrowdVolume_Device_C.Enable.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "เกมเพลย์เท่านั้น",
+    "EEnabledOnPhase.None.DisplayName": "ไม่มี",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "เฉพาะแมตช์ที่รอเริ่ม",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "กำหนดว่าฝูงชนจะหนาแน่นเท่าใด",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "กำหนดว่าคนในฝูงชนจะยืนตรงกับเส้นกริดอย่างแม่นยำเพียงใด",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "กำหนดจำนวนการสุ่มปริมาณคนในฝูงชน",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "กำหนดจำนวนการสุ่มทิศทางที่คนในฝูงชนกำลังหันหน้าไป",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "กำหนดความลึกของโซนเป็นหน่วยช่อง",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "กำหนดความสูงของโซนเป็นหน่วยช่อง",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "กำหนดความกว้างของโซนเป็นหน่วยช่อง",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "ความลึกโซน",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "ความสูงโซน",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "ความกว้างโซน"
+  }
+}

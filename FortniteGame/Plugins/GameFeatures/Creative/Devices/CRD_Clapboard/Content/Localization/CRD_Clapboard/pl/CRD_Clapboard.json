@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "Klaps",
+    "56A03FF7436EC20DE829418960AB9A08": "Klaps",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "Odliczaj w tył",
+    "54EF511B43B2E65B7886F99DA6DD9816": "Odliczaj w przód",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "Wył.",
+    "AE5B62204B1FB18FD103519F4F38C337": "Po wybraniu tej opcji klaps będzie nadawać sygnał tylko wtedy, gdy określonym filmem jest film, który osiągnął swój znacznik czasu.",
+    "77D7DD294A81C19292A44388D4D1A105": "Nieprawidłowy film",
+    "15CAFDE0497C42D493DB10828B7326A0": "Nadaje sygnał po osiągnięciu określonego znacznika czasu w aktualnie odtwarzanym filmie.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "Nadaje sygnały po osiągnięciu określonego punktu podczas odtwarzania aktualnego filmu.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "Ustawia odliczanie na liczniku w klapsie w tył do 0 lub w przód do ustawionego czasu.",
+    "47A0B0E747D41C694384768BB2B392E6": "Określony film",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "Czas (w milisekundach)",
+    "2ED1F344488EB2612D092586C1725442": "Czas (w minutach)",
+    "5750BFD542FFB083102152A0A1BC2154": "Czas (w sekundach)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "Odczyt czasu",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "Nadawaj po osiągnięciu czasu",
+    "FF2400934566662794B5DB97A137A842": "Wysyła sygnał na tym kanale, gdy ten licznik urządzenia dobiegnie końca.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0} ms",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0} s",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "Wyłącz",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "Włącz",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "Osiągnięty czas",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "Wysyła sygnał na tym kanale, gdy ten licznik urządzenia dobiegnie końca."
+  }
+}

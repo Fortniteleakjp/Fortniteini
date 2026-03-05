@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "Recoger madera",
+    "EC841CD54B7090D2510D7586F386C251": "Recoger madera"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Presiona E para editar"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Personalizar"
+  }
+}

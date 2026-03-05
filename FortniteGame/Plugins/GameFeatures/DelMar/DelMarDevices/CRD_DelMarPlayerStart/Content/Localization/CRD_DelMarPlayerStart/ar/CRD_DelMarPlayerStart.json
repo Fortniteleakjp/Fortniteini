@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "موقع انطلاق لسباق Rocket Racing",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "بداية لاعب RR",
+    "0DF3230B4B023C3622D22CA51A8972F7": "موضع البداية للاعب RR"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "يحدد الترتيب الذي ستحاول السيارات نشره عند خط البداية. سيتم تجاهل القيم التي تقل عن الصفر في وقت النشر عند خط البداية.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "الأولوية"
+  }
+}

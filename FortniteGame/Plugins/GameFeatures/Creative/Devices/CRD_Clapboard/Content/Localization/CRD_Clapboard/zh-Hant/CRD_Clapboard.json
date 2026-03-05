@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "場記板",
+    "56A03FF7436EC20DE829418960AB9A08": "場記板",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "倒數",
+    "54EF511B43B2E65B7886F99DA6DD9816": "向上數",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "已停用",
+    "AE5B62204B1FB18FD103519F4F38C337": "若設定此選項，只有當指定播放來源觸及到該時間點時，此場記板才會發送訊號。",
+    "77D7DD294A81C19292A44388D4D1A105": "無效串流",
+    "15CAFDE0497C42D493DB10828B7326A0": "當目前播放的影片進度到達指定時間點時傳送訊號。",
+    "EE6F8DDD48E31DD985B5C6A458134926": "當播放流程到達特定時間點時，自動傳送訊號。",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "設定場記板的計時器，可選擇倒數至 0 或從 0 正數至指定時間。",
+    "47A0B0E747D41C694384768BB2B392E6": "指定串流",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "時間（毫秒）",
+    "2ED1F344488EB2612D092586C1725442": "時間（分鐘）",
+    "5750BFD542FFB083102152A0A1BC2154": "時間（秒）",
+    "8E2D4B6E4DD05F33111416A689848AB7": "時間讀數",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "時間到達時傳輸",
+    "FF2400934566662794B5DB97A137A842": "當此裝置的計時器結束時，向此頻道傳送訊號。",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0} 毫秒",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0} 秒",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "停用",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "在接收選定頻道的訊號時停用裝置。",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "啟用",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "在接收選定頻道的訊號時啟用裝置。",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "時間到達",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "當此裝置的計時器結束時，向此頻道傳送訊號。"
+  }
+}

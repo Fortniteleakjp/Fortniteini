@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Choose Your Instrument",
+    "E70730D546323455388D0F8862938650": "Choose Your Instrument",
+    "94FB361A46082147B697C19A318D8F49": "Choose Your Song",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Jam Loops",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Jam Tracks",
+    "LockerJamTracksCategory": "Locker Jam Tracks"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Jam Track"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Daily Vibes",
+    "setlist_1_title": "Daily Vibes",
+    "setlist_title_1": "Daily Vibes",
+    "daily_1_desc": "Daily Vibes Description!",
+    "setlist_1_desc": "Daily Vibes Description!",
+    "setlist_desc_1": "Daily Vibes Description!",
+    "festival_1_title": "Festival Selects",
+    "setlist_3_title": "Festival Selects",
+    "setlist_title_3": "Festival Selects",
+    "festival_1_desc": "Festival Selects Description!",
+    "setlist_3_desc": "Festival Selects Description!",
+    "setlist_desc_3": "Festival Selects Description!",
+    "setlist_desc_Fortnitemares": "Fortnitemares",
+    "setlist_title_Fortnitemares": "Fortnitemares",
+    "setlist_2_title": "Spotlight Setlist",
+    "setlist_title_2": "Spotlight Setlist",
+    "spotlight_1_title": "Spotlight Setlist",
+    "setlist_2_desc": "Spotlight Setlist Description!",
+    "setlist_desc_2": "Spotlight Setlist Description!",
+    "spotlight_1_desc": "Spotlight Setlist Description!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Custom Setlist",
+    "ProductMode_DisplayName_Setlist1": "Daily Setlist",
+    "Daily_1_Title": "Daily Vibes",
+    "Daily_1_Desc": "Daily Vibes Description from Table",
+    "Festival_1_Title": "Festival Selects",
+    "Festival_1_Desc": "Festival Selects Description from Table",
+    "Default_Title": "Festival Setlist",
+    "ProductMode_DisplayName_Setlist3": "Spotlight Setlist",
+    "Spotlight_1_Title": "Spotlight Setlist",
+    "Spotlight_1_Desc": "Spotlight Setlist Description From Table",
+    "Default_Desc": "THIS IS THE DEFAULT SETLIST DESCRIPTION!",
+    "ProductMode_DisplayName_Setlist2": "Weekly Setlist"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Artist Name",
+    "SparksAvailableFilter": "Available",
+    "SparksDefaultFilter": "Default",
+    "SparksFeaturedSort": "Featured",
+    "SparksFeaturedFilter": "New & Featured",
+    "SparksOwnedFilter": "Owned",
+    "SparksOwnedSort": "Ownership",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Show Archived",
+    "SparksAlphaSort": "Song Title, A-Z",
+    "SparksAlphaSortReverse": "Song Title, Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

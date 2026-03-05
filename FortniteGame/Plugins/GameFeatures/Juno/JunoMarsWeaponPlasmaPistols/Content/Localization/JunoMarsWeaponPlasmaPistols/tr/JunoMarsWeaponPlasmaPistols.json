@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "Aksesuar",
+    "1DC695F543617CDD983D6CA98D244D3F": "Namlu",
+    "644AFB924BC996E1358E8DAC5E388D65": "Enerji",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "Odak",
+    "43384B4746A525AAE21308A2255D4AB7": "Kabza"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "Kehribar Plazma Tabancaları",
+    "Plasma_Pistols_T5_Amber_DisplayName": "Kehribar Plazma Tabancaları",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "Barut Plazma Tabancaları",
+    "Plasma_Pistols_T1_Bone_DisplayName": "Kemik Plazma Tabancaları",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "İçiparlak Plazma Tabancaları",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "Pençe Plazma Tabancaları",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "Pençe Plazma Tabancaları",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "Pençe Plazma Tabancaları",
+    "Plasma_Pistols_T3_Copper_DisplayName": "Bakır Plazma Tabancaları",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "Lanetli Plazma Tabancaları",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "Zümrüt Plazma Tabancaları",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "Zümrüt Plazma Tabancaları",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "Esnek Odun Plazma Tabancaları",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "Buzçamı Plazma Tabancaları",
+    "Plasma_Pistols_T1_Glass_DisplayName": "Cam Plazma Tabancaları",
+    "Plasma_Pistols_T3_Gold_DisplayName": "Altın Plazma Tabancaları",
+    "Plasma_Pistols_T2_Granite_DisplayName": "Granit Plazma Tabancaları",
+    "Plasma_Pistols_T3_Iron_DisplayName": "Demir Plazma Tabancaları",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "Bağkökü Plazma Tabancaları",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "Maun Plazma Tabancaları",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "Malakit Plazma Tabancaları",
+    "Plasma_Pistols_T2_Marble_DisplayName": "Mermer Plazma Tabancaları",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "Obsidiyen Plazma Tabancaları",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "Kızılkaya Plazma Tabancaları",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "Yakut Plazma Tabancaları",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "Yakut Plazma Tabancaları",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "Kumtaşı Plazma Tabancaları",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "Safir Plazma Tabancaları",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "Safir Plazma Tabancaları",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "Parçalıboynuz Plazma Tabancaları",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "Parçalıboynuz Plazma Tabancaları",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "Fırtına Plazma Tabancaları",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "Fırtına Muhafızı Plazma Tabancaları",
+    "Plasma_Pistols_T1_Wood_DisplayName": "Ahşap Plazma Tabancaları"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "Plazma Tabancaları"
+  }
+}

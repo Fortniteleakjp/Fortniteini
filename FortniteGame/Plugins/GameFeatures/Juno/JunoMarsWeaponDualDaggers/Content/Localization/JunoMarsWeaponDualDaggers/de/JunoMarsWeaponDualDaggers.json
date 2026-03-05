@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "Klinge",
+    "33EE7DD140FA593C65E6858D3ED133F0": "Fokus",
+    "7D92FBAF4FF2178468D08FB5447138AA": "Griff"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "Bernstein-Zweifachdolche",
+    "Dual_Daggers_T5_Amber_DisplayName": "Bernstein-Zweifachdolche",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "Spreng-Zweifachdolche",
+    "Dual_Daggers_T1_Bone_DisplayName": "Knochen-Zweifachdolche",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "Grelle Zweifachdolche",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "Klauen-Zweifachdolche",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "Klauen-Zweifachdolche",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "Klauen-Zweifachdolche",
+    "Dual_Daggers_T3_Copper_DisplayName": "Kupfer-Zweifachdolche",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "Verfluchte Zweifachdolche",
+    "Dual_Daggers_T4_Emerald_DisplayName": "Smaragd-Zweifachdolche",
+    "Dual_Daggers_T5_Emerald_DisplayName": "Smaragd-Zweifachdolche",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "Zähholz-Zweifachdolche",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "Frostkiefer-Zweifachdolche",
+    "Dual_Daggers_T1_Glass_DisplayName": "Glas-Zweifachdolche",
+    "Dual_Daggers_T3_Gold_DisplayName": "Gold-Zweifachdolche",
+    "Dual_Daggers_T2_Granite_DisplayName": "Granit-Zweifachdolche",
+    "Dual_Daggers_T3_Iron_DisplayName": "Eisen-Zweifachdolche",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "Knorrenwurzel-Zweifachdolche",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "Mahagoni-Zweifachdolche",
+    "Dual_Daggers_T2_Malachite_DisplayName": "Malachit-Zweifachdolche",
+    "Dual_Daggers_T2_Marble_DisplayName": "Marmor-Zweifachdolche",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "Obsidian-Zweifachdolche",
+    "Dual_Daggers_T2_Redrock_DisplayName": "Rotstein-Zweifachdolche",
+    "Dual_Daggers_T4_Ruby_DisplayName": "Rubin-Zweifachdolche",
+    "Dual_Daggers_T5_Ruby_DisplayName": "Rubin-Zweifachdolche",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "Sandstein-Zweifachdolche",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "Saphir-Zweifachdolche",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "Saphir-Zweifachdolche",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "Schmetterhorn-Zweifachdolche",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "Schmetterhorn-Zweifachdolche",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "Sturm-Zweifachdolche",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "Sturmwache-Zweifachdolche",
+    "Dual_Daggers_T1_Wood_DisplayName": "Holz-Zweifachdolche"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "Zweifachdolche"
+  }
+}

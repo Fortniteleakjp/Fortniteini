@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "Material Kustom Lanskap Juno"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "Aktifkan Ekspresi Material Lanskap Juno"
+  },
+  "JunoLandscape": {
+    "Juno": "Juno"
+  }
+}

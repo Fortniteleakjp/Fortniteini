@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Escolha Seu Instrumento",
+    "E70730D546323455388D0F8862938650": "Escolha Seu Instrumento",
+    "94FB361A46082147B697C19A318D8F49": "Escolha Sua Música",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Loops de Improviso",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Músicas",
+    "LockerJamTracksCategory": "Músicas do Vestiário"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Música"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Vibes Diárias",
+    "setlist_1_title": "Vibes Diárias",
+    "setlist_title_1": "Vibes Diárias",
+    "daily_1_desc": "Descrição das Vibes Diárias!",
+    "setlist_1_desc": "Descrição das Vibes Diárias!",
+    "setlist_desc_1": "Descrição das Vibes Diárias!",
+    "festival_1_title": "Seleções do Festival",
+    "setlist_3_title": "Seleções do Festival",
+    "setlist_title_3": "Seleções do Festival",
+    "festival_1_desc": "Descrição das Seleções do Festival!",
+    "setlist_3_desc": "Descrição das Seleções do Festival!",
+    "setlist_desc_3": "Descrição das Seleções do Festival!",
+    "setlist_desc_Fortnitemares": "Fortnite: Pesadelos",
+    "setlist_title_Fortnitemares": "Fortnite: Pesadelos",
+    "setlist_2_title": "Setlist em Destaque",
+    "setlist_title_2": "Setlist em Destaque",
+    "spotlight_1_title": "Setlist em Destaque",
+    "setlist_2_desc": "Descrição da Setlist em Destaque!",
+    "setlist_desc_2": "Descrição da Setlist em Destaque!",
+    "spotlight_1_desc": "Descrição da Setlist em Destaque!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Setlist Personalizada",
+    "ProductMode_DisplayName_Setlist1": "Setlist Diária",
+    "Daily_1_Title": "Vibes Diárias",
+    "Daily_1_Desc": "Descrição de Vibes Diárias da Tabela",
+    "Festival_1_Title": "Seleções do Festival",
+    "Festival_1_Desc": "Descrição das Seleções do Festival da Tabela",
+    "Default_Title": "Setlist do Festival",
+    "ProductMode_DisplayName_Setlist3": "Setlist em Destaque",
+    "Spotlight_1_Title": "Setlist em Destaque",
+    "Spotlight_1_Desc": "Descrição da Setlist em Destaque da Tabela",
+    "Default_Desc": "ESTA É A DESCRIÇÃO DA SETLIST PADRÃO!",
+    "ProductMode_DisplayName_Setlist2": "Setlist Semanal"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Nome do Artista",
+    "SparksAvailableFilter": "Disponível",
+    "SparksDefaultFilter": "Padrão",
+    "SparksFeaturedSort": "Em Destaque",
+    "SparksFeaturedFilter": "Novidade e em Destaque",
+    "SparksOwnedFilter": "Adquirido",
+    "SparksOwnedSort": "Autoria",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Exibir Arquivados",
+    "SparksAlphaSort": "Nome da Música, A–Z",
+    "SparksAlphaSortReverse": "Nome da Música, Z–A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

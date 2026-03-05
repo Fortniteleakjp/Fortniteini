@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "ความจำต่ำ",
+    "Return to main menu reason (default)": "หน่วยความจำถึงระดับวิกฤต - เซสชันสิ้นสุดแล้ว\n บันทึกความคืบหน้าล่าสุดของคุณแล้ว! กลับไปที่โหมดครีเอทีฟแล้วเล่นเกมต่อจากที่คุณค้างไว้",
+    "Warning toast description (default)": "เซสชันอาจสิ้นสุดอย่างไม่คาดคิด"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Un nombre entier unique indiquant le nombre de choix de dialogue à générer (plus il y en a, mieux c'est).",
+    "NulledOption": "PAS UTILISÉ. IGNORER.",
+    "OptionFive_NPCResponse": "La réponse complète du PNJ, déclenchée uniquement si le joueur sélectionne \"OptionFive\" (si utilisée).",
+    "OptionFour_NPCResponse": "La réponse complète du PNJ, déclenchée uniquement si le joueur sélectionne \"OptionFour\" (si utilisée).",
+    "OptionOne_NPCResponse": "La réponse complète du PNJ, déclenchée uniquement si le joueur sélectionne \"OptionOne\" (si utilisée).",
+    "OptionSix_NPCResponse": "La réponse complète du PNJ, déclenchée uniquement si le joueur sélectionne \"OptionSix\" (si utilisée).",
+    "OptionThree_NPCResponse": "La réponse complète du PNJ, déclenchée uniquement si le joueur sélectionne \"OptionThree\" (si utilisée).",
+    "OptionTwo_NPCResponse": "La réponse complète du PNJ, déclenchée uniquement si le joueur sélectionne \"OptionTwo\" (si utilisée).",
+    "MainQuestion": "La question principale posée par le PNJ, à laquelle le joueur répondra en choisissant l'une des options.",
+    "OptionFive": "Le texte de la cinquième option de dialogue proposée au joueur. Il s'agit d'une réponse possible à la \"MainQuestion\".",
+    "OptionOne": "Le texte de la première option de dialogue proposée au joueur. Il s'agit d'une réponse possible à la \"MainQuestion\".",
+    "OptionFour": "Le texte de la quatrième option de dialogue proposée au joueur. Il s'agit d'une réponse possible à la \"MainQuestion\".",
+    "OptionTwo": "Le texte de la deuxième option de dialogue proposée au joueur. Il s'agit d'une réponse possible à la \"MainQuestion\".",
+    "OptionSix": "Le texte de la sixième option de dialogue proposée au joueur. Il s'agit d'une réponse possible à la \"MainQuestion\".",
+    "OptionThree": "Le texte de la troisième option de dialogue proposée au joueur. Il s'agit d'une réponse possible à la \"MainQuestion\"."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Basez votre choix de manière critique uniquement sur la réplique immédiate, et non sur l'émotion principale actuelle du PNJ. Choisissez quelle émotion ajuster (Joie, Tristesse, Colère, Peur, Neutre) : cela déclenche une animation et augmente le score de l'émotion correspondante. Cependant, l'émotion principale du PNJ sera celle dont le score total est le plus élevé : la joie favorise la positivité, la tristesse une attitude sombre, la colère la confrontation et la peur l'effroi.",
+    "FeelingChangeValue": "Définissez l'intensité du FeelingChange ; comme les émotions s'estompent rapidement, la valeur doit correspondre au poids émotionnel du moment : pour une discussion simple ou décontractée, utilisez une valeur subtile comprise entre 0 et 20 (les salutations les plus basiques se rapprochant de 0) ; pour des événements significatifs ou des dialogues impliquant une action du joueur, utilisez une valeur modérée entre 20 et 60 ; et pour les moments majeurs ou décisifs (comme une trahison, l'accomplissement d'une quête ou la réception d'un cadeau parfait), utilisez une valeur élevée entre 60 et 100.",
+    "DialogueDescription": "La ligne de dialogue que vous voulez faire jouer."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "En cours de réflexion..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "En cours de réflexion..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "En cours de réflexion..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "The Item Def:'{0}' is not registered with the Game Feature Data and will not be locatable.",
+    "DuplicatePrimaryAssetError": "Two different assets share the same primary asset Id '{0}' and '{1}'"
+  }
+}

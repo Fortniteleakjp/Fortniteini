@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Стартовая точка гонки Rocket Racing",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "Старт для игрока RR",
+    "0DF3230B4B023C3622D22CA51A8972F7": "Стартовая позиция игрока RR"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "Определяет порядок, в котором болиды будут появляться на старте. Значения ниже нуля не будут учитываться при появлении на старте.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "Приоритет"
+  }
+}

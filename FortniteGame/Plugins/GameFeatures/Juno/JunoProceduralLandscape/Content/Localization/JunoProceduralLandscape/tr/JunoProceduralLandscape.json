@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno Manzarası Özel Malzemesi"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "Juno Arazi Malzemeleri İfadelerini Etkinleştir"
+  },
+  "JunoLandscape": {
+    "Juno": "Juno"
+  }
+}

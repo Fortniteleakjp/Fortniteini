@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "Une épée légendaire, parfaite pour les combats rapprochés.",
+    "A5C5C211434AA2839F6672858D879834": "Pas moyen que la moindre plume soit plus forte que ÇA !",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "Épée",
+    "691AD6104B64E9B53B152A932C3A7948": "Vous aurez besoin d'une <EmphA>scierie</>.",
+    "AF59C13740BF3D246EFE6894041683CA": "Vous aurez besoin d'une <EmphA>scierie</>.",
+    "D46F690B44A43726C9409EBBF35FBD5A": "Vous aurez besoin d'une <EmphA>scierie</>.",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "Vous aurez besoin d'une <EmphA>scierie</>."
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "Épée en bambou",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "Épée en bambou",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "Épée en bambou",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "Épée en bambou",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "Épée en opale draconique",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "Épée en opale draconique",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "Épée en kozulithe",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "Épée en kozulithe",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "Épée en kozulithe",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "Épée en kozulithe",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "Épée en acier",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "Épée en acier",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "Épée en acier"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "Une épée rare, parfaite pour les combats rapprochés.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "Lame en peine.",
+    "CAD24296497618FE393B79B375B3D198": "Une épée épique, parfaite pour les combats rapprochés.",
+    "7F0D841F4798D9DA06E8CB9880022753": "Une épée atypique, parfaite pour les combats rapprochés.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "Comme un couteau... mais en vachement mieux.",
+    "30D0CC564A676E401A2AF193711F5A03": "Guerre = épée.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "Épée",
+    "C9A902E24804F529DDB98399903E1F9F": "Épée",
+    "F07655364C7958D6AB473B8B9ABA433A": "Épée"
+  }
+}

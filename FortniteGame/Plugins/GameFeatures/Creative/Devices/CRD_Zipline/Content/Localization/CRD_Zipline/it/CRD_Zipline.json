@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Impossibile accedere alla zipline",
+    "768283974295183A2A78FCBFBAFE1742": "Crea una zipline per spostare giocatori da un punto all'altro",
+    "C7C925214E0954D490E48DB594FCAE7C": "Crea una zipline per spostare giocatori da un punto all'altro",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Personalizza ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Dispositivo temporaneo solo per Creativa che funge da interfaccia telefonica nei punti di spline delle zipline",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Zipline",
+    "8CE167104123A4888338D3A2901028D8": "Zipline",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Punto di controllo zipline"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Qualsiasi",
+    "ECreativeTeamType.Any.DisplayName": "Qualsiasi",
+    "ClassSlotMetaData.DisplayPattern": "Classe {0}",
+    "Device_Zipline_C.Color.DisplayName": "Colore",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Determina quanto la direzione in avanti di questo punto di controllo influenza la curva del percorso in questa posizione.",
+    "Device_Zipline_C.UseCustomColor.Description": "Determina se si utilizza un colore personalizzato anziché quello predefinito.",
+    "Device_Zipline_C.Color.Description": "Determina il colore personalizzato da utilizzare.",
+    "Device_Zipline_C.Selected Class.Description": "Determina quale classe potrà usare questa zipline.",
+    "Device_Zipline_C.Selected Team.Description": "Determina quale squadra potrà usare questa zipline.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Se impostato, il dispositivo consentirà tutte le classi eccetto quella selezionata.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Se impostato, il dispositivo consentirà tutte le squadre eccetto quella selezionata.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Inverti selezione classe",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Inverti selezione squadra",
+    "ECreativeClassType.NoClass.DisplayName": "Nessuna classe",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "Device_Zipline_C.OnAttach.DisplayName": "All'agganciamento",
+    "Device_Zipline_C.OnDetach.DisplayName": "Allo sganciamento",
+    "Device_Zipline_C.Selected Class.DisplayName": "Classe selezionata",
+    "Device_Zipline_C.Selected Team.DisplayName": "Squadra selezionata",
+    "Device_Zipline_C.OnAttach.Description": "Invia un evento quando un agente si aggancia alla zipline.",
+    "Device_Zipline_C.OnDetach.Description": "Invia un evento quando un agente si sgancia dalla zipline.",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Intensità tangente",
+    "TeamIndexMetaData.DisplayPattern": "Squadra {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Usa colore personalizzato"
+  }
+}

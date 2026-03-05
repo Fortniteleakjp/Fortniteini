@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Устройство, которое позволяет игрокам покупать и устанавливать или удалять оружейные модификации.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Устройство, которое позволяет игрокам покупать и устанавливать или удалять оружейные модификации. Бросьте предмет на устройство, чтобы выбрать принимаемую валюту.",
+    "C71343894A060847493A649689759A65": "Набор кейсов, с которыми можно взаимодействовать для создания модифицированного оружия.",
+    "460F73D54CB382F639D9F28B319DB307": "ИЗМЕНИТЬ ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Невозможно использовать оружейный верстак",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Валюта",
+    "53C6F3F34E06E917D367268882E08D87": "Определяет тип валюты, которая нужна для модификации оружия.",
+    "A30B8506487121E7C4E703A5629FBE05": "Отключить при получении сигнала",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Выключено",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Выключает устройство, тем самым не позволяя покупать и удалять модификации.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Включить при получении сигнала",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Включает устройство и разрешает игрокам начать скольжение.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Набор футляров с модифицированным оружием",
+    "0B7642504100909455884BA8ECBE7AD4": "Оружейный верстак",
+    "1EBC090141D82557511D43B7E5342FD4": "Оружейный верстак"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Разрешённый класс",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Разрешённая команда",
+    "ECreativeClassType.Any.DisplayName": "Все",
+    "ECreativeTeamType.Any.DisplayName": "Все",
+    "ClassSlotMetaData.DisplayPattern": "Класс {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Определяет, будет ли игрок видеть редкость предмета, если ему не хватает ресурсов.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Определяет, должно ли это устройство быть включено в начале мини-игры.",
+    "Device_WeaponModBench_C.ModCost.Description": "Определяет стоимость установки модификации на подходящее оружие. Действует на все доступные модификации. «Не менять» — устанавливает ту же стоимость, что в «Королевской битве»; со временем она может меняться.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Определяет, какой класс может использовать этот верстак для модификации оружия.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Определяет, какая команда может использовать этот оружейный верстак.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Выключить",
+    "Device_WeaponModBench_C.Disable.Description": "Выключает устройство, тем самым не позволяя покупать и удалять модификации.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Включить",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Включение в начале мини-игры",
+    "Device_WeaponModBench_C.Enable.Description": "Включает устройство и разрешает покупать и удалять модификации.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Включите, чтобы устройство допускало всех, кроме игроков, принадлежащих к разрешённому классу.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Включите, чтобы устройство допускало всех, кроме участников разрешённой команды.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Инвертировать выбор класса",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Инвертировать выбор команды",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Стоимость модификации",
+    "ECreativeClassType.NoClass.DisplayName": "Без класса",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Показывать редкость предметов при подсказке об отсутствии предмета",
+    "TeamIndexMetaData.DisplayPattern": "Команда {0}"
+  }
+}

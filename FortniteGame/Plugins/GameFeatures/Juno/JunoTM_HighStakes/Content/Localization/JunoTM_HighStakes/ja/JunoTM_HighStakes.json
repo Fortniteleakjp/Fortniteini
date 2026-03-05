@@ -1,0 +1,12 @@
+{
+  "": {
+    "2AE5912049F8E030DD426997414A7F38": "乾いた谷のトロフィー",
+    "0D7D54204AA280F576939C85BB93FB71": "凍てつく地のトロフィー",
+    "842747D74DC9DCD7560A57875CC14DCF": "草原のトロフィー"
+  },
+  "JunoTM_HighStakes_CraftingFormulas": {
+    "JBID_Trophy_Storm_Desert_A_DisplayName": "乾いた谷のトロフィー",
+    "JBID_Trophy_Storm_Snow_A_DisplayName": "凍てつく地のトロフィー",
+    "JBID_Trophy_Storm_Grassland_A_DisplayName": "草原のトロフィー"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Não Pode Andar de Tirolesa",
+    "768283974295183A2A78FCBFBAFE1742": "Cria uma Tirolesa que leva os jogadores de um ponto a outro.",
+    "C7C925214E0954D490E48DB594FCAE7C": "Cria uma Tirolesa que leva os jogadores de um ponto a outro.",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Personalizar ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Dispositivo transitório exclusivo de criação que funciona como uma interface do telefone para pontos de spline de Tirolesas.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Tirolesa",
+    "8CE167104123A4888338D3A2901028D8": "Tirolesa",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Ponto de Controle de Tirolesa"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Qualquer Uma",
+    "ECreativeTeamType.Any.DisplayName": "Qualquer Uma",
+    "ClassSlotMetaData.DisplayPattern": "Classe: {0}",
+    "Device_Zipline_C.Color.DisplayName": "Cor",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Determina o quanto a direção para frente deste Ponto de Controle afeta a curva do trajeto neste local.",
+    "Device_Zipline_C.UseCustomColor.Description": "Determina se uma cor personalizada será usada no lugar da padrão.",
+    "Device_Zipline_C.Color.Description": "Determina a cor personalizada usada.",
+    "Device_Zipline_C.Selected Class.Description": "Determina qual classe pode usar a Tirolesa.",
+    "Device_Zipline_C.Selected Team.Description": "Determina qual equipe pode usar a Tirolesa.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Quando definido, o dispositivo permitirá todos os jogadores, menos os da classe selecionada.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Quando definido, o dispositivo permitirá todos os jogadores, menos os da equipe selecionada.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Inverter Seleção de Classe",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Inverter Seleção de Equipe",
+    "ECreativeClassType.NoClass.DisplayName": "Sem Classe",
+    "BoolMetaData.FalseDisplayName": "Desligado",
+    "BoolMetaData.TrueDisplayName": "Ligado",
+    "Device_Zipline_C.OnAttach.DisplayName": "Ao Se Prender",
+    "Device_Zipline_C.OnDetach.DisplayName": "Ao Se Soltar",
+    "Device_Zipline_C.Selected Class.DisplayName": "Classe Selecionada",
+    "Device_Zipline_C.Selected Team.DisplayName": "Equipe Selecionada",
+    "Device_Zipline_C.OnAttach.Description": "Envia um sinal quando um agente se prende à Tirolesa.",
+    "Device_Zipline_C.OnDetach.Description": "Envia um evento quando um agente se solta da Tirolesa.",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Intensidade de Tangente",
+    "TeamIndexMetaData.DisplayPattern": "Equipe {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Usar Cor Personalizada"
+  }
+}

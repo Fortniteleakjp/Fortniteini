@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Sebuah integer tunggal yang menunjukkan jumlah pilihan dialog yang akan dihasilkan (semakin banyak semakin baik).",
+    "NulledOption": "TIDAK DIGUNAKAN. ABAIKAN.",
+    "OptionFive_NPCResponse": "Respons dialog lengkap dari NPC, yang hanya akan dipicu jika pemain memilih 'OptionFive' (jika digunakan).",
+    "OptionFour_NPCResponse": "Respons dialog lengkap dari NPC, yang hanya akan dipicu jika pemain memilih 'OptionFour' (jika digunakan).",
+    "OptionOne_NPCResponse": "Respons dialog lengkap dari NPC, yang hanya akan dipicu jika pemain memilih 'OptionOne' (jika digunakan).",
+    "OptionSix_NPCResponse": "Respons dialog lengkap dari NPC, yang hanya akan dipicu jika pemain memilih 'OptionSix' (jika digunakan).",
+    "OptionThree_NPCResponse": "Respons dialog lengkap dari NPC, yang hanya akan dipicu jika pemain memilih 'OptionThree' (jika digunakan).",
+    "OptionTwo_NPCResponse": "Respons dialog lengkap dari NPC, yang hanya akan dipicu jika pemain memilih 'OptionTwo' (jika digunakan).",
+    "MainQuestion": "Pertanyaan utama yang ditanyakan oleh NPC, yang akan dijawab oleh pemain dengan memilih salah satu opsi.",
+    "OptionFive": "Teks untuk opsi dialog kelima yang ditampilkan kepada pemain. Ini adalah potensi jawaban untuk 'MainQuestion'.",
+    "OptionOne": "Teks untuk opsi dialog pertama yang ditampilkan kepada pemain. Ini adalah potensi jawaban untuk 'MainQuestion'.",
+    "OptionFour": "Teks untuk opsi dialog keempat yang ditampilkan kepada pemain. Ini adalah potensi jawaban untuk 'MainQuestion'.",
+    "OptionTwo": "Teks untuk opsi dialog kedua yang ditampilkan kepada pemain. Ini adalah potensi jawaban untuk 'MainQuestion'.",
+    "OptionSix": "Teks untuk opsi dialog keenam yang ditampilkan kepada pemain. Ini adalah potensi jawaban untuk 'MainQuestion'.",
+    "OptionThree": "Teks untuk opsi dialog ketiga yang ditampilkan kepada pemain. Ini adalah potensi jawaban untuk 'MainQuestion'."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Perhatian, pilih hanya berdasarkan kalimat dialog yang sedang berlangsung, bukan emosi utama NPC saat ini; pilih perasaan yang ingin disesuaikan (Senang, Sedih, Marah, Takut, Netral), yang akan memicu animasi dan menambah skor untuk perasaan tersebut, tetapi emosi utama NPC akan memiliki skor yang paling tinggi secara keseluruhan. Senang memengaruhi sikap positif, Sedih memberikan kesan muram, Marah menonjolkan konfrontasi, dan Takut mencerminkan rasa cemas.",
+    "FeelingChangeValue": "Atur intensitas FeelingChange; karena perasaan cepat memudar, nilainya harus sesuai dengan bobot emosional momen: Untuk percakapan ringan atau santai, gunakan nilai rendah antara 0-20 (sapaan sederhana biasanya mendekati 0); untuk peristiwa penting atau dialog yang memerlukan tindakan pemain, gunakan nilai sedang antara 20-60; dan untuk momen besar dan menentukan (seperti pengkhianatan, menyelesaikan quest, atau menerima hadiah yang sempurna), gunakan nilai tinggi antara 60-100.",
+    "DialogueDescription": "Baris dialog yang ingin kamu jalankan."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Berpikir ..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Berpikir ..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Berpikir ..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "Def Item:'{0}' tidak terdaftar dengan Data Fitur Game dan akan tidak bisa ditemukan.",
+    "DuplicatePrimaryAssetError": "Dua aset yang berbeda memiliki Id aset primer yang sama '{0}' dan '{1}'"
+  }
+}

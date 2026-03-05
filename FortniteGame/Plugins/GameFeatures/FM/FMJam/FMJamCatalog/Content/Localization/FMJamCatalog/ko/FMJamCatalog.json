@@ -1,0 +1,8 @@
+{
+  "FM": {
+    "FMJamLoopTypeBass": "베이스",
+    "FMJamLoopTypeDrum": "드럼",
+    "FMJamLoopTypeLead": "리드 기타",
+    "FMJamLoopTypeVox": "보컬"
+  }
+}

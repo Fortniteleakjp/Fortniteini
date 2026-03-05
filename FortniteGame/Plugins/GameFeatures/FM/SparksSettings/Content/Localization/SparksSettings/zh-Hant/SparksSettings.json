@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>關閉</>：舞蹈表情動作將以正常速度播放，且表情動作的音樂將蓋過即興曲目。",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>開啟</>：舞蹈表情動作將與即興曲目的節奏同步，並將表情動作的音樂靜音。",
+    "JamTrackAudioTabName": "即興曲目",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "同步舞蹈表情動作與即興曲目",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "此設定將變更播放即興曲目時，舞蹈表情動作的運作方式。"
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "調整 Festival 中遊戲音樂的音量。",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "音樂 - 節慶"
+  }
+}

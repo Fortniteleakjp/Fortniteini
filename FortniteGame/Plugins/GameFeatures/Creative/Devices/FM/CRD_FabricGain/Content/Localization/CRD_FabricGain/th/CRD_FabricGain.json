@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "ปรับระดับเสียงของอินพุตเสียง Patchwork ก่อนที่จะส่งไปยังอุปกรณ์เล่นเสียง Patchwork อื่นๆ เมื่อคุณมีมิกซ์ที่มีอินพุตเสียงหลายรายการ การใช้การเพิ่มสัญญาณเสียงกับอินพุตบางรายการจะช่วยให้ระดับเสียงของอินพุตแต่ละรายการในมิกซ์โดยรวมมีความสมดุล",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "ปรับระดับเสียงของอินพุตเสียง Patchwork ก่อนที่จะส่งไปยังอุปกรณ์เล่นเสียง Patchwork อื่นๆ เมื่อคุณมีมิกซ์ที่มีอินพุตเสียงหลายรายการ การใช้การเพิ่มสัญญาณเสียงกับอินพุตบางรายการจะช่วยให้ระดับเสียงของอินพุตแต่ละรายการในมิกซ์โดยรวมมีความสมดุล",
+    "43690F0542ED4B273A4C72B2627C2936": "ตัวคูณระดับเสียงของอินพุตเสียงตามค่าที่เลือก การกำหนดค่าเป็น 0 จะปิดเสียง การกำหนดค่าเป็น 2 จะทำให้ระดับเสียงเพิ่มขึ้นเป็นสองเท่า",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "เอฟเฟกต์การเพิ่มสัญญาณเสียง Patchwork",
+    "8A62F091464769AD6A2A51B1CECCED46": "เอฟเฟกต์การเพิ่มสัญญาณเสียง Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "เอฟเฟกต์การเพิ่มสัญญาณเสียง Patchwork"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "อนุญาตให้เข้าถึงผ่านสายเคเบิล",
+    "EEnabledOnPhase.Always.DisplayName": "ตลอดเวลา",
+    "Device_FabricGain_C.AudioIn.DisplayName": "เสียงขาเข้า",
+    "Device_FabricGain_C.AudioOut.DisplayName": "เสียงขาออก",
+    "EEnabledOnPhase.Create Only.DisplayName": "เฉพาะสร์าง",
+    "Device_FabricGain_C.AllowPortSelection.Description": "กำหนดว่าเครื่องมือ Patchwork สามารถเข้าถึงอินพุตที่เป็นสายเคเบิลหรือพอร์ตอินพุตบนอุปกรณ์ได้หรือไม่",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "กำหนดช่วงเวลาในเกมที่จะเปิดใช้งานอุปกรณ์ ช่วงก่อนเริ่มเกมประกอบด้วยระยะต่างๆ ทั้งหมดก่อนเริ่มเกม (เช่น ล็อบบี้ก่อนเริ่มเกมหรือการนับถอยหลังก่อนเริ่มเกม) การตั้งค่านี้จะไม่มีผลกับโหมดแก้ไข",
+    "Device_FabricGain_C.Disable.DisplayName": "ปิดการใช้งาน",
+    "Device_FabricGain_C.Disable.Description": "ปิดใช้งานอุปกรณ์เมื่อเกิดอีเวนต์",
+    "Device_FabricGain_C.Enable.DisplayName": "เปิดการใช้งาน",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "เปิดการใช้งานตามช่วงเวลา",
+    "Device_FabricGain_C.Enable.Description": "เปิดใช้งานอุปกรณ์เมื่อเกิดอีเวนต์",
+    "Device_FabricGain_C.Gain.DisplayName": "การเพิ่มสัญญาณเสียง",
+    "Device_FabricGain_C.GainIn.DisplayName": "การเพิ่มสัญญาณเสียงขาเข้า",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "เกมเพลย์เท่านั้น",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "ข้อมูลทางกฎหมาย",
+    "EEnabledOnPhase.None.DisplayName": "ไม่มี",
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "เมื่อปิดการใช้งาน",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "เมื่อเปิดการใช้งาน",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "โปรดทราบว่าการใช้อุปกรณ์เสียงแบบ Patchwork นั้นจำกัดเฉพาะการสร้างสรรค์ผลงานดนตรีใหม่และเป็นผลงานต้นฉบับเท่านั้น",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "ปุ่มเปิดปิดขาเข้า",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "เฉพาะแมตช์ที่รอเริ่ม",
+    "Device_FabricGain_C.AudioOut.Description": "เลือกจุดหมายปลายทางให้สายเคเบิลเสียงขาออกของอุปกรณ์นี้",
+    "Device_FabricGain_C.AudioIn.Description": "กำหนดอินพุตสำหรับพอร์ตเสียงขาเข้าของอุปกรณ์นี้",
+    "Device_FabricGain_C.GainIn.Description": "กำหนดอินพุตให้กับปุ่มปรับการเพิ่มสัญญาณเสียงของอุปกรณ์นี้",
+    "Device_FabricGain_C.OnDisabled.Description": "ทริกเกอร์อีเวนต์เมื่อมีการปิดใช้งานอุปกรณ์",
+    "Device_FabricGain_C.OnEnabled.Description": "ทริกเกอร์อีเวนต์เมื่อมีการเปิดใช้งานอุปกรณ์"
+  }
+}

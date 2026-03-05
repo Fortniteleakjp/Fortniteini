@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Oyuncuların üzerinden tırmanma fırlayışı yapmasına olanak tanıyan yerleştirilebilir bir çıkıntı.",
+    "EFF5545942BE6E906FA09492A029002C": "Oyuncuların üzerinden tırmanma fırlayışı yapmasına olanak tanıyan yerleştirilebilir bir çıkıntı.",
+    "39AFB32446569697402D1D827A10908B": "Oyuncuların tırmanıp üzerinden atlamasına olanak tanıyan yerleştirilebilir bir çıkıntı.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Şuradan Alındığında Devre Dışı Bırak:",
+    "39698C45412DE4DC33043394E36BCF15": "Seçilen kanaldan sinyal alınca cihazı devre dışı bırakır.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Şuradan Alındığında Etkinleştir:",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Seçilen kanaldan sinyal alınca cihazı etkinleştirir.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Metal Halka",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Yok",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Yerleştirilebilir Çıkıntı",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Yerleştirilebilir Çıkıntı",
+    "97078157436AE317038738A4DBF33EAE": "Ahşap Kiriş"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Özel İskelet",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Çıkıntının oyun sırasında etkin ve görünür olup olmayacağını belirler.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "Device_PlaceableLedge_C.Disable.Description": "Cihazı devre dışı bırakır.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Etkinleştir",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Oyun Sırasında Etkin",
+    "Device_PlaceableLedge_C.Enable.Description": "Cihazı etkinleştirir.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Seçildiğinde, bu cihaz kiriş yerine tırmanılabilir bir halka kullanır. ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Çıkıntı İskeleti Seçimi",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Metal Halka",
+    "ELedgeMeshSelections.None.DisplayName": "Yok",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "İskelet seçimi Özel olarak ayarlandığında bu çıkıntı için özel bir iskelet kullanır.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Ahşap Kiriş"
+  }
+}

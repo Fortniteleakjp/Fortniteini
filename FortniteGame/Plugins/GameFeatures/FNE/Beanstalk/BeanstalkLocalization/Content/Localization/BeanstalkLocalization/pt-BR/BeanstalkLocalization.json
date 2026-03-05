@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "Mergulhar",
+    "BS_MainTitle": "Fall Guys",
+    "BS_InteractionBlocked": "Fall Guys não pode usar isto.",
+    "BS_Control_Jump": "Pular",
+    "BS_Control_QuitCourse": "Sair do Percurso"
+  }
+}

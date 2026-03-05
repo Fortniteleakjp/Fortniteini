@@ -1,0 +1,6 @@
+{
+  "GameSettingRegistryExtension_JunoReplay": {
+    "ReplayRecordingJuno_Name": "Nagrywanie powtórek Juno",
+    "ReplayRecordingJuno_Description": "Włącza/wyłącza nagrania dla rozgrywek Juno."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "道具商城传送门",
+    "A636CB9048F6D10A27FAE2ACA3336261": "道具商城传送门",
+    "ECA01A1C4D96960EA267CEA75C458F15": "道具商城传送门",
+    "F0DA7B7A455C002838011E9950021E4F": "道具商城传送门",
+    "F6BA046441D88E68E7317EB0D779DDEE": "道具商城传送门",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "打开商店",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "打开商店",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "从何处接收到信号时打开商店",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "打开商店：{Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "打开商店：{Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "从选定频道收到信号后为触发的玩家打开商店。",
+    "18E3F3AD48251A9142A05A8349684E89": "此设备在激活时会打开道具商店。",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "此设备在激活时会打开道具商店。",
+    "79656CFD409EE4E11B68988ACDCA8585": "此设备在激活时会打开道具商店。",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "此设备在激活时会打开道具商店。",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "此设备在激活时会打开道具商店。"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "永远",
+    "EEnabledOnPhase.Create Only.DisplayName": "仅限创建",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "确定装置将被启用的游戏阶段。游戏前阶段包括所有游戏开始前的阶段（推荐岛屿上的等待玩家大厅和游戏开始倒计时）。",
+    "Device_ItemShop_V2_C.InteractTime.Description": "确定激活设备所需的交互时长。",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "禁用",
+    "Device_Store_C.Disable.DisplayName": "禁用",
+    "Device_Store_C.Disable.Description": "从选定频道中接收信号时禁用。",
+    "Device_ItemShop_V2_C.Disable.Description": "从选定频道中接收信号时禁用。",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "启用",
+    "Device_Store_C.Enable.DisplayName": "启用",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "在该阶段启用",
+    "Device_Store_C.Enable.Description": "从选定频道中接收信号时启用。",
+    "Device_ItemShop_V2_C.Enable.Description": "从选定频道中接收信号时启用。",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "仅限游戏",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "互动时间",
+    "EEnabledOnPhase.None.DisplayName": "无",
+    "Device_Store_C.OpenStore.DisplayName": "打开商店",
+    "Device_Store_C.OpenStore.Description": "从选定频道收到信号后为触发的玩家打开商店。",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "仅限游戏倒计时"
+  }
+}

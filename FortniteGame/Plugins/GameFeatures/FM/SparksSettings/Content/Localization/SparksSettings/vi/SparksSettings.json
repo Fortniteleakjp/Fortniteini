@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Tắt</>: Động tác nhảy sẽ hoạt động với tốc độ thông thường, và nhạc nền của động tác sẽ phát đè lên Bản Nhạc Biến Tấu.",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Bật</>: Động tác nhảy sẽ đồng bộ với nhịp điệu của Bản Nhạc Biến Tấu và nhạc nền của động tác sẽ bị tắt tiếng.",
+    "JamTrackAudioTabName": "Bản Nhạc Biến Tấu",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "Đồng bộ hóa Động Tác Nhảy của tôi với Bản Nhạc Biến Tấu",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Cài đặt này thay đổi Động Tác Nhảy của bạn khi Bản Nhạc Biến Tấu đang phát."
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "Điều chỉnh âm lượng nhạc nền trò chơi trong Lễ Hội.",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "Nhạc Nền - Lễ Hội"
+  }
+}

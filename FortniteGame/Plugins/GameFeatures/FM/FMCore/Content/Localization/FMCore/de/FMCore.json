@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "Springen",
+    "MusicTimeNetSyncInterfaceSeekTarget": "Suchziel",
+    "MusicTimeNetSyncInterfaceSeek_Description": "Zu Suchziel springen.",
+    "MusicTimeNetSyncInterfaceSpeed": "Speed",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "Tempo, mit dem die Uhr laufen soll.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "Wohin gesprungen werden soll."
+  }
+}

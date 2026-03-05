@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "espacio entre: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: generar fuera de {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Colocar {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "<Yellow>Eliminaron a</> {0}",
+    "OnPlayerSavedByTotemGameEvent": "<Yellow>Un tótem salvó a</> {0}"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Regala {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "¡Dámelo todo!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Únete al campamento {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "No tienes suficiente para intercambiar. Necesitas intercambiar x{WantItemCount} de {WantItem} por x{SellItemCount} de {SellItem}. \n {BundleCount} lotes restantes.",
+    "TradeXForX": "Intercambia x{WantItemCount} de {WantItem} por x{SellItemCount} de {SellItem}. \n {BundleCount} lotes restantes."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "¡Ya está!",
+    "GetX": "Tomar {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>entró al mundo</>",
+    "GameMemberDisconnected": "{0} <Yellow>salió del mundo</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "añadir carga",
+    "ChargeCostUnits": "cargar",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Continuar",
+    "JunoSpeech_NoAIRole": "Sin trabajo",
+    "JunoSpeech_NoBoundCampName": "Aldea sin nombre",
+    "JunoSpeech_NoLastUsedGatheringActor": "Sin estación"
+  },
+  "JunoStorageChest": {
+    "Open": "Abrir",
+    "Search": "Buscar"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "Aldea de {PlayerName} {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Te expulsaron por inactividad. Se perdió tu conexión con el servidor por inactividad prolongada.",
+    "SpawnedWhenPermanentlyDead": "A este cliente no le quedan vidas."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Entrar a construcción guiada"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Este es el último de los mundos de tus amigos en el que puedes colocar contenido con propietario esta semana.",
+    "MCPItemPlacedMessageTitleText": "¡Advertencia! Contenido con propietario",
+    "MCPItemPlacedMessageDescription_NLeft": "Puedes colocar contenido con propietario en otros {0} mundos de tus amigos esta semana."
+  }
+}

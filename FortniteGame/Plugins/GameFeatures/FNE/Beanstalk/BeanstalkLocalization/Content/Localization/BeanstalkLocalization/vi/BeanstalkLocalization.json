@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "Lặn",
+    "BS_MainTitle": "Fall Guys",
+    "BS_InteractionBlocked": "Fall Guys không thể sử dụng thứ này.",
+    "BS_Control_Jump": "Nhảy",
+    "BS_Control_QuitCourse": "Bỏ Khóa Học"
+  }
+}

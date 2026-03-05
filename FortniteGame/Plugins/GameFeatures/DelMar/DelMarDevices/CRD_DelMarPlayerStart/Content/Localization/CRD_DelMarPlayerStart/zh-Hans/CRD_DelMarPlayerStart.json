@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "火箭竞速比赛开始位置",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "RR 玩家起始",
+    "0DF3230B4B023C3622D22CA51A8972F7": "RR 玩家起始位置"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "决定赛车在起点线生成的顺序。 生成在起点线时，零以下的值将被忽略。",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "优先级"
+  }
+}

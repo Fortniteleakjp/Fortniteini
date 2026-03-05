@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "寻找",
+    "MusicTimeNetSyncInterfaceSeekTarget": "寻找目标",
+    "MusicTimeNetSyncInterfaceSeek_Description": "“寻找”以寻找目标。",
+    "MusicTimeNetSyncInterfaceSpeed": "速度",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "时钟使用的速度。",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "寻找的位置。"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "일정에 따라 동영상을 재생합니다.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "UEFN에서 동영상 재생 일정을 설정합니다.",
+    "04683984415B4636C2EF72B51E178286": "동영상 일정",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "동영상 일정"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "일정 채우기 시 정렬",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "동영상 플레이어 제어",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "매일",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "반복하지 않음",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "일정 채우기",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "일정 채우기 시 간격",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "매시간",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "이 일정으로 제어할 동영상 플레이어 장치에 연결합니다.",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "일정 반복",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "일정(테스트)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "시작",
+    "Device_VideoSchedule_Native_C.Start.Description": "동영상 일정 재생을 시작합니다.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "중단",
+    "Device_VideoSchedule_Native_C.Stop.Description": "동영상 일정 재생을 중지합니다.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "제어 수신 테스트",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "동영상 플레이어 제어 이벤트 수신 기능을 테스트합니다.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "일정을 반복할지 설정합니다."
+  }
+}

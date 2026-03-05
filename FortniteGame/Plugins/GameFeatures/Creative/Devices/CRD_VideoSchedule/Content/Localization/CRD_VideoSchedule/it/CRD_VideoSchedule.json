@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Riproduci video secondo un programma.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Riproduzione programma video in UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Programma video",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "Programma video"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Allinea al riempimento del programma",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Comandi Riproduttore video",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Giornalieri",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Non ripetere",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Riempi programma",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Intervallo al riempimento del programma",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Orario",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Collegamento al dispositivo riproduttore video da controllare con il programma",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Programma repliche",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Programma (test)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Avvia",
+    "Device_VideoSchedule_Native_C.Start.Description": "Avvia la riproduzione del programma video",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Stop",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Arresta la riproduzione del programma video.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Test ricezione comandi",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Funzionalità di test che riceve un evento di comando Riproduttore video.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Determina se ripetere il programma"
+  }
+}

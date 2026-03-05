@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "يتعذر التنقل بحبل الانزلاق",
+    "768283974295183A2A78FCBFBAFE1742": "صنع حبل انزلاق لينقل اللاعبين من نقطة إلى أخرى",
+    "C7C925214E0954D490E48DB594FCAE7C": "صنع حبل انزلاق لينقل اللاعبين من نقطة إلى أخرى",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "تخصيص ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "جهاز مؤقت في الوضع الإبداعي فقط يعمل كواجهة أداة هاتف لمواضع شرائح حبل الانزلاق",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "حبل الانزلاق",
+    "8CE167104123A4888338D3A2901028D8": "حبل الانزلاق",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "نقطة تحكم حبل الانزلاق"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "أي",
+    "ECreativeTeamType.Any.DisplayName": "أي",
+    "ClassSlotMetaData.DisplayPattern": "الفئة {0}",
+    "Device_Zipline_C.Color.DisplayName": "لون",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "لتحديد مدى تأثير الاتجاه الأمامي لنقطة التحكم هذه على منحنى المسار في هذا الموقع.",
+    "Device_Zipline_C.UseCustomColor.Description": "لتحديد ما إذا كنا سنستخدم لون مخصص أم اللون الافتراضي",
+    "Device_Zipline_C.Color.Description": "لتحديد اللون المخصص الذي سيُستخدم.",
+    "Device_Zipline_C.Selected Class.Description": "لتحديد الفئة التي يمكنها استخدام حبل الانزلاق هذا.",
+    "Device_Zipline_C.Selected Team.Description": "لتحديد الفريق الذي يمكنه استخدام حبل الانزلاق هذا.",
+    "Device_Zipline_C.Invert Class Selection.Description": "عند التعيين، سيسمح الجهاز للجميع باستثناء الفئة المحددة.",
+    "Device_Zipline_C.Invert Team Selection.Description": "عند التعيين، سيسمح الجهاز للجميع باستثناء الفريق المحدد.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "اعكس اختيار الفئة",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "اعكس اختيار الفريق",
+    "ECreativeClassType.NoClass.DisplayName": "دون فئة",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "Device_Zipline_C.OnAttach.DisplayName": "عند الاتصال",
+    "Device_Zipline_C.OnDetach.DisplayName": "عند الانفصال",
+    "Device_Zipline_C.Selected Class.DisplayName": "الفئة المحددة",
+    "Device_Zipline_C.Selected Team.DisplayName": "الفريق المحدد",
+    "Device_Zipline_C.OnAttach.Description": "يرسل إشارة عند اتصال عميل بحبل الانزلاق.",
+    "Device_Zipline_C.OnDetach.Description": "لإرسال حدث عندما ينفصل عميل عن حبل الانزلاق",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "كثافة الظل",
+    "TeamIndexMetaData.DisplayPattern": "الفريق {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "استخدم لونًا مخصصًا"
+  }
+}

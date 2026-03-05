@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "ดำน้ำ",
+    "BS_MainTitle": "Fall Guys",
+    "BS_InteractionBlocked": "Fall Guys ไม่สามารถใช้สิ่งนี้ได้",
+    "BS_Control_Jump": "กระโดด",
+    "BS_Control_QuitCourse": "ออกจากเกม"
+  }
+}

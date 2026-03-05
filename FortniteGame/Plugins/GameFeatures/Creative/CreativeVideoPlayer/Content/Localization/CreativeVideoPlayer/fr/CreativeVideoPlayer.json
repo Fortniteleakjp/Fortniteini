@@ -1,0 +1,12 @@
+{
+  "": {
+    "1B3AF4BA4E8F3D16536E8984F69347E9": "Lecteur vidéo créatif",
+    "5029168240844C79B72EB781F353CECD": "Robot-VOIR : ROBOT-VOIR VOIT L'INTÉRIEUR DU SAC. IL Y A TANT DE SAC À VOIR.",
+    "3444B9F84A4184662530999AF1E00B8F": "Regarder la vidéo en plein écran.",
+    "1E01C3B24D4DD8BCCA650F9FE79963DE": "Regarder la vidéo en plein écran (maintenir)",
+    "2FFCC50D410FB8AB22693DA6E544307D": "Regarder la vidéo en plein écran (maintenir)"
+  },
+  "CreativeVideoPlayer": {
+    "EnterFullscreen": "Regarder la vidéo en plein écran."
+  }
+}

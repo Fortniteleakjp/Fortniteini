@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "可放置的边缘，允许玩家越过边缘。",
+    "EFF5545942BE6E906FA09492A029002C": "可放置的边缘，允许玩家越过边缘。",
+    "39AFB32446569697402D1D827A10908B": "可放置的边缘，允许玩家越过边缘。",
+    "1B6B2930405A922826E5319CC16C6F4D": "从何处接收到信号时禁用",
+    "39698C45412DE4DC33043394E36BCF15": "禁用设备接收来自选定频道的信号。",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "从何处接收到信号时启用",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "启用设备接收来自选定频道的信号。",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "金属环",
+    "7E36FA504A82288E8BFF03B718AAF93E": "无",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "可放置边缘",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "可放置边缘",
+    "97078157436AE317038738A4DBF33EAE": "木材横梁"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "自定义网格体",
+    "Device_PlaceableLedge_C.Enable during game.Description": "确定边缘在游戏中是否启用及可见。",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "禁用",
+    "Device_PlaceableLedge_C.Disable.Description": "禁用设备。",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "启用",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "游戏中启用",
+    "Device_PlaceableLedge_C.Enable.Description": "启用设备。",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "如为 true，此设备将使用可攀登环形，而非横梁 ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "边缘网格体选择",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "金属环",
+    "ELedgeMeshSelections.None.DisplayName": "无",
+    "BoolMetaData.FalseDisplayName": "关",
+    "BoolMetaData.TrueDisplayName": "开",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "网格体选项设置为自定义时用于边缘的自定义网格体",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "木材横梁"
+  }
+}

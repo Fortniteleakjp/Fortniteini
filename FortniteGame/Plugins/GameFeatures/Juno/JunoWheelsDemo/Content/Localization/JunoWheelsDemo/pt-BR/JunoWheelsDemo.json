@@ -1,0 +1,37 @@
+{
+  "": {
+    "3DFDE81643E7D20A34FDAFB767995803": "Mudar Direção",
+    "92652D8545B1CA8018D6C9B4F59A3B4B": "É só usar umas rodas para ver o show rolar.",
+    "8952DE4B4A423626BB418EBD36B5E02C": "Use rodas maiores para ver o show rolar como nunca!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "08410B7445494CD7AE6943A995EAB820": "Afixa rodas grandes em estruturas e objetos dinâmicos.",
+    "0543AC9A42B83420E765149897CA51A4": "Afixa rodas pequenas em estruturas e objetos dinâmicos.",
+    "765C88EC48D17A74F9E180A8750ECD23": "Roda\nEnergizada Grande",
+    "E90B23314823AB3C6F5B118AB04CD994": "Roda Simples\nGrande",
+    "0802974540A98C76D4589EB0BBDC7B7E": "Roda Giratória\nGrande",
+    "58CAD8CD489BA279918B91B15ECD65E4": "Roda\nEnergizada Média",
+    "E21006B74A7C6000CEB9DCA65F94F071": "Roda Giratória\nMédia",
+    "95DF699B40FEBEF7CD25DDBA6B4DA86C": "Roda\nEnergizada Pequena",
+    "B8AAB3E0475AA97DB27C7097EBFD8473": "Roda Simples\nPequena",
+    "97B775654F98D4839EFA95AB36531855": "Roda Giratória\nPequena"
+  },
+  "Juno_UpdateItemData": {
+    "E07BA5004580C1D7181D4B97C2EE64F2": "Gira e vira ao receber sinais do Banco de Motorista. Consome um pouco da Energia, por segundo, de uma Central de Energia.",
+    "5D139B9549BF88A29F75F39FC0CF4ED3": "Gira e vira ao receber sinais do Banco de Motorista. Consome uma quantidade moderada de Energia, por segundo, de uma Central de Energia.",
+    "2311D4DC4B5257A9588B5CA049A04E77": "Gira e vira ao receber sinais do Banco de Motorista. Consome uma certa quantidade de Energia, por segundo, de uma Central de Energia.",
+    "72B3B2154A806CE2EB7679AE4A5C1885": "Gira ao receber um sinal do Banco de Motorista. Consome um pouco da Energia, por segundo, de uma Central de Energia.",
+    "5A7429E14FB631A613A04DBD1BD74486": "Gira ao receber um sinal do Banco de Motorista. Consome uma quantidade moderada de Energia, por segundo, de uma Central de Energia.",
+    "40ABDE8D4776B407C523C784E862FA58": "Gira ao receber um sinal do Banco de Motorista. Consome uma certa quantidade de Energia, por segundo, de uma Central de Energia."
+  },
+  "PP_CraftingFormulas_WheelPlacer": {
+    "WheelPowerLarge_DisplayName": "Roda\nEnergizada Grande",
+    "WheelLarge_DisplayName": "Roda Simples Grande",
+    "WheelSteerLarge_DisplayName": "Roda Giratória Grande",
+    "WheelPowerMedium_DisplayName": "Roda\nEnergizada Média",
+    "WheelSteerMedium_DisplayName": "Roda Giratória Média",
+    "WheelPowerSmall_DisplayName": "Roda\nEnergizada Pequena ",
+    "Wheel_DisplayName": "Roda Simples Pequena",
+    "WheelSteerSmall_DisplayName": "Roda Giratória Pequena"
+  }
+}

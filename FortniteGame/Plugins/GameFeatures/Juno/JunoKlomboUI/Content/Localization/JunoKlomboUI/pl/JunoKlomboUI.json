@@ -1,0 +1,29 @@
+{
+  "": {
+    "66154818419BE970410E9AA46BE0EC33": "Plaża",
+    "3B04DA4A43DB0505833073946BE0E91A": "Anuluj",
+    "B3C2115241A075BB82A745A3241666B5": "Szarżuj",
+    "1BA471C04115C1F647866CA5E30F712E": "Potwierdź",
+    "FB0CBD6B4DBA137A8A5FF3A049682BF5": "Zsiądź",
+    "8EB05A024E30B03058E9D7B7303C9D4B": "By odpieczętować kapliczkę, musisz złożyć <ToUpperEmphasis>{ResourceName} (jeszcze {ResourceCount} szt.)</>. Czy chcesz to zrobić?",
+    "E086D52E4AD9E74DAFFA0B917A5B5F66": "By odpieczętować kapliczkę, musisz złożyć <ToUpperEmphasis>{ResourceName} ({ResourceCount} szt.)</>. Czy chcesz to zrobić?",
+    "80A47EF643DC7A204A4AE889FEA80E6C": "Ukryj sterowanie",
+    "F829A6A642555A53297941B1EF96F45A": "Dżungla",
+    "3D3A30324F017B24F7B916B6107A218F": "Klombo",
+    "A13BC3C84693A9765D9AACAB19275AF1": "Fontanna",
+    "1ACCF6634CB477A4C0A1E280E8BFEC97": "Zaginione Wyspy",
+    "1C585D5F410E69692075D5982E22F8BD": "Zaginione Wyspy",
+    "67A8FF8A493260B59A645C99BB4584EF": "Zaginione Wyspy",
+    "C1E0B58C461632533E3812A1A23D0CCB": "Zaginione Wyspy",
+    "49734683475414336C91D8AD73FF1E74": "Góry",
+    "62E2265F42110C238FAC09B9D90C03B7": "Równiny",
+    "FFDDB40B47F25C29497178ADC3503C49": "Szczelinowy ołtarzyk",
+    "15F73FAE47C2EDCB5A34EFB10FAB8DBE": "Pokaż sterowanie",
+    "1746A88A4D0A969F41E3A49CA244DCB0": "Plan zostanie usunięty ze świata.",
+    "FFD701D443F93768BDAD919710452E9B": "Odkurzaj",
+    "086D18C74CA99D0CF992BC8F5B677819": "Odkurzaj (przytrzymaj)",
+    "3BE48D82410FF27B492EFC8DC2299D18": "By odpieczętować kapliczkę, musisz złożyć <ToUpperEmphasis>{ResourceName} (jeszcze {ResourceCount} szt.)</>!",
+    "661E6805481F6738D4DCA0B9D84A6605": "By odpieczętować kapliczkę, musisz złożyć <ToUpperEmphasis>{ResourceName} ({ResourceCount} szt.)</>!",
+    "A4AF39CA42D7D3C1CC703E94555D174C": "By odpieczętować kapliczkę, musisz złożyć <ToUpperEmphasis>{ResourceName} (jeszcze {InventoryCount}</> szt.). Czy chcesz teraz złożyć <ToUpperEmphasis>{ResourceName} ({ResourceCount} szt.)</>, a później donieść resztę?"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Un dato entero que indica la cantidad de opciones de diálogo a generar (más es mejor).",
+    "NulledOption": "NO SE USA. IGNORAR.",
+    "OptionFive_NPCResponse": "El diálogo de respuesta completo del PNJ. Solo se activa si el jugador selecciona \"OptionFive\" (si se usa).",
+    "OptionFour_NPCResponse": "El diálogo de respuesta completo del PNJ. Solo se activa si el jugador selecciona \"OptionFour\" (si se usa).",
+    "OptionOne_NPCResponse": "El diálogo de respuesta completo del PNJ. Solo se activa si el jugador selecciona \"OptionOne\" (si se usa).",
+    "OptionSix_NPCResponse": "El diálogo de respuesta completo del PNJ. Solo se activa si el jugador selecciona \"OptionSix\" (si se usa).",
+    "OptionThree_NPCResponse": "El diálogo de respuesta completo del PNJ. Solo se activa si el jugador selecciona \"OptionThree\" (si se usa).",
+    "OptionTwo_NPCResponse": "El diálogo de respuesta completo del PNJ. Solo se activa si el jugador selecciona \"OptionTwo\" (si se usa).",
+    "MainQuestion": "Es la pregunta central del PNJ, a la cual el jugador responderá al elegir una de las opciones.",
+    "OptionFive": "El texto de la quinta opción de diálogo que oirá el jugador. Esta es una posible respuesta a la \"MainQuestion\".",
+    "OptionOne": "El texto de la primera opción de diálogo que oirá el jugador. Esta es una posible respuesta a la \"MainQuestion\".",
+    "OptionFour": "El texto de la cuarta opción de diálogo que oirá el jugador. Esta es una posible respuesta a la \"MainQuestion\".",
+    "OptionTwo": "El texto de la segunda opción de diálogo que oirá el jugador. Esta es una posible respuesta a la \"MainQuestion\".",
+    "OptionSix": "El texto de la sexta opción de diálogo que oirá el jugador. Esta es una posible respuesta a la \"MainQuestion\".",
+    "OptionThree": "El texto de la tercera opción de diálogo que oirá el jugador. Esta es una posible respuesta a la \"MainQuestion\"."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Es crucial que bases tu elección solo en la línea de diálogo inmediata, no en la emoción principal actual del PNJ. Elige qué sentimiento ajustar (Felicidad, Tristeza, Furia, Miedo, Neutralidad), el cual reproducirá una animación y sumará al puntaje de ese sentimiento; sin embargo, la emoción principal del PNJ será la que sea más intensa en general: Felicidad evoca positividad, Tristeza evoca melancolía, Furia evoca confrontación y Miedo evoca temor.",
+    "FeelingChangeValue": "Establece la intensidad de FeelingChange. Ya que los sentimientos decaen rápido, el valor debe coincidir con el peso emocional del momento. Para charlas casuales y sencillas, usa un valor discreto de entre 0 y 20 (con los saludos más sencillos más cercanos a 0). Para acontecimientos significativos o diálogos que requieran una acción del jugador, usa un valor moderado de entre 20 y 60. Por último, para momentos cruciales (como una traición, la superación de una misión o al recibir un regalo perfecto), una un valor fuerte de entre 60 y 100.",
+    "DialogueDescription": "La línea de diálogo que quieres que se ejecute."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Contemplando..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Contemplando..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Contemplando..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "La definición de objeto: no hay registros de \"{0}\" con datos de característica de juego y no se podrá localizar.",
+    "DuplicatePrimaryAssetError": "Dos elementos diferentes comparten la misma identificación de elemento primaria \"{0}\" y \"{1}\""
+  }
+}

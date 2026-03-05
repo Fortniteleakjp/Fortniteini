@@ -1,0 +1,20 @@
+{
+  "": {
+    "6A31DE274B0444C42C341BB39ED7DE5C": "Vas a necesitar una <EmphA>licuadora</>.",
+    "79EDC71546DFF16F6D376A807B8C057C": "Vas a necesitar una <EmphA>licuadora</>.",
+    "5B1A181240601D2C8B93B1989A32DC0C": "Vas a necesitar algo frío y suave."
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F30AD94846FE3D71D4E9CB839A7EFEBA": "Helado de baya helada",
+    "70A1111E46AD7601EE0732B1D69F64A2": "Helado picante"
+  },
+  "Juno_UpdateItemData": {
+    "5C4061EA4933787FD658459CC7FB33B1": "Cómetelo antes de que se derrita.",
+    "B219707D4D40717FC31E2F9F3C7B0F24": "Cómetelo antes de que se derrita.",
+    "64A4F0A843F6B87C22DD4B88D7EF9798": "Come esto para obtener inmunidad temporal a quemaduras.",
+    "336CB5E0430C56B49DCDE8941E86F8A4": "Come esto para obtener inmunidad temporal a congelamiento.",
+    "CC5087DC481F5A04DBEFA480881F54B2": "Helado",
+    "A3F9607D41D80C179555DF9A26FF518F": "Demasiado fresco para estar caliente.",
+    "CE8B0C8D4E0B2CA9429D6FA70619FA9F": "Demasiado caliente para estar frío."
+  }
+}

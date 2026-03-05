@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "อุปกรณ์เสริม",
+    "1DC695F543617CDD983D6CA98D244D3F": "ลำกล้อง",
+    "644AFB924BC996E1358E8DAC5E388D65": "พลังงาน",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "โฟกัส",
+    "43384B4746A525AAE21308A2255D4AB7": "ด้ามจับ"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "ปืนพกพลาสมาอําพัน",
+    "Plasma_Pistols_T5_Amber_DisplayName": "ปืนพกพลาสมาอําพัน",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "ปืนพกพลาสมาลำแสง",
+    "Plasma_Pistols_T1_Bone_DisplayName": "ปืนพกพลาสมากระดูก",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "ปืนพกพลาสมาเจิดจ้า",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "ปืนพกพลาสมากรงเล็บ",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "ปืนพกพลาสมากรงเล็บ",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "ปืนพกพลาสมากรงเล็บ",
+    "Plasma_Pistols_T3_Copper_DisplayName": "ปืนพกพลาสมาทองแดง",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "ปืนพกพลาสมาต้องสาป",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "ปืนพกพลาสมามรกต",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "ปืนพกพลาสมามรกต",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "ปืนพกพลาสมาไม้อ่อน",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "ปืนพกพลาสมาสนน้ำแข็ง",
+    "Plasma_Pistols_T1_Glass_DisplayName": "ปืนพกพลาสมาแก้ว",
+    "Plasma_Pistols_T3_Gold_DisplayName": "ปืนพกพลาสมาทอง",
+    "Plasma_Pistols_T2_Granite_DisplayName": "ปืนพกพลาสมาหินแกรนิต",
+    "Plasma_Pistols_T3_Iron_DisplayName": "ปืนพกพลาสมาเหล็ก",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "ปืนพกพลาสมารากไม้",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "ปืนพกพลาสมาไม้มะฮอกกานี",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "ปืนพกพลาสมามาลาไคต์",
+    "Plasma_Pistols_T2_Marble_DisplayName": "ปืนพกพลาสมาหินอ่อน",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "ปืนพกพลาสมาออบซิเดียน",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "ปืนพกพลาสมาหินแดง",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "ปืนพกพลาสมาทับทิม",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "ปืนพกพลาสมาทับทิม",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "ปืนพกพลาสมาหินทราย",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "ปืนพกพลาสมาไพลิน",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "ปืนพกพลาสมาไพลิน",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "ปืนพกพลาสมาแชตเตอร์ฮอร์น",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "ปืนพกพลาสมาแชตเตอร์ฮอร์น",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "ปืนพกพลาสมาพายุ",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "ปืนพกพลาสมาผู้พิทักษ์พายุ",
+    "Plasma_Pistols_T1_Wood_DisplayName": "ปืนพกพลาสมาไม้"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "ปืนพกพลาสมา"
+  }
+}

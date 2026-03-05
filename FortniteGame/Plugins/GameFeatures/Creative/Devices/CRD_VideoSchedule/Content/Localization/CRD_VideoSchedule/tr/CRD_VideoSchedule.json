@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Programa göre video oynat.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "UEFN'de video oynatımını programla.",
+    "04683984415B4636C2EF72B51E178286": "Video Programı",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "VideoProgramı"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Programı Doldururken Hizala",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Video Oynatıcı'yı Kontrol Et",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Günlük",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Tekrarlama",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Programı Doldur",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Programı Doldururken Boşluk Bırak",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Saatlik",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Program tarafından kontrol edilecek bir Video Oynatıcı Cihazı bağla.",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Programı Tekrarla",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Program (Test)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Başlat",
+    "Device_VideoSchedule_Native_C.Start.Description": "Video programını oynatmaya başlat.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Durdur",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Video programını oynatmayı durdur.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Kontrol Almayı Test Et",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Video oynatıcı etkinliğinin kontrolünü almak için gereken işlevi test et.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Program tekrarlanacak mı onu belirler."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "": {
+    "232F904440BC3A033E6337B5E384F2B2": "Nun chau mal.",
+    "FB3BEC4C4A482936DC56C4A7228B3876": "Gewöhnliche Nunchakus. Prügel deine Gegner mit dieser schnellen Ninjawaffe nieder.",
+    "0B3F3BB441C766F5706B0AA7A8140ABE": "Schließe den ersten Auftrag auf der <img id=\"IcoNinja\"/>Ninjago-Insel ab",
+    "4CF5389B41A649CD8B0F918DAEB91E19": "Schließe den ersten Auftrag auf der <img id=\"IcoNinja\"/>Ninjago-Insel ab",
+    "B20C6C8243CFAC9DFA03DBA43883B1DA": "Schließe den ersten Auftrag auf der <img id=\"IcoNinja\"/>Ninjago-Insel ab",
+    "B74E7099443434ADC72C36AC120AFEEA": "Schließe den ersten Auftrag auf der <img id=\"IcoNinja\"/>Ninjago-Insel ab",
+    "E27A5B174002E4206237A1A1D3C8EAD5": "Schließe den ersten Auftrag auf der <img id=\"IcoNinja\"/>Ninjago-Insel ab",
+    "E1FCA581470D5785BCA1A787D04E70E5": "Epische Nunchakus. Prügel deine Gegner mit dieser schnellen Ninjawaffe nieder.",
+    "D3D9014F439FF82E3B9D6095C155C21D": "Nun trau dich.",
+    "BE121C264FE8A591F65ED6ADBE534E1D": "Griffe",
+    "12315A064273B463455A56BC9B5D45B4": "Zeig ihnen, wo die Nunchakus hängen.",
+    "8DE8D2DC4E9F619F338D6A80F8676FE5": "Legendäre Nunchakus. Prügel deine Gegner mit dieser schnellen Ninjawaffe nieder.",
+    "A92E48D24F6D8211BBA2588305AB7B07": "Ketten",
+    "BE6CD11241F70A4BBA989194FB806CA4": "Nichts für Deppen.",
+    "C7F9EB0241CEA5E50B4764B30A77E097": "Das geht dich nunchaknichts an.",
+    "34D71B9F4AD521BD53EDC9B1835D9237": "Seltene Nunchakus. Prügel deine Gegner mit dieser schnellen Ninjawaffe nieder.",
+    "487CA54E4CFBE4FE72035988E1535154": "Ungewöhnliche Nunchakus. Prügel deine Gegner mit dieser schnellen Ninjawaffe nieder."
+  },
+  "Juno_BoostedItemNames_Nunchucks": {
+    "Nunchucks_T4_T4_Bamboo_DisplayName": "Bambus-Nunchakus",
+    "Nunchucks_T5_T5_Honed_Bamboo_DisplayName": "Bambus-Nunchakus",
+    "Nunchucks_T6_T6_Honed_Bamboo_DisplayName": "Bambus-Nunchakus",
+    "Nunchucks_T7_T7_Honed_Bamboo_DisplayName": "Bambus-Nunchakus",
+    "Nunchucks_T8_T8_Honed_Bamboo_DisplayName": "Bambus-Nunchakus",
+    "Nunchucks_T7_T7_Honed_Dragon_Opal_DisplayName": "Drachenopal-Nunchakus",
+    "Nunchucks_T8_T8_Honed_Dragon_Opal_DisplayName": "Drachenopal-Nunchakus",
+    "Nunchucks_T5_T5_Honed_Kozustone_DisplayName": "Kozustein-Nunchakus",
+    "Nunchucks_T6_T6_Honed_Kozustone_DisplayName": "Kozustein-Nunchakus",
+    "Nunchucks_T7_T7_Honed_Kozustone_DisplayName": "Kozustein-Nunchakus",
+    "Nunchucks_T8_T8_Honed_Kozustone_DisplayName": "Kozustein-Nunchakus",
+    "Nunchucks_T6_T6_Honed_Steel_DisplayName": "Stahl-Nunchakus",
+    "Nunchucks_T7_T7_Honed_Steel_DisplayName": "Stahl-Nunchakus",
+    "Nunchucks_T8_T8_Honed_Steel_DisplayName": "Stahl-Nunchakus"
+  },
+  "Juno_CBCFormulas_Nunchucks": {
+    "Nunchucks_DisplayName": "Nunchakus"
+  },
+  "Juno_UpdateItemData": {
+    "0F0118FD49D31B09DE4FECAF9E4B85F6": "Nunchakus",
+    "5EAC5DBC431F97B93C078582EAB05E32": "Nunchakus",
+    "79735EDA4A054667CB447C817F531CB8": "Nunchakus",
+    "7BFBDFE44B5AC7190EE6B890E98ABFCA": "Nunchakus",
+    "DF515FAC4948E32D784589A6F952EED3": "Nunchakus"
+  }
+}

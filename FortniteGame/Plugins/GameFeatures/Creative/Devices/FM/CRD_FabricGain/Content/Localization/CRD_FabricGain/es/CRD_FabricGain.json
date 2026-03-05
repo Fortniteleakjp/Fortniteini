@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Ajusta el volumen de la entrada de sonido de Patchwork antes de enviarlo a otro dispositivo de sonido de Patchwork. Cuando tengas una mezcla con múltiples entradas de sonido, aplica el filtro Ganancia a varias de ellas para poder equilibrar el volumen de cada entrada en la mezcla general.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "Ajusta el volumen de la entrada de sonido de Patchwork antes de enviarlo a otro dispositivo de sonido de Patchwork. Cuando tengas una mezcla con múltiples entradas de sonido, aplica el filtro Ganancia a varias de ellas para poder equilibrar el volumen de cada entrada en la mezcla general.",
+    "43690F0542ED4B273A4C72B2627C2936": "Multiplica el volumen de la entrada de sonido por el valor seleccionado. El valor 0 silenciará el sonido. El valor 2 duplicará el volumen del sonido.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Efecto de aumento de Patchwork",
+    "8A62F091464769AD6A2A51B1CECCED46": "Efecto de aumento de Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Efecto de aumento de Patchwork"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Permitir acceso por cable",
+    "EEnabledOnPhase.Always.DisplayName": "Siempre",
+    "Device_FabricGain_C.AudioIn.DisplayName": "Entrada de sonido",
+    "Device_FabricGain_C.AudioOut.DisplayName": "Salida de sonido",
+    "EEnabledOnPhase.Create Only.DisplayName": "Solo durante la creación",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Establece si la herramienta Patchwork puede acceder a cualquier puerto de entrada o salida de cables del dispositivo.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "Establece las fases del juego durante las que el dispositivo estará habilitado. Fase anterior incluye todas las fases anteriores al comienzo de la partida (como la sala previa a la partida o la cuenta atrás inicial). Este ajuste no afecta al modo de edición.",
+    "Device_FabricGain_C.Disable.DisplayName": "Deshabilitar",
+    "Device_FabricGain_C.Disable.Description": "Deshabilita el dispositivo cuando se produzca un evento.",
+    "Device_FabricGain_C.Enable.DisplayName": "Habilitar",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "Habilitado en fase",
+    "Device_FabricGain_C.Enable.Description": "Habilita el dispositivo cuando se produzca un evento.",
+    "Device_FabricGain_C.Gain.DisplayName": "Aumento",
+    "Device_FabricGain_C.GainIn.DisplayName": "Entrada de aumento",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Solo en partida",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "Información legal",
+    "EEnabledOnPhase.None.DisplayName": "Nada",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "Cuando está deshabilitado",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "Cuando está habilitado",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "Ten en cuenta que el uso de un dispositivo de sonido Patchwork se limita a la creación de piezas musicales nuevas y originales.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "Entrada de botón de encendido",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Solo fase anterior",
+    "Device_FabricGain_C.AudioOut.Description": "Establece el destino del cable Salida de sonido de este dispositivo.",
+    "Device_FabricGain_C.AudioIn.Description": "Establece el modo de entrada del puerto de entrada de sonido de este dispositivo.",
+    "Device_FabricGain_C.GainIn.Description": "Establece el modo de entrada del potenciómetro de aumento de este dispositivo.",
+    "Device_FabricGain_C.OnDisabled.Description": "Activa un evento cuando se deshabilita el dispositivo.",
+    "Device_FabricGain_C.OnEnabled.Description": "Activa un evento cuando se habilita el dispositivo."
+  }
+}

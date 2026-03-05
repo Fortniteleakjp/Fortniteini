@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Erreur lors de la vérification des données du joueur"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Échec du nettoyage de la persistance et épuisement des tentatives d'essai autorisées."
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Impossible de récupérer les points de contrôle disponibles",
+    "FailedToSetInitialCheckpointErrorMessage": "Impossible de définir le point de passage initial",
+    "InvalidJunoWorldErrorMessage": "Monde Juno invalide lors de la tentative d'initialisation du gestionnaire de point de contrôle",
+    "InvalidJunoRootPlayspaceErrorMessage": "Espace de jeu à la racine invalide lors de la tentative d'initialisation du gestionnaire de point de contrôle"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Tentative d'initialisation de la persistance du joueur alors qu'elle a déjà été initialisée.",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Rangement persistant du joueur invalide",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Impossible de créer un gestionnaire de point de contrôle"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Tentative de désinitialisation de la persistance du joueur avec un identifiant de joueur invalide.",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Multiples tentatives d'initialisation de la persistance du joueur.",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Tentative d'initialisation de la persistance du joueur avec un identifiant de joueur invalide.",
+    "StalePlayerPersistenceHandlerErrorMessage": "Gestionnaire de la persistance du joueur obsolète une fois l'initialisation terminée.",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Impossible de créer un gestionnaire de persistance du joueur.",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Impossible de récupérer le rangement persistant du joueur"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "Nie można sfinalizować zamówienia, użytkownik nadal przeprowadza transakcję.",
+    "ErrorPurchaseNotAllowed": "Nie można sfinalizować zamówienia, użytkownik nie ma uprawnień do zakupu.",
+    "ErrorNoUIHandler": "Nie można wyświetlić interfejsu przebiegu zakupu."
+  },
+  "McpQueryResult": {
+    "GenericError": "Wystąpił błąd podczas komunikacji z serwerami gry ({0}).",
+    "GenericHTTPError": "Podczas komunikacji z serwerami gry wystąpił błąd:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "Nie można nawiązać połączenia z serwerem.",
+    "JsonError": "Błąd serwera, typ {0}",
+    "InvalidJson": "Nie można przeanalizować odpowiedzi serwera. Nieprawidłowy obiekt JSON. Błąd {0}",
+    "NonObjectJson": "Nie można przeanalizować odpowiedzi serwera. To nie jest obiekt JSON."
+  },
+  "OnlineFriend": {},
+  "OnlineIdentity": {},
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "Nie można przeanalizować potwierdzeń z usługi zakupów."
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "Epic Games"
+  }
+}

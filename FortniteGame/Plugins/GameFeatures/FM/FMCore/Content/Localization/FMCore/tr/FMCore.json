@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "Git",
+    "MusicTimeNetSyncInterfaceSeekTarget": "Hedefe Git",
+    "MusicTimeNetSyncInterfaceSeek_Description": "Hedefe Git'e git.",
+    "MusicTimeNetSyncInterfaceSpeed": "Hız",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "Saatin kullanacağı hız.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "Gidilecek hedef."
+  }
+}

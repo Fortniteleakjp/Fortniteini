@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Aggiungi alla coda di fine partita alla ricezione da",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Forza il matchmaking di tutti i giocatori in una sessione sull'isola.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Trasmetti la partita in streaming",
+    "D6605AA24CE9BB51B09055B216381F62": "Trasmetti la partita in streaming",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Codice isola",
+    "4906BC4442B704E71E23E9B9A01FF370": "Portale livello",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Imposta il codice isola a cui punterà il portale di matchmaking.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Trasferisci la popolazione alla ricezione da"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Disabilita alla ricezione da",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Disabilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Abilita alla ricezione da",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Abilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Coda di fine partita",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Trasferisci la popolazione"
+  }
+}

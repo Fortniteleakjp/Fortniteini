@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>끄기</>: 댄스 이모트가 원래 속도로 재생되며, 이모트 음악이 잼 트랙과 함께 재생됩니다.",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>켜기</>: 댄스 이모트가 잼 트랙 비트에 동기화되며, 이모트 음악이 음소거됩니다.",
+    "JamTrackAudioTabName": "잼 트랙",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "잼 트랙에 내 댄스 이모트 동기화",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "이 설정은 잼 트랙 재생 중 댄스 이모트의 작동 방식을 변경합니다."
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "페스티벌 게임플레이 음악의 볼륨을 조절합니다.",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "음악 - 페스티벌"
+  }
+}

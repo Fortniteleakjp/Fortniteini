@@ -1,0 +1,37 @@
+{
+  "": {
+    "23EB52264CC9FAA4A54FED8840F95FBA": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "504B7AD24749F2016C2C75A22F5DAE71": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "96B092324CE0D9CFC7E8DF8046DF7694": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "CD83E785455D54AE5321CBBD10A8F9C2": "<emphA>복수자 존스</>의 <emphA>못박기!</> 퀘스트를 완료해 제작 레시피를 잠금 해제하세요. ",
+    "E04C12AB4AA93099FEE9CC9BA7AB46C9": "문제도 두 배입니다.",
+    "00A05D24493018D8ABB05A8C669D9C47": "쌍수로 쌍대하세요.",
+    "251EE9AD461FAC50BD50F28F2D2FE948": "쌍심지를 켜고 달려드세요.",
+    "9730B9624AA9DCA6B9E9CABF00A1A63E": "전설 그 자체입니다."
+  },
+  "Juno_BoostedItemNames_DualDaggersTierExpansionA": {
+    "Dual_Daggers_T5_T5_Honed_Bamboo_DisplayName": "대나무 쌍단검",
+    "Dual_Daggers_T6_T6_Honed_Bamboo_DisplayName": "대나무 쌍단검",
+    "Dual_Daggers_T7_T7_Honed_Bamboo_DisplayName": "대나무 쌍단검",
+    "Dual_Daggers_T8_T8_Honed_Bamboo_DisplayName": "대나무 쌍단검",
+    "Dual_Daggers_T7_T7_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 쌍단검",
+    "Dual_Daggers_T8_T8_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 쌍단검",
+    "Dual_Daggers_T5_T5_Honed_Kozustone_DisplayName": "코주스톤 쌍단검",
+    "Dual_Daggers_T6_T6_Honed_Kozustone_DisplayName": "코주스톤 쌍단검",
+    "Dual_Daggers_T7_T7_Honed_Kozustone_DisplayName": "코주스톤 쌍단검",
+    "Dual_Daggers_T8_T8_Honed_Kozustone_DisplayName": "코주스톤 쌍단검",
+    "Dual_Daggers_T6_T6_Honed_Steel_DisplayName": "강철 쌍단검",
+    "Dual_Daggers_T7_T7_Honed_Steel_DisplayName": "강철 쌍단검",
+    "Dual_Daggers_T8_T8_Honed_Steel_DisplayName": "강철 쌍단검"
+  },
+  "Juno_UpdateItemData": {
+    "45AE3E4A4C085DB4599940B5FBC003E0": "쌍단검",
+    "779C67D0434E0397A946168BF909ECF7": "쌍단검",
+    "AA5D678249A43D54B1E94CB2F825DC6E": "쌍단검",
+    "D7B32EE24FAA36A48748CABC6CC5EEF6": "쌍단검",
+    "B39267E14B538A83B97E84B438102B96": "에픽 쌍단검입니다. 공격 속도가 빠르며, 공격을 충전하면 위험을 향해 질주할 수 있습니다.",
+    "192E8D314AAA6D28A5C40FBD1802FE7A": "전설 쌍단검입니다. 공격 속도가 빠르며, 공격을 충전하면 위험을 향해 질주할 수 있습니다.",
+    "299CEFC842466335350396904C9891AC": "희귀 쌍단검입니다. 공격 속도가 빠르며, 공격을 충전하면 위험을 향해 질주할 수 있습니다.",
+    "5BE47184402C96A5226C7991B4F78A38": "고급 쌍단검입니다. 공격 속도가 빠르며, 공격을 충전하면 위험을 향해 질주할 수 있습니다."
+  }
+}

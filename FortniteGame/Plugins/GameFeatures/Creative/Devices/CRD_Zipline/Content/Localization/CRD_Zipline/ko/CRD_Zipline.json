@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "집라인 탈 수 없음",
+    "768283974295183A2A78FCBFBAFE1742": "플레이어를 다른 지점으로 옮기는 집라인을 생성합니다.",
+    "C7C925214E0954D490E48DB594FCAE7C": "플레이어를 다른 지점으로 옮기는 집라인을 생성합니다.",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "커스터마이징 ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "집라인 스플라인 포인트의 휴대폰 도구 인터페이스 역할을 하는 임시 포크리 전용 장치입니다.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "짚라인",
+    "8CE167104123A4888338D3A2901028D8": "짚라인",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "집라인 컨트롤 포인트"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "모두",
+    "ECreativeTeamType.Any.DisplayName": "모두",
+    "ClassSlotMetaData.DisplayPattern": "{0} 클래스",
+    "Device_Zipline_C.Color.DisplayName": "색상",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "이 컨트롤 포인트의 전방 방향이 이 위치의 경로 곡선에 주는 영향의 정도를 설정합니다.",
+    "Device_Zipline_C.UseCustomColor.Description": "기본값이 아닌 커스텀 색상을 사용할지 설정합니다.",
+    "Device_Zipline_C.Color.Description": "사용할 커스텀 색상을 설정합니다.",
+    "Device_Zipline_C.Selected Class.Description": "이 집라인을 사용할 수 있는 클래스를 설정합니다.",
+    "Device_Zipline_C.Selected Team.Description": "집라인을 사용할 수 있는 팀을 설정합니다.",
+    "Device_Zipline_C.Invert Class Selection.Description": "설정하면 선택한 클래스를 제외하고 모두 허용합니다.",
+    "Device_Zipline_C.Invert Team Selection.Description": "설정하면 선택한 팀을 제외하고 모두 허용합니다.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "클래스 선택 반전",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "팀 선택 반전",
+    "ECreativeClassType.NoClass.DisplayName": "클래스 없음",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "Device_Zipline_C.OnAttach.DisplayName": "연결 시",
+    "Device_Zipline_C.OnDetach.DisplayName": "분리 시",
+    "Device_Zipline_C.Selected Class.DisplayName": "선택된 클래스",
+    "Device_Zipline_C.Selected Team.DisplayName": "선택된 팀",
+    "Device_Zipline_C.OnAttach.Description": "에이전트가 집라인에 연결하면 신호를 송신합니다.",
+    "Device_Zipline_C.OnDetach.Description": "에이전트가 집라인에서 분리하면 이벤트를 송신합니다.",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "탄젠트 강도",
+    "TeamIndexMetaData.DisplayPattern": "{0} 팀",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "커스텀 색상 사용"
+  }
+}

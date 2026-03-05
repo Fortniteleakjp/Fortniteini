@@ -1,0 +1,8 @@
+{
+  "FM": {
+    "FMJamLoopTypeBass": "Bass",
+    "FMJamLoopTypeDrum": "Schlagzeug",
+    "FMJamLoopTypeLead": "Hauptinstrument",
+    "FMJamLoopTypeVox": "Gesang"
+  }
+}

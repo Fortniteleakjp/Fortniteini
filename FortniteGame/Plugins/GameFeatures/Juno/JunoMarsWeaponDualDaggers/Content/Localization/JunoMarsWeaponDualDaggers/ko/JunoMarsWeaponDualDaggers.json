@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "블레이드",
+    "33EE7DD140FA593C65E6858D3ED133F0": "포커스",
+    "7D92FBAF4FF2178468D08FB5447138AA": "자루"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "호박 쌍단검",
+    "Dual_Daggers_T5_Amber_DisplayName": "호박 쌍단검",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "폭발 쌍단검",
+    "Dual_Daggers_T1_Bone_DisplayName": "뼈 쌍단검",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "브라이트코어 쌍단검",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "발톱 쌍단검",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "발톱 쌍단검",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "발톱 쌍단검",
+    "Dual_Daggers_T3_Copper_DisplayName": "구리 쌍단검",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "저주받은 쌍단검",
+    "Dual_Daggers_T4_Emerald_DisplayName": "에메랄드 쌍단검",
+    "Dual_Daggers_T5_Emerald_DisplayName": "에메랄드 쌍단검",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "부들나무 쌍단검",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "서리 소나무 쌍단검",
+    "Dual_Daggers_T1_Glass_DisplayName": "유리 쌍단검",
+    "Dual_Daggers_T3_Gold_DisplayName": "황금 쌍단검",
+    "Dual_Daggers_T2_Granite_DisplayName": "화강암 쌍단검",
+    "Dual_Daggers_T3_Iron_DisplayName": "철 쌍단검",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "매듭뿌리 쌍단검",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "마호가니 쌍단검",
+    "Dual_Daggers_T2_Malachite_DisplayName": "공작석 쌍단검",
+    "Dual_Daggers_T2_Marble_DisplayName": "대리석 쌍단검",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "흑요석 쌍단검",
+    "Dual_Daggers_T2_Redrock_DisplayName": "붉은 바위 쌍단검",
+    "Dual_Daggers_T4_Ruby_DisplayName": "루비 쌍단검",
+    "Dual_Daggers_T5_Ruby_DisplayName": "루비 쌍단검",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "사암 쌍단검",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "사파이어 쌍단검",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "사파이어 쌍단검",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "부서진 뿔 쌍단검",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "부서진 뿔 쌍단검",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "폭풍 쌍단검",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "폭풍수호 쌍단검",
+    "Dual_Daggers_T1_Wood_DisplayName": "나무 쌍단검"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "쌍단검"
+  }
+}

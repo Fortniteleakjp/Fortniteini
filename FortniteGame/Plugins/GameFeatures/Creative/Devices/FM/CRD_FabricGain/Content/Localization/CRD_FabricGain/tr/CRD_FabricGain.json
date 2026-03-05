@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Bir başka Patchwork ses cihazına yollamadan önce Patchwork ses girdisinin ses düzeyini ayarlar. Mix'lerde birden çok ses girdisi varsa bunlardan bazılarına Gain efekti uygulayarak mix'in bütününde her bir ses girdisinin ses düzeyini dengeleyebilirsin.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "Bir başka Patchwork ses cihazına yollamadan önce Patchwork ses girdisinin ses düzeyini ayarlar. Mix'lerde birden çok ses girdisi varsa bunlardan bazılarına Gain efekti uygulayarak mix'in bütününde her bir ses girdisinin ses düzeyini dengeleyebilirsin.",
+    "43690F0542ED4B273A4C72B2627C2936": "Ses girdisinin ses düzeyini seçilen değerle çarpar. 0 değeri sesi tamamen kısar. 2 değeri ses düzeyini ikiye katlar.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork Gain Efekti",
+    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork Gain Efekti",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork Gain Efekti"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Kablo Erişimine İzin Ver",
+    "EEnabledOnPhase.Always.DisplayName": "Her zaman",
+    "Device_FabricGain_C.AudioIn.DisplayName": "Ses Girişi",
+    "Device_FabricGain_C.AudioOut.DisplayName": "Ses Çıkışı",
+    "EEnabledOnPhase.Create Only.DisplayName": "Yalnızca Oluşturma",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Patchwork Aracının cihazdaki herhangi bir kablo giriş veya çıkış portuna erişip erişemeyeceğini belirler.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "Cihazın etkinleştirileceği oyun aşamalarını belirler. Oyun Öncesi, oyun başlangıcından önceki tüm aşamaları içerir (oyun öncesi lobisi veya oyun başlangıcı geri sayımı gibi). Bu ayar Düzenleme modunu etkilemez.",
+    "Device_FabricGain_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "Device_FabricGain_C.Disable.Description": "Bir etkinlik gerçekleştiğinde cihazı devre dışı bırakır.",
+    "Device_FabricGain_C.Enable.DisplayName": "Etkinleştir",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "Aşama Sırasında Etkin:",
+    "Device_FabricGain_C.Enable.Description": "Bir etkinlik gerçekleştiğinde cihazı etkinleştirir.",
+    "Device_FabricGain_C.Gain.DisplayName": "Gain",
+    "Device_FabricGain_C.GainIn.DisplayName": "Gain Girişi",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Sadece Oynanış",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "Yasal Bilgilendirme",
+    "EEnabledOnPhase.None.DisplayName": "Hiçbiri",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "Devre Dışı Bırakıldığında",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "Etkinleştirildiğinde",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "Not: Bir Patchwork ses cihazı sadece yeni ve özgün müzik eserleri oluştururken kullanabilir.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "Güç Butonu Girişi",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Sadece Oyun Öncesi",
+    "Device_FabricGain_C.AudioOut.Description": "Bu cihazın Ses Çıkışı kablosunun varış noktasını belirler.",
+    "Device_FabricGain_C.AudioIn.Description": "Bu cihazın Ses Girişi portu için kullanılacak girişleri belirler.",
+    "Device_FabricGain_C.GainIn.Description": "Bu cihazın Gain Düğmesi için kullanılacak girişleri belirler.",
+    "Device_FabricGain_C.OnDisabled.Description": "Cihaz devre dışı bırakıldığında bir etkinlik tetikler.",
+    "Device_FabricGain_C.OnEnabled.Description": "Cihaz etkinleştirildiğinde bir etkinlik tetikler."
+  }
+}

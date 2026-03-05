@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "Mata Pedang",
+    "33EE7DD140FA593C65E6858D3ED133F0": "Fokus",
+    "7D92FBAF4FF2178468D08FB5447138AA": "Handel"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "Belati Ganda Ambar",
+    "Dual_Daggers_T5_Amber_DisplayName": "Belati Ganda Ambar",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "Belati Ganda Ledak",
+    "Dual_Daggers_T1_Bone_DisplayName": "Belati Ganda Tulang",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "Belati Ganda Terang",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "Belati Ganda Cakar",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "Belati Ganda Cakar",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "Belati Ganda Cakar",
+    "Dual_Daggers_T3_Copper_DisplayName": "Belati Ganda Tembaga",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "Belati Ganda Terkutuk",
+    "Dual_Daggers_T4_Emerald_DisplayName": "Belati Ganda Zamrud",
+    "Dual_Daggers_T5_Emerald_DisplayName": "Belati Ganda Zamrud",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "Belati Ganda Flexwood",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "Belati Ganda Frostpine",
+    "Dual_Daggers_T1_Glass_DisplayName": "Belati Ganda Kaca",
+    "Dual_Daggers_T3_Gold_DisplayName": "Belati Ganda Emas",
+    "Dual_Daggers_T2_Granite_DisplayName": "Belati Ganda Granit",
+    "Dual_Daggers_T3_Iron_DisplayName": "Belati Ganda Besi",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "Belati Ganda Akar Simpul",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "Belati Ganda Mahoni",
+    "Dual_Daggers_T2_Malachite_DisplayName": "Belati Ganda Malakit",
+    "Dual_Daggers_T2_Marble_DisplayName": "Belati Ganda Marmer",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "Belati Ganda Obsidian",
+    "Dual_Daggers_T2_Redrock_DisplayName": "Belati Ganda Redrock",
+    "Dual_Daggers_T4_Ruby_DisplayName": "Belati Ganda Rubi",
+    "Dual_Daggers_T5_Ruby_DisplayName": "Belati Ganda Rubi",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "Belati Ganda Batu Pasir",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "Belati Ganda Safir",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "Belati Ganda Safir",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "Belati Ganda Shatterhorn",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "Belati Ganda Shatterhorn",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "Belati Ganda Badai",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "Belati Ganda Stormguard",
+    "Dual_Daggers_T1_Wood_DisplayName": "Belati Ganda Kayu"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "Belati Ganda"
+  }
+}

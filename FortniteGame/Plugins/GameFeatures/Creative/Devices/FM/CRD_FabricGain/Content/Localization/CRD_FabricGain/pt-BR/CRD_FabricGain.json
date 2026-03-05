@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Ajuste o volume do áudio de entrada do Patchwork antes de enviá-lo para outro dispositivo de áudio do Patchwork. Quando há vários áudios de entrada, aplicar \"Ganho\" a alguns deles pode ajudar a equilibrar o volume de cada entrada na mixagem.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "Ajuste o volume do áudio de entrada do Patchwork antes de enviá-lo para outro dispositivo de áudio do Patchwork. Quando há vários áudios de entrada, aplicar \"Ganho\" a alguns deles pode ajudar a equilibrar o volume de cada entrada na mixagem.",
+    "43690F0542ED4B273A4C72B2627C2936": "Multiplica o volume da entrada de áudio pelo valor selecionado. O valor 0 silenciará o áudio. O valor 2 dobrará o volume do áudio.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Efeito de Ganho do Patchwork",
+    "8A62F091464769AD6A2A51B1CECCED46": "Efeito de Ganho do Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Efeito de Ganho do Patchwork"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Permitir Acesso por Cabo",
+    "EEnabledOnPhase.Always.DisplayName": "Sempre",
+    "Device_FabricGain_C.AudioIn.DisplayName": "Entrada de Áudio",
+    "Device_FabricGain_C.AudioOut.DisplayName": "Saída de Áudio",
+    "EEnabledOnPhase.Create Only.DisplayName": "Apenas Criar",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Determina se a Ferramenta Patchwork pode acessar qualquer entrada por cabo ou porta de saída do dispositivo.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "Determina as fases do jogo em que o dispositivo é habilitado. Pré-jogo inclui todas as fases que antecedem o início do jogo (como o lobby pré-jogo ou a contagem regressiva para o início do jogo). Essa configuração não afeta o Modo de Edição.",
+    "Device_FabricGain_C.Disable.DisplayName": "Desabilitar",
+    "Device_FabricGain_C.Disable.Description": "Desabilita o dispositivo quando um evento ocorre.",
+    "Device_FabricGain_C.Enable.DisplayName": "Habilitar",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "Habilitado Durante Fase",
+    "Device_FabricGain_C.Enable.Description": "Habilita o dispositivo quando um evento ocorre.",
+    "Device_FabricGain_C.Gain.DisplayName": "Ganho",
+    "Device_FabricGain_C.GainIn.DisplayName": "Entrada do Ganho",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Apenas Jogo",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "Informações Legais",
+    "EEnabledOnPhase.None.DisplayName": "Nenhuma",
+    "BoolMetaData.FalseDisplayName": "Desligado",
+    "BoolMetaData.TrueDisplayName": "Ligado",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "Ao Desabilitar",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "Ao Habilitar",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "Observação: o dispositivo de áudio Patchwork só pode ser usado para a criação de composições musicais originais.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "Entrada do Botão de Energia",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Apenas Pré-jogo",
+    "Device_FabricGain_C.AudioOut.Description": "Define o destino do cabo Saída de Áudio do dispositivo.",
+    "Device_FabricGain_C.AudioIn.Description": "Determina as entradas da Porta de Entrada de Áudio do dispositivo.",
+    "Device_FabricGain_C.GainIn.Description": "Determina as entradas do Botão de Ganho do dispositivo.",
+    "Device_FabricGain_C.OnDisabled.Description": "Aciona um evento quando o dispositivo é desabilitado.",
+    "Device_FabricGain_C.OnEnabled.Description": "Aciona um evento quando o dispositivo é habilitado."
+  }
+}

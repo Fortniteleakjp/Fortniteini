@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "缺失组件类。\n\n前往项目实装，找到项目使用的Playspace蓝图。\n\n将SparksCommonUtils playspace组件中的‘CaptureToolWidgetClass’设为要在这里创建的小组件。",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name}无视了事件（没有可用的NPS组件）",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name}增加了池的大小：{size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name}增加了池的大小：{size}"
+  }
+}

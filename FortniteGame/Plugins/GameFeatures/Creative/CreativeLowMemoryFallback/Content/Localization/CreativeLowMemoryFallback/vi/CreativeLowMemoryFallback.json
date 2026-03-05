@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "Bộ nhớ thấp",
+    "Return to main menu reason (default)": "Bộ nhớ đã đạt đến mức nghiêm trọng - phiên đã kết thúc.\n Tiến trình cuối cùng của bạn đã được lưu! Trở lại Sáng Tạo Vô Biên và tiếp tục trận mà bạn đang bỏ dở.",
+    "Warning toast description (default)": "Phiên có thể kết thúc bất ngờ."
+  }
+}

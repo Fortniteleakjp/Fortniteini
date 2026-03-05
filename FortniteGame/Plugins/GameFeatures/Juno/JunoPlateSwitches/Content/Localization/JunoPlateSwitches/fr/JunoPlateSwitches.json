@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Dalle de pression",
+    "53154EE74D5D376B3B686BB88086E6C1": "Dalle de déclenchement"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "Un bouton sur lequel vous pouvez marcher pour activer des canaux. Ce bouton doit rester enfoncé pour fonctionner ! Peut être connecté à un canal pour l'activer et le désactiver.",
+    "5105BE2640EF2F340BFDACBBD992B887": "Un bouton sur lequel vous pouvez marcher pour activer des canaux. À l'inverse de la dalle de pression, ce bouton n'a pas besoin de rester enfoncé.",
+    "3EE5611646661AE4DCB8A286F3C86C08": "Vous pouvez vous tenir derrière cet interrupteur... ou dessus !",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Dalle de pression",
+    "72407BB74A3BB4361BC8138E65BE9602": "Dalle de\ndéclenchement",
+    "B007D95344C458E23652D897346A66AE": "Cette dalle travaille mieux sous pression !"
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Dalle de pression",
+    "TriggerPlate_DisplayName": "Dalle de déclenchement"
+  }
+}

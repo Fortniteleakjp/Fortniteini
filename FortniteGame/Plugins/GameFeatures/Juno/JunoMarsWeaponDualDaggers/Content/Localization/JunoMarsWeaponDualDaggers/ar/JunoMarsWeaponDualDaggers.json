@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "النصل",
+    "33EE7DD140FA593C65E6858D3ED133F0": "التركيز",
+    "7D92FBAF4FF2178468D08FB5447138AA": "المقبض"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "خناجر مزدوجة من العنبر",
+    "Dual_Daggers_T5_Amber_DisplayName": "خناجر مزدوجة من العنبر",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "خناجر مزدوجة ناسفة",
+    "Dual_Daggers_T1_Bone_DisplayName": "خناجر العظام المزدوجة",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "خناجر مزدوجة ساطعة",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "خناجر المخالب المزدوجة",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "خناجر المخالب المزدوجة",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "خناجر المخالب المزدوجة",
+    "Dual_Daggers_T3_Copper_DisplayName": "خناجر مزدوجة نحاسية",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "خناجر مزدوجة ملعونة",
+    "Dual_Daggers_T4_Emerald_DisplayName": "خناجر مزدوجة من الزمرد",
+    "Dual_Daggers_T5_Emerald_DisplayName": "خناجر مزدوجة من الزمرد",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "خناجر مزدوجة من الخشب المرن",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "خناجر مزدوجة من الصنوبر المكسو بالثلج",
+    "Dual_Daggers_T1_Glass_DisplayName": "خناجر مزدوجة زجاجية",
+    "Dual_Daggers_T3_Gold_DisplayName": "خناجر ذهبية",
+    "Dual_Daggers_T2_Granite_DisplayName": "خناجر غرانيتية",
+    "Dual_Daggers_T3_Iron_DisplayName": "خناجر مزدوجة حديدية",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "خناجر مزدوجة من الجذور العُقدية",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "خناجر مزدوجة من الماهوغاني",
+    "Dual_Daggers_T2_Malachite_DisplayName": "خناجر مزدوجة من الملاكيت",
+    "Dual_Daggers_T2_Marble_DisplayName": "خناجر مزدوجة من الرخام",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "خناجر مزدوجة من السبج",
+    "Dual_Daggers_T2_Redrock_DisplayName": "خناجر مزدوجة من الصخور الحمراء",
+    "Dual_Daggers_T4_Ruby_DisplayName": "خناجر مزدوجة من الياقوت",
+    "Dual_Daggers_T5_Ruby_DisplayName": "خناجر مزدوجة من الياقوت",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "خناجر مزدوجة من الحجر الرملي",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "خناجر مزدوجة من الياقوت الأزرق",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "خناجر مزدوجة من الياقوت الأزرق",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "خناجر القرن المحطم المزدوجة",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "خناجر القرن المحطم المزدوجة",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "خناجر العاصفة المزدوجة",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "خناجر مزدوجة للحماية من العاصفة",
+    "Dual_Daggers_T1_Wood_DisplayName": "خناجر خشبية"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "خناجر مزدوجة"
+  }
+}

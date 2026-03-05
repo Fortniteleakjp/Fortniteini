@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "วัสดุกำหนดทิวทัศน์จูโน่เอง"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "เปิดใช้งานโหนดนิพจน์วัสดุภูมิทัศน์ของ Juno"
+  },
+  "JunoLandscape": {
+    "Juno": "จูโน่"
+  }
+}

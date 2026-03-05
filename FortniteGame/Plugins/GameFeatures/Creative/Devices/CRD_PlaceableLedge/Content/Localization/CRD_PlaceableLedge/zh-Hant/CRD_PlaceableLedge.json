@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "可放置的邊緣，讓玩家可從邊緣發射。",
+    "EFF5545942BE6E906FA09492A029002C": "可放置的邊緣，讓玩家可從邊緣發射。",
+    "39AFB32446569697402D1D827A10908B": "可放置的邊緣，讓玩家可從邊緣發射。",
+    "1B6B2930405A922826E5319CC16C6F4D": "從此接收時停用",
+    "39698C45412DE4DC33043394E36BCF15": "在接收選定頻道的訊號時停用裝置。",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "從此接收時啟用",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "在接收選定頻道的訊號時啟用裝置。",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "金屬圓環",
+    "7E36FA504A82288E8BFF03B718AAF93E": "無",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "可放置的邊緣",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "可放置的邊緣",
+    "97078157436AE317038738A4DBF33EAE": "木樑"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "自訂網格",
+    "Device_PlaceableLedge_C.Enable during game.Description": "決定在遊戲過程中是否啟用並顯示邊緣。",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "停用",
+    "Device_PlaceableLedge_C.Disable.Description": "停用裝置。",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "啟用",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "遊戲中啟用",
+    "Device_PlaceableLedge_C.Enable.Description": "啟用裝置。",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "如果為真，此裝置將使用可攀爬的圓環而非樑 ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "邊緣網格選擇",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "金屬圓環",
+    "ELedgeMeshSelections.None.DisplayName": "無",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "若網格選項設定為自訂，則在邊緣使用自訂網格",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "木樑"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "": {
+    "28E9012042F684EC33E64DBC67B7AB87": "Potion de renvoi des dégâts",
+    "1496D4C04E61EA2F2E1A25A15D805DAD": "Boire",
+    "5DD082614C19B68F0671C8B133F30027": "Boire",
+    "732AE4164DA289CBAD2D9BA4CF94BF3F": "Boire",
+    "8316CE6444093E54E05602B571AF8877": "Boire",
+    "9009A17845156ABA2159A3A5EE6351A7": "Boire",
+    "956461C2408989F89DBAF680FCE4DDBB": "Boire",
+    "5FACCFEF4329C6DAD80BB5B1FAD7FA57": "Potion de soin à boire",
+    "B78B3B934FC3A3BFE45E5BA5773A1C4C": "Potion de soin à boire",
+    "2287C68342BE4554C7F900B0AB411EA3": "Potion de soin à boire (effet de zone)",
+    "62B9C0D5420E62347A3FC1B3C50DD129": "Potion de soin à boire (effet de zone)",
+    "D0FB1E8E4F3A5D7AD427DCBCF6B4E5EB": "Potion à boire",
+    "781DE0DB4FD81FA3FF69E58D8296C55E": "Grande",
+    "70BC96B04C86369A43ED339F68FD8024": "Grande potion de soin à boire",
+    "A0E4329649446A6E0ADCEEBEDB31DD59": "Grande potion de soin à boire (effet de zone)",
+    "485E0400440602F8EC8A4E9D4EFEA5B6": "Grande potion de soin à lancer",
+    "F9178367488B97E376AD168CE5BFB207": "Grande potion de soin à lancer (effet de zone)",
+    "3945E028409BF1B15E3361B819DC8DA0": "Ramasser le bocal",
+    "39331BF447EA294E86FD3F9EFD116216": "Ingrédient principal",
+    "3A48212E48DF26F20CF068861108E56A": "Ingrédient principal",
+    "53687A5A40CAE9CD9BBF48BD49E94D64": "Ingrédient secondaire",
+    "96A832CA40190EC452482C92A191D387": "Ingrédient secondaire",
+    "B5C2358C4CAB187FA98995ADD68F8FED": "Potion d'endurance",
+    "B899DA28495F7A3BC705349680537CDB": "Potion de soin à lancer",
+    "35B4F31541C8BE8B36843C83593AC8C2": "Potion de soin à lancer (effet de zone)",
+    "C04220B441D86E5CAD152FB2B6B3433D": "Potion à lancer",
+    "EEDBCBAD486E3AD1FC8BD68916A3901E": "Potion de soin à lancer",
+    "F58EF6304F74C220FC31B1AEC3D031F4": "Potion de soin à lancer (effet de zone)",
+    "13098D354B5285DB5DE12AB421042EB6": "Fiole",
+    "AF8BD4784E59154FE4AEBEAB925229A6": "Fiole",
+    "57D3A27449FC3EC3F53F598E5B8AFF2C": "Vous aurez besoin d'un objet puant laissé en butin par une <EmphA>créature hostile</> vivant dans les <img id=\"IcoGra\"/> <Gra>prairies</>.",
+    "9A88751C42039EA7DA66DD965EA0FF09": "Vous aurez besoin d'un objet puant laissé en butin par une <EmphA>créature hostile</> vivant dans les <img id=\"IcoGra\"/> <Gra>prairies</>.",
+    "CB0263AD4E908E6DF53E11A7570F0D9B": "Vous aurez besoin d'un objet puant laissé en butin par une <EmphA>créature hostile</> vivant dans les <img id=\"IcoGra\"/> <Gra>prairies</>.",
+    "30F3303046A320581C5FF0965B3AF507": "Vous aurez besoin d'un <EmphA>pressoir</>.",
+    "545578D8444EA9FCED0BD580966D9B4F": "Vous aurez besoin d'un <EmphA>pressoir</>.",
+    "787CD8D147E518DE75287E8BAFAF0843": "Vous aurez besoin d'un <EmphA>pressoir</>.",
+    "7C56876143D57D54687A86A1AEA6BB8D": "[PH] Heal AOE Potion"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "99A19BC9400AB7C8AAA881BCC2EA458F": "Potion de soin"
+  },
+  "Juno_CBCFormulas_PotionCrafting": {
+    "1DCCC0244DBBD0A6B6927F903D428D7F": "Potion de soin à boire",
+    "85309E644A761BCC7F9A08AC379B65A6": "Potion de soin à lancer"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "35F407C54D0DE1D0486E9D8E9B7D26D3": "Fabriquez des potions."
+  },
+  "Juno_UpdateItemData": {
+    "13F70595471A6B7F1AD303A8FCC9CF31": "Une potion que vous pouvez boire !",
+    "2801A8BB45BF0EAF3468F88C4090F125": "Une potion que vous pouvez boire !",
+    "FB5A74CF4600210AE9CDA390F2EEF219": "Une potion que vous pouvez boire !",
+    "5462E70A40CB33E531AA37A515619D7C": "Amusez-vous bien !",
+    "CB11C816427592AE1B396680CD65DD47": "Amusez-vous bien !",
+    "E5554B724FD31AB167850A913524043F": "Amusez-vous bien !",
+    "4C6C794746CA495BDF3C4498B75DC802": "Chaudron à potions",
+    "523282BD483A1420C02C5E81FE3BB25C": "Lancez-la. Elle soigne.",
+    "530016A4477F3750BEF0C4970A72E6C5": "Lancez la potion pour répandre ses effets !",
+    "00E4B31A47FD7A5A2B6EAFBADD29BBD9": "Lancez la potion pour répandre les soins !",
+    "3FFBFF7746FE53FE9BD9E1ABB395303A": "Que la fabrication commence !",
+    "08A142164446E1C6B13D27B4B827CDFA": "Zou !",
+    "4176E80449892747BA4CBD89458823A1": "Zou !",
+    "5633430645A77733929F418A9EB7D72D": "Zou !"
+  }
+}

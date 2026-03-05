@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Volume de Multidão",
+    "CBA0009043A15E05890AC68F8056B814": "Volume de Multidão",
+    "E1067A64427AA66B822488B1D608CD94": "Volume de Multidão",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Desabilitar",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Desabilita o dispositivo ao receber um sinal do canal selecionado.",
+    "BFBBEB534C644E161C3AE491501828F6": "Habilitar",
+    "650644994C28CFD38E31829A56E3464F": "Habilita o dispositivo ao receber um sinal do canal selecionado.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Gera uma multidão para incentivar você.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Gera uma multidão para incentivar você.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Gera uma multidão para incentivar você.",
+    "7EDB5C9C49AC528E948643B2245928A7": "O dispositivo permite que você configure uma multidão.",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=Quadrado, other=Quadrados)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=Quadrado, other=Quadrados)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=Quadrado, other=Quadrados)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Sempre",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Alinhamento dos Personagens",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Aleatoriedade do Ângulo dos Personagens",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Aleatoriedade da Escala dos Personagens",
+    "EEnabledOnPhase.Create Only.DisplayName": "Apenas Criar",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Densidade da Multidão",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Determina as fases do jogo em que o dispositivo é habilitado. O pré-jogo inclui todas as fases anteriores ao início do jogo (a espera por jogadores no lobby das ilhas em destaque e a contagem regressiva para o início do jogo).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Desabilitar",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Desabilita o dispositivo ao receber um sinal do canal selecionado.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Habilitar",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Habilitado Durante Fase",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Habilita o dispositivo ao receber um sinal do canal selecionado.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Apenas Jogo",
+    "EEnabledOnPhase.None.DisplayName": "Nenhuma",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Apenas Pré-jogo",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Determina a densidade da multidão.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Determina a precisão do alinhamento da multidão na grade.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Determina a aleatoriedade do tamanho dos personagens.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Determina a aleatoriedade do ângulo de direção dos personagens.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Determina a profundidade da área em quadrados.",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Determina a altura da área em quadrados.",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Determina a largura da área em quadrados.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Profundidade da Área",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Altura da Área",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Largura da Área"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "": {
+    "6A31DE274B0444C42C341BB39ED7DE5C": "Bạn sẽ cần <EmphA>Máy Trộn</>.",
+    "79EDC71546DFF16F6D376A807B8C057C": "Bạn sẽ cần <EmphA>Máy Trộn</>.",
+    "5B1A181240601D2C8B93B1989A32DC0C": "Bạn sẽ cần thứ gì đó lạnh và mềm."
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F30AD94846FE3D71D4E9CB839A7EFEBA": "Kem Ốc Quế Quả Mọng Tuyết",
+    "70A1111E46AD7601EE0732B1D69F64A2": "Kem Ốc Quế Cay"
+  },
+  "Juno_UpdateItemData": {
+    "5C4061EA4933787FD658459CC7FB33B1": "Hãy ăn trước khi nó tan chảy.",
+    "B219707D4D40717FC31E2F9F3C7B0F24": "Hãy ăn trước khi nó tan chảy.",
+    "64A4F0A843F6B87C22DD4B88D7EF9798": "Ăn để tạm thời nhận khả năng Miễn Nhiễm với Thiêu Đốt.",
+    "336CB5E0430C56B49DCDE8941E86F8A4": "Ăn để tạm thời nhận khả năng Miễn Nhiễm với Lạnh Cóng.",
+    "CC5087DC481F5A04DBEFA480881F54B2": "Kem",
+    "A3F9607D41D80C179555DF9A26FF518F": "Cực mát lạnh, không lo bốc hỏa.",
+    "CE8B0C8D4E0B2CA9429D6FA70619FA9F": "Cực nóng bỏng, không lo lạnh lẽo."
+  }
+}

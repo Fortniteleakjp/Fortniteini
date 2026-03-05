@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Một giá trị số nguyên biểu thị số lượng lựa chọn hội thoại sẽ được tạo (giá trị càng cao càng tốt).",
+    "NulledOption": "CHƯA SỬ DỤNG. BỎ QUA.",
+    "OptionFive_NPCResponse": "Phản hồi hội thoại hoàn chỉnh của NPC, chỉ kích hoạt khi người chơi chọn 'TùyChọnNăm' (nếu sử dụng).",
+    "OptionFour_NPCResponse": "Phản hồi hội thoại hoàn chỉnh của NPC, chỉ kích hoạt khi người chơi chọn 'TùyChọnBốn' (nếu sử dụng).",
+    "OptionOne_NPCResponse": "Phản hồi hội thoại hoàn chỉnh của NPC, chỉ kích hoạt khi người chơi chọn 'TùyChọnMột' (nếu sử dụng).",
+    "OptionSix_NPCResponse": "Phản hồi hội thoại hoàn chỉnh của NPC, chỉ kích hoạt khi người chơi chọn 'TùyChọnSáu' (nếu sử dụng).",
+    "OptionThree_NPCResponse": "Phản hồi hội thoại hoàn chỉnh của NPC, chỉ kích hoạt khi người chơi chọn 'TùyChọnBa' (nếu sử dụng).",
+    "OptionTwo_NPCResponse": "Phản hồi hội thoại hoàn chỉnh của NPC, chỉ kích hoạt khi người chơi chọn 'TùyChọnHai' (nếu sử dụng).",
+    "MainQuestion": "Câu hỏi chính mà NPC đặt ra, người chơi sẽ trả lời bằng cách chọn một trong các tùy chọn.",
+    "OptionFive": "Văn bản của tùy chọn hội thoại thứ năm được hiển thị cho người chơi. Đây là một câu trả lời có thể đưa ra cho 'CâuHỏiChính'.",
+    "OptionOne": "Văn bản của tùy chọn hội thoại đầu tiên được hiển thị cho người chơi. Đây là một câu trả lời có thể đưa ra cho 'CâuHỏiChính'.",
+    "OptionFour": "Văn bản của tùy chọn hội thoại thứ tư được hiển thị cho người chơi. Đây là một câu trả lời có thể đưa ra cho 'CâuHỏiChính'.",
+    "OptionTwo": "Văn bản của tùy chọn hội thoại thứ hai được hiển thị cho người chơi. Đây là một câu trả lời có thể đưa ra cho 'CâuHỏiChính'.",
+    "OptionSix": "Văn bản của tùy chọn hội thoại thứ sáu được hiển thị cho người chơi. Đây là một câu trả lời có thể đưa ra cho 'CâuHỏiChính'.",
+    "OptionThree": "Văn bản của tùy chọn hội thoại thứ ba được hiển thị cho người chơi. Đây là một câu trả lời có thể đưa ra cho 'CâuHỏiChính'."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Lưu ý là hãy dựa vào chính câu thoại hiện tại để đưa ra lựa chọn, không dựa vào cảm xúc chính của NPC lúc này; chọn cảm xúc cần điều chỉnh (Vui Vẻ, Buồn Bã, Giận Dữ, Sợ Hãi, Bình Thường) để phát hoạt ảnh và cộng điểm cho cảm xúc đó, nhưng cảm xúc chính của NPC sẽ là cảm xúc có tổng điểm cao nhất, trong đó Vui Vẻ thể hiện sự tích cực, Buồn Bã là tâm trạng trầm lắng, Giận Dữ là đối đầu và Sợ Hãi là lo sợ.",
+    "FeelingChangeValue": "Thiết lập cường độ của ThayĐổiCảmXúc; vì cảm xúc giảm nhanh nên giá trị này phải phù hợp với sức nặng cảm xúc của tình huống: đối với những cuộc trò chuyện đơn giản, thân mật, sử dụng giá trị nhẹ trong khoảng 0-20 (đa số lời chào thông thường gần về giá trị 0); đối với các sự kiện hoặc hội thoại quan trọng cần hành động từ người chơi, sử dụng giá trị vừa trong khoảng 20-60; đối với những khoảnh khắc mang tính bước ngoặt (như phản bội, hoàn thành nhiệm vụ hoặc nhận được món quà hoàn hảo), sử dụng giá trị mạnh trong khoảng 60-100.",
+    "DialogueDescription": "Dòng hội thoại bạn muốn thực hiện."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Đang suy nghĩ..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Đang suy nghĩ..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Đang suy nghĩ..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "Định Nghĩa Vật Phẩm: '{0}' chưa được đăng ký với Dữ Liệu Tính Năng Trò Chơi và sẽ không thể định vị được.",
+    "DuplicatePrimaryAssetError": "Hai tài nguyên khác nhau có cùng Id tài nguyên chính là '{0}' và '{1}'"
+  }
+}

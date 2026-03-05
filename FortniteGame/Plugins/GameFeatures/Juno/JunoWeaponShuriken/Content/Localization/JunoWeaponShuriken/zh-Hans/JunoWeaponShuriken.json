@@ -1,0 +1,50 @@
+{
+  "": {
+    "67320F2F4EF316AB1ACEC181C9402FA1": "刀刃",
+    "D96EFA7940C10FEA5ADD5A8E6814AB3E": "你能做到吧？ 尽在“掌”握！",
+    "E97D828E401794E0E6035D9F0052C954": "你能做到吧？ 尽在“掌”握！",
+    "11D19E87472E5A93C8E03DBB47CBB549": "中间",
+    "5BE5CA8F476A74105C2107A1D1BE363F": "普通手里剑。 深受忍者喜爱的锋利星形飞镖。 ",
+    "492E847A4056722468D9F1B7CAFE388C": "史诗手里剑。深受忍者喜爱的锋利飞镖。",
+    "18FA88BF49B66EA60C8D60B46BC1B3AC": "打开忍者精通标签页进行学习 ",
+    "6F05C4FC4D58CB2C77D1698AE043E597": "打开忍者精通标签页进行学习 ",
+    "86F5523A4B77B62BB87DB897E5AB31EC": "打开忍者精通标签页进行学习 ",
+    "90D66A5C4C2F770E96FD9F86F79D58A5": "打开忍者精通标签页进行学习 ",
+    "810270FA4C6EA512EA96118BC032FE27": "传奇手里剑。深受忍者喜爱的锋利飞镖。",
+    "3BD009B74B9055B4FEAE85A01DE4E0E9": "可投掷的幻影旋转术龙卷风。",
+    "88A8547E4AFE4F1D8470E5A08F7EB884": "稀有手里剑。深受忍者喜爱的锋利飞镖。",
+    "1621FE2D4F6EB770ED345BACD8F069CB": "削减战斗时长……以及对手的寿命。",
+    "7A9A3E76432BF59F037B7B809A42F41F": "用手里的手里剑收你。",
+    "0100F12640782A81255181BBEFF5BFA7": "投掷物",
+    "425BA21942D3D6689773D686AD7EF2F7": "投掷物",
+    "C2D4C9C84D1110C483A711AAD3729A20": "投掷物",
+    "D751132B427D4ECA77992D8D271A891D": "投掷物",
+    "E3FBFE784A2317E78F83BFAE859D2A69": "投掷物",
+    "960E82854A9E861824DCA9BA7AC83EE4": "罕见手里剑。深受忍者喜爱的锋利飞镖。"
+  },
+  "Juno_BoostedItemNames_Shuriken": {
+    "Shuriken_T5_T5_Honed_Bamboo_DisplayName": "竹制手里剑",
+    "Shuriken_T6_T6_Honed_Bamboo_DisplayName": "竹制手里剑",
+    "Shuriken_T7_T7_Honed_Bamboo_DisplayName": "竹制手里剑",
+    "Shuriken_T8_T8_Honed_Bamboo_DisplayName": "竹制手里剑",
+    "Shuriken_T7_T7_Honed_Dragon_Opal_DisplayName": "龙珀手里剑",
+    "Shuriken_T8_T8_Honed_Dragon_Opal_DisplayName": "龙珀手里剑",
+    "Shuriken_T5_T5_Honed_Kozustone_DisplayName": "木津石手里剑",
+    "Shuriken_T6_T6_Honed_Kozustone_DisplayName": "木津石手里剑",
+    "Shuriken_T7_T7_Honed_Kozustone_DisplayName": "木津石手里剑",
+    "Shuriken_T8_T8_Honed_Kozustone_DisplayName": "木津石手里剑",
+    "Shuriken_T6_T6_Honed_Steel_DisplayName": "钢手里剑",
+    "Shuriken_T7_T7_Honed_Steel_DisplayName": "钢手里剑",
+    "Shuriken_T8_T8_Honed_Steel_DisplayName": "钢手里剑"
+  },
+  "Juno_CBCFormulas_Shuriken": {
+    "Shuriken_DisplayName": "手里剑"
+  },
+  "Juno_UpdateItemData": {
+    "3EB23374462AD1A4264B89B674069060": "手里剑",
+    "863A6B134C12EED19BFA259464C5BC28": "手里剑",
+    "DF616BC44AB6277D45CD3FAC66107E74": "手里剑",
+    "E44D5CCF4255E842F3333B838A8725C8": "手里剑",
+    "E8493B554EBD22EAD4974CA8D18255ED": "手里剑"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "合間のスペース: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: {1}の外に生成",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}、{ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "{ItemName}を置く"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0}<Yellow>が撃破されました</>",
+    "OnPlayerSavedByTotemGameEvent": "{0}<Yellow>がトーテムに救われました</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "{ItemDisplayText}を贈る"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "全部ちょうだい！",
+    "LNFDropNOfX": "{WantItem}{WantItemCount}個。"
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "キャンプ {0}に加入する"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "数が不足しています。{SellItem}{SellItemCount}個と交換するには、{WantItem}が{WantItemCount}個必要です。\nバンドルの残りは{BundleCount}個です。",
+    "TradeXForX": "{WantItem}{WantItemCount}個を{SellItem}{SellItemCount}個と交換します。\nバンドルの残りは{BundleCount}個です。"
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "完了！",
+    "GetX": "{0}を入手する"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0}<Yellow>がワールドに入りました</>",
+    "GameMemberDisconnected": "{0}<Yellow>がワールドから退出しました</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "チャージを追加",
+    "ChargeCostUnits": "突進",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "？？？",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "続行",
+    "JunoSpeech_NoAIRole": "仕事なし",
+    "JunoSpeech_NoBoundCampName": "名前のない村",
+    "JunoSpeech_NoLastUsedGatheringActor": "ステーションなし"
+  },
+  "JunoStorageChest": {
+    "Open": "開く",
+    "Search": "開ける"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName}の村 {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "無操作によってキックされました。無操作状態が続いたため、ホストから切断されました。",
+    "SpawnedWhenPermanentlyDead": "このクライアントはもう復活できません。"
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "ガイド付き建築を開始"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "フレンドのワールドに所有コンテンツを設置できるのは、今週はここで最後です。",
+    "MCPItemPlacedMessageTitleText": "警告！ 所有コンテンツ",
+    "MCPItemPlacedMessageDescription_NLeft": "今週は、あと{0}個のフレンドのワールドに所有コンテンツを設置できます。"
+  }
+}

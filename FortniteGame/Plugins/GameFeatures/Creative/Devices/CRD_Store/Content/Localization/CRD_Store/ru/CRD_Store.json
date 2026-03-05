@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "Портал в магазин предметов",
+    "A636CB9048F6D10A27FAE2ACA3336261": "Портал в магазин предметов",
+    "ECA01A1C4D96960EA267CEA75C458F15": "Портал в магазин предметов",
+    "F0DA7B7A455C002838011E9950021E4F": "Портал в магазин предметов",
+    "F6BA046441D88E68E7317EB0D779DDEE": "Портал в магазин предметов",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Открыть магазин",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Открыть магазин",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Открыть магазин при получении сигнала",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Открыть магазин: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Открыть магазин: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Открывает магазин для игрока, активировавшего устройство, при получении сигнала по выбранному каналу.",
+    "18E3F3AD48251A9142A05A8349684E89": "При активации этого устройства откроется магазин предметов.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "При активации этого устройства откроется магазин предметов.",
+    "79656CFD409EE4E11B68988ACDCA8585": "При активации этого устройства откроется магазин предметов.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "При активации этого устройства откроется магазин предметов.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "При активации этого устройства откроется магазин предметов."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Всегда",
+    "EEnabledOnPhase.Create Only.DisplayName": "Только при создании",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Определяет, на каких этапах игры устройство будет активно. Стадия «До начала игры» включает в себя все этапы, предшествующие началу игры (ожидание игроков на рекомендуемых островах и отсчёт до начала игры).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Определяет длительность взаимодействия, необходимого для активации устройства.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Выключить",
+    "Device_Store_C.Disable.DisplayName": "Отключить",
+    "Device_Store_C.Disable.Description": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "Device_ItemShop_V2_C.Disable.Description": "Отключает устройство.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Включить",
+    "Device_Store_C.Enable.DisplayName": "Включить",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Активно во время фазы",
+    "Device_Store_C.Enable.Description": "Включает устройство при получении сигнала по выбранному каналу.",
+    "Device_ItemShop_V2_C.Enable.Description": "Включает устройство.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Только во время игры",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Время взаимодействия",
+    "EEnabledOnPhase.None.DisplayName": "Нет",
+    "Device_Store_C.OpenStore.DisplayName": "Открыть магазин",
+    "Device_Store_C.OpenStore.Description": "Открывает магазин для игрока, активировавшего устройство, при получении сигнала по выбранному каналу.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "До начала игры"
+  }
+}

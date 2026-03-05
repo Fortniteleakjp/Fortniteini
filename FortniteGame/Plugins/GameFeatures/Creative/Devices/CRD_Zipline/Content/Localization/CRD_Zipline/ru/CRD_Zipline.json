@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Нельзя проехаться на зиплайне",
+    "768283974295183A2A78FCBFBAFE1742": "Создать зиплайн, который перемещает игроков от точки до точки",
+    "C7C925214E0954D490E48DB594FCAE7C": "Создать зиплайн, который перемещает игроков от точки до точки",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Изменить ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Временное устройство для творческого режима, которое действует как интерфейс телефона, позволяя управлять точками кривых участков зиплайна.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Зиплайн",
+    "8CE167104123A4888338D3A2901028D8": "Зиплайн",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Контрольная точка зиплайна"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Все",
+    "ECreativeTeamType.Any.DisplayName": "Все",
+    "ClassSlotMetaData.DisplayPattern": "Класс {0}",
+    "Device_Zipline_C.Color.DisplayName": "Цвет",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Определяет, как прямое направление этой контрольной точки влияет на кривую пути в данной области.",
+    "Device_Zipline_C.UseCustomColor.Description": "Позволяет выбрать пользовательский цвет вместо стандартного",
+    "Device_Zipline_C.Color.Description": "Определяет пользовательский цвет.",
+    "Device_Zipline_C.Selected Class.Description": "Определяет, какой класс может использовать этот зиплайн.",
+    "Device_Zipline_C.Selected Team.Description": "Определяет, какая команда может использовать этот зиплайн.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Включите, чтобы устройство допускало игроков из всех классов, кроме выбранного.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Включите, чтобы устройство допускало игроков из всех команд, кроме выбранной.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Инвертировать выбор класса",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Инвертировать выбор команды",
+    "ECreativeClassType.NoClass.DisplayName": "Без класса",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "Device_Zipline_C.OnAttach.DisplayName": "При прикреплении",
+    "Device_Zipline_C.OnDetach.DisplayName": "При откреплении",
+    "Device_Zipline_C.Selected Class.DisplayName": "Выбранный класс",
+    "Device_Zipline_C.Selected Team.DisplayName": "Выбранная команда",
+    "Device_Zipline_C.OnAttach.Description": "Отправляет сигнал, когда действующее лицо прикрепляется к зиплайну.",
+    "Device_Zipline_C.OnDetach.Description": "Отправляет событие, когда действующее лицо покидает зиплайн",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Прямота",
+    "TeamIndexMetaData.DisplayPattern": "Команда {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Использовать пользовательский цвет"
+  }
+}

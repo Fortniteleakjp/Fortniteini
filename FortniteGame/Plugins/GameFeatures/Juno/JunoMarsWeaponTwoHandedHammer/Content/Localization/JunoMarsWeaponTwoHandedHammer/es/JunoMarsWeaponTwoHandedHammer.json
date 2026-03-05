@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Concentración",
+    "43F09C044AF62206095CF781534EA856": "Mango",
+    "E6B68B79478A46E9684822B2F134867F": "Cabeza",
+    "DB549DF44E248CF55461B2BF32444D9A": "Punta"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Martillo de guerra de ámbar",
+    "War_Hammer_T5_Amber_DisplayName": "Martillo de guerra de ámbar",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Martillo de guerra explosivo",
+    "War_Hammer_T1_Bone_DisplayName": "Martillo de guerra de hueso",
+    "War_Hammer_T2_Brightcore_DisplayName": "Martillo de guerra brillante",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Martillo de guerra de garra",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Martillo de guerra de garra",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Martillo de guerra de garra",
+    "War_Hammer_T3_Copper_DisplayName": "Martillo de guerra de cobre",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Martillo de guerra maldito",
+    "War_Hammer_T4_Emerald_DisplayName": "Martillo de guerra de esmeralda",
+    "War_Hammer_T5_Emerald_DisplayName": "Martillo de guerra de esmeralda",
+    "War_Hammer_T1_Flexwood_DisplayName": "Martillo de guerra de fleximadera",
+    "War_Hammer_T1_Frostpine_DisplayName": "Martillo de guerra de pinoescarcha",
+    "War_Hammer_T1_Glass_DisplayName": "Martillo de guerra de cristal",
+    "War_Hammer_T3_Gold_DisplayName": "Martillo de guerra de oro",
+    "War_Hammer_T2_Granite_DisplayName": "Martillo de guerra de granito",
+    "War_Hammer_T3_Iron_DisplayName": "Martillo de guerra de hierro",
+    "War_Hammer_T1_Knotroot_DisplayName": "Martillo de guerra de nudorraíz",
+    "War_Hammer_T1_Mahogany_DisplayName": "Martillo de guerra de caoba",
+    "War_Hammer_T2_Malachite_DisplayName": "Martillo de guerra de malaquita",
+    "War_Hammer_T2_Marble_DisplayName": "Martillo de guerra de mármol",
+    "War_Hammer_T2_Obsidian_DisplayName": "Martillo de guerra de obsidiana",
+    "War_Hammer_T2_Redrock_DisplayName": "Martillo de guerra de roca roja",
+    "War_Hammer_T4_Ruby_DisplayName": "Martillo de guerra de rubí",
+    "War_Hammer_T5_Ruby_DisplayName": "Martillo de guerra de rubí",
+    "War_Hammer_T2_Sandstone_DisplayName": "Martillo de guerra de arenisca",
+    "War_Hammer_T4_Sapphire_DisplayName": "Martillo de guerra de zafiro",
+    "War_Hammer_T5_Sapphire_DisplayName": "Martillo de guerra de zafiro",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Martillo de guerra de cuernorroto",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Martillo de guerra de cuernorroto",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Martillo de guerra de tormenta",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Martillo de guerra de templatormentas",
+    "War_Hammer_T1_Wood_DisplayName": "Martillo de guerra de madera"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Martillo de guerra"
+  }
+}

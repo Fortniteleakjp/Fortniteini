@@ -1,0 +1,30 @@
+{
+  "": {
+    "8748F3D34DF2BE934DD892AE20E8BDF6": "¿Seguro que quieres cancelar el viaje hasta <emphasis>{Destination}</>?",
+    "AB9B074F49C078B1A31C1EA98457C6FE": "¿Seguro que quieres viajar hasta <emphasis>{Destination}</>?\nEsto te teletransportará fuera del modo de juego actual.",
+    "F6494657498DFB506E0582B5CE879608": "Viaje en el autobús de batalla",
+    "7724CD794DD1D710CB324DB16E2B0CB1": "Cancelar",
+    "B682B7074BD60890EEE939B7D41FEB81": "Cancelar viaje",
+    "83676C0F4F777DB2D1F0E68182EE3442": "Cerrar",
+    "EFF2EE7E4C72D1BAA26BF8A869BE927B": "Cerrar",
+    "5737362B4E314C07CF5D3CBFCF2B8564": "Confirmar",
+    "0D2EB57D4E86544BC47CF7BB02D4E770": "Iniciando",
+    "06F9A4C6444227E0274EE082534C4D12": "¡De viaje!",
+    "27BF20E04F7313806ED0A18E986E5E94": "¡De viaje!",
+    "61FC8F994CBAFDF04789B5A2F1650577": "Emparejamiento en curso...",
+    "CB43CD6E434CC0E09961E9AAD9E540BF": "Emparejamiento en curso...",
+    "825EEC3F4DFE93204F8F549A5F577F3F": "No",
+    "0ED593C3455E1F4A2EE8228ADB6A2E61": "Solo el líder puede iniciar el viaje.",
+    "1A5489F940844101D0F5E59CE54599C3": "Preparando viaje...",
+    "45B97BCA4DBE4CE3FC443580ACC1C9CF": "Preparando viaje...",
+    "A775015C4B0E66AB1D85F69DAE4DF36D": "Normal",
+    "FC5EB93A4FDBAF9F2A2591AAD6F63337": "Normal",
+    "A5F12B9344EB798FFD018D98293C0B0A": "Esta experiencia está bloqueada. Tu padre, madre o tutor legal tiene que desbloquearla.",
+    "3A87680D45EB71503B11C08CAF8229D1": "Viajar",
+    "7AD43B1E4849E90D03D52D806CDEAF35": "Viajar ahora",
+    "5FD075A84100DC5F914CE38E533A5DAD": "Desconocido",
+    "07E1DDA44514B147B4F776868EC327F9": "Sí",
+    "08ACBC4541886AE24896F3986DA86576": "El tamaño actual de tu grupo es demasiado grande para esta experiencia",
+    "39BC182346A94BC0B5F98887E14DEDF6": "{Current}/{Max}"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "": {
+    "19ACA3784C9E44E8BE91899105DF6A04": "0",
+    "75E779BC48F72B0FB644BF830A11A1C1": "<Essence_Current>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "9BAE8D574CAD3975632AAB9854E8ABA3": "<Essence_Full>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "E885F4D4445059F3D3E224A08C420745": "Trang Bị Khả Năng",
+    "453CFCA043482357A9490992C2D88E98": "Quay Lại",
+    "A66FFD79437A7C4EE261A58B81F9F1DF": "Đóng",
+    "AC1CC62543EB6DB85055919D0313B288": "Công Thức Chế Tạo",
+    "00B7D9BF432BC3CE81140CA02785CD37": "Tinh Chất",
+    "FEFB063C42905A6210A5C4A1614916D5": "Anh Hùng",
+    "71F083C3404AB8E3A747779A7EF01671": "Thông Thạo Anh Hùng bao gồm các công thức chế tạo <Research>Vũ Khí Anh Hùng</> và các vật phẩm <Research>Trang Bị Khả Năng</>, cũng như các <Research>Hiệu Ứng Nội Tại</>.\n\nSử dụng Tinh Chất thu thập được để Tìm Hiểu về một vật phẩm, rồi đáp ứng các yêu cầu để Mở Khóa nó! Các công thức đã mở khóa có thể dùng để chế tạo ở <Research>Công Xưởng Anh Hùng</>, có được từ việc thu thập đá hoa cương và lắp ráp từ <Research>Menu Lắp Ráp</>.\n\nMột khi Đã Mở Khóa, các <Research>Hiệu Ứng Nội Tại</> sẽ tự động được áp dụng cho các vũ khí chỉ định miễn là chúng đáp ứng yêu cầu về độ hiếm của Hiệu Ứng.",
+    "0B32CD5A4ED05EFBDBB0259E89474222": "Học",
+    "2DD93B44441F8685E6012DBFFA0D3C6F": "Cấp {Curr}/{Max}",
+    "27FD1DCD43DFFEB7F45E40B1C2D89659": "Đã Thành Thạo!",
+    "6B280313437D1F92980653BB23B1B8A3": "Thông Thạo",
+    "8622C6FC44D18974363C8F9DF2210E6D": "Có Mục Thông Thạo Khả Dụng!",
+    "9E62741E4D0B658A763EC8B9E897BB03": "Có Mục Thông Thạo Khả Dụng!",
+    "955710F848FC692B0D6F6C85659B6228": "Thêm nhiều nhánh Thông Thạo sắp ra mắt!",
+    "177907084ED421444E82248E1A639E08": "Mới!",
+    "F2A2739A40218E238C686D84E34CB03B": "Odyssey",
+    "8452A3A346AD7425CC6AAFA6B0535F32": "Hiệu Ứng Nội Tại",
+    "850AC88E4A827A0FFF643EBA4C1DDB50": "Nghiên Cứu",
+    "7A2D475343B4E45A60D5CABB82E919AD": "<Research>Hiệu Ứng Nội Tại</> này sẽ áp dụng cho <Research>Trang Bị Khả Nănq {Theme} </> được trang bị với độ hiếm bất kỳ.",
+    "5A23004B4E60012AC25115820A8CDEDA": "<Research>Hiệu Ứng Nội Tại</> này sẽ áp dụng cho <Research>{Theme} Vũ Khí</> được trang bị với độ hiếm bất kỳ.",
+    "28988A8049879442C9F30EBDAD228E26": "Yêu Cầu Để Mở Khóa:",
+    "73C4C01F44D1CD89BA3C2C9B834E3D0F": "Mở khóa khả năng để chế tạo <ItemName>{ItemName}.</>",
+    "3F95333544CE1E9B8F7B5C86225E2168": "Vũ Khí",
+    "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
+    "E94F82024EF41828E5066E94805EFC16": "Có {Num}",
+    "FB1530584BB53CC80CA5F7B059A572E0": "Có {Num}"
+  }
+}

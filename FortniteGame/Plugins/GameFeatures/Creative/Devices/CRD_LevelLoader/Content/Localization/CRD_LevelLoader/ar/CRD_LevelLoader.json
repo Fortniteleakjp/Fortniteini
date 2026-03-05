@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "جهاز محمل المستوى",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "جهاز محمل المستوى",
+    "6290D58B473E479F05752B83814E9464": "يحمّل جهاز محمّل المستوى المستويات التي صُممت في جهاز حالة المستوى ويسمح لك بوضعها أو تدويرها في أي مكان على جزيرتك، ويشمل ذلك وضعها فوق أجهزة محمّل مستوى أخرى.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "يحمّل جهاز محمّل المستوى المستويات التي صُممت في جهاز حالة المستوى ويسمح لك بوضعها أو تدويرها في أي مكان على جزيرتك، ويشمل ذلك وضعها فوق أجهزة محمّل مستوى أخرى.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "يحمّل جهاز محمّل المستوى المستويات التي صُممت في جهاز حالة المستوى ويسمح لك بوضعها أو تدويرها في أي مكان على جزيرتك، ويشمل ذلك وضعها فوق أجهزة محمّل مستوى أخرى."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "معطّل",
+    "BP_LevelLoaderDevice_C.Disable.Description": "لتعطيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "تمكين",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "تفعيل مع بدء المواجهة",
+    "BP_LevelLoaderDevice_C.Enable.Description": "لتفعيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "اسم حالة المستوى",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "اسم المستوى الذي سيتم تحميله.",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "سواءً كان هذا الجهاز ممكّنًا عند بدء المواجهة أم لا."
+  }
+}

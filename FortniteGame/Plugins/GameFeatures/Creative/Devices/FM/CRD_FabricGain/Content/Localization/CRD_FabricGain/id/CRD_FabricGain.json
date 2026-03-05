@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Sesuaikan volume input audio Patchwork sebelum mengirimnya ke perangkat audio Patchwork lainnya. Saat kamu memiliki paduan dengan beberapa input audio, menerapkan Gain ke sebagian darinya dapat membantu menyeimbangkan setiap volume input dari keseluruhan paduan.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "Sesuaikan volume input audio Patchwork sebelum mengirimnya ke perangkat audio Patchwork lainnya. Saat kamu memiliki paduan dengan beberapa input audio, menerapkan Gain ke sebagian darinya dapat membantu menyeimbangkan setiap volume input dari keseluruhan paduan.",
+    "43690F0542ED4B273A4C72B2627C2936": "Menggandakan volume input audio dengan nilai yang dipilih. Nilai 0 akan membisukan audio. Nilai 2 akan menggandakan volume audio sebanyak dua kali lipat.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Efek Gain Patchwork",
+    "8A62F091464769AD6A2A51B1CECCED46": "Efek Gain Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Efek Gain Patchwork"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Izinkan Akses Cable",
+    "EEnabledOnPhase.Always.DisplayName": "Selalu",
+    "Device_FabricGain_C.AudioIn.DisplayName": "Audio Input",
+    "Device_FabricGain_C.AudioOut.DisplayName": "Audio Keluar",
+    "EEnabledOnPhase.Create Only.DisplayName": "Hanya Buat",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Menentukan apakah Alat Patchwork dapat mengakses port input atau output kabel pada perangkat.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "Menentukan pada fase game mana perangkat akan diaktifkan. Pra-game mencakup semua fase sebelum game dimulai (seperti lobi pra-game atau hitungan mundur sebelum game dimulai). Pengaturan ini tidak memengaruhi Mode Edit.",
+    "Device_FabricGain_C.Disable.DisplayName": "Nonaktifkan",
+    "Device_FabricGain_C.Disable.Description": "Menonaktifkan perangkat saat event terjadi.",
+    "Device_FabricGain_C.Enable.DisplayName": "Aktifkan",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "Diaktifkan pada Fase",
+    "Device_FabricGain_C.Enable.Description": "Mengaktifkan perangkat saat event terjadi.",
+    "Device_FabricGain_C.Gain.DisplayName": "Gain",
+    "Device_FabricGain_C.GainIn.DisplayName": "Gain In",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Hanya Gameplay",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "Info Legal",
+    "EEnabledOnPhase.None.DisplayName": "Tidak Ada",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "Dinonaktifkan",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "Diaktifkan",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "Harap diperhatikan: Penggunaan perangkat audio Patchwork terbatas hanya untuk pembuatan karya musik baru dan orisinal.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "Tombol Daya Input",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Khusus Pra-Game",
+    "Device_FabricGain_C.AudioOut.Description": "Mengatur tujuan untuk kabel Keluar Audio perangkat ini.",
+    "Device_FabricGain_C.AudioIn.Description": "Mengatur input untuk port Audio Input dari perangkat ini.",
+    "Device_FabricGain_C.GainIn.Description": "Mengatur input untuk kenop Gain perangkat ini.",
+    "Device_FabricGain_C.OnDisabled.Description": "Memicu event saat perangkat dinonaktifkan.",
+    "Device_FabricGain_C.OnEnabled.Description": "Memicu event saat perangkat diaktifkan."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "DelMarTools": {
+    "DelMarTools": "เครื่องมือ DelMar"
+  },
+  "UICommands.DelMarTools": {
+    "DummyCommand": "_",
+    "DummyCommand_ToolTip": "_"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "¡Permite que los jugadores cambien de atuendo en la partida!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "¡Permite que los jugadores cambien de atuendo en la partida!",
+    "6858477D482601B747C2A5B828C69E76": "¡Permite que los jugadores cambien de atuendo en la partida!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Cambiar\r\natuendo",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "vestidor",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Vestidor",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Personalizar",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Elimina los jugadores del vestidor al recibir una señal desde el canal seleccionado.",
+    "1F0C513442C1083AE99BE581F865957A": "Elimina al jugador instigador del vestidor al recibir una señal desde el canal seleccionado."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Deshabilitar",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Deshabilita el dispositivo, elimina a todos los jugadores del vestidor y evita que se use.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Habilitar",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Habilitado al inicio de la partida",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Habilita el dispositivo y permite que los jugadores usen el vestidor.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Oculta el ícono del HUD cuando se establece en Falso.",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "Al entrar el jugador",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Al salir el jugador",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Eliminar todos los jugadores",
+    "C8A4072D491C9059C5CFF1854936E573": "Eliminar jugador instigador",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Mostrar baliza del HUD",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Indica cuando un jugador entra en el dispositivo vestidor.",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Indica cuando un jugador sale del dispositivo vestidor.",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Establece si este dispositivo está habilitado cuando empieza la partida."
+  }
+}

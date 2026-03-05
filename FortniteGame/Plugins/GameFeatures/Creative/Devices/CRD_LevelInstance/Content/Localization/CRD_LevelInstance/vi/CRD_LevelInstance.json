@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "Một thùng chứa cho phép bạn lưu trữ và đặt đạo cụ liên quan đến nhau kiểu bộ sưu tập.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "Một thùng chứa cho phép bạn lưu trữ và đặt đạo cụ liên quan đến nhau kiểu bộ sưu tập.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "Một thùng chứa cho phép bạn lưu trữ và đặt đạo cụ liên quan đến nhau kiểu bộ sưu tập.",
+    "B83B1047441082FB019A61A98B6D0581": "Sáng Tạo Vô Biên",
+    "5407FED74DA205FC418FA485B7622650": "Chỉnh Sửa Được",
+    "3D5826A149B0F5277962A9A36BFFE13F": "Chỉnh Sửa",
+    "78335B4046FF677AC12593921618222C": "Lỗi",
+    "4AA32A31415D1CEE34CCED9C69768627": "Thiết Bị Phó Bản Cấp Độ Chơi",
+    "85848E934539608AA1BD9D834830CA76": "Thiết Bị Phó Bản Cấp Độ Chơi",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "Đã Khóa",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "Đã Đặt",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "Đang Đặt"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "Tùy chọn này sẽ xoá nội dung của tất cả thiết bị hiện đang tham khảo cấp độ chơi này."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "Bộ Sưu Tập Nội Dung",
+    "BP_LevelInstanceDevice_C.EditState.Description": "Xác định liệu vật thể có thể được thêm vào cấp độ chơi này không.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "Tắt",
+    "BP_LevelInstanceDevice_C.Disable.Description": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "Chỉnh Sửa Trạng Thái",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "Chỉnh Sửa Được",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "Bật",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "Bật Khi Bắt Đầu Trận",
+    "BP_LevelInstanceDevice_C.Enable.Description": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "Chiều Sâu Cấp Độ Chơi",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "Chiều Cao Cấp Độ Chơi",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "Tên Phó Bản Cấp Độ Chơi",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "Chiều Rộng Cấp Độ Chơi",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "Đã Khóa",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "Tên của cấp độ chơi sẽ được tải.",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "Chặn nội dung không tương thích với lựa chọn để không bao gồm các nội dung này trong phó bản cấp độ chơi.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "Chiều sâu của sàn cấu trúc theo ô. \n\nCẢNH BÁO: Giảm kích cỡ có thể xoá mất những đạo cụ không còn ở trong phạm vi sàn.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "Chiều cao của sàn cấu trúc theo ô. \n\nCẢNH BÁO: Giảm kích cỡ có thể xoá mất những đạo cụ không còn ở trong phạm vi sàn.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "Chiều rộng của sàn cấu trúc theo ô. \n\nCẢNH BÁO: Giảm kích cỡ có thể xoá mất những đạo cụ không còn ở trong phạm vi sàn.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "Thiết bị này có được bật khi bắt đầu trận hay không."
+  }
+}

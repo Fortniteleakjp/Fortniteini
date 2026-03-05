@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "Clap de cinéma",
+    "56A03FF7436EC20DE829418960AB9A08": "Clap de cinéma",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "Compte à rebours",
+    "54EF511B43B2E65B7886F99DA6DD9816": "Compte positif",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "Désactivé",
+    "AE5B62204B1FB18FD103519F4F38C337": "Si défini, ce clap de cinéma n'enverra un signal que si le flux qui atteint le minutage est le flux indiqué.",
+    "77D7DD294A81C19292A44388D4D1A105": "Flux invalide",
+    "15CAFDE0497C42D493DB10828B7326A0": "Envoie un signal quand la vidéo en cours de lecture atteint le minutage défini.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "Envoie un signal quand le flux diffusé atteint un point de sa lecture.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "Définit si le clap de cinéma sera un compte à rebours (jusqu'à 0) ou positif (jusqu'au minutage défini).",
+    "47A0B0E747D41C694384768BB2B392E6": "Flux indiqué",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "Temps (millisecondes)",
+    "2ED1F344488EB2612D092586C1725442": "Temps (minutes)",
+    "5750BFD542FFB083102152A0A1BC2154": "Temps (secondes)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "Sens du compte",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "Transmettre en atteignant le minutage",
+    "FF2400934566662794B5DB97A137A842": "Quand le temps de cet appareil est écoulé, transmet un signal sur ce canal.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0}ms",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0}s",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "Désactiver",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "Désactive l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "Activer",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "Active l'appareil à la réception d'un signal depuis le canal sélectionné.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "Quand le temps est écoulé",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "Quand le temps de cet appareil est écoulé, transmet un signal sur ce canal."
+  }
+}

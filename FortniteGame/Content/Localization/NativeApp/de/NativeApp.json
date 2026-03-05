@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "Kopie von {0}"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Doppeleliminierung",
+    "Down": "Am Boden",
+    "DebugLoadContentFail": "Herunterladen fehlgeschlagen",
+    "Eliminated": "Eliminiert",
+    "Elimination": "Eliminierung",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Sitzung beenden",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "Der Wechsel zum Hauptmenü ist in einer UEFN-Mobile-Sitzung nicht erlaubt.",
+    "UEFNMobileSessionMainMenuError_Title": "Mobile-Sitzung",
+    "MultiElimination": "Mehrfacheliminierung",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Etwas ist schiefgelaufen. Mobile-Sitzung wird nun beendet",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Etwas ist schiefgelaufen: {Reason} Mobile-Sitzung wird nun beendet",
+    "TripleElimination": "Dreifacheliminerung",
+    "Win": "Sieg",
+    "UEFNMobileSessionMainMenu_MessageBody": "Du kannst die Fortnite-Lobby nicht betreten, während du in einer Mobile-Sitzung bist. Möchtest du sie beenden?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Bei der Wiedergabe der Wiederholung ist ein Fehler aufgetreten."
+  },
+  "SpriteCategory": {
+    "Lighting": "Lichtverhältnisse"
+  }
+}

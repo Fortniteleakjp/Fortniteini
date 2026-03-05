@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "多個值",
+    "NoComponent": "無",
+    "ConvertSelectedActorsToIAsText": "[Juno] 轉換{0}為實例化對象"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "已處理對象路徑的特性'{0}'、已處理列名稱'{1}'及/或代表'{2}'與其他特性名稱發生衝突",
+    "JunoResolveBiomeIngredients_Output": "R\"docs（新增以下特性：{ActorPath}：String：用於生成對象的字串路徑（從表格的列複製）{Representation}：Name：指定建立方式的 EJunoRepresentation 值（從表格的列複製）{RowName}：Float：選定列的名稱。）docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs（讀取空間資料串流上的以下特性：{BiomeTableName}：String：用於讀取地形資料表格的路徑{FilterName}的路徑：Name：選填。若指定，只會選擇與此屬性的值相符的類型名稱的列。{LayerWeight}：Float：選填。若指定，不會使用 'Weight' 行而改用 'LayerWeights' 行，由此值插入。)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs（設定特性能以此複寫：{P0}：名稱{P1}：名稱{P2}：名稱{P3}：名稱{P4}：名稱{P5}：名稱）docs",
+    "UPCGJunoPathfindSettingsShapePin": "進行尋路的形狀（應該是地景！）",
+    "UnableToGetPointData": "無法從輸入取得點資料",
+    "UnableToGetSpatialData": "無法從輸入取得空間資料"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "無法擷取高度貼圖的資料，初始化失敗。",
+    "TextureInitFailed": "無法擷取此貼圖的資料，初始化失敗。",
+    "LandscapeComponentLost": "參考的一或多個地形組件遺失，草地貼圖將無法生成。"
+  }
+}

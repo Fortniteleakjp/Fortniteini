@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Phát lại video theo lịch trình.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Lên lịch trình phát lại video trong UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Lịch Trình Video",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "Lịch Trình Video"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Căn Chỉnh Khi Điền Lịch Trình",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Điều Khiển Trình Phát Video",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Hằng Ngày",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Không lặp lại",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Điền Lịch Trình",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Khoảng Trống Khi Điền Lịch Trình",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Hằng giờ",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Liên kết đến thiết bị phát video sẽ được lịch trình này kiểm soát.",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Lặp Lại Lịch Trình",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Lịch Trình (Thử Nghiệm)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Bắt đầu",
+    "Device_VideoSchedule_Native_C.Start.Description": "Bắt đầu phát lại theo lịch trình video.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Dừng",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Dừng phát lại theo lịch trình video.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Kiểm Tra Chức Năng Nhận Điều Khiển",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Kiểm tra chức năng nhận khả năng điều khiển sự kiện trình phát video.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Lịch trình có được lặp lại hay không"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Ein Gerät, das es Spielern erlaubt, Modifikationen für modifizierbare Waffen zu kaufen und zu installieren oder sie zu entfernen.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Ein Gerät, das es Spielern erlaubt, Modifikationen für modifizierbare Waffen zu kaufen und zu installieren oder sie zu entfernen. Lasse einen Gegenstand auf das Gerät fallen, um die benötigte Währung zu bestimmen.",
+    "C71343894A060847493A649689759A65": "Eine Reihe von Koffern, mit denen man interagieren kann, um modifizierte Waffen zu spawnen.",
+    "460F73D54CB382F639D9F28B319DB307": "ANPASSEN ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Mod-Werkbank verwenden nicht möglich",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Credits",
+    "53C6F3F34E06E917D367268882E08D87": "Bestimmt die Währung, die für die Modifikation einer Waffe benötigt wird.",
+    "A30B8506487121E7C4E703A5629FBE05": "Ausschalten bei Empfang von",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Ausgeschaltet",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Schaltet das Gerät aus, wodurch Modifikationen nicht mehr gekauft oder entfernt werden können.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Einschalten bei Empfang von",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Schaltet das Gerät ein und ermöglicht es den Spielern, mit dem Grinden anzufangen.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Koffer mit modifizierter Waffe – Galerie",
+    "0B7642504100909455884BA8ECBE7AD4": "Waffen-Mod-Werkbank",
+    "1EBC090141D82557511D43B7E5342FD4": "Waffen-Mod-Werkbank"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Erlaubte Klasse",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Erlaubtes Team",
+    "ECreativeClassType.Any.DisplayName": "Jede",
+    "ECreativeTeamType.Any.DisplayName": "Jedes",
+    "ClassSlotMetaData.DisplayPattern": "Klasse {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Bestimmt, ob der Häufigkeitsgrad des Gegenstands Spielern angezeigt wird, wenn diesen noch Ressourcen fehlen.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Bestimmt, ob dieses Gerät eingeschaltet sein soll, wenn das Minispiel startet.",
+    "Device_WeaponModBench_C.ModCost.Description": "Bestimmt, wie viel es kostet, eine Modifikation bei einer modifizierbaren Waffe zu installieren. Dieser Wert gilt für alle auswählbaren Modifikationen. Bei „Nicht überschreiben“ werden die Kosten aus Battle Royale verwendet, die sich möglicherweise ändern können.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Bestimmt, welche Klasse die Mod-Werkbank benutzen kann.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Bestimmt, welches Team die Mod-Werkbank benutzen kann.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Ausschalten",
+    "Device_WeaponModBench_C.Disable.Description": "Schaltet das Gerät aus, wodurch Modifikationen nicht mehr gekauft oder entfernt werden können.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Einschalten",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Eingeschaltet bei Minispielstart",
+    "Device_WeaponModBench_C.Enable.Description": "Schaltet das Gerät ein und erlaubt das Kaufen und Entfernen von Modifikationen.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Bei Aktivierung erlaubt das Gerät alle Klassen abgesehen von der Klasse unter „Erlaubte Klasse“.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Bei Aktivierung erlaubt das Gerät alle Teams abgesehen vom Team unter „Erlaubtes Team“.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Klassenauswahl umkehren",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Teamauswahl umkehren",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Modifikationskosten",
+    "ECreativeClassType.NoClass.DisplayName": "Ohne Klasse",
+    "BoolMetaData.FalseDisplayName": "Aus",
+    "BoolMetaData.TrueDisplayName": "Ein",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Gegenstandshäufigkeitsgrad anzeigen bei „Fehlende Gegenstände“-Eingabeaufruf",
+    "TeamIndexMetaData.DisplayPattern": "Team {0}"
+  }
+}

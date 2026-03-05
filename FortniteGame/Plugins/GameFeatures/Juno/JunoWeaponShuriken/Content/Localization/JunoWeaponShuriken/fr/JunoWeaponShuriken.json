@@ -1,0 +1,50 @@
+{
+  "": {
+    "67320F2F4EF316AB1ACEC181C9402FA1": "Lames",
+    "D96EFA7940C10FEA5ADD5A8E6814AB3E": "Que fait un chou après avoir entendu une blague ? Le chou ricane !",
+    "E97D828E401794E0E6035D9F0052C954": "Que fait un chou après avoir entendu une blague ? Le chou ricane !",
+    "11D19E87472E5A93C8E03DBB47CBB549": "Centre",
+    "5BE5CA8F476A74105C2107A1D1BE363F": "Un shuriken typique. Étoile de jet acérée très appréciée des ninjas. ",
+    "492E847A4056722468D9F1B7CAFE388C": "Shuriken épique. Étoiles de jet acérées très appréciées des ninjas.",
+    "18FA88BF49B66EA60C8D60B46BC1B3AC": "Se trouve dans l'onglet Maîtrises ninjas. ",
+    "6F05C4FC4D58CB2C77D1698AE043E597": "Se trouve dans l'onglet Maîtrises ninjas. ",
+    "86F5523A4B77B62BB87DB897E5AB31EC": "Se trouve dans l'onglet Maîtrises ninjas. ",
+    "90D66A5C4C2F770E96FD9F86F79D58A5": "Se trouve dans l'onglet Maîtrises ninjas. ",
+    "810270FA4C6EA512EA96118BC032FE27": "Shuriken légendaire. Étoiles de jet acérées très appréciées des ninjas.",
+    "3BD009B74B9055B4FEAE85A01DE4E0E9": "C'est comme un Spinjitzu de la tornade, mais à lancer.",
+    "88A8547E4AFE4F1D8470E5A08F7EB884": "Shuriken rare. Étoiles de jet acérées très appréciées des ninjas.",
+    "1621FE2D4F6EB770ED345BACD8F069CB": "Idéal pour mettre vos ennemis sur le fil du rasoir.",
+    "7A9A3E76432BF59F037B7B809A42F41F": "Un chasseur sachant chasser doit savoir chasser sans son shuriken.",
+    "0100F12640782A81255181BBEFF5BFA7": "Armes de jet",
+    "425BA21942D3D6689773D686AD7EF2F7": "Armes de jet",
+    "C2D4C9C84D1110C483A711AAD3729A20": "Armes de jet",
+    "D751132B427D4ECA77992D8D271A891D": "Armes de jet",
+    "E3FBFE784A2317E78F83BFAE859D2A69": "Armes de jet",
+    "960E82854A9E861824DCA9BA7AC83EE4": "Shuriken atypique. Étoiles de jet acérées très appréciées des ninjas."
+  },
+  "Juno_BoostedItemNames_Shuriken": {
+    "Shuriken_T5_T5_Honed_Bamboo_DisplayName": "Shuriken en bambou",
+    "Shuriken_T6_T6_Honed_Bamboo_DisplayName": "Shuriken en bambou",
+    "Shuriken_T7_T7_Honed_Bamboo_DisplayName": "Shuriken en bambou",
+    "Shuriken_T8_T8_Honed_Bamboo_DisplayName": "Shuriken en bambou",
+    "Shuriken_T7_T7_Honed_Dragon_Opal_DisplayName": "Shuriken en opale draconique",
+    "Shuriken_T8_T8_Honed_Dragon_Opal_DisplayName": "Shuriken en opale draconique",
+    "Shuriken_T5_T5_Honed_Kozustone_DisplayName": "Shuriken en kozulithe",
+    "Shuriken_T6_T6_Honed_Kozustone_DisplayName": "Shuriken en kozulithe",
+    "Shuriken_T7_T7_Honed_Kozustone_DisplayName": "Shuriken en kozulithe",
+    "Shuriken_T8_T8_Honed_Kozustone_DisplayName": "Shuriken en kozulithe",
+    "Shuriken_T6_T6_Honed_Steel_DisplayName": "Shuriken en acier",
+    "Shuriken_T7_T7_Honed_Steel_DisplayName": "Shuriken en acier",
+    "Shuriken_T8_T8_Honed_Steel_DisplayName": "Shuriken en acier"
+  },
+  "Juno_CBCFormulas_Shuriken": {
+    "Shuriken_DisplayName": "Shuriken"
+  },
+  "Juno_UpdateItemData": {
+    "3EB23374462AD1A4264B89B674069060": "Shuriken",
+    "863A6B134C12EED19BFA259464C5BC28": "Shuriken",
+    "DF616BC44AB6277D45CD3FAC66107E74": "Shuriken",
+    "E44D5CCF4255E842F3333B838A8725C8": "Shuriken",
+    "E8493B554EBD22EAD4974CA8D18255ED": "Shuriken"
+  }
+}

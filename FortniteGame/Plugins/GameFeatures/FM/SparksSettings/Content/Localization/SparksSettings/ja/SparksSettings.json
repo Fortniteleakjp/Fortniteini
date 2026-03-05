@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>オフ</>: ダンスエモートが通常速度で再生され、エモートの音楽もジャムトラックに重ねて再生されます。",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>オン</>: ダンスエモートがジャムトラックのビートに同期し、エモートの音楽はミュートされます。",
+    "JamTrackAudioTabName": "ジャムトラック",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "自分のダンスエモートをジャムトラックにシンクロさせる",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "この設定は、ジャムトラック再生中のダンスエモートの挙動を変更します。"
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "Festivalのゲームプレイミュージックの音量を調整します。",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "ミュージック - Festival"
+  }
+}

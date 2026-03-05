@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "一個環境道具，當遭到摧毀時會對周圍施加氮氣效果。",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "一個環境道具，當遭到摧毀時會對周圍施加氮氣效果。",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "一個環境道具，當遭到摧毀時會對周圍施加氮氣效果。",
+    "30E5234B40854AF182F76E99E0005299": "自訂氮氣罐",
+    "3A16E0DE435CF07612216D94958139C0": "從此接收時停用",
+    "A17C5EC645C874D630065CA36AD5AB43": "從選定頻道接收時停用裝置。",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "從此接收時啟用",
+    "6480B4A0446374163AA14886F9A0633A": "從選定頻道接收時啟用裝置。",
+    "D668B93241E5952E0B0D7C9F45C0B037": "立即",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "氮氣罐",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "氮氣罐",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "罐子爆炸時",
+    "6DE8D3364821C2389FC94292884E08A9": "發射罐子時",
+    "ED148DE148299AEB76E8C1AF05838DC0": "罐子爆炸時觸發。",
+    "3A1B14E145478FEACE47E0B8E1360191": "罐子開始發射時觸發。",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=秒, other=秒)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "允許罐子重生",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "罐子爆炸後，允許其在 RespawnDelay 後重生。",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "決定罐子重生所需的時間。",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "決定罐子在遊戲中爆炸時，裝置是否應該重生罐子。",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "決定應用在罐子發射的力道倍率。",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "決定在遊戲開始時，這個罐子是否啟用且可見。",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "停用裝置",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "停用並隱藏罐子。",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "禁止罐子重生",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "啟用裝置",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "啟用並顯示罐子。",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "發射力道倍率",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "罐子爆炸時",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "發射罐子時",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "禁止罐子重生。RespawnDelay 倒數不會啟動。若倒數已開始，則結束時也不會重生罐子。",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "重生延遲",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "應重生",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "開始時啟用",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "當罐子爆炸時觸發。",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "發射罐子時觸發。"
+  }
+}

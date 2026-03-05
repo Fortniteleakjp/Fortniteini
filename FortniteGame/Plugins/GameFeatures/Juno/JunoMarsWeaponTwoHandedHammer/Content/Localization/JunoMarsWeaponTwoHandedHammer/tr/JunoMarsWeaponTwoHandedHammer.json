@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Odak",
+    "43F09C044AF62206095CF781534EA856": "Sap",
+    "E6B68B79478A46E9684822B2F134867F": "Baş",
+    "DB549DF44E248CF55461B2BF32444D9A": "Çentik"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Kehribar Savaş Çekici",
+    "War_Hammer_T5_Amber_DisplayName": "Kehribar Savaş Çekici",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Barut Savaş Çekici",
+    "War_Hammer_T1_Bone_DisplayName": "Kemik Savaş Çekici",
+    "War_Hammer_T2_Brightcore_DisplayName": "İçiparlak Savaş Çekici",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Pençe Savaş Çekici",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Pençe Savaş Çekici",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Pençe Savaş Çekici",
+    "War_Hammer_T3_Copper_DisplayName": "Bakır Savaş Çekici",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Lanetli Savaş Çekici",
+    "War_Hammer_T4_Emerald_DisplayName": "Zümrüt Savaş Çekici",
+    "War_Hammer_T5_Emerald_DisplayName": "Zümrüt Savaş Çekici",
+    "War_Hammer_T1_Flexwood_DisplayName": "Esnek Odun Savaş Çekici",
+    "War_Hammer_T1_Frostpine_DisplayName": "Buzçamı Savaş Çekici",
+    "War_Hammer_T1_Glass_DisplayName": "Cam Savaş Çekici",
+    "War_Hammer_T3_Gold_DisplayName": "Altın Savaş Çekici",
+    "War_Hammer_T2_Granite_DisplayName": "Granit Savaş Çekici",
+    "War_Hammer_T3_Iron_DisplayName": "Demir Savaş Çekici",
+    "War_Hammer_T1_Knotroot_DisplayName": "Bağkökü Savaş Çekici",
+    "War_Hammer_T1_Mahogany_DisplayName": "Maun Savaş Çekici",
+    "War_Hammer_T2_Malachite_DisplayName": "Malakit Savaş Çekici",
+    "War_Hammer_T2_Marble_DisplayName": "Mermer Savaş Çekici",
+    "War_Hammer_T2_Obsidian_DisplayName": "Obsidiyen Savaş Çekici",
+    "War_Hammer_T2_Redrock_DisplayName": "Kızılkaya Savaş Çekici",
+    "War_Hammer_T4_Ruby_DisplayName": "Yakut Savaş Çekici",
+    "War_Hammer_T5_Ruby_DisplayName": "Yakut Savaş Çekici",
+    "War_Hammer_T2_Sandstone_DisplayName": "Kumtaşı Savaş Çekici",
+    "War_Hammer_T4_Sapphire_DisplayName": "Safir Savaş Çekici",
+    "War_Hammer_T5_Sapphire_DisplayName": "Safir Savaş Çekici",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Parçalıboynuz Savaş Çekici",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Parçalıboynuz Savaş Çekici",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Fırtına Savaş Çekici",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Fırtına Muhafızı Savaş Çekici",
+    "War_Hammer_T1_Wood_DisplayName": "Ahşap Savaş Çekici"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Savaş Çekici"
+  }
+}

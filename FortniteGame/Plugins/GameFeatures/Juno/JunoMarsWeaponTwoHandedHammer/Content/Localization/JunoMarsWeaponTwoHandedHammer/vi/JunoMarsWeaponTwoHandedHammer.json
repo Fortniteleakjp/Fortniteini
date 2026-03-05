@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Tâm Điểm",
+    "43F09C044AF62206095CF781534EA856": "Cán rìu",
+    "E6B68B79478A46E9684822B2F134867F": "Đầu",
+    "DB549DF44E248CF55461B2BF32444D9A": "Cặp Bổ Đôi"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Búa Chiến Hổ Phách",
+    "War_Hammer_T5_Amber_DisplayName": "Búa Chiến Hổ Phách",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Búa Chiến Nổ",
+    "War_Hammer_T1_Bone_DisplayName": "Búa Chiến Xương",
+    "War_Hammer_T2_Brightcore_DisplayName": "Búa Chiến Tươi Sáng",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Búa Chiến Móng Vuốt",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Búa Chiến Móng Vuốt",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Búa Chiến Móng Vuốt",
+    "War_Hammer_T3_Copper_DisplayName": "Búa Chiến Đồng",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Búa Chiến Bị Nguyền",
+    "War_Hammer_T4_Emerald_DisplayName": "Búa Chiến Ngọc Lục Bảo",
+    "War_Hammer_T5_Emerald_DisplayName": "Búa Chiến Ngọc Lục Bảo",
+    "War_Hammer_T1_Flexwood_DisplayName": "Búa Chiến Gỗ Đa Năng",
+    "War_Hammer_T1_Frostpine_DisplayName": "Búa Chiến Gỗ Thông Băng Giá",
+    "War_Hammer_T1_Glass_DisplayName": "Búa Chiến Thủy Tinh",
+    "War_Hammer_T3_Gold_DisplayName": "Búa Chiến Vàng",
+    "War_Hammer_T2_Granite_DisplayName": "Búa Chiến Đá Hoa Cương",
+    "War_Hammer_T3_Iron_DisplayName": "Búa Chiến Sắt",
+    "War_Hammer_T1_Knotroot_DisplayName": "Búa Chiến Gỗ Xoắn",
+    "War_Hammer_T1_Mahogany_DisplayName": "Búa Chiến Gỗ Gụ",
+    "War_Hammer_T2_Malachite_DisplayName": "Búa Chiến Đá Khổng Tước",
+    "War_Hammer_T2_Marble_DisplayName": "Búa Chiến Đá Cẩm Thạch",
+    "War_Hammer_T2_Obsidian_DisplayName": "Búa Chiến Hắc Diện Thạch",
+    "War_Hammer_T2_Redrock_DisplayName": "Búa Chiến Đá Đỏ",
+    "War_Hammer_T4_Ruby_DisplayName": "Búa Chiến Hồng Ngọc",
+    "War_Hammer_T5_Ruby_DisplayName": "Búa Chiến Hồng Ngọc",
+    "War_Hammer_T2_Sandstone_DisplayName": "Búa Chiến Sa Thạch",
+    "War_Hammer_T4_Sapphire_DisplayName": "Búa Chiến Bảo Thạch",
+    "War_Hammer_T5_Sapphire_DisplayName": "Búa Chiến Bảo Thạch",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Búa Chiến Sừng Vụn",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Búa Chiến Sừng Vụn",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Búa Chiến Bão",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Búa Chiến Hộ Vệ Bão",
+    "War_Hammer_T1_Wood_DisplayName": "Búa Chiến Gỗ"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Búa Chiến"
+  }
+}

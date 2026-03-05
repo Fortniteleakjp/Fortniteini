@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "Use alguns sempre que quiser um empurrãozinho. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "Um impulso extra nunca faz mal!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "Afixa propulsores grandes em estruturas e objetos dinâmicos.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "Afixa propulsores pequenos em estruturas e objetos dinâmicos.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "Propulsor\nGrande",
+    "5E9A371D43E076126910D39AF338F4B5": "Propulsor\nPequeno"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "Propulsor\nGrande",
+    "RemoteThruster_DisplayName": "Propulsor\nPequeno"
+  }
+}

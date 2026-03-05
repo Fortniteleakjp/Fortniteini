@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno 地形カスタムマテリアル"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "Juno景観素材の表現式を有効化"
+  },
+  "JunoLandscape": {
+    "Juno": "Juno"
+  }
+}

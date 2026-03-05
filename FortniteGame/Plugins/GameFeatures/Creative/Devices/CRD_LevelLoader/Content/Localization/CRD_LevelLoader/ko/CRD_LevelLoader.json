@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "레벨 로더 장치",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "레벨 로더 장치",
+    "6290D58B473E479F05752B83814E9464": "레벨 로더 장치는 레벨 인스턴스 장치로 생성한 레벨을 로드하고, 섬에서 어디에든 배치하고 회전시켜 줍니다. 다른 레벨 로더 장치 위에 놓을 수도 있습니다.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "레벨 로더 장치는 레벨 인스턴스 장치로 생성한 레벨을 로드하고, 섬에서 어디에든 배치하고 회전시켜 줍니다. 다른 레벨 로더 장치 위에 놓을 수도 있습니다.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "레벨 로더 장치는 레벨 인스턴스 장치로 생성한 레벨을 로드하고, 섬에서 어디에든 배치하고 회전시켜 줍니다. 다른 레벨 로더 장치 위에 놓을 수도 있습니다."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "사용 안 함",
+    "BP_LevelLoaderDevice_C.Disable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "사용",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "게임 시작 시 사용",
+    "BP_LevelLoaderDevice_C.Enable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "레벨 인스턴스 이름",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "불러올 레벨의 이름입니다.",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "게임을 시작했을 때 이 장치의 사용 상태를 설정합니다."
+  }
+}

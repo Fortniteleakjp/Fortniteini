@@ -1,0 +1,23 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "فشل إتمام عملية الشراء؛ لدى المستخدم معاملة جارية.",
+    "ErrorPurchaseNotAllowed": "فشل إتمام عملية الشراء؛ غير مسموح للمستخدم بالشراء.",
+    "ErrorNoUIHandler": "فشل عرض واجهة المستخدم لتدفق عمليات الشراء."
+  },
+  "McpQueryResult": {
+    "GenericError": "وقع خطأ أثناء الاتصال بخوادم اللعبة ({0}).",
+    "GenericHTTPError": "حدث خطأ أثناء التواصل مع خوادم اللعبة:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "فشل الاتصال بالخادم.",
+    "JsonError": "خطأ في الخادم من النوع {0}",
+    "InvalidJson": "لا يمكن تحليل رد الخادم. JSON سيء. خطأ {0}",
+    "NonObjectJson": "لا يمكن تحليل رد الخادم. كائن ليس JSON."
+  },
+  "OnlineFriend": {},
+  "OnlineIdentity": {},
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "لا يمكن تحليل الإيصالات من خدمة الشراء."
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "Epic Games"
+  }
+}

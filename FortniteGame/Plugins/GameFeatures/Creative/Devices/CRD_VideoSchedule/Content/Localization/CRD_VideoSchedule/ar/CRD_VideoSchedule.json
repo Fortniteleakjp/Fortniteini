@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "تشغيل الفيديو وفقًا لجدول زمني.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "تحديد موعد تشغيل الفيديو في UEFN.",
+    "04683984415B4636C2EF72B51E178286": "الجدول الزمني لمقاطع الفيديو",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "الجدول الزمني لمقاطع الفيديو"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "محاذاة عند ملء الجدول",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "التحكم في مشغل فيديو",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "يومي",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "عدم التكرار",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "ملء الجدول",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "فارق عند ملء الجدول",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "كل ساعة",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "رابط جهاز مشغل الفيديو الذي يجب أن يتحكم فيه هذا الجدول.",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "تكرار الجدول",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "الجدول (اختبار)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "بدء",
+    "Device_VideoSchedule_Native_C.Start.Description": "يبدأ تشغيل جدول زمني لفيديو.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "توقف",
+    "Device_VideoSchedule_Native_C.Stop.Description": "إيقاف تشغيل جدول الفيديو.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "تلقي اختبار التحكم",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "اختبار الوظائف لتلقي حدث التحكم في مشغل الفيديو.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "ما إذا كان يجب تكرار الجدول أم لا"
+  }
+}

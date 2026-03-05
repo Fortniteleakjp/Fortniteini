@@ -1,0 +1,41 @@
+{
+  "": {
+    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
+    "2526E3264410B707308E20B8534279DB": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
+    "31A9F48344282DCF8F65FE8B306F22C8": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
+    "A0E91B49404BEF991ACE78A035FB9FA5": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
+    "0BF1727A4D90DCAEE14B258CC4212DE3": "Pistole al plasma epiche. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "BAAFC86C4534ACB06CC80994621448C0": "Pistole al plasma leggendarie. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "44C70BA449A264B9703BCEABB9D340A3": "Ambarabà ciccì BUM BUM!",
+    "422220DB4E40F60B63AEEFAE27DEA53E": "Fucile a distanza",
+    "599752D6488B6EC23EC0C68BED53ED65": "Fucile a distanza",
+    "62257ECA477347F53A1A868296689A18": "Fucile a distanza",
+    "EA747D1E453DCB0F43A86580E4B5C092": "Fucile a distanza",
+    "BF1756B943F369BD9986D993E258750C": "Pistole al plasma rare. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "ADCCA19C4060AFD909BE87A5893C2CE0": "Pistole al plasma non comuni. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "46AA227040F5CC18B31C5CB3B87F2B93": "Brrrrr ZIP-BUM!",
+    "0CD3C87C459B141BAA857593CCFE8EF6": "BRRRR-ZAP!",
+    "EFE2F67D4FE0515AF526C1898CC016BD": "Zzzzz-BAM!"
+  },
+  "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
+    "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "Pistole al plasma di bambù",
+    "Plasma_Pistols_T6_T6_Honed_Bamboo_DisplayName": "Pistole al plasma di bambù",
+    "Plasma_Pistols_T7_T7_Honed_Bamboo_DisplayName": "Pistole al plasma di bambù",
+    "Plasma_Pistols_T8_T8_Honed_Bamboo_DisplayName": "Pistole al plasma di bambù",
+    "Plasma_Pistols_T7_T7_Honed_Dragon_Opal_DisplayName": "Pistole al plasma di opale di drago",
+    "Plasma_Pistols_T8_T8_Honed_Dragon_Opal_DisplayName": "Pistole al plasma di opale di drago",
+    "Plasma_Pistols_T5_T5_Honed_Kozustone_DisplayName": "Pistole al plasma di pietra Kozu",
+    "Plasma_Pistols_T6_T6_Honed_Kozustone_DisplayName": "Pistole al plasma di pietra Kozu",
+    "Plasma_Pistols_T7_T7_Honed_Kozustone_DisplayName": "Pistole al plasma di pietra Kozu",
+    "Plasma_Pistols_T8_T8_Honed_Kozustone_DisplayName": "Pistole al plasma di pietra Kozu",
+    "Plasma_Pistols_T6_T6_Honed_Steel_DisplayName": "Pistole al plasma d'acciaio",
+    "Plasma_Pistols_T7_T7_Honed_Steel_DisplayName": "Pistole al plasma d'acciaio",
+    "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "Pistole al plasma d'acciaio"
+  },
+  "Juno_UpdateItemData": {
+    "154D52A747D30B2EAFA712A289645F6D": "Pistole al plasma",
+    "61FD372A4CB97B18D20D6FA5761F7026": "Pistole al plasma",
+    "7B04D8D34F9407730A1CDB9CE3F62067": "Pistole al plasma",
+    "E4EF40D34E94A918540D478454F8A407": "Pistole al plasma"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "": {
+    "44B83EF64E3ECF914A3189897E8AE9F4": "Delirium",
+    "495014B74039223B7F55AD8330B15F67": "Mengemudi melewati bangunan - tidak dibutuhkan untuk gameplay, <br>tetapi ingin mengarahkan pemain secara visual ke ruang <br>yang lebih sempit dan penuh bangunan untuk dilewati sehingga memberi sensasi kecepatan",
+    "CF19A8864C019B8D550B59BADE13C8B6": "Jalan pintas terbang menyusuri bangunan -<br>ingin pemain melihat ada ruang di sekitar bangunan <br>dan bisa terbang untuk menyediakan beberapa jalan pintas melewati kota",
+    "3A380EC545BDE8B6BA2B618D5F58B535": "Lanskap bukan area permainan -<br>akan mencegah pemain mengemudi di medan ini <br>(juga akan menyesuaikan Pipa OOB/menambah volume demo",
+    "4A52799741BA2F86D00F808AD7DD601D": "Lanskap bukan area permainan -<br>akan mencegah pemain mengemudi di medan ini <br>(juga akan menyesuaikan Pipa OOB/menambah volume demo",
+    "5F9B0F294EACCD80FF256C9B88FBAA53": "Lanskap bukan area permainan -<br>akan mencegah pemain mengemudi di medan ini <br>(juga akan menyesuaikan Pipa OOB/menambah volume demo",
+    "B16104B543F62AA2E84658983C8E2F2A": "Lanskap bukan area permainan -<br>akan mencegah pemain mengemudi di medan ini <br>(juga akan menyesuaikan Pipa OOB/menambah volume demo",
+    "D509F9B444F464992878918C6B171594": "Jalan pintas lanskap <br>Tidak ingin ini lancar sepenuhnya, <br>tapi bisa lebih lancar daripada saat ini"
+  }
+}

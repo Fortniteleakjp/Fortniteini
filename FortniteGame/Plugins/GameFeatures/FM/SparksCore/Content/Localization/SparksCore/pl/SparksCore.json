@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Wybierz instrument",
+    "E70730D546323455388D0F8862938650": "Wybierz instrument",
+    "94FB361A46082147B697C19A318D8F49": "Wybierz swój utwór",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Pętle jamu",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Ścieżki jamowe",
+    "LockerJamTracksCategory": "Ścieżki jamowe w szafce"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Ścieżka jamowa"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Codzienne Klimaty",
+    "setlist_1_title": "Codzienne Klimaty",
+    "setlist_title_1": "Codzienne Klimaty",
+    "daily_1_desc": "Opis Codziennych Klimatów!",
+    "setlist_1_desc": "Opis Codziennych Klimatów!",
+    "setlist_desc_1": "Opis Codziennych Klimatów!",
+    "festival_1_title": "Zestawienie Festiwalowe",
+    "setlist_3_title": "Zestawienie Festiwalowe",
+    "setlist_title_3": "Zestawienie Festiwalowe",
+    "festival_1_desc": "Opis Zestawienia Festiwalowego!",
+    "setlist_3_desc": "Opis Zestawienia Festiwalowego!",
+    "setlist_desc_3": "Opis Zestawienia Festiwalowego!",
+    "setlist_desc_Fortnitemares": "Koszmarów Czar",
+    "setlist_title_Fortnitemares": "Koszmarów Czar",
+    "setlist_2_title": "Setlista W Świetle Reflektorów",
+    "setlist_title_2": "Setlista W Świetle Reflektorów",
+    "spotlight_1_title": "Setlista W Świetle Reflektorów",
+    "setlist_2_desc": "Opis setlisty W Świetle Reflektorów!",
+    "setlist_desc_2": "Opis setlisty W Świetle Reflektorów!",
+    "spotlight_1_desc": "Opis setlisty W Świetle Reflektorów!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Własna setlista",
+    "ProductMode_DisplayName_Setlist1": "Codzienna setlista",
+    "Daily_1_Title": "Codzienne Klimaty",
+    "Daily_1_Desc": "Opis Codziennych Klimatów z tabeli",
+    "Festival_1_Title": "Zestawienie Festiwalowe",
+    "Festival_1_Desc": "Opis Zestawienia Festiwalowego z tabeli",
+    "Default_Title": "Setlista festiwalowa",
+    "ProductMode_DisplayName_Setlist3": "Setlista W Świetle Reflektorów",
+    "Spotlight_1_Title": "Setlista W Świetle Reflektorów",
+    "Spotlight_1_Desc": "Opis setlisty W Świetle Reflektorów z tabeli",
+    "Default_Desc": "TO JEST DOMYŚLNY OPIS SETLISTY!",
+    "ProductMode_DisplayName_Setlist2": "Setlista tygodniowa"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Nazwa wykonawcy",
+    "SparksAvailableFilter": "Dostępne",
+    "SparksDefaultFilter": "Domyślne",
+    "SparksFeaturedSort": "Wyróżnione",
+    "SparksFeaturedFilter": "Nowe i wyróżnione",
+    "SparksOwnedFilter": "Posiadane",
+    "SparksOwnedSort": "Własność",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Pokaż zarchiwizowane",
+    "SparksAlphaSort": "Tytuł utworu (A–Z)",
+    "SparksAlphaSortReverse": "Tytuł utworu (Z–A)"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

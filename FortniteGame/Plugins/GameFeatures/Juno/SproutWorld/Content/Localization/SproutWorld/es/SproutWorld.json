@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "PASO DE CEBRA",
+    "09298F2740CA51082D6CA3991E6A7A43": "Valor monetario: {val} | {perc} % - {spawned}/{total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "ADELANTE",
+    "30DF69ED4AA5D23EEE62998512640D06": "Prepárate",
+    "355F7C204406651F83FF48BA624BD7B3": "Actor de perfil\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "ZONA DE CARRERAS",
+    "F686194549FCDCDE1602BA87F50B713A": "ZONA DE CARRERAS",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "LA CARRERA EMPEZARÁ PRONTO",
+    "8FC27CE746647B26BBBF9782A019AFD4": "LA CARRERA EMPEZARÁ PRONTO",
+    "CA4965C14941F1E3494B759C09C5AA84": "LA CARRERA EMPEZARÁ PRONTO"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "Podio de la victoria",
+    "RaceWinReward_Body": "¡Has sido la persona <b>más rápida</> de Litoral Ladrillo! Enhorabuena por <emphasis>ganar la carrera de rally</>. Muestra esto con orgullo, te lo has ganado.\n- <name>Deriva</>"
+  }
+}

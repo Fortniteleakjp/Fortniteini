@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno 景觀自訂素材"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "啟用 Juno 景觀素材表達式"
+  },
+  "JunoLandscape": {
+    "Juno": "Juno"
+  }
+}

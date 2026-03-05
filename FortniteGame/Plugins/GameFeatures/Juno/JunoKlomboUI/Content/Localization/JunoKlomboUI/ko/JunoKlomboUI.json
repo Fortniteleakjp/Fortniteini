@@ -1,0 +1,29 @@
+{
+  "": {
+    "66154818419BE970410E9AA46BE0EC33": "해변",
+    "3B04DA4A43DB0505833073946BE0E91A": "취소",
+    "B3C2115241A075BB82A745A3241666B5": "충전",
+    "1BA471C04115C1F647866CA5E30F712E": "확인",
+    "FB0CBD6B4DBA137A8A5FF3A049682BF5": "내리기",
+    "8EB05A024E30B03058E9D7B7303C9D4B": "제단의 봉인을 풀기 위해 <ToUpperEmphasis> {ResourceName}을(를) {ResourceCount}(개) 더</> 바치시겠습니까?",
+    "E086D52E4AD9E74DAFFA0B917A5B5F66": "제단의 봉인을 풀기 위해 <ToUpperEmphasis>{ResourceName}을(를) {ResourceCount}개</> 바치시겠습니까?",
+    "80A47EF643DC7A204A4AE889FEA80E6C": "컨트롤 숨기기",
+    "F829A6A642555A53297941B1EF96F45A": "정글",
+    "3D3A30324F017B24F7B916B6107A218F": "클롬보",
+    "A13BC3C84693A9765D9AACAB19275AF1": "점프",
+    "1ACCF6634CB477A4C0A1E280E8BFEC97": "잃어버린 섬",
+    "1C585D5F410E69692075D5982E22F8BD": "잃어버린 섬",
+    "67A8FF8A493260B59A645C99BB4584EF": "잃어버린 섬",
+    "C1E0B58C461632533E3812A1A23D0CCB": "잃어버린 섬",
+    "49734683475414336C91D8AD73FF1E74": "산",
+    "62E2265F42110C238FAC09B9D90C03B7": "평원",
+    "FFDDB40B47F25C29497178ADC3503C49": "균열 제단",
+    "15F73FAE47C2EDCB5A34EFB10FAB8DBE": "컨트롤 보기",
+    "1746A88A4D0A969F41E3A49CA244DCB0": "이 세계에서 설계도가 파괴됩니다.",
+    "FFD701D443F93768BDAD919710452E9B": "흡입",
+    "086D18C74CA99D0CF992BC8F5B677819": "흡입 (길게 누르기)",
+    "3BE48D82410FF27B492EFC8DC2299D18": "제단의 봉인을 풀려면 <ToUpperEmphasis>{ResourceName}이(가) {ResourceCount}개 더</> 필요합니다.",
+    "661E6805481F6738D4DCA0B9D84A6605": "제단의 봉인을 풀려면 <ToUpperEmphasis>{ResourceName}이(가) {ResourceCount}개</> 필요합니다.",
+    "A4AF39CA42D7D3C1CC703E94555D174C": "제단의 봉인을 풀기 위해 <ToUpperEmphasis> {ResourceName}이(가) {ResourceCount}개</> 필요합니다! 지금 <ToUpperEmphasis>{ResourceName}을(를) {InventoryCount}개</>를 바치고 나머지를 돌려 받으시겠습니까?"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Mehrfache Werte",
+    "NoComponent": "-",
+    "ConvertSelectedActorsToIAsText": "[JUNO] {0} umwandeln in Instanced Actors"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Attribute für aufgelösten Actor-Pfad '{0}', aufgelöster Reihenname '{1}' und/oder Repräsentation '{2}' in Konflikt mit anderen Attributnamen",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Fügt die folgenden Attribute hinzu:{ActorPath} : String : Ein String-Pfad für das Spawnen des Actors (aus der Tabellenreihe kopiert){Representation} : Name : Ein EJunoRepresentation-Wert für die Erschaffung (aus der Tabellenreihe kopiert){RowName} : Float : Der Name der ausgewählten Reihe.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Liest die folgenden Attribute des Raumdatenstreams:{BiomeTableName} : String : Ein Pfad, der von der Biomdatentabelle gelesen wird{FilterName} : Name : Optional. Wenn festgelegt, werden nur Reihen ausgewählt, deren Typname mit dem Wert dieser Eigenschaft übereinstimmt.{LayerWeight} : Float : Optional. Wenn festgelegt, wird die Spalte 'LayerWeights' statt 'Weight' verwendet und mit diesem Wert interpoliert.)docs",
+    "JunoResolveBiomeIngredients_Param": "R“docs(Einstellungen können überschrieben werden von:{P0} : Name{P1} : Name{P2} : Name{P3} : Name{P4} : Name{P5} : Name)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Form für das Pathfinding (vermutlich Landschaft!)",
+    "UnableToGetPointData": "Punktdaten konnten nicht von der Eingabe erhalten werden",
+    "UnableToGetSpatialData": "Raumdaten konnten nicht von der Eingabe erhalten werden"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Daten für Höhentextur konnten nicht beschafft werden; Initialisierung fehlgeschlagen.",
+    "TextureInitFailed": "Daten für diese Textur konnten nicht beschafft werden; Initialisierung fehlgeschlagen.",
+    "LandscapeComponentLost": "Referenz zu einer oder mehreren Landschaftskomponenten verloren; Graskarten werden nicht generiert."
+  }
+}

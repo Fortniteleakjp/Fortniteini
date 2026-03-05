@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Levellader-Gerät",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Levellader-Gerät",
+    "6290D58B473E479F05752B83814E9464": "Das Levellader-Gerät lädt Level, die im Levelinstanz-Gerät erstellt wurden. Diese kannst du dann beliebig auf deiner Insel platzieren und rotieren, unter anderem auch auf anderen Levellader-Geräten.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "Das Levellader-Gerät lädt Level, die im Levelinstanz-Gerät erstellt wurden. Diese kannst du dann beliebig auf deiner Insel platzieren und rotieren, unter anderem auch auf anderen Levellader-Geräten.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "Das Levellader-Gerät lädt Level, die im Levelinstanz-Gerät erstellt wurden. Diese kannst du dann beliebig auf deiner Insel platzieren und rotieren, unter anderem auch auf anderen Levellader-Geräten."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Ausschalten",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Schaltet das Gerät aus, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Einschalten",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Bei Spielstart einschalten",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Schaltet das Gerät ein, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Levelinstanz-Name",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Bestimmt den Namen des Levels, das geladen werden soll.",
+    "BoolMetaData.FalseDisplayName": "Aus",
+    "BoolMetaData.TrueDisplayName": "Ein",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Bestimmt, ob das Gerät bei Spielstart eingeschaltet ist."
+  }
+}

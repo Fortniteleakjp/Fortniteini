@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "aradaki boşluk: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: {1} dışında oluştur",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "{ItemName} yerleştir"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>avlandı</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>bir totem sayesinde kurtuldu</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "{ItemDisplayText} hediye et"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Her şeyi bana ver!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "{0}. kampa katıl"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Alışveriş için yeterli kaynağın yok. {WantItemCount} Adet {WantItem} almak için {SellItemCount} adet {SellItem} vermen gerek. \n {BundleCount} parça kaldı.",
+    "TradeXForX": "{WantItemCount} Adet {WantItem} karşılığında {SellItemCount} adet {SellItem} ver. \n {BundleCount} parça kaldı."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Tamamlandı!",
+    "GetX": "{0} topla"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>dünyaya girdi</>",
+    "GameMemberDisconnected": "{0} <Yellow>dünyadan ayrıldı</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "bedel ekle",
+    "ChargeCostUnits": "Hızlı Koş",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Devam Et",
+    "JunoSpeech_NoAIRole": "İşsiz",
+    "JunoSpeech_NoBoundCampName": "İsimsiz Köy",
+    "JunoSpeech_NoLastUsedGatheringActor": "İstasyon Yok"
+  },
+  "JunoStorageChest": {
+    "Open": "Aç",
+    "Search": "Ara"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName} adlı oyuncunun {VillageCount}. köyü"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Hareketsiz kaldığın için atıldın. Uzun süre boyunca hareketsiz kaldığın için sunucuyla bağlantın kesildi.",
+    "SpawnedWhenPermanentlyDead": "Bu istemcinin ömrü tükendi."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Rehberli İnşa Seti Gir"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Bu, sahip olduğun içeriği bu hafta yerleştirebileceğin son arkadaş dünyası.",
+    "MCPItemPlacedMessageTitleText": "Dikkat! Sahip Olunan İçerik",
+    "MCPItemPlacedMessageDescription_NLeft": "Bu hafta sahip olduğun içeriği, {0} daha fazla arkadaşının dünyasına yerleştirebilirsin."
+  }
+}

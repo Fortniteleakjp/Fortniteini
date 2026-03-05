@@ -1,0 +1,37 @@
+{
+  "": {
+    "24E89F1843DFC6EA9EFA37A1991529C5": "Zawsze wyświetlaj",
+    "52B8FBAF40F5FE90A24B5BAC4EBCE0D7": "Punkty kontrolne",
+    "5EEA4BE24E710329B6F3BBB12EF9E920": "Punkty kontrolne",
+    "AC42D6E848910CF2C5A9BBB0F0A81B15": "Punkty kontrolne",
+    "30EA631F4233B87423C9DEB5F7B952B5": "Animacja dynamicznego drążka",
+    "24F4670C406DBF4F1B4B98978F4C6E49": "Strefa odstępu blokady automatycznego działania",
+    "8CD38EE3444D137C2D190FB75AF2E177": "Rozmiar strefy blokady automatycznego działania",
+    "ADD09514442FFA77EE6EEF9BA35FED43": "Bez ramki",
+    "5C0117894FE94EB617D990A345092116": "Rozmiar przycisku",
+    "31CD161F49CC2A4FE8B07E9A9B457A71": "Do kliknięcia",
+    "745525824BF613BD31B12BA6CBE89B0A": "Łącz różne pętle, aby tworzyć wyjątkowe miksy!",
+    "6BF0E54347F314D93ECB6CA4ACF8F4EA": "Strefa neutralna",
+    "8851066C40215F98E4CBF999FA38AFBA": "Dynamiczny drążek",
+    "97B960ED4DBE0DBCF8CC90B6CD54D0FF": "Odkryj Scenę Jamu w Fortnite Festival, aby znaleźć znajomych oraz sceny, które pozwolą ci miksować utwory z biblioteki. W Fortnite Festival wszystko dzieje się w myśl hasła Muzyka Jest do Grania.",
+    "42A11A2547B09000C726C7A99BDE00C9": "Festival",
+    "893ACCBF454F24B42A838DB44EF44264": "Scena Jamu w Fortnite Festival",
+    "C9010A584F0E45F13FE8C888CC10551E": "Wybierz pętle instrumentu prowadzącego, basu, perkusji i wokalu dla każdej ścieżki jamowej.",
+    "60585B2B47F626B2C0AA0BA219977F79": "Scena Jamu",
+    "E61D951E4F49D19B4203488619933E26": "Scena Jamu",
+    "49FE800D4EB0879B574516AC6765BEBC": "Miksuj",
+    "C3613A494533620F2E0F099899E9B78F": "Uciążliwość drążka poruszania – ruch",
+    "9FC6351443248A5AE1359FBC20C71E66": "Uciążliwość drążka poruszania – bezczynność",
+    "9E8FD1BC4685B31B9BF7928E4FE8867E": "Twórz remiksy popularnych utworów w grze wieloosobowej!",
+    "5B9A77094FD1B4FFA15D829EE5AD1C7F": "Można zacząć jamować w dowolnym momencie. Każdy w pobliżu może do ciebie dołączyć!",
+    "9B970F35448761D53205B79D51F04309": "Zresetuj pozycję drążka",
+    "3B1EF45D4E110472B0B1E4A61704F557": "Rozmiar",
+    "45893B434FC542D36DB113BC764CC8BE": "Rozmiar",
+    "A3CD64734EC6C30DE12776ADE7BECD2C": "Zacznij jamować",
+    "C2C5814F4FD39CC42F71FD81F7A1A556": "Zmieniaj instrumenty",
+    "9C82F6FB45201EE313688EBFCF09A758": "Rozmiar strefy dotykowej"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Odłączono cię od hosta z powodu zbyt długiej bezczynności."
+  }
+}

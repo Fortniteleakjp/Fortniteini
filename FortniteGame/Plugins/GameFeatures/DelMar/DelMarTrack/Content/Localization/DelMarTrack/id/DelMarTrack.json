@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Mengaktifkan trek tertentu saat pembalap memasuki volume ini. Biasanya digunakan untuk trek tanpa geometri.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "Volume Trek Aktif RR"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Paksa Respawn Trek Tersembunyi",
+    "MultipleValues": "Beberapa Nilai",
+    "Off Track Radius": "Radius Trek Luar",
+    "Use Back Endcap": "Gunakan Penutup Belakang",
+    "Use Front Endcap": "Gunakan Penutup Depan",
+    "Use Stable Roll": "Gunakan Roll Stabil"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "Ganti Bentuk dari Beberapa Simpul",
+    "DeleteMultipleNodeConfirmation": "Hapus Beberapa Simpul?",
+    "DeleteMultipleNodes": "Hapus Beberapa Simpul",
+    "EnableOOBTube": "Aktifkan Tabung OOB",
+    "MeshCustomizations": "Kustomisasi Mesh pada Beberapa",
+    "MultipleNodesSelected": "Beberapa Simpul Dipilih",
+    "UseStableRollOnMultiple": "Gunakan Roll Stabil pada Beberapa"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "Hapus Simpul",
+    "DeleteNodeConfirmation": "Hapus Simpul?",
+    "MetaDataIndexTitle": "Indeks: {CurrentIndex}",
+    "SingleNodeSelected": "Satu Simpul Terpilih",
+    "SplitNode": "Pisah di Simpul",
+    "SplitNodeConfirmation": "Pisah di Simpul?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "Perangkat",
+    "DeviceProperties": "Properti Perangkat",
+    "EditDevice": "Edit Perangkat",
+    "EditTrack": "Edit Trek",
+    "Looping Track": "Trek Ber-Loop",
+    "None": "Tidak Ada",
+    "RoadStyle": "Gaya Jalan",
+    "SelectSplinePoints": "Titik Spline Pilihan",
+    "SelectedPoints": "Titik Pilihan",
+    "Theme": "Tema",
+    "Track": "Trek"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "Koneksi Buruk Trek Sekunder! Pastikan semua trek sekunder sudah terhubung dengan Trek Primer atau Sekunder: {1}. Peta: {2}",
+    "NoEndTrackConnection": "Trek Sekunder tidak Memiliki KoneksiTrekAkhir di {0} Peta: {1}",
+    "NoStartTrackConnection": "Trek Sekunder tidak Memiliki KoneksiTrekMulai di {0} Peta: {1}",
+    "SecondaryTrackLoops": "Loop Trek Sekunder terdeteksi! Loop terdeteksi di Trek {0} (mulai Trek: {1}). Peta: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "Tingkat Lanjut",
+    "AttachToEnd": "Pasang ke Akhir",
+    "AttachToStart": "Pasang ke Awal",
+    "Attaching": "Memasang",
+    "ConvertOobTubesToNative_Label": "Ubah Tabung OOB Cetak Biru menjadi Bawaan",
+    "ConvertOobTubesToNative_Tooltip": "Mengubah semua tabung OOB cetak biru menjadi versi bawaan yang setara.",
+    "DelMarTrack": "Trek DelMar",
+    "PrintAttachableActors": "Cetak Aktor yang Bisa Ditempel",
+    "RebuildOobTube": "Bangun Ulang Tabung OOB",
+    "DelMarStyleEditor": "Editor Gaya"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Visualisator Komponen Spline DelMar"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "Tabung OOB",
+    "Rebuild OOB Tube": "Bangun Ulang Tabung OOB",
+    "RoadSplineTabTitle": "Spline Jalan",
+    "SelectedSplineTabTitle": "Simpul Terpilih",
+    "SplineLengthTitle": "Panjang Spline: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "Titik Spline Pilihan",
+    "SelectedPoints": "Titik Pilihan"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "Jalanan Miring",
+    "Change Road Shape": "Ganti Bentuk Jalan",
+    "FlatRoad": "Jalanan Datar",
+    "HalfPipe": "Setengah Pipa",
+    "Pipe": "Pipa",
+    "RoadShape": "Bentuk Jalan",
+    "Tunnel": "Terowongan"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Tambahkan titik spline selanjutnya ke pilihan saat ini.",
+    "SelectAddPrevSplinePointToolTip": "Tambahkan titik spline sebelumnya ke pilihan saat ini.",
+    "DeleteMultipleNodeConfirmation": "Hapus Beberapa Simpul?",
+    "SelectDeleteSplinePointToolTip": "Hapus titik pada pilihan saat ini.",
+    "SelectAllSplinePointToolTip": "Pilih semua titik spline.",
+    "SelectFirstSplinePointToolTip": "Pilih titik spline pertama.",
+    "SelectLastSplinePointToolTip": "Pilih titik spline terakhir.",
+    "SelectNextSplinePointToolTip": "Pilih titik spline selanjutnya.",
+    "SelectPrevSplinePointToolTip": "Pilih titik spline sebelumnya.",
+    "SplitNodeConfirmation": "Pisah di Simpul Pilihan?",
+    "SelectSplitSplinePointToolTip": "Pisah simpul di Indeks yang Terpilih."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Alihkan poin spline pilihan ke bendera UseStableRoll",
+    "ToggleUseStableRoll": "Gunakan Roll Stabil"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Trek untuk Diaktifkan"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Pilih Instrumenmu",
+    "E70730D546323455388D0F8862938650": "Pilih Instrumenmu",
+    "94FB361A46082147B697C19A318D8F49": "Pilih Lagumu",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Loop Jamming",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Lagu Jamming",
+    "LockerJamTracksCategory": "Lagu Jamming Loker"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Lagu Jamming"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Suasana Harian",
+    "setlist_1_title": "Suasana Harian",
+    "setlist_title_1": "Suasana Harian",
+    "daily_1_desc": "Deskripsi Suasana Harian!",
+    "setlist_1_desc": "Deskripsi Suasana Harian!",
+    "setlist_desc_1": "Deskripsi Suasana Harian!",
+    "festival_1_title": "Pilihan Festival",
+    "setlist_3_title": "Pilihan Festival",
+    "setlist_title_3": "Pilihan Festival",
+    "festival_1_desc": "Deskripsi Pilihan Festival!",
+    "setlist_3_desc": "Deskripsi Pilihan Festival!",
+    "setlist_desc_3": "Deskripsi Pilihan Festival!",
+    "setlist_desc_Fortnitemares": "Fortnitemares",
+    "setlist_title_Fortnitemares": "Fortnitemares",
+    "setlist_2_title": "Daftar Lagu Sorotan",
+    "setlist_title_2": "Daftar Lagu Sorotan",
+    "spotlight_1_title": "Daftar Lagu Sorotan",
+    "setlist_2_desc": "Deskripsi Daftar Lagu Sorotan!",
+    "setlist_desc_2": "Deskripsi Daftar Lagu Sorotan!",
+    "spotlight_1_desc": "Deskripsi Daftar Lagu Sorotan!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Daftar Lagu Kustom",
+    "ProductMode_DisplayName_Setlist1": "Daftar Lagu Harian",
+    "Daily_1_Title": "Suasana Harian",
+    "Daily_1_Desc": "Deskripsi Suasana Harian dari Tabel",
+    "Festival_1_Title": "Pilihan Festival",
+    "Festival_1_Desc": "Deskripsi Pilihan Festival dari Tabel",
+    "Default_Title": "Daftar Lagu Festival",
+    "ProductMode_DisplayName_Setlist3": "Daftar Lagu Sorotan",
+    "Spotlight_1_Title": "Daftar Lagu Sorotan",
+    "Spotlight_1_Desc": "Deskripsi Daftar Lagu Sorotan dari Tabel",
+    "Default_Desc": "INI ADALAH DESKRIPSI DAFTAR LAGU DEFAULT!",
+    "ProductMode_DisplayName_Setlist2": "Daftar Lagu Mingguan"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Nama Artis",
+    "SparksAvailableFilter": "Tersedia",
+    "SparksDefaultFilter": "Default",
+    "SparksFeaturedSort": "Unggulan",
+    "SparksFeaturedFilter": "Baru & Unggulan",
+    "SparksOwnedFilter": "Dimiliki",
+    "SparksOwnedSort": "Kepemilikan",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Tampilkan yang Diarsipkan",
+    "SparksAlphaSort": "Judul Lagu, A-Z",
+    "SparksAlphaSortReverse": "Judul Lagu, Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

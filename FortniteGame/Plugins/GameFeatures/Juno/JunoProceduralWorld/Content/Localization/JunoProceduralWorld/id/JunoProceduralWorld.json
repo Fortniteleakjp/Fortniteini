@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Banyak Nilai",
+    "NoComponent": "Tidak Ada",
+    "ConvertSelectedActorsToIAsText": "[Juno] Ubah {0} menjadi Aktor dengan Instance"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Atribut untuk jalur aktor yang sudah terselesaikan '{0}', nama baris yang sudah terselesaikan '{1}', dan/atau representasi '{2}' bertentangan dengan nama atribut lain",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Menambahkan atribut berikut:{ActorPath} String : Sebuah jalur string untuk aktor yang mau di-spawn (disalin dari baris tabel){Representation} : Nama : Nilai EJunoRepresentation untuk bagaimana itu harus dibuat (disalin dari baris tabel){RowName} : Melayang : Nama dari baris yang dipilih.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Membaca atribut berikut ini pada aliran data ruang:{BiomeTableName} : String : Jalur untuk tabel data bioma untuk membaca{FilterName} : Nama: Opsional. Jika ditentukan, pengaturan ini akan memilih baris berisi nama tipe yang cocok dengan nilai properti ini.{LayerWeight} : Apung: Opsional. Jika ditentukan, kolom 'LayerWeights' akan digunakan alih-alih 'Weight', dan akan diinterpolasi dengan nilai ini.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(Properti pengaturan mungkin ditimpa dengan {P0} : Nama{P1} : Nama{P2} : Nama{P3} : Nama{P4} : Nama{P5} : Name)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Bentuk ke pencari jalur menyeluruh (mungkin Lanskap!)",
+    "UnableToGetPointData": "Tidak bisa mendapatkan data Poin dari input",
+    "UnableToGetSpatialData": "Tidak bisa mendapatkan data Ruang dari input"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Data untuk tekstur ketinggian tidak dapat diambil, inisialisasi gagal.",
+    "TextureInitFailed": "Data untuk tekstur ini tidak dapat diambil, inisialisasi gagal.",
+    "LandscapeComponentLost": "Merujuk ke satu komponen lanskap yang hilang atau lebih, peta rumput tidak akan dibuat."
+  }
+}

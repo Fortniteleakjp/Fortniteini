@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "โครงหุ่นที่สามารถเล่นแอนิเมชันได้",
+    "477037CE4A29EB50C5A6E5B004123435": "โครงหุ่นที่เล่นแอนิเมชัน",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "โครงหุ่นที่เล่นแอนิเมชัน",
+    "9D01ABCB4C57956061A5B8BD095D856B": "ใส่แอนิเมชันให้กับโครงหุ่น",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "หยุดเล่นแอนิเมชันชั่วคราว",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "หยุดเล่นแอนิเมชันชั่วคราว",
+    "ED9506B7426508B1B97535AF002D07C9": "เล่นแอนิเมชัน",
+    "4E6399154374E72C93B24A9FB9E86176": "เล่นแอนิเมชันย้อนกลับ",
+    "06C0CF2E41126953274F7B964A00DAE4": "กำลังเล่น",
+    "971EF1A7489930888171E8A553647F92": "เล่นแอนิเมชันแบบย้อนกลับ",
+    "070EC9F24AA5A04C8C685397F8E618AF": "เล่นแอนิเมชัน",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "ย้อนกลับ",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "หยุดแล้ว"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "แอนิเมชัน",
+    "Device_AnimatedMesh_C.InitialState.Description": "กำหนดว่าจะเล่นแอนิเมชันตั้งแต่ตอนแรกหรือไม่",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "สถานะเริ่มต้น",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "วนลูปซ้ำ",
+    "Device_AnimatedMesh_C.PlayRate.Description": "ตัวคูณที่ใช้เพื่อควบคุมความเร็วในการเล่นแอนิเมชัน",
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "หยุดชั่วคราว",
+    "Device_AnimatedMesh_C.Pause.Description": "หยุดเล่นแอนิเมชันชั่วคราว",
+    "Device_AnimatedMesh_C.Play.DisplayName": "เล่น",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "อัตราการเล่น",
+    "EAnimationPlayState.Playing.DisplayName": "กำลังเล่น",
+    "Device_AnimatedMesh_C.Reverse.Description": "เล่นแอนิเมชันแบบย้อนกลับ",
+    "Device_AnimatedMesh_C.Play.Description": "เล่นแอนิเมชัน",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "ย้อนกลับ",
+    "EAnimationPlayState.Reversing.DisplayName": "ย้อนกลับ",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "โครงหุ่น",
+    "EAnimationPlayState.Stopped.DisplayName": "หยุดแล้ว",
+    "Device_AnimatedMesh_C.Animation.Description": "แอนิเมชันที่จะเล่น",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "โครงหุ่นที่จะใช้เพื่อเล่นแอนิเมชัน",
+    "Device_AnimatedMesh_C.Loop.Description": "กำหนดว่าแอนิเมชันจะเล่นวนลูปเมื่อเล่นจนจบแล้วหรือไม่"
+  }
+}

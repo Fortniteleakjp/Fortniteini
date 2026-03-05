@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Inquadratura",
+    "43F09C044AF62206095CF781534EA856": "Impugnatura",
+    "E6B68B79478A46E9684822B2F134867F": "Testa",
+    "DB549DF44E248CF55461B2BF32444D9A": "Cuneo"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Martello da guerra d'ambra",
+    "War_Hammer_T5_Amber_DisplayName": "Martello da guerra d'ambra",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Martello da guerra esplosivo",
+    "War_Hammer_T1_Bone_DisplayName": "Martello da guerra d'osso",
+    "War_Hammer_T2_Brightcore_DisplayName": "Martello da guerra luminoso",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Martello da guerra dell'artiglio",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Martello da guerra dell'artiglio",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Martello da guerra dell'artiglio",
+    "War_Hammer_T3_Copper_DisplayName": "Martello da guerra di rame",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Martello da guerra maledetto",
+    "War_Hammer_T4_Emerald_DisplayName": "Martello da guerra di smeraldo",
+    "War_Hammer_T5_Emerald_DisplayName": "Martello da guerra di smeraldo",
+    "War_Hammer_T1_Flexwood_DisplayName": "Martello da guerra di Legnoflesso",
+    "War_Hammer_T1_Frostpine_DisplayName": "Martello da guerra di Freddopino",
+    "War_Hammer_T1_Glass_DisplayName": "Martello da guerra di vetro",
+    "War_Hammer_T3_Gold_DisplayName": "Martello da guerra d'oro",
+    "War_Hammer_T2_Granite_DisplayName": "Martello da guerra di granito",
+    "War_Hammer_T3_Iron_DisplayName": "Martello da guerra di ferro",
+    "War_Hammer_T1_Knotroot_DisplayName": "Martello da guerra di Nodotorto",
+    "War_Hammer_T1_Mahogany_DisplayName": "Martello da guerra di mogano",
+    "War_Hammer_T2_Malachite_DisplayName": "Martello da guerra di malachite",
+    "War_Hammer_T2_Marble_DisplayName": "Martello da guerra di marmo",
+    "War_Hammer_T2_Obsidian_DisplayName": "Martello da guerra di ossidiana",
+    "War_Hammer_T2_Redrock_DisplayName": "Martello da guerra di roccia rossa",
+    "War_Hammer_T4_Ruby_DisplayName": "Martello da guerra di rubino",
+    "War_Hammer_T5_Ruby_DisplayName": "Martello da guerra di rubino",
+    "War_Hammer_T2_Sandstone_DisplayName": "Martello da guerra di arenaria",
+    "War_Hammer_T4_Sapphire_DisplayName": "Martello da guerra di zaffiro",
+    "War_Hammer_T5_Sapphire_DisplayName": "Martello da guerra di zaffiro",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Martello da guerra di Corno infranto",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Martello da guerra di Corno infranto",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Martello da guerra della Tempesta",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Martello da guerra fenditempesta",
+    "War_Hammer_T1_Wood_DisplayName": "Martello da guerra di legno"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Martello da guerra"
+  }
+}

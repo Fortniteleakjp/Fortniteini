@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "البحث",
+    "MusicTimeNetSyncInterfaceSeekTarget": "ابحث عن الهدف",
+    "MusicTimeNetSyncInterfaceSeek_Description": "بادر بالبحث عن الهدف.",
+    "MusicTimeNetSyncInterfaceSpeed": "السرعة",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "سرعة المؤقت الواجب استخدامها.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "موقع البحث."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "Ermöglicht es Spielern, ihr Outfit im Spiel zu wechseln!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "Ermöglicht es Spielern, ihr Outfit im Spiel zu wechseln!",
+    "6858477D482601B747C2A5B828C69E76": "Ermöglicht es Spielern, ihr Outfit im Spiel zu wechseln!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Outfit\r\nändern",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Umkleidekabine",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Umkleidekabine",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Anpassen",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Entfernt alle Spieler aus der Umkleidekabine, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "1F0C513442C1083AE99BE581F865957A": "Entfernt den auslösenden Spieler aus der Umkleidekabine, wenn ein Signal auf dem festgelegten Kanal empfangen wird."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Ausschalten",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Schaltet das Gerät aus, entfernt alle Spieler aus der Umkleidekabine und verhindert ihre Verwendung.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Einschalten",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Bei Spielstart eingeschaltet",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Schaltet das Gerät ein, wodurch Spieler die Umkleidekabine nutzen können.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Verbirgt das HUD-Symbol, wenn ausgeschaltet.",
+    "BoolMetaData.FalseDisplayName": "Aus",
+    "BoolMetaData.TrueDisplayName": "Ein",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "Wenn von Spieler betreten",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Wenn von Spieler verlassen",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Alle Spieler entfernen",
+    "C8A4072D491C9059C5CFF1854936E573": "Auslösenden Spieler entfernen",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "HUD-Beacon anzeigen",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Sendet ein Signal, wenn ein Spieler das Umkleidekabine-Gerät betritt.",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Sendet ein Signal, wenn ein Spieler das Umkleidekabine-Gerät verlässt.",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Bestimmt, ob das Gerät bei Spielstart eingeschaltet ist."
+  }
+}

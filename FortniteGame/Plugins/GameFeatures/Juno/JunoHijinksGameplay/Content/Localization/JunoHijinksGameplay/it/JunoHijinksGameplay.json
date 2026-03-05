@@ -1,0 +1,60 @@
+{
+  "": {
+    "7CF675F54AAAF7E59BE02DAB77408A05": "Ti ripesca dall'aldilà.",
+    "C5A8140A4118053FC98DFDBB0D477551": "Bevi",
+    "DB08DD254AF3AFB372428180B61CA019": "Bevi",
+    "EAB819034C2F9C992BA858A086E9DE9F": "Bevi",
+    "00BB690D4E89F43785A3D4A229B6DB61": "Pozione di salute gigante",
+    "7C8602704D9895DDF91E619E313F2BF1": "Pozione Klombacasa",
+    "0F2572A7464747102625ADA1C20A47C8": "Impara a usare il macchinario per pietre",
+    "15DCC0C24F5C4F536F138088AC42AEB3": "Impara a usare il macchinario per pietre",
+    "6658571740A19DBD7B45048831519148": "Impara a usare il macchinario per pietre",
+    "D698C5014DE407DFBCD1D8AE7E59ACE5": "Impara a usare il macchinario per pietre",
+    "519F538E4BA1F07B9CC0568E94FE94B8": "Pozione di salute piccola",
+    "DC0C133C44C2FCDE2C191A8B80DBE979": "Più gustosa di una benda.",
+    "1A7EEC024336625F5D77D2BE8F3A1E12": "Ti servirà un <EmphA>calderone</>.",
+    "203816BD498C65F400EDCAAFA79DE3F4": "Ti servirà un <EmphA>calderone</>.",
+    "3FBDEF784A8467A63BC5389C3714371A": "Ti servirà un <EmphA>calderone</>.",
+    "098D7FC84C27CDA3213B928D7BC06685": "[PH] Armor!",
+    "5EBE269C4DF3ACDB4DDCCC83D9320525": "[PH] Armor!",
+    "73B283534BB330C6C0FA37BC88FB3964": "[PH] Armor!",
+    "8C92454C4E5EC9270D982F883C645C73": "[PH] Armor!",
+    "B40D0DF44A51658B026C89A6BD52307E": "[PH] Armor!",
+    "B6936F49436567C947C6ECA1142DC821": "[PH] Armor!",
+    "E6133BEB4DE647E7D2E533BBCF608733": "[PH] Armor!",
+    "114C815F480295A9C5963D98AB509BF0": "[PH] Reflect incoming damage!",
+    "6F68CA2B48F0773A737A338576500926": "[PH] Reflect incoming damage!",
+    "AA63055C4747688885933C913B315E2D": "[PH] Steal life on kill!",
+    "C47866DF4D1617BCB9170DA533B73B3D": "[PH] Steal life on kill!",
+    "71A315D041D4D11C9C91CCB789CC2249": "[PH] Survive Lethal Damage!"
+  },
+  "Juno_GameplayItemCraftingFormulas_Hijinks": {
+    "BaitBucket_T2_DisplayName": "Secchio di esce",
+    "BaitBucket_T3_DisplayName": "Secchio di esce",
+    "BaitBucket_T4_DisplayName": "Secchio di esce",
+    "CauldronWorkBench_DisplayName": "Calderone",
+    "IceCream_Snowberry_Potion_DisplayName": "Gelato di bacca delle nevi",
+    "DeftCheese_DisplayName": "Formaggio astuto",
+    "SlapPotion_DisplayName": "Pozione raffazzonata",
+    "FoodProcessorT2_DisplayName": "Spremitore",
+    "LargeHealthPotion_DisplayName": "Pozione di salute gigante",
+    "KlomHomePotion_DisplayName": "Pozione Klombacasa",
+    "SnowberryPotion_DisplayName": "Pozione abile",
+    "SlurpPotion_DisplayName": "Pozione succosa",
+    "SmallHealthPotion_DisplayName": "Pozione di salute piccola",
+    "IceCream_Spicy_Potion_DisplayName": "Gelato piccante",
+    "StormPotion_DisplayName": "Pozione di Frutto della Tempesta",
+    "TropicalPotion_DisplayName": "Pozione resistente"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "FF57B7FC4313F112B1386F8664A02965": "Una postazione da creazione per preparare potenti pozioni che garantiscono brevi potenziamenti e benefici."
+  },
+  "Juno_UpdateItemData": {
+    "EEB808C346F14B845EEE0CA4E7B297E4": "La cura per la nostalgia.",
+    "2CD5F58F4007255FA614DBBCE9CA4BFE": "Bevila per recuperare una grande quantità di salute.",
+    "D6B5234C4486FD9C5F42A4905B425B3C": "Bevila per recuperare salute.",
+    "7B2C77B74AC8138554098BBCF7C8966B": "Bevila per tornare nel tuo letto.",
+    "C6D7D9884CB3989794F920B66D5D5808": "Calderone per pozioni",
+    "397D26184BD0A822B5F0138724CC12AC": "È ora di mettersi all'opera!"
+  }
+}

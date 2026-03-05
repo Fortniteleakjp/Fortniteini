@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "多个值",
+    "NoComponent": "无",
+    "ConvertSelectedActorsToIAsText": "[Juno]转化{0}成实例角色"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Adds the following attributes:{ActorPath} : String : A string path for the actor to spawn (copied from the table row){Representation} : Name : An EJunoRepresentation value for how it should be created (copied from the table row){RowName} : Float : The name of the chosen row.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Reads the following attributes on the spatial data stream:{BiomeTableName} : String : A path for the biome data table to read{FilterName} : Name : Optional.If specified, it will only select rows with a type name that matches the value of this property.{LayerWeight}: Float : Optional.If specified, the 'LayerWeights' column will be used instead of 'Weight', interpolated by this value.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(Settings properties may be overridden with:{P0} : Name{P1} : Name{P2} : Name{P3} : Name{P4} : Name{P5} : Name)docs",
+    "UPCGJunoPathfindSettingsShapePin": "使用形状寻找路径（可能是景观！）",
+    "UnableToGetPointData": "无法读取输入的指向数据",
+    "UnableToGetSpatialData": "无法读取输入的空间数据"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "无法获取高度纹理数据，初始化失败。",
+    "TextureInitFailed": "无法获取此纹理数据，初始化失败。",
+    "LandscapeComponentLost": "一个或多个地形组件的引用已丢失，将不会生成草地地图。"
+  }
+}

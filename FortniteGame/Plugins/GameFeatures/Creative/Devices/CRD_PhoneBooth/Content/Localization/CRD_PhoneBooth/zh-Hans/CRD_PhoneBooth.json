@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "允许玩家在游戏中更改皮肤！",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "允许玩家在游戏中更改皮肤！",
+    "6858477D482601B747C2A5B828C69E76": "允许玩家在游戏中更改皮肤！",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "变更\r\n皮肤",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "正在更改电话亭",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "正在更改电话亭",
+    "059506D64DE2C7BC2249EA967ADC0C18": "自定义",
+    "FB6C538F4D6F606703196597BAA7ADA8": "从选定频道接收到信号时，移除更衣亭中的所有玩家。",
+    "1F0C513442C1083AE99BE581F865957A": "从选定频道接收到信号时，移除更衣亭中的发起玩家。"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "禁用",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "禁用设备，从更衣亭移除所有玩家并禁止使用更衣亭。",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "启用",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "游戏开始时启用",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "启用设备，允许玩家使用更衣亭。",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "设为False时隐藏HUD图标。",
+    "BoolMetaData.FalseDisplayName": "关",
+    "BoolMetaData.TrueDisplayName": "开",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "玩家进入时",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "玩家离开时",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "移除所有玩家",
+    "C8A4072D491C9059C5CFF1854936E573": "移除发起玩家",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "显示HUD信标",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "玩家进入更衣亭装置时发出信号",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "玩家离开更衣亭装置时发出信号",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "该设备是否在游戏开始时就启用。"
+  }
+}

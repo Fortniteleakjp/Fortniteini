@@ -1,0 +1,29 @@
+{
+  "": {
+    "71A3F0BE4BC401EDE8B47B95349DEB84": "打开",
+    "720C69504E4939D88E00D99BFCF8A8D0": "打开",
+    "ED441C00473C8BBFA99707B9326177C1": "电池",
+    "0B2B80644FCC0FFF6CD779B0D1CF6F58": "载具控制单元",
+    "769BB15949AFF1D8966456BDE44FBFCD": "载具控制单元",
+    "7C8E79484A3A1067EC71B9BB7763EB0E": "载具控制单元",
+    "9A37E02F4EAFB15EB33D378B3616B601": "载具控制单元",
+    "01692D2545D048DD3FFFEE80A8AE31C8": "你需要一种来自<EmphA>地表</>的<EmphA>有机</>资源。"
+  },
+  "Juno_UpdateItemData": {
+    "E34B1A154A9B1F3E569CA4B01FD1009E": "掌心中的一点力量。",
+    "5B6A24294D0D954A8185D480AF6D8096": "大型动力中心",
+    "B691209A4F938FE92EA504BA5290C96B": "中型动力中心",
+    "4DCFA2C2464B8884929713B612BDC204": "放置于建造上，并放入电池来为连接的玩具提供电力。持有大量电量。",
+    "B44851ED463714FE7F10CFB591926A47": "放置于建造上，并放入电池来为连接的玩具提供电力。持有中等电量。",
+    "D6C9ABB6498B1D8753B21A838B8CCF03": "放置于建造上，并放入电池来为连接的玩具提供电力。持有少量电量。",
+    "2EC89F09471DC7BD1A0E199C8F7ED74E": "将它们放入动力中心，为你的装置提供能量。",
+    "2DC55E444BCAF9CE3B3BFDA77991163B": "Power Bank",
+    "960679A546697BC052B8F8816BB01087": "小型动力中心"
+  },
+  "PP_CraftingFormulas_PowerSystem": {
+    "PowerCenterLarge_DisplayName": "动力中心",
+    "PowerCenterMedium_DisplayName": "中型动力中心",
+    "PowerCell_DisplayName": "电池",
+    "PowerCenterSmall_DisplayName": "小型动力中心"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Şuradan Alındığında Oyun Sonu Sırasına Ekle:",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Adadaki oturumda bulunan tüm oyuncuları eşleşmeye zorlar.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Oyun Yayını",
+    "D6605AA24CE9BB51B09055B216381F62": "Oyun Yayını",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Ada Kodu",
+    "4906BC4442B704E71E23E9B9A01FF370": "Seviye Portalı",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Eşleştirme portalının yönlendireceği ada kodunu belirler.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Şuradan Alındığında Topluluğu Aktar:"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Şuradan Alındığında Devre Dışı Bırak:",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Seçilen kanaldan sinyal alınca cihazı devre dışı bırakır.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Şuradan Alındığında Etkinleştir:",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Seçilen kanaldan sinyal alınca cihazı etkinleştirir.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Oyun Sonunda Sıraya Gir",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Topluluğu Aktar"
+  }
+}

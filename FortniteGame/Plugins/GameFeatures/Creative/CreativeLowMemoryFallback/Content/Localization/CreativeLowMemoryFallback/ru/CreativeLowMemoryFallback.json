@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "Недостаточно памяти",
+    "Return to main menu reason (default)": "Объём памяти достиг критического значения! Сеанс завершён.\n Ваш прогресс сохранён! Вернитесь в творческий режим и продолжите игру с того же места, на котором остановились.",
+    "Warning toast description (default)": "Сеанс может неожиданно прерваться."
+  }
+}

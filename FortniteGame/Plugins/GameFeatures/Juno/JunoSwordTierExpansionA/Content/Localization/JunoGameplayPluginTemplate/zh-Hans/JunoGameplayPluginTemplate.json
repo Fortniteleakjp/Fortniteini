@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "一把传奇宝剑。适合与敌人近身作战。",
+    "A5C5C211434AA2839F6672858D879834": "什么样的笔杆子也比不过它。",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "长剑",
+    "691AD6104B64E9B53B152A932C3A7948": "你需要一台<EmphA>木材切割机</>。",
+    "AF59C13740BF3D246EFE6894041683CA": "你需要一台<EmphA>木材切割机</>。",
+    "D46F690B44A43726C9409EBBF35FBD5A": "你需要一台<EmphA>木材切割机</>。",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "你需要一台<EmphA>木材切割机</>。"
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "竹剑",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "竹剑",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "竹剑",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "竹剑",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "龙珀剑",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "龙珀剑",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "木津石剑",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "木津石剑",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "木津石剑",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "木津石剑",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "钢剑",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "钢剑",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "钢剑"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "稀有剑。适合与敌人近身作战。",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "“剑”不得人。",
+    "CAD24296497618FE393B79B375B3D198": "史诗剑。适合与敌人近身作战。",
+    "7F0D841F4798D9DA06E8CB9880022753": "罕见剑。适合与敌人近身作战。",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "看着像刀，但比刀厉害多了。",
+    "30D0CC564A676E401A2AF193711F5A03": "展翅高飞，挥剑御敌。",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "长剑",
+    "C9A902E24804F529DDB98399903E1F9F": "长剑",
+    "F07655364C7958D6AB473B8B9ABA433A": "长剑"
+  }
+}

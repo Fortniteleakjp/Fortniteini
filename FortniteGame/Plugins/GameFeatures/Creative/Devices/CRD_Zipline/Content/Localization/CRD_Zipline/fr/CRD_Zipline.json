@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Impossible d'utiliser la tyrolienne",
+    "768283974295183A2A78FCBFBAFE1742": "Crée une tyrolienne qui déplace les joueurs d'un point à un autre.",
+    "C7C925214E0954D490E48DB594FCAE7C": "Crée une tyrolienne qui déplace les joueurs d'un point à un autre.",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Personnaliser ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Un appareil exclusif au mode Créatif qui sert d'interface de téléphone pour les points de spline des tyroliennes.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Tyrolienne",
+    "8CE167104123A4888338D3A2901028D8": "Tyrolienne",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Point de contrôle de tyrolienne"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "N'importe laquelle",
+    "ECreativeTeamType.Any.DisplayName": "N'importe laquelle",
+    "ClassSlotMetaData.DisplayPattern": "Classe {0}",
+    "Device_Zipline_C.Color.DisplayName": "Couleur",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Définit à quel point la direction frontale de ce point de contrôle influence la courbure du chemin à cet emplacement.",
+    "Device_Zipline_C.UseCustomColor.Description": "Définit si une couleur personnalisée est utilisée.",
+    "Device_Zipline_C.Color.Description": "Définit la couleur personnalisée à utiliser.",
+    "Device_Zipline_C.Selected Class.Description": "Définit quelle classe peut utiliser cette tyrolienne.",
+    "Device_Zipline_C.Selected Team.Description": "Définit quelle équipe peut utiliser cette tyrolienne.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Si défini, l'appareil autorise toutes les classes sauf celle sélectionnée.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Si défini, l'appareil autorise toutes les équipes sauf celle sélectionnée.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Inverser la sélection de classe",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Inverser la sélection d'équipe",
+    "ECreativeClassType.NoClass.DisplayName": "Pas de classe",
+    "BoolMetaData.FalseDisplayName": "Non",
+    "BoolMetaData.TrueDisplayName": "Oui",
+    "Device_Zipline_C.OnAttach.DisplayName": "En attachant",
+    "Device_Zipline_C.OnDetach.DisplayName": "En détachant",
+    "Device_Zipline_C.Selected Class.DisplayName": "Classe sélectionnée",
+    "Device_Zipline_C.Selected Team.DisplayName": "Équipe sélectionnée",
+    "Device_Zipline_C.OnAttach.Description": "Envoie un signal quand un agent s'attache à la tyrolienne.",
+    "Device_Zipline_C.OnDetach.Description": "Envoie un événement quand un agent se détache à la tyrolienne.",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Intensité de la tangente",
+    "TeamIndexMetaData.DisplayPattern": "Équipe {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Utiliser une couleur personnalisée"
+  }
+}

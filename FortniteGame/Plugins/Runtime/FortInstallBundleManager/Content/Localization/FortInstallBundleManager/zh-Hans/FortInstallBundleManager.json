@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "就快好了！打开应用完成安装。",
+    "DownloadCompleteNotification.Title": "完成安装，进行游戏",
+    "DownloadCompleteNotification.ActionText": "安装",
+    "InstallBundleSourceValkyrieDownloadedFmt": "安装捆绑包资源游戏自定义组件 已下载{0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "安装捆绑包资源游戏自定义组件 已安装{0}",
+    "Simulate_BuildVerify_Error": "安装已损坏。请联系客服。"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Widget sınıfı eksik.\n\nProjenin uygulamasına git ve kullandığı oyun alanı şablonunu bul.\n\nSparksCommonUtils oyun alanı bileşenindeki \"CaptureToolWidgetClass\" bölümünü burada oluşturmak istediğin widget olarak ayarla.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} etkinliğini görmezden geldi (Hiç NPS bileşeni yok)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} havuz boyutunu arttırdı: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} havuz boyutunu arttırdı: {size}"
+  }
+}

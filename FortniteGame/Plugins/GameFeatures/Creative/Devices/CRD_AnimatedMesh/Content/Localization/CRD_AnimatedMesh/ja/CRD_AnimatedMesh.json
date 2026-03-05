@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "アニメーションを再生できる透過メッシュ",
+    "477037CE4A29EB50C5A6E5B004123435": "アニメーション付きメッシュ",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "アニメーション付きメッシュ",
+    "9D01ABCB4C57956061A5B8BD095D856B": "スケルタルメッシュにアニメーションを適用する",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "アニメーションを一時停止",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "アニメーションを一時停止する。",
+    "ED9506B7426508B1B97535AF002D07C9": "アニメーションを再生",
+    "4E6399154374E72C93B24A9FB9E86176": "アニメーションを逆再生する",
+    "06C0CF2E41126953274F7B964A00DAE4": "再生中",
+    "971EF1A7489930888171E8A553647F92": "アニメーションを逆再生する",
+    "070EC9F24AA5A04C8C685397F8E618AF": "アニメーションを再生する",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "逆再生中",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "停止中"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "アニメーション",
+    "Device_AnimatedMesh_C.InitialState.Description": "初めにアニメーションが再生されているかどうかを決定する。",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "最初の状態",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "ループ",
+    "Device_AnimatedMesh_C.PlayRate.Description": "アニメーションの再生速度を制御するために使用される倍率。",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "一時停止",
+    "Device_AnimatedMesh_C.Pause.Description": "アニメーションを一時停止する。",
+    "Device_AnimatedMesh_C.Play.DisplayName": "再生",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "再生速度",
+    "EAnimationPlayState.Playing.DisplayName": "再生中",
+    "Device_AnimatedMesh_C.Reverse.Description": "アニメーションを逆再生する。",
+    "Device_AnimatedMesh_C.Play.Description": "アニメーションを再生する。",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "リバース",
+    "EAnimationPlayState.Reversing.DisplayName": "逆再生中",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "スケルタルメッシュ",
+    "EAnimationPlayState.Stopped.DisplayName": "停止中",
+    "Device_AnimatedMesh_C.Animation.Description": "再生するアニメーション。",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "この透過メッシュ上にアニメーションが再生される。",
+    "Device_AnimatedMesh_C.Loop.Description": "アニメーションが最後に達したときにループ再生するかの設定。"
+  }
+}

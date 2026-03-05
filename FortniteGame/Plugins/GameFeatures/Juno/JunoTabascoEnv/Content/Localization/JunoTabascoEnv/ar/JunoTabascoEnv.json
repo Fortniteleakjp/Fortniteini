@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "التقط الخشب",
+    "EC841CD54B7090D2510D7586F386C251": "التقط الخشب"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "اضغط على E للتعديل"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "تخصيص"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "": {
+    "589BC8C545D9D766C0F02DAA67AF848E": "装上更大的气球，飞上天空！",
+    "46C7F27B4A5570C7071636BB7EF37E8D": "随时可以一飞冲天。",
+    "2FB1FBF64A8E9BE1A2F1C7BA5B611584": "随时可以起飞。",
+    "644DE9964A9EB1D0E32D6CB2C74B7685": "只管想办法让你的船飞起来。这回就得用气球。 "
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F022CD50420DB9CA0BC872AA6D67BBB5": "尚未充气的大气球，可以连接频道。可通过频道控制部署并充气升空。",
+    "812DFE244981B3CEE5E8E0ABBA8D2940": "尚未充气的小气球，可以连接频道。可通过频道控制部署并充气升空。",
+    "2AA87E9E40F4F4D87E02BBB60A2F4230": "可激活的大气球",
+    "7988ADD74C897E641532648A25A6DF3C": "可激活的小气球",
+    "B57EF9BD4D82A829083838A7E5BE2085": "将大气球安装至现有结构和动态物体上。",
+    "B3815C7846E7DD14D5367CAC8F99EB48": "将小气球安装至现有结构和动态物体上。",
+    "000401864743389FEA88AFA4F5CC7938": "大气球",
+    "1618D3CC4CCEF8458C2DE4AD9DF7E809": "小气球"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "ActivatedBalloon_DisplayName": "可激活的气球",
+    "ActivatedBalloonLarge_DisplayName": "可激活的大气球",
+    "BalloonLarge_DisplayName": "大气球",
+    "Balloon_DisplayName": "小气球"
+  }
+}

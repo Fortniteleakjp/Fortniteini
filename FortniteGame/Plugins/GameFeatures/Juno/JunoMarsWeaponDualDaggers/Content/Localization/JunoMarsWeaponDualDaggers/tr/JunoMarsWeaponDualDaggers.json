@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "Bıçak",
+    "33EE7DD140FA593C65E6858D3ED133F0": "Odak",
+    "7D92FBAF4FF2178468D08FB5447138AA": "Sap"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "Kehribar Çifte Hançerler",
+    "Dual_Daggers_T5_Amber_DisplayName": "Kehribar Çifte Hançerler",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "Barut Çifte Hançerleri",
+    "Dual_Daggers_T1_Bone_DisplayName": "Kemik Çifte Hançerler",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "İçiparlak Çifte Hançerler",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "Pençe Çifte Hançerler",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "Pençe Çifte Hançerler",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "Pençe Çifte Hançerler",
+    "Dual_Daggers_T3_Copper_DisplayName": "Bakır Çifte Hançerler",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "Lanetli Çifte Hançerler",
+    "Dual_Daggers_T4_Emerald_DisplayName": "Zümrüt Çifte Hançerler",
+    "Dual_Daggers_T5_Emerald_DisplayName": "Zümrüt Çifte Hançerler",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "Esnek Odun Çifte Hançerler",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "Buzçamı Çifte Hançerler",
+    "Dual_Daggers_T1_Glass_DisplayName": "Cam Çifte Hançerler",
+    "Dual_Daggers_T3_Gold_DisplayName": "Altın Çifte Hançerler",
+    "Dual_Daggers_T2_Granite_DisplayName": "Granit Çifte Hançerler",
+    "Dual_Daggers_T3_Iron_DisplayName": "Demir Çifte Hançerler",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "Bağkökü Çifte Hançerler",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "Maun Çifte Hançerler",
+    "Dual_Daggers_T2_Malachite_DisplayName": "Malakit Çifte Hançerler",
+    "Dual_Daggers_T2_Marble_DisplayName": "Mermer Çifte Hançerler",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "Obsidiyen Çifte Hançerler",
+    "Dual_Daggers_T2_Redrock_DisplayName": "Kızılkaya Çifte Hançerler",
+    "Dual_Daggers_T4_Ruby_DisplayName": "Yakut Çifte Hançerler",
+    "Dual_Daggers_T5_Ruby_DisplayName": "Yakut Çifte Hançerler",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "Kumtaşı Çifte Hançerler",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "Safir Çifte Hançerler",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "Safir Çifte Hançerler",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "Parçalıboynuz Çifte Hançerler",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "Parçalıboynuz Çifte Hançerler",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "Fırtına Çifte Hançerleri",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "Fırtına Muhafızı Çifte Hançerler",
+    "Dual_Daggers_T1_Wood_DisplayName": "Ahşap Çifte Hançerler"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "Çifte Hançerler"
+  }
+}

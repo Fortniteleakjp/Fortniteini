@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Erro ao conferir dados da pessoa jogadora"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Falha ao limpar dados persistentes e limite de tentativas excedido"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Falha ao obter pontos de controle disponíveis",
+    "FailedToSetInitialCheckpointErrorMessage": "Falha ao definir o ponto de controle inicial",
+    "InvalidJunoWorldErrorMessage": "Mundo Juno inválido ao tentar inicializar o controlador de ponto de controle",
+    "InvalidJunoRootPlayspaceErrorMessage": "Raiz de espaço de jogo inválida ao tentar inicializar o controlador de ponto de controle"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Tentou inicializar a persistência de jogador depois de ela já ter sido inicializada",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Armazenamento inválido de dados persistentes de jogador",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Impossível criar controlador de ponto de controle"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Tentando de desinicializar persistência de jogador com id de jogador inválido",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Tentando inicializar persistência de jogador várias vezes",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Tentando inicializar persistência de jogador com id de jogador válido",
+    "StalePlayerPersistenceHandlerErrorMessage": "Controlador de persistência de jogador obsoleto ao concluir inicialização",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Impossível criar controlador de persistência de jogador",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Não foi possível recuperar o armazenamento de dados persistentes de jogador"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Fokus",
+    "43F09C044AF62206095CF781534EA856": "Handel",
+    "E6B68B79478A46E9684822B2F134867F": "Kepala",
+    "DB549DF44E248CF55461B2BF32444D9A": "Baji"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Palu Perang Ambar",
+    "War_Hammer_T5_Amber_DisplayName": "Palu Perang Ambar",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Palu Perang Ledak",
+    "War_Hammer_T1_Bone_DisplayName": "Palu Perang Tulang",
+    "War_Hammer_T2_Brightcore_DisplayName": "Palu Perang Terang",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Palu Perang Cakar",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Palu Perang Cakar",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Palu Perang Cakar",
+    "War_Hammer_T3_Copper_DisplayName": "Palu Perang Tembaga",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Palu Perang Terkutuk",
+    "War_Hammer_T4_Emerald_DisplayName": "Palu Perang Zamrud",
+    "War_Hammer_T5_Emerald_DisplayName": "Palu Perang Zamrud",
+    "War_Hammer_T1_Flexwood_DisplayName": "Palu Perang Flexwood",
+    "War_Hammer_T1_Frostpine_DisplayName": "Palu Perang Frostpine",
+    "War_Hammer_T1_Glass_DisplayName": "Palu Perang Kaca",
+    "War_Hammer_T3_Gold_DisplayName": "Palu Perang Emas",
+    "War_Hammer_T2_Granite_DisplayName": "Palu Perang Granit",
+    "War_Hammer_T3_Iron_DisplayName": "Palu Perang Besi",
+    "War_Hammer_T1_Knotroot_DisplayName": "Palu Perang Akar Simpul",
+    "War_Hammer_T1_Mahogany_DisplayName": "Palu Perang Mahoni",
+    "War_Hammer_T2_Malachite_DisplayName": "Palu Perang Malakit",
+    "War_Hammer_T2_Marble_DisplayName": "Palu Perang Marmer",
+    "War_Hammer_T2_Obsidian_DisplayName": "Palu Perang Obsidian",
+    "War_Hammer_T2_Redrock_DisplayName": "Palu Perang Redrock",
+    "War_Hammer_T4_Ruby_DisplayName": "Palu Perang Rubi",
+    "War_Hammer_T5_Ruby_DisplayName": "Palu Perang Rubi",
+    "War_Hammer_T2_Sandstone_DisplayName": "Palu Perang Batu Pasir",
+    "War_Hammer_T4_Sapphire_DisplayName": "Palu Perang Safir",
+    "War_Hammer_T5_Sapphire_DisplayName": "Palu Perang Safir",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Palu Perang Shatterhorn",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Palu Perang Shatterhorn",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Palu Perang Badai",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Palu Perang Stormguard",
+    "War_Hammer_T1_Wood_DisplayName": "Palu Perang Kayu"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Palu Perang"
+  }
+}

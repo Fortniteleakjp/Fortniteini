@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Lugar de inicio en una carrera de Rocket Racing.",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "Inicio del jugador de RR",
+    "0DF3230B4B023C3622D22CA51A8972F7": "Posición inicial del jugador de RR"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "Determina el orden en que los autos intentarán aparecer en la línea de salida. Los valores inferiores a cero se ignorarán al aparecer en la línea de salida.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "Prioridad"
+  }
+}

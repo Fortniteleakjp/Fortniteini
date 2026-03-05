@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "這個裝置讓玩家能購買並套用改裝，或移除可改裝武器上的改裝。",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "可讓玩家購買改裝並套用到可改裝武器上，或加以移除的裝置。會在裝置中顯示該物品，以設定所需貨幣。",
+    "C71343894A060847493A649689759A65": "一系列可互動生成改裝武器的箱子。",
+    "460F73D54CB382F639D9F28B319DB307": "自訂 ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "無法使用改裝工作臺",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "貨幣",
+    "53C6F3F34E06E917D367268882E08D87": "決定改裝武器所需的貨幣。",
+    "A30B8506487121E7C4E703A5629FBE05": "從此接收時停用",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "已停用",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "停用裝置，防止改裝遭到購買或移除。",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "從此接收時啟用",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "啟用裝置並允許玩家開始滑行。",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "改造武器箱收藏庫",
+    "0B7642504100909455884BA8ECBE7AD4": "武器改裝工作臺",
+    "1EBC090141D82557511D43B7E5342FD4": "武器改裝工作臺"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "允許職業",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "允許隊伍",
+    "ECreativeClassType.Any.DisplayName": "任意",
+    "ECreativeTeamType.Any.DisplayName": "任意",
+    "ClassSlotMetaData.DisplayPattern": "職業{0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "決定玩家缺少資源時，是否顯示物品的稀有度。",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "決定在小遊戲開始時是否應該啟用此裝置。",
+    "Device_WeaponModBench_C.ModCost.Description": "決定為可改裝武器裝備改裝的花費。此值適用於所有可選改裝。若設為「不要覆寫」，將使用《大逃殺》所使用的花費，並且可能隨時改變。",
+    "Device_WeaponModBench_C.Allowed Class.Description": "決定哪個職業能夠使用這個武器改裝工作臺。",
+    "Device_WeaponModBench_C.Allowed Team.Description": "決定哪支隊伍能夠使用這個武器改裝工作臺。",
+    "Device_WeaponModBench_C.Disable.DisplayName": "停用",
+    "Device_WeaponModBench_C.Disable.Description": "停用裝置，防止改裝遭到購買或移除。",
+    "Device_WeaponModBench_C.Enable.DisplayName": "啟用",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "小遊戲開始時啟用",
+    "Device_WeaponModBench_C.Enable.Description": "啟用裝置並允許購買和移除改裝。",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "若設定此選項，除了允許職業外，裝置將允許其餘所有隊伍。",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "若設定此選項，除了允許隊伍外，裝置將允許其餘所有隊伍。",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "反轉職業選擇",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "反轉隊伍選擇",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "改裝花費",
+    "ECreativeClassType.NoClass.DisplayName": "無職業",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "缺少物品提示中顯示物品稀有度",
+    "TeamIndexMetaData.DisplayPattern": "隊伍{0}"
+  }
+}

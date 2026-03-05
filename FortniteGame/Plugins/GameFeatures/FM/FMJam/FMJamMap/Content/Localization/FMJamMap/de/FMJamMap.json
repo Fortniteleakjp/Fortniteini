@@ -1,0 +1,37 @@
+{
+  "": {
+    "24E89F1843DFC6EA9EFA37A1991529C5": "Immer anzeigen",
+    "52B8FBAF40F5FE90A24B5BAC4EBCE0D7": "Anker",
+    "5EEA4BE24E710329B6F3BBB12EF9E920": "Anker",
+    "AC42D6E848910CF2C5A9BBB0F0A81B15": "Anker",
+    "30EA631F4233B87423C9DEB5F7B952B5": "Dynamischen Stick animieren",
+    "24F4670C406DBF4F1B4B98978F4C6E49": "Zoneninnenabstand zum Feststellen des autom. Laufens",
+    "8CD38EE3444D137C2D190FB75AF2E177": "Zonengröße zum Feststellen des autom. Laufens",
+    "ADD09514442FFA77EE6EEF9BA35FED43": "Randlos",
+    "5C0117894FE94EB617D990A345092116": "Tastengröße",
+    "31CD161F49CC2A4FE8B07E9A9B457A71": "Erweitertes Tippen",
+    "745525824BF613BD31B12BA6CBE89B0A": "Kombiniere unterschiedliche Loops, um einzigartige Mixes zu erstellen!",
+    "6BF0E54347F314D93ECB6CA4ACF8F4EA": "Totzone",
+    "8851066C40215F98E4CBF999FA38AFBA": "Dynamischer Stick",
+    "97B960ED4DBE0DBCF8CC90B6CD54D0FF": "Erkunde das Festivalgelände der Jam-Bühne, um Freunde zu treffen und Bühnen zu finden, auf denen du Hit Songs aus deiner Bibliothek mixen kannst. In Fortnite Festival spielt die Musik.",
+    "42A11A2547B09000C726C7A99BDE00C9": "Festival",
+    "893ACCBF454F24B42A838DB44EF44264": "Festival: Jam-Bühne",
+    "C9010A584F0E45F13FE8C888CC10551E": "Für jeden Jam-Song kannst du dich zwischen Hauptinstrument-, Bass-, Schlagzeug- oder Gesang-Loops entscheiden.",
+    "60585B2B47F626B2C0AA0BA219977F79": "Jam-Bühne",
+    "E61D951E4F49D19B4203488619933E26": "Jam-Bühne",
+    "49FE800D4EB0879B574516AC6765BEBC": "Jetzt geht’s rund!",
+    "C3613A494533620F2E0F099899E9B78F": "Deckkraft des Bewegungs-Sticks – Bewegung",
+    "9FC6351443248A5AE1359FBC20C71E66": "Deckkraft des Bewegungs-Sticks – Inaktivität",
+    "9E8FD1BC4685B31B9BF7928E4FE8867E": "Spiele Mehrspieler-Mashups mit beliebten Songs!",
+    "5B9A77094FD1B4FFA15D829EE5AD1C7F": "Spiele einen Jam Loop, um jederzeit einen Jam zu beginnen. Jeder in der Nähe kann mit einstimmen!",
+    "9B970F35448761D53205B79D51F04309": "Stick-Position zurücksetzen",
+    "3B1EF45D4E110472B0B1E4A61704F557": "Größe",
+    "45893B434FC542D36DB113BC764CC8BE": "Größe",
+    "A3CD64734EC6C30DE12776ADE7BECD2C": "Fange an zu jammen",
+    "C2C5814F4FD39CC42F71FD81F7A1A556": "Instrument wechseln",
+    "9C82F6FB45201EE313688EBFCF09A758": "Touch-Zonengröße"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Kick wegen Inaktivität. Die Verbindung zum Host wurde unterbrochen, weil du zu lange inaktiv warst."
+  }
+}

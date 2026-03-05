@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Odtwarzanie wideo na podstawie harmonogramu.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Ustaw harmonogram odtwarzania wideo w UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Harmonogram wideo",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "HarmonogramWideo"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Ustawienie przy uzupełnianiu harmonogramu",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Steruj odtwarzaczem wideo",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Codziennie",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Nie powtarzaj",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Uzupełnij harmonogram",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Odstępy przy uzupełnianiu harmonogramu",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Co godzinę",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Odnośnik do urządzenia odtwarzacza wideo, którym ma sterować ten harmonogram.",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Powtarzaj harmonogram",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Harmonogram (test)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Rozpocznij",
+    "Device_VideoSchedule_Native_C.Start.Description": "Rozpocznij odtwarzanie harmonogramu wideo.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Zatrzymaj",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Zatrzymaj odtwarzanie harmonogramu wideo.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Test odbioru sterowania",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Funkcja testowa do odbioru zdarzenia sterowania odtwarzaczem wideo.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Określa, czy harmonogram ma się powtarzać"
+  }
+}

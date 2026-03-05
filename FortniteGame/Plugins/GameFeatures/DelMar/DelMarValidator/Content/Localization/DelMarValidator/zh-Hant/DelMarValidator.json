@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "一個超過一圈的非循環（不循環）賽道必須在終點線 Rocket Racing 檢查點上啟用傳送，並且其下一個檢查點陣列必須僅引用你的起跑線 Rocket Racing 檢查點。{0}",
+    "MultipleFinishLines": "超過一個 Rocket Racing 檢查點被標記為「終點線」。Rocket Racing 賽道中必須有且只有一個終點線 Rocket Racing 檢查點。{0}",
+    "MultipleStartLines": "超過一個 Rocket Racing 檢查點被標記為「起跑線」。Rocket Racing 賽道中必須有且只有一個起跑線 Rocket Racing 檢查點。{0}",
+    "NoFinishLine": "沒有 Rocket Racing 檢查點被標記為「終點線」。Rocket Racing 賽道中必須有且只有一個終點線 Rocket Racing 檢查點。{0}",
+    "NoStartLine": "沒有 Rocket Racing 檢查點被標記為「起跑線」。Rocket Racing 賽道中必須有且只有一個起跑線 Rocket Racing 檢查點。{0}",
+    "Checkpoint has invalid Next Checkpoint": "重設並復原{0}的「下一個檢查點」以修復。{1}",
+    "Loop": "你不能在同一圈內回到已經到訪過的檢查點。設備{0}具有「下一個檢查點陣列」，引用了{1}，該檢查點在圈內早些時候已被{2}引用。{3}",
+    "DoesntOverlapFinishLine": "你的主要 Rocket Racing 賽道必須從起跑線 Rocket Racing 檢查點延伸到終點線 Rocket Racing 檢查點。它目前沒有與標記為終點線的 Rocket Racing 檢查點相交。{0}",
+    "DoesntOverlapStartingLine": "你的主要 Rocket Racing 賽道必須從起跑線 Rocket Racing 檢查點延伸到終點線 Rocket Racing 檢查點。它目前沒有與標記為起跑線的 Rocket Racing 檢查點相交。{0}",
+    "DeadEnd": "{0}不包含一個或多個最終通往終點線 Rocket Racing 檢查點的「下一個檢查點」引用。{1}",
+    "Orphan": "{0}未連線至賽道。"
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "多個 Rocket Racing 賽車管理器具有相同的關卡標籤。賽道僅能包含一個 Rocket Racing 賽車管理器。{0}",
+    "MultipleModeManager": "放置了多個 Rocket Racing 賽車管理器。賽道僅能包含一個 Rocket Racing 賽車管理器。{0}",
+    "MultipleModeManagerForMode": "放置了多個 Rocket Racing 賽車管理器。賽道僅能包含一個 Rocket Racing 賽車管理器。{0}",
+    "NoModeManager": "沒有放置 Rocket Racing 賽車管理器。賽道僅能包含一個 Rocket Racing 賽車管理器。Rocket Racing 競技賽車管理器，Rocket Racing 競速賽賽車管理器等{0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "超過一個 Rocket Racing 賽道的賽道類型值設定為「主要」。僅能有一個主要賽道。{0}",
+    "DelMarMapCheck_NoPrimaryTrack": "暫無 Rocket Racing 賽道的賽道類型值設定為「主要」。僅能有一個主要賽道。{0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "當你的起跑線和終點線 Rocket Racing 檢查點是同一個 Rocket Racing 檢查點時，賽道被視為一個環形，你的主要賽道曲線必須在樣式編輯器視窗的設備選項卡上將「循環賽道」設定為真。{0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0}的賽道類型為「次要」，但在樣式編輯器視窗的設備選項卡上設定為循環賽道。只有「主要」和「飾品」賽道類型可以設定為循環賽道。{1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0}的最終節點連接到賽圈中比第一個節點更早的位置。這個 Rocket Racing 賽道可能是向後編寫的，與賽道流向相反，或者其曲線的任一端可能太靠近玩家不應抵達的賽道部分。在透視視圖中選擇此 Rocket Racing 賽道，並檢查此次要 Rocket Racing 賽道曲線的連接線是否按預期連接回你的賽道。{1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}。（{ValidatorName}）",
+    "AssetCheck_Message_Warning": "{CustomMessage}。（{ValidatorName}）"
+  }
+}

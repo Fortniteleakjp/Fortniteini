@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "压力触发板",
+    "53154EE74D5D376B3B686BB88086E6C1": "按钮触发板"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "可以踩的按钮，能打开通道。按钮要保持按下的状态，通道才会打开！可与通道相连，以实现触发式的开关控制。",
+    "5105BE2640EF2F340BFDACBBD992B887": "可以踩的按钮，能打开通道。这个按钮与压力底板不同，不需要保持按下的状态。",
+    "3EE5611646661AE4DCB8A286F3C86C08": "可站在开关后面……或站在开关上面！",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "压力触发板",
+    "72407BB74A3BB4361BC8138E65BE9602": "按钮触发板",
+    "B007D95344C458E23652D897346A66AE": "小小的压力，大大的惊喜。"
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "压力触发板",
+    "TriggerPlate_DisplayName": "按钮触发板"
+  }
+}

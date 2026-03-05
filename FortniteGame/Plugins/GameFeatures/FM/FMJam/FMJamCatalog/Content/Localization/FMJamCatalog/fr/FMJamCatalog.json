@@ -1,0 +1,8 @@
+{
+  "FM": {
+    "FMJamLoopTypeBass": "Basse",
+    "FMJamLoopTypeDrum": "Batterie",
+    "FMJamLoopTypeLead": "Instrument principal",
+    "FMJamLoopTypeVox": "Chant"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "Raccogli legno",
+    "EC841CD54B7090D2510D7586F386C251": "Raccogli legno"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Premi E per modificare"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Personalizza"
+  }
+}

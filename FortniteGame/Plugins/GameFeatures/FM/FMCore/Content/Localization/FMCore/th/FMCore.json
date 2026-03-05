@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "ค้นหา",
+    "MusicTimeNetSyncInterfaceSeekTarget": "ค้นหาเป้าหมาย",
+    "MusicTimeNetSyncInterfaceSeek_Description": "เลื่อนเพื่อค้นหาเป้าหมาย",
+    "MusicTimeNetSyncInterfaceSpeed": "ความเร็ว",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "ความเร็วที่นาฬิกาควรใช้",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "จุดที่ต้องเลื่อนไปถึง"
+  }
+}

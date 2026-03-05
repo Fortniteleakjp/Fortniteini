@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "Permite que jogadores troquem de traje na partida.",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "Permite que jogadores troquem de traje na partida.",
+    "6858477D482601B747C2A5B828C69E76": "Permite que jogadores troquem de traje na partida.",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Mudar\r\nTraje",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Cabine de Troca de Roupa",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Cabine de Troca de Roupa",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Personalizar",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Remove todas as pessoas da cabine de troca de roupa ao receber um sinal do canal selecionado.",
+    "1F0C513442C1083AE99BE581F865957A": "Remove a pessoa instigadora da cabine de troca de roupa ao receber um sinal do canal selecionado."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Desabilitar",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Desabilita o dispositivo, remove todas as pessoas da cabine de troca de roupa e impede que ela seja usada.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Habilitar",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Habilitado ao Iniciar",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Habilita o dispositivo, permitindo que a cabine de troca de roupa seja usada.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Se Falso, oculta o ícone do HUD.",
+    "BoolMetaData.FalseDisplayName": "Desligado",
+    "BoolMetaData.TrueDisplayName": "Ligado",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "Quando o Jogador Entrar",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Quando Jogador Sair",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Remover Todos os Jogadores",
+    "C8A4072D491C9059C5CFF1854936E573": "Remover Jogador Instigador",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Exibir Sinalizador do HUD",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Sinalizado quando um jogador entra na Cabine de Troca de Roupa",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Sinalizado quando um jogador sai da Cabine de Troca de Roupa",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Determina se o dispositivo é habilitado no começo do jogo."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Brak klasy widżetu.\n\nPrzejdź do implementacji twojego projektu i znajdź schemat przestrzeni gry, z którego korzysta.\n\nUstaw „PrzechwyćNarzędzieKlasyWidżetu” w komponencie przestrzeni gry SparksUsługiOgólne dla widżetu, który chcesz tam stworzyć.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} ignoruje wydarzenie (brak dostępnych komponentów NPS)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} zwiększa rozmiar puli: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} zwiększa rozmiar puli: {size}"
+  }
+}

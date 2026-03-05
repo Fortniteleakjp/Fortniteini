@@ -1,0 +1,28 @@
+{
+  "": {
+    "4964DEB14D53AEEFCC0A629BD7A33AE6": "Sudah ditingkatkan dengan Kristal Rift",
+    "6057F6864AA9E709C879D6AACB0B51CA": "Terapkan",
+    "584109E4433860505E4221B06CB804C7": "Gunakan <Purple>Kristal Rift Dimensi</> untuk mulai meningkatkan <Emphasize>tingkat kelangkaan</> dan <Emphasize>stat</> item ini!",
+    "1FB0CC254BBC6F5894A163946CABC76D": "Batal",
+    "28C7637F4D5775AAC49AC381A3303FFE": "Tutup",
+    "5F68694648CEA78906D61A9AD2F91C91": "Konfirmasi",
+    "80B9E10E44F1AA31A4086A8989C6D7A3": "Kamu ingin menawarkan <ToUpperEmphasis>{ResourceCount} {ResourceName}</> untuk membuka portal? \n\nPortal akan tetap terbuka hingga <ToUpperEmphasis>{ResourceName}</> terbakar habis.",
+    "A93BE4044AAC177234B627AEDEFEF1F3": "Senjata & Alat yang Memenuhi Syarat",
+    "12D2B7B14894426DEC4E80B14F65CBA2": "Hadapi jantung Badai.\n<SK>Kalahkan Raja Badai</>",
+    "A35E3CEC443D9645ABFF8488B1794079": "Isi Alat & Senjata <purple>Epik</> dengan <Emphasize>Kristal Rift</>.\n\nLalu <Emphasize>gunakan item</> sampai kamu mengeluarkan potensi penuhnya, membuka kelangkaan <Legendary>Legendaris</> dan boost stat!",
+    "8A75BC474CC480B7B6C94D8D9DE89B78": "Sumber Daya Hilang",
+    "B2B98A4946CCAF685CC2EA85001B7162": "Tanduk Badai",
+    "7EDC3006483CE0420E89EB9EA68C6C0A": "Raja Badai",
+    "5E55DF384784B50F018A4E97F0683768": "Energi badai mengamuk di sekelilingmu",
+    "0DDEEF4648973CEBB8E330898100520D": "Pintu Gerbang Badai",
+    "61ED7E1949C3111E2604E49752562FD9": "Ini akan menghancurkan cetak biru dari dunia",
+    "7B3E1974470A6D9C62D666B37138CC99": "Gunakan item ini untuk mengalirkan daya ke inti dan membuka potensi penuhnya!",
+    "0D4D10034D297D2BF45CAE9A447890CB": "Titik Lemah",
+    "C6C376724EA2847152D66D8CB8CF8019": "Senjata & Alat",
+    "B439A62646B21069FC7A7F9DCEA77C38": "Kamu Berhasil Mengalahkan\n<SK>Raja Badai</>",
+    "F439882E473916F876C43CBCE8A41D90": "Kamu butuh <ToUpperEmphasis>{ResourceCount} {ResourceName}</> untuk membuka portal! \n\nPortal akan tetap terbuka hingga <ToUpperEmphasis>{ResourceName}</> terbakar habis.",
+    "6999DD684E4EB94BDD14F8B380D8288D": "{ExtraTime}",
+    "A4F5023D48ACDDB5317A99A19375F1D6": "{ExtraTime}",
+    "54231E4C42ABA535368E3F80BF67F4DE": "{minutes}:{seconds}"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "Hãy sử dụng một vài vật phẩm này khi cần tăng tốc. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "Khi sức mạnh của bạn cần thêm một chút \"năng lượng!\""
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "Gắn các bộ đẩy lớn vào kiến trúc hiện có và vật thể động.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "Gắn các bộ đẩy nhỏ vào kiến trúc hiện có và vật thể động.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "Bộ Đẩy Lớn",
+    "5E9A371D43E076126910D39AF338F4B5": "Bộ Đẩy Nhỏ"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "Bộ Đẩy Lớn",
+    "RemoteThruster_DisplayName": "Bộ Đẩy Nhỏ"
+  }
+}

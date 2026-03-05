@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} 복사"
+  },
+  "Fortnite": {
+    "DoubleElimination": "더블킬",
+    "Down": "쓰러짐",
+    "DebugLoadContentFail": "다운로드 실패",
+    "Eliminated": "처치됨",
+    "Elimination": "처치",
+    "UEFNMobileSessionMainMenuError_Confirmation": "세션 나가기",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "UEFN 모바일 세션에서는 메인 메뉴로 이동할 수 없습니다.",
+    "UEFNMobileSessionMainMenuError_Title": "모바일 세션",
+    "MultiElimination": "멀티킬",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "문제가 발생했습니다. 모바일 세션이 종료됩니다.",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "문제가 발생했습니다: {Reason}. 모바일 세션이 종료됩니다.",
+    "TripleElimination": "트리플킬",
+    "Win": "승리",
+    "UEFNMobileSessionMainMenu_MessageBody": "모바일 세션 중에는 포트나이트 대기실에 들어갈 수 없습니다. 나가시겠습니까?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "리플레이 중에 오류가 발생했습니다."
+  },
+  "SpriteCategory": {
+    "Lighting": "조명"
+  }
+}

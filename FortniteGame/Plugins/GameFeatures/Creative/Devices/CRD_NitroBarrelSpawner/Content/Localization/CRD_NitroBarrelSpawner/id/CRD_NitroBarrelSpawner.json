@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Prop lingkungan yang menerapkan Nitro ke pemain/kendaraan di sekitarnya saat ia meledak.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Prop lingkungan yang menerapkan Nitro ke pemain/kendaraan di sekitarnya saat ia meledak.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Prop lingkungan yang menerapkan Nitro ke pemain/kendaraan di sekitarnya saat ia meledak.",
+    "30E5234B40854AF182F76E99E0005299": "SESUAIKAN BAREL NITRO",
+    "3A16E0DE435CF07612216D94958139C0": "Nonaktifkan Saat Menerima dari",
+    "A17C5EC645C874D630065CA36AD5AB43": "Menonaktifkan perangkat saat menerima dari saluran terpilih.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Aktifkan Saat Menerima dari",
+    "6480B4A0446374163AA14886F9A0633A": "Mengaktifkan perangkat saat menerima dari saluran terpilih.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Instan",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Tabung Nitro",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Tabung Nitro",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "Saat Barel Meledak",
+    "6DE8D3364821C2389FC94292884E08A9": "Saat Barel Diluncurkan",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Terpicu saat tong meledak.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Terpicu saat barel mulai meluncur.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=Detik other=Detik)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Izinkan Barel Respawn",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Mengizinkan barel untuk respawn setelah PenundaanRespawn ketika meledak.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Menentukan berapa lama waktu untuk me-respawn barel.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Menentukan apakah perangkat harus me-respawn barel setelah meledak selama game.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Menentukan pengganda yang diterapkan pada kekuatan yang digunakan untuk meluncurkan barel.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Menentukan apakah barel ini diaktifkan dan dapat terlihat saat game dimulai.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Nonaktifkan Perangkat",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Menonaktifkan dan menyembunyikan barel.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "Jangan Izinkan Barel Respawn",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Aktifkan Perangkat",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Mengaktifkan dan menampilkan barel.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Pengganda Kekuatan Peluncuran",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "Saat Barel Meledak",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "Saat Barel Diluncurkan",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Mencegah barel respawn. Hitung Mundur PenundaanRespawn tidak akan dimulai. Jika hitung mundur sudah dimulai, barel tidak akan respawn saat hitungan selesai.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Penundaan Respawn",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Harus Respawn",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Diaktifkan di Awal",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Terpicu saat tong meledak.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Terpicu saat barel diluncurkan."
+  }
+}

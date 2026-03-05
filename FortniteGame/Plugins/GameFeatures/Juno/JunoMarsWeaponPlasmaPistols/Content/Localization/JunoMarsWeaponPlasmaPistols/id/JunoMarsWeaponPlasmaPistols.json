@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "Aksesori",
+    "1DC695F543617CDD983D6CA98D244D3F": "Laras",
+    "644AFB924BC996E1358E8DAC5E388D65": "Energi",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "Fokus",
+    "43384B4746A525AAE21308A2255D4AB7": "Grip"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "Pistol Plasma Ambar",
+    "Plasma_Pistols_T5_Amber_DisplayName": "Pistol Plasma Ambar",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "Pistol Plasma Ledak",
+    "Plasma_Pistols_T1_Bone_DisplayName": "Pistol Plasma Tulang",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "Pistol Plasma Terang",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "Pistol Plasma Cakar",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "Pistol Plasma Cakar",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "Pistol Plasma Cakar",
+    "Plasma_Pistols_T3_Copper_DisplayName": "Pistol Plasma Tembaga",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "Pistol Plasma Terkutuk",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "Pistol Plasma Zamrud",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "Pistol Plasma Zamrud",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "Pistol Plasma Flexwood",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "Pistol Plasma Frostpine",
+    "Plasma_Pistols_T1_Glass_DisplayName": "Pistol Plasma Kaca",
+    "Plasma_Pistols_T3_Gold_DisplayName": "Pistol Plasma Emas",
+    "Plasma_Pistols_T2_Granite_DisplayName": "Pistol Plasma Granit",
+    "Plasma_Pistols_T3_Iron_DisplayName": "Pistol Plasma Besi",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "Pistol Plasma Akar Simpul",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "Pistol Plasma Mahoni",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "Pistol Plasma Malakit",
+    "Plasma_Pistols_T2_Marble_DisplayName": "Pistol Plasma Marmer",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "Pistol Plasma Obsidian",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "Pistol Plasma Redrock",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "Pistol Plasma Rubi",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "Pistol Plasma Rubi",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "Pistol Plasma Batu Pasir",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "Pistol Plasma Safir",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "Pistol Plasma Safir",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "Pistol Plasma Shatterhorn",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "Pistol Plasma Shatterhorn",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "Pistol Plasma Badai",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "Pistol Plasma Stormguard",
+    "Plasma_Pistols_T1_Wood_DisplayName": "Pistol Plasma Kayu"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "Pistol Plasma"
+  }
+}

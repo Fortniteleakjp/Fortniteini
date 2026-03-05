@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "플레이어가 밟고 점프할 수 있는 배치형 턱입니다.",
+    "EFF5545942BE6E906FA09492A029002C": "플레이어가 밟고 점프할 수 있는 배치형 턱입니다.",
+    "39AFB32446569697402D1D827A10908B": "플레이어가 밟고 점프할 수 있는 배치형 턱입니다.",
+    "1B6B2930405A922826E5319CC16C6F4D": "수신 시 사용 안 함",
+    "39698C45412DE4DC33043394E36BCF15": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "수신 시 사용",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "금속 링",
+    "7E36FA504A82288E8BFF03B718AAF93E": "없음",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "배치형 턱",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "배치형 턱",
+    "97078157436AE317038738A4DBF33EAE": "목재 기둥"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "커스텀 메시",
+    "Device_PlaceableLedge_C.Enable during game.Description": "턱을 사용하고 게임 중 표시될지 설정합니다.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "사용 안 함",
+    "Device_PlaceableLedge_C.Disable.Description": "장치를 사용 안 함 상태로 설정합니다.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "사용",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "게임 중 사용",
+    "Device_PlaceableLedge_C.Enable.Description": "장치를 사용 상태로 설정합니다.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "true로 설정하면 이 장치는 기둥 대신 올라갈 수 있는 링을 사용합니다. ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "턱 메시 선택",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "금속 링",
+    "ELedgeMeshSelections.None.DisplayName": "없음",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "메시 옵션이 커스텀으로 설정될 경우 턱에 사용하는 커스텀 메시.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "목재 기둥"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "环境道具，摧毁时对其周围道具应用氮气。",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "环境道具，摧毁时对其周围道具应用氮气。",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "环境道具，摧毁时对其周围道具应用氮气。",
+    "30E5234B40854AF182F76E99E0005299": "自定义氮气桶",
+    "3A16E0DE435CF07612216D94958139C0": "从何处接收到信号时禁用",
+    "A17C5EC645C874D630065CA36AD5AB43": "从选定频道中接收信号时，禁用设备。",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "从何处接收到信号时启用",
+    "6480B4A0446374163AA14886F9A0633A": "从选定频道中接收信号时，启用设备。",
+    "D668B93241E5952E0B0D7C9F45C0B037": "立即",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "氮气桶",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "氮气桶",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "桶爆炸时",
+    "6DE8D3364821C2389FC94292884E08A9": "桶发射时",
+    "ED148DE148299AEB76E8C1AF05838DC0": "桶爆炸时触发。",
+    "3A1B14E145478FEACE47E0B8E1360191": "桶开始发射时触发。",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0}秒"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "允许桶重新生成",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "允许桶爆炸后，在重新生成延迟之后重新生成。",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "确定桶重新生成所需时间。",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "确定设备在游戏中爆炸后是否应重新生成。",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "确定作用于发射桶的力量加成。",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "确定游戏开始时此桶是否启用且可见。",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "禁用设备",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "禁用并隐藏桶。",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "不允许桶重新生成",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "启用设备",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "启用并显示桶。",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "发射力加成",
+    "BoolMetaData.FalseDisplayName": "关",
+    "BoolMetaData.TrueDisplayName": "开",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "桶爆炸时",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "桶发射时",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "阻止桶重新生成生成。重新生成延迟倒计时不会开始。如倒计时已经开始，桶在倒计时结束时不会重新生成。",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "重生延迟",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "应重新生成",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "游戏开始启动",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "桶爆炸时触发。",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "桶发射时触发。"
+  }
+}

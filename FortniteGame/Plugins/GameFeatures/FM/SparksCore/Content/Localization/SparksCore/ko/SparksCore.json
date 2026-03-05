@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "악기 선택",
+    "E70730D546323455388D0F8862938650": "악기 선택",
+    "94FB361A46082147B697C19A318D8F49": "노래 선택",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "잼 루프",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "잼 트랙",
+    "LockerJamTracksCategory": "보관함 잼 트랙"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "잼 트랙"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "일일 바이브",
+    "setlist_1_title": "일일 바이브",
+    "setlist_title_1": "일일 바이브",
+    "daily_1_desc": "일일 바이브 설명입니다!",
+    "setlist_1_desc": "일일 바이브 설명입니다!",
+    "setlist_desc_1": "일일 바이브 설명입니다!",
+    "festival_1_title": "페스티벌 엄선곡",
+    "setlist_3_title": "페스티벌 엄선곡",
+    "setlist_title_3": "페스티벌 엄선곡",
+    "festival_1_desc": "페스티벌 엄선곡 설명입니다!",
+    "setlist_3_desc": "페스티벌 엄선곡 설명입니다!",
+    "setlist_desc_3": "페스티벌 엄선곡 설명입니다!",
+    "setlist_desc_Fortnitemares": "포트나이트의 악몽",
+    "setlist_title_Fortnitemares": "포트나이트의 악몽",
+    "setlist_2_title": "스포트라이트 연주곡 세트",
+    "setlist_title_2": "스포트라이트 연주곡 세트",
+    "spotlight_1_title": "스포트라이트 연주곡 세트",
+    "setlist_2_desc": "스포트라이트 연주곡 세트 설명입니다!",
+    "setlist_desc_2": "스포트라이트 연주곡 세트 설명입니다!",
+    "spotlight_1_desc": "스포트라이트 연주곡 세트 설명입니다!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "커스텀 연주곡 세트",
+    "ProductMode_DisplayName_Setlist1": "일일 연주곡 세트",
+    "Daily_1_Title": "일일 바이브",
+    "Daily_1_Desc": "표의 일일 바이브 설명",
+    "Festival_1_Title": "페스티벌 엄선곡",
+    "Festival_1_Desc": "표의 페스티벌 엄선곡 설명",
+    "Default_Title": "페스티벌 연주곡 세트",
+    "ProductMode_DisplayName_Setlist3": "스포트라이트 연주곡 세트",
+    "Spotlight_1_Title": "스포트라이트 연주곡 세트",
+    "Spotlight_1_Desc": "표의 스포트라이트 연주곡 세트 설명",
+    "Default_Desc": "기본 연주곡 세트 설명입니다!",
+    "ProductMode_DisplayName_Setlist2": "주간 연주곡 세트"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "아티스트 이름",
+    "SparksAvailableFilter": "이용 가능",
+    "SparksDefaultFilter": "기본",
+    "SparksFeaturedSort": "추천",
+    "SparksFeaturedFilter": "신규 및 추천",
+    "SparksOwnedFilter": "보유함",
+    "SparksOwnedSort": "소유권",
+    "SparksSongSecondaryFilterUnarchivedOnly": "아카이브 표시",
+    "SparksAlphaSort": "곡 이름 (오름차순)",
+    "SparksAlphaSortReverse": "곡 이름 (내림차순)"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

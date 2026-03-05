@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Menschenmengenbereich",
+    "CBA0009043A15E05890AC68F8056B814": "Menschenmengenbereich",
+    "E1067A64427AA66B822488B1D608CD94": "Menschenmengenbereich",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Ausschalten",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Schaltet das Gerät aus, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "BFBBEB534C644E161C3AE491501828F6": "Einschalten",
+    "650644994C28CFD38E31829A56E3464F": "Schaltet das Gerät ein, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Spawnt eine Menschenmenge, die dich anfeuert.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Spawnt eine Menschenmenge, die dich anfeuert.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Spawnt eine Menschenmenge, die dich anfeuert.",
+    "7EDB5C9C49AC528E948643B2245928A7": "Dieses Gerät ermöglicht das Erschaffen einer Menschenmenge.",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=Kachel, other=Kacheln)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=Kachel, other=Kacheln)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=Kachel, other=Kacheln)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0} %",
+    "524941774170EB80263952B139029CF0": "{0} %",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0} %",
+    "E38B41C544828B86144091BA57C7AC52": "{0} %"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Immer",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Charakterausrichtung",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Zufälligkeit der Charakterwinkel",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Zufälligkeit der Charaktergröße",
+    "EEnabledOnPhase.Create Only.DisplayName": "Nur beim Erschaffen",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Mengendichte",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Bestimmt, in welchen Spielphasen das Gerät eingeschaltet ist. „Nur vor dem Spiel“ schließt alle Phasen vor dem Start des Spiels ein (die Lobby, in der auf vorgestellten Inseln auf Spieler gewartet wird, sowie den Startcountdown).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Ausschalten",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Schaltet das Gerät aus, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Einschalten",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Eingeschaltet während Phase",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Schaltet das Gerät ein, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Nur Gameplay",
+    "EEnabledOnPhase.None.DisplayName": "Nie",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Nur vor dem Spiel",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Bestimmt, wie dicht gedrängt die Menschenmenge ist.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Bestimmt, wie präzise die Menschen in der Menge an einem Raster ausgerichtet werden.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Bestimmt, wie zufällig die Größe der Menschen in der Menge ausfällt.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Bestimmt, wie zufällig die Ausrichtung der Menschen in der Menge ausfällt.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Bestimmt die Tiefe der Zone in Kacheln.",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Bestimmt die Höhe der Zone in Kacheln.",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Bestimmt die Breite der Zone in Kacheln.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Zonentiefe",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Zonenhöhe",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Zonenbreite"
+  }
+}

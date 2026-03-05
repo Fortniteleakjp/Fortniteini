@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "خطأ في التحقق من بيانات اللاعب"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "فشلت مزامنة البيانات ونفدت محاولات الإعادة المسموح بها."
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "فشل استرداد نقاط الحفظ المتاحة",
+    "FailedToSetInitialCheckpointErrorMessage": "تعذر تعيين نقطة الحفظ الأولية",
+    "InvalidJunoWorldErrorMessage": "عالم Juno غير صالح عند محاولة بدء معالج نقطة الحفظ",
+    "InvalidJunoRootPlayspaceErrorMessage": "مساحة لعب أساسية غير صالحة عند محاولة بدء معالج نقطة الحفظ"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "محاولة تحميل بيانات استمرارية اللاعب بعد أن تم تحميلها بالفعل",
+    "InvalidPlayerPersistenceStorageErrorMessage": "مساحة تخزين غير صالحة لبيانات استمرارية اللاعب",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "تعذر إنشاء معالج نقطة الحفظ"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "محاولة إلغاء تحميل بيانات استمرارية اللاعب باستخدام معرف لاعب غير صالح",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "محاولة تحميل بيانات استمرارية اللاعب مرات عديدة",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "محاولة تحميل بيانات استمرارية اللاعب باستخدام معرف لاعب غير صالح",
+    "StalePlayerPersistenceHandlerErrorMessage": "معالج بيانات استمرارية لاعب غير مُحدثة عند اكتمال البدء",
+    "UnableToCreatePlayerPersistenceErrorMessage": "تعذر إنشاء معالج بيانات استمرارية اللاعب",
+    "InvalidPlayerPersistenceStorageErrorMessage": "يتعذر استرجاع مساحة تخزين صالحة لبيانات استمرارية اللاعب"
+  }
+}

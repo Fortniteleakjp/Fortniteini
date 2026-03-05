@@ -1,0 +1,37 @@
+{
+  "": {
+    "02D507F542501C32987007BB40B310CF": "你需要一台<EmphA>木材切割机</>。",
+    "46465B3F47396715F622C8B9C8D00E02": "你需要一台<EmphA>木材切割机</>。",
+    "7DA1447E47D8D89073ACF0AAA1A2864B": "你需要一台<EmphA>木材切割机</>。",
+    "A681DC5345D98537642259976B7D96FD": "你需要一台<EmphA>木材切割机</>。"
+  },
+  "Juno_BoostedItemNames_SpearTierExpansionA": {
+    "Spear_T5_T5_Honed_Bamboo_DisplayName": "竹矛",
+    "Spear_T6_T6_Honed_Bamboo_DisplayName": "竹矛",
+    "Spear_T7_T7_Honed_Bamboo_DisplayName": "竹矛",
+    "Spear_T8_T8_Honed_Bamboo_DisplayName": "竹矛",
+    "Spear_T7_T7_Honed_Dragon_Opal_DisplayName": "龙珀矛",
+    "Spear_T8_T8_Honed_Dragon_Opal_DisplayName": "龙珀矛",
+    "Spear_T5_T5_Honed_Kozustone_DisplayName": "木津石矛",
+    "Spear_T6_T6_Honed_Kozustone_DisplayName": "木津石矛",
+    "Spear_T7_T7_Honed_Kozustone_DisplayName": "木津石矛",
+    "Spear_T8_T8_Honed_Kozustone_DisplayName": "木津石矛",
+    "Spear_T6_T6_Honed_Steel_DisplayName": "钢矛",
+    "Spear_T7_T7_Honed_Steel_DisplayName": "钢矛",
+    "Spear_T8_T8_Honed_Steel_DisplayName": "钢矛"
+  },
+  "Juno_UpdateItemData": {
+    "311316ED4D182EEA2FA46DAA81FD15E5": "一把传奇长矛，既可用于近身作战，也可拿来远程投掷。 点击攻击。 长按投掷。",
+    "B25A2F324DB535390E4B73930870E49A": "一把稀有矛，适合近战或远程战斗。点击攻击。长按投掷。",
+    "9586F8E1415780F4E24C91BC3AF6173F": "绝世好矛。",
+    "3D7692F9440542E88EC2D0BE65D1A7D0": "一杆史诗矛，适合近战或远程战斗。点击攻击。长按投掷。",
+    "9FE27A4249F4F9C0F7527782A3B1C0F8": "一把罕见矛，适合近战或远程战斗。点击攻击。长按投掷。",
+    "D94E848A42A304BA80384AB51A03A759": "想扎哪儿，就扎哪儿。",
+    "1F54FBF84AFFB2CCD540CD80D88B83BC": "矛",
+    "2EA3F9C34873AAA9DAA84885A9BCD37B": "矛",
+    "52E93B624E1B24175BB6F6811B0B3856": "矛",
+    "824F02E94ED416162B699D95ED1A1A60": "矛",
+    "C3ED5020413D4F9AC37D7B828F778F0A": "矛就得有矛的范儿。",
+    "888AAE0B4DA62E8ED2440D80116B1BD1": "千金难买的超值大“矛”险。"
+  }
+}

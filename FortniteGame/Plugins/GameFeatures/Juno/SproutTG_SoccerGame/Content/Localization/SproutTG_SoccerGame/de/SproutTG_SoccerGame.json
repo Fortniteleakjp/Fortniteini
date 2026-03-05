@@ -1,0 +1,45 @@
+{
+  "": {
+    "CE2EBED545970E5D07B112B79369AF18": "! Du bist der CHAMPION!",
+    "C0410DDA4E3A05ADCEFFC4BE4A32D502": "! Du warst der wichtigste Spieler!",
+    "E7DFF70C4E5352372598B09D2824909C": "BESTER SPIELER",
+    "762A232A4A63A672F49AFFBA1AB7D7EF": "Trainiere fleißig weiter – jeder unterstützt den Underdog!",
+    "58C2C3984D1A8868770EABAB7895A894": "Champion-Cup",
+    "C83E385442AF0619FDE76E865A284FF4": "Champion-Cup",
+    "853870C14253D047681B368BAD3A12AD": "CountdownStarted",
+    "7EFD5E8A46486F376FD9AEBCB93A0FC9": "LOS!",
+    "73C690B447915FF422182FBDD8D7DEAC": "TORE: ",
+    "26CDE7C84753C7576BF5F0AC9F3DB005": "ZIELE: {GoalCount}",
+    "18C2EC9E4FFDE144DD1ED893CDDBA680": "ZIELE: {score}",
+    "8AA365C54CB9DE77A4978E9F8E8215C2": "Ziele: {Score}",
+    "3A9AFA1F43D9DB2F6B5370A55558CA87": "Tolle Beinarbeit!",
+    "BB378C264E4132D2C22BD6919CFBC498": "Unentschieden! Also, das Match, nicht ich.",
+    "0E3A5B054BBDDEB201F144A32532BB50": "Trainiere weiter! Du schaffst das!",
+    "01A6BD4A44067A98D518E78EAA72D9D2": "Trainiere weiter, Tiger. Nächstes Mal zeigst du’s ihnen.",
+    "180016BF404F2E215987AAA263E041A5": "Kick",
+    "FF86AA804704D28C099FEB8065401ABD": "Match beginnt",
+    "10BC2E9343819C77B52412A510C89D62": "Match abgebrochen",
+    "EFEF5ADF40AD978AF45D4CB5C6974BB3": "Unentschieden",
+    "1245614649B1C434DADDA2BE96D9BEF5": "Match verloren",
+    "73D3D8D94874BB606FDC73BBF060EF01": "MatchCancelled",
+    "364584284EB6682BFAEBE8B39CE4F918": "MatchEnded",
+    "F8D4AC70473504D49EE9458F6BD63372": "MatchStarted",
+    "F80AAB204B2411E3D219EB8BDAAE26A1": "Gut gekickt!",
+    "A3C18D084BD40B179D928F81CAEEB849": "In der Warteschlange",
+    "03C118E64ACA34EEFCC8868F795490A5": "Rutschtritt",
+    "CB691C734EE4DFF423725BAFF6F9C749": "Rutschtritt",
+    "FDBCF607462F7A5C9CCEEA977E64753F": "Rutschtritt",
+    "54FA518741A0C772D39C99BCB0FBDB68": "Du bist so gut im Fußball!",
+    "1668AC5040065452302F2BAA46F43504": "Du hast dein Bestes gegeben!",
+    "9FD393D34D8D852CF7A6299B440E3581": "Du hast das Spiel verloren."
+  },
+  "Juno_UpdateItemData": {
+    "055C395B4ED316EA2FD1A28B034FD4BF": "!!!",
+    "A9EE6BFB4EF1B46CCF9CE09A1EE3E7C5": "Jetzt wird gekickt",
+    "F39D5A7B423A8D2646989D82EC05D8D9": "Kick"
+  },
+  "ST_Sprout_SoccerRewardMail": {
+    "SoccerWinReward_Subject": "Champion-Cup!",
+    "SoccerWinReward_Body": "Glückwunsch zum Sieg beim <emphasis>Champion-Cup von Steinbucht</>! Du hast auf dem Platz wirklich alles gegeben. Dadurch hast du nicht nur neue Fans gewonnen, sondern auch noch diese <emphasis>Trophäe</>!"
+  }
+}

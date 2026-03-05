@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "Szukaj",
+    "MusicTimeNetSyncInterfaceSeekTarget": "Odszukać cel",
+    "MusicTimeNetSyncInterfaceSeek_Description": "Szukaj, aby odszukać cel.",
+    "MusicTimeNetSyncInterfaceSpeed": "Szybkość",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "Szybkość, jaką powinien stosować zegar.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "Gdzie szukać."
+  }
+}

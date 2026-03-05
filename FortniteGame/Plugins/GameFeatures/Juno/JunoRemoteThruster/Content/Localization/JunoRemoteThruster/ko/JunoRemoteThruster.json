@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "부스트가 필요할 때 이걸 몇 개 사용해 보세요. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "부스트에 조금 더 강한 '충격'이 필요할 때 사용하세요!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "기존 구조물과 움직이는 사물에 대형 추진기를 붙입니다.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "기존 구조물과 움직이는 사물에 소형 추진기를 붙입니다.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "대형 추진기",
+    "5E9A371D43E076126910D39AF338F4B5": "소형 추진기"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "대형 추진기",
+    "RemoteThruster_DisplayName": "소형 추진기"
+  }
+}

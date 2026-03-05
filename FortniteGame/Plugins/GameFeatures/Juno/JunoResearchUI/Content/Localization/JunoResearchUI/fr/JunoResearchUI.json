@@ -1,0 +1,33 @@
+{
+  "": {
+    "19ACA3784C9E44E8BE91899105DF6A04": "0",
+    "75E779BC48F72B0FB644BF830A11A1C1": "<Essence_Current>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "9BAE8D574CAD3975632AAB9854E8ABA3": "<Essence_Full>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "E885F4D4445059F3D3E224A08C420745": "Équipement à compétence",
+    "453CFCA043482357A9490992C2D88E98": "Retour",
+    "A66FFD79437A7C4EE261A58B81F9F1DF": "Fermer",
+    "AC1CC62543EB6DB85055919D0313B288": "Schéma de fabrication",
+    "00B7D9BF432BC3CE81140CA02785CD37": "Essence",
+    "FEFB063C42905A6210A5C4A1614916D5": "Héros",
+    "71F083C3404AB8E3A747779A7EF01671": "La maîtrise héroïque comprend des schémas de fabrication pour des <Research>armes de héros</> et des <Research>équipements à compétence</>, ainsi que des <Research>effets passifs</>.\n\nUtilisez vos essences pour apprendre le schéma d'un objet, puis remplissez les prérequis pour le déverrouiller ! Les schémas déverrouillés peuvent être fabriqués au <Research>poste héroïque</>, que vous pouvez découvrir en récupérant du granit avant de le construire depuis le <Research>menu Construction</>.\n\nUne fois déverrouillés, les <Research>effets passifs</> seront automatiquement appliqués aux armes indiquées, tant que ces dernières possèdent le niveau de rareté requis pour les effets.",
+    "0B32CD5A4ED05EFBDBB0259E89474222": "Apprendre",
+    "2DD93B44441F8685E6012DBFFA0D3C6F": "Niveau {Curr}/{Max}",
+    "27FD1DCD43DFFEB7F45E40B1C2D89659": "Maîtrisée !",
+    "6B280313437D1F92980653BB23B1B8A3": "Maîtrise",
+    "8622C6FC44D18974363C8F9DF2210E6D": "Maîtrise disponible !",
+    "9E62741E4D0B658A763EC8B9E897BB03": "Maîtrise disponible !",
+    "955710F848FC692B0D6F6C85659B6228": "D'autres branches de maîtrise seront disponibles prochainement !",
+    "177907084ED421444E82248E1A639E08": "Nouveau !",
+    "F2A2739A40218E238C686D84E34CB03B": "Odyssey",
+    "8452A3A346AD7425CC6AAFA6B0535F32": "Effet passif",
+    "850AC88E4A827A0FFF643EBA4C1DDB50": "Rechercher",
+    "7A2D475343B4E45A60D5CABB82E919AD": "Cet <Research>effet passif</> s'appliquera à tout <Research>équipement à compétence {Theme}</> équipé, quelle que soit sa rareté.",
+    "5A23004B4E60012AC25115820A8CDEDA": "Cet <Research>effet passif</> s'appliquera à toute <Research>arme {Theme}</> équipée, quelle que soit sa rareté.",
+    "28988A8049879442C9F30EBDAD228E26": "Prérequis pour déverrouiller :",
+    "73C4C01F44D1CD89BA3C2C9B834E3D0F": "Déverrouille le schéma suivant : <ItemName>{ItemName}</>",
+    "3F95333544CE1E9B8F7B5C86225E2168": "Armes",
+    "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
+    "E94F82024EF41828E5066E94805EFC16": "{Num} disponible(s)",
+    "FB1530584BB53CC80CA5F7B059A572E0": "{Num} disponible(s)"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "Oyuncuların oyun içinde kıyafetlerini değiştirmesini sağlar!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "Oyuncuların oyun içinde kıyafetlerini değiştirmesini sağlar!",
+    "6858477D482601B747C2A5B828C69E76": "Oyuncuların oyun içinde kıyafetlerini değiştirmesini sağlar!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Kıyafeti\r\nDeğiştir",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Giyinme Kabini",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Giyinme Kabini",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Özelleştir",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Seçilen kanaldan sinyal alındığında tüm oyuncuları Giyinme Kabini'nden çıkarır.",
+    "1F0C513442C1083AE99BE581F865957A": "Seçilen kanaldan sinyal alındığında tetikleyen oyuncuyu Giyinme Kabini'nden çıkarır."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Cihazı devre dışı bırakır, tüm oyuncuları Giyinme Kabini'nden çıkarır ve cihazın kullanılmasını engeller.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Etkinleştir",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Oyun Başlangıcında Etkin",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Cihazı etkinleştirerek oyuncuların Giyinme Kabini'ni kullanmasına izin verir.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Kapalı olarak ayarlandığında gösterge paneli simgesini gizler.",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "Oyuncu Girdiğinde Şuraya Aktar:",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Oyuncu Çıkış Yaptığında",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Tüm Oyuncuları Çıkar",
+    "C8A4072D491C9059C5CFF1854936E573": "Tetikleyen Oyuncuyu Çıkar",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Gösterge Panelini İşaretini Göster",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Bir oyuncu Giyinme Kabini Cihaz'ına girdiğinde sinyal verir.",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Bir oyuncu Giyinme Kabini Cihaz'ından çıktığında sinyal verir.",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Bu cihazın oyun başladığında etkin olup olmayacağını belirler."
+  }
+}

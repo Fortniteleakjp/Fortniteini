@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "配饰",
+    "1DC695F543617CDD983D6CA98D244D3F": "桶",
+    "644AFB924BC996E1358E8DAC5E388D65": "耐力",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "专注",
+    "43384B4746A525AAE21308A2255D4AB7": "握把"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "琥珀等离子手枪",
+    "Plasma_Pistols_T5_Amber_DisplayName": "琥珀等离子手枪",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "爆裂等离子手枪",
+    "Plasma_Pistols_T1_Bone_DisplayName": "白骨等离子手枪",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "光明等离子手枪",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "尖爪等离子手枪",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "尖爪等离子手枪",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "尖爪等离子手枪",
+    "Plasma_Pistols_T3_Copper_DisplayName": "铜制等离子手枪",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "诅咒等离子手枪",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "绿宝石等离子手枪",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "翡翠等离子手枪",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "仙人掌木等离子手枪",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "寒松等离子手枪",
+    "Plasma_Pistols_T1_Glass_DisplayName": "玻璃等离子手枪",
+    "Plasma_Pistols_T3_Gold_DisplayName": "黄金等离子手枪",
+    "Plasma_Pistols_T2_Granite_DisplayName": "花岗岩等离子手枪",
+    "Plasma_Pistols_T3_Iron_DisplayName": "铁质等离子手枪",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "环节木等离子手枪",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "桃花心木等离子手枪",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "孔雀石等离子手枪",
+    "Plasma_Pistols_T2_Marble_DisplayName": "大理石等离子手枪",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "黑曜石等离子手枪",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "红岩等离子手枪",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "红宝石等离子手枪",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "红宝石等离子手枪",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "砂岩等离子手枪",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "蓝宝石等离子手枪",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "蓝宝石等离子手枪",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "破碎犄角等离子手枪",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "破碎犄角等离子手枪",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "风暴等离子手枪",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "风暴护卫等离子手枪",
+    "Plasma_Pistols_T1_Wood_DisplayName": "木制等离子手枪"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "等离子手枪"
+  }
+}

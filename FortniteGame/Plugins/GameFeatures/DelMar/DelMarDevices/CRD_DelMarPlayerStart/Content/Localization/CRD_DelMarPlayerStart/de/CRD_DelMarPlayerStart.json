@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Ein Startpunkt für ein Rocket Racing-Rennen",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "RR-Spielerstart",
+    "0DF3230B4B023C3622D22CA51A8972F7": "RR-Spieler-Startposition"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "Bestimmt, in welcher Reihenfolge die Autos an der Startlinie gespawnt werden sollen. Werte unter Null werden beim Spawnen an der Startlinie ignoriert.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "Priorität"
+  }
+}

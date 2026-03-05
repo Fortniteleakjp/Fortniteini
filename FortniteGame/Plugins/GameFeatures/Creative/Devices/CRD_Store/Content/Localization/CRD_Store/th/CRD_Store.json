@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "ประตูมิติร้านค้าไอเทม",
+    "A636CB9048F6D10A27FAE2ACA3336261": "ประตูมิติร้านค้าไอเทม",
+    "ECA01A1C4D96960EA267CEA75C458F15": "ประตูมิติร้านค้าไอเทม",
+    "F0DA7B7A455C002838011E9950021E4F": "ประตูมิติร้านค้าไอเทม",
+    "F6BA046441D88E68E7317EB0D779DDEE": "ประตูมิติร้านค้าไอเทม",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "เปิดร้านค้า",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "เปิดร้านค้า",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "เปิดร้านค้าเมื่อได้รับอีเวนต์",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "เปิดร้านค้า: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "เปิดร้านค้า: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "เปิดร้านค้าสำหรับผู้เล่นที่กระตุ้นการทำงาน เมื่อได้รับอีเวนต์ช่องที่เลือกไว้",
+    "18E3F3AD48251A9142A05A8349684E89": "อุปกรณ์นี้จะเปิดร้านค้าไอเทมเมื่อเปิดใช้งาน",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "อุปกรณ์นี้จะเปิดร้านค้าไอเทมเมื่อเปิดใช้งาน",
+    "79656CFD409EE4E11B68988ACDCA8585": "อุปกรณ์นี้จะเปิดร้านค้าไอเทมเมื่อเปิดใช้งาน",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "อุปกรณ์นี้จะเปิดร้านค้าไอเทมเมื่อเปิดใช้งาน",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "อุปกรณ์นี้จะเปิดร้านค้าไอเทมเมื่อเปิดใช้งาน"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "ตลอดเวลา",
+    "EEnabledOnPhase.Create Only.DisplayName": "เฉพาะสร์าง",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "กำหนดช่วงเวลาในเกมที่จะเปิดการใช้งานอุปกรณ์ \"ช่วงก่อนเกม\" รวมถึงทุกช่วงเวลาก่อนที่เกมจะเริ่ม (ล็อบบี้รอผู้เล่นบนเกาะแนะนำ และช่วงนับถอยหลังก่อนเริ่มเกม)",
+    "Device_ItemShop_V2_C.InteractTime.Description": "กำหนดระยะเวลาการโต้ตอบที่ต้องการเพื่อเปิดการใช้งานอุปกรณ์",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "ปิดการใช้งาน",
+    "Device_Store_C.Disable.DisplayName": "ปิดการใช้งาน",
+    "Device_Store_C.Disable.Description": "ปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "Device_ItemShop_V2_C.Disable.Description": "ปิดการใช้งานอุปกรณ์",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "เปิดการใช้งาน",
+    "Device_Store_C.Enable.DisplayName": "เปิดการใช้งาน",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "เปิดการใช้งานตามช่วงเวลา",
+    "Device_Store_C.Enable.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "Device_ItemShop_V2_C.Enable.Description": "เปิดการใช้งานอุปกรณ์",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "เกมเพลย์เท่านั้น",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "เวลาในการโต้ตอบ",
+    "EEnabledOnPhase.None.DisplayName": "ไม่มี",
+    "Device_Store_C.OpenStore.DisplayName": "เปิดร้านค้า",
+    "Device_Store_C.OpenStore.Description": "เปิดร้านค้าสำหรับผู้เล่นที่กระตุ้นการทำงาน เมื่อได้รับอีเวนต์ช่องที่เลือกไว้",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "เฉพาะแมตช์ที่รอเริ่ม"
+  }
+}

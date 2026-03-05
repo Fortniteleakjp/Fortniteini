@@ -1,0 +1,23 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "Не удалось оформить покупку; другая транзакция пользователя уже обрабатывается.",
+    "ErrorPurchaseNotAllowed": "Не удалось оформить покупку; пользователь не может совершать покупки.",
+    "ErrorNoUIHandler": "Не удалось отобразить анимированный интерфейс покупки."
+  },
+  "McpQueryResult": {
+    "GenericError": "Ошибка при обращении к игровым серверам ({0}).",
+    "GenericHTTPError": "Произошла ошибка во время связи с серверами игры:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "Не удалось подключиться к серверу.",
+    "JsonError": "Ошибка сервера типа {0}",
+    "InvalidJson": "Не удалось разобрать ответ сервера. Неверный JSON. Ошибка {0}",
+    "NonObjectJson": "Не удалось разобрать ответ сервера. Не является объектом JSON."
+  },
+  "OnlineFriend": {},
+  "OnlineIdentity": {},
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "Не удалось проанализировать платежный документ на сервисе продаж."
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "Epic Games"
+  }
+}

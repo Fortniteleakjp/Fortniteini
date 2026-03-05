@@ -1,0 +1,40 @@
+{
+  "": {
+    "F5D61A094B45C706BCC7C79EDD07717C": "BBSkydivingDown",
+    "081D9FD54B77244077CFBDAC685DA6E8": "BBSkydivingUp",
+    "57387B2A48CA6FC06CC96182B6763417": "Autobús de combate",
+    "FA8287B645FBB5D9FEEF32BFAD36F292": "Autobús de combate",
+    "613C889A437677B2819282A0F04B300C": "¡Bip, bip! ¡Todo el mundo a bordo!",
+    "55023335BA627A42DE446281C7CA42CF": "Estación de autobús",
+    "1426D5DB45655F86ACD81587CBB9F73C": "Cancelar desplazamiento rápido",
+    "6A760B4342CA17DBA550E69CAE563BBA": "Desplazamiento rápido",
+    "DA42055D42A2FDBDA7AF129090E80D23": "Desplazamiento rápido",
+    "47D3262E43EEAE406915EC90E939EA78": "Planeador",
+    "E557EAE94B7FDC8584F75397D63429F6": "Planeador",
+    "F6696CF34A757AA818C004912AAFEC0F": "Planeador",
+    "55023335BA627A42DE446281CEAF2645": "JBID_Juno_BusStop",
+    "617E709B4BA5E6E30CBB6E8E440AF3C5": "Unirse a desplazamiento rápido",
+    "644F21D342720FB35918F09EE13F5D00": "IP",
+    "3BCAA9E84292E8ABE033BDB60DC840D9": "Islas perdidas",
+    "1F0751F543D8D657CDE333B7FE32D6D5": "RO",
+    "0BE8C8B34DD0ADD40418DEA58FD07676": "Puesto remoto rebelde",
+    "556A63864ABE3BE9C244A887A67B28E8": "Descender en caída libre",
+    "93864B1C474CDA3AB7E1BA9F9DFBAA63": "Ascender en caída libre",
+    "05098888491CC33D6FADCCAEA4EC3DB5": "Planeador de batalla estándar. ",
+    "BB44B05C4AB7C54038CC0795459DA452": "Terminal de la red de viaje rápido del autobús de combate.",
+    "87E6D50E49343BFE79EA9AAAA7EA73C1": "Viaja a Brick Life",
+    "FFFBA818479EE850114ED6AC1AC595E3": "Ver mapa"
+  },
+  "JunoBattleBusBlueprintLibrary": {
+    "BusStationLettersLong": "Estación de autobús {0}",
+    "BusStationNumbersLong": "Estación de autobús {0}",
+    "BusStationNumbersShort": "{0}",
+    "ConvertIndexToLetters": "{0}"
+  },
+  "JunoBusTeleportControllerComponent": {
+    "OnPlayerThankedBusDriverEvent": "{0} <Yellow>le dio las gracias al conductor del autobús</>"
+  },
+  "Juno_CraftingFormulas_BattleBus": {
+    "BusStop_DisplayName": "Parada de autobús"
+  }
+}

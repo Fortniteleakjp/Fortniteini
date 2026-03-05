@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "Sắp xong rồi! Hãy mở ứng dụng để hoàn tất.",
+    "DownloadCompleteNotification.Title": "Hoàn tất cài đặt và chơi ngay",
+    "DownloadCompleteNotification.ActionText": "Cài đặt",
+    "InstallBundleSourceValkyrieDownloadedFmt": "Gói Cài Đặt Nguồn Game Tùy Chỉnh Đã Tải Xuống {0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "Gói Cài Đặt Nguồn Game Tùy Chỉnh Đã Cài Đặt {0}",
+    "Simulate_BuildVerify_Error": "Cài đặt bị lỗi. Vui lòng liên hệ bộ phận hỗ trợ."
+  }
+}

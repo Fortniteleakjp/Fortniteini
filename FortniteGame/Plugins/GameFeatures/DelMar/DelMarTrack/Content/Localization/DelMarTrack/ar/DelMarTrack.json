@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "يفعل مضمارًا معينًا عندما يدخل المتسابق في هذا الحيز. يُستخدم عادةً للمضامير التي لا تحتوي على أشكال هندسية.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "حيز مضمار RR نشط"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "فرض إعادة نشر المضمار المخفي",
+    "MultipleValues": "قيم متعددة",
+    "Off Track Radius": "خارج نطاق المضمار",
+    "Use Back Endcap": "استخدام السد الخلفي",
+    "Use Front Endcap": "استخدام السد الأمامي",
+    "Use Stable Roll": "استخدام الالتفاف المستقر"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "تغيير شكل النقاط المتعددة",
+    "DeleteMultipleNodeConfirmation": "هل تريد حذف النقاط المتعددة؟",
+    "DeleteMultipleNodes": "حذف النقاط المتعددة",
+    "EnableOOBTube": "تفعيل أنبوب OOB",
+    "MeshCustomizations": "تخصيصات الشبكة بشكل متعدد",
+    "MultipleNodesSelected": "تم تحديد نقاط متعددة",
+    "UseStableRollOnMultiple": "استخدام الالتفاف المستقر بشكل متعدد"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "حذف النقطة",
+    "DeleteNodeConfirmation": "هل تريد حذف النقطة؟",
+    "MetaDataIndexTitle": "المؤشر: {CurrentIndex}",
+    "SingleNodeSelected": "تم تحديد نقطة واحدة",
+    "SplitNode": "التقسيم عند النقطة",
+    "SplitNodeConfirmation": "هل تريد التقسيم عند النقطة؟"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "الجهاز",
+    "DeviceProperties": "خصائص الجهاز",
+    "EditDevice": "تعديل الجهاز",
+    "EditTrack": "تعديل المضمار",
+    "Looping Track": "مضمار على شكل حلقي",
+    "None": "لا شيء",
+    "RoadStyle": "نمط الطريق",
+    "SelectSplinePoints": "تحديد نقاط المنحنى",
+    "SelectedPoints": "النقاط المحددة",
+    "Theme": "النسق",
+    "Track": "المضمار"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "اتصال المضمار الثانوي سيء! تأكد من أن جميع المضامير الثانوية متصلة بمضامير أساسية أو ثانوية: {1}). الخريطة: {2}",
+    "NoEndTrackConnection": "لا يحتوي المضمار الثانوي على EndTrackConnection في {0}. الخريطة: {1}",
+    "NoStartTrackConnection": "لا يحتوي المضمار الثانوي على StartTrackConnection في {0}. الخريطة: {1}",
+    "SecondaryTrackLoops": "تم اكتشاف حلقة مضمار ثانوية! تم اكتشاف حلقة في المضمار {0} (مضمار البدء: {1}). الخريطة: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "متقدم",
+    "AttachToEnd": "الإلحاق بالنهاية",
+    "AttachToStart": "الإلحاق بالبداية",
+    "Attaching": "إلحاق",
+    "ConvertOobTubesToNative_Label": "تحويل أنابيب OOB للمخطط إلى المكافئ الأصلي",
+    "ConvertOobTubesToNative_Tooltip": "يحول جميع أنابيب OOB الحالية للمخطط إلى المكافئ الأصلي لها.",
+    "DelMarTrack": "مضمار Del Mar",
+    "PrintAttachableActors": "طباعة العناصر القابلة للإلحاق",
+    "RebuildOobTube": "إعادة بناء أنبوب OOB",
+    "DelMarStyleEditor": "محرر الأسلوب"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "مصور مكونات منحنى Del Mar"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "أنبوب OOB",
+    "Rebuild OOB Tube": "إعادة بناء أنبوب OOB",
+    "RoadSplineTabTitle": "منحنى الطريق",
+    "SelectedSplineTabTitle": "النقطة المحددة",
+    "SplineLengthTitle": "طول المنحنى: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "تحديد نقاط المنحنى",
+    "SelectedPoints": "النقاط المحددة"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "طريق على الضفاف",
+    "Change Road Shape": "تغيير شكل الطريق",
+    "FlatRoad": "طريق مسطح",
+    "HalfPipe": "نصف أنبوب",
+    "Pipe": "أنبوب",
+    "RoadShape": "شكل الطريق",
+    "Tunnel": "نفق"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "أضف نقطة المنحنى التالية إلى التحديد الحالي.",
+    "SelectAddPrevSplinePointToolTip": "أضف نقطة المنحنى السابقة إلى التحديد الحالي.",
+    "DeleteMultipleNodeConfirmation": "هل تريد حذف النقاط المتعددة؟",
+    "SelectDeleteSplinePointToolTip": "احذف نقطة في التحديد الحالي.",
+    "SelectAllSplinePointToolTip": "حدد جميع نقاط المنحنى.",
+    "SelectFirstSplinePointToolTip": "حدد نقطة المنحنى الأولى.",
+    "SelectLastSplinePointToolTip": "حدد نقطة المنحنى الأخيرة.",
+    "SelectNextSplinePointToolTip": "حدد نقطة المنحنى التالية.",
+    "SelectPrevSplinePointToolTip": "حدد نقطة المنحنى السابقة.",
+    "SplitNodeConfirmation": "هل تريد التقسيم عند النقطة المحددة؟",
+    "SelectSplitSplinePointToolTip": "تقسيم العُقد في الفهارس المحددة."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "تبديل نقاط المنحنى المحددة إلى علامة UseStableRoll",
+    "ToggleUseStableRoll": "استخدام الالتفاف المستقر"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "المضمار المطلوب تفعيله"
+  }
+}

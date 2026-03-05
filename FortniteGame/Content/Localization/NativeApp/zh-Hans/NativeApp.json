@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0}副本"
+  },
+  "Fortnite": {
+    "DoubleElimination": "淘汰两人",
+    "Down": "倒下",
+    "DebugLoadContentFail": "下载失败",
+    "Eliminated": "淘汰",
+    "Elimination": "淘汰",
+    "UEFNMobileSessionMainMenuError_Confirmation": "退出会话",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "UEFN（Unreal Editor Fortnite特别版）移动端赛程中不允许访问主菜单。",
+    "UEFNMobileSessionMainMenuError_Title": "移动端会话",
+    "MultiElimination": "淘汰多人",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "出错了。 即将退出移动端会话",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "出错了：{Reason}。即将退出移动端会话",
+    "TripleElimination": "淘汰三人",
+    "Win": "获胜",
+    "UEFNMobileSessionMainMenu_MessageBody": "你仍处于移动端会话状态，无法进入Fortnite大厅。是否退出？"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "重播期间发生错误。"
+  },
+  "SpriteCategory": {
+    "Lighting": "照明"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Terjadi kesalahan saat memeriksa data pemain"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Gagal membersihkan persistensi dan menghabiskan upaya percobaan ulang yang diizinkan"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Gagal mengambil titik periksa yang tersedia",
+    "FailedToSetInitialCheckpointErrorMessage": "Gagal mengatur checkpoint awal",
+    "InvalidJunoWorldErrorMessage": "Dunia Juno tidak valid saat berusaha menginisialisasi pengelola titik periksa",
+    "InvalidJunoRootPlayspaceErrorMessage": "Area bermain akar tidak valid saat berusaha menginisialisasi pengelola titik periksa"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Berusaha menginisialisasi persistensi pemain walau sudah diinisialisasi sebelumnya",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Penyimpanan persistensi pemain tidak valid",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Tidak bisa membuat pengelola titik periksa"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Berusaha membatalkan inisialisasi persistensi pemain dengan id pemain yang tidak valid",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Berusaha menginisialisasi persistensi pemain beberapa kali",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Berusaha menginisialisasi persistensi pemain dengan id pemain yang tidak valid",
+    "StalePlayerPersistenceHandlerErrorMessage": "Pengelola persistensi pemain tidak aktif setelah inisialisasi selesai",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Tidak bisa membuat pengelola persistensi pemain",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Tidak bisa mengambil penyimpanan persistensi pemain yang valid"
+  }
+}

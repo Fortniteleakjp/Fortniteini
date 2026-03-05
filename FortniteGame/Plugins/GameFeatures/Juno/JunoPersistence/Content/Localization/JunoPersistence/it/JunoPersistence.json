@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Errore nella consultazione dei dati del giocatore"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Impossibile eseguire il flush della persistenza e tentativi di riprova consentiti esauriti."
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Impossibile recuperare i punti di controllo disponibili",
+    "FailedToSetInitialCheckpointErrorMessage": "Impossibile impostare il checkpoint iniziale",
+    "InvalidJunoWorldErrorMessage": "Mondo Juno non valido nel tentativo di inizializzare l'handler del punto di controllo",
+    "InvalidJunoRootPlayspaceErrorMessage": "Spazio di gioco root non valido nel tentativo di inizializzare l'handler del punto di controllo"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Tentativo di inizializzare la persistenza del giocatore a inizializzazione già effettuata",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Archivio persistenza giocatore non valido",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Impossibile creare l'handler del punto di controllo"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Tentativo di rilasciare la persistenza del giocatore con ID giocatore non valido",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Tentativi ripetuti di inizializzare la persistenza del giocatore",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Tentativo di annullare l'inizializzazione della persistenza del giocatore con ID giocatore non valido",
+    "StalePlayerPersistenceHandlerErrorMessage": "Handler di persistenza del giocatore obsoleto al completamento dell'inizializzazione",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Impossibile creare l'handler della persistenza del giocatore",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Impossibile recuperare archivio persistenza giocatore"
+  }
+}

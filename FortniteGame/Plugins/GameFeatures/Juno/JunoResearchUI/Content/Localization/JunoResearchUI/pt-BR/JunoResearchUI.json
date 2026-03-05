@@ -1,0 +1,33 @@
+{
+  "": {
+    "19ACA3784C9E44E8BE91899105DF6A04": "0",
+    "75E779BC48F72B0FB644BF830A11A1C1": "<Essence_Current>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "9BAE8D574CAD3975632AAB9854E8ABA3": "<Essence_Full>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "E885F4D4445059F3D3E224A08C420745": "Equipamento de Habilidade",
+    "453CFCA043482357A9490992C2D88E98": "Voltar",
+    "A66FFD79437A7C4EE261A58B81F9F1DF": "Fechar",
+    "AC1CC62543EB6DB85055919D0313B288": "Receita de Criação",
+    "00B7D9BF432BC3CE81140CA02785CD37": "Essência",
+    "FEFB063C42905A6210A5C4A1614916D5": "Maestria Heroica",
+    "71F083C3404AB8E3A747779A7EF01671": "A Maestria Heroica inclui receitas de criação de <Research>Armas Heroicas</> e itens de <Research>Equipamento de Habilidade</>, além de <Research>Efeitos Passivos</>.\n\nUse a Essência que você coletou para aprender um item, e então cumpra os requisitos para desbloqueá-lo! Receitas desbloqueadas podem ser criadas na <Research>Estação Heroica</>, que pode ser descoberta ao coletar granito e então construída a partir do <Research>Menu de Construção</>.\n\nDepois de desbloqueados, os <Research>Efeitos Passivos</> serão automaticamente aplicados a armas específicas, desde que cumpram os requisitos de raridade dos Efeitos.",
+    "0B32CD5A4ED05EFBDBB0259E89474222": "Aprender",
+    "2DD93B44441F8685E6012DBFFA0D3C6F": "Nível {Curr}/{Max}",
+    "27FD1DCD43DFFEB7F45E40B1C2D89659": "Dominado!",
+    "6B280313437D1F92980653BB23B1B8A3": "Maestria",
+    "8622C6FC44D18974363C8F9DF2210E6D": "Maestria Disponível!",
+    "9E62741E4D0B658A763EC8B9E897BB03": "Maestria Disponível!",
+    "955710F848FC692B0D6F6C85659B6228": "Mais ramos de Maestria chegarão em breve!",
+    "177907084ED421444E82248E1A639E08": "Novidade!",
+    "F2A2739A40218E238C686D84E34CB03B": "Odyssey",
+    "8452A3A346AD7425CC6AAFA6B0535F32": "Efeito Passivo",
+    "850AC88E4A827A0FFF643EBA4C1DDB50": "Pesquisar",
+    "7A2D475343B4E45A60D5CABB82E919AD": "Este <Research>Efeito Passivo</> será aplicado a qualquer raridade de <Research>Equipamento de Habilidade de {Theme}</> que estiver em uso.",
+    "5A23004B4E60012AC25115820A8CDEDA": "Este <Research>Efeito Passivo</> será aplicado a qualquer raridade de <Research>Arma de {Theme}</> que estiver em uso.",
+    "28988A8049879442C9F30EBDAD228E26": "Requisitos de Desbloqueio:",
+    "73C4C01F44D1CD89BA3C2C9B834E3D0F": "Desbloqueia a capacidade de criar <ItemName>{ItemName}.</>",
+    "3F95333544CE1E9B8F7B5C86225E2168": "Armas",
+    "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
+    "E94F82024EF41828E5066E94805EFC16": "{Num} {Num}|plural(one=disponível,other=disponíveis)",
+    "FB1530584BB53CC80CA5F7B059A572E0": "{Num} {Num}|plural(one=disponível,other=disponíveis)"
+  }
+}

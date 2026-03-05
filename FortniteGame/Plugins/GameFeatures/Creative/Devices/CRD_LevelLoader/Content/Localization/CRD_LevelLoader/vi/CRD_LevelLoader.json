@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Thiết Bị Tải Cấp Độ Chơi",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Thiết Bị Tải Cấp Độ Chơi",
+    "6290D58B473E479F05752B83814E9464": "Thiết bị tải cấp chơi tải những màn chơi được tạo bởi thiết bị phó bản cấp chơi và cho phép bạn đặt và luân chuyển chúng ở bất kỳ đâu trên đảo của bạn, bao gồm trên đỉnh của các thiết bị tải cấp chơi khác.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "Thiết bị tải cấp chơi tải những màn chơi được tạo bởi thiết bị phó bản cấp chơi và cho phép bạn đặt và luân chuyển chúng ở bất kỳ đâu trên đảo của bạn, bao gồm trên đỉnh của các thiết bị tải cấp chơi khác.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "Thiết bị tải cấp chơi tải những màn chơi được tạo bởi thiết bị phó bản cấp chơi và cho phép bạn đặt và luân chuyển chúng ở bất kỳ đâu trên đảo của bạn, bao gồm trên đỉnh của các thiết bị tải cấp chơi khác."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Tắt",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Bật",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Bật Khi Bắt Đầu Trận",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Tên Phó Bản Cấp Độ Chơi",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Tên của cấp độ chơi sẽ được tải.",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Thiết bị này có được bật khi bắt đầu trận hay không."
+  }
+}

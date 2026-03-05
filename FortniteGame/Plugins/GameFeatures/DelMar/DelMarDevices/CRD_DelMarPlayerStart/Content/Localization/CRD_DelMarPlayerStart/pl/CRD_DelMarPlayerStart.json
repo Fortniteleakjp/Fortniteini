@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Pozycja, z której gracz rozpoczyna wyścig Rocket Racing",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "Miejsce startowe gracza w RR",
+    "0DF3230B4B023C3622D22CA51A8972F7": "Pozycja startowa gracza RR"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "Określa kolejność, w której samochody będą tworzone na linii startu. Wartości poniżej zera będą ignorowane podczas tworzenia na linii startu.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "Priorytet"
+  }
+}

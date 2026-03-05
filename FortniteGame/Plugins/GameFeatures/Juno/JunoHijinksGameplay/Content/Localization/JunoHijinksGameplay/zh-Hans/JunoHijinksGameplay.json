@@ -1,0 +1,60 @@
+{
+  "": {
+    "7CF675F54AAAF7E59BE02DAB77408A05": "让你绝处逢生。",
+    "C5A8140A4118053FC98DFDBB0D477551": "喝",
+    "DB08DD254AF3AFB372428180B61CA019": "喝",
+    "EAB819034C2F9C992BA858A086E9DE9F": "喝",
+    "00BB690D4E89F43785A3D4A229B6DB61": "超大生命药水",
+    "7C8602704D9895DDF91E619E313F2BF1": "克鲁回家药水",
+    "0F2572A7464747102625ADA1C20A47C8": "学习石材加工机",
+    "15DCC0C24F5C4F536F138088AC42AEB3": "学习石材加工机",
+    "6658571740A19DBD7B45048831519148": "学习石材加工机",
+    "D698C5014DE407DFBCD1D8AE7E59ACE5": "学习石材加工机",
+    "519F538E4BA1F07B9CC0568E94FE94B8": "小生命药水",
+    "DC0C133C44C2FCDE2C191A8B80DBE979": "比绷带味道更好。",
+    "1A7EEC024336625F5D77D2BE8F3A1E12": "你需要一个<EmphA>坩埚</>。",
+    "203816BD498C65F400EDCAAFA79DE3F4": "你需要一个<EmphA>坩埚</>。",
+    "3FBDEF784A8467A63BC5389C3714371A": "你需要一个<EmphA>坩埚</>。",
+    "098D7FC84C27CDA3213B928D7BC06685": "[PH] Armor!",
+    "5EBE269C4DF3ACDB4DDCCC83D9320525": "[PH] Armor!",
+    "73B283534BB330C6C0FA37BC88FB3964": "[PH] Armor!",
+    "8C92454C4E5EC9270D982F883C645C73": "[PH] Armor!",
+    "B40D0DF44A51658B026C89A6BD52307E": "[PH] Armor!",
+    "B6936F49436567C947C6ECA1142DC821": "[PH] Armor!",
+    "E6133BEB4DE647E7D2E533BBCF608733": "[PH] Armor!",
+    "114C815F480295A9C5963D98AB509BF0": "[PH] Reflect incoming damage!",
+    "6F68CA2B48F0773A737A338576500926": "[PH] Reflect incoming damage!",
+    "AA63055C4747688885933C913B315E2D": "[PH] Steal life on kill!",
+    "C47866DF4D1617BCB9170DA533B73B3D": "[PH] Steal life on kill!",
+    "71A315D041D4D11C9C91CCB789CC2249": "[PH] Survive Lethal Damage!"
+  },
+  "Juno_GameplayItemCraftingFormulas_Hijinks": {
+    "BaitBucket_T2_DisplayName": "鱼饵桶",
+    "BaitBucket_T3_DisplayName": "鱼饵桶",
+    "BaitBucket_T4_DisplayName": "鱼饵桶",
+    "CauldronWorkBench_DisplayName": "坩埚",
+    "IceCream_Snowberry_Potion_DisplayName": "冷莓冰淇淋",
+    "DeftCheese_DisplayName": "灵巧芝士",
+    "SlapPotion_DisplayName": "迅捷药水",
+    "FoodProcessorT2_DisplayName": "榨汁机",
+    "LargeHealthPotion_DisplayName": "超大生命药水",
+    "KlomHomePotion_DisplayName": "克鲁回家药水",
+    "SnowberryPotion_DisplayName": "娴熟药水",
+    "SlurpPotion_DisplayName": "果汁药水",
+    "SmallHealthPotion_DisplayName": "小生命药水",
+    "IceCream_Spicy_Potion_DisplayName": "香辣冰淇淋",
+    "StormPotion_DisplayName": "风暴果药水",
+    "TropicalPotion_DisplayName": "稳固药水"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "FF57B7FC4313F112B1386F8664A02965": "用于酿造强效药水的工作台，可提供短期增益与效果。"
+  },
+  "Juno_UpdateItemData": {
+    "EEB808C346F14B845EEE0CA4E7B297E4": "思乡病的解药。",
+    "2CD5F58F4007255FA614DBBCE9CA4BFE": "喝下可大幅恢复生命值。",
+    "D6B5234C4486FD9C5F42A4905B425B3C": "喝下可恢复生命值。",
+    "7B2C77B74AC8138554098BBCF7C8966B": "喝下可传送回床铺。",
+    "C6D7D9884CB3989794F920B66D5D5808": "药水坩埚",
+    "397D26184BD0A822B5F0138724CC12AC": "动手动脑的时候到了！"
+  }
+}

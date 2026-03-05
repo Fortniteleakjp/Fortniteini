@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "スケジュールに基づいて動画を再生する。",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "UEFNでの動画の再生をスケジューリングする。",
+    "04683984415B4636C2EF72B51E178286": "動画スケジュール",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "動画スケジュール"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "スケジュールを埋める際に境界に合わせる",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "動画プレイヤーを制御",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "1日ごと",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "繰り返さない",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "スケジュールを埋める",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "スケジュールを埋める際に隙間を作る",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "1時間ごと",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "このスケジュールで制御する動画プレイヤーの仕掛けへのリンク。",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "スケジュールを繰り返す",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "スケジュール(テスト)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "開始",
+    "Device_VideoSchedule_Native_C.Start.Description": "動画スケジュールの再生を開始する。",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "停止",
+    "Device_VideoSchedule_Native_C.Stop.Description": "動画スケジュールの再生を停止する。",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "テスト制御を受信",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "動画プレイヤーのイベントの制御を受信するためのテスト機能。",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "スケジュールを繰り返すかどうかの設定。"
+  }
+}

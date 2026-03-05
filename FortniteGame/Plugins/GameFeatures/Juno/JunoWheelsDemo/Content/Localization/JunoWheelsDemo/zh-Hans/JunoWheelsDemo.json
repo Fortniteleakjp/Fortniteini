@@ -1,0 +1,37 @@
+{
+  "": {
+    "3DFDE81643E7D20A34FDAFB767995803": "改变方向",
+    "92652D8545B1CA8018D6C9B4F59A3B4B": "装上几个轮子来开始滚动。",
+    "8952DE4B4A423626BB418EBD36B5E02C": "装上大轮子来更快地移动！"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "08410B7445494CD7AE6943A995EAB820": "将大轮子安装至现有结构和动态物体上。",
+    "0543AC9A42B83420E765149897CA51A4": "将小轮子安装至现有结构和动态物体上。",
+    "765C88EC48D17A74F9E180A8750ECD23": "大型电动轮",
+    "E90B23314823AB3C6F5B118AB04CD994": "大型简易轮",
+    "0802974540A98C76D4589EB0BBDC7B7E": "大型转向轮",
+    "58CAD8CD489BA279918B91B15ECD65E4": "中型电动轮",
+    "E21006B74A7C6000CEB9DCA65F94F071": "中型转向轮",
+    "95DF699B40FEBEF7CD25DDBA6B4DA86C": "小型电动轮",
+    "B8AAB3E0475AA97DB27C7097EBFD8473": "小型简易轮",
+    "97B775654F98D4839EFA95AB36531855": "小型转向轮"
+  },
+  "Juno_UpdateItemData": {
+    "E07BA5004580C1D7181D4B97C2EE64F2": "接收到驾驶座的信号时旋转和转动。每秒从电力中心消耗少许能量。",
+    "5D139B9549BF88A29F75F39FC0CF4ED3": "接收到驾驶座的信号时旋转和转动。每秒从电力中心消耗适度能量。",
+    "2311D4DC4B5257A9588B5CA049A04E77": "接收到驾驶座的信号时旋转和转动。每秒从电力中心消耗部分能量。",
+    "72B3B2154A806CE2EB7679AE4A5C1885": "接收到驾驶座的信号时旋转。每秒从电力中心消耗少许能量。",
+    "5A7429E14FB631A613A04DBD1BD74486": "接收到驾驶座的信号时旋转。每秒从电力中心消耗适度能量。",
+    "40ABDE8D4776B407C523C784E862FA58": "接收到驾驶座的信号时旋转。每秒从电力中心消耗部分能量。"
+  },
+  "PP_CraftingFormulas_WheelPlacer": {
+    "WheelPowerLarge_DisplayName": "大型电动轮",
+    "WheelLarge_DisplayName": "大型简易轮",
+    "WheelSteerLarge_DisplayName": "大型旋转轮",
+    "WheelPowerMedium_DisplayName": "中型电动轮",
+    "WheelSteerMedium_DisplayName": "中型旋转轮",
+    "WheelPowerSmall_DisplayName": "小型电动轮 ",
+    "Wheel_DisplayName": "小型简易轮",
+    "WheelSteerSmall_DisplayName": "小型旋转轮"
+  }
+}

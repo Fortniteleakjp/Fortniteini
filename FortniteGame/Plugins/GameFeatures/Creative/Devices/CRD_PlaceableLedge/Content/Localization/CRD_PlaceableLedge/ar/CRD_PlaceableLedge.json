@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "حافة قابلة للوضع تسمح للاعبين بالانطلاق منها.",
+    "EFF5545942BE6E906FA09492A029002C": "حافة قابلة للوضع تسمح للاعبين بالانطلاق منها.",
+    "39AFB32446569697402D1D827A10908B": "حافة قابلة للوضع تسمح للاعبين بتسلقها.",
+    "1B6B2930405A922826E5319CC16C6F4D": "تعطيل عند الاستلام من",
+    "39698C45412DE4DC33043394E36BCF15": "لتعطيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "تمكين عند الاستلام من",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "لتمكين الجهاز عند استلام إشارة من القناة المحددة.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "حلقة معدنية",
+    "7E36FA504A82288E8BFF03B718AAF93E": "لا يوجد",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "حافة قابلة للوضع",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "حافة قابلة للوضع",
+    "97078157436AE317038738A4DBF33EAE": "عارضة خشبية"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "شبكة مخصصة",
+    "Device_PlaceableLedge_C.Enable during game.Description": "لتحديد ما إذا كان يجب أن تكون الحافة مفعّلة ومرئية خلال اللعب.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "تعطيل",
+    "Device_PlaceableLedge_C.Disable.Description": "لتعطيل الجهاز.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "تفعيل",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "تفعيل خلال اللعب",
+    "Device_PlaceableLedge_C.Enable.Description": "لتفعيل الجهاز.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "إذا كان ذلك صحيحًا، سيستخدم هذا الجهاز حلقة يُمكن تسلقها بدلًا من شعاع. ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "اختيار شبكة حافة",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "حلقة معدنية",
+    "ELedgeMeshSelections.None.DisplayName": "لا يوجد",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "الشبكة المخصصة لاستخدامها في الحافة في حالة تعيين خيار الشبكة على مخصصة",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "عارضة خشبية"
+  }
+}

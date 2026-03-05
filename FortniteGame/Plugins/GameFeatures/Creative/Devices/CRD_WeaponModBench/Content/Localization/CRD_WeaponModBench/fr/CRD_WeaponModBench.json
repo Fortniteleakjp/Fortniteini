@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Un appareil qui permet aux joueurs d'acheter et d'installer ou de retirer des modifications sur des armes modifiables.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Un appareil qui permet aux joueurs d'acheter et d'installer ou de retirer des modifications sur des armes modifiables. Posez un objet sur l'appareil pour définir la monnaie nécessaire.",
+    "C71343894A060847493A649689759A65": "Un lot de malles avec lequel il est possible d'interagir pour faire apparaître des armes modifiées.",
+    "460F73D54CB382F639D9F28B319DB307": "PERSONNALISER ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Impossible d'utiliser l'établi de modification",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Monnaie",
+    "53C6F3F34E06E917D367268882E08D87": "Définit la monnaie à utiliser pour modifier une arme.",
+    "A30B8506487121E7C4E703A5629FBE05": "Désactiver si reçu depuis",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Désactivé",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Désactive l'appareil, ce qui empêche l'achat et le retrait de modifications.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Activer si reçu depuis",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Active l'appareil et autorise les joueurs à glisser.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Galerie Malles d'arme modifiée",
+    "0B7642504100909455884BA8ECBE7AD4": "Établi de modification d'arme",
+    "1EBC090141D82557511D43B7E5342FD4": "Établi de modification d'arme"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Classe autorisée",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Équipe autorisée",
+    "ECreativeClassType.Any.DisplayName": "N'importe laquelle",
+    "ECreativeTeamType.Any.DisplayName": "N'importe laquelle",
+    "ClassSlotMetaData.DisplayPattern": "Classe {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Définit si la rareté de l'objet est affichée pour les joueurs qui n'ont pas assez de ressources.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Définit si cet appareil doit être activé quand le mini-jeu commence.",
+    "Device_WeaponModBench_C.ModCost.Description": "Définit le coût requis pour équiper une modification sur une arme modifiable. Cette valeur s'applique à toutes les modifications pouvant être sélectionnées. Garder paramètres : utilise le coût de Battle Royale, qui est sujet à changement.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Définit quelle classe peut utiliser cet établi de modification.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Définit quelle équipe peut utiliser cet établi de modification.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Désactiver",
+    "Device_WeaponModBench_C.Disable.Description": "Désactive l'appareil, ce qui empêche l'achat et le retrait de modifications.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Activer",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Activer au commencement du mini-jeu",
+    "Device_WeaponModBench_C.Enable.Description": "Active l'appareil et permet l'achat et le retrait de modifications.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Si défini, l'appareil autorise toutes les classes sauf celle autorisée.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Si défini, l'appareil autorise toutes les équipes sauf celle autorisée.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Inverser la sélection de classe",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Inverser la sélection d'équipe",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Coût de la modification",
+    "ECreativeClassType.NoClass.DisplayName": "Pas de classe",
+    "BoolMetaData.FalseDisplayName": "Non",
+    "BoolMetaData.TrueDisplayName": "Oui",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Afficher la rareté de l'objet sur la notification d'objets manquants",
+    "TeamIndexMetaData.DisplayPattern": "Équipe {0}"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "": {
+    "31FAE6BD73F7D30C53E0C058C7CA42CF": "Poltrona do Domínio de Daigo",
+    "31FAE6BD73F7D30C53E0C058CEAF2645": "Poltrona do Domínio de Daigo",
+    "725D91602604049153E0C058C7CA42CF": "Cama do Domínio de Daigo",
+    "725D91602604049153E0C058CEAF2645": "Cama do Domínio de Daigo",
+    "C2EAAFD6C82FC31853E0C058C7CA42CF": "Banco do Domínio de Daigo",
+    "C2EAAFD6C82FC31853E0C058CEAF2645": "Banco do Domínio de Daigo",
+    "7DA1D85A596CBE4353E0C058C7CA42CF": "Armário do Domínio de Daigo",
+    "7DA1D85A596CBE4353E0C058CEAF2645": "Armário do Domínio de Daigo",
+    "35D8B7A52D98408453E0C058C7CA42CF": "Lamparina de Teto do Domínio de Daigo",
+    "35D8B7A52D98408453E0C058CEAF2645": "Lamparina de Teto do Domínio de Daigo",
+    "113ED41A7D5B16D053E0C058C7CA42CF": "Churrasqueira do Domínio de Daigo",
+    "113ED41A7D5B16D053E0C058CEAF2645": "Churrasqueira do Domínio de Daigo",
+    "4EB40FD8AF54A5BA53E0C058C7CA42CF": "Estandarte Decorativo do Domínio de Daigo",
+    "4EB40FD8AF54A5BA53E0C058CEAF2645": "Estandarte Decorativo do Domínio de Daigo",
+    "EABDE35A4EEE0CC753E0C058C7CA42CF": "Máscara Decorativa do Domínio de Daigo",
+    "EABDE35A4EEE0CC753E0C058CEAF2645": "Máscara Decorativa do Domínio de Daigo",
+    "3DF46819471DBC5653E0C058C7CA42CF": "Gongo do Domínio de Daigo",
+    "3DF46819471DBC5653E0C058CEAF2645": "Gongo do Domínio de Daigo",
+    "4CBA8D5B52EA14B753E0C058C7CA42CF": "Lamparina Suspensa do Domínio de Daigo",
+    "4CBA8D5B52EA14B753E0C058CEAF2645": "Lamparina Suspensa do Domínio de Daigo",
+    "A593B69E9C2924F053E0C058C7CA42CF": "Cabana do Domínio de Daigo",
+    "A593B69E9C2924F053E0C058CEAF2645": "Cabana do Domínio de Daigo",
+    "D12ECD89C04F886853E0C058C7CA42CF": "Estandarte Interno do Domínio de Daigo",
+    "D12ECD89C04F886853E0C058CEAF2645": "Estandarte Interno do Domínio de Daigo",
+    "2CBA7A26336B14A053E0C058C7CA42CF": "Banco Ornamentado do Domínio de Daigo",
+    "2CBA7A26336B14A053E0C058CEAF2645": "Banco Ornamentado do Domínio de Daigo",
+    "3546D1FA55E907EB53E0C058C7CA42CF": "Portal Ornamentado do Domínio de Daigo",
+    "3546D1FA55E907EB53E0C058CEAF2645": "Portal Ornamentado do Domínio de Daigo",
+    "AE7B30427C9D186453E0C058C7CA42CF": "Lamparina Ornamentada do Domínio de Daigo",
+    "AE7B30427C9D186453E0C058CEAF2645": "Lamparina Ornamentada do Domínio de Daigo",
+    "E2D6175399D0918B53E0C058C7CA42CF": "Lamparina Externa do Domínio de Daigo",
+    "E2D6175399D0918B53E0C058CEAF2645": "Lamparina Externa do Domínio de Daigo",
+    "B3E17695DD6308F253E0C058C7CA42CF": "Aparador do Domínio de Daigo",
+    "B3E17695DD6308F253E0C058CEAF2645": "Aparador do Domínio de Daigo",
+    "F7E45FABA0BEB93953E0C058C7CA42CF": "Armário de Armazenamento do Domínio de Daigo",
+    "F7E45FABA0BEB93953E0C058CEAF2645": "Armário de Armazenamento do Domínio de Daigo",
+    "E65E56C2BE958FAE53E0C058C7CA42CF": "Mesa do Domínio de Daigo",
+    "E65E56C2BE958FAE53E0C058CEAF2645": "Mesa do Domínio de Daigo"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Pressionar E para Editar"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Personalizar"
+  }
+}

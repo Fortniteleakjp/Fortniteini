@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "Animasyon oynatabilen bir iskelet örgüsü.",
+    "477037CE4A29EB50C5A6E5B004123435": "Animasyonlu Örgü",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "Animasyonlu Örgü",
+    "9D01ABCB4C57956061A5B8BD095D856B": "İskelet örgüsüne animasyon uygular.",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "Animasyonu Duraklat",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "Animasyonu duraklatır.",
+    "ED9506B7426508B1B97535AF002D07C9": "Animasyonu Oynat",
+    "4E6399154374E72C93B24A9FB9E86176": "Animasyonu Tersten Oynat",
+    "06C0CF2E41126953274F7B964A00DAE4": "Oynatılıyor",
+    "971EF1A7489930888171E8A553647F92": "Animasyonu tersten oynatır.",
+    "070EC9F24AA5A04C8C685397F8E618AF": "Animasyonu oynatır.",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "Geri Sarılıyor",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "Durduruldu"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "Animasyon",
+    "Device_AnimatedMesh_C.InitialState.Description": "İlk başta animasyonun oynayıp oynamayacağını belirler.",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "İlk Durum",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "Döngü",
+    "Device_AnimatedMesh_C.PlayRate.Description": "Oynatılan animasyonun hızını kontrol eden çarpanı belirler.",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "Duraklat",
+    "Device_AnimatedMesh_C.Pause.Description": "Animasyonu duraklatır.",
+    "Device_AnimatedMesh_C.Play.DisplayName": "Oynat",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "Oynatma Hızı",
+    "EAnimationPlayState.Playing.DisplayName": "Oynatılıyor",
+    "Device_AnimatedMesh_C.Reverse.Description": "Animasyonu tersten oynatır.",
+    "Device_AnimatedMesh_C.Play.Description": "Animasyonu oynatır.",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "Geri",
+    "EAnimationPlayState.Reversing.DisplayName": "Geri Sarılıyor",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "İskelet Örgüsü",
+    "EAnimationPlayState.Stopped.DisplayName": "Durduruldu",
+    "Device_AnimatedMesh_C.Animation.Description": "Oynatılacak animasyonu belirler.",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "Animasyonun oynatıldığı iskelet örgüsü.",
+    "Device_AnimatedMesh_C.Loop.Description": "Animasyon sona geldiğinde döngüsüne devam edip etmeyeceğini belirler."
+  }
+}

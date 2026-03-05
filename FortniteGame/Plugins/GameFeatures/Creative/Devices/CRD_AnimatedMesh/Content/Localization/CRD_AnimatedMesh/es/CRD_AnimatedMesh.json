@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "Una malla esquelética que puede reproducir una animación.",
+    "477037CE4A29EB50C5A6E5B004123435": "Malla animada",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "Malla animada",
+    "9D01ABCB4C57956061A5B8BD095D856B": "Aplica las animaciones a una malla esquelética.",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "Pausar animación",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "Pausa la animación.",
+    "ED9506B7426508B1B97535AF002D07C9": "Reproducir animación",
+    "4E6399154374E72C93B24A9FB9E86176": "Reproducir animación al revés",
+    "06C0CF2E41126953274F7B964A00DAE4": "Reproducción",
+    "971EF1A7489930888171E8A553647F92": "Reproduce la animación al revés.",
+    "070EC9F24AA5A04C8C685397F8E618AF": "Reproduce la animación.",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "Inversión",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "En pausa"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "Animación",
+    "Device_AnimatedMesh_C.InitialState.Description": "Establece si la animación se reproduce desde el principio.",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "Estado inicial",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "Bucle",
+    "Device_AnimatedMesh_C.PlayRate.Description": "Multiplicador que se usará para controlar la velocidad de reproducción de la animación.",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "Pausar",
+    "Device_AnimatedMesh_C.Pause.Description": "Pausa la animación.",
+    "Device_AnimatedMesh_C.Play.DisplayName": "Reproducir",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "Tasa de reproducción",
+    "EAnimationPlayState.Playing.DisplayName": "Reproducción",
+    "Device_AnimatedMesh_C.Reverse.Description": "Reproduce la animación al revés.",
+    "Device_AnimatedMesh_C.Play.Description": "Reproduce la animación.",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "Invertir",
+    "EAnimationPlayState.Reversing.DisplayName": "Inversión",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "Malla esquelética",
+    "EAnimationPlayState.Stopped.DisplayName": "En pausa",
+    "Device_AnimatedMesh_C.Animation.Description": "La animación que reproducir.",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "La malla esquelética sobre la que se reproducirá la animación.",
+    "Device_AnimatedMesh_C.Loop.Description": "Establece si la animación vuelve a reproducirse en bucle una vez termine."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "ジップラインに乗ることはできません",
+    "768283974295183A2A78FCBFBAFE1742": "プレイヤーをポイントからポイントへ移動させるジップラインを作成する。",
+    "C7C925214E0954D490E48DB594FCAE7C": "プレイヤーをポイントからポイントへ移動させるジップラインを作成する。",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "カスタマイズ ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "ジップラインのスプラインポイントにおけるスマホツールのインターフェイスとして機能する、一時的なクリエイト専用の仕掛け。",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "ジップライン",
+    "8CE167104123A4888338D3A2901028D8": "ジップライン",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "ジップライン コントロールポイント"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "どれでも",
+    "ECreativeTeamType.Any.DisplayName": "どれでも",
+    "ClassSlotMetaData.DisplayPattern": "クラス{0}",
+    "Device_Zipline_C.Color.DisplayName": "カラー",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "このコントロールポイントの前方方向が、この位置での経路のカーブにどの程度影響を与えるかを決定する。",
+    "Device_Zipline_C.UseCustomColor.Description": "デフォルトではなくカスタムカラーを使用するかどうかを決定する。",
+    "Device_Zipline_C.Color.Description": "使用するカスタムカラーを決定する。",
+    "Device_Zipline_C.Selected Class.Description": "どのクラスがこのジップラインを使用できるかを決定する。",
+    "Device_Zipline_C.Selected Team.Description": "どのチームがこのジップラインを使用できるかを決定する。",
+    "Device_Zipline_C.Invert Class Selection.Description": "設定されていると、仕掛けは選択されたクラス以外の全てを許可する。",
+    "Device_Zipline_C.Invert Team Selection.Description": "設定されていると、仕掛けは選択されたチーム以外の全てを許可する。",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "クラスの選択を反対にする",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "チームの選択を反対にする",
+    "ECreativeClassType.NoClass.DisplayName": "クラスなし",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "Device_Zipline_C.OnAttach.DisplayName": "取り付け時",
+    "Device_Zipline_C.OnDetach.DisplayName": "取り外し時",
+    "Device_Zipline_C.Selected Class.DisplayName": "選択中のクラス",
+    "Device_Zipline_C.Selected Team.DisplayName": "選択中のチーム",
+    "Device_Zipline_C.OnAttach.Description": "ジップラインにエージェントが取り付けられると信号を送信する。",
+    "Device_Zipline_C.OnDetach.Description": "ジップラインからエージェントが取り外されると信号を送信する。",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "接線の強度",
+    "TeamIndexMetaData.DisplayPattern": "チーム{0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "カスタムカラーを使用する"
+  }
+}

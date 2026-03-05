@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Dodaj do kolejki na koniec gry przy transmisji od",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Wymusza dobieranie wszystkich graczy w sesji na wyspie.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Transmisja gry",
+    "D6605AA24CE9BB51B09055B216381F62": "Transmisja gry",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Kod wyspy",
+    "4906BC4442B704E71E23E9B9A01FF370": "Portal poziomu",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Ustala kod wyspy, na którą poprowadzi portal dobierania graczy.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Przenieś uczestników przy transmisji od"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Wyłącz przy transmisji od",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Włącz przy transmisji od",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Kolejka na koniec gry",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Przenieś uczestników"
+  }
+}

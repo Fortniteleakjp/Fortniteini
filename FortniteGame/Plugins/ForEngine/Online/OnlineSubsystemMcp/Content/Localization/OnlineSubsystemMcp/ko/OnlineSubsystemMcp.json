@@ -1,0 +1,23 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "체크아웃 실패, 진행중인 거래가 있습니다.",
+    "ErrorPurchaseNotAllowed": "체크아웃 실패, 구매 권한이 없습니다.",
+    "ErrorNoUIHandler": "구매도 UI 표시에 실패했습니다."
+  },
+  "McpQueryResult": {
+    "GenericError": "게임 서버와의 통신 도중 오류가 발생했습니다 ({0}).",
+    "GenericHTTPError": "게임 서버와 연결 도중 오류가 발생했습니다:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "서버 접속에 실패했습니다.",
+    "JsonError": "{0} 유형 서버 오류입니다.",
+    "InvalidJson": "서버 반응을 해석할 수 없습니다. JSON 이 잘못되었습니다. 오류 {0}",
+    "NonObjectJson": "서버 반응을 해석할 수 없습니다. JSON 오브젝트가 아닙니다."
+  },
+  "OnlineFriend": {},
+  "OnlineIdentity": {},
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "구매 서비스 영수증을 해석할 수 없습니다."
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "에픽게임즈"
+  }
+}

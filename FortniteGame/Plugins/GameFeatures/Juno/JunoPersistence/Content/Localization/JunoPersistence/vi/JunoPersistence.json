@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Lỗi truy xuất dữ liệu người chơi"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Không thể xóa dữ liệu tồn tại và đã hết số lần thử lại cho phép"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Không thể truy xuất được các điểm mốc có sẵn",
+    "FailedToSetInitialCheckpointErrorMessage": "Không thể thết lập điểm mốc bắt đầu",
+    "InvalidJunoWorldErrorMessage": "Thế giới Juno không hợp lệ khi cố gắng khởi tạo trình xử lý điểm mốc",
+    "InvalidJunoRootPlayspaceErrorMessage": "Không gian chơi gốc không hợp lệ khi cố gắng khởi tạo trình xử lý điểm mốc"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Đã cố gắng khởi tạo lưu trữ của người chơi sau khi nó đã được khởi tạo",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Lưu trữ dữ liệu người chơi không hợp lệ",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Không thể tạo trình xử lý điểm mốc"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Đang cố gắng hủy khởi tạo lưu trữ người chơi với ID người chơi không hợp lệ",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Đang cố gắng khởi tạo lưu trữ người chơi nhiều lần",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Đang cố gắng khởi tạo lưu trữ người chơi với ID người chơi không hợp lệ",
+    "StalePlayerPersistenceHandlerErrorMessage": "Trình xử lý lưu trữ người chơi đã lỗi thời sau khi hoàn tất khởi tạo",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Không thể tạo trình xử lý lưu trữ người chơi",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Không thể truy xuất bộ nhớ lưu trữ dữ liệu người chơi hợp lệ"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Kelas widget tidak ada.\n\nBuka penerapan proyekmu, lalu cari cetak biru Area Bermain yang digunakannya.\n\nAtur 'CaptureToolWidgetClass' di komponen area bermain SparksCommonUtils ke widget yang ingin kamu ciptakan di sini.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} event yang diabaikan (tidak ada komponen NPS yang tersedia)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} ukuran pool diperbesar: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} ukuran pool diperbesar: {size}"
+  }
+}

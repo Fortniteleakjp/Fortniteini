@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Размещаемый уступ, которым могут воспользоваться игроки.",
+    "EFF5545942BE6E906FA09492A029002C": "Размещаемый уступ, которым могут воспользоваться игроки.",
+    "39AFB32446569697402D1D827A10908B": "Размещаемый уступ, которым могут воспользоваться игроки.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Отключить при получении сигнала",
+    "39698C45412DE4DC33043394E36BCF15": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Включить при получении сигнала",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Включает устройство при получении сигнала по выбранному каналу.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Металлическое кольцо",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Нет",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Размещаемый уступ",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Размещаемый уступ",
+    "97078157436AE317038738A4DBF33EAE": "Деревянная балка"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Пользовательская модель",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Определяет, можно ли воспользоваться уступом и отображается ли он во время игры.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Выключить",
+    "Device_PlaceableLedge_C.Disable.Description": "Выключает устройство.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Включить",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Доступно во время игры",
+    "Device_PlaceableLedge_C.Enable.Description": "Включает устройство.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "«Истина» — устройство будет использовать кольцо вместо балки ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Выбор модели уступа",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Металлическое кольцо",
+    "ELedgeMeshSelections.None.DisplayName": "Нет",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "Пользовательский вариант модели опоры, если она используется.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Деревянная балка"
+  }
+}

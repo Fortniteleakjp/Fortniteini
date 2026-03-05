@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Aktiviert eine bestimmte Strecke, wenn ein Fahrer diesen Bereich berührt. Wird in der Regel für Strecken ohne Geometrie verwendet.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "RR-Streckenaktivierungsbereich"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Respawns auf unsichtbarer Strecke erzwingen",
+    "MultipleValues": "Mehrfache Werte",
+    "Off Track Radius": "Max. Ausscheren von der Strecke",
+    "Use Back Endcap": "Hintere Begrenzung verwenden",
+    "Use Front Endcap": "Vordere Begrenzung verwenden",
+    "Use Stable Roll": "Stabiles Rollen verwenden"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "Form mehrfacher Knoten ändern",
+    "DeleteMultipleNodeConfirmation": "Mehrfache Knoten löschen?",
+    "DeleteMultipleNodes": "Mehrfache Knoten löschen",
+    "EnableOOBTube": "OOB-Röhre aktivieren",
+    "MeshCustomizations": "Mehrfache Mesh-Anpassungen",
+    "MultipleNodesSelected": "Mehrfache Knoten ausgewählt",
+    "UseStableRollOnMultiple": "Mehrfache Verwendung von Stabiles Rollen"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "Knoten löschen",
+    "DeleteNodeConfirmation": "Knoten löschen?",
+    "MetaDataIndexTitle": "Index: {CurrentIndex}",
+    "SingleNodeSelected": "Einzelner Knoten ausgewählt",
+    "SplitNode": "Am Knoten teilen",
+    "SplitNodeConfirmation": "Am Knoten teilen?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "Gerät",
+    "DeviceProperties": "Geräteeigenschaften",
+    "EditDevice": "Gerät bearbeiten",
+    "EditTrack": "Strecke bearbeiten",
+    "Looping Track": "Schleifenstrecke",
+    "None": "Keine",
+    "RoadStyle": "Straßenstil",
+    "SelectSplinePoints": "Spline-Punkte auswählen",
+    "SelectedPoints": "Ausgewählte Punkte",
+    "Theme": "Thema",
+    "Track": "Strecke"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "Nebenstrecke nicht korrekt verbunden! Stelle sicher, dass alle Nebenstrecken mit einer primären Strecke oder einer Nebenstrecke verbunden sind: {1}) Karte: {2}",
+    "NoEndTrackConnection": "Nebenstrecke in {0} hat keine Verbindung zum Ende der Strecke. Karte: {1}",
+    "NoStartTrackConnection": "Nebenstrecke in {0} hat keine Verbindung zum Start der Strecke. Karte: {1}",
+    "SecondaryTrackLoops": "Schleife in Nebenstrecke gefunden! Schleife in Strecke {0} gefunden (Start der Strecke: {1}). Karte: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "Erweitert",
+    "AttachToEnd": "Am Ende anhängen",
+    "AttachToStart": "An Start anhängen",
+    "Attaching": "Wird angehängt",
+    "ConvertOobTubesToNative_Label": "Blueprint-OOB-Röhren zu Nativ umwandeln",
+    "ConvertOobTubesToNative_Tooltip": "Wandelt alle vorhandenen Blueprint-OOB-Röhren in ihr natives Äquivalent um.",
+    "DelMarTrack": "Del Mar-Strecke",
+    "PrintAttachableActors": "Anhängbare Actors drucken",
+    "RebuildOobTube": "OOB-Röhre neu aufbauen",
+    "DelMarStyleEditor": "Stil-Editor"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Del Mar-Spline-Komponenten-Visualizer"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "OOB-Röhre",
+    "Rebuild OOB Tube": "OOB-Röhre neu aufbauen",
+    "RoadSplineTabTitle": "Straßen-Spline",
+    "SelectedSplineTabTitle": "Ausgewählter Knoten",
+    "SplineLengthTitle": "Spline-Länge: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Bezeichnung"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "Spline-Punkte auswählen",
+    "SelectedPoints": "Ausgewählte Punkte"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "Straße mit Böschung",
+    "Change Road Shape": "Straßenform ändern",
+    "FlatRoad": "Flache Straße",
+    "HalfPipe": "Halfpipe",
+    "Pipe": "Röhre",
+    "RoadShape": "Straßenform",
+    "Tunnel": "Tunnel"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Füge den nächsten Spline-Punkt zur aktuellen Auswahl hinzu.",
+    "SelectAddPrevSplinePointToolTip": "Füge den vorangehenden Spline-Punkt zur aktuellen Auswahl hinzu.",
+    "DeleteMultipleNodeConfirmation": "Mehrfache Knoten löschen?",
+    "SelectDeleteSplinePointToolTip": "Punkt an der aktuellen Auswahl löschen.",
+    "SelectAllSplinePointToolTip": "Wähle alle Spline-Punkte aus.",
+    "SelectFirstSplinePointToolTip": "Wähle den ersten Spline-Punkt.",
+    "SelectLastSplinePointToolTip": "Wähle den letzten Spline-Punkt.",
+    "SelectNextSplinePointToolTip": "Wähle den nächsten Spline-Punkt.",
+    "SelectPrevSplinePointToolTip": "Wähle den vorangehenden Spline-Punkt.",
+    "SplitNodeConfirmation": "Am ausgewählten Knoten teilen?",
+    "SelectSplitSplinePointToolTip": "Teile Knotenpunkte an ausgewählten Indexen."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Ändere das Flag der ausgewählten Spline-Punkte zu „Stabiles Rollen verwenden“",
+    "ToggleUseStableRoll": "Stabiles Rollen verwenden"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Zu aktivierende Strecke"
+  }
+}

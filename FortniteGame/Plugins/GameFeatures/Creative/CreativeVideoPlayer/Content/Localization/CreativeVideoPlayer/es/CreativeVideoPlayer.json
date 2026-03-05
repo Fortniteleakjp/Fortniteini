@@ -1,0 +1,12 @@
+{
+  "": {
+    "1B3AF4BA4E8F3D16536E8984F69347E9": "Reproductor de vídeo del modo Creativo",
+    "5029168240844C79B72EB781F353CECD": "Mirabot: MIRABOT ES CAPAZ DE VER EL INTERIOR DE LA BOLSA. QUEDA MUCHA BOLSA POR VER.",
+    "3444B9F84A4184662530999AF1E00B8F": "Ver vídeo en pantalla completa",
+    "1E01C3B24D4DD8BCCA650F9FE79963DE": "Ver vídeo en pantalla completa (mantener)",
+    "2FFCC50D410FB8AB22693DA6E544307D": "Ver vídeo en pantalla completa (mantener)"
+  },
+  "CreativeVideoPlayer": {
+    "EnterFullscreen": "Ver vídeo en pantalla completa"
+  }
+}

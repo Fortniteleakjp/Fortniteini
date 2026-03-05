@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Valori multipli",
+    "NoComponent": "Nessuno",
+    "ConvertSelectedActorsToIAsText": "[Juno] Converti {0} in attori a istanza"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Gli attributi per il percorso attore '{0}', il nome riga '{1}' e/o la rappresentazione '{2}' sono in conflitto con altri nomi dell'attributo",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Aggiunge i seguenti attributi:{ActorPath} : Stringa : Un percorso della stringa che l'attore deve generare (copiato dalla riga della tabella){Representation} : Nome : Un valore EJunoRepresentation per come dev'essere creato (copiato dalla riga della tabella){RowName} : Float : Il nome della fila scelta.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Legge i seguenti attributi sullo stream spaziale dei dati:{BiomeTableName} : Stringa : Un percorso che la tabella dei dati del bioma deve leggere{FilterName} : Nome : Facoltativo. Se specificato, selezionerà solo le righe con un nome tipo corrispondente al valore di questa proprietà.{LayerWeight} : Float : Facoltativo. Se specificata, la colonna 'LayerWeights' verrà usata al posto di 'Weight', interpolata con questo valore.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(Le proprietà delle impostazioni possono essere sovrascritte con:{P0} : Nome{P1} : Nome{P2} : Nome{P3} : Nome{P4} : Nome{P5} : Nome)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Forma da attraversare tramite percorso (probabilmente paesaggio!)",
+    "UnableToGetPointData": "Impossibile ottenere dati di punto da input",
+    "UnableToGetSpatialData": "Impossibile ottenere dati di spazio da input"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Impossibile recuperare i dati per la texture d'altezza, inizializzazione fallita.",
+    "TextureInitFailed": "Impossibile recuperare i dati per questa texture, inizializzazione fallita.",
+    "LandscapeComponentLost": "Impossibile generare le mappe dell'erba a causa della perdita di riferimento a uno o più componenti del paesaggio."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "사물을 서로 연결하여 한데 묶어 저장하고 배치할 수 있는 컨테이너입니다.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "사물을 서로 연결하여 한데 묶어 저장하고 배치할 수 있는 컨테이너입니다.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "사물을 서로 연결하여 한데 묶어 저장하고 배치할 수 있는 컨테이너입니다.",
+    "B83B1047441082FB019A61A98B6D0581": "포크리",
+    "5407FED74DA205FC418FA485B7622650": "편집 가능",
+    "3D5826A149B0F5277962A9A36BFFE13F": "편집 중",
+    "78335B4046FF677AC12593921618222C": "오류",
+    "4AA32A31415D1CEE34CCED9C69768627": "레벨 인스턴스 장치",
+    "85848E934539608AA1BD9D834830CA76": "레벨 인스턴스 장치",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "잠김",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "배치됨",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "배치"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "현재 이 레벨을 참조하는 모든 장치를 삭제합니다."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "콘텐츠 컬렉션",
+    "BP_LevelInstanceDevice_C.EditState.Description": "이 레벨에 오브젝트를 추가할 수 있는지 설정합니다.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "비활성화",
+    "BP_LevelInstanceDevice_C.Disable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "상태 편집",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "편집 가능",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "사용",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "게임 시작 시 사용",
+    "BP_LevelInstanceDevice_C.Enable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "레벨 깊이",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "레벨 높이",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "레벨 인스턴스 이름",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "레벨 너비",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "잠김",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "불러올 레벨의 이름입니다.",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "선택한 사항과 호환되지 않는 콘텐츠가 레벨 인스턴스에 포함되지 않도록 합니다.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "플롯 깊이를 타일 단위로 설정합니다. \r\n\r\n경고: 크기를 줄이면 플롯 범위에서 벗어나는 사물이 삭제될 수 있습니다.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "플롯 높이를 타일 단위로 설정합니다. \r\n\r\n경고: 크기를 줄이면 플롯 범위에서 벗어나는 사물이 삭제될 수 있습니다.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "플롯 너비를 타일 단위로 설정합니다. \r\n\r\n경고: 크기를 줄이면 플롯 범위에서 벗어나는 사물이 삭제될 수 있습니다.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "게임을 시작했을 때 이 장치의 사용 상태를 설정합니다."
+  }
+}

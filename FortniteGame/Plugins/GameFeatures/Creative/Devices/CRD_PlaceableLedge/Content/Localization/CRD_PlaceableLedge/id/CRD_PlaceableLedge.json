@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Tepian portabel yang memungkinkan pemain untuk lompat.",
+    "EFF5545942BE6E906FA09492A029002C": "Tepian portabel yang memungkinkan pemain untuk lompat.",
+    "39AFB32446569697402D1D827A10908B": "Tepian portabel yang memungkinkan pemain untuk melompat dari tepian.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Nonaktifkan Saat Menerima dari",
+    "39698C45412DE4DC33043394E36BCF15": "Menonaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Aktifkan Saat Menerima dari",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Mengaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Cincin Logam",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Tidak Ada",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Tepian Portabel",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Tepian Portabel",
+    "97078157436AE317038738A4DBF33EAE": "Palang Kayu"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Mesh Kustom",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Menentukan apakah tepian harus diaktifkan dan terlihat selama game.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Nonaktifkan",
+    "Device_PlaceableLedge_C.Disable.Description": "Menonaktifkan perangkat.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Aktifkan",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Diaktifkan Selama Game",
+    "Device_PlaceableLedge_C.Enable.Description": "Mengaktifkan perangkat.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Jika true, perangkat ini akan menggunakan cincin yang bisa dipanjat alih-alih palang ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Pilihan Mesh Tepian",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Cincin Logam",
+    "ELedgeMeshSelections.None.DisplayName": "Tidak Ada",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "Mesh kustom yang akan digunakan pada tepian jika pilihan mesh diatur ke Kustom",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Palang Kayu"
+  }
+}

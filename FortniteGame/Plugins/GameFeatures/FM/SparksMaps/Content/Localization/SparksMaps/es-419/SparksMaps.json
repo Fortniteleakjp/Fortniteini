@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Falta la clase del widget.\n\nDirígete a implementación de tu proyecto y busca el blueprint del espacio de juego que usa.\n\nEstablece \"CaptureToolWidgetClass\" en el componente SparksCommonUtils del espacio de juego en el widget que quieres crear aquí.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} ignored event (no NPS component available)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} increased pool size: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} increased pool size: {size}"
+  }
+}

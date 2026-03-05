@@ -1,0 +1,29 @@
+{
+  "": {
+    "71A3F0BE4BC401EDE8B47B95349DEB84": "Abrir",
+    "720C69504E4939D88E00D99BFCF8A8D0": "Abrir",
+    "ED441C00473C8BBFA99707B9326177C1": "Batería",
+    "0B2B80644FCC0FFF6CD779B0D1CF6F58": "VCU",
+    "769BB15949AFF1D8966456BDE44FBFCD": "VCU",
+    "7C8E79484A3A1067EC71B9BB7763EB0E": "VCU",
+    "9A37E02F4EAFB15EB33D378B3616B601": "VCU",
+    "01692D2545D048DD3FFFEE80A8AE31C8": "Necesitarás un recurso <EmphA>orgánico</> del <EmphA>suelo</>."
+  },
+  "Juno_UpdateItemData": {
+    "E34B1A154A9B1F3E569CA4B01FD1009E": "Siente el cosquilleo de la energía en la palma de la mano.",
+    "5B6A24294D0D954A8185D480AF6D8096": "Centro de energía (grande)",
+    "B691209A4F938FE92EA504BA5290C96B": "Centro de energía (mediano)",
+    "4DCFA2C2464B8884929713B612BDC204": "Colócalo sobre una construcción y ponle baterías para alimentar los juguetes conectados. Contiene una gran cantidad de energía.",
+    "B44851ED463714FE7F10CFB591926A47": "Colócalo sobre una construcción y ponle baterías para alimentar los juguetes conectados. Contiene una cantidad de energía mediana.",
+    "D6C9ABB6498B1D8753B21A838B8CCF03": "Colócalo sobre una construcción y ponle baterías para alimentar los juguetes conectados. Contiene una pequeña cantidad de energía.",
+    "2EC89F09471DC7BD1A0E199C8F7ED74E": "Colócala dentro de un centro de energía para alimentar tus artilugios.",
+    "2DC55E444BCAF9CE3B3BFDA77991163B": "Power Bank",
+    "960679A546697BC052B8F8816BB01087": "Centro de energía (pequeño)"
+  },
+  "PP_CraftingFormulas_PowerSystem": {
+    "PowerCenterLarge_DisplayName": "Centro de energía (grande)",
+    "PowerCenterMedium_DisplayName": "Centro de energía (mediano)",
+    "PowerCell_DisplayName": "Batería",
+    "PowerCenterSmall_DisplayName": "Centro de energía (pequeño)"
+  }
+}

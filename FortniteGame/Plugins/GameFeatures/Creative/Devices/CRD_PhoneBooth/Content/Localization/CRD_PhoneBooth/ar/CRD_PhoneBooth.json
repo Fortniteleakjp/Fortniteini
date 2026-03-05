@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "يسمح للاعبين بتغيير أزيائهم في اللعبة!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "يسمح للاعبين بتغيير أزيائهم في اللعبة!",
+    "6858477D482601B747C2A5B828C69E76": "تسمح للاعبين بتغيير أزيائهم في اللعبة!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "تغيير\r\nالزي",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "كابينة التغيير",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "كابينة التغيير",
+    "059506D64DE2C7BC2249EA967ADC0C18": "تخصيص",
+    "FB6C538F4D6F606703196597BAA7ADA8": "إزالة جميع اللاعبين من كابينة التغيير عند استلام إشارة من القناة المحددة.",
+    "1F0C513442C1083AE99BE581F865957A": "لإزالة اللاعب المحرض من كابينة التغيير عند استلام إشارة من القناة المحددة."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "تعطيل",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "لتعطيل الجهاز وإزالة جميع اللاعبين من كابينة التغيير ومنع استخدامها.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "تفعيل",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "تفعيل عند بدء اللعبة",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "لتفعيل الجهاز، ما يسمح للاعبين باستخدام كابينة التغيير.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "إخفاء أيقونة شاشة عرض المعلومات عند النتيجة الخاطئة.",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "عند دخول اللاعب",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "عند خروج اللاعب",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "إزالة جميع اللاعبين",
+    "C8A4072D491C9059C5CFF1854936E573": "إزالة اللاعب المحرض",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "إظهار إشارة شاشة عرض المعلومات التنبيهية",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "الإشارة عند دخول اللاعب إلى جهاز تغيير الكابينة",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "الإشارة عند خروج اللاعب إلى جهاز تغيير الكابينة",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "ما إذا كان هذا الجهاز ممكّنًا عند بدء المواجهة أم لا."
+  }
+}

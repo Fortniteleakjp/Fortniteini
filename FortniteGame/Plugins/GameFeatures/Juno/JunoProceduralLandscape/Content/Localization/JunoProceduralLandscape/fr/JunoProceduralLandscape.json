@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "(Juno) Matériau personnalisé du paysage"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "Activer les expressions des matériaux de paysage (Juno)"
+  },
+  "JunoLandscape": {
+    "Juno": "Juno"
+  }
+}

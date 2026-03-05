@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "Контейнер, который позволяет сохранять группы объектов и их расположение относительно друг друга и размещать их аналогичным образом.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "Контейнер, который позволяет сохранять группы объектов и их расположение относительно друг друга и размещать их аналогичным образом.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "Контейнер, который позволяет сохранять группы объектов и их расположение относительно друг друга и размещать их аналогичным образом.",
+    "B83B1047441082FB019A61A98B6D0581": "Творческий режим",
+    "5407FED74DA205FC418FA485B7622650": "Редактируемый",
+    "3D5826A149B0F5277962A9A36BFFE13F": "Редактирование",
+    "78335B4046FF677AC12593921618222C": "Ошибка",
+    "4AA32A31415D1CEE34CCED9C69768627": "Устройство «Экземпляр уровня»",
+    "85848E934539608AA1BD9D834830CA76": "Устройство «Экземпляр уровня»",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "Фиксированный",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "Размещено",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "Размещение"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "Это очистит содержимое всех устройств, связанных с этим уровнем в данный момент."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "Коллекция материалов",
+    "BP_LevelInstanceDevice_C.EditState.Description": "Определяет, можно ли добавлять объекты на этот уровень.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "Выключить",
+    "BP_LevelInstanceDevice_C.Disable.Description": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "Тип объекта",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "Редактируемый",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "Включить",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "Включить в начале игры",
+    "BP_LevelInstanceDevice_C.Enable.Description": "Включает устройство при получении сигнала по выбранному каналу.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "Длина уровня",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "Высота уровня",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "Название экземпляра уровня",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "Ширина уровня",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "Фиксированный",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "Название уровня, который будет загружен.",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "Не даёт включить в уровень материалы, которые несовместимы с выбранными.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "Длина контейнера (в клетках). \r\n\r\nВНИМАНИЕ: уменьшение размера может привести к удалению объектов, частично или полностью оказавшихся за пределами контейнера.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "Высота контейнера (в клетках). \r\n\r\nВНИМАНИЕ: уменьшение размера может привести к удалению объектов, частично или полностью оказавшихся за пределами контейнера.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "Ширина участка (в клетках). \r\n\r\nВНИМАНИЕ: уменьшение размера может привести к удалению объектов, частично или полностью оказавшихся за пределами участка.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "Определяет, включено ли устройство в начале игры."
+  }
+}

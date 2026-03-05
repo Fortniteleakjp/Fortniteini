@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "Cari",
+    "MusicTimeNetSyncInterfaceSeekTarget": "Target Pencarian",
+    "MusicTimeNetSyncInterfaceSeek_Description": "Cari Sampai Target Pencarian",
+    "MusicTimeNetSyncInterfaceSpeed": "Kecepatan",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "Seharusnya digunakan untuk menaikkan clock speed.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "Di mana harus mencari."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "탐색",
+    "MusicTimeNetSyncInterfaceSeekTarget": "탐색 지점",
+    "MusicTimeNetSyncInterfaceSeek_Description": "탐색 지점으로 이동합니다.",
+    "MusicTimeNetSyncInterfaceSpeed": "속도",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "클럭에 사용할 속도입니다.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "탐색할 위치입니다."
+  }
+}

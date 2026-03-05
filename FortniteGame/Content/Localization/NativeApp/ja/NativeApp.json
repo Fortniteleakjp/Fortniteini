@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0}コピー"
+  },
+  "Fortnite": {
+    "DoubleElimination": "ダブル撃破",
+    "Down": "ダウン",
+    "DebugLoadContentFail": "ダウンロードに失敗しました",
+    "Eliminated": "撃破",
+    "Elimination": "撃破",
+    "UEFNMobileSessionMainMenuError_Confirmation": "セッションを終了",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "UEFN モバイルセッションでは、メインメニューを開くことはできません。",
+    "UEFNMobileSessionMainMenuError_Title": "モバイルセッション",
+    "MultiElimination": "マルチ撃破",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "不明な問題が発生しました。 モバイルセッションを終了します",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "不明な問題が発生しました: {Reason}。 モバイルセッションを終了します",
+    "TripleElimination": "トリプル撃破",
+    "Win": "勝利",
+    "UEFNMobileSessionMainMenu_MessageBody": "モバイルセッション中はフォートナイトのロビーには入れません。 終了しますか？"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "リプレイの再生中にエラーが発生しました。"
+  },
+  "SpriteCategory": {
+    "Lighting": "明るさ"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "MODの購入と、MOD対応武器へのMODの装着と取り外しができる仕掛け。",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "MODの購入と、MOD対応武器へのMODの装着と取り外しができる仕掛け。必要な通貨を設定するには、この仕掛けにアイテムをドロップする。",
+    "C71343894A060847493A649689759A65": "インタラクト時にMOD付きの武器をスポーンさせることができるケース。",
+    "460F73D54CB382F639D9F28B319DB307": "カスタマイズ ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "MODベンチは使用できない",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "通貨",
+    "53C6F3F34E06E917D367268882E08D87": "武器の改造に必要な通貨を決定する。",
+    "A30B8506487121E7C4E703A5629FBE05": "受信していると無効になる",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "無効",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "仕掛けが無効になり、MODの購入と取り外しができなくなる。",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "受信していると有効になる",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "仕掛けを有効にし、プレイヤーがグラインドを開始できるようにする。",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "MOD付き武器ケースギャラリー",
+    "0B7642504100909455884BA8ECBE7AD4": "武器MODベンチ",
+    "1EBC090141D82557511D43B7E5342FD4": "武器MODベンチ"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "許可されるクラス",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "許可されるチーム",
+    "ECreativeClassType.Any.DisplayName": "どれでも",
+    "ECreativeTeamType.Any.DisplayName": "どれでも",
+    "ClassSlotMetaData.DisplayPattern": "クラス{0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "資源が不足している場合に、そのアイテムのレア度をプレイヤーに表示するかどうかを決定する。",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "ミニゲームの開始時にこの仕掛けを有効にするかの設定。",
+    "Device_WeaponModBench_C.ModCost.Description": "MOD対応武器にMODを装着する際の費用の設定。この値は選択可能なMOD全てに適用される。「上書きしない」を選ぶとバトルロイヤルでの費用が使われる。費用は変更される場合がある。",
+    "Device_WeaponModBench_C.Allowed Class.Description": "どのクラスがこの武器MODベンチを使用できるかの設定。",
+    "Device_WeaponModBench_C.Allowed Team.Description": "どのチームがこの武器MODベンチを使用できるかの設定。",
+    "Device_WeaponModBench_C.Disable.DisplayName": "無効化",
+    "Device_WeaponModBench_C.Disable.Description": "仕掛けが無効になり、MODの購入と取り外しができなくなる。",
+    "Device_WeaponModBench_C.Enable.DisplayName": "有効化",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "ミニゲーム開始時に有効",
+    "Device_WeaponModBench_C.Enable.Description": "仕掛けが有効になり、MODの購入と取り外しが可能になる。",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "設定されていると、仕掛けは「許可されるクラス」以外の全クラスを許可する。",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "設定されていると、仕掛けは「許可されるチーム」以外の全チームを許可する。",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "クラスの選択を反対にする",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "チームの選択を反対にする",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "MODの費用",
+    "ECreativeClassType.NoClass.DisplayName": "クラスなし",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "不足アイテムのプロンプトにアイテムのレア度を表示",
+    "TeamIndexMetaData.DisplayPattern": "チーム{0}"
+  }
+}

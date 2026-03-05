@@ -1,0 +1,32 @@
+{
+  "": {
+    "E4FDC6B94D56DD466250B1A936A5C1DD": "Viser plus bas",
+    "29F455524C2069AAEE31759F9C76B57C": "Viser plus haut",
+    "7488B9DE44D5931BC7117BBC0066D326": "Canon",
+    "EFE6221E43951480B611DEABB45D7B81": "Boulet de canon",
+    "9C94476B477FFEAFC1385DBAC023EA77": "FailReasonNoAmmo",
+    "9935A7B6453984A4F5857D8F00838D84": "FailReasonNoSpaceToExit",
+    "0B2A126F4CB6A4A093BBCF85DA4CD51D": "FailReasonOccupied",
+    "76CAEF45496C404BF55397973C5D83A6": "FailReasonOnCooldown",
+    "C24CB8BB4046588C245EE6854914FDAF": "Tirer",
+    "C1EE2F47435FBB50269E7AAE424494B1": "Monter dedans",
+    "512BEDB34663E03FFC51869194DB9419": "LEGO® Fortnite (Canon)",
+    "CE1643774F9969575EC6779CFC7722F3": "Charger des boulets de canon",
+    "577AE1E6405A407D10B5FB91C1B75D61": "Ramasser",
+    "A24DB9944CD5E72687821C83570FABC4": "S'asseoir",
+    "3481B72C49C82035847F6C9925A917CF": "Pivoter vers la gauche",
+    "2CFF39674CF1770621AE1A80EBFC84A3": "Pivoter vers la droite",
+    "3CB5A40D4E07D5480A6245B8DCF65AE8": "Voyagez ou saccagez selon votre humeur.",
+    "461E46C64AEAF7C3E461EBACF4D182EA": "Vous aurez besoin d'un <EmphA>établi</> et d'une ressource <EmphA>explosive</>."
+  },
+  "Juno_GameplayItemCraftingFormulas_StationaryCannon": {
+    "Cannon_DisplayName": "Canon",
+    "CannonBall_T1_DisplayName": "Boulet de canon"
+  },
+  "Juno_UpdateItemData": {
+    "F22126C747614BB89975DDAF5E7941E5": "Un puissant canon qui peut projeter des boulets de canon ET des joueurs !",
+    "5F376C3248A0EA01F4EB7DBDA8B62B53": "Munition pour canon.",
+    "ED97F00F49ADBC8B468C0A88D0018CE8": "Ça va faire BOUM !",
+    "6C73A4B34F4D91A2810BBF9496BD6CC2": "Canon"
+  }
+}

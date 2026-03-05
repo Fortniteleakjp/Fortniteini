@@ -1,0 +1,12 @@
+{
+  "": {
+    "2AE5912049F8E030DD426997414A7F38": "干涸山谷奖杯",
+    "0D7D54204AA280F576939C85BB93FB71": "霜冻之地奖杯",
+    "842747D74DC9DCD7560A57875CC14DCF": "青青草原奖杯"
+  },
+  "JunoTM_HighStakes_CraftingFormulas": {
+    "JBID_Trophy_Storm_Desert_A_DisplayName": "干涸山谷奖杯",
+    "JBID_Trophy_Storm_Snow_A_DisplayName": "霜冻之地奖杯",
+    "JBID_Trophy_Storm_Grassland_A_DisplayName": "草原奖杯"
+  }
+}

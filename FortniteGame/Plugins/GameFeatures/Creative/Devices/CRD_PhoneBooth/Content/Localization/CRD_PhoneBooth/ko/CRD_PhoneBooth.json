@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "게임 내에서 플레이어가 의상을 변경할 수 있도록 합니다!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "게임 내에서 플레이어가 의상을 변경할 수 있도록 합니다!",
+    "6858477D482601B747C2A5B828C69E76": "게임 내에서 플레이어가 의상을 변경할 수 있도록 합니다!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "의상\r\n변경",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "분장용 공중전화",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "분장용 공중전화",
+    "059506D64DE2C7BC2249EA967ADC0C18": "커스터마이징",
+    "FB6C538F4D6F606703196597BAA7ADA8": "선택한 채널에서 신호를 수신하면 분장용 공중전화에서 모든 플레이어를 나가게 합니다.",
+    "1F0C513442C1083AE99BE581F865957A": "선택한 채널에서 신호를 수신하면 분장용 공중전화에서 작동시킨 플레이어를 나가게 합니다."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "사용 안 함",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "장치를 사용 안 함 상태로 설정해 분장용 공중전화에서 모든 플레이어를 나가게 하고 공중전화를 사용할 수 없도록 합니다.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "사용",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "게임 시작 시 사용",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "장치를 사용 상태로 설정해 플레이어가 분장용 공중전화를 사용할 수 있도록 합니다.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "False로 설정할 경우 HUD 아이콘을 숨깁니다.",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "플레이어 입장 시",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "플레이어 나갈 시",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "모든 플레이어 제거",
+    "C8A4072D491C9059C5CFF1854936E573": "작동시킨 플레이어 제외",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "HUD 비컨 표시",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "플레이어가 분장용 공중전화 장치 입장 시 신호를 전송합니다.",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "플레이어가 분장용 공중전화 장치 퇴장 시 신호를 전송합니다.",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "게임을 시작했을 때 이 장치의 사용 상태를 설정합니다."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "¡Ya casi! Abre la aplicación para terminar.",
+    "DownloadCompleteNotification.Title": "Completa la instalación y juega.",
+    "DownloadCompleteNotification.ActionText": "Instalar",
+    "InstallBundleSourceValkyrieDownloadedFmt": "InstallBundleSourceGameCustom descargado {0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "InstallBundleSourceGameCustom instalado {0}",
+    "Simulate_BuildVerify_Error": "La instalación está dañada. Ponte en contacto con asistencia al cliente."
+  }
+}

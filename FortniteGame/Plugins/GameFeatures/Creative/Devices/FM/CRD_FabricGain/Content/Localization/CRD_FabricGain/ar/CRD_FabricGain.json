@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "عدّل مستوى صوت مُدخلات الرُقع الصوتية قبل الإرسال إلى جهاز صوت الرُقع آخر. عند وجود مزيج من مُدخلات صوت متعددة، فتطبيق ضبط المستوى على بعضها قد يساعد في توازن مستوى صوت كل مُدخل في المزيج النهائي.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "عدّل مستوى صوت مُدخلات الرُقع الصوتية قبل الإرسال إلى جهاز صوت الرُقع آخر. عند وجود مزيج من مُدخلات صوت متعددة، فتطبيق ضبط المستوى على بعضها قد يساعد في توازن مستوى صوت كل مُدخل في المزيج النهائي.",
+    "43690F0542ED4B273A4C72B2627C2936": "لمضاعفة مستوى صوت الإدخال الصوتي بالقيمة المُحددة. القيمة 0 ستكتم الصوت. القيمة 2 ستضاعف مستوى الصوت.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "تأثير ضبط مستوى الرُقع",
+    "8A62F091464769AD6A2A51B1CECCED46": "تأثير ضبط مستوى الرُقع",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "تأثير ضبط مستوى الرُقع"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "السماح بالوصول إلى الكابل",
+    "EEnabledOnPhase.Always.DisplayName": "دائمًا",
+    "Device_FabricGain_C.AudioIn.DisplayName": "إدخال الصوت",
+    "Device_FabricGain_C.AudioOut.DisplayName": "مخرج صوتي",
+    "EEnabledOnPhase.Create Only.DisplayName": "إنشاء فقط",
+    "Device_FabricGain_C.AllowPortSelection.Description": "تحدد ما إذا كان يمكن لرقعة الوصول إلى أي مدخلات كابل أو منافذ إخراج على الجهاز.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "لتحديد مراحل اللعبة التي سيتم خلالها تمكين الجهاز. تتضمن مرحلة \"ما قبل اللعبة\" جميع المراحل التي تسبق بدء اللعبة (مثل ردهة ما قبل اللعب والعد التنازلي لبدء اللعبة). لا يؤثر هذا الإعداد على وضع التعديل.",
+    "Device_FabricGain_C.Disable.DisplayName": "تعطيل",
+    "Device_FabricGain_C.Disable.Description": "تعطيل الجهاز عند إقامة حدث.",
+    "Device_FabricGain_C.Enable.DisplayName": "تفعيل",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "التفعيل في المرحلة",
+    "Device_FabricGain_C.Enable.Description": "تفعيل الجهاز عند إقامة حدث.",
+    "Device_FabricGain_C.Gain.DisplayName": "ضبط المستوى",
+    "Device_FabricGain_C.GainIn.DisplayName": "إدخال التعزيز",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "بيئة اللعب فقط",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "المعلومات القانونية",
+    "EEnabledOnPhase.None.DisplayName": "لا شيء",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "عند التعطل",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "عند التفعيل",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "رُقع",
+    "Device_FabricGain_C.LegalInfo.Description": "يُرجى الملاحظة: يقتصر استخدام جهاز صوت الرُقع على إنشاء أعمال موسيقية جديدة وأصلية.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "إدخال زر الطاقة",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "ما قبل اللعبة فقط",
+    "Device_FabricGain_C.AudioOut.Description": "يحدد وجهة كابل المخرج الصوتي لهذا الجهاز.",
+    "Device_FabricGain_C.AudioIn.Description": "لتحديد الإدخالات لمنفذ إدخال الصوت لهذا الجهاز.",
+    "Device_FabricGain_C.GainIn.Description": "لتحديد الإدخالات لمقبض التعزيز لهذا الجهاز.",
+    "Device_FabricGain_C.OnDisabled.Description": "لتشغيل حدث عند تعطيل الجهاز.",
+    "Device_FabricGain_C.OnEnabled.Description": "لتشغيل حدث عند تفعيل الجهاز."
+  }
+}

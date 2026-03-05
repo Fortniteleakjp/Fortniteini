@@ -1,0 +1,37 @@
+{
+  "": {
+    "3DFDE81643E7D20A34FDAFB767995803": "Richtung ändern",
+    "92652D8545B1CA8018D6C9B4F59A3B4B": "Nutze ein paar Reifen, um die Dinge ins Rollen zu bringen.",
+    "8952DE4B4A423626BB418EBD36B5E02C": "Nutze größere Reifen, um wirklich etwas zu bewegen!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "08410B7445494CD7AE6943A995EAB820": "Befestige große Reifen an bestehenden Gebäuden und dynamischen Objekten.",
+    "0543AC9A42B83420E765149897CA51A4": "Befestige kleine Reifen an bestehenden Gebäuden und dynamischen Objekten.",
+    "765C88EC48D17A74F9E180A8750ECD23": "Angetriebenes Rad – Groß",
+    "E90B23314823AB3C6F5B118AB04CD994": "Einfaches Rad – Groß",
+    "0802974540A98C76D4589EB0BBDC7B7E": "Großes steuerbares Rad",
+    "58CAD8CD489BA279918B91B15ECD65E4": "Angetriebenes Rad – Mittelgroß",
+    "E21006B74A7C6000CEB9DCA65F94F071": "Mittelgroßes steuerbares Rad",
+    "95DF699B40FEBEF7CD25DDBA6B4DA86C": "Angetriebenes Rad – Klein",
+    "B8AAB3E0475AA97DB27C7097EBFD8473": "Einfaches Rad – Klein",
+    "97B775654F98D4839EFA95AB36531855": "Kleines steuerbares Rad"
+  },
+  "Juno_UpdateItemData": {
+    "E07BA5004580C1D7181D4B97C2EE64F2": "Dreht und wendet sich, wenn es Signale vom Fahrersitz empfängt. Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "5D139B9549BF88A29F75F39FC0CF4ED3": "Dreht und wendet sich, wenn es Signale vom Fahrersitz empfängt. Verbraucht pro Sekunde eine mittlere Menge an Energie von einem Energieknoten.",
+    "2311D4DC4B5257A9588B5CA049A04E77": "Dreht und wendet sich, wenn es Signale vom Fahrersitz empfängt. Verbraucht pro Sekunde etwas Energie von einem Energieknoten.",
+    "72B3B2154A806CE2EB7679AE4A5C1885": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt. Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "5A7429E14FB631A613A04DBD1BD74486": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt. Verbraucht pro Sekunde eine mittlere Menge an Energie von einem Energieknoten.",
+    "40ABDE8D4776B407C523C784E862FA58": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt. Verbraucht pro Sekunde etwas Energie von einem Energieknoten."
+  },
+  "PP_CraftingFormulas_WheelPlacer": {
+    "WheelPowerLarge_DisplayName": "Angetriebenes Rad – Groß",
+    "WheelLarge_DisplayName": "Einfaches Rad – Groß",
+    "WheelSteerLarge_DisplayName": "Drehbares Rad – Groß",
+    "WheelPowerMedium_DisplayName": "Angetriebenes Rad – Mittelgroß",
+    "WheelSteerMedium_DisplayName": "Drehbares Rad – Mittelgroß",
+    "WheelPowerSmall_DisplayName": "Angetriebenes Rad – Klein ",
+    "Wheel_DisplayName": "Einfaches Rad – Klein",
+    "WheelSteerSmall_DisplayName": "Drehbares Rad – Klein"
+  }
+}

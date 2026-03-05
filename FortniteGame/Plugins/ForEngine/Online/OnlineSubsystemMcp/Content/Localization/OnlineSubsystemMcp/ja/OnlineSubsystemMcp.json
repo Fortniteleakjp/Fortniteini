@@ -1,0 +1,23 @@
+{
+  "McpPurchase": {
+    "ErrorTransactionInProgress": "チェックアウトに失敗しました。ユーザーは処理中です",
+    "ErrorPurchaseNotAllowed": "チェックアウトに失敗しました。ユーザーは購入できません",
+    "ErrorNoUIHandler": "購入用UIの表示に失敗しました"
+  },
+  "McpQueryResult": {
+    "GenericError": "ゲームサーバーとの通信中にエラーが発生しました({0})",
+    "GenericHTTPError": "ゲームサーバーとの通信中にエラーが発生しました:\n{TechnicalErrorMessage}",
+    "ConnectionFailure": "サーバーへの接続に失敗しました",
+    "JsonError": "サーバーエラータイプ{0}",
+    "InvalidJson": "サーバーの応答のパースに失敗しました。JSONに問題があります。エラー{0}",
+    "NonObjectJson": "サーバーの応答のパースに失敗しました。JSONオブジェクトではありません"
+  },
+  "OnlineFriend": {},
+  "OnlineIdentity": {},
+  "OnlinePurchaseMcp": {
+    "ReceiptParseFailed": "購入サービスの受領確認のパースができません"
+  },
+  "OnlineSubsystemMcp": {
+    "OnlineServiceName": "Epic Games"
+  }
+}

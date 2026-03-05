@@ -1,0 +1,12 @@
+{
+  "": {
+    "44B83EF64E3ECF914A3189897E8AE9F4": "Delirio",
+    "495014B74039223B7F55AD8330B15F67": "Atravesar edificios: no es necesario en la partida, <br />pero nos gustaría que el jugador se viera en un espacio más reducido <br />y que los edificios estuvieran cerca para dar sensación de velocidad",
+    "CF19A8864C019B8D550B59BADE13C8B6": "Atajo para volar alrededor de los edificios:<br />Nos gustaría que los jugadores vieran que hay espacio alrededor de los edificios <br />y pudieran volar a su alrededor y usar múltiples atajos por la ciudad",
+    "3A380EC545BDE8B6BA2B618D5F58B535": "Paisaje, espacio no jugable:<br>Nos gustaría evitar que los jugadores condujeran por este tipo de terreno<br>(También ajustaremos el tubo OOB y añadiremos volúmenes de demostración)",
+    "4A52799741BA2F86D00F808AD7DD601D": "Paisaje, espacio no jugable:<br>Nos gustaría evitar que los jugadores condujeran por este tipo de terreno<br>(También ajustaremos el tubo OOB y añadiremos volúmenes de demostración)",
+    "5F9B0F294EACCD80FF256C9B88FBAA53": "Paisaje, espacio no jugable:<br>Nos gustaría evitar que los jugadores condujeran por este tipo de terreno<br>(También ajustaremos el tubo OOB y añadiremos volúmenes de demostración)",
+    "B16104B543F62AA2E84658983C8E2F2A": "Paisaje, espacio no jugable:<br>Nos gustaría evitar que los jugadores condujeran por este tipo de terreno<br>(También ajustaremos el tubo OOB y añadiremos volúmenes de demostración)",
+    "D509F9B444F464992878918C6B171594": "Atajo de paisaje:<br>No queremos que sea completamente suave, <br>pero puede ser más suave de lo que es actualmente"
+  }
+}

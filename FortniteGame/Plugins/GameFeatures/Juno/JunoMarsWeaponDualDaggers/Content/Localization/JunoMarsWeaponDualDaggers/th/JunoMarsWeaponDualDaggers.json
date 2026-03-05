@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "ดาบ",
+    "33EE7DD140FA593C65E6858D3ED133F0": "โฟกัส",
+    "7D92FBAF4FF2178468D08FB5447138AA": "มือจับ"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "กริชคู่อําพัน",
+    "Dual_Daggers_T5_Amber_DisplayName": "กริชคู่อําพัน",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "กริชคู่ลำแสง",
+    "Dual_Daggers_T1_Bone_DisplayName": "กริชคู่กระดูก",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "กริชคู่เจิดจ้า",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "กริชคู่กรงเล็บ",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "กริชคู่กรงเล็บ",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "กริชคู่กรงเล็บ",
+    "Dual_Daggers_T3_Copper_DisplayName": "กริชคู่ทองแดง",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "กริชคู่ต้องสาป",
+    "Dual_Daggers_T4_Emerald_DisplayName": "กริชคู่มรกต",
+    "Dual_Daggers_T5_Emerald_DisplayName": "กริชคู่มรกต",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "กริชคู่ไม้อ่อน",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "กริชคู่สนน้ำแข็ง",
+    "Dual_Daggers_T1_Glass_DisplayName": "กริชคู่แก้ว",
+    "Dual_Daggers_T3_Gold_DisplayName": "กริชคู่ทอง",
+    "Dual_Daggers_T2_Granite_DisplayName": "กริชคู่หินแกรนิต",
+    "Dual_Daggers_T3_Iron_DisplayName": "กริชคู่เหล็ก",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "กริชคู่รากไม้",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "กริชคู่ไม้มะฮอกกานี",
+    "Dual_Daggers_T2_Malachite_DisplayName": "กริชคู่มาลาไคต์",
+    "Dual_Daggers_T2_Marble_DisplayName": "กริชคู่หินอ่อน",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "กริชคู่ออบซิเดียน",
+    "Dual_Daggers_T2_Redrock_DisplayName": "กริชคู่หินแดง",
+    "Dual_Daggers_T4_Ruby_DisplayName": "กริชคู่ทับทิม",
+    "Dual_Daggers_T5_Ruby_DisplayName": "กริชคู่ทับทิม",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "กริชคู่หินทราย",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "กริชคู่ไพลิน",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "กริชคู่ไพลิน",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "กริชคู่แชตเตอร์ฮอร์น",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "กริชคู่แชตเตอร์ฮอร์น",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "กริชคู่พายุ",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "กริชคู่ผู้พิทักษ์พายุ",
+    "Dual_Daggers_T1_Wood_DisplayName": "กริชคู่ไม้"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "กริชคู่"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Çoklu Değerler",
+    "NoComponent": "Yok",
+    "ConvertSelectedActorsToIAsText": "[Juno] {0} Öğesini Ölçekli Aktörlere dönüştür"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Bulunan aktör yolunun özellikleri '{0}', bulunan satır adı '{1}' ve/veya temsili '{2}' başka özellik adlarıyla çakışıyor",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Şu özellikleri ekler:{ActorPath} : String: Aktörün çıkabilmesi için bir karakter dizisi yolu (tablo satırından kopyalandı){Representation} : Name: Nasıl oluşturulması gerektiğine dair bir EJunoRepresentation değeri (tablo satırından kopyalandı){RowName} : Float : Seçili satırın adı.)",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Aşağıdaki uzamsal veri akışı özelliklerini alır:{BiomeTableName} : String: Bölge veri tablosunun alınması için bir yol{FilterName} : Name: İsteğe bağlı. Belirtilmişse, sadece bu özelliğin değeriyle eşleşen bir tür adına sahip satırları seçecektir.{LayerWeight} : Float : İsteğe bağlı. Belirtilmişse, \"Ağırlık\" yerine ara değeri bu değer tarafından belirlenen \"KatmanAğırlıkları\" sütunu kullanılacaktır.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(Ayar değerlerinin üzerine şunlar yazılabilir:{P0} : Name{P1} : Name{P2} : Name{P3} : Name{P4} : Name{P5} : Name)docs",
+    "UPCGJunoPathfindSettingsShapePin": "(Muhtemelen Manzara üzerinde) Yolunu bulma için belirlenen şekil",
+    "UnableToGetPointData": "Girdiden Uzamsal Nokta verisi alınamıyor.",
+    "UnableToGetSpatialData": "Girdiden Uzamsal veri alınamıyor."
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Yükseklik dokusu verisi alınamadı, başlatma başarısız oldu.",
+    "TextureInitFailed": "Bu dokunun verisi alınamadı, başlatma başarısız oldu.",
+    "LandscapeComponentLost": "Bir veya daha fazla manzara bileşeni kaybolduğunda çimen haritaları oluşturulmayacaktır."
+  }
+}

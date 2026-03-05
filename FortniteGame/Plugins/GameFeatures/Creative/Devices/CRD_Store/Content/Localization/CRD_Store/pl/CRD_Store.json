@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "Portal do sklepu z przedmiotami",
+    "A636CB9048F6D10A27FAE2ACA3336261": "Portal do sklepu z przedmiotami",
+    "ECA01A1C4D96960EA267CEA75C458F15": "Portal do sklepu z przedmiotami",
+    "F0DA7B7A455C002838011E9950021E4F": "Portal do sklepu z przedmiotami",
+    "F6BA046441D88E68E7317EB0D779DDEE": "Portal do sklepu z przedmiotami",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Otwórz sklep",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Otwórz sklep",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Otwórz sklep przy transmisji od",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Otwórz sklep: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Otwórz sklep: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Otwiera sklep dla aktywującego gracza po otrzymaniu transmisji na wybranym kanale.",
+    "18E3F3AD48251A9142A05A8349684E89": "To urządzenie po aktywowaniu otwiera sklep.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "To urządzenie po aktywowaniu otwiera sklep.",
+    "79656CFD409EE4E11B68988ACDCA8585": "To urządzenie po aktywowaniu otwiera sklep.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "To urządzenie po aktywowaniu otwiera sklep.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "To urządzenie po aktywowaniu otwiera sklep."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Zawsze",
+    "EEnabledOnPhase.Create Only.DisplayName": "Tylko podczas tworzenia",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Określa fazy gry, podczas których urządzenie będzie włączone. Ustawienie Przed grą obejmuje wszystkie fazy przed rozpoczęciem gry (oczekiwanie na graczy znajdujących się w lobby na wyróżnionych wyspach oraz odliczanie do rozpoczęcia gry).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Określa czas potrzebny na aktywację urządzenia.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Wyłącz",
+    "Device_Store_C.Disable.DisplayName": "Wyłącz",
+    "Device_Store_C.Disable.Description": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "Device_ItemShop_V2_C.Disable.Description": "Wyłącza urządzenie.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Włącz",
+    "Device_Store_C.Enable.DisplayName": "Włącz",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Włączone podczas fazy",
+    "Device_Store_C.Enable.Description": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "Device_ItemShop_V2_C.Enable.Description": "Włącza urządzenie.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Tylko podczas gry",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Czas użycia",
+    "EEnabledOnPhase.None.DisplayName": "Brak",
+    "Device_Store_C.OpenStore.DisplayName": "Otwórz sklep",
+    "Device_Store_C.OpenStore.Description": "Otwiera sklep dla aktywującego gracza po otrzymaniu transmisji na wybranym kanale.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Tylko przed grą"
+  }
+}

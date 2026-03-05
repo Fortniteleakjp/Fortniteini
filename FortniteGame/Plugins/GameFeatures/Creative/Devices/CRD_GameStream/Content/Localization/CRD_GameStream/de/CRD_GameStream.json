@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "In Spielende-Warteschlange einreihen bei Empfang von",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Zwingt alle Spieler einer Sitzung auf der Insel dazu, eine Spielersuche zu beginnen.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Spiel-Stream",
+    "D6605AA24CE9BB51B09055B216381F62": "Spiel-Stream",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Inselcode",
+    "4906BC4442B704E71E23E9B9A01FF370": "Levelportal",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Bestimmt den Inselcode der Insel, auf die das Spielersuche-Portal ausgerichtet ist.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Population übertragen bei Empfang von"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Ausschalten bei Empfang von",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Schaltet das Gerät aus, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Einschalten bei Empfang von",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Schaltet das Gerät ein, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Bei Spielende einreihen",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Population übertragen"
+  }
+}

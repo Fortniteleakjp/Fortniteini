@@ -1,0 +1,6 @@
+{
+  "GameSettingRegistryExtension_JunoReplay": {
+    "ReplayRecordingJuno_Name": "Junoのリプレイを録画",
+    "ReplayRecordingJuno_Description": "Junoのマッチのリプレイを録画するかどうかを切り替えます。"
+  }
+}

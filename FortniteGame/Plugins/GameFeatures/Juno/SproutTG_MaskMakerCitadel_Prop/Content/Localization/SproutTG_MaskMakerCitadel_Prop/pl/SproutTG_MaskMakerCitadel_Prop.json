@@ -1,0 +1,48 @@
+{
+  "": {
+    "31FAE6BD73F7D30C53E0C058C7CA42CF": "Fotel z Domeny Daigo",
+    "31FAE6BD73F7D30C53E0C058CEAF2645": "Fotel z Domeny Daigo",
+    "725D91602604049153E0C058C7CA42CF": "Łóżko z Domeny Daigo",
+    "725D91602604049153E0C058CEAF2645": "Łóżko z Domeny Daigo",
+    "C2EAAFD6C82FC31853E0C058C7CA42CF": "Ławka z Domeny Daigo",
+    "C2EAAFD6C82FC31853E0C058CEAF2645": "Ławka z Domeny Daigo",
+    "7DA1D85A596CBE4353E0C058C7CA42CF": "Szafka z Domeny Daigo",
+    "7DA1D85A596CBE4353E0C058CEAF2645": "Szafka z Domeny Daigo",
+    "35D8B7A52D98408453E0C058C7CA42CF": "Latarnia sufitowa z Domeny Daigo",
+    "35D8B7A52D98408453E0C058CEAF2645": "Latarnia sufitowa z Domeny Daigo",
+    "113ED41A7D5B16D053E0C058C7CA42CF": "Grill węglowy z Domeny Daigo",
+    "113ED41A7D5B16D053E0C058CEAF2645": "Grill węglowy z Domeny Daigo",
+    "4EB40FD8AF54A5BA53E0C058C7CA42CF": "Sztandar dekoracyjny z Domeny Daigo",
+    "4EB40FD8AF54A5BA53E0C058CEAF2645": "Sztandar dekoracyjny z Domeny Daigo",
+    "EABDE35A4EEE0CC753E0C058C7CA42CF": "Maska dekoracyjna z Domeny Daigo",
+    "EABDE35A4EEE0CC753E0C058CEAF2645": "Maska dekoracyjna z Domeny Daigo",
+    "3DF46819471DBC5653E0C058C7CA42CF": "Gong z Domeny Daigo",
+    "3DF46819471DBC5653E0C058CEAF2645": "Gong z Domeny Daigo",
+    "4CBA8D5B52EA14B753E0C058C7CA42CF": "Latarnia wisząca z Domeny Daigo",
+    "4CBA8D5B52EA14B753E0C058CEAF2645": "Latarnia wisząca z Domeny Daigo",
+    "A593B69E9C2924F053E0C058C7CA42CF": "Kredens z Domeny Daigo",
+    "A593B69E9C2924F053E0C058CEAF2645": "Kredens z Domeny Daigo",
+    "D12ECD89C04F886853E0C058C7CA42CF": "Sztandar wewnętrzny z Domeny Daigo",
+    "D12ECD89C04F886853E0C058CEAF2645": "Sztandar wewnętrzny z Domeny Daigo",
+    "2CBA7A26336B14A053E0C058C7CA42CF": "Zdobiona ławka z Domeny Daigo",
+    "2CBA7A26336B14A053E0C058CEAF2645": "Zdobiona ławka z Domeny Daigo",
+    "3546D1FA55E907EB53E0C058C7CA42CF": "Zdobiona brama z Domeny Daigo",
+    "3546D1FA55E907EB53E0C058CEAF2645": "Zdobiona brama z Domeny Daigo",
+    "AE7B30427C9D186453E0C058C7CA42CF": "Zdobiona latarnia z Domeny Daigo",
+    "AE7B30427C9D186453E0C058CEAF2645": "Zdobiona latarnia z Domeny Daigo",
+    "E2D6175399D0918B53E0C058C7CA42CF": "Latarnia zewnętrzna z Domeny Daigo",
+    "E2D6175399D0918B53E0C058CEAF2645": "Latarnia zewnętrzna z Domeny Daigo",
+    "B3E17695DD6308F253E0C058C7CA42CF": "Komoda z Domeny Daigo",
+    "B3E17695DD6308F253E0C058CEAF2645": "Komoda z Domeny Daigo",
+    "F7E45FABA0BEB93953E0C058C7CA42CF": "Schowek z Domeny Daigo",
+    "F7E45FABA0BEB93953E0C058CEAF2645": "Schowek z Domeny Daigo",
+    "E65E56C2BE958FAE53E0C058C7CA42CF": "Stół z Domeny Daigo",
+    "E65E56C2BE958FAE53E0C058CEAF2645": "Stół z Domeny Daigo"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Naciśnij E, aby edytować"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Dostosuj"
+  }
+}

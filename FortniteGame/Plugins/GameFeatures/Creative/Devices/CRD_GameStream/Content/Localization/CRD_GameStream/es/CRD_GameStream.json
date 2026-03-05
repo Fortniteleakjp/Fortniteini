@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Añadir a la cola del fin de partida al recibir desde",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Fuerza el emparejamiento de todos los jugadores de una isla en la misma sesión.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Transmisión de juego",
+    "D6605AA24CE9BB51B09055B216381F62": "Transmisión de juego",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Código de isla",
+    "4906BC4442B704E71E23E9B9A01FF370": "Portal de nivel",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Establece el código de la isla al que apuntará el portal de emparejamiento.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Transferir población al recibir desde"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Deshabilitar al recibir desde",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Habilitar al recibir desde",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Añadir a la cola al final de la partida",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Transferir población"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "횡단보도",
+    "09298F2740CA51082D6CA3991E6A7A43": "현금 가치: {val} | {perc}% - {spawned} / {total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "시작",
+    "30DF69ED4AA5D23EEE62998512640D06": "준비하기",
+    "355F7C204406651F83FF48BA624BD7B3": "프로필 액터\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "레이스 지역",
+    "F686194549FCDCDE1602BA87F50B713A": "레이스 지역",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "곧 레이스 시작",
+    "8FC27CE746647B26BBBF9782A019AFD4": "곧 레이스 시작",
+    "CA4965C14941F1E3494B759C09C5AA84": "곧 레이스 시작"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "승리의 노선에 어서 오세요.",
+    "RaceWinReward_Body": "브릭 베이에서 <b>가장 빠르시군요</>! <emphasis>랠리 레이스 우승</>을 축하합니다! 자랑스럽게 전시하세요. 충분히 자격 있으니까.\n- <name>드리프트</>"
+  }
+}

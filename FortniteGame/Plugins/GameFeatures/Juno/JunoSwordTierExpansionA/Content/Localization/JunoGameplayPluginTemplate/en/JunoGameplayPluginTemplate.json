@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "A Legendary Sword. Ideal for melee combat with enemies up-close.",
+    "A5C5C211434AA2839F6672858D879834": "No pen is mighter than this thing.",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "Sword",
+    "691AD6104B64E9B53B152A932C3A7948": "You'll need a <EmphA>Lumber Mill</>.",
+    "AF59C13740BF3D246EFE6894041683CA": "You'll need a <EmphA>Lumber Mill</>.",
+    "D46F690B44A43726C9409EBBF35FBD5A": "You'll need a <EmphA>Lumber Mill</>.",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "You'll need a <EmphA>Lumber Mill</>."
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "Bamboo Sword",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "Bamboo Sword",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "Bamboo Sword",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "Bamboo Sword",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "Dragon Opal Sword",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "Dragon Opal Sword",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "Kozustone Sword",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "Kozustone Sword",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "Kozustone Sword",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "Kozustone Sword",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "Steel Sword",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "Steel Sword",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "Steel Sword"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "A Rare Sword. Ideal for melee combat with enemies up-close.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "A sword-id affair.",
+    "CAD24296497618FE393B79B375B3D198": "An Epic Sword. Ideal for melee combat with enemies up-close.",
+    "7F0D841F4798D9DA06E8CB9880022753": "An Uncommon Sword. Ideal for melee combat with enemies up-close.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "Like a knife... but way better.",
+    "30D0CC564A676E401A2AF193711F5A03": "Spread your wings and sword.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "Sword",
+    "C9A902E24804F529DDB98399903E1F9F": "Sword",
+    "F07655364C7958D6AB473B8B9ABA433A": "Sword"
+  }
+}

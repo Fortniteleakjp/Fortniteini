@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Classe de widget ausente.\n\nVá para a implementação do seu projeto e encontre o projeto Espaço de Jogo que ele utiliza.\n\nDefina a 'ClassedoWidgetdaFerramentadeCaptura' no componente SparksCommonUtils do espaço de jogo para o widget que você deseja criar aqui.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} ignorou o evento (sem componente NPS disponível)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} aumentou o tamanho do conjunto: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} aumentou o tamanho do conjunto: {size}"
+  }
+}

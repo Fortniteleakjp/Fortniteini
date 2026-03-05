@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "อุปกรณ์ที่ให้ผู้เล่นสามารถซื้อและติดตั้งหรือถอดของแต่งจากอาวุธที่สามารถปรับแต่งได้",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "อุปกรณ์ที่ให้ผู้เล่นสามารถซื้อและติดตั้งหรือถอดม็อดจากอาวุธที่สามารถปรับแต่งได้วางไอเทมลงบนอุปกรณ์เพื่อกำหนดสกุลเงินที่ต้องการ",
+    "C71343894A060847493A649689759A65": "ชุดกล่องที่สามารถโต้ตอบได้เพื่อเรียกอาวุธที่ของแต่งแล้ว",
+    "460F73D54CB382F639D9F28B319DB307": "ปรับแต่ง ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "ไม่สามารถใช้โต๊ะของแต่งได้",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "สกุลเงิน",
+    "53C6F3F34E06E917D367268882E08D87": "กำหนดสกุลเงินที่ต้องใช้ในการปรับแต่งอาวุธ",
+    "A30B8506487121E7C4E703A5629FBE05": "ปิดการใช้งานเมื่อได้รับจาก",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "ไม่ทำงาน",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "ปิดการใช้งานอุปกรณ์ ป้องกันไม่ให้ซื้อหรือถอดของแต่ง",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "เปิดการใช้งานเมื่อได้รับจาก",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "เปิดใช้งานอุปกรณ์และอนุญาตให้ผู้เล่นเริ่มไถล",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "แกลเลอรี่กล่องอาวุธของแต่ง",
+    "0B7642504100909455884BA8ECBE7AD4": "โต๊ะของแต่งอาวุธ",
+    "1EBC090141D82557511D43B7E5342FD4": "โต๊ะของแต่งอาวุธ"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "คลาสที่อนุญาต",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "ทีมที่อนุญาต",
+    "ECreativeClassType.Any.DisplayName": "ใดๆ",
+    "ECreativeTeamType.Any.DisplayName": "ใดๆ",
+    "ClassSlotMetaData.DisplayPattern": "คลาส {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "กำหนดว่าจะแสดงระดับความหายากของไอเทมให้ผู้เล่นเห็นหรือไม่หากพวกเขาขาดทรัพยากร",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "กำหนดว่าอุปกรณ์นี้ควรเปิดใช้งานเมื่อเริ่มต้นมินิเกมหรือไม่",
+    "Device_WeaponModBench_C.ModCost.Description": "กำหนดค่าติดตั้งของแต่งกับอาวุธที่สามารถปรับแต่งได้ ค่านี้จะปรับใช้กับของแต่งที่สามารถเลือกได้ทั้งหมด ตัวเลือกไม่แทนที่จะใช้ในจำนวนเดียวกับที่โหมดแบทเทิลรอยัลใช้และอาจมีการเปลี่ยนแปลงได้",
+    "Device_WeaponModBench_C.Allowed Class.Description": "กำหนดว่าคลาสใดสามารถใช้โต๊ะของแต่งอาวุธนี้ได้",
+    "Device_WeaponModBench_C.Allowed Team.Description": "กำหนดว่าทีมใดสามารถใช้โต๊ะของแต่งอาวุธนี้ได้",
+    "Device_WeaponModBench_C.Disable.DisplayName": "ปิดการใช้งาน",
+    "Device_WeaponModBench_C.Disable.Description": "ปิดการใช้งานอุปกรณ์ ป้องกันไม่ให้ซื้อหรือถอดของแต่ง",
+    "Device_WeaponModBench_C.Enable.DisplayName": "เปิดการใช้งาน",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "เปิดการใช้งานเมื่อเริ่มมินิเกม",
+    "Device_WeaponModBench_C.Enable.Description": "เปิดใช้งานอุปกรณ์และอนุญาตให้ซื้อและลบของแต่งได้",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "หากตั้งค่านี้ อุปกรณ์จะอนุญาตให้ทุกคลาสยกเว้นคลาสที่ได้รับอนุญาต",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "หากตั้งค่านี้ อุปกรณ์จะอนุญาตให้ใช้งานได้ทั้งหมด ยกเว้นทีมที่อนุญาต",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "เลือกเฉพาะคลาสที่ไม่ได้เลือก",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "เฉพาะทีมที่ไม่ได้เลือก",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "จำนวนของแต่งที่ใช้",
+    "ECreativeClassType.NoClass.DisplayName": "ไม่มีคลาส",
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "แสดงระดับความหายากของไอเทมในข้อความแนะนำไอเทมหาย",
+    "TeamIndexMetaData.DisplayPattern": "ทีม {0}"
+  }
+}

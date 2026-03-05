@@ -1,0 +1,20 @@
+{
+  "": {
+    "9C93DC34489B985255B2F58CC0BA79B7": "نقاط الربط",
+    "0DF75D56485D1A84CB3A808F2AC32D28": "مُشغل مقطوعات عزف",
+    "95EDF89A4CED76088E4B6EBF5E3DEFCC": "مُشغل مقطوعات عزف",
+    "89EE8B2B4CBCE20710ACDE9605B47D90": "استماع",
+    "F10DD45D4D9DF89805963AA568985823": "PawnBoombox",
+    "BDBC9EBE4C3484BD9C0F3DA42884FEF4": "RadioStation",
+    "B70E2D874F868085DB6E8EBE1C9E1525": "الحجم",
+    "2C587E094E1E6B93C850A8817ABC246A": "إيقاف تشغيل مقطوعة العزف (اضغط باستمرار)",
+    "9CC4903843177060F946F9A5C66ECA71": "إيقاف تشغيل مقطوعة العزف (اضغط باستمرار)"
+  },
+  "FMBoombox": {
+    "FMBoomboxEmoteWheelPlayMusic": "اختيار الأغنية",
+    "5869D8964BB26B94A5D754B3951EFAC5": "استماع",
+    "FMBoomboxDisplayName": "العب",
+    "FMBoomboxEmoteWheelStopMusic": "إيقاف الأغنية",
+    "BoomboxSourceTextFormat": "مقطوعة عزف {0}"
+  }
+}

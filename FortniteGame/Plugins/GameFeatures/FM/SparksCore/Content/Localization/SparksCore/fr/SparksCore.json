@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Choisissez votre instrument",
+    "E70730D546323455388D0F8862938650": "Choisissez votre instrument",
+    "94FB361A46082147B697C19A318D8F49": "Choisissez votre chanson",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Boucles d'impro",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Pistes musicales",
+    "LockerJamTracksCategory": "Pistes musicales du casier"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Piste musicale"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Ambiances du jour",
+    "setlist_1_title": "Ambiances du jour",
+    "setlist_title_1": "Ambiances du jour",
+    "daily_1_desc": "Description des ambiances du jour !",
+    "setlist_1_desc": "Description des ambiances du jour !",
+    "setlist_desc_1": "Description des ambiances du jour !",
+    "festival_1_title": "Sélections de Festival",
+    "setlist_3_title": "Sélections de Festival",
+    "setlist_title_3": "Sélections de Festival",
+    "festival_1_desc": "Description des sélections de Festival !",
+    "setlist_3_desc": "Description des sélections de Festival !",
+    "setlist_desc_3": "Description des sélections de Festival !",
+    "setlist_desc_Fortnitemares": "Fortnite : Cauchemars",
+    "setlist_title_Fortnitemares": "Fortnite : Cauchemars",
+    "setlist_2_title": "Programme à la une",
+    "setlist_title_2": "Programme à la une",
+    "spotlight_1_title": "Programme à la une",
+    "setlist_2_desc": "Description du programme à la une !",
+    "setlist_desc_2": "Description du programme à la une !",
+    "spotlight_1_desc": "Description du programme à la une !"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Programme personnalisé",
+    "ProductMode_DisplayName_Setlist1": "Programme du jour",
+    "Daily_1_Title": "Ambiances du jour",
+    "Daily_1_Desc": "Description des ambiances du jour depuis le tableau",
+    "Festival_1_Title": "Sélections de Festival",
+    "Festival_1_Desc": "Description des sélections de Festival depuis le tableau",
+    "Default_Title": "Programme de Festival",
+    "ProductMode_DisplayName_Setlist3": "Programme à la une",
+    "Spotlight_1_Title": "Programme à la une",
+    "Spotlight_1_Desc": "Description du programme à la une depuis le tableau",
+    "Default_Desc": "DESCRIPTION DU PROGRAMME PAR DÉFAUT !",
+    "ProductMode_DisplayName_Setlist2": "Programme de la semaine"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Nom de l'artiste",
+    "SparksAvailableFilter": "Disponible",
+    "SparksDefaultFilter": "Par défaut",
+    "SparksFeaturedSort": "En vedette",
+    "SparksFeaturedFilter": "Nouveautés et en vedette",
+    "SparksOwnedFilter": "Possédé",
+    "SparksOwnedSort": "Propriété",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Afficher archivés",
+    "SparksAlphaSort": "Titre de A à Z",
+    "SparksAlphaSortReverse": "Titre de Z à A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Duration} | {Year}"
+  }
+}

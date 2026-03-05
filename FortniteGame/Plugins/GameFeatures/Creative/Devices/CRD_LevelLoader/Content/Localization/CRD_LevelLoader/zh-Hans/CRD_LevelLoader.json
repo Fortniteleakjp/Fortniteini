@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "等级加载设备",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "等级加载设备",
+    "6290D58B473E479F05752B83814E9464": "关卡加载设备加载由关卡副本设备创建的关卡，并可在岛屿的任何地方放置与旋转，包括在其他关卡加载设备上。",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "关卡加载设备加载由关卡副本设备创建的关卡，并可在岛屿的任何地方放置与旋转，包括在其他关卡加载设备上。",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "关卡加载设备加载由关卡副本设备创建的关卡，并可在岛屿的任何地方放置与旋转，包括在其他关卡加载设备上。"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "禁用",
+    "BP_LevelLoaderDevice_C.Disable.Description": "从选定频道中接收信号时禁用。",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "启用",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "游戏开始时启用",
+    "BP_LevelLoaderDevice_C.Enable.Description": "从选定频道中接收信号时启用。",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "关卡副本名称",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "将加载的关卡名称",
+    "BoolMetaData.FalseDisplayName": "关",
+    "BoolMetaData.TrueDisplayName": "开",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "该设备是否在游戏开始时就启用。需配合发射器和接收器使用。"
+  }
+}

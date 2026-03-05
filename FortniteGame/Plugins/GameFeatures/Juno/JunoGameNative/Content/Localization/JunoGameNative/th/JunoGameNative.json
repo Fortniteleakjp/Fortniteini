@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "ระยะห่างระหว่างกล่อง: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: สร้างข้างนอก {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "วาง{ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>ถูกกำจัดแล้ว</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>ถูกช่วยโดยโทเทม</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "ให้ {ItemDisplayText} เป็นของขวัญ"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "เอาทุกอย่างมาให้ฉัน!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}"
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "เข้าร่วมค่าย {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "ทรัพยากรไม่พอแลกเปลี่ยน ต้องการ x{WantItemCount} {WantItem} เพื่อแลกกับ x{SellItemCount} {SellItem}\n เหลือ {BundleCount} บันเดิล",
+    "TradeXForX": "แลก x{WantItemCount} {WantItem} กับ x{SellItemCount} {SellItem}\n เหลือ {BundleCount} บันเดิล"
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "เสร็จแล้ว!",
+    "GetX": "รับ {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>เข้าสู่โลกแล้ว</>",
+    "GameMemberDisconnected": "{0} <Yellow>ออกจากโลกแล้ว</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "เพิ่มการชาร์จ",
+    "ChargeCostUnits": "ชาร์จ",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "ไปต่อ",
+    "JunoSpeech_NoAIRole": "ไม่มีงาน",
+    "JunoSpeech_NoBoundCampName": "หมู่บ้านไร้นาม",
+    "JunoSpeech_NoLastUsedGatheringActor": "ไม่มีสถานี"
+  },
+  "JunoStorageChest": {
+    "Open": "เปิด",
+    "Search": "ค้น"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "หมู่บ้านของ {PlayerName}{VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "ถูกเตะออกเนื่องจากนิ่งเฉย การเชื่อมต่อของคุณกับโฮสต์ถูกตัดขาด\nเนื่องจากคุณนิ่งเฉยนานเกินไป",
+    "SpawnedWhenPermanentlyDead": "ไคลเอนต์นี้ชีวิตหมดแล้ว"
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "เข้าคู่มือสร้าง"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "นี่คือโลกสุดท้ายของเพื่อนคุณที่คุณสามารถวางเนื้อหาที่คุณเป็นเจ้าของได้ในสัปดาห์นี้",
+    "MCPItemPlacedMessageTitleText": "คำเตือน! เนื้อหามีเจ้าของ",
+    "MCPItemPlacedMessageDescription_NLeft": "สัปดาห์นี้คุณสามารถวางเนื้อหาที่คุณเป็นเจ้าของในโลกของเพื่อนได้มากขึ้น {0}"
+  }
+}

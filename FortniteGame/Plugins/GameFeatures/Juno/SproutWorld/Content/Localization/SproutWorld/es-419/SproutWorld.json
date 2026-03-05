@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "CRUCE PEATONAL",
+    "09298F2740CA51082D6CA3991E6A7A43": "Valor en efectivo: {val} | {perc}% - {spawned} / {total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "IR",
+    "30DF69ED4AA5D23EEE62998512640D06": "Prepárate",
+    "355F7C204406651F83FF48BA624BD7B3": "Perfil de actor\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "ZONA DE CARRERAS",
+    "F686194549FCDCDE1602BA87F50B713A": "ZONA DE CARRERAS",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "LA CARRERA EMPIEZA PRONTO",
+    "8FC27CE746647B26BBBF9782A019AFD4": "LA CARRERA EMPIEZA PRONTO",
+    "CA4965C14941F1E3494B759C09C5AA84": "LA CARRERA EMPIEZA PRONTO"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "¡Te doy la bienvenida al salón de la fama!",
+    "RaceWinReward_Body": "¡Eres la persona más <b>veloz</> de Litoral Ladrillo! ¡Te felicito por <emphasis>ganar la carrera de rally</>! Luce esto con orgullo, te lo mereces.\n<name>Deriva</>"
+  }
+}

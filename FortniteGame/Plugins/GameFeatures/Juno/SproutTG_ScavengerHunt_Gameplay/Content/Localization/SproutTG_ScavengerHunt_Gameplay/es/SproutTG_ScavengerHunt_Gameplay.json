@@ -1,0 +1,12 @@
+{
+  "": {
+    "FEFB61524EB2E2710DC9F89F90BB9FE7": "¡Gran hallazgo! Solo te falta encontrar un fragmento.",
+    "917149AA41AD13810AB585913FB34031": "¡Todo listo! Busca los fragmentos de llama.",
+    "6469AAC249CBDF8DB21C978BD2EA6E5D": "Búsqueda: juego de activación/desactivación de componentes del cliente ({state})",
+    "1E1F141E454D320B2B4911B98B8F1933": "Búsqueda: {numprops} elementos generados por jefe",
+    "4AD051E7439E856B212C5D97881175C0": "Búsqueda: {prop} se han habilitado - {state} (cliente)",
+    "25BBA1074ECF8DF73929AAA8FAA674AA": "¡Ya llevas dos! Te quedan otros tantos.",
+    "DAF158F344CCAF37AE36659313A9488E": "¡Qué bien se te da rebuscar! Has conseguido todos los fragmentos de llama.",
+    "AB2170634B6D92A0D89ADB8FF065EBCA": "¡Has encontrado un fragmento de llama! Te faltan tres."
+  }
+}

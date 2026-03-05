@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "一個整數，表示要產生的對話選項數量（數量越多越好）。",
+    "NulledOption": "未使用。忽略。",
+    "OptionFive_NPCResponse": "只有當玩家選擇「OptionFive」時（若使用），才會觸發 NPC 的完整對話回應文字。",
+    "OptionFour_NPCResponse": "只有當玩家選擇「OptionFour」時（若使用），才會觸發 NPC 的完整對話回應文字。",
+    "OptionOne_NPCResponse": "只有當玩家選擇「OptionOne」時（若使用），才會觸發 NPC 的完整對話回應文字。",
+    "OptionSix_NPCResponse": "只有當玩家選擇「OptionSix」時（若使用），才會觸發 NPC 的完整對話回應文字。",
+    "OptionThree_NPCResponse": "只有當玩家選擇「OptionThree」時（若使用），才會觸發 NPC 的完整對話回應文字。",
+    "OptionTwo_NPCResponse": "只有當玩家選擇「OptionTwo」時（若使用），才會觸發 NPC 的完整對話回應文字。",
+    "MainQuestion": "NPC 提出的主要問題，玩家會透過選擇其中一個選項來回答。",
+    "OptionFive": "提示給玩家的第五個對話選項文字。這是對「MainQuestion」的一個可能回答。",
+    "OptionOne": "提示給玩家的第一個對話選項文字。這是對「MainQuestion」的一個可能回答。",
+    "OptionFour": "提示給玩家的第四個對話選項文字。這是對「MainQuestion」的一個可能回答。",
+    "OptionTwo": "提示給玩家的第二個對話選項文字。這是對「MainQuestion」的一個可能回答。",
+    "OptionSix": "提示給玩家的第六個對話選項文字。這是對「MainQuestion」的一個可能回答。",
+    "OptionThree": "提示給玩家的第三個對話選項文字。這是對「MainQuestion」的一個可能回答。"
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "關鍵在於只能根據該行的即時對話來決定，而非 NPC 目前的主要情緒；選擇要調整哪一種情緒（高興、悲傷、憤怒、害怕、中立），該情緒會播放一段動畫並為該情緒累積分數；NPC 的主要情緒則由整體分數最高者決定，其中高興影響正向互動、悲傷呈現沉重情緒、憤怒導致對抗、害怕帶出恐懼感。",
+    "FeelingChangeValue": "設定 FeelingChange 強度；由於情緒會迅速衰減，數值必須與當下情感的權重相匹配：簡單、日常對話請用 0 至 20 的小數值（大部分簡單問候接近 0）；需要玩家採取行動或具意義的事件請用 20 至 60 的中數值；重大轉折時刻（如背叛、完成任務或收到完美禮物）請用 60 至 100 的大數值。",
+    "DialogueDescription": "你想要執行的對話台詞。"
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "思考中……"
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "思考中……"
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "思考中……"
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "物品定義：「{0}」未在遊戲功能資料中註冊，無法定位。",
+    "DuplicatePrimaryAssetError": "兩種不同的素材共用相同的主要素材 ID 「{0}」和「{1}」"
+  }
+}

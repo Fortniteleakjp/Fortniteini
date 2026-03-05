@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "Portal da Loja de Itens",
+    "A636CB9048F6D10A27FAE2ACA3336261": "Portal da Loja de Itens",
+    "ECA01A1C4D96960EA267CEA75C458F15": "Portal da Loja de Itens",
+    "F0DA7B7A455C002838011E9950021E4F": "Portal da Loja de Itens",
+    "F6BA046441D88E68E7317EB0D779DDEE": "Portal da Loja de Itens",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Abrir Loja",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Abrir Loja",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Abrir Loja ao Receber de",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Abrir Loja: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Abrir Loja: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Abre a Loja para o jogador de acionamento ao receber no canal selecionado.",
+    "18E3F3AD48251A9142A05A8349684E89": "Este dispositivo abre a Loja de Itens ao ser ativado.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "Este dispositivo abre a Loja de Itens ao ser ativado.",
+    "79656CFD409EE4E11B68988ACDCA8585": "Este dispositivo abre a Loja de Itens ao ser ativado.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "Este dispositivo abre a Loja de Itens ao ser ativado.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "Este dispositivo abre a Loja de Itens ao ser ativado."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Sempre",
+    "EEnabledOnPhase.Create Only.DisplayName": "Apenas Criar",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Determina as fases do jogo em que o dispositivo é habilitado. O pré-jogo inclui todas as fases anteriores ao início do jogo (a espera por jogadores no lobby das ilhas em destaque e a contagem regressiva para o início do jogo).",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Determina a duração de interação necessária para ativar o dispositivo.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Desabilitar",
+    "Device_Store_C.Disable.DisplayName": "Desabilitar",
+    "Device_Store_C.Disable.Description": "Desabilita o dispositivo ao receber um sinal do canal selecionado.",
+    "Device_ItemShop_V2_C.Disable.Description": "Desabilita o dispositivo.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Habilitar",
+    "Device_Store_C.Enable.DisplayName": "Habilitar",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Habilitado Durante Fase",
+    "Device_Store_C.Enable.Description": "Habilita o dispositivo ao receber um sinal do canal selecionado.",
+    "Device_ItemShop_V2_C.Enable.Description": "Habilita o dispositivo.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Apenas Jogo",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Tempo de Interação",
+    "EEnabledOnPhase.None.DisplayName": "Nenhuma",
+    "Device_Store_C.OpenStore.DisplayName": "Abrir Loja",
+    "Device_Store_C.OpenStore.Description": "Abre a Loja para o jogador de acionamento ao receber no canal selecionado.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Apenas Pré-jogo"
+  }
+}

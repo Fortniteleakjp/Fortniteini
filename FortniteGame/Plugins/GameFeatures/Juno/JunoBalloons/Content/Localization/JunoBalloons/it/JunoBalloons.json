@@ -1,0 +1,24 @@
+{
+  "": {
+    "589BC8C545D9D766C0F02DAA67AF848E": "Aggancia grossi palloncini e prendi il volo!",
+    "46C7F27B4A5570C7071636BB7EF37E8D": "Pronti a galleggiare PARECCHIO.",
+    "2FB1FBF64A8E9BE1A2F1C7BA5B611584": "Pronto a galleggiare.",
+    "644DE9964A9EB1D0E32D6CB2C74B7685": "Apri le tue ali e vola via! Beh... In questo caso, usa i palloncini. "
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F022CD50420DB9CA0BC872AA6D67BBB5": "Un palloncino grande con connettività a canale e non attivo. Può essere attivato tramite controllo a canale per farlo gonfiare e decollare.",
+    "812DFE244981B3CEE5E8E0ABBA8D2940": "Un piccolo palloncino con connettività a canale e non attivo. Può essere attivato tramite controllo a canale per farlo gonfiare e decollare.",
+    "2AA87E9E40F4F4D87E02BBB60A2F4230": "Palloncino ad attivazione grande",
+    "7988ADD74C897E641532648A25A6DF3C": "Palloncino ad attivazione - Piccolo",
+    "B57EF9BD4D82A829083838A7E5BE2085": "Aggancia grandi palloncini a strutture esistenti e oggetti dinamici.",
+    "B3815C7846E7DD14D5367CAC8F99EB48": "Aggancia piccoli palloncini a strutture esistenti e oggetti dinamici.",
+    "000401864743389FEA88AFA4F5CC7938": "Palloncino grande",
+    "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Palloncino piccolo"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "ActivatedBalloon_DisplayName": "Palloncino ad attivazione",
+    "ActivatedBalloonLarge_DisplayName": "Palloncino ad attivazione - Grande",
+    "BalloonLarge_DisplayName": "Palloncino grande",
+    "Balloon_DisplayName": "Palloncino piccolo"
+  }
+}

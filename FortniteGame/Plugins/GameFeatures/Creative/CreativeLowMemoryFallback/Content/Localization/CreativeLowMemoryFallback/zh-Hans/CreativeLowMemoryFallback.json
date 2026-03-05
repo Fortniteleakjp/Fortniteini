@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "内存不足",
+    "Return to main menu reason (default)": "内存达到临界水平 - 会话结束。\n你最后的进度已保存！返回创意模式，继续之前的游戏。",
+    "Warning toast description (default)": "竞赛单元可能意外结束。"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Un dispositivo che consente ai giocatori di acquistare e applicare o rimuovere le mod dalle armi modificabili.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Un dispositivo che consente ai giocatori di acquistare e applicare o rimuovere le mod dalle armi modificabili. Rilascia un oggetto sul dispositivo per impostare la valuta consumata.",
+    "C71343894A060847493A649689759A65": "Una serie di casse con cui si può interagire per generare armi modificate.",
+    "460F73D54CB382F639D9F28B319DB307": "PERSONALIZZA ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Banco mod Inutilizzabile",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Valuta",
+    "53C6F3F34E06E917D367268882E08D87": "Determina la valuta impostata necessaria per applicare un mod a un'arma.",
+    "A30B8506487121E7C4E703A5629FBE05": "Disabilita alla ricezione da",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Disabilitato",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Disabilita il dispositivo, impedendo l'acquisto o la rimozione delle mod.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Abilita alla ricezione da",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Abilita il dispositivo e consente ai giocatori di iniziare il grind.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Galleria custodie per armi modificate",
+    "0B7642504100909455884BA8ECBE7AD4": "Banco mod armi",
+    "1EBC090141D82557511D43B7E5342FD4": "Banco mod armi"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Classe consentita",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Squadra autorizzata",
+    "ECreativeClassType.Any.DisplayName": "Qualsiasi",
+    "ECreativeTeamType.Any.DisplayName": "Qualsiasi",
+    "ClassSlotMetaData.DisplayPattern": "Classe {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Determina se la rarità dell'oggetto viene mostrata al giocatore se gli mancano le risorse.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Determina se il dispositivo sarà abilitato o meno all'avvio del minigioco.",
+    "Device_WeaponModBench_C.ModCost.Description": "Determina quanto costa equipaggiare una mod per un'arma modificabile. Si applica a tutte le mod selezionabili. Senza override utilizza gli stessi costi di Battaglia reale ed è soggetto a modifica.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Determina quale classe potrà usare questo banco mod per armi.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Determina quale squadra potrà usare questo banco mod per armi.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Disabilita",
+    "Device_WeaponModBench_C.Disable.Description": "Disabilita il dispositivo, impedendo l'acquisto o la rimozione delle mod.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Abilita",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Si abilita all'avvio del minigioco",
+    "Device_WeaponModBench_C.Enable.Description": "Abilita il dispositivo e consente l'acquisto e la rimozione delle mod.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Se impostato, il dispositivo consentirà tutte le classi eccetto quella selezionata.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Se impostato, il dispositivo consentirà tutte le squadre eccetto quella selezionata.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Inverti selezione classe",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Inverti selezione squadra",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Costo mod",
+    "ECreativeClassType.NoClass.DisplayName": "Nessuna classe",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Mostra rarità oggetto nel prompt oggetti mancanti",
+    "TeamIndexMetaData.DisplayPattern": "Squadra {0}"
+  }
+}

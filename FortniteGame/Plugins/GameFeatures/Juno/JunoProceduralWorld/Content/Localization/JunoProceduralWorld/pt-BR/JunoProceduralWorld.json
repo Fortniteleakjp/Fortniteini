@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Valores Múltiplos",
+    "NoComponent": "Nada",
+    "ConvertSelectedActorsToIAsText": "[Juno] Converter {0} para Agentes de Instância"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Atributos para o path do agente escolhido \"{0}\", nome da fileira escolhida \"{1}\" e/ou a representação \"{2}\" conflitam com os nomes de outros atributos",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Adiciona os seguintes atributos:{ActorPath} : String : um string path para o agente ser gerado (copiado da fileira da planilha){Representation} : Nome : valor EJunoRepresentation de como deve ser criado (copiado da fileira da planilha){RowName} : Float : o nome da fileira escolhida.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Leitura dos seguintes atributos no fluxo de dados espaciais:{BiomeTableName} : String : um path para a leitura da planilha de dados do bioma{FilterName} : Nome : Opcional. Se especificado, seleciona apenas fileiras com um tipo de nome que seja compatível com o valor desta propriedade.{LayerWeight} : Float : Opcional. Se especificado, a coluna \"LayerWeights\" será usada em vez de \"Weight\", interpolada por este valor.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(as propriedades das configurações podem ter sido substituídas por: {P0} : Nome{P1} : Nome{P2} : Nome{P3} : Nome:{P4} : Nome{P5} :Nome)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Forma para encontrar a rota (provavelmente Paisagem!)",
+    "UnableToGetPointData": "Não é possível obter dados de Ponto pela entrada",
+    "UnableToGetSpatialData": "Não é possível obter dados Espaciais pela entrada"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Não foi possível recuperar os dados de altura da textura. Falha na inicialização.",
+    "TextureInitFailed": "Não foi possível recuperar os dados desta textura. Falha na inicialização.",
+    "LandscapeComponentLost": "Referência a um ou mais componentes de cenários perdidos. Mapas de grama não serão gerados."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "Lâmina",
+    "33EE7DD140FA593C65E6858D3ED133F0": "Foco",
+    "7D92FBAF4FF2178468D08FB5447138AA": "Cabo"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "Adagas Duplas de Âmbar",
+    "Dual_Daggers_T5_Amber_DisplayName": "Adagas Duplas de Âmbar",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "Adagas Duplas Explosivas",
+    "Dual_Daggers_T1_Bone_DisplayName": "Adagas Duplas de Osso",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "Adagas Duplas Brilhantes",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "Adagas Duplas de Garra",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "Adagas Duplas de Garra",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "Adagas Duplas de Garra",
+    "Dual_Daggers_T3_Copper_DisplayName": "Adagas Duplas de Cobre",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "Adagas Duplas Amaldiçoadas",
+    "Dual_Daggers_T4_Emerald_DisplayName": "Adagas Duplas de Esmeralda",
+    "Dual_Daggers_T5_Emerald_DisplayName": "Adagas Duplas de Esmeralda",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "Adagas Duplas de Madeira Macia",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "Adagas Duplas de Pinhal Gélido",
+    "Dual_Daggers_T1_Glass_DisplayName": "Adagas Duplas de Vidro",
+    "Dual_Daggers_T3_Gold_DisplayName": "Adagas Duplas de Ouro",
+    "Dual_Daggers_T2_Granite_DisplayName": "Adagas Duplas de Granito",
+    "Dual_Daggers_T3_Iron_DisplayName": "Adagas Duplas de Ferro",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "Adagas Duplas de Raízes",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "Adagas Duplas de Mogno",
+    "Dual_Daggers_T2_Malachite_DisplayName": "Adagas Duplas de Malaquita",
+    "Dual_Daggers_T2_Marble_DisplayName": "Adagas Duplas de Mármore",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "Adagas Duplas de Obsidiana",
+    "Dual_Daggers_T2_Redrock_DisplayName": "Adagas Duplas de Pedra Vermelha",
+    "Dual_Daggers_T4_Ruby_DisplayName": "Adagas Duplas de Rubi",
+    "Dual_Daggers_T5_Ruby_DisplayName": "Adagas Duplas de Rubi",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "Adagas Duplas de Arenito",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "Adagas Duplas de Safira",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "Adagas Duplas de Safira",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "Adagas Duplas Parte-chifres",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "Adagas Duplas Parte-chifres",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "Adagas Duplas da Tempestade",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "Adagas Duplas de Guarda da Tempestade",
+    "Dual_Daggers_T1_Wood_DisplayName": "Adagas Duplas de Madeira"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "Adagas Duplas"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Nie można zjechać na tyrolce",
+    "768283974295183A2A78FCBFBAFE1742": "Tworzy tyrolkę, która przenosi graczy z jednego punktu do drugiego",
+    "C7C925214E0954D490E48DB594FCAE7C": "Tworzy tyrolkę, która przenosi graczy z jednego punktu do drugiego",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Dostosuj ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Przejściowe urządzenie kreatywne, służące jako interfejs smartfonu do sterowania punktami krzywizn tyrolek.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Tyrolka",
+    "8CE167104123A4888338D3A2901028D8": "Tyrolka",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Punkt kontroli tyrolek"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Dowolna",
+    "ECreativeTeamType.Any.DisplayName": "Dowolna",
+    "ClassSlotMetaData.DisplayPattern": "Klasa {0}",
+    "Device_Zipline_C.Color.DisplayName": "Kolor",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Określa, w jakim stopniu ruch do przodu na tym punkcie kontroli wpływa na zakrzywienie toru w tym miejscu.",
+    "Device_Zipline_C.UseCustomColor.Description": "Określa, czy używać własnego koloru zamiast domyślnego",
+    "Device_Zipline_C.Color.Description": "Określa używany kolor własny.",
+    "Device_Zipline_C.Selected Class.Description": "Określa, która klasa może używać tej tyrolki.",
+    "Device_Zipline_C.Selected Team.Description": "Określa, która drużyna może używać tej tyrolki.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Jeśli ustawiono, urządzenie będzie dopuszczać wszystkie klasy oprócz wybranej.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Jeśli ustawiono, urządzenie będzie dopuszczać wszystkie drużyny oprócz wybranej.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Odwróć wybór klas",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Odwróć wybór drużyn",
+    "ECreativeClassType.NoClass.DisplayName": "Bez klasy",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "Device_Zipline_C.OnAttach.DisplayName": "Po podczepieniu",
+    "Device_Zipline_C.OnDetach.DisplayName": "Po odczepieniu",
+    "Device_Zipline_C.Selected Class.DisplayName": "Wybrana klasa",
+    "Device_Zipline_C.Selected Team.DisplayName": "Wybrana drużyna",
+    "Device_Zipline_C.OnAttach.Description": "Nadaje sygnał, gdy agent podczepi się do tyrolki",
+    "Device_Zipline_C.OnDetach.Description": "Wysyła zdarzenie, gdy agent odczepi się od tyrolki",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Intensywność stycznej",
+    "TeamIndexMetaData.DisplayPattern": "Drużyna {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Użyj własnego koloru"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Oyuncu verileri kontrol edilirken hata oluştu"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Sürekliliğin temizlenmesi başarısız oldu ve izin verilen yeniden deneme sayısı tükendi."
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Uygun kontrol noktalarını alma işlemi başarısız oldu",
+    "FailedToSetInitialCheckpointErrorMessage": "Başlangıç kontrol noktası belirleme başarısız oldu",
+    "InvalidJunoWorldErrorMessage": "Kontrol noktası işleyicisi başlatılmaya çalışılırken geçersiz Juno dünyasıyla karşılaşıldı",
+    "InvalidJunoRootPlayspaceErrorMessage": "Kontrol noktası işleyicisi başlatılmaya çalışılırken geçersiz ana oyun alanıyla karşılaşıldı"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Oyuncu sürekliliği zaten başlatıldıktan sonra başlatılmaya çalışıldı",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Geçersiz oyuncu süreklilik depolama alanı",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Kontrol noktası işleyicisi oluşturulamıyor"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Geçersiz oyuncu kimliğine sahip oyuncu sürekliliğinin başlatılması geri alınmaya çalışılıyor",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Oyuncu sürekliliği birden fazla defa başlatılmaya çalışılıyor",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Geçersiz oyuncu kimliğine sahip oyuncu sürekliliği başlatılmaya çalışılıyor",
+    "StalePlayerPersistenceHandlerErrorMessage": "Başlatma tamamlandıktan sonra oyuncu sürekliliği işleyicisi zaman aşımına uğradı",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Oyuncu sürekliliği işleyicisi oluşturulamıyor",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Geçerli oyuncu süreklilik depolama alanı alınamıyor"
+  }
+}

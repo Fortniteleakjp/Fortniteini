@@ -1,0 +1,47 @@
+{
+  "": {
+    "232F904440BC3A033E6337B5E384F2B2": "Nunca mires atrás.",
+    "FB3BEC4C4A482936DC56C4A7228B3876": "Un nunchaku común. Derrota a tus enemigos con esta veloz arma ninja.",
+    "0B3F3BB441C766F5706B0AA7A8140ABE": "Completa la primera misión de <img id=\"IcoNinja\"/>Isla Ninjago",
+    "4CF5389B41A649CD8B0F918DAEB91E19": "Completa la primera misión de <img id=\"IcoNinja\"/>Isla Ninjago",
+    "B20C6C8243CFAC9DFA03DBA43883B1DA": "Completa la primera misión de <img id=\"IcoNinja\"/>Isla Ninjago",
+    "B74E7099443434ADC72C36AC120AFEEA": "Completa la primera misión de <img id=\"IcoNinja\"/>Isla Ninjago",
+    "E27A5B174002E4206237A1A1D3C8EAD5": "Completa la primera misión de <img id=\"IcoNinja\"/>Isla Ninjago",
+    "E1FCA581470D5785BCA1A787D04E70E5": "Un nunchaku épico. Derrota a tus enemigos con esta veloz arma ninja.",
+    "D3D9014F439FF82E3B9D6095C155C21D": "Nunca digas nunca.",
+    "BE121C264FE8A591F65ED6ADBE534E1D": "Mangos",
+    "12315A064273B463455A56BC9B5D45B4": "Nunca entrechoques tu nunchaku nuevo contra el nudillo si no quieres chillar.",
+    "8DE8D2DC4E9F619F338D6A80F8676FE5": "Un nunchaku legendario. Derrota a tus enemigos con esta veloz arma ninja.",
+    "A92E48D24F6D8211BBA2588305AB7B07": "Cadenas",
+    "BE6CD11241F70A4BBA989194FB806CA4": "Nunca se sabe cuándo va a hacer falta.",
+    "C7F9EB0241CEA5E50B4764B30A77E097": "Hasta nunca.",
+    "34D71B9F4AD521BD53EDC9B1835D9237": "Un nunchaku raro. Derrota a tus enemigos con esta veloz arma ninja.",
+    "487CA54E4CFBE4FE72035988E1535154": "Un nunchaku poco común. Derrota a tus enemigos con esta veloz arma ninja."
+  },
+  "Juno_BoostedItemNames_Nunchucks": {
+    "Nunchucks_T4_T4_Bamboo_DisplayName": "Nunchaku de bambú",
+    "Nunchucks_T5_T5_Honed_Bamboo_DisplayName": "Nunchaku de bambú",
+    "Nunchucks_T6_T6_Honed_Bamboo_DisplayName": "Nunchaku de bambú",
+    "Nunchucks_T7_T7_Honed_Bamboo_DisplayName": "Nunchaku de bambú",
+    "Nunchucks_T8_T8_Honed_Bamboo_DisplayName": "Nunchaku de bambú",
+    "Nunchucks_T7_T7_Honed_Dragon_Opal_DisplayName": "Nunchaku de ópalo dragontino",
+    "Nunchucks_T8_T8_Honed_Dragon_Opal_DisplayName": "Nunchaku de ópalo dragontino",
+    "Nunchucks_T5_T5_Honed_Kozustone_DisplayName": "Nunchaku de kozupiedra",
+    "Nunchucks_T6_T6_Honed_Kozustone_DisplayName": "Nunchaku de kozupiedra",
+    "Nunchucks_T7_T7_Honed_Kozustone_DisplayName": "Nunchaku de kozupiedra",
+    "Nunchucks_T8_T8_Honed_Kozustone_DisplayName": "Nunchaku de kozupiedra",
+    "Nunchucks_T6_T6_Honed_Steel_DisplayName": "Nunchaku de acero",
+    "Nunchucks_T7_T7_Honed_Steel_DisplayName": "Nunchaku de acero",
+    "Nunchucks_T8_T8_Honed_Steel_DisplayName": "Nunchaku de acero"
+  },
+  "Juno_CBCFormulas_Nunchucks": {
+    "Nunchucks_DisplayName": "Nunchaku"
+  },
+  "Juno_UpdateItemData": {
+    "0F0118FD49D31B09DE4FECAF9E4B85F6": "Nunchaku",
+    "5EAC5DBC431F97B93C078582EAB05E32": "Nunchaku",
+    "79735EDA4A054667CB447C817F531CB8": "Nunchaku",
+    "7BFBDFE44B5AC7190EE6B890E98ABFCA": "Nunchaku",
+    "DF515FAC4948E32D784589A6F952EED3": "Nunchaku"
+  }
+}

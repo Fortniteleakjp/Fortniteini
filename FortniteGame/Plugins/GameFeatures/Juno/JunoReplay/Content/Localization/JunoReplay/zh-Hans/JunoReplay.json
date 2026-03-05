@@ -1,0 +1,6 @@
+{
+  "GameSettingRegistryExtension_JunoReplay": {
+    "ReplayRecordingJuno_Name": "录制朱诺重播",
+    "ReplayRecordingJuno_Description": "开启/关闭录制朱诺比赛重播。"
+  }
+}

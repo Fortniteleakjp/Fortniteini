@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "다이빙",
+    "BS_MainTitle": "폴가이즈",
+    "BS_InteractionBlocked": "폴가이즈에서는 사용할 수 없습니다.",
+    "BS_Control_Jump": "점프",
+    "BS_Control_QuitCourse": "코스 나가기"
+  }
+}

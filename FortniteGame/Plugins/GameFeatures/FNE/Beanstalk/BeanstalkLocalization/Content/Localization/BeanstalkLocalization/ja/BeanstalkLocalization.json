@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "ダイブ",
+    "BS_MainTitle": "Fall Guys",
+    "BS_InteractionBlocked": "Fall Guysには使えない。",
+    "BS_Control_Jump": "ジャンプ",
+    "BS_Control_QuitCourse": "コースから離脱する"
+  }
+}

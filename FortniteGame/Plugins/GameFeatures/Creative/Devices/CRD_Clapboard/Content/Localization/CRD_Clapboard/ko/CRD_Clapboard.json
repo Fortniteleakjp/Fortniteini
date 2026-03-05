@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "클랩보드",
+    "56A03FF7436EC20DE829418960AB9A08": "클랩보드",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "카운트다운",
+    "54EF511B43B2E65B7886F99DA6DD9816": "카운트업",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "사용 안 함",
+    "AE5B62204B1FB18FD103519F4F38C337": "설정하면 클랩보드가 지정한 스트림이 일정 시간에 도달할 때만 신호를 전송합니다.",
+    "77D7DD294A81C19292A44388D4D1A105": "유효하지 않은 스트림",
+    "15CAFDE0497C42D493DB10828B7326A0": "현재 재생 중인 동영상이 지정된 시간에 도달하면 신호를 전송합니다.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "재생 중인 스트림이 특정 위치에 도달하면 신호를 전송합니다.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "클랩보드 타이머가 0으로 내려갈 것인지, 지정한 시간까지 올라갈 것인지 설정합니다.",
+    "47A0B0E747D41C694384768BB2B392E6": "특정 스트림",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "시간(밀리초)",
+    "2ED1F344488EB2612D092586C1725442": "시간(분)",
+    "5750BFD542FFB083102152A0A1BC2154": "시간(초)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "해독 시간",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "시간 도달 시 송신",
+    "FF2400934566662794B5DB97A137A842": "장치 타이머가 경과되면 선택한 채널로 신호를 송신합니다.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}개",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0}ms",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0}초",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "비활성화",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "사용",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "시간 도달",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "장치 타이머가 경과되면 선택한 채널로 신호를 송신합니다."
+  }
+}

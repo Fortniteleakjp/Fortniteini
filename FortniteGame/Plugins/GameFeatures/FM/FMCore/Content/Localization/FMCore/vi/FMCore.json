@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "Tìm",
+    "MusicTimeNetSyncInterfaceSeekTarget": "Mục Tiêu Cần Tìm",
+    "MusicTimeNetSyncInterfaceSeek_Description": "Tìm vị trí Mục Tiêu Cần Tìm.",
+    "MusicTimeNetSyncInterfaceSpeed": "Tốc Độ",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "Tăng tốc độ cần thiết cho đồng hồ.",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "Xác định nơi cần tìm."
+  }
+}

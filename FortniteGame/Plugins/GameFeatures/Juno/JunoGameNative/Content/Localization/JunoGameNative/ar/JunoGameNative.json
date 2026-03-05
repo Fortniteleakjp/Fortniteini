@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "المسافة بين: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: إنشاء خارج {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}، {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "ضع {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>تمت تصفيته</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>أُنقذ بواسطة تميمة</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "امنح {ItemDisplayText} هدية"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "أعطني كل شيء!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "انضم إلى مخيم {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "لا يكفي للمقايضة. يلزم x{WantItemCount} من {WantItem} للمقايضة مقابل x{SellItemCount} من {SellItem}. \n باقي {BundleCount} من الحزم.",
+    "TradeXForX": "مقايضة x{WantItemCount} من {WantItem} مقابل x{SellItemCount} من {SellItem}. \n باقي {BundleCount} من الحزم."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "تم الانتهاء!",
+    "GetX": "احصل على {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>دخل العالم</>",
+    "GameMemberDisconnected": "{0} <Yellow>خرج من العالم</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "إضافة نفقة",
+    "ChargeCostUnits": "شحن",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "؟؟؟",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "متابعة",
+    "JunoSpeech_NoAIRole": "بلا عمل",
+    "JunoSpeech_NoBoundCampName": "قرية بدون اسم",
+    "JunoSpeech_NoLastUsedGatheringActor": "لا توجد آلة"
+  },
+  "JunoStorageChest": {
+    "Open": "فتح",
+    "Search": "بحث"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "قرية {PlayerName} {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "تم الاستبعاد لعدم النشاط. تم فقد اتصالك بالمضيف لعدم نشاطك لفترة طويلة جدًا.",
+    "SpawnedWhenPermanentlyDead": "نفدت الأرواح في برنامج اللعبة."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "دخول البناء الموجه"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "هذا آخر عوالم أصدقائك حيث يمكنك وضع محتوى مملوك هذا الأسبوع.",
+    "MCPItemPlacedMessageTitleText": "تحذير! محتوى مملوك",
+    "MCPItemPlacedMessageDescription_NLeft": "يمكنك وضع محتوى مملوك في {0} أكثر من عوالم أصدقائك الأخرى هذا الأسبوع."
+  }
+}

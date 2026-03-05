@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "這個容器允許共同儲存及放置和彼此有相關的道具。",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "這個容器允許共同儲存及放置和彼此有相關的道具。",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "這個容器允許共同儲存及放置和彼此有相關的道具。",
+    "B83B1047441082FB019A61A98B6D0581": "創意模式",
+    "5407FED74DA205FC418FA485B7622650": "可編輯",
+    "3D5826A149B0F5277962A9A36BFFE13F": "編輯",
+    "78335B4046FF677AC12593921618222C": "錯誤",
+    "4AA32A31415D1CEE34CCED9C69768627": "分層實例裝置",
+    "85848E934539608AA1BD9D834830CA76": "分層實例裝置",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "已鎖定",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "已放置",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "放置"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "這樣會將目前引用此分層的所有裝置內容清除。"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "內容收藏",
+    "BP_LevelInstanceDevice_C.EditState.Description": "決定是否可以將物體新增至此分層。",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "停用",
+    "BP_LevelInstanceDevice_C.Disable.Description": "在接收選定頻道的訊號時停用裝置。",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "編輯狀態",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "可編輯",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "啟用",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "遊戲開始時啟用",
+    "BP_LevelInstanceDevice_C.Enable.Description": "在接收選定頻道的訊號時啟用裝置。",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "分層深度",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "分層高度",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "分層實例名稱",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "分層寬度",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "已鎖定",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "將要載入的分層實例。",
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "防止和選擇不相容的內容被包括在分層實例中。",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "地塊的深度。\n\n警告：縮小尺寸可能會刪除不再出現在地塊範圍內的道具。",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "地塊的高度。\n\n警告：縮小尺寸可能會刪除不再出現在地塊範圍內的道具。",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "地塊的寬度。\n\n警告：縮小尺寸可能會刪除不再出現在地塊範圍內的道具。",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "在遊戲開始時，此裝置是否啟用。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "": {
+    "4964DEB14D53AEEFCC0A629BD7A33AE6": "已碎裂",
+    "6057F6864AA9E709C879D6AACB0B51CA": "套用",
+    "584109E4433860505E4221B06CB804C7": "使用<Purple>裂隙結晶</>來開始升級此物品的<Emphasize>稀有度</>與<Emphasize>屬性</>！",
+    "1FB0CC254BBC6F5894A163946CABC76D": "取消",
+    "28C7637F4D5775AAC49AC381A3303FFE": "關閉",
+    "5F68694648CEA78906D61A9AD2F91C91": "確認",
+    "80B9E10E44F1AA31A4086A8989C6D7A3": "你要獻上 <ToUpperEmphasis>{ResourceCount} 個{ResourceName}</>來開啟傳送門嗎？\n\n傳送門會一直開啟，直到<ToUpperEmphasis>{ResourceName}</>耗盡。",
+    "A93BE4044AAC177234B627AEDEFEF1F3": "符合條件的武器與工具",
+    "12D2B7B14894426DEC4E80B14F65CBA2": "直面風暴之心。\n<SK>擊敗風暴之王</>",
+    "A35E3CEC443D9645ABFF8488B1794079": "將<Emphasize>裂隙結晶</>注入<purple>史詩</>工具和武器。\n\n然後<Emphasize>使用該物品</>，直到釋放出所有潛力，解鎖<Legendary>傳奇</>稀有度和屬性加成！",
+    "8A75BC474CC480B7B6C94D8D9DE89B78": "缺少的資源",
+    "B2B98A4946CCAF685CC2EA85001B7162": "風暴之角",
+    "7EDC3006483CE0420E89EB9EA68C6C0A": "風暴之王",
+    "5E55DF384784B50F018A4E97F0683768": "風暴能量在你身周狂嘯",
+    "0DDEEF4648973CEBB8E330898100520D": "暴風閘門",
+    "61ED7E1949C3111E2604E49752562FD9": "這會從世界中摧毀該藍圖",
+    "7B3E1974470A6D9C62D666B37138CC99": "使用此物品來強化核心並解放全部的潛力！",
+    "0D4D10034D297D2BF45CAE9A447890CB": "弱點",
+    "C6C376724EA2847152D66D8CB8CF8019": "武器與工具",
+    "B439A62646B21069FC7A7F9DCEA77C38": "你擊敗了\n<SK>風暴之王</>",
+    "F439882E473916F876C43CBCE8A41D90": "你需要 <ToUpperEmphasis>{ResourceCount} 個{ResourceName}</>才能開啟傳送門！\n\n傳送門會一直開啟，直到<ToUpperEmphasis>{ResourceName}</>耗盡。",
+    "6999DD684E4EB94BDD14F8B380D8288D": "{ExtraTime}",
+    "A4F5023D48ACDDB5317A99A19375F1D6": "{ExtraTime}",
+    "54231E4C42ABA535368E3F80BF67F4DE": "{minutes}:{seconds}"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Wiele wartości",
+    "NoComponent": "Brak",
+    "ConvertSelectedActorsToIAsText": "[Juno] Konwertuj {0} do instancyjnych aktorów"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Występuje konflikt atrybutów dla ustalonej ścieżki aktora „{0}”, ustalonej nazwy wiersza „{1}” i/lub reprezentacji „{2}” z innymi nazwami atrybutów",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Dodaje następujące atrybuty:{ActorPath} : Ciąg : ścieżka ciągu do pojawienia się aktora (skopiowana z wiersza tabeli){Representation} : Nazwa : wartość EJunoRepresentation, według której zostanie stworzona (skopiowana z wiersza tabeli){RowName} : Zmiennoprzecinkowa : Nazwa wybranego wiersza).docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Odczytuje następujące atrybuty ze strumienia danych przestrzennych:{BiomeTableName} : Ciąg : Ścieżka dla tabeli danych biomu do odczytu{FilterName} : Nazwa : Opcjonalna. Jeśli określono, wybierze tylko te wiersze, które mają typ nazwy odpowiadający wartości tej właściwości.{LayerWeight} : Zmiennoprzecinkowa : Opcjonalna. Jeśli określono, zamiast „Weghts” użyta zostanie kolumna „LayerWeights”, interpolowana przez tą wartość).docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(właściwości ustawień mogą zostać nadpisane przez:{P0} : Nazwa{P1} : Nazwa{P2} : Nazwa{P3} : Nazwa{P4} : Nazwa{P5} : Nazwa)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Ukształtuj celem odnalezienia drogi w poprzek (prawdopodobnie środowisko!)",
+    "UnableToGetPointData": "Nie można uzyskać danych punktu z wejścia",
+    "UnableToGetSpatialData": "Nie można uzyskać danych przestrzennych z wejścia"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Nie można pobrać danych tekstury wysokości. Inicjalizacja nieudana.",
+    "TextureInitFailed": "Nie można pobrać danych dla tej tekstury. Inicjalizacja nieudana.",
+    "LandscapeComponentLost": "Utracono odnośnik do co najmniej jednego komponentu krajobrazu. Mapy trawy nie będą generowane."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "حاوية تسمح لك بنقل اللاعبين آنيًا ووضع أغراض مرتبطة بهم.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "حاوية تسمح لك بنقل اللاعبين آنيًا ووضع أغراض مرتبطة بهم.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "حاوية تسمح لك بنقل اللاعبين آنيًا ووضع أغراض مرتبطة بهم.",
+    "B83B1047441082FB019A61A98B6D0581": "الإبداعي",
+    "5407FED74DA205FC418FA485B7622650": "قابل للتحرير",
+    "3D5826A149B0F5277962A9A36BFFE13F": "تحرير",
+    "78335B4046FF677AC12593921618222C": "خطأ",
+    "4AA32A31415D1CEE34CCED9C69768627": "جهاز حالة المستوى",
+    "85848E934539608AA1BD9D834830CA76": "جهاز حالة المستوى",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "مقفل",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "تم الوضع",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "وضع"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "سيمسح هذا المحتويات من جميع الأجهزة التي تشير إلى هذا المحتوى حاليًا."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "محتوى المجموعة",
+    "BP_LevelInstanceDevice_C.EditState.Description": "تحديد ما إذا كان يمكن إضافة أغراض إلى هذا المستوى.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "معطّل",
+    "BP_LevelInstanceDevice_C.Disable.Description": "لتعطيل الجهاز عند استلام إشارة من القناة المحددة.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "تحرير الحالة",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "قابل للتحرير",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "تمكين",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "تفعيل مع بدء المواجهة",
+    "BP_LevelInstanceDevice_C.Enable.Description": "لتمكين الجهاز عند استلام إشارة من القناة المحددة.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "عمق المستوى",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "ارتفاع المستوى",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "اسم حالة المستوى",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "عرض المستوى",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "مغلق",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "اسم المستوى الذي سيتم تحميله.",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "يمنع تضمين المحتوى غير المتوافق مع التحديد في حالة المستوى.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "عمق قطعة الأرض بالقوالب. \r\n\r\nتحذير: قد يحذف تقليل الحجم الأغراض التي لم تعد داخل حدود قطعة الأرض.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "ارتفاع قطعة الأرض بالقوالب. \r\n\r\nتحذير: قد يحذف تقليل الحجم الأغراض التي لم تعد داخل حدود قطعة الأرض.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "عرض قطعة الأرض بالقوالب. \r\n\r\nتحذير: قد يحذف تقليل الحجم الأغراض التي لم تعد داخل حدود قطعة الأرض.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "سواءً كان هذا الجهاز ممكّنًا عند بدء المواجهة أم لا."
+  }
+}

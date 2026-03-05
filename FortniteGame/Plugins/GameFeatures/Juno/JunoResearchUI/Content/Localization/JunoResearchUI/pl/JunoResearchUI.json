@@ -1,0 +1,33 @@
+{
+  "": {
+    "19ACA3784C9E44E8BE91899105DF6A04": "0",
+    "75E779BC48F72B0FB644BF830A11A1C1": "<Essence_Current>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "9BAE8D574CAD3975632AAB9854E8ABA3": "<Essence_Full>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "E885F4D4445059F3D3E224A08C420745": "Zdolność do wyposażenia",
+    "453CFCA043482357A9490992C2D88E98": "Powrót",
+    "A66FFD79437A7C4EE261A58B81F9F1DF": "Zamknij",
+    "AC1CC62543EB6DB85055919D0313B288": "Schemat tworzenia",
+    "00B7D9BF432BC3CE81140CA02785CD37": "Esencja",
+    "FEFB063C42905A6210A5C4A1614916D5": "Bohaterowie",
+    "71F083C3404AB8E3A747779A7EF01671": "Mistrzostwo Bohaterstwa daje dostęp do schematów tworzenia <Research>broni bohatera</> oraz <Research>zdolności do wyposażenia,</> jak również <Research>efektów pasywnych.</>\n\nUżyj zebranej Esencji, by nauczyć się przedmiotu, a następnie spełnij jego wymagania, by go odblokować! Odblokowane schematy można wykorzystać na <Research>stanowisku bohatera,</> które odkryjesz, zbierając granit. Stanowisko można wybudować z <Research>menu budowania.</>\n\nPo ich odblokowaniu <Research>efekty pasywne</> będą automatycznie nakładać się na określoną broń, jeśli spełnia ona wymagania klasy rzadkości danego efektu.",
+    "0B32CD5A4ED05EFBDBB0259E89474222": "Naucz się",
+    "2DD93B44441F8685E6012DBFFA0D3C6F": "Poziom {Curr}/{Max}",
+    "27FD1DCD43DFFEB7F45E40B1C2D89659": "Opanowano!",
+    "6B280313437D1F92980653BB23B1B8A3": "Mistrzostwo",
+    "8622C6FC44D18974363C8F9DF2210E6D": "Mistrzostwo dostępne!",
+    "9E62741E4D0B658A763EC8B9E897BB03": "Mistrzostwo dostępne!",
+    "955710F848FC692B0D6F6C85659B6228": "Więcej gałęzi Mistrzostwa już wkrótce!",
+    "177907084ED421444E82248E1A639E08": "Nowe!",
+    "F2A2739A40218E238C686D84E34CB03B": "Odyssey",
+    "8452A3A346AD7425CC6AAFA6B0535F32": "Efekt pasywny",
+    "850AC88E4A827A0FFF643EBA4C1DDB50": "Badania",
+    "7A2D475343B4E45A60D5CABB82E919AD": "Ten <Research>efekt pasywny</> zostanie zastosowany do <Research>zdolności do wyposażenia klasy {Theme}</> o dowolnej rzadkości.",
+    "5A23004B4E60012AC25115820A8CDEDA": "Ten <Research>efekt pasywny</> zostanie zastosowany do <Research>broni klasy {Theme}</> o dowolnej rzadkości.",
+    "28988A8049879442C9F30EBDAD228E26": "Wymagane do odblokowania:",
+    "73C4C01F44D1CD89BA3C2C9B834E3D0F": "Odblokowuje możliwość wytworzenia: <ItemName>{ItemName}.</>",
+    "3F95333544CE1E9B8F7B5C86225E2168": "Bronie",
+    "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
+    "E94F82024EF41828E5066E94805EFC16": "Dostępne: {Num}",
+    "FB1530584BB53CC80CA5F7B059A572E0": "Dostępne: {Num}"
+  }
+}

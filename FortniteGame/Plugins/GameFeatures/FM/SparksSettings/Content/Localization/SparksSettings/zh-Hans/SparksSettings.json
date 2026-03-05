@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>开启</>：舞蹈姿势会以正常速度播放，姿势音乐会在即兴曲目的基础上播放。",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>开启</>：舞蹈姿势会和即兴曲目的节拍同步，姿势音乐会被静音。",
+    "JamTrackAudioTabName": "即兴曲目",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "将我的舞蹈姿势同步至即兴曲目",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "该设置会更改播放即兴曲目时，你的舞蹈姿势。"
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "调整音乐节中的游戏音乐音量。",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "音乐 - 音乐节"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "Una espada legendaria. Ideal para el combate cuerpo a cuerpo con los enemigos.",
+    "A5C5C211434AA2839F6672858D879834": "Ninguna pluma es más poderosa que esta cosa.",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "Espada",
+    "691AD6104B64E9B53B152A932C3A7948": "Vas a necesitar un <EmphA>aserradero</>.",
+    "AF59C13740BF3D246EFE6894041683CA": "Vas a necesitar un <EmphA>aserradero</>.",
+    "D46F690B44A43726C9409EBBF35FBD5A": "Vas a necesitar un <EmphA>aserradero</>.",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "Vas a necesitar un <EmphA>aserradero</>."
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "Espada de opalina de dragón",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "Espada de opalina de dragón",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "Espada de piedra de Kozu",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "Espada de piedra de Kozu",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "Espada de piedra de Kozu",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "Espada de piedra de Kozu",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "Espada de hierro",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "Espada de hierro",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "Espada de hierro"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "Una espada rara. Ideal para el combate cuerpo a cuerpo con los enemigos.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "Al filo del peligro.",
+    "CAD24296497618FE393B79B375B3D198": "Una espada épica Ideal para el combate cuerpo a cuerpo con los enemigos.",
+    "7F0D841F4798D9DA06E8CB9880022753": "Una espada poco común. Ideal para el combate cuerpo a cuerpo con los enemigos.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "Como un cuchillo... pero mucho mejor.",
+    "30D0CC564A676E401A2AF193711F5A03": "Desenvaina tu espada.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "Espada",
+    "C9A902E24804F529DDB98399903E1F9F": "Espada",
+    "F07655364C7958D6AB473B8B9ABA433A": "Espada"
+  }
+}

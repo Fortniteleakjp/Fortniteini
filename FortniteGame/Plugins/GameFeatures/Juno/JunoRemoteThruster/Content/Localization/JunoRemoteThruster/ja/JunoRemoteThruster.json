@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "ブーストが欲しくなったときにいくつか使おう。 ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "ブーストにあとひと押しが必要なときに！"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "既存の建築物と動的オブジェクト上に大きなスラスターを取り付ける。",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "既存の建築物と動的オブジェクト上に小さなスラスターを取り付ける。",
+    "FB90A27F4B95E168E9C6CA88443875D0": "スラスター(大)",
+    "5E9A371D43E076126910D39AF338F4B5": "スラスター(小)"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "スラスター(大)",
+    "RemoteThruster_DisplayName": "スラスター(小)"
+  }
+}

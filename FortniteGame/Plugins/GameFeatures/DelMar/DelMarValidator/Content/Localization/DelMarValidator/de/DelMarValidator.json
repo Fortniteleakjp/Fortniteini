@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Bei einer Strecke, die kein Rundkurs ist und mehr als eine Runde umfasst, muss am RR-Checkpoint der Ziellinie der Teleport aktiviert sein, und die „Nächster Checkpoint“-Reihe muss auf den RR-Checkpoint der Startlinie verweisen. {0}",
+    "MultipleFinishLines": "Mehr als ein RR-Checkpoint ist als „Ziellinie“ markiert. Eine RR-Strecke muss genau einen RR-Checkpoint für die Ziellinie haben. {0}",
+    "MultipleStartLines": "Mehr als ein RR-Checkpoint ist als „Startlinie“ markiert. Eine RR-Strecke muss genau einen RR-Checkpoint für die Startlinie haben. {0}",
+    "NoFinishLine": "Es ist kein RR-Checkpoint als „Ziellinie“ markiert. Eine RR-Strecke muss genau einen RR-Checkpoint für die Ziellinie haben. {0}",
+    "NoStartLine": "Es ist kein RR-Checkpoint als „Startlinie“ markiert. Eine RR-Strecke muss genau einen RR-Checkpoint für die Startlinie haben. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Setze {0} zurück und wiederhole „Nächste Checkpoints“. {1}",
+    "Loop": "Du kannst innerhalb einer Runde nicht zu bereits besuchten Checkpoints zurückkehren. Auf dem Gerät {0} verweist eine „Nächster Checkpoint“-Reihe auf {1}, auf den in derselben Runde schon vorher von {2} verwiesen wurde. {3}",
+    "DoesntOverlapFinishLine": "Deine primäre RR-Strecke muss sich vom RR-Checkpoint der Startlinie bis zum RR-Checkpoint der Ziellinie erstrecken. Derzeit berührt sie nicht den RR-Checkpoint, der als Ziellinie markiert ist. {0}",
+    "DoesntOverlapStartingLine": "Deine primäre RR-Strecke muss sich vom RR-Checkpoint der Startlinie bis zum RR-Checkpoint der Ziellinie erstrecken. Derzeit berührt sie nicht den RR-Checkpoint, der als Startlinie markiert ist. {0}",
+    "DeadEnd": "{0} enthält keinen Verweis auf einen oder mehreren „nächste Checkpoints“, die nacheinander zum RR-Checkpoint der Ziellinie führen. {1}",
+    "Orphan": "{0} ist nicht mit der Strecke verbunden."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Es wurde mehr als ein RR-Rennmanager mit demselben Level-Tag platziert. Strecken müssen genau einen RR-Rennmanager enthalten. {0}",
+    "MultipleModeManager": "Es wurde mehr als ein RR-Rennmanager platziert. Strecken müssen genau einen RR-Rennmanager enthalten. {0}",
+    "MultipleModeManagerForMode": "Es wurde mehr als eine RR-Rennverwaltung platziert. Strecken müssen genau eine RR-Rennverwaltung enthalten. {0}",
+    "NoModeManager": "Es wurde kein RR-Rennmanager platziert. Strecken müssen genau einen RR-Rennmanager enthalten. RR-Rennmanager (Wettkampf), RR-Rennmanager (Zeitfahren) usw. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Mehr als eine RR-Strecke hat den Streckentyp „Primär“. Es muss genau eine primäre Strecke geben. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Keine RR-Strecke hat den Streckentyp „Primär“. Es muss genau eine primäre Strecke geben. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Wenn der RR-Checkpoint der Startlinie und der RR-Checkpoint der Ziellinie identisch sind, gilt die Strecke als Rundkurs und für den Spline deiner primären Strecke muss im Tab „Geräte“ des Stil-Editors „Schleifenstrecke“ auf „Wahr“ gesetzt sein. {0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} ist eine „sekundäre“ Strecke, wurde aber im Tab „Geräte“ des Stil-Editors als „Schleifenstrecke“ eingestellt. Nur „primäre“ und „kosmetische“ Strecken können Schleifenstrecken sein. {1}",
+    "DelMarMapCheck_AuthoredBackwards": "Die letzte Knotenplatzierung von {0} ist mit der Strecke an einem Punkt in der Runde verbunden, der vor dem ersten Knoten liegt. Diese RR-Strecke wurde möglicherweise rückwärts oder gegen den Streckenverlauf erstellt ODER ein Ende des Splines könnte zu nahe an einem Streckenteil liegen, zu dem die Spieler nicht navigieren sollen. Wähle diese RR-Strecke in der perspektivischen Ansicht und stelle sicher, dass die Verbindungslinien von dem Spline dieser sekundären RR-Strecke wie erwartet zu deiner Strecke zurückführen. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

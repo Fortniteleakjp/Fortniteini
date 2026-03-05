@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Добавить в очередь финала при получении сигнала",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Заставляет всех игроков из сеанса на острове принять участие в подборе игроков.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Трансляция игры",
+    "D6605AA24CE9BB51B09055B216381F62": "Трансляция игры",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Код острова",
+    "4906BC4442B704E71E23E9B9A01FF370": "Портал уровня",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Определяет код острова, на который ведёт портал.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Перенести участников при получении сигнала"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Отключить при получении сигнала",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Включить при получении сигнала",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Включает устройство при получении сигнала по выбранному каналу.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Очередь в финале",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Перенести участников"
+  }
+}

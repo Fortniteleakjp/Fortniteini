@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "FAIXA DE PEDESTRE",
+    "09298F2740CA51082D6CA3991E6A7A43": "Valor em dinheiro: {val}|{perc}% - {spawned}/{total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "IR",
+    "30DF69ED4AA5D23EEE62998512640D06": "Prepare-se",
+    "355F7C204406651F83FF48BA624BD7B3": "Perfil do Ator\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "ÁREA DA CORRIDA",
+    "F686194549FCDCDE1602BA87F50B713A": "ÁREA DA CORRIDA",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "CORRIDA COMEÇANDO EM BREVE",
+    "8FC27CE746647B26BBBF9782A019AFD4": "CORRIDA COMEÇANDO EM BREVE",
+    "CA4965C14941F1E3494B759C09C5AA84": "CORRIDA COMEÇANDO EM BREVE"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "Boas-vindas ao Circuito da Vitória",
+    "RaceWinReward_Body": "Ninguém na Baía dos Blocos é mais <b>rápido</> do que você! Parabéns por <emphasis>vencer a corrida</>! Mostre seu prêmio com orgulho, você mereceu.\n— <name>Atemporal</>"
+  }
+}

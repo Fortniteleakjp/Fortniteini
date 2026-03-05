@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Du kannst die Seilrutsche nicht nutzen",
+    "768283974295183A2A78FCBFBAFE1742": "Erstellt eine Seilrutsche, die Spieler von einer Stelle zur anderen bringt.",
+    "C7C925214E0954D490E48DB594FCAE7C": "Erstellt eine Seilrutsche, die Spieler von einer Stelle zur anderen bringt.",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Anpassen ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Vorübergehendes Gerät für den Erschaffen-Modus, das als Telefonwerkzeug-Schnittstelle für die Seilrutsche-Spline-Punkte fungiert.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Seilrutsche",
+    "8CE167104123A4888338D3A2901028D8": "Seilrutsche",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Seilrutschen-Kontrollpunkt"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Jede",
+    "ECreativeTeamType.Any.DisplayName": "Jedes",
+    "ClassSlotMetaData.DisplayPattern": "Klasse {0}",
+    "Device_Zipline_C.Color.DisplayName": "Farbe",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Bestimmt, wie stark die Vorwärtsbewegung bei diesem Kontrollpunkt die Kurve des Weges an dieser Stelle beeinflusst.",
+    "Device_Zipline_C.UseCustomColor.Description": "Bestimmt, ob eine angepasste Farbe statt der Standardfarbe verwendet wird.",
+    "Device_Zipline_C.Color.Description": "Bestimmt die zu verwendende angepasste Farbe.",
+    "Device_Zipline_C.Selected Class.Description": "Bestimmt, welche Klasse die Seilrutsche benutzen kann.",
+    "Device_Zipline_C.Selected Team.Description": "Bestimmt, welches Team die Seilrutsche benutzen kann.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Bei Aktivierung erlaubt das Gerät alle Klassen abgesehen von der ausgewählten Klasse.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Bei Aktivierung erlaubt das Gerät alle Teams abgesehen vom ausgewählten Team.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Klassenauswahl umkehren",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Teamauswahl umkehren",
+    "ECreativeClassType.NoClass.DisplayName": "Ohne Klasse",
+    "BoolMetaData.FalseDisplayName": "Aus",
+    "BoolMetaData.TrueDisplayName": "Ein",
+    "Device_Zipline_C.OnAttach.DisplayName": "Bei Anhängen",
+    "Device_Zipline_C.OnDetach.DisplayName": "Bei Ablösen",
+    "Device_Zipline_C.Selected Class.DisplayName": "Ausgewählte Klasse",
+    "Device_Zipline_C.Selected Team.DisplayName": "Ausgewähltes Team",
+    "Device_Zipline_C.OnAttach.Description": "Sendet ein Signal, wenn sich ein Agent an die Seilrutsche hängt.",
+    "Device_Zipline_C.OnDetach.Description": "Sendet ein Event, wenn sich ein Agent von der Seilrutsche löst.",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Tangentenintensität",
+    "TeamIndexMetaData.DisplayPattern": "Team {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Farbanpassung verwenden"
+  }
+}

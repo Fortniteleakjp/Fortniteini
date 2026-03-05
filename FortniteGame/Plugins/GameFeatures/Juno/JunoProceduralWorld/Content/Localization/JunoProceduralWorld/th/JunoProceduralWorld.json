@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "ค่าหลายค่า",
+    "NoComponent": "ไม่มี",
+    "ConvertSelectedActorsToIAsText": "[Juno] แปลง {0} เป็นวัตถุอินสแตนซ์"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "แอตทริบิวต์สำหรับ actor path '{0}', ชื่อแถวที่แก้ไขแล้ว '{1}'และ/หรือการเป็นตัวแทน '{2}' ขัดแย้งกับชื่อแอตทริบิวต์อื่น ๆ",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(เพิ่มแอตทริบิวต์ต่อไปนี้:{ActorPath} : String : เส้นทางสตริงสำหรับวัตถุให้เกิด (คัดลอกมาจากแถวตาราง){Representation} : Name : ค่า EJunoRepresentation สำหรับวิธีที่ควรสร้าง (คัดลอกมาจากแถวตาราง){RowName} : Float : ชื่อของแถวที่เลือก)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(อ่านแอตทริบิวต์ต่อไปนี้บนสตรีมข้อมูลภูมิสารสนเทศ:{BiomeTableName} : String : เส้นทางสำหรับตารางข้อมูลชีวนิเวศที่จะอ่าน{FilterName} : ชื่อ : ทางเลือก ถ้าระบุ จะเลือกเฉพาะแถวที่มีชื่อประเภทตรงกับค่าของคุณสมบัตินี้{LayerWeight} : ลอย : ตัวเลือก ถ้าระบุ คอลัมน์ 'LayerWeights' จะถูกใช้แทน 'Weight' ที่ถูกแทรกด้วยค่านี้)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(คุณสมบัติการตั้งค่าอาจถูกแทนที่ด้วย:{P0} : Name{P1} : Name{P2} : Name{P3} : Name{P4} : Name{P5} : Name)docs",
+    "UPCGJunoPathfindSettingsShapePin": "สร้างรูปร่างเพื่อหาทางข้าม (อาจจะเป็นภูมิประเทศ!)",
+    "UnableToGetPointData": "ไม่สามารถรับข้อมูลจุดจากอินพุตได้",
+    "UnableToGetSpatialData": "ไม่สามารถรับข้อมูลภูมิสารสนเทศจากอินพุตได้"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "ไม่สามารถดึงข้อมูลสำหรับพื้นผิวความสูงได้ การเริ่มต้นล้มเหลว",
+    "TextureInitFailed": "ไม่สามารถดึงข้อมูลสำหรับพื้นผิวนี้ได้ การเริ่มต้นล้มเหลว",
+    "LandscapeComponentLost": "ค่าที่ใช้เอาต์พุตให้องค์ประกอบของภูมิทัศน์บางส่วนสูญหาย ไม่สามารถสร้างแผนที่หญ้าได้"
+  }
+}

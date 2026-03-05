@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "PENYEBERANGAN",
+    "09298F2740CA51082D6CA3991E6A7A43": "Nilai Tunai: {val} | {perc}% - {spawned} / {total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "PERGI",
+    "30DF69ED4AA5D23EEE62998512640D06": "Bersiaplah",
+    "355F7C204406651F83FF48BA624BD7B3": "Aktor Profil\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "AREA BALAPAN",
+    "F686194549FCDCDE1602BA87F50B713A": "AREA BALAPAN",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "BALAPAN SEGERA DIMULAI",
+    "8FC27CE746647B26BBBF9782A019AFD4": "BALAPAN SEGERA DIMULAI",
+    "CA4965C14941F1E3494B759C09C5AA84": "BALAPAN SEGERA DIMULAI"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "Selamat datang di Jalur Kemenangan",
+    "RaceWinReward_Body": "Kaulah yang <b>tercepat</> di Brick Bay! Selamat karena telah <emphasis>memenangkan balapan rally</>! Pajang ini dengan bangga - kau pantas menerimanya.\n- <name>Drift</>"
+  }
+}

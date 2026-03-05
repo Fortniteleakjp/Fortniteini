@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Beirada que pode ser colocada e permite que as pessoas se lancem por ela.",
+    "EFF5545942BE6E906FA09492A029002C": "Beirada que pode ser colocada e permite que as pessoas se lancem por ela.",
+    "39AFB32446569697402D1D827A10908B": "Beirada que pode ser colocada e permite aos jogadores lançarem-se por ela.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Desabilitar ao Receber de",
+    "39698C45412DE4DC33043394E36BCF15": "Desabilita o dispositivo ao receber um sinal do canal selecionado.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Habilitar ao Receber de",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Habilita o dispositivo ao receber um sinal do canal selecionado.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Aro de Metal",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Nada",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Beirada Colocável",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Beirada Colocável",
+    "97078157436AE317038738A4DBF33EAE": "Viga de Madeira"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Malha Personalizada",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Determina se a beirada é habilitada e fica visível durante o jogo.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Desabilitar",
+    "Device_PlaceableLedge_C.Disable.Description": "Desabilita o dispositivo.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Habilitar",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Habilitar Durante Jogo",
+    "Device_PlaceableLedge_C.Enable.Description": "Habilita o dispositivo.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Se Verdadeiro, este dispositivo usa um aro escalável em vez de uma viga. ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Seleção de Malha de Beirada",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Aro de Metal",
+    "ELedgeMeshSelections.None.DisplayName": "Nada",
+    "BoolMetaData.FalseDisplayName": "Desligado",
+    "BoolMetaData.TrueDisplayName": "Ligado",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "A malha personalizada usada na beirada caso a opção de malha esteja definida como Personalizada.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Viga de Madeira"
+  }
+}

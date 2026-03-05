@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "Odun Topla",
+    "EC841CD54B7090D2510D7586F386C251": "Odun Topla"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Düzenlemek için E tuşuna bas."
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Özelleştir"
+  }
+}

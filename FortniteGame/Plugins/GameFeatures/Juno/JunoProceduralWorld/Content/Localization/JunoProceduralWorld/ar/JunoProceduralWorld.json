@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "قيم متعددة",
+    "NoComponent": "لا يوجد",
+    "ConvertSelectedActorsToIAsText": "[Juno] تحويل {0} إلى العوامل المُوضحة"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "تتعارض سمات مسار الممثل المختار\"{0}\"، واسم الصف الذي تم حله \"{1}\" و/أو التمثيل \"{2}\" مع أسماء السمات الأخرى",
+    "JunoResolveBiomeIngredients_Output": "وثائق \"R (تضيف السمات التالية:{ActorPath} : سلسلة: مسار سلسلة للممثل لينتشر (منسوخ من صف الجدول){Representation} :اسم : قيمة EJunoRepresentation للطريقة التي يجب إنشائها بها (منسوخ من صف الجدول){RowName} :الطفو: اسم الصف المختار.) الوثائق",
+    "JunoResolveBiomeIngredients_Input": "وثائق \"R (تتم قراءة السمات التالية عند بث البيانات المكانية:{BiomeTableName} : سلسلة: مسار لجدول بيانات المنطقة الحيوية ليُقرأ كالتالي{FilterName}: اسم: اختياري. إذا تم التحديد، فسيحدد فقط الصفوف التي تحتوي على نوع اسم يتطابق مع قيمة هذه الخاصية.{LayerWeight}  : الطفو : اختياري. إذا تم التحديد، فسيتم استخدام عمود \"LayerWeights\" بدلًا من \"Weight\"، المتشابكة مع هذه القيمة.)وثائق",
+    "JunoResolveBiomeIngredients_Param": "وثائق \"R (يمكن تجاوز خصائص الإعدادات عن طريق:{P0} :اسم{P1}: اسم{P2} :اسم{P3} : اسم{P4}: اسم{P5} :) الوثائق",
+    "UPCGJunoPathfindSettingsShapePin": "إعداد الشكل للمسار العابر (التضاريس على الأرجح!)",
+    "UnableToGetPointData": "تعذر الحصول على بيانات النقطة من المُدخل",
+    "UnableToGetSpatialData": "تعذر الحصول على البيانات المكانية من المُدخل"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "تعذر استرجاع بيانات إكساء الارتفاع، وفشلت التهيئة.",
+    "TextureInitFailed": "تعذر استرجاع بيانات هذا الإكساء، وفشلت التهيئة.",
+    "LandscapeComponentLost": "هناك مرجع أو أكثر مفقود من مكونات التضاريس، فلن يتم توليد خرائط العشب."
+  }
+}

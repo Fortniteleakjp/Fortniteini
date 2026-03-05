@@ -1,0 +1,60 @@
+{
+  "": {
+    "7CF675F54AAAF7E59BE02DAB77408A05": "Tira você de uma enrascada.",
+    "C5A8140A4118053FC98DFDBB0D477551": "Beber",
+    "DB08DD254AF3AFB372428180B61CA019": "Beber",
+    "EAB819034C2F9C992BA858A086E9DE9F": "Beber",
+    "00BB690D4E89F43785A3D4A229B6DB61": "Poção de Vida Enorme",
+    "7C8602704D9895DDF91E619E313F2BF1": "Poção Klima Caseiro",
+    "0F2572A7464747102625ADA1C20A47C8": "Aprender Processador de Pedra",
+    "15DCC0C24F5C4F536F138088AC42AEB3": "Aprender Processador de Pedra",
+    "6658571740A19DBD7B45048831519148": "Aprender Processador de Pedra",
+    "D698C5014DE407DFBCD1D8AE7E59ACE5": "Aprender Processador de Pedra",
+    "519F538E4BA1F07B9CC0568E94FE94B8": "Poção de Vida Pequena",
+    "DC0C133C44C2FCDE2C191A8B80DBE979": "É mais gostoso que uma atadura.",
+    "1A7EEC024336625F5D77D2BE8F3A1E12": "Você precisará de um <EmphA>Caldeirão</>.",
+    "203816BD498C65F400EDCAAFA79DE3F4": "Você precisará de um <EmphA>Caldeirão</>.",
+    "3FBDEF784A8467A63BC5389C3714371A": "Você precisará de um <EmphA>Caldeirão</>.",
+    "098D7FC84C27CDA3213B928D7BC06685": "[PH] Armor!",
+    "5EBE269C4DF3ACDB4DDCCC83D9320525": "[PH] Armor!",
+    "73B283534BB330C6C0FA37BC88FB3964": "[PH] Armor!",
+    "8C92454C4E5EC9270D982F883C645C73": "[PH] Armor!",
+    "B40D0DF44A51658B026C89A6BD52307E": "[PH] Armor!",
+    "B6936F49436567C947C6ECA1142DC821": "[PH] Armor!",
+    "E6133BEB4DE647E7D2E533BBCF608733": "[PH] Armor!",
+    "114C815F480295A9C5963D98AB509BF0": "[PH] Reflect incoming damage!",
+    "6F68CA2B48F0773A737A338576500926": "[PH] Reflect incoming damage!",
+    "AA63055C4747688885933C913B315E2D": "[PH] Steal life on kill!",
+    "C47866DF4D1617BCB9170DA533B73B3D": "[PH] Steal life on kill!",
+    "71A315D041D4D11C9C91CCB789CC2249": "[PH] Survive Lethal Damage!"
+  },
+  "Juno_GameplayItemCraftingFormulas_Hijinks": {
+    "BaitBucket_T2_DisplayName": "Balde de Isca",
+    "BaitBucket_T3_DisplayName": "Balde de Isca",
+    "BaitBucket_T4_DisplayName": "Balde de Isca",
+    "CauldronWorkBench_DisplayName": "Caldeirão",
+    "IceCream_Snowberry_Potion_DisplayName": "Sorvete de Frutaneve",
+    "DeftCheese_DisplayName": "Queijo Habilidoso",
+    "SlapPotion_DisplayName": "Poção Acelerada",
+    "FoodProcessorT2_DisplayName": "Liquidificador",
+    "LargeHealthPotion_DisplayName": "Poção de Vida Enorme",
+    "KlomHomePotion_DisplayName": "Poção Klima Caseiro",
+    "SnowberryPotion_DisplayName": "Poção Hábil",
+    "SlurpPotion_DisplayName": "Poção Glup",
+    "SmallHealthPotion_DisplayName": "Poção de Vida Pequena",
+    "IceCream_Spicy_Potion_DisplayName": "Sorvete Apimentado",
+    "StormPotion_DisplayName": "Poção Fruta da Tempestade",
+    "TropicalPotion_DisplayName": "Poção Resistente"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "FF57B7FC4313F112B1386F8664A02965": "Uma estação de criação para preparar poções potentes para reforços e benefícios por um breve período."
+  },
+  "Juno_UpdateItemData": {
+    "EEB808C346F14B845EEE0CA4E7B297E4": "Uma cura para a saudade da sua terra.",
+    "2CD5F58F4007255FA614DBBCE9CA4BFE": "Beba para se curar bastante.",
+    "D6B5234C4486FD9C5F42A4905B425B3C": "Beba para se curar.",
+    "7B2C77B74AC8138554098BBCF7C8966B": "Beba para voltar para sua cama.",
+    "C6D7D9884CB3989794F920B66D5D5808": "Caldeirão de Poções",
+    "397D26184BD0A822B5F0138724CC12AC": "Hora de pôr a mão na massa!"
+  }
+}

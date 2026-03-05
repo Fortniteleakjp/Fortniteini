@@ -1,0 +1,33 @@
+{
+  "": {
+    "19ACA3784C9E44E8BE91899105DF6A04": "0",
+    "75E779BC48F72B0FB644BF830A11A1C1": "<Essence_Current>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "9BAE8D574CAD3975632AAB9854E8ABA3": "<Essence_Full>{CurrentBalance}</><Essence_Max>/{MaxEssenceBalance}</>",
+    "E885F4D4445059F3D3E224A08C420745": "能力設備",
+    "453CFCA043482357A9490992C2D88E98": "返回",
+    "A66FFD79437A7C4EE261A58B81F9F1DF": "關閉",
+    "AC1CC62543EB6DB85055919D0313B288": "製作配方",
+    "00B7D9BF432BC3CE81140CA02785CD37": "精粹",
+    "FEFB063C42905A6210A5C4A1614916D5": "英雄",
+    "71F083C3404AB8E3A747779A7EF01671": "英雄大師包含了<Research>英雄武器</>與<Research>能力設備</>物品的製作配方，以及<Research>被動效果</>。\n\n你可以使用收集到的精粹來學會如何製作一件物品，並完成指定條件以將其解鎖！已解鎖的配方可以在<Research>英雄站點</>進行製作，而英雄站點則需要先透過收集花崗岩來發現，之後再透過<Research>建造選單</>建造。\n\n解鎖<Research>被動效果</>後，該效果會自動套用到符合稀有度條件的特定武器上。",
+    "0B32CD5A4ED05EFBDBB0259E89474222": "學習",
+    "2DD93B44441F8685E6012DBFFA0D3C6F": "等級 {Curr}/{Max}",
+    "27FD1DCD43DFFEB7F45E40B1C2D89659": "已精通！",
+    "6B280313437D1F92980653BB23B1B8A3": "大師",
+    "8622C6FC44D18974363C8F9DF2210E6D": "有新大師技能！",
+    "9E62741E4D0B658A763EC8B9E897BB03": "有新大師技能！",
+    "955710F848FC692B0D6F6C85659B6228": "還有更多大師分支即將開放！",
+    "177907084ED421444E82248E1A639E08": "全新！",
+    "F2A2739A40218E238C686D84E34CB03B": "Odyssey",
+    "8452A3A346AD7425CC6AAFA6B0535F32": "被動效果",
+    "850AC88E4A827A0FFF643EBA4C1DDB50": "研究",
+    "7A2D475343B4E45A60D5CABB82E919AD": "此<Research>被動效果</>會套用至任意稀有度的已裝備<Research>{Theme}能力設備</>。",
+    "5A23004B4E60012AC25115820A8CDEDA": "此<Research>被動效果</>會套用至任意稀有度的已裝備<Research>{Theme}武器</>。",
+    "28988A8049879442C9F30EBDAD228E26": "解鎖條件：",
+    "73C4C01F44D1CD89BA3C2C9B834E3D0F": "解鎖製作<ItemName>{ItemName}的能力。</>",
+    "3F95333544CE1E9B8F7B5C86225E2168": "武器",
+    "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
+    "E94F82024EF41828E5066E94805EFC16": "有 {Num} 個",
+    "FB1530584BB53CC80CA5F7B059A572E0": "有 {Num} 個"
+  }
+}

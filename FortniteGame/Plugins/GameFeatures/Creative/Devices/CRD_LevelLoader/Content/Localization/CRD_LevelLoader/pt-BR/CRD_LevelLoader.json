@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Dispositivo Carregador de Nível",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Dispositivo Carregador de Nível",
+    "6290D58B473E479F05752B83814E9464": "O Dispositivo Carregador de Nível carrega níveis criados pelo Dispositivo de Instância de Nível, permitindo que você coloque os níveis na orientação que preferir e onde quiser, inclusive em cima de outros Carregadores de Nível.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "O Dispositivo Carregador de Nível carrega níveis criados pelo Dispositivo de Instância de Nível, permitindo que você coloque os níveis na orientação que preferir e onde quiser, inclusive em cima de outros Carregadores de Nível.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "O Dispositivo Carregador de Nível carrega níveis criados pelo Dispositivo de Instância de Nível, permitindo que você coloque os níveis na orientação que preferir e onde quiser, inclusive em cima de outros Carregadores de Nível."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Desabilitar",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Desabilita o dispositivo ao receber um sinal do canal selecionado.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Habilitar",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Habilitado ao Iniciar",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Habilita o dispositivo ao receber um sinal do canal selecionado.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Nome da Instância de Nível",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "O nome do nível que será carregado.",
+    "BoolMetaData.FalseDisplayName": "Desligado",
+    "BoolMetaData.TrueDisplayName": "Ligado",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Determina se o dispositivo é habilitado no começo do jogo."
+  }
+}

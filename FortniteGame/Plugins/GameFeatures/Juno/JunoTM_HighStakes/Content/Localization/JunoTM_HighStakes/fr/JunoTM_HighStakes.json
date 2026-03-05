@@ -1,0 +1,12 @@
+{
+  "": {
+    "2AE5912049F8E030DD426997414A7F38": "Trophée des vallées arides",
+    "0D7D54204AA280F576939C85BB93FB71": "Trophée des terres gelées",
+    "842747D74DC9DCD7560A57875CC14DCF": "Trophée des prairies"
+  },
+  "JunoTM_HighStakes_CraftingFormulas": {
+    "JBID_Trophy_Storm_Desert_A_DisplayName": "Trophée des vallées arides",
+    "JBID_Trophy_Storm_Snow_A_DisplayName": "Trophée des terres gelées",
+    "JBID_Trophy_Storm_Grassland_A_DisplayName": "Trophée des prairies"
+  }
+}

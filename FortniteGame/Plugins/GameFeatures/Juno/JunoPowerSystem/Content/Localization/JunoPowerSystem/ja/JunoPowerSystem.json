@@ -1,0 +1,29 @@
+{
+  "": {
+    "71A3F0BE4BC401EDE8B47B95349DEB84": "開く",
+    "720C69504E4939D88E00D99BFCF8A8D0": "開く",
+    "ED441C00473C8BBFA99707B9326177C1": "動力セル",
+    "0B2B80644FCC0FFF6CD779B0D1CF6F58": "車両制御ユニット",
+    "769BB15949AFF1D8966456BDE44FBFCD": "車両制御ユニット",
+    "7C8E79484A3A1067EC71B9BB7763EB0E": "車両制御ユニット",
+    "9A37E02F4EAFB15EB33D378B3616B601": "車両制御ユニット",
+    "01692D2545D048DD3FFFEE80A8AE31C8": "<EmphA>地面</>からの<EmphA>オーガニック</>な素材が必要だ。"
+  },
+  "Juno_UpdateItemData": {
+    "E34B1A154A9B1F3E569CA4B01FD1009E": "手のひらサイズのちょっとした動力。",
+    "5B6A24294D0D954A8185D480AF6D8096": "動力センター(大)",
+    "B691209A4F938FE92EA504BA5290C96B": "動力センター(中)",
+    "4DCFA2C2464B8884929713B612BDC204": "建築に設置して動力セルを投入し、つながっているおもちゃに動力を供給することができる。大量の動力が入る。",
+    "B44851ED463714FE7F10CFB591926A47": "建築に設置して動力セルを投入し、つながっているおもちゃに動力を供給することができる。中量の動力が入る。",
+    "D6C9ABB6498B1D8753B21A838B8CCF03": "建築に設置して動力セルを投入し、つながっているおもちゃに動力を供給することができる。少量の動力が入る。",
+    "2EC89F09471DC7BD1A0E199C8F7ED74E": "動力センターの中に設置して、装置に動力を供給することができる。",
+    "2DC55E444BCAF9CE3B3BFDA77991163B": "Power Bank",
+    "960679A546697BC052B8F8816BB01087": "動力センター(小)"
+  },
+  "PP_CraftingFormulas_PowerSystem": {
+    "PowerCenterLarge_DisplayName": "動力センター(大)",
+    "PowerCenterMedium_DisplayName": "動力センター(中)",
+    "PowerCell_DisplayName": "動力セル",
+    "PowerCenterSmall_DisplayName": "動力センター(小)"
+  }
+}

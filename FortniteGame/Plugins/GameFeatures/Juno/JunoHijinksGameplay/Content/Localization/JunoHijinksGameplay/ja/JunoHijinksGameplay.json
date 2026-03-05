@@ -1,0 +1,60 @@
+{
+  "": {
+    "7CF675F54AAAF7E59BE02DAB77408A05": "危機から救ってくれる。",
+    "C5A8140A4118053FC98DFDBB0D477551": "飲む",
+    "DB08DD254AF3AFB372428180B61CA019": "飲む",
+    "EAB819034C2F9C992BA858A086E9DE9F": "飲む",
+    "00BB690D4E89F43785A3D4A229B6DB61": "体力ポーション(大)",
+    "7C8602704D9895DDF91E619E313F2BF1": "クロムホームポーション",
+    "0F2572A7464747102625ADA1C20A47C8": "石材加工機を学ぶ",
+    "15DCC0C24F5C4F536F138088AC42AEB3": "石材加工機を学ぶ",
+    "6658571740A19DBD7B45048831519148": "石材加工機を学ぶ",
+    "D698C5014DE407DFBCD1D8AE7E59ACE5": "石材加工機を学ぶ",
+    "519F538E4BA1F07B9CC0568E94FE94B8": "体力ポーション(小)",
+    "DC0C133C44C2FCDE2C191A8B80DBE979": "包帯よりもいい味がする。",
+    "1A7EEC024336625F5D77D2BE8F3A1E12": "<EmphA>大釜</>が必要だ。",
+    "203816BD498C65F400EDCAAFA79DE3F4": "<EmphA>大釜</>が必要だ。",
+    "3FBDEF784A8467A63BC5389C3714371A": "<EmphA>大釜</>が必要だ。",
+    "098D7FC84C27CDA3213B928D7BC06685": "[PH] Armor!",
+    "5EBE269C4DF3ACDB4DDCCC83D9320525": "[PH] Armor!",
+    "73B283534BB330C6C0FA37BC88FB3964": "[PH] Armor!",
+    "8C92454C4E5EC9270D982F883C645C73": "[PH] Armor!",
+    "B40D0DF44A51658B026C89A6BD52307E": "[PH] Armor!",
+    "B6936F49436567C947C6ECA1142DC821": "[PH] Armor!",
+    "E6133BEB4DE647E7D2E533BBCF608733": "[PH] Armor!",
+    "114C815F480295A9C5963D98AB509BF0": "[PH] Reflect incoming damage!",
+    "6F68CA2B48F0773A737A338576500926": "[PH] Reflect incoming damage!",
+    "AA63055C4747688885933C913B315E2D": "[PH] Steal life on kill!",
+    "C47866DF4D1617BCB9170DA533B73B3D": "[PH] Steal life on kill!",
+    "71A315D041D4D11C9C91CCB789CC2249": "[PH] Survive Lethal Damage!"
+  },
+  "Juno_GameplayItemCraftingFormulas_Hijinks": {
+    "BaitBucket_T2_DisplayName": "エサ入りバケツ",
+    "BaitBucket_T3_DisplayName": "エサ入りバケツ",
+    "BaitBucket_T4_DisplayName": "エサ入りバケツ",
+    "CauldronWorkBench_DisplayName": "大釜",
+    "IceCream_Snowberry_Potion_DisplayName": "クールベリーアイスクリーム",
+    "DeftCheese_DisplayName": "巧みのチーズ",
+    "SlapPotion_DisplayName": "俊足のポーション",
+    "FoodProcessorT2_DisplayName": "ジューサー",
+    "LargeHealthPotion_DisplayName": "体力ポーション(大)",
+    "KlomHomePotion_DisplayName": "クロムホームポーション",
+    "SnowberryPotion_DisplayName": "熟練のポーション",
+    "SlurpPotion_DisplayName": "スラープポーション",
+    "SmallHealthPotion_DisplayName": "体力ポーション(小)",
+    "IceCream_Spicy_Potion_DisplayName": "スパイシーアイスクリーム",
+    "StormPotion_DisplayName": "ストームフルーツポーション",
+    "TropicalPotion_DisplayName": "頑丈のポーション"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "FF57B7FC4313F112B1386F8664A02965": "短時間の体力/能力アップや特典効果を得ることのできる、強力なポーションを醸造するためのクラフトステーション。"
+  },
+  "Juno_UpdateItemData": {
+    "EEB808C346F14B845EEE0CA4E7B297E4": "ホームシックの治療薬だ。",
+    "2CD5F58F4007255FA614DBBCE9CA4BFE": "飲むとたくさん回復する。",
+    "D6B5234C4486FD9C5F42A4905B425B3C": "飲むと回復する。",
+    "7B2C77B74AC8138554098BBCF7C8966B": "飲むとベッドに戻る。",
+    "C6D7D9884CB3989794F920B66D5D5808": "ポーションの大釜",
+    "397D26184BD0A822B5F0138724CC12AC": "さあ、クラフトだ！"
+  }
+}

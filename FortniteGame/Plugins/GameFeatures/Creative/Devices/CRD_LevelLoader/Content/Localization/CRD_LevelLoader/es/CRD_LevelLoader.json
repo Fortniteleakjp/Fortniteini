@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Dispositivo de carga de niveles",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Dispositivo de carga de niveles",
+    "6290D58B473E479F05752B83814E9464": "El dispositivo de instancia de nivel carga niveles creados en el dispositivo de instancia de nivel y te permite girarlos y colocarlos en cualquier lugar de tu isla, incluso encima de otros dispositivos de instancia de nivel.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "El dispositivo de instancia de nivel carga niveles creados en el dispositivo de instancia de nivel y te permite girarlos y colocarlos en cualquier lugar de tu isla, incluso encima de otros dispositivos de instancia de nivel.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "El dispositivo de instancia de nivel carga niveles creados en el dispositivo de instancia de nivel y te permite girarlos y colocarlos en cualquier lugar de tu isla, incluso encima de otros dispositivos de instancia de nivel."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Deshabilitar",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Habilitar",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Habilitar al inicio de la partida",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Nombre de instancia de nivel",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Nombre del nivel que se va a cargar.",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Establece si este dispositivo está habilitado cuando empiece la partida."
+  }
+}

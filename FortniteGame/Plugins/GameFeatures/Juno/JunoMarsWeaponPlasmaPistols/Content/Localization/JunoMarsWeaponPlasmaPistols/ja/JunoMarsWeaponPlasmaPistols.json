@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "アクセサリー",
+    "1DC695F543617CDD983D6CA98D244D3F": "バレル",
+    "644AFB924BC996E1358E8DAC5E388D65": "エネルギー",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "フォーカス",
+    "43384B4746A525AAE21308A2255D4AB7": "グリップ"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "琥珀のプラズマピストル",
+    "Plasma_Pistols_T5_Amber_DisplayName": "琥珀のプラズマピストル",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "ブラストプラズマピストル",
+    "Plasma_Pistols_T1_Bone_DisplayName": "骨のプラズマピストル",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "ブライトプラズマピストル",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "爪のプラズマピストル",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "爪のプラズマピストル",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "爪のプラズマピストル",
+    "Plasma_Pistols_T3_Copper_DisplayName": "銅のプラズマピストル",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "呪われたプラズマピストル",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "エメラルドのプラズマピストル",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "エメラルドのプラズマピストル",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "フレックスウッドのプラズマピストル",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "フロストパインのプラズマピストル",
+    "Plasma_Pistols_T1_Glass_DisplayName": "ガラスのプラズマピストル",
+    "Plasma_Pistols_T3_Gold_DisplayName": "金のプラズマピストル",
+    "Plasma_Pistols_T2_Granite_DisplayName": "花こう岩のプラズマピストル",
+    "Plasma_Pistols_T3_Iron_DisplayName": "鉄のプラズマピストル",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "ノットルートのプラズマピストル",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "マホガニーのプラズマピストル",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "マラカイトのプラズマピストル",
+    "Plasma_Pistols_T2_Marble_DisplayName": "大理石のプラズマピストル",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "黒曜石のプラズマピストル",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "レッドロックのプラズマピストル",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "ルビーのプラズマピストル",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "ルビーのプラズマピストル",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "砂岩のプラズマピストル",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "サファイアのプラズマピストル",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "サファイアのプラズマピストル",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "砕角のプラズマピストル",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "砕角のプラズマピストル",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "ストームのプラズマピストル",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "ストームガードのプラズマピストル",
+    "Plasma_Pistols_T1_Wood_DisplayName": "木のプラズマピストル"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "プラズマピストル"
+  }
+}

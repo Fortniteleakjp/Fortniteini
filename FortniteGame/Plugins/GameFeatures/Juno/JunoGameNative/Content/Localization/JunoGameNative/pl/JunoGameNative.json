@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "odstęp między: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: wygeneruj na zewnątrz – {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Umieść: {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0}<Yellow> ulega likwidacji</>",
+    "OnPlayerSavedByTotemGameEvent": "{0}<Yellow> przeżywa dzięki totemowi</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Podaruj: {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Daj mi wszystko!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Dołącz do obozu: {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Za mało na wymianę. Potrzeba: {WantItem} ({WantItemCount} szt.), aby wymienić na: {SellItem} ({SellItemCount} szt.). \n Pozostało zestawów: {BundleCount}.",
+    "TradeXForX": "Wymień: {WantItem} ({WantItemCount} szt.) na: {SellItem} ({SellItemCount} szt.). \n Pozostało zestawów: {BundleCount}."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Gotowe!",
+    "GetX": "Weź: {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow> odwiedza świat</>",
+    "GameMemberDisconnected": "{0}<Yellow> opuszcza świat</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "dodaj ładunek",
+    "ChargeCostUnits": "szarża",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Kontynuuj",
+    "JunoSpeech_NoAIRole": "Bez pracy",
+    "JunoSpeech_NoBoundCampName": "Bezimienna Wioska",
+    "JunoSpeech_NoLastUsedGatheringActor": "Brak stanowiska"
+  },
+  "JunoStorageChest": {
+    "Open": "Otwórz",
+    "Search": "Szukaj"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName}: Wioska {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Odłączono cię od hosta z powodu zbyt długiej bezczynności.",
+    "SpawnedWhenPermanentlyDead": "Temu klientowi zabrakło żyć."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Przejdź do trybu budowania według schematu"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "To ostatni świat znajomego, w którym możesz umieścić w tym tygodniu posiadaną zawartość.",
+    "MCPItemPlacedMessageTitleText": "Uwaga! Posiadana zawartość",
+    "MCPItemPlacedMessageDescription_NLeft": "Możesz umieszczać posiadaną zawartość w jeszcze {0} światach znajomych w tym tygodniu."
+  }
+}

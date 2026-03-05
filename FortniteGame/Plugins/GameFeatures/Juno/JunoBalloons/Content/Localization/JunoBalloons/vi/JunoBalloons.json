@@ -1,0 +1,24 @@
+{
+  "": {
+    "589BC8C545D9D766C0F02DAA67AF848E": "Buộc nhiều bóng bay to hơn và bay vút lên trời cao!",
+    "46C7F27B4A5570C7071636BB7EF37E8D": "Sẵn sàng để thổi THỰC SỰ.",
+    "2FB1FBF64A8E9BE1A2F1C7BA5B611584": "Sẵn sàng để thổi.",
+    "644DE9964A9EB1D0E32D6CB2C74B7685": "Dù dòng đời xô đẩy bạn đến đâu. Trong trường hợp này, đó là một quả bóng bay. "
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F022CD50420DB9CA0BC872AA6D67BBB5": "Một chiếc bóng bay lớn đi kèm với tính năng kết nối kênh và chưa được triển khai. Có thể được triển khai qua điều khiển kênh để phồng lên và bay.",
+    "812DFE244981B3CEE5E8E0ABBA8D2940": "Một chiếc bóng bay nhỏ đi kèm với tính năng kết nối kênh và chưa được triển khai. Có thể được triển khai qua điều khiển kênh để phồng lên và bay.",
+    "2AA87E9E40F4F4D87E02BBB60A2F4230": "Bóng Bay Được Kích Hoạt Lớn",
+    "7988ADD74C897E641532648A25A6DF3C": "Bóng Bay Được Kích Hoạt Nhỏ",
+    "B57EF9BD4D82A829083838A7E5BE2085": "Gắn những bóng bay lớn vào các kiến trúc và cấu trúc động hiện có.",
+    "B3815C7846E7DD14D5367CAC8F99EB48": "Gắn những bóng bay nhỏ vào các kiến trúc và cấu trúc động hiện có.",
+    "000401864743389FEA88AFA4F5CC7938": "Bóng Bay Lớn",
+    "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Bóng Bay Nhỏ"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "ActivatedBalloon_DisplayName": "Bóng Bay Được Kích Hoạt",
+    "ActivatedBalloonLarge_DisplayName": "Bóng Bay Được Kích Hoạt - Lớn",
+    "BalloonLarge_DisplayName": "Bóng Bay Lớn",
+    "Balloon_DisplayName": "Bóng Bay Nhỏ"
+  }
+}

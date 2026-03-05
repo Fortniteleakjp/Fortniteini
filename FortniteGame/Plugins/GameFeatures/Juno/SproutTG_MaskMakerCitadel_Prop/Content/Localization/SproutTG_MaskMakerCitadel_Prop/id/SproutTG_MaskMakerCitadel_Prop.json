@@ -1,0 +1,48 @@
+{
+  "": {
+    "31FAE6BD73F7D30C53E0C058C7CA42CF": "Kursi Sandar Wilayah Daigo",
+    "31FAE6BD73F7D30C53E0C058CEAF2645": "Kursi Sandar Wilayah Daigo",
+    "725D91602604049153E0C058C7CA42CF": "Ranjang Wilayah Daigo",
+    "725D91602604049153E0C058CEAF2645": "Ranjang Wilayah Daigo",
+    "C2EAAFD6C82FC31853E0C058C7CA42CF": "Bangku Panjang Wilayah Daigo",
+    "C2EAAFD6C82FC31853E0C058CEAF2645": "Bangku Panjang Wilayah Daigo",
+    "7DA1D85A596CBE4353E0C058C7CA42CF": "Kabinet Wilayah Daigo",
+    "7DA1D85A596CBE4353E0C058CEAF2645": "Kabinet Wilayah Daigo",
+    "35D8B7A52D98408453E0C058C7CA42CF": "Lentera Langit-Langit Wilayah Daigo",
+    "35D8B7A52D98408453E0C058CEAF2645": "Lentera Langit-Langit Wilayah Daigo",
+    "113ED41A7D5B16D053E0C058C7CA42CF": "Pemanggang Arang Wilayah Daigo",
+    "113ED41A7D5B16D053E0C058CEAF2645": "Pemanggang Arang Wilayah Daigo",
+    "4EB40FD8AF54A5BA53E0C058C7CA42CF": "Banner Dekoratif Wilayah Daigo",
+    "4EB40FD8AF54A5BA53E0C058CEAF2645": "Banner Dekoratif Wilayah Daigo",
+    "EABDE35A4EEE0CC753E0C058C7CA42CF": "Topeng Dekoratif Wilayah Daigo",
+    "EABDE35A4EEE0CC753E0C058CEAF2645": "Topeng Dekoratif Wilayah Daigo",
+    "3DF46819471DBC5653E0C058C7CA42CF": "Gong Wilayah Daigo",
+    "3DF46819471DBC5653E0C058CEAF2645": "Gong Wilayah Daigo",
+    "4CBA8D5B52EA14B753E0C058C7CA42CF": "Lentera Gantung Wilayah Daigo",
+    "4CBA8D5B52EA14B753E0C058CEAF2645": "Lentera Gantung Wilayah Daigo",
+    "A593B69E9C2924F053E0C058C7CA42CF": "Lemari Pajangan Wilayah Daigo",
+    "A593B69E9C2924F053E0C058CEAF2645": "Lemari Pajangan Wilayah Daigo",
+    "D12ECD89C04F886853E0C058C7CA42CF": "Banner Indoor Wilayah Daigo",
+    "D12ECD89C04F886853E0C058CEAF2645": "Banner Indoor Wilayah Daigo",
+    "2CBA7A26336B14A053E0C058C7CA42CF": "Bangku Panjang Hiasan Wilayah Daigo",
+    "2CBA7A26336B14A053E0C058CEAF2645": "Bangku Panjang Hiasan Wilayah Daigo",
+    "3546D1FA55E907EB53E0C058C7CA42CF": "Gerbang Hiasan Wilayah Daigo",
+    "3546D1FA55E907EB53E0C058CEAF2645": "Gerbang Hiasan Wilayah Daigo",
+    "AE7B30427C9D186453E0C058C7CA42CF": "Lentera Hiasan Wilayah Daigo",
+    "AE7B30427C9D186453E0C058CEAF2645": "Lentera Hiasan Wilayah Daigo",
+    "E2D6175399D0918B53E0C058C7CA42CF": "Lentera Outdoor Wilayah Daigo",
+    "E2D6175399D0918B53E0C058CEAF2645": "Lentera Outdoor Wilayah Daigo",
+    "B3E17695DD6308F253E0C058C7CA42CF": "Bufet Samping Wilayah Daigo",
+    "B3E17695DD6308F253E0C058CEAF2645": "Bufet Samping Wilayah Daigo",
+    "F7E45FABA0BEB93953E0C058C7CA42CF": "Kabinet Penyimpanan Wilayah Daigo",
+    "F7E45FABA0BEB93953E0C058CEAF2645": "Kabinet Penyimpanan Wilayah Daigo",
+    "E65E56C2BE958FAE53E0C058C7CA42CF": "Meja Wilayah Daigo",
+    "E65E56C2BE958FAE53E0C058CEAF2645": "Meja Wilayah Daigo"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Tekan E untuk Edit"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Sesuaikan"
+  }
+}

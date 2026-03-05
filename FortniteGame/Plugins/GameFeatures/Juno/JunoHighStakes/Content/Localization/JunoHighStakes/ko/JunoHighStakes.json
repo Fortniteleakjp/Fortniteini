@@ -1,0 +1,23 @@
+{
+  "": {
+    "4F9B238B405E2F8DB4E00CBD24418A9D": "알림",
+    "EA20864A4CC7604609AAB6BE94D71BD7": "<EmphA>폭풍에 거칠어진 크리처</>가 떨어뜨립니다.",
+    "15C3C4FC4486278D18886D94BA62D363": "<EmphB>모든 지형</>에서 찾을 수 있습니다.",
+    "B3F2234644A3F2EB8DBC0CBA81A5AF4E": "유휴 상태",
+    "514B06AC4EF43E88501EE0AAE5B40DFC": "IsHardcoreEnabled = {Value}",
+    "CD25CDF54267B44C82E336B3387A1440": "알 수 없음",
+    "84D394F944E3361755EAF3BC4C3CC060": "제작 자원"
+  },
+  "Juno_CraftingFormulas_HighStakes": {
+    "TrinketReturn_T1_DisplayName": "귀환의 토템",
+    "TrinketReturn_T2_DisplayName": "귀환의 토템",
+    "TrinketReturn_T3_DisplayName": "귀환의 토템"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "C626059B453C75E962EEE4A63C82E405": "폭풍 코어"
+  },
+  "Juno_UpdateItemData": {
+    "DFF4BB8747FBBF5D49B722AA9F2D9CDE": "폭풍에 거칠어진 적이 떨어뜨린 제작 재료입니다.",
+    "37FA60CD4578FC28B94E8199A6C25EB5": "섬뜩하지만 아름답습니다"
+  }
+}

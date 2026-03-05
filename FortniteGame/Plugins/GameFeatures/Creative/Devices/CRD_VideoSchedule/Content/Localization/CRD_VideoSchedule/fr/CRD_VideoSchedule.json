@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Lisez des vidéos programmées.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Programmez la lecture de vidéos dans l'UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Programme de vidéos",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "Programme de vidéos"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Aligner en remplissant le calendrier",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Contrôle du lecteur vidéo",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Quotidien",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Ne pas répéter",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Remplir le calendrier",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Intervalles en remplissant le calendrier",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Toutes les heures",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Lien vers le lecteur vidéo qui devrait être contrôlé par ce programme.",
+    "BoolMetaData.FalseDisplayName": "Non",
+    "BoolMetaData.TrueDisplayName": "Oui",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Répétition du programme",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Programme (test)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Lancer",
+    "Device_VideoSchedule_Native_C.Start.Description": "Lance la lecture du programme de vidéos.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Arrêter",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Arrête la lecture du programme de vidéos.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Test de contrôle de réception",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Fonction de test de réception d'événement du lecteur vidéo.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Définit si le programme doit être répété."
+  }
+}

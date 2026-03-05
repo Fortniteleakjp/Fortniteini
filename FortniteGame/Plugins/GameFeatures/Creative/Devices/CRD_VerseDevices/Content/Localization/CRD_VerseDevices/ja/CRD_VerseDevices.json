@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "無効",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "無効",
+    "7F622AD141A596DB6DA4A69D874C2761": "有効",
+    "F635B92B4F6D69AC48F18D8428078A2F": "有効",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "プレイヤーにカスタムVerseスクリプトを実行させる",
+    "0156B90F4D5E75298F886FA5AFC000E7": "指定のVerseスクリプトを読み込み、実行する。",
+    "12BB4013449DF18D296F85AA4CB849E1": "スクリプトの仕掛け",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "スクリプトの仕掛け",
+    "4033820A43CE091C31CEF486B399093F": "スクリプトの仕掛け"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "ゲーム中にスクリプトの仕掛けが表示されるかどうかを決定する。",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "ゲーム開始時に有効化",
+    "VerseDevice_C.VisibleInGame.DisplayName": "ゲーム中に表示",
+    "VerseDevice_C.Enabled at Game Start.Description": "付属のスクリプトがゲーム中に実行されるかどうかの設定。"
+  }
+}

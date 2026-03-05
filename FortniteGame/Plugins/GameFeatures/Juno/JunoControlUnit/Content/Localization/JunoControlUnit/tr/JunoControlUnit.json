@@ -1,0 +1,57 @@
+{
+  "": {
+    "98626D2C4B567D257BB0F9B1A5C3D7A6": "Şu Anda Gerçekleştirilemiyor",
+    "1BB406B64426B670EC23788C7BD02275": "1. Kanal",
+    "46AB4B11404926906F96D880A1724DB5": "2. Kanal",
+    "195E29F74D7B4DA44C3F9CB3895332DA": "3. Kanal",
+    "BF3F19AF4F39DC6A0C5F1192E91531CB": "4. Kanal",
+    "4DDDC6034E9B797EFEB161AD5749A8AD": "Aracı Ters Çevir",
+    "0B956AC74715D6456D5C02B1803AB062": "İleri",
+    "59086AA54612D974BE9E3BB33086DE2A": "LEGO® FORTNITE (Sürücü Koltuğu)",
+    "90C797C6400B1294EC5CFEA24638A7FD": "Geri",
+    "047B56814FE243B3B28023A16A3BB1AE": "Otur",
+    "2B141CDD4064D06189CBB3A00634A241": "Otur",
+    "898A0F4649647E0ACC9E42A44E7DE045": "Otur",
+    "B1F4A52C4896A8B9EA77D388BE515294": "Otur",
+    "B3BFC46945FAAA02DF3C3F9FC9B14DB1": "Otur",
+    "F382B5F6415D1A089FECD497F897789C": "Sola Dönüş",
+    "8E2A6EE0493C0FA56A234986B87D2703": "Sağa Dönüş",
+    "7FCF3F11433DBE65231B9F8E358CC2FD": "Sola Döndür",
+    "97CBE0374C9EE59143140DA0E7CBBE15": "Sağa Döndür",
+    "FE8AC0BF4DE52A7488D3D79D03AD42D2": "En fazla <EmphA>dört ayrı kanaldan</> güç çekmek için anahtarları kullanarak iticileri, tekerlekleri ve başka oyuncakları ayrı olarak etkinleştirebilirsin.",
+    "9CE3966D4DC5991040547E98AECE8078": "Araç Kontrol Ünitesi",
+    "AF5BDB7D4D5F99444504F090BE04BD28": "Araç Kontrol Ünitesi",
+    "B3A685654359E63155446599B709643B": "Araç Kontrol Ünitesi",
+    "C4CE2DAA4C135B8204EBE2893C5BA75A": "Araç Kontrol Ünitesi",
+    "E030E6764B0D0BD98948AD8C33880444": "Araç Kontrol Ünitesi",
+    "493B2E3F414C4F4BFD43D3AE27C8494D": "Bir <EmphA>Kereste Kesici</>'ye ve <EmphA>Çıkrık</>'a ihtiyacın olacak."
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "404B070F44C946E47B10B19B17A28302": "Bir şeyleri PATLATMAK istediğinde bunu kullan!",
+    "A4AAD2164371BEBB5E65319BCD3618F4": "Bir şeyleri PATLATMAK istediğinde bunu kullan!",
+    "E25497C64BD0A565C79640A9438BC9F5": "Bir şeyleri PATLATMAK istediğinde bunu kullan!"
+  },
+  "Juno_UpdateItemData": {
+    "70A04275472D5AB4193BA7A11846F74B": "Oyuncakları düzenlemek için kullanılan bir alet.",
+    "20F85E784A59F8D364C2348203CD46F4": "Oyuncuların döndürülebilen, güçle çalışan ve etkinleştirilebilen oyuncakları kontrol etmelerini sağlar.",
+    "50B29F1C46F072E2F78A60A9449F0A12": "Oyuncuların döndürülebilen, güçle çalışan ve etkinleştirilebilen oyuncakları kontrol etmelerini sağlar.",
+    "AA037ED04B134D9A6BB2B68917A2B38A": "Oyuncuların döndürülebilen, güçle çalışan ve etkinleştirilebilen oyuncakları kontrol etmelerini sağlar.",
+    "B0FEC2694D9F13A9EA3D3DAF63D0D832": "Kontrol Ünitesi",
+    "A1CB8FE14D1D0E98234E5DA7062C19D1": "Kontrol Ünitesi - Büyük Çaplı",
+    "FF47B49E46B42F7D389BE993F1832B71": "Kontrol Ünitesi - Küçük B",
+    "BC893032414DA18543B2F8AC5BEA1AD7": "Büyük Sürücü Koltuğu",
+    "B0F686E0461C557522339D9F9933B079": "Orta Sürücü Koltuğu",
+    "D14504FC462A4C1D1D0BD2A4D506D40A": "Küçük Sürücü Koltuğu",
+    "D32BEC724B168752E4D1DBBC414A6521": "Montaj gerektirir.",
+    "338EFFD7442DCDE778187E951BA7EE03": "Hiçbir şey işe yaramadığında bir şeyleri patlatmayı dene!",
+    "5DDC8C1646DFAA9F454393B010EE222A": "Hiçbir şey işe yaramadığında bir şeyleri patlatmayı dene!",
+    "B783059F4FC8DE01229ADCA0CB5B738F": "Hiçbir şey işe yaramadığında bir şeyleri patlatmayı dene!",
+    "303B45A14571A1B8C78221A9633EEAEA": "İngiliz Anahtarı"
+  },
+  "PP_CraftingFormulas_ControlUnit": {
+    "BF5CFB7E41D0F2AD0B5ED68258E8B95B": "Büyük Sürücü Koltuğu",
+    "845B2EEE4D230DF282E1378A0B68E8C7": "Orta Sürücü Koltuğu",
+    "DBE81B704E0A35E1DBFCEFB21F65378B": "Küçük Sürücü Koltuğu",
+    "8CBDA2034D006E79A0815FBA8D3792D7": "İngiliz Anahtarı"
+  }
+}

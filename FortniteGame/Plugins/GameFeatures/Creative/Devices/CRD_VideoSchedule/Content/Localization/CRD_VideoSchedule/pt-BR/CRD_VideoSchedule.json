@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Reproduz o vídeo com base em uma programação.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Cronograma da reprodução de vídeo no UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Cronograma de Vídeo",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "Cronograma de Vídeo"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Alinhar ao Preencher Cronograma",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Controlar Reprodutor de Vídeo",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Diariamente",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Não repetir",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Preencher Cronograma",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Lacuna ao Preencher Cronograma",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "A Cada Hora",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Vinculação do dispositivo reprodutor de vídeo que será controlado neste cronograma.",
+    "BoolMetaData.FalseDisplayName": "Desligado",
+    "BoolMetaData.TrueDisplayName": "Ligado",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Repetir Cronograma",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Cronograma (Teste)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Começar",
+    "Device_VideoSchedule_Native_C.Start.Description": "Inicia o cronograma de reprodução do vídeo.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Parar",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Pausa o cronograma de reprodução de vídeo.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Testa Controle Recebido",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Função de teste para receber o evento de controle do reprodutor de vídeo.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Determina se o cronograma será repetido."
+  }
+}

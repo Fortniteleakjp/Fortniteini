@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "Una espada legendaria perfecta para combates cuerpo a cuerpo contra enemigos.",
+    "A5C5C211434AA2839F6672858D879834": "Defiende la victoria a capa y espada.",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "Espada",
+    "691AD6104B64E9B53B152A932C3A7948": "Necesitarás un <EmphA>aserradero</>.",
+    "AF59C13740BF3D246EFE6894041683CA": "Necesitarás un <EmphA>aserradero</>.",
+    "D46F690B44A43726C9409EBBF35FBD5A": "Necesitarás un <EmphA>aserradero</>.",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "Necesitarás un <EmphA>aserradero</>."
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "Espada de bambú",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "Espada de ópalo dragontino",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "Espada de ópalo dragontino",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "Espada de kozupiedra",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "Espada de kozupiedra",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "Espada de kozupiedra",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "Espada de kozupiedra",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "Espada de acero",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "Espada de acero",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "Espada de acero"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "Una espada rara, perfecta para combates cuerpo a cuerpo contra enemigos.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "Contra la espada y la pared.",
+    "CAD24296497618FE393B79B375B3D198": "Una espada épica, perfecta para combates cuerpo a cuerpo contra enemigos.",
+    "7F0D841F4798D9DA06E8CB9880022753": "Una espada poco común, perfecta para combates cuerpo a cuerpo contra enemigos.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "Como un cuchillo, pero... mejor.",
+    "30D0CC564A676E401A2AF193711F5A03": "Mide la espada con tu rival.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "Espada",
+    "C9A902E24804F529DDB98399903E1F9F": "Espada",
+    "F07655364C7958D6AB473B8B9ABA433A": "Espada"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "Pozwala graczom zmieniać stroje w trakcie gry!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "Pozwala graczom zmieniać stroje w trakcie gry!",
+    "6858477D482601B747C2A5B828C69E76": "Pozwala graczom zmieniać stroje w trakcie gry!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Zmień\r\nstrój",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Przebieralnia",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Przebieralnia",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Dostosuj",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Usuwa wszystkich graczy z przebieralni po otrzymaniu sygnału na określonym kanale.",
+    "1F0C513442C1083AE99BE581F865957A": "Usuwa gracza-inicjatora z przebieralni po otrzymaniu sygnału na określonym kanale."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Wyłącz",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Wyłącza urządzenie, usuwa wszystkich graczy z przebieralni i uniemożliwia jej używanie.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Włącz",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Włączono od początku gry",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Włącza urządzenie, co umożliwia graczom używanie przebieralni.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Gdy WYŁ., ukrywa ikonę w interfejsie.",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "Przy wejściu gracza",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Przy wyjściu gracza",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Usuń wszystkich graczy",
+    "C8A4072D491C9059C5CFF1854936E573": "Usuń inicjatora",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Pokaż znacznik interfejsu",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Sygnalizowane, gdy gracz wejdzie do urządzenia przebieralni",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Sygnalizowane, gdy gracz wejdzie do urządzenia przebieralni",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Określa, czy urządzenie ma być włączane od razu po rozpoczęciu gry."
+  }
+}

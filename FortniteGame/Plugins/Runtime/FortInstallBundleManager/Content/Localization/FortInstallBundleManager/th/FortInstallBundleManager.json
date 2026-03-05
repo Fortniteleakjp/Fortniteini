@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "เหลืออีกนิด! เปิดแอปเพื่อให้เสร็จสิ้นขั้นตอน",
+    "DownloadCompleteNotification.Title": "ติดตั้งให้เสร็จสิ้นแล้วมาลุยกันเลย",
+    "DownloadCompleteNotification.ActionText": "ติดตั้ง",
+    "InstallBundleSourceValkyrieDownloadedFmt": "ดาวน์โหลดการติดตั้งแพ็กเกจจากแหล่งเกมที่กำหนดเองแล้ว {0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "ติดตั้งการติดตั้งแพ็กเกจจากแหล่งเกมที่กำหนดเองแล้ว {0}",
+    "Simulate_BuildVerify_Error": "การติดตั้งเกิดข้อผิดพลาด โปรดติดต่อฝ่ายบริการ"
+  }
+}

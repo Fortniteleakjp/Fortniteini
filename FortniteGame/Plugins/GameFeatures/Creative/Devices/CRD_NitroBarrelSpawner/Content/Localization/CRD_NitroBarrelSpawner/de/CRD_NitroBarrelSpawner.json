@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Ein Objekt, das auf Charaktere in der Nähe einen Nitro-Effekt anwendet, wenn es zerstört wird.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Ein Objekt, das auf Charaktere in der Nähe einen Nitro-Effekt anwendet, wenn es zerstört wird.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Ein Objekt, das auf Charaktere in der Nähe einen Nitro-Effekt anwendet, wenn es zerstört wird.",
+    "30E5234B40854AF182F76E99E0005299": "NITRO-KANISTER ANPASSEN",
+    "3A16E0DE435CF07612216D94958139C0": "Ausschalten bei Empfang von",
+    "A17C5EC645C874D630065CA36AD5AB43": "Schaltet das Gerät aus, wenn auf dem festgelegten Kanal empfangen wird.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Einschalten bei Empfang von",
+    "6480B4A0446374163AA14886F9A0633A": "Schaltet das Gerät ein, wenn auf dem festgelegten Kanal empfangen wird.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Sofort",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Nitro-Kanister",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Nitro-Kanister",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "Bei explodierendem Fass",
+    "6DE8D3364821C2389FC94292884E08A9": "Bei Wegschleudern",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Wird ausgelöst, wenn das Fass explodiert.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Wird ausgelöst, wenn das Fass weggeschleudert wird.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=Sekunde, other=Sekunden)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Kanister-Respawn zulassen",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Lässt zu, dass der Kanister nach seiner Explosion und anschließender Respawnverzögerung respawnt.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Bestimmt, wie lange es dauert, bis der Kanister respawnt.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Bestimmt, ob das Gerät den Kanister respawnt, nachdem er im Spiel explodiert ist.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Bestimmt, welcher Multiplikator auf die Kraft angewendet wird, mit der der Kanister geschleudert wird.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Bestimmt, ob der Kanister bei Spielstart eingeschaltet und sichtbar ist.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Gerät ausschalten",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Schaltet den Kanister aus und macht ihn unsichtbar.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "Kanister-Respawn untersagen",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Gerät einschalten",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Schaltet den Kanister ein und macht ihn sichtbar.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Schleuderkraft-Multiplikator",
+    "BoolMetaData.FalseDisplayName": "Aus",
+    "BoolMetaData.TrueDisplayName": "Ein",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "Bei explodierendem Kanister",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "Bei Wegschleudern",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Verhindert, dass der Kanister respawnt. Der Respawnverzögerung-Countdown wird nicht gestartet. Falls der Countdown bereits begonnen hat, wird an seinem Ende kein Kanister gerespawnt.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Respawnverzögerung",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Kann respawnen",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Zu Beginn eingeschaltet",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Wird ausgelöst, wenn der Kanister explodiert.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Wird ausgelöst, wenn der Kanister weggeschleudert wird."
+  }
+}

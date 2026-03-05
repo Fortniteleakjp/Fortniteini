@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Un accessoire du décor qui applique l'effet de la nitro à ceux qui se trouvent à proximité quand il est détruit.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Un accessoire du décor qui applique l'effet de la nitro à ceux qui se trouvent à proximité quand il est détruit.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Un accessoire du décor qui applique l'effet de la nitro à ceux qui se trouvent à proximité quand il est détruit.",
+    "30E5234B40854AF182F76E99E0005299": "PERSONNALISER LE BARIL DE NITRO",
+    "3A16E0DE435CF07612216D94958139C0": "Désactiver si reçu depuis",
+    "A17C5EC645C874D630065CA36AD5AB43": "Désactive l'appareil à la réception d'un signal sur le canal sélectionné.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Activer si reçu depuis",
+    "6480B4A0446374163AA14886F9A0633A": "Active l'appareil à la réception d'un signal sur le canal sélectionné.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Instantanée",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Baril de nitro",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Baril de nitro",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "À l'explosion du baril",
+    "6DE8D3364821C2389FC94292884E08A9": "À la projection du baril",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Se déclenche quand le baril explose.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Se déclenche quand le baril est projeté.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=seconde, other=secondes)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Permettre la réapparition du baril",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Permet la réapparition du baril après son explosion, à l'issue d'une durée définie par Délai avant réapparition.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Définit le délai de réapparition du baril.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Définit si l'appareil permet la réapparition du baril après que le baril a explosé pendant le jeu.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Définit le multiplicateur de force appliqué en lançant le baril.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Définit si le baril est activé et visible quand le jeu commence.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Désactiver l'appareil",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Désactive et masque le baril.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "Empêcher la réapparition du baril",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Activer l'appareil",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Active et affiche le baril.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Multiplicateur de force de lancement",
+    "BoolMetaData.FalseDisplayName": "Non",
+    "BoolMetaData.TrueDisplayName": "Oui",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "À l'explosion du baril",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "À la projection du baril",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Empêche le baril de réapparaître. Le compte à rebours défini par Délai avant réapparition ne se lancera pas. Si le compte à rebours a déjà commencé, le baril ne réapparaîtra pas quand il se terminera.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Délai avant réapparition",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Forcer la réapparition",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Activé dès le début",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Se déclenche quand le baril a explosé.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Se déclenche quand le baril est projeté."
+  }
+}

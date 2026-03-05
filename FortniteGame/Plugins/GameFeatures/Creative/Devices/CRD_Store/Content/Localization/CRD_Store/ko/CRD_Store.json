@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "아이템 상점 포털",
+    "A636CB9048F6D10A27FAE2ACA3336261": "아이템 상점 포털",
+    "ECA01A1C4D96960EA267CEA75C458F15": "아이템 상점 포털",
+    "F0DA7B7A455C002838011E9950021E4F": "아이템 상점 포털",
+    "F6BA046441D88E68E7317EB0D779DDEE": "아이템 상점 포털",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "상점 열기",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "상점 열기",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "수신 시 상점 열기",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "상점 열기: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "상점 열기: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "선택한 채널로 신호를 수신하면 트리거한 플레이어에게 상점을 엽니다.",
+    "18E3F3AD48251A9142A05A8349684E89": "장치를 활성화하면 아이템 상점을 엽니다.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "장치를 활성화하면 아이템 상점을 엽니다.",
+    "79656CFD409EE4E11B68988ACDCA8585": "장치를 활성화하면 아이템 상점을 엽니다.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "장치를 활성화하면 아이템 상점을 엽니다.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "장치를 활성화하면 아이템 상점을 엽니다."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "항상",
+    "EEnabledOnPhase.Create Only.DisplayName": "제작만",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "장치가 사용 상태로 설정되는 게임 단계를 결정합니다. '게임 시작 전'에는 게임이 시작되기 전까지의 모든 단계가 포함됩니다. (추천 섬의 대기실에서 플레이어를 기다리는 시간, 게임 시작 카운트다운)",
+    "Device_ItemShop_V2_C.InteractTime.Description": "장치를 활성화하는 데 필요한 상호작용의 길이를 설정합니다.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "비활성화",
+    "Device_Store_C.Disable.DisplayName": "비활성화",
+    "Device_Store_C.Disable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "Device_ItemShop_V2_C.Disable.Description": "장치를 사용 안 함 상태로 설정합니다.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "활성화",
+    "Device_Store_C.Enable.DisplayName": "활성화",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "사용 단계",
+    "Device_Store_C.Enable.Description": "선택한 채널로 신호를 수신하면 장치를 사용 상태로 설정합니다.",
+    "Device_ItemShop_V2_C.Enable.Description": "장치를 사용 상태로 설정합니다.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "게임플레이만",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "상호작용 시간",
+    "EEnabledOnPhase.None.DisplayName": "없음",
+    "Device_Store_C.OpenStore.DisplayName": "상점 열기",
+    "Device_Store_C.OpenStore.Description": "선택한 채널로 신호를 수신하면 트리거한 플레이어에게 상점을 엽니다.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "게임 시작 전"
+  }
+}

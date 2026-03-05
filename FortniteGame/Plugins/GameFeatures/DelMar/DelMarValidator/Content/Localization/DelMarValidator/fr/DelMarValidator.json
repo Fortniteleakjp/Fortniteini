@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Une piste à plus d'un tour ne formant pas une boucle doit avoir la téléportation activée sur le point de la ligne d'arrivée RR, et sa prochaine matrice de points de contrôle doit uniquement référencer votre point de ligne de départ RR. {0}",
+    "MultipleFinishLines": "Plusieurs points de contrôle RR sont définis comme « Ligne d'arrivée ». Vous devez disposer d'exactement un point de ligne d'arrivée RR dans une piste RR. {0}",
+    "MultipleStartLines": "Plusieurs points de contrôle RR sont définis comme « Ligne de départ ». Vous devez disposer d'exactement un point de ligne de départ RR dans une piste RR. {0}",
+    "NoFinishLine": "Aucun point de contrôle RR n'est défini comme « Ligne d'arrivée ». Vous devez disposer d'exactement un point de ligne d'arrivée RR dans une piste RR. {0}",
+    "NoStartLine": "Aucun point de contrôle RR n'est défini comme « Ligne de départ ». Vous devez disposer d'exactement un point de ligne de départ RR dans une piste RR. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Réinitialiser et corriger les « Points de contrôle à suivre » pour : {0}. {1}",
+    "Loop": "Vous ne pouvez pas revenir aux points de contrôle déjà franchis lors d'un tour. L'appareil {0} contient une matrice de points de contrôle à suivre faisant référence à {1}, ce qui était référencé par {2} plus tôt pendant le tour. {3}",
+    "DoesntOverlapFinishLine": "Votre piste RR principale doit s'étendre de votre point de la ligne de départ RR à votre point de la ligne d'arrivée RR. Actuellement, elle ne croise pas le point de contrôle RR défini comme étant votre ligne d'arrivée. {0}",
+    "DoesntOverlapStartingLine": "Votre piste RR principale doit s'étendre de votre point de la ligne de départ RR à votre point de la ligne d'arrivée RR. Actuellement, elle ne croise pas le point de contrôle RR défini comme étant votre ligne de départ. {0}",
+    "DeadEnd": "{0} ne contient pas de référence de « Points de contrôle à suivre » menant au point de la ligne d'arrivée RR. {1}",
+    "Orphan": "{0} n'est pas connecté(e) à la piste"
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Plusieurs gestionnaires de course RR ont été placés avec la même étiquette de niveau. Les pistes doivent contenir exactement un gestionnaire de course RR. {0}",
+    "MultipleModeManager": "Plusieurs gestionnaires de course RR ont été placés. Les pistes doivent contenir exactement un gestionnaire de course RR. {0}",
+    "MultipleModeManagerForMode": "Plusieurs gestionnaires de course RR ont été placés. Les pistes doivent contenir exactement un gestionnaire de course RR. {0}",
+    "NoModeManager": "Aucun gestionnaire de course RR n'est placé. Les pistes doivent contenir exactement un gestionnaire de course RR. Gestionnaire de course compétitive RR, gestionnaire de course Contre-la-montre RR, etc. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Plusieurs pistes RR ont leur type de piste défini sur « Principale ». Il doit y avoir exactement une piste principale. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Aucune piste RR n'a son type de piste défini sur « Principale ». Il doit y avoir exactement une piste principale. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Lorsque vos points RR de ligne de départ et d'arrivée sont le même point de contrôle RR, la piste est considérée comme étant un circuit et votre spline de piste principale doit avoir l'option Piste en boucle activée dans l'onglet Appareil de l'éditeur de style. {0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} a le type de piste Secondaire mais est défini comme une piste en boucle dans l'onglet Appareil de l'éditeur de style. Seuls les types de piste Principal et Cosmétique peuvent être définis comme des pistes en boucle. {1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} présente un nœud final qui se connecte à la piste à un point antérieur au premier nœud dans le tour. Cette piste RR pourrait avoir été créée à l'envers, à contresens de la piste. Autrement, l'une des extrémités de la spline pourrait être trop proche d'une partie de la piste vers laquelle les joueurs ne sont pas censés aller. Sélectionnez cette piste RR en vue perspective et vérifiez que les lignes de connexion de cette spline de piste secondaire sont reliées à votre piste comme prévu. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

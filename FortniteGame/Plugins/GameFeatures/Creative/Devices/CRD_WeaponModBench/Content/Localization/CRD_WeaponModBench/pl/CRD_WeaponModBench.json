@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Urządzenie umożliwiające graczom kupowanie, zakładanie i zdejmowanie modyfikacji z modyfikowalnych broni.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Urządzenie umożliwiające graczom kupowanie, zakładanie i zdejmowanie modyfikacji z modyfikowalnych broni. Zrzuć przedmiot na urządzenie, aby ustawić wymaganą kwotę.",
+    "C71343894A060847493A649689759A65": "Zestaw walizek, których można użyć, by otrzymać zmodyfikowaną broń.",
+    "460F73D54CB382F639D9F28B319DB307": "DOSTOSUJ ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Nie można użyć stanowiska modyfikacji",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Waluta",
+    "53C6F3F34E06E917D367268882E08D87": "Określa ustawienie kosztu zakupu modyfikacji broni.",
+    "A30B8506487121E7C4E703A5629FBE05": "Wyłącz przy transmisji od",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Wył.",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Wyłącza urządzenie, uniemożliwiając zakup i demontaż modyfikacji.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Włącz przy transmisji od",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Włącza urządzenie i umożliwia graczom rozpoczęcie grindowania.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Walizka ze zmodyfikowaną bronią – galeria",
+    "0B7642504100909455884BA8ECBE7AD4": "Stanowisko modyfikacji broni",
+    "1EBC090141D82557511D43B7E5342FD4": "Stanowisko modyfikacji broni"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "Dozwolona klasa",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "Dozwolona drużyna",
+    "ECreativeClassType.Any.DisplayName": "Dowolna",
+    "ECreativeTeamType.Any.DisplayName": "Dowolna",
+    "ClassSlotMetaData.DisplayPattern": "Klasa {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Określa, czy gracze widzą klasę rzadkości przedmiotu, jeśli brakuje im zasobów.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Określa, czy to urządzenie ma być włączone na początku minigry.",
+    "Device_WeaponModBench_C.ModCost.Description": "Określa koszt zamontowania modyfikacji do konfigurowalnej broni. Ta wartość będzie dotyczyć wszystkich modyfikacji dostępnych do wyboru. Opcja „Nie zastępuj” używa kosztów z trybu Battle Royale, które mogą ulegać zmianom.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Określa, która klasa może używać tego stanowiska modyfikacji broni.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Określa, która drużyna może używać tego stanowiska modyfikacji broni.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Wyłącz",
+    "Device_WeaponModBench_C.Disable.Description": "Wyłącza urządzenie, uniemożliwiając zakup i demontaż modyfikacji.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Włącz",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Włączone na początku minigry",
+    "Device_WeaponModBench_C.Enable.Description": "Włącza urządzenie, umożliwiając zakup i demontaż modyfikacji.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Jeśli ustawiono, urządzenie będzie dopuszczać wszystkich oprócz dopuszczonej klasy.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Jeśli ustawiono, urządzenie będzie dopuszczać wszystkich oprócz dopuszczonej drużyny.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Odwróć wybór klas",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Odwróć wybór drużyn",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Koszt modyfikacji",
+    "ECreativeClassType.NoClass.DisplayName": "Bez klasy",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Pokaż klasę rzadkości przedmiotu w komunikacie o brakujących przedmiotach",
+    "TeamIndexMetaData.DisplayPattern": "Drużyna {0}"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Элемент окружения, который при уничтожении накладывает эффект нитро на всех, кто находится в радиусе действия.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Элемент окружения, который при уничтожении накладывает эффект нитро на всех, кто находится в радиусе действия.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Элемент окружения, который при уничтожении накладывает эффект нитро на всех, кто находится в радиусе действия.",
+    "30E5234B40854AF182F76E99E0005299": "ИЗМЕНИТЬ БОЧКУ С НИТРО",
+    "3A16E0DE435CF07612216D94958139C0": "Отключить при получении сигнала",
+    "A17C5EC645C874D630065CA36AD5AB43": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Включить при получении сигнала",
+    "6480B4A0446374163AA14886F9A0633A": "Включает устройство при получении сигнала по выбранному каналу.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Мгновенно",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Бочка с нитро",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Бочка с нитро",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "При взрыве бочки",
+    "6DE8D3364821C2389FC94292884E08A9": "При запуске бочки",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Срабатывает, когда бочка взрывается.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Срабатывает в момент начала запуска бочки.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=секунда,few=секунды,many=секунд,other=секунды)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Разрешить повторное появление бочки",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Разрешает взорвавшейся бочке появляться повторно в соответствии с параметром «Задержка появления».",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Определяет, сколько времени занимает весь цикл повторного появления бочки.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Определяет, должно ли устройство повторно создавать бочку после её взрыва во время игры.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Определяет множитель, применяемый к силе, используемой для броска бочки.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Определяет, активна ли эта бочка и отображается ли она в начале игры.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Отключить устройство",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Отключает и скрывает бочку.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "Запретить повторное появление бочки",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Включить устройство",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Включает и показывает бочку.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Множитель силы броска",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "При взрыве бочки",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "При запуске бочки",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Не позволяет бочке появляться повторно. Параметр «Задержка появления» не запускает обратный отсчёт. Если отсчёт уже начался, когда он закончится, бочка не появится повторно.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Задержка появления",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Повторное появление",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Включение в начале",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Срабатывает, когда бочку взрывают.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Срабатывает, когда бочку запускают."
+  }
+}

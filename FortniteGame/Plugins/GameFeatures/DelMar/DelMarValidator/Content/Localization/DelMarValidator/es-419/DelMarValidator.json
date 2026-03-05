@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Las pistas que no sean un circuito (es decir, que no sean en bucle) y tengan más de una vuelta deben tener el teletransportador activado en el punto de control de línea de meta de RR, y la matriz del siguiente punto de control debe hacer referencia solo al punto de control de línea de salida de RR. {0}",
+    "MultipleFinishLines": "Hay más de un punto de control de RR marcado como \"línea de meta\". Debe haber un solo punto de control de línea de meta de RR en una pista de RR. {0}",
+    "MultipleStartLines": "Hay más de un punto de control de RR marcado como \"línea de salida\". Debe haber un solo punto de control de línea de salida de RR en una pista de RR. {0}",
+    "NoFinishLine": "No hay ningún punto de control de RR marcado como \"línea de meta\". Debe haber exactamente un punto de control de línea de meta de RR en una pista de RR. {0}",
+    "NoStartLine": "No hay ningún punto de control de RR marcado como \"línea de salida\". Debe haber exactamente un punto de control de línea de salida de RR en una pista de RR. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Restablecer y rehacer los \"siguientes puntos de control\" para solucionar el problema con {0}.{1}",
+    "Loop": "No puedes volver a los puntos de control que ya pasaste en una vuelta. El dispositivo {0} tiene una matriz de los siguientes puntos de control que hace referencia a {1}; {2} ya hizo referencia a esto antes en la vuelta. {3}",
+    "DoesntOverlapFinishLine": "Tu pista principal de RR debe extenderse desde el punto de control de línea de salida de RR hasta el punto de control de línea de meta de RR. En este momento, no se cruza con el punto de control de RR marcado como línea de meta. {0}",
+    "DoesntOverlapStartingLine": "Tu pista principal de RR debe extenderse desde el punto de control de línea de salida de RR hasta el punto de control de línea de meta de RR. En este momento, no se cruza con el punto de control de RR marcado como línea de salida. {0}",
+    "DeadEnd": "{0} no contiene una o más referencias a los \"siguientes puntos de control\" que lleven al punto de control de línea de meta de RR. {1}",
+    "Orphan": "No se conectó {0} en el circuito."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Hay más de un administrador de carreras de RR con la misma etiqueta de nivel. Las pistas deben contener un solo administrador de carreras de RR. {0}",
+    "MultipleModeManager": "Se colocó más de un administrador de carreras de RR. Las pistas deben contener un solo administrador de carreras de RR. {0}",
+    "MultipleModeManagerForMode": "Se colocó más de un administrador de carreras de RR.Las pistas deben contener un solo administrador de carreras de RR.{0}",
+    "NoModeManager": "No se colocó ningún administrador de carreras de RR. Las pistas deben contener un solo administrador de carreras de RR. Administrador de carreras competitivas de RR, administrador de carreras de pruebas de velocidad de RR, etc. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Hay más de una pista de RR con el valor de tipo de pista configurado como \"principal\". Debe haber una sola pista principal. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "No hay ninguna pista de RR con el valor de tipo de pista configurado como \"principal\". Debe haber exactamente una pista principal. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Cuando los puntos de control de línea de salida y de línea de meta de RR son el mismo punto de control de RR, la pista se considera un circuito y el spline de la pista principal debe tener el ajuste \"pista en bucle\" configurado como verdadero en la pestaña Dispositivo de la ventana del editor de estilo. {0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} tiene una pista de tipo \"secundaria\", pero se configuró como pista en bucle en la pestaña Dispositivo de la ventana del editor de estilo.Solo las pistas de tipo \"principal\" y \"cosmético\" pueden configurarse como pista en bucle.{1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} tiene una colocación de nodo final que se conecta a la pista en un punto anterior de la vuelta que el primer nodo. Esta pista de RR puede estar creada al revés, en contra del sentido de la pista O alguno de los extremos del spline puede estar demasiado cerca de una parte de la pista por la que no quieres que los jugadores circulen. Selecciona esta pista de RR en la vista de perspectiva y comprueba que las líneas de conexión de este spline de la pista secundaria de RR se conecten a la pista de la forma prevista. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

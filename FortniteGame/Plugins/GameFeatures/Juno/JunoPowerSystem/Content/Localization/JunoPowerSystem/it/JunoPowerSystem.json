@@ -1,0 +1,29 @@
+{
+  "": {
+    "71A3F0BE4BC401EDE8B47B95349DEB84": "Apri",
+    "720C69504E4939D88E00D99BFCF8A8D0": "Apri",
+    "ED441C00473C8BBFA99707B9326177C1": "Batteria",
+    "0B2B80644FCC0FFF6CD779B0D1CF6F58": "VCU",
+    "769BB15949AFF1D8966456BDE44FBFCD": "VCU",
+    "7C8E79484A3A1067EC71B9BB7763EB0E": "VCU",
+    "9A37E02F4EAFB15EB33D378B3616B601": "VCU",
+    "01692D2545D048DD3FFFEE80A8AE31C8": "Ti servirà una risorsa <EmphA>organica</> che viene dal <EmphA>terreno</>."
+  },
+  "Juno_UpdateItemData": {
+    "E34B1A154A9B1F3E569CA4B01FD1009E": "Un po' di potenza nel palmo della tua mano.",
+    "5B6A24294D0D954A8185D480AF6D8096": "Centro di alimentazione grande",
+    "B691209A4F938FE92EA504BA5290C96B": "Centro di alimentazione medio",
+    "4DCFA2C2464B8884929713B612BDC204": "Posizionalo su una costruzione e deposita batterie per fornire potenza ai giocattoli collegati. Custodisce una grande quantità di potenza.",
+    "B44851ED463714FE7F10CFB591926A47": "Posizionalo su una costruzione e deposita batterie per fornire potenza ai giocattoli collegati. Custodisce una quantità media di potenza.",
+    "D6C9ABB6498B1D8753B21A838B8CCF03": "Posizionalo su una costruzione e deposita batterie per fornire potenza ai giocattoli collegati. Custodisce una piccola quantità di potenza.",
+    "2EC89F09471DC7BD1A0E199C8F7ED74E": "Posizionale in un centro di alimentazione per fornire potenza ai tuoi marchingegni.",
+    "2DC55E444BCAF9CE3B3BFDA77991163B": "Power Bank",
+    "960679A546697BC052B8F8816BB01087": "Centro di alimentazione piccolo"
+  },
+  "PP_CraftingFormulas_PowerSystem": {
+    "PowerCenterLarge_DisplayName": "Centro di alimentazione grande",
+    "PowerCenterMedium_DisplayName": "Centro di alimentazione medio",
+    "PowerCell_DisplayName": "Batteria",
+    "PowerCenterSmall_DisplayName": "Centro di alimentazione piccolo"
+  }
+}

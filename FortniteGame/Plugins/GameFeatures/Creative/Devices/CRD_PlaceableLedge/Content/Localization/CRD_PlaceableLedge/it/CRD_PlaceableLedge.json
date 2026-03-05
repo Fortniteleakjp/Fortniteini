@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Una sporgenza posizionabile da cui i giocatori possono eseguire lo slancio con sporgenze.",
+    "EFF5545942BE6E906FA09492A029002C": "Una sporgenza posizionabile da cui i giocatori possono eseguire lo slancio con sporgenze.",
+    "39AFB32446569697402D1D827A10908B": "Una sporgenza posizionabile da cui i giocatori possono eseguire lo slancio con sporgenze.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Disabilita alla ricezione da",
+    "39698C45412DE4DC33043394E36BCF15": "Disabilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Abilita alla ricezione da",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Abilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Anello di metallo",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Nessuno",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Sporgenza posizionabile",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Sporgenza posizionabile",
+    "97078157436AE317038738A4DBF33EAE": "Trave di legno"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Mesh personalizzato",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Determina se la sporgenza debba essere abilitata e visibile durante la partita.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Disabilita",
+    "Device_PlaceableLedge_C.Disable.Description": "Disabilita il dispositivo.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Abilita",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Abilita durante la partita",
+    "Device_PlaceableLedge_C.Enable.Description": "Abilita il dispositivo.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Se vero, questo dispositivo userà un anello scalabile anziché una trave ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Selezione mesh sporgenza",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Anello di metallo",
+    "ELedgeMeshSelections.None.DisplayName": "Nessuno",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "La mesh personalizzata da usare per la sporgenza se l'opzione mesh è impostata su personalizzato",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Trave di legno"
+  }
+}

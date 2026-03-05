@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Kích hoạt một đường đua tương ứng khi tay đua đi vào khu vực này. Thường được áp dụng cho các đường đua không có địa hình cụ thể.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "Vùng Kích Hoạt Đường Đua Rocket Racing"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Bắt Buộc Tái Tạo Đường Đua Bí Mật",
+    "MultipleValues": "Nhiều Giá Trị",
+    "Off Track Radius": "Bán Kính Chệch Khỏi Đường Đua",
+    "Use Back Endcap": "Sử Dụng Đầu Mút Sau",
+    "Use Front Endcap": "Sử Dụng Đầu Mút Trước",
+    "Use Stable Roll": "Sử Dụng Lăn Bánh Ổn Định"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "Thay Đổi Hình Dạng Nhiều Nút",
+    "DeleteMultipleNodeConfirmation": "Xóa Nhiều Nút Cùng Lúc?",
+    "DeleteMultipleNodes": "Xóa Nhiều Nút",
+    "EnableOOBTube": "Bật Đường Ống Ngoài Dải Băng",
+    "MeshCustomizations": "Tùy Chỉnh Lưới Trên Nhiều Đối Tượng",
+    "MultipleNodesSelected": "Đã Chọn Nhiều Nút",
+    "UseStableRollOnMultiple": "Sử Dụng Lăn Bánh Ổn Định Trên Nhiều Đối Tượng"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "Xóa Nút",
+    "DeleteNodeConfirmation": "Xóa Nút?",
+    "MetaDataIndexTitle": "Chỉ mục: {CurrentIndex}",
+    "SingleNodeSelected": "Đã Chọn Một Nút",
+    "SplitNode": "Phân Tách Tại Nút",
+    "SplitNodeConfirmation": "Phân Tách Tại Nút?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "Thiết Bị",
+    "DeviceProperties": "Thuộc Tính Thiết Bị",
+    "EditDevice": "Chỉnh sửa Thiết Bị",
+    "EditTrack": "Chỉnh Sửa Đường Đua",
+    "Looping Track": "Đường Đua Vòng Lặp",
+    "None": "Không",
+    "RoadStyle": "Phong Cách Tuyến Đường",
+    "SelectSplinePoints": "Chọn Điểm Trục Đường",
+    "SelectedPoints": "Điểm Được Chọn",
+    "Theme": "Chủ Đề",
+    "Track": "Đường Đua"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "Kết Nối Đường Đua Phụ Kém! Hãy bảo đảm tất cả đường đua phụ đều được kết nối với Đường Đua Chính hoặc Phụ: {1}. Bản đồ: {2}",
+    "NoEndTrackConnection": "Đường Đua Phụ Không Có EndTrackConnection trong {0}. Bản Đồ: {1}",
+    "NoStartTrackConnection": "Đường Đua Phụ Không Có StartTrackConnection trong {0}. Bản Đồ: {1}",
+    "SecondaryTrackLoops": "Đã phát hiện Vòng Lặp Đường Đua Phụ! Đã phát hiện Vòng Lặp tại Đường Đua {0} (Đường Đua khởi đầu: {1}). Bản Đồ: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "Nâng Cao",
+    "AttachToEnd": "Gắn Vào Điểm Cuối",
+    "AttachToStart": "Gắn Vào Điểm Đầu",
+    "Attaching": "Đang Gắn",
+    "ConvertOobTubesToNative_Label": "Chuyển đổi Đường Ống Ngoài Dải Băng từ Bản Vẽ thành Bản Gốc",
+    "ConvertOobTubesToNative_Tooltip": "Chuyển đổi tất cả Đường Ống Ngoài Dải Băng từ Bản Vẽ thành bản gốc tương đương.",
+    "DelMarTrack": "Đường Đua DelMar",
+    "PrintAttachableActors": "Hiển Thị Đối Tượng Có Thể Gắn",
+    "RebuildOobTube": "Xây Dựng Lại Đường Ống Ngoài Dải Băng",
+    "DelMarStyleEditor": "Trình Chỉnh Sửa Phong Cách"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Công Cụ Trực Quan Hóa Thành Phần Trục Đường DelMar"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "Đường Ống Ngoài Dải Băng",
+    "Rebuild OOB Tube": "Xây Dựng Lại Đường Ống Ngoài Dải Băng",
+    "RoadSplineTabTitle": "Trục Đường",
+    "SelectedSplineTabTitle": "Nút Được Chọn",
+    "SplineLengthTitle": "Chiều Dài Trục Đường: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "Chọn Điểm Trục Đường",
+    "SelectedPoints": "Điểm Được Chọn"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "Con Đường Ven Sông",
+    "Change Road Shape": "Thay Đổi Hình Dạng Con Đường",
+    "FlatRoad": "Con Đường Bằng Phẳng",
+    "HalfPipe": "Máng Dốc Chữ U",
+    "Pipe": "Đường Ống Dẫn",
+    "RoadShape": "Hình Dạng Con Đường",
+    "Tunnel": "Đường Hầm"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Thêm điểm trục đường tiếp theo vào lựa chọn hiện tại.",
+    "SelectAddPrevSplinePointToolTip": "Thêm điểm trục đường trước đó vào lựa chọn hiện tại.",
+    "DeleteMultipleNodeConfirmation": "Xóa Nhiều Nút Cùng Lúc?",
+    "SelectDeleteSplinePointToolTip": "Xóa điểm ở lựa chọn hiện tại.",
+    "SelectAllSplinePointToolTip": "Chọn tất cả điểm trục đường.",
+    "SelectFirstSplinePointToolTip": "Chọn điểm trục đường đầu tiên.",
+    "SelectLastSplinePointToolTip": "Chọn điểm trục đường cuối cùng.",
+    "SelectNextSplinePointToolTip": "Chọn điểm trục đường tiếp theo.",
+    "SelectPrevSplinePointToolTip": "Chọn điểm trục đường trước đó.",
+    "SplitNodeConfirmation": "Phân Tách Tại Nút Được Chọn?",
+    "SelectSplitSplinePointToolTip": "Phân chia các nút ở Chỉ Mục Đã Chọn."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Chuyển đổi các điểm trục đường được chọn sang cờ UseStableRoll",
+    "ToggleUseStableRoll": "Sử Dụng Lăn Bánh Ổn Định"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Đường Đua để Kích Hoạt"
+  }
+}

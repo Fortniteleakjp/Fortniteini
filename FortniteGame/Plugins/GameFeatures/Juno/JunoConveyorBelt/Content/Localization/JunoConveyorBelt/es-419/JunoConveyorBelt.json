@@ -1,0 +1,7 @@
+{
+  "AJunoItemSlottable": {
+    "PlaceItem": "Colocar objeto",
+    "SwapItem": "Cambiar objeto",
+    "TakeItem": "Tomar objeto"
+  }
+}

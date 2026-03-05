@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "다른 패치워크 오디오 장치에 보내기 전 패치워크 오디오 입력의 볼륨을 조절합니다. 여러 오디오 입력으로 구성된 믹스가 있는 경우, 일부 입력에 게인을 적용하여 전체 믹스에서 개별 입력의 볼륨 균형을 맞출 수 있습니다.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "다른 패치워크 오디오 장치에 보내기 전 패치워크 오디오 입력의 볼륨을 조절합니다. 여러 오디오 입력으로 구성된 믹스가 있는 경우, 일부 입력에 게인을 적용하여 전체 믹스에서 개별 입력의 볼륨 균형을 맞출 수 있습니다.",
+    "43690F0542ED4B273A4C72B2627C2936": "오디오 입력 볼륨에 선택한 값을 곱합니다. 0으로 설정하면 오디오를 음소거합니다. 2로 설정하면 오디오 볼륨을 두 배로 높입니다.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "패치워크 게인 이펙트",
+    "8A62F091464769AD6A2A51B1CECCED46": "패치워크 게인 이펙트",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "패치워크 게인 이펙트"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "케이블 액세스 허용",
+    "EEnabledOnPhase.Always.DisplayName": "항상",
+    "Device_FabricGain_C.AudioIn.DisplayName": "오디오 인",
+    "Device_FabricGain_C.AudioOut.DisplayName": "오디오 아웃",
+    "EEnabledOnPhase.Create Only.DisplayName": "제작만",
+    "Device_FabricGain_C.AllowPortSelection.Description": "패치워크 도구가 장치의 케이블 입력 또는 출력 포트에 액세스할 수 있는지 설정합니다.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "장치가 사용 상태로 설정되는 게임 단계를 결정합니다. 게임 시작 전에는 게임 시작 전의 모든 단계가 포함됩니다. (게임 시작 전 대기실, 게임 시작까지 카운트다운 등) 이 설정은 편집 모드에 영향을 주지 않습니다.",
+    "Device_FabricGain_C.Disable.DisplayName": "사용 안 함",
+    "Device_FabricGain_C.Disable.Description": "이벤트 발생 시 장치를 사용 안 함 상태로 설정합니다.",
+    "Device_FabricGain_C.Enable.DisplayName": "사용",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "사용 단계",
+    "Device_FabricGain_C.Enable.Description": "이벤트 발생 시 장치를 사용 상태로 설정합니다.",
+    "Device_FabricGain_C.Gain.DisplayName": "게인",
+    "Device_FabricGain_C.GainIn.DisplayName": "게인 인",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "게임플레이만",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "법률 정보",
+    "EEnabledOnPhase.None.DisplayName": "없음",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "사용 안 할 시",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "사용 시",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "패치워크",
+    "Device_FabricGain_C.LegalInfo.Description": "참고: 패치워크 오디오 장치는 자작 음악 작품을 새로 만들 때만 사용할 수 있습니다.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "전원 버튼 인",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "게임 시작 전",
+    "Device_FabricGain_C.AudioOut.Description": "이 장치의 오디오 아웃 케이블 목적지를 설정합니다.",
+    "Device_FabricGain_C.AudioIn.Description": "이 장치의 오디오 인 포트 입력을 설정합니다.",
+    "Device_FabricGain_C.GainIn.Description": "이 장치의 게인 노브 입력을 설정합니다.",
+    "Device_FabricGain_C.OnDisabled.Description": "장치를 사용 안 함 상태로 설정하면 이벤트를 트리거합니다.",
+    "Device_FabricGain_C.OnEnabled.Description": "장치를 사용 상태로 설정할 때 이벤트를 트리거합니다."
+  }
+}

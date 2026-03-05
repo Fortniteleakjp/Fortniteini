@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Skup wzrok",
+    "43F09C044AF62206095CF781534EA856": "Uchwyt",
+    "E6B68B79478A46E9684822B2F134867F": "Głownia",
+    "DB549DF44E248CF55461B2BF32444D9A": "Klin"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Bursztynowy Młot Bitewny",
+    "War_Hammer_T5_Amber_DisplayName": "Bursztynowy młot bitewny",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Wybuchowy Młot Bitewny",
+    "War_Hammer_T1_Bone_DisplayName": "Kościany Młot Bitewny",
+    "War_Hammer_T2_Brightcore_DisplayName": "Jasnordzeniowy Młot Bitewny",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Pazurowy Młot Bitewny",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Pazurowy Młot Bitewny",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Pazurowy Młot Bitewny",
+    "War_Hammer_T3_Copper_DisplayName": "Miedziany Młot Bitewny",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Przeklęty Młot Bitewny",
+    "War_Hammer_T4_Emerald_DisplayName": "Szmaragdowy Młot Bitewny",
+    "War_Hammer_T5_Emerald_DisplayName": "Szmaragdowy młot bitewny",
+    "War_Hammer_T1_Flexwood_DisplayName": "Elastodrewniany Młot Bitewny",
+    "War_Hammer_T1_Frostpine_DisplayName": "Lodososnowy Młot Bitewny",
+    "War_Hammer_T1_Glass_DisplayName": "Szklany Młot Bitewny",
+    "War_Hammer_T3_Gold_DisplayName": "Złoty Młot Bitewny",
+    "War_Hammer_T2_Granite_DisplayName": "Granitowy Młot Bitewny",
+    "War_Hammer_T3_Iron_DisplayName": "Żelazny Młot Bitewny",
+    "War_Hammer_T1_Knotroot_DisplayName": "Supłokorzeniowy Młot Bitewny",
+    "War_Hammer_T1_Mahogany_DisplayName": "Mahoniowy Młot Bitewny",
+    "War_Hammer_T2_Malachite_DisplayName": "Malachitowy Młot Bitewny",
+    "War_Hammer_T2_Marble_DisplayName": "Marmurowy Młot Bitewny",
+    "War_Hammer_T2_Obsidian_DisplayName": "Obsydianowy Młot Bitewny",
+    "War_Hammer_T2_Redrock_DisplayName": "Czerwonoskalny Młot Bitewny",
+    "War_Hammer_T4_Ruby_DisplayName": "Rubinowy Młot Bitewny",
+    "War_Hammer_T5_Ruby_DisplayName": "Rubinowy młot bitewny",
+    "War_Hammer_T2_Sandstone_DisplayName": "Piaskowcowy Młot Bitewny",
+    "War_Hammer_T4_Sapphire_DisplayName": "Szafirowy Młot Bitewny",
+    "War_Hammer_T5_Sapphire_DisplayName": "Szafirowy młot bitewny",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Trzaskorogowy Młot Bitewny",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Trzaskorogowy młot bitewny",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Burzowy Młot Bitewny",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Burzosłonowy Młot Bitewny",
+    "War_Hammer_T1_Wood_DisplayName": "Drewniany Młot Bitewny"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Młot Bitewny"
+  }
+}

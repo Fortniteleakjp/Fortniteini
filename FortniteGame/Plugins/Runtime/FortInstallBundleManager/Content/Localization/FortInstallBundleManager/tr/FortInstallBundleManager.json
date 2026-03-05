@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "Az kaldı! Tamamlamak için uygulamayı aç.",
+    "DownloadCompleteNotification.Title": "Yüklemeyi tamamla ve oyna",
+    "DownloadCompleteNotification.ActionText": "Yükle",
+    "InstallBundleSourceValkyrieDownloadedFmt": "InstallBundleSourceGameCustom İndirildi {0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "InstallBundleSourceGameCustom Kuruldu {0}",
+    "Simulate_BuildVerify_Error": "Yükleme bozulmuş. Lütfen destek ekibi ile iletişime geç."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Dispositivo caricamento livello",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Dispositivo caricamento livello",
+    "6290D58B473E479F05752B83814E9464": "Il dispositivo caricamento livello carica i livelli creati con il dispositivo istanza livello e ti permette di posizionarli e ruotarli ovunque sulla tua isola, anche al di sopra di altri dispositivi caricamento livello.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "Il dispositivo caricamento livello carica i livelli creati con il dispositivo istanza livello e ti permette di posizionarli e ruotarli ovunque sulla tua isola, anche al di sopra di altri dispositivi caricamento livello.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "Il dispositivo caricamento livello carica i livelli creati con il dispositivo istanza livello e ti permette di posizionarli e ruotarli ovunque sulla tua isola, anche al di sopra di altri dispositivi caricamento livello."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Disabilita",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Disabilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Abilita",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Abilita all'avvio del gioco",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Abilita il dispositivo alla ricezione di un segnale dal canale selezionato.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Nome istanza livello",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Nome del livello che verrà caricato.",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Determina se il dispositivo è abilitato o meno all'avvio della partita."
+  }
+}

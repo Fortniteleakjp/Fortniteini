@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Un oggetto di scenografia ambientale che applica Nitro a chi lo circonda quando viene distrutto.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Un oggetto di scenografia ambientale che applica Nitro a chi lo circonda quando viene distrutto.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Un oggetto di scenografia ambientale che applica Nitro a chi lo circonda quando viene distrutto.",
+    "30E5234B40854AF182F76E99E0005299": "PERSONALIZZA BARILE DI NITRO",
+    "3A16E0DE435CF07612216D94958139C0": "Disabilita alla ricezione da",
+    "A17C5EC645C874D630065CA36AD5AB43": "Disabilita il dispositivo alla ricezione dal canale selezionato.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Abilita alla ricezione da",
+    "6480B4A0446374163AA14886F9A0633A": "Abilita il dispositivo alla ricezione dal canale selezionato.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Immediato",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Barile di Nitro",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Barile di Nitro",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "Quando esplode il barile",
+    "6DE8D3364821C2389FC94292884E08A9": "A barile lanciato",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Si attiva quando il barile esplode.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Si attiva quando il barile inizia a essere lanciato.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=secondo, other=secondi)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Consenti rigenerazione del barile",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Consenti al barile di rigenerarsi dopo un ritardo di rigenerazione quando esplode.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Determina il tempo necessario per rigenerare il barile.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Determina se il dispositivo deve rigenerare il barile dopo che è esploso durante il gioco.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Determina il moltiplicatore applicato alla forza utilizzata per lanciare il barile.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Determina se questo barile è abilitato e visibile all'inizio della partita.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Disabilita dispositivo",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Disabilita e nasconde il barile.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "Non consentire rigenerazione del barile",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Abilita dispositivo",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Abilita e mostra il barile.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Moltiplicatore di forza di lancio",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "Quando esplode il barile",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "A barile lanciato",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Impedisce al barile di rigenerarsi. Il conto alla rovescia di ritardo di rigenerazione non inizierà. Se il conto alla rovescia è già iniziato, il barile non si rigenererà quando termina.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Ritardo rigenerazione",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Deve rigenerarsi",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Avvio abilitato",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Si attiva quando il barile esplode.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Si attiva quando il barile viene lanciato."
+  }
+}

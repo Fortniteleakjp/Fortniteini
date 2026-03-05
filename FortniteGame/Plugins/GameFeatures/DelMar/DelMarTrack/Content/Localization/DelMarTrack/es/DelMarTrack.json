@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Activa un circuito determinado cuando un piloto entra en este volumen. Normalmente se usa para circuitos sin geometría.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "Volumen de circuito activo de RR"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Forzar reapariciones en zonas sin pista visible",
+    "MultipleValues": "Varios valores",
+    "Off Track Radius": "Radio de conducción fuera de la pista",
+    "Use Back Endcap": "Usar fragmento de malla de terminación trasero",
+    "Use Front Endcap": "Usar fragmento de malla de terminación delantero",
+    "Use Stable Roll": "Usar alabeo estable"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "Cambiar la forma de varios nodos",
+    "DeleteMultipleNodeConfirmation": "¿Eliminar varios nodos?",
+    "DeleteMultipleNodes": "Eliminar varios nodos",
+    "EnableOOBTube": "Habilitar tubo OOB",
+    "MeshCustomizations": "Personalizaciones de malla en varios",
+    "MultipleNodesSelected": "Varios nodos seleccionados",
+    "UseStableRollOnMultiple": "Usar alabeo estable en varios"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "Eliminar nodo",
+    "DeleteNodeConfirmation": "¿Eliminar nodo?",
+    "MetaDataIndexTitle": "Índice: {CurrentIndex}",
+    "SingleNodeSelected": "Nodo individual seleccionado",
+    "SplitNode": "Dividir en el nodo",
+    "SplitNodeConfirmation": "¿Dividir en el nodo?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "Dispositivo",
+    "DeviceProperties": "Propiedades del dispositivo",
+    "EditDevice": "Editar dispositivo",
+    "EditTrack": "Editar circuito",
+    "Looping Track": "Circuito en bucle",
+    "None": "Ninguna",
+    "RoadStyle": "Estilo de carretera",
+    "SelectSplinePoints": "Seleccionar puntos de spline",
+    "SelectedPoints": "Puntos seleccionados",
+    "Theme": "Tema",
+    "Track": "Circuito"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "¡Circuito secundario mal conectado! Asegúrate de que todos los circuitos secundarios están conectados a circuitos principales o secundarios: {1}. Mapa: {2}",
+    "NoEndTrackConnection": "El circuito secundario no tiene EndTrackConnection en {0}. Mapa: {1}",
+    "NoStartTrackConnection": "El circuito secundario no tiene StartTrackConnection en {0}. Mapa: {1}",
+    "SecondaryTrackLoops": "¡Bucle de circuito secundario detectado! Bucle detectado en el circuito {0} (circuito inicial: {1}). Mapa: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "Avanzado",
+    "AttachToEnd": "Vincular al final",
+    "AttachToStart": "Vincular al inicio",
+    "Attaching": "Vinculación",
+    "ConvertOobTubesToNative_Label": "Convertir tubos OOB de plano a nativo",
+    "ConvertOobTubesToNative_Tooltip": "Convierte todos los tubos OOB de plano existentes a su equivalente nativo.",
+    "DelMarTrack": "Circuito de Del Mar",
+    "PrintAttachableActors": "Imprimir actores vinculables",
+    "RebuildOobTube": "Reconstruir tubo OOB",
+    "DelMarStyleEditor": "Editor de estilo"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Visualizador de componentes de spline de Del Mar"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "Tubo OOB",
+    "Rebuild OOB Tube": "Reconstruir tubo OOB",
+    "RoadSplineTabTitle": "Spline de carretera",
+    "SelectedSplineTabTitle": "Nodo seleccionado",
+    "SplineLengthTitle": "Longitud de spline: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "Seleccionar puntos de spline",
+    "SelectedPoints": "Puntos seleccionados"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "Carretera peraltada",
+    "Change Road Shape": "Cambiar la forma de la carretera",
+    "FlatRoad": "Carretera llana",
+    "HalfPipe": "Medio tubo",
+    "Pipe": "Tubo",
+    "RoadShape": "Forma de la carretera",
+    "Tunnel": "Túnel"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Añade el siguiente punto de spline a la selección actual.",
+    "SelectAddPrevSplinePointToolTip": "Añade el anterior punto de spline a la selección actual.",
+    "DeleteMultipleNodeConfirmation": "¿Eliminar varios nodos?",
+    "SelectDeleteSplinePointToolTip": "Elimina el punto de la selección actual.",
+    "SelectAllSplinePointToolTip": "Selecciona todos los puntos de spline.",
+    "SelectFirstSplinePointToolTip": "Selecciona el primer punto de spline.",
+    "SelectLastSplinePointToolTip": "Selecciona el último punto de spline.",
+    "SelectNextSplinePointToolTip": "Selecciona el siguiente punto de spline.",
+    "SelectPrevSplinePointToolTip": "Selecciona el anterior punto de spline.",
+    "SplitNodeConfirmation": "¿Dividir en el nodo seleccionado?",
+    "SelectSplitSplinePointToolTip": "Divide nodos en los índices seleccionados."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Activar/desactivar los puntos de spline seleccionados para el indicador UseStableRoll",
+    "ToggleUseStableRoll": "Usar alabeo estable"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Circuito que se va a activar"
+  }
+}

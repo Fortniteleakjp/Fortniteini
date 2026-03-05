@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Устройство загрузки уровней",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Устройство загрузки уровней",
+    "6290D58B473E479F05752B83814E9464": "Устройство загрузки уровней загружает уровни, созданные с помощью устройства «Экземпляр уровня», и позволяет размещать и разворачивать их в любой точке вашего острова, в том числе сверху других устройств загрузки уровней.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "Устройство загрузки уровней загружает уровни, созданные с помощью устройства «Экземпляр уровня», и позволяет размещать и разворачивать их в любой точке вашего острова, в том числе сверху других устройств загрузки уровней.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "Устройство загрузки уровней загружает уровни, созданные с помощью устройства «Экземпляр уровня», и позволяет размещать и разворачивать их в любой точке вашего острова, в том числе сверху других устройств загрузки уровней."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Выключить",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Отключает устройство при получении сигнала по выбранному каналу.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Включить",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Включить в начале игры",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Включает устройство при получении сигнала по выбранному каналу.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Название экземпляра уровня",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Название уровня, который будет загружен.",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Определяет, включено ли устройство в начале игры."
+  }
+}

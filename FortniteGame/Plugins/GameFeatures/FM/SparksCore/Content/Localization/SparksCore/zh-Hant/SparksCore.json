@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "選擇樂器",
+    "E70730D546323455388D0F8862938650": "選擇樂器",
+    "94FB361A46082147B697C19A318D8F49": "選擇歌曲",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "即興循環",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "即興曲目",
+    "LockerJamTracksCategory": "儲物櫃即興曲目"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "即興曲目"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "每日氛圍",
+    "setlist_1_title": "每日氛圍",
+    "setlist_title_1": "每日氛圍",
+    "daily_1_desc": "每日氛圍敘述！",
+    "setlist_1_desc": "每日氛圍敘述！",
+    "setlist_desc_1": "每日氛圍敘述！",
+    "festival_1_title": "Festival 精選",
+    "setlist_3_title": "Festival 精選",
+    "setlist_title_3": "Festival 精選",
+    "festival_1_desc": "Festival 精選敘述！",
+    "setlist_3_desc": "Festival 精選敘述！",
+    "setlist_desc_3": "Festival 精選敘述！",
+    "setlist_desc_Fortnitemares": "Fortnitemares",
+    "setlist_title_Fortnitemares": "Fortnitemares",
+    "setlist_2_title": "聚光燈歌單",
+    "setlist_title_2": "聚光燈歌單",
+    "spotlight_1_title": "聚光燈歌單",
+    "setlist_2_desc": "聚光燈歌單敘述！",
+    "setlist_desc_2": "聚光燈歌單敘述！",
+    "spotlight_1_desc": "聚光燈歌單敘述！"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "自訂歌單",
+    "ProductMode_DisplayName_Setlist1": "每日歌單",
+    "Daily_1_Title": "每日氛圍",
+    "Daily_1_Desc": "表格的每日氛圍描述",
+    "Festival_1_Title": "Festival 精選",
+    "Festival_1_Desc": "表格的 Festival 精選敘述",
+    "Default_Title": "Festival 歌單",
+    "ProductMode_DisplayName_Setlist3": "聚光燈歌單",
+    "Spotlight_1_Title": "聚光燈歌單",
+    "Spotlight_1_Desc": "表格的聚光燈歌單敘述",
+    "Default_Desc": "此為預設歌單描述！",
+    "ProductMode_DisplayName_Setlist2": "每週歌單"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "藝術家名稱",
+    "SparksAvailableFilter": "可用",
+    "SparksDefaultFilter": "預設",
+    "SparksFeaturedSort": "精選",
+    "SparksFeaturedFilter": "最新與精選",
+    "SparksOwnedFilter": "已擁有",
+    "SparksOwnedSort": "所有權",
+    "SparksSongSecondaryFilterUnarchivedOnly": "顯示已封存",
+    "SparksAlphaSort": "歌曲名稱，A-Z",
+    "SparksAlphaSortReverse": "歌曲名稱，Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

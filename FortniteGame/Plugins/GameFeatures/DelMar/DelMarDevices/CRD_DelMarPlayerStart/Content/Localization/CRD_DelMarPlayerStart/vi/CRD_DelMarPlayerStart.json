@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Vị trí xuất phát của đường đua trong Rocket Racing",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "Điểm Xuất Phát Của Người Chơi Rocket Racing",
+    "0DF3230B4B023C3622D22CA51A8972F7": "Vị Trí Xuất Phát Của Người Chơi Rocket Racing"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "Xác định thứ tự xe đua sẽ xuất hiện ở vạch xuất phát. Các giá trị dưới mức 0 sẽ bị bỏ qua khi xuất hiện ở vạch xuất phát.",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "Ưu Tiên"
+  }
+}

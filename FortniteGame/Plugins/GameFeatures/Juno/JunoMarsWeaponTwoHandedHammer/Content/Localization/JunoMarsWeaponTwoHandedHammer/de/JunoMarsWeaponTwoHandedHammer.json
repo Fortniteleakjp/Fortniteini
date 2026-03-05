@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Fokus",
+    "43F09C044AF62206095CF781534EA856": "Griff",
+    "E6B68B79478A46E9684822B2F134867F": "Kopf",
+    "DB549DF44E248CF55461B2BF32444D9A": "Keil"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Bernstein-Kriegshammer",
+    "War_Hammer_T5_Amber_DisplayName": "Bernstein-Kriegshammer",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Spreng-Kriegshammer",
+    "War_Hammer_T1_Bone_DisplayName": "Knochen-Kriegshammer",
+    "War_Hammer_T2_Brightcore_DisplayName": "Greller Kriegshammer",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Klauen-Kriegshammer",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Klauen-Kriegshammer",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Klauen-Kriegshammer",
+    "War_Hammer_T3_Copper_DisplayName": "Kupfer-Kriegshammer",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Verfluchter Kriegshammer",
+    "War_Hammer_T4_Emerald_DisplayName": "Smaragd-Kriegshammer",
+    "War_Hammer_T5_Emerald_DisplayName": "Smaragd-Kriegshammer",
+    "War_Hammer_T1_Flexwood_DisplayName": "Zähholz-Kriegshammer",
+    "War_Hammer_T1_Frostpine_DisplayName": "Frostkiefer-Kriegshammer",
+    "War_Hammer_T1_Glass_DisplayName": "Glas-Kriegshammer",
+    "War_Hammer_T3_Gold_DisplayName": "Gold-Kriegshammer",
+    "War_Hammer_T2_Granite_DisplayName": "Granit-Kriegshammer",
+    "War_Hammer_T3_Iron_DisplayName": "Eisen-Kriegshammer",
+    "War_Hammer_T1_Knotroot_DisplayName": "Knorrenwurzel-Kriegshammer",
+    "War_Hammer_T1_Mahogany_DisplayName": "Mahagoni-Kriegshammer",
+    "War_Hammer_T2_Malachite_DisplayName": "Malachit-Kriegshammer",
+    "War_Hammer_T2_Marble_DisplayName": "Marmor-Kriegshammer",
+    "War_Hammer_T2_Obsidian_DisplayName": "Obsidian-Kriegshammer",
+    "War_Hammer_T2_Redrock_DisplayName": "Rotstein-Kriegshammer",
+    "War_Hammer_T4_Ruby_DisplayName": "Rubin-Kriegshammer",
+    "War_Hammer_T5_Ruby_DisplayName": "Rubin-Kriegshammer",
+    "War_Hammer_T2_Sandstone_DisplayName": "Sandstein-Kriegshammer",
+    "War_Hammer_T4_Sapphire_DisplayName": "Saphir-Kriegshammer",
+    "War_Hammer_T5_Sapphire_DisplayName": "Saphir-Kriegshammer",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Schmetterhorn-Kriegshammer",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Schmetterhorn-Kriegshammer",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Sturm-Kriegshammer",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Sturmwache-Kriegshammer",
+    "War_Hammer_T1_Wood_DisplayName": "Holz-Kriegshammer"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Kriegshammer"
+  }
+}

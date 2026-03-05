@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Un objeto del entorno que aplica nitro a los jugadores que lo rodean cuando se destruye.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Un objeto del entorno que aplica nitro a los jugadores que lo rodean cuando se destruye.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Un objeto del entorno que aplica nitro a los jugadores que lo rodean cuando se destruye.",
+    "30E5234B40854AF182F76E99E0005299": "PERSONALIZAR BARRIL DE NITRO",
+    "3A16E0DE435CF07612216D94958139C0": "Deshabilitar cuando se recibe",
+    "A17C5EC645C874D630065CA36AD5AB43": "Deshabilita el dispositivo cuando se recibe una señal desde el canal seleccionado.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Habilitar cuando se recibe",
+    "6480B4A0446374163AA14886F9A0633A": "Habilitar el dispositivo cuando se recibe una señal desde el canal seleccionado.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Inmediato",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Barril de nitro",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Barril de nitro",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "Al explotar el barril",
+    "6DE8D3364821C2389FC94292884E08A9": "Al lanzar el barril",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Se activa cuando el barril explota.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Se activa cuando el barril comienza a lanzarse.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=segundo, other=segundos)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Permitir reaparición de barril",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Permite que el barril reaparezca después de un Retraso de reaparición al explotar.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Determina cuánto tiempo tarda el barril en reaparecer.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Determina si el dispositivo debería hacer reaparecer el barril tras explotar durante la partida.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Determina el multiplicador que se aplica a la fuerza que se usa para lanzar el barril.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Determina si este barril está habilitado y es visible al inicio de la partida.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Deshabilitar dispositivo",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Deshabilita y oculta el barril.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "No permitir reaparición de barril",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Habilitar dispositivo",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Habilita y muestra el barril.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Multiplicador de fuerza de lanzamiento",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "Al explotar el barril",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "Al lanzar el barril",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Impide que el barril reaparezca. La cuenta regresiva Retraso de reaparición no se iniciará. Si la cuenta regresiva ya empezó, el barril no reaparecerá cuando termine.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Retraso de reaparición",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Debería reaparecer",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Comenzar habilitado",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Se activa cuando el barril explota.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Se activa cuando el barril se lanza."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "Sedikit lagi! Buka aplikasi untuk menyelesaikan.",
+    "DownloadCompleteNotification.Title": "Selesaikan instalasi dan bermain",
+    "DownloadCompleteNotification.ActionText": "Pasang",
+    "InstallBundleSourceValkyrieDownloadedFmt": "InstallBundleSourceGameCustom Diunduh {0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "InstallBundleSourceGameCustom Diinstal {0}",
+    "Simulate_BuildVerify_Error": "Instalasi rusak. Silakan hubungi bantuan."
+  }
+}

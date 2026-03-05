@@ -1,0 +1,30 @@
+{
+  "": {
+    "8748F3D34DF2BE934DD892AE20E8BDF6": "Tem certeza de que quer cancelar a viagem para <emphasis>{Destination}</>?",
+    "AB9B074F49C078B1A31C1EA98457C6FE": "Tem certeza de que quer viajar para <emphasis>{Destination}</>?\nIsto vai teletransportar você para fora do modo de jogo atual.",
+    "F6494657498DFB506E0582B5CE879608": "Experiência de Viagem no Ônibus de Batalha",
+    "7724CD794DD1D710CB324DB16E2B0CB1": "Cancelar",
+    "B682B7074BD60890EEE939B7D41FEB81": "Cancelar Viagem",
+    "83676C0F4F777DB2D1F0E68182EE3442": "Fechar",
+    "EFF2EE7E4C72D1BAA26BF8A869BE927B": "Fechar",
+    "5737362B4E314C07CF5D3CBFCF2B8564": "Confirmar",
+    "0D2EB57D4E86544BC47CF7BB02D4E770": "Lançando",
+    "06F9A4C6444227E0274EE082534C4D12": "Lançando!",
+    "27BF20E04F7313806ED0A18E986E5E94": "Lançando!",
+    "61FC8F994CBAFDF04789B5A2F1650577": "Pareamento em andamento...",
+    "CB43CD6E434CC0E09961E9AAD9E540BF": "Pareamento em andamento...",
+    "825EEC3F4DFE93204F8F549A5F577F3F": "Não",
+    "0ED593C3455E1F4A2EE8228ADB6A2E61": "Apenas quem lidera o grupo pode iniciar viagens.",
+    "1A5489F940844101D0F5E59CE54599C3": "Preparando viagem...",
+    "45B97BCA4DBE4CE3FC443580ACC1C9CF": "Preparando viagem...",
+    "A775015C4B0E66AB1D85F69DAE4DF36D": "Comum",
+    "FC5EB93A4FDBAF9F2A2591AAD6F63337": "Comum",
+    "A5F12B9344EB798FFD018D98293C0B0A": "Esta experiência está bloqueada. Seu responsável ou guardião precisa desbloqueá-la.",
+    "3A87680D45EB71503B11C08CAF8229D1": "Viajar",
+    "7AD43B1E4849E90D03D52D806CDEAF35": "Viajar Agora",
+    "5FD075A84100DC5F914CE38E533A5DAD": "Desconhecido",
+    "07E1DDA44514B147B4F776868EC327F9": "Sim",
+    "08ACBC4541886AE24896F3986DA86576": "O tamanho do seu grupo atual é grande demais para esta experiência.",
+    "39BC182346A94BC0B5F98887E14DEDF6": "{Current}/{Max}"
+  }
+}

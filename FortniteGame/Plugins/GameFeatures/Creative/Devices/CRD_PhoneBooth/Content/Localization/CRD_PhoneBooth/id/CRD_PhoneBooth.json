@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "Mengizinkan pemain berganti kostum di dalam game!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "Mengizinkan pemain berganti kostum di dalam game!",
+    "6858477D482601B747C2A5B828C69E76": "Mengizinkan pemain berganti kostum di dalam game!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Ganti\nKostum",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Ruang Ganti",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Ruang Ganti",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Sesuaikan",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Mengeluarkan semua pemain dari ruang ganti saat menerima sinyal dari saluran terpilih.",
+    "1F0C513442C1083AE99BE581F865957A": "Mengeluarkan pemain pemicu dari ruang ganti saat menerima sinyal dari saluran terpilih."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Nonaktifkan",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Menonaktifkan perangkat, mengeluarkan semua pemain ruang ganti dan mencegahnya untuk digunakan.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Aktifkan",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Diaktifkan pada Awal Game",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Mengaktifkan perangkat, memungkinkan pemain untuk menggunakan ruang ganti.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Menyembunyikan ikon HUD jika False.",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "Saat Pemain Masuk",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Saat Pemain Keluar",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Keluarkan Semua Pemain",
+    "C8A4072D491C9059C5CFF1854936E573": "Keluarkan Pemain Pemicu",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Tampilkan Suar HUD",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Mengirim sinyal saat pemain memasuki Perangkat Ruang Ganti",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Mengirim sinyal saat pemain keluar dari Perangkat Ruang Ganti",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Menentukan apakah perangkat ini diaktifkan saat game dimulai."
+  }
+}

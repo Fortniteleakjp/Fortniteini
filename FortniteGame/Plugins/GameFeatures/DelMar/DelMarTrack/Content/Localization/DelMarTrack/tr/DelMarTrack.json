@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "Bir yarışçı bu etki aktörüne girdiğinde belirli bir pisti etkinleştirir. Genellikle geometrisiz pistler için kullanılır.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "RR Etkin Pist Etki Aktörü"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "Gizli Pistte Yeniden Çıkmaları Zorla",
+    "MultipleValues": "Birden Fazla Değer",
+    "Off Track Radius": "Pistten Çıkma Yarıçapı",
+    "Use Back Endcap": "Arka Ucu Kullan",
+    "Use Front Endcap": "Ön Ucu Kullan",
+    "Use Stable Roll": "Sabit Yuvarlanma Kullan"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "Noktaların Şeklini Değiştir",
+    "DeleteMultipleNodeConfirmation": "Noktalar silinsin mi?",
+    "DeleteMultipleNodes": "Noktaları Sil",
+    "EnableOOBTube": "OOB Tüpünü Etkinleştir",
+    "MeshCustomizations": "Çoklu Mesh Özelleştirmesi",
+    "MultipleNodesSelected": "Birden Çok Nokta Seçildi",
+    "UseStableRollOnMultiple": "Çoklu Sabit Yuvarlanma"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "Noktayı Sil",
+    "DeleteNodeConfirmation": "Nokta silinsin mi?",
+    "MetaDataIndexTitle": "Gösterge: {CurrentIndex}",
+    "SingleNodeSelected": "Tek Nokta Seçili",
+    "SplitNode": "Noktadan Ayır",
+    "SplitNodeConfirmation": "Noktadan ayrılsın mı?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "Cihaz",
+    "DeviceProperties": "Cihaz Özellikleri",
+    "EditDevice": "Cihazı Düzenle",
+    "EditTrack": "Pisti Düzenle",
+    "Looping Track": "Döngülü Pist",
+    "None": "Hiçbiri",
+    "RoadStyle": "Yol Stili",
+    "SelectSplinePoints": "Eğri Noktalarını Seç",
+    "SelectedPoints": "Seçili Noktalar",
+    "Theme": "Tema",
+    "Track": "Pist"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "İkinci Pist Bağlantısı Hatalı! Tüm ikinci pistlerin birincil veya ikinci pistlere bağlı olduğundan emin ol: {1}. Harita: {2}",
+    "NoEndTrackConnection": "İkinci Pist şurada EndTrackConnection'a sahip değil: {0} Harita: {1}",
+    "NoStartTrackConnection": "İkinci Pist şurada StartTrackConnection'a sahip değil: {0} Harita: {1}",
+    "SecondaryTrackLoops": "İkinci Pistte Döngü tespit edildi! {0} Pistinde döngü tespit edildi (başlangıç Pisti: {1}). Harita: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "Gelişmiş",
+    "AttachToEnd": "Sona Bağla",
+    "AttachToStart": "Başlangıca Bağla",
+    "Attaching": "Bağlanıyor",
+    "ConvertOobTubesToNative_Label": "Taslak OOB Tüplerini Standarda Dönüştür",
+    "ConvertOobTubesToNative_Tooltip": "Mevcut tüm Taslak OOB tüplerini standart eşdeğerlerine dönüştürür.",
+    "DelMarTrack": "Del Mar Pisti",
+    "PrintAttachableActors": "Bağlanabilir Nesneleri Yazdır",
+    "RebuildOobTube": "OOB Tüpünü Yeniden İnşa Et",
+    "DelMarStyleEditor": "Stil Editörü"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Del Mar Eğri Bileşeni Görüntüleyici"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "OOB Tüpü",
+    "Rebuild OOB Tube": "OOB Tüpünü Yeniden İnşa Et",
+    "RoadSplineTabTitle": "Yol Eğrisi",
+    "SelectedSplineTabTitle": "Seçili Nokta",
+    "SplineLengthTitle": "Eğri Uzunluğu: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "Eğri Noktalarını Seç",
+    "SelectedPoints": "Seçili Noktalar"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "Eğimli Yol",
+    "Change Road Shape": "Yol Şeklini Değiştir",
+    "FlatRoad": "Düz Yol",
+    "HalfPipe": "Üstü Açık Boru",
+    "Pipe": "Boru",
+    "RoadShape": "Yol Şekli",
+    "Tunnel": "Tünel"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Sonraki eğri noktasını mevcut seçime ekler.",
+    "SelectAddPrevSplinePointToolTip": "Önceki eğri noktasını mevcut seçime ekler.",
+    "DeleteMultipleNodeConfirmation": "Noktalar silinsin mi?",
+    "SelectDeleteSplinePointToolTip": "Mevcut seçimdeki noktayı siler.",
+    "SelectAllSplinePointToolTip": "Tüm eğri noktalarını seçer.",
+    "SelectFirstSplinePointToolTip": "İlk eğri noktasını seçer.",
+    "SelectLastSplinePointToolTip": "Son eğri noktasını seçer.",
+    "SelectNextSplinePointToolTip": "Bir sonraki eğri noktasını seçer.",
+    "SelectPrevSplinePointToolTip": "Önceki eğri noktasını seçer.",
+    "SplitNodeConfirmation": "Seçili noktadan ayrılsın mı?",
+    "SelectSplitSplinePointToolTip": "Seçili dizinlerde noktaları ayır."
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Seçili eğri noktalarını UseStableRoll flag'ine ayarlar",
+    "ToggleUseStableRoll": "Sabit Yuvarlanma Kullan"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "Etkinleştirilecek Pist"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "記憶體不足",
+    "Return to main menu reason (default)": "記憶體已達到臨界水準─賽事結束。\n你最後的進度已儲存！返回創意模式，從中斷處繼續遊戲。",
+    "Warning toast description (default)": "賽事可能會意外結束。"
+  }
+}

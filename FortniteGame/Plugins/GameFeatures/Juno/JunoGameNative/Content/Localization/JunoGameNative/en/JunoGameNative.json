@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "space between: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: generate outside of {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Place {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>was eliminated</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>was saved by a totem</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Gift {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Give me everything!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Join Camp {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Not enough for trade. Need x{WantItemCount} {WantItem} to trade for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left.",
+    "TradeXForX": "Trade x{WantItemCount} {WantItem} for x{SellItemCount} {SellItem}. \n {BundleCount} bundles left."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Finished!",
+    "GetX": "Get {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>entered world</>",
+    "GameMemberDisconnected": "{0} <Yellow>exited world</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "add charge",
+    "ChargeCostUnits": "charge",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Continue",
+    "JunoSpeech_NoAIRole": "Jobless",
+    "JunoSpeech_NoBoundCampName": "Nameless Village",
+    "JunoSpeech_NoLastUsedGatheringActor": "No Station"
+  },
+  "JunoStorageChest": {
+    "Open": "Open",
+    "Search": "Search"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName}'s Village {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Kicked for idle. Your connection to the host was lost because you were idle for too long.",
+    "SpawnedWhenPermanentlyDead": "This client is out of lives."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Enter Guided Build"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "This is the last of your friends' worlds in which you can place owned content this week.",
+    "MCPItemPlacedMessageTitleText": "Warning! Owned Content",
+    "MCPItemPlacedMessageDescription_NLeft": "You can place owned content in {0} more of your friends' worlds this week."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "": {
+    "31FAE6BD73F7D30C53E0C058C7CA42CF": "Daigos-Reich-Sessel",
+    "31FAE6BD73F7D30C53E0C058CEAF2645": "Daigos-Reich-Sessel",
+    "725D91602604049153E0C058C7CA42CF": "Daigos-Reich-Bett",
+    "725D91602604049153E0C058CEAF2645": "Daigos-Reich-Bett",
+    "C2EAAFD6C82FC31853E0C058C7CA42CF": "Daigos-Reich-Bank",
+    "C2EAAFD6C82FC31853E0C058CEAF2645": "Daigos-Reich-Bank",
+    "7DA1D85A596CBE4353E0C058C7CA42CF": "Daigos-Reich-Schrank",
+    "7DA1D85A596CBE4353E0C058CEAF2645": "Daigos-Reich-Schrank",
+    "35D8B7A52D98408453E0C058C7CA42CF": "Daigos-Reich-Laterne – Decke",
+    "35D8B7A52D98408453E0C058CEAF2645": "Daigos-Reich-Laterne – Decke",
+    "113ED41A7D5B16D053E0C058C7CA42CF": "Daigos-Reich-Holzkohlegrill",
+    "113ED41A7D5B16D053E0C058CEAF2645": "Daigos-Reich-Holzkohlegrill",
+    "4EB40FD8AF54A5BA53E0C058C7CA42CF": "Daigos-Reich-Banner – Dekorativ",
+    "4EB40FD8AF54A5BA53E0C058CEAF2645": "Daigos-Reich-Banner – Dekorativ",
+    "EABDE35A4EEE0CC753E0C058C7CA42CF": "Daigos-Reich-Maske – Dekorativ",
+    "EABDE35A4EEE0CC753E0C058CEAF2645": "Daigos-Reich-Maske – Dekorativ",
+    "3DF46819471DBC5653E0C058C7CA42CF": "Daigos-Reich-Gong",
+    "3DF46819471DBC5653E0C058CEAF2645": "Daigos-Reich-Gong",
+    "4CBA8D5B52EA14B753E0C058C7CA42CF": "Daigos-Reich-Laterne – Hängend",
+    "4CBA8D5B52EA14B753E0C058CEAF2645": "Daigos-Reich-Laterne – Hängend",
+    "A593B69E9C2924F053E0C058C7CA42CF": "Daigos-Reich-Kasten",
+    "A593B69E9C2924F053E0C058CEAF2645": "Daigos-Reich-Kasten",
+    "D12ECD89C04F886853E0C058C7CA42CF": "Daigos-Reich-Banner – Innenbereich",
+    "D12ECD89C04F886853E0C058CEAF2645": "Daigos-Reich-Banner – Innenbereich",
+    "2CBA7A26336B14A053E0C058C7CA42CF": "Daigos-Reich-Bank – Verziert",
+    "2CBA7A26336B14A053E0C058CEAF2645": "Daigos-Reich-Bank – Verziert",
+    "3546D1FA55E907EB53E0C058C7CA42CF": "Daigos-Reich-Portal – Verziert",
+    "3546D1FA55E907EB53E0C058CEAF2645": "Daigos-Reich-Portal – Verziert",
+    "AE7B30427C9D186453E0C058C7CA42CF": "Daigos-Reich-Laterne – Verziert",
+    "AE7B30427C9D186453E0C058CEAF2645": "Daigos-Reich-Laterne – Verziert",
+    "E2D6175399D0918B53E0C058C7CA42CF": "Daigos-Reich-Laterne – Außen",
+    "E2D6175399D0918B53E0C058CEAF2645": "Daigos-Reich-Laterne – Außen",
+    "B3E17695DD6308F253E0C058C7CA42CF": "Daigos-Reich-Anrichte",
+    "B3E17695DD6308F253E0C058CEAF2645": "Daigos-Reich-Anrichte",
+    "F7E45FABA0BEB93953E0C058C7CA42CF": "Daigos-Reich-Lagerschrank",
+    "F7E45FABA0BEB93953E0C058CEAF2645": "Daigos-Reich-Lagerschrank",
+    "E65E56C2BE958FAE53E0C058C7CA42CF": "Daigos-Reich-Tisch",
+    "E65E56C2BE958FAE53E0C058CEAF2645": "Daigos-Reich-Tisch"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Drücke E zum Bearbeiten"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Anpassen"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Một kiểu gờ có thể đặt được, cho phép người chơi bám vào lấy đà lao đi.",
+    "EFF5545942BE6E906FA09492A029002C": "Một kiểu gờ có thể đặt được, cho phép người chơi bám vào lấy đà lao đi.",
+    "39AFB32446569697402D1D827A10908B": "Một kiểu gờ có thể đặt được, cho phép người chơi bám vào lấy đà lao đi.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Tắt Khi Nhận Tín Hiệu",
+    "39698C45412DE4DC33043394E36BCF15": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Bật Khi Nhận Tín Hiệu",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Vòng Kim Loại",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Không",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Gờ Có Thể Đặt Được",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Gờ Có Thể Đặt Được",
+    "97078157436AE317038738A4DBF33EAE": "Thanh Gỗ"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Lưới Tùy Chỉnh",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Xác định liệu gờ bậc này có được bật và hiển thị suốt trận đấu hay không.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Tắt",
+    "Device_PlaceableLedge_C.Disable.Description": "Tắt thiết bị.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Bật",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Bật Trong Suốt Trận Đấu",
+    "Device_PlaceableLedge_C.Enable.Description": "Bật thiết bị.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Nếu đúng, thiết bị này sẽ sử dụng một vòng tròn có thể bám được thay vì dùng thanh gỗ ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Lựa Chọn Kiểu Gờ",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Vòng Kim Loại",
+    "ELedgeMeshSelections.None.DisplayName": "Không",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "Nếu chọn Tùy Chỉnh, hệ thống sẽ chọn gờ kiểu tùy chỉnh.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Thanh Gỗ"
+  }
+}

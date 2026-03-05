@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "天穹",
+    "CBA0009043A15E05890AC68F8056B814": "天穹",
+    "E1067A64427AA66B822488B1D608CD94": "天穹",
+    "4C46C8CA41311206CF70698F2FE39BEB": "禁用",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "从选定频道中接收信号时禁用。",
+    "BFBBEB534C644E161C3AE491501828F6": "启用",
+    "650644994C28CFD38E31829A56E3464F": "从选定频道中接收信号时启用。",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "生成人群为你助阵。",
+    "2253A34C49B07B7CD62CB18E4F691187": "生成人群为你助阵。",
+    "F4DA79224C576591D48AF68C10A6FD46": "生成人群为你助阵。",
+    "7EDB5C9C49AC528E948643B2245928A7": "这个设备可以轻松控制天穹、太阳和其它大气效果（星星、大雾、天空物体等等）。",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0}块地块",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0}块地块",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} 块地块",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "永远",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "角色对齐",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "角色朝向随机性",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "角色比例随机性",
+    "EEnabledOnPhase.Create Only.DisplayName": "仅限创建",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "人群密度",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "确定装置将被启用的游戏阶段。游戏前阶段包括所有游戏开始前的阶段（推荐岛屿上的等待玩家大厅和游戏开始倒计时）。",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "禁用",
+    "BP_CrowdVolume_Device_C.Disable.Description": "从选定频道中接收信号时禁用。",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "启用",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "在该阶段中启用",
+    "BP_CrowdVolume_Device_C.Enable.Description": "从选定频道中接收信号时启用。",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "仅限游戏",
+    "EEnabledOnPhase.None.DisplayName": "无",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "仅限游戏倒计时",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "设置人群的密度。",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "设置人群成员在网格上对齐的精确度。",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "设置人群成员尺寸的随机程度。",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "设置人群成员朝向的随机程度。",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "以地块为单位设置屏障深度。",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "以地块为单位设置区域高度。",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "以地块为单位设置区域宽度。",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "层深",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "层高",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "层宽"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "전설 검입니다. 가까운 거리에서 적과 근접 전투를 벌이는 데 적합한 검입니다.",
+    "A5C5C211434AA2839F6672858D879834": "검은 펜보다 강합니다.",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "검",
+    "691AD6104B64E9B53B152A932C3A7948": "<EmphA>제재소</>가 필요합니다.",
+    "AF59C13740BF3D246EFE6894041683CA": "<EmphA>제재소</>가 필요합니다.",
+    "D46F690B44A43726C9409EBBF35FBD5A": "<EmphA>제재소</>가 필요합니다.",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "<EmphA>제재소</>가 필요합니다."
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "대나무 검",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "대나무 검",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "대나무 검",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "대나무 검",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 검",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 검",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "코주스톤 검",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "코주스톤 검",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "코주스톤 검",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "코주스톤 검",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "강철 검",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "강철 검",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "강철 검"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "희귀 검입니다. 가까운 거리에서 적과 근접 전투를 벌이는 데 적합한 검입니다.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "검증이 필요하겠네요.",
+    "CAD24296497618FE393B79B375B3D198": "에픽 검입니다. 가까운 거리에서 적과 근접 전투를 벌이는 데 적합한 검입니다.",
+    "7F0D841F4798D9DA06E8CB9880022753": "고급 검입니다. 가까운 거리에서 적과 근접 전투를 벌이는 데 적합한 검입니다.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "칼과 비슷하지만... 훨씬 우수합니다.",
+    "30D0CC564A676E401A2AF193711F5A03": "날개를 펴고 검을 휘두르세요.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "검",
+    "C9A902E24804F529DDB98399903E1F9F": "검",
+    "F07655364C7958D6AB473B8B9ABA433A": "검"
+  }
+}

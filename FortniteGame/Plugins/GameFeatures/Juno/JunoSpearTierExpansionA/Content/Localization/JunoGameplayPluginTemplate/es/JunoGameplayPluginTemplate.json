@@ -1,0 +1,37 @@
+{
+  "": {
+    "02D507F542501C32987007BB40B310CF": "Necesitarás un <EmphA>aserradero</>.",
+    "46465B3F47396715F622C8B9C8D00E02": "Necesitarás un <EmphA>aserradero</>.",
+    "7DA1447E47D8D89073ACF0AAA1A2864B": "Necesitarás un <EmphA>aserradero</>.",
+    "A681DC5345D98537642259976B7D96FD": "Necesitarás un <EmphA>aserradero</>."
+  },
+  "Juno_BoostedItemNames_SpearTierExpansionA": {
+    "Spear_T5_T5_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T6_T6_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T7_T7_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T8_T8_Honed_Bamboo_DisplayName": "Lanza de bambú",
+    "Spear_T7_T7_Honed_Dragon_Opal_DisplayName": "Lanza de ópalo dragontino",
+    "Spear_T8_T8_Honed_Dragon_Opal_DisplayName": "Lanza de ópalo dragontino",
+    "Spear_T5_T5_Honed_Kozustone_DisplayName": "Lanza de kozupiedra",
+    "Spear_T6_T6_Honed_Kozustone_DisplayName": "Lanza de kozupiedra",
+    "Spear_T7_T7_Honed_Kozustone_DisplayName": "Lanza de kozupiedra",
+    "Spear_T8_T8_Honed_Kozustone_DisplayName": "Lanza de kozupiedra",
+    "Spear_T6_T6_Honed_Steel_DisplayName": "Lanza de acero",
+    "Spear_T7_T7_Honed_Steel_DisplayName": "Lanza de acero",
+    "Spear_T8_T8_Honed_Steel_DisplayName": "Lanza de acero"
+  },
+  "Juno_UpdateItemData": {
+    "311316ED4D182EEA2FA46DAA81FD15E5": "Una lanza legendaria, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "B25A2F324DB535390E4B73930870E49A": "Una lanza rara, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "9586F8E1415780F4E24C91BC3AF6173F": "Lanza la lanza con confianza.",
+    "3D7692F9440542E88EC2D0BE65D1A7D0": "Una lanza épica, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "9FE27A4249F4F9C0F7527782A3B1C0F8": "Una lanza poco común, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "D94E848A42A304BA80384AB51A03A759": "Rompe una lanza por la victoria.",
+    "1F54FBF84AFFB2CCD540CD80D88B83BC": "Lanza",
+    "2EA3F9C34873AAA9DAA84885A9BCD37B": "Lanza",
+    "52E93B624E1B24175BB6F6811B0B3856": "Lanza",
+    "824F02E94ED416162B699D95ED1A1A60": "Lanza",
+    "C3ED5020413D4F9AC37D7B828F778F0A": "Lánzate a la batalla.",
+    "888AAE0B4DA62E8ED2440D80116B1BD1": "Lanza al olvido las derrotas."
+  }
+}

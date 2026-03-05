@@ -1,0 +1,37 @@
+{
+  "": {
+    "24E89F1843DFC6EA9EFA37A1991529C5": "Mostrar siempre",
+    "52B8FBAF40F5FE90A24B5BAC4EBCE0D7": "Anclajes",
+    "5EEA4BE24E710329B6F3BBB12EF9E920": "Anclajes",
+    "AC42D6E848910CF2C5A9BBB0F0A81B15": "Anclajes",
+    "30EA631F4233B87423C9DEB5F7B952B5": "Animar stick dinámico",
+    "24F4670C406DBF4F1B4B98978F4C6E49": "Relleno de la zona de bloqueo de carrera automática",
+    "8CD38EE3444D137C2D190FB75AF2E177": "Tamaño de la zona de bloqueo de carrera automática",
+    "ADD09514442FFA77EE6EEF9BA35FED43": "Sin bordes",
+    "5C0117894FE94EB617D990A345092116": "Tamaño de los botones",
+    "31CD161F49CC2A4FE8B07E9A9B457A71": "Click-through",
+    "745525824BF613BD31B12BA6CBE89B0A": "¡Combina diferentes bases para crear mezclas únicas!",
+    "6BF0E54347F314D93ECB6CA4ACF8F4EA": "Zona sin uso",
+    "8851066C40215F98E4CBF999FA38AFBA": "Stick dinámico",
+    "97B960ED4DBE0DBCF8CC90B6CD54D0FF": "Explora la zona de improvisación para encontrar amigos y descubrir escenarios en los que podrás mezclar canciones de tu librería. Que nunca falte la música en Fortnite Festival.",
+    "42A11A2547B09000C726C7A99BDE00C9": "Festival",
+    "893ACCBF454F24B42A838DB44EF44264": "Improvisación de Festival",
+    "C9010A584F0E45F13FE8C888CC10551E": "Para cada una de las pistas de improvisación, podrás elegir entre bases de instrumento principal, bajo, percusión o voz.",
+    "60585B2B47F626B2C0AA0BA219977F79": "Improvisación de Festival",
+    "E61D951E4F49D19B4203488619933E26": "Improvisación de Festival",
+    "49FE800D4EB0879B574516AC6765BEBC": "Mézclalo bien",
+    "C3613A494533620F2E0F099899E9B78F": "Opacidad de la palanca de movimiento: En movimiento",
+    "9FC6351443248A5AE1359FBC20C71E66": "Opacidad de la palanca de movimiento: Inactivo",
+    "9E8FD1BC4685B31B9BF7928E4FE8867E": "¡Toca combinaciones de canciones populares en el modo multijugador!",
+    "5B9A77094FD1B4FFA15D829EE5AD1C7F": "Elige una base para empezar la improvisación en cualquier momento. ¡Cualquiera que esté cerca podrá unirse!",
+    "9B970F35448761D53205B79D51F04309": "Restablecer posición de la palanca",
+    "3B1EF45D4E110472B0B1E4A61704F557": "Tamaño",
+    "45893B434FC542D36DB113BC764CC8BE": "Tamaño",
+    "A3CD64734EC6C30DE12776ADE7BECD2C": "Empieza a improvisar",
+    "C2C5814F4FD39CC42F71FD81F7A1A556": "Cambia de instrumentos",
+    "9C82F6FB45201EE313688EBFCF09A758": "Tamaño de la zona táctil"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Te han expulsado por inactividad. Tu conexión con el servidor se ha perdido tras un periodo largo de inactividad."
+  }
+}

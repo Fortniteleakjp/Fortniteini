@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "Yok edildiğinde etrafındakilere Nitro uygulayan bir çevre nesnesi.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "Yok edildiğinde etrafındakilere Nitro uygulayan bir çevre nesnesi.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "Yok edildiğinde etrafındakilere Nitro uygulayan bir çevre nesnesi.",
+    "30E5234B40854AF182F76E99E0005299": "NİTRO VARİLİNİ ÖZELLEŞTİR",
+    "3A16E0DE435CF07612216D94958139C0": "Şuradan Alındığında Devre Dışı Bırak:",
+    "A17C5EC645C874D630065CA36AD5AB43": "Seçilen kanaldan sinyal alındığında cihazı devre dışı bırakır.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "Şuradan Alındığında Etkinleştir:",
+    "6480B4A0446374163AA14886F9A0633A": "Seçilen kanaldan sinyal alındığında cihazı etkinleştirir.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "Anında",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "Nitro Varili",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "Nitro Varili",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "Varil Patladığında",
+    "6DE8D3364821C2389FC94292884E08A9": "Varil Fırlatıldığında",
+    "ED148DE148299AEB76E8C1AF05838DC0": "Varil patladığında tetiklenir.",
+    "3A1B14E145478FEACE47E0B8E1360191": "Varil fırlatılmaya başlandığında tetiklenir.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(one=saniye, other=saniye)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "Varilin Yeniden Çıkmasına İzin Ver",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "Varil patladığında Yeniden Çıkma Gecikmesi sonrasında yeniden çıkmasına izin ver.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "Varilin yeniden çıkmasının ne kadar süreceğini belirler.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "Cihazın oyun sırasında patladıktan sonra varili yeniden çıkarıp çıkarmayacağını belirler.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "Varili fırlatmak için uygulanan kuvvet çarpanını belirler.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "Oyun başladığında bu varilin etkin ve görünür olup olmayacağını belirler.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "Cihazı Devre Dışı Bırak",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "Varili devre dışı bırakır ve gizler.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "Varilin Yeniden Çıkmasını Engelle",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "Cihazı Etkinleştir",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "Varili etkinleştirir ve gösterir.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "Fırlatma Kuvveti Çarpanı",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "Varil Patladığında",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "Varil Fırlatıldığında",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "Varilin yeniden çıkmasını engeller. Yeniden Çıkma Gecikmesi geri sayımı başlamaz. Geri sayım zaten başlamışsa bittiğinde varil yeniden çıkmaz.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "Yeniden Çıkma Gecikmesi",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "Yeniden Çıkmalı",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "Etkin Başla",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "Varil patlatıldığında tetiklenir.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "Varil fırlatıldığında tetiklenir."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "": {
+    "1E039F624E334709DAACC381A0EAF6CA": "Cho phép người chơi thay đổi trang phục của họ trong trận!",
+    "36DF7C804C2683DF3CAA5384A43E82E4": "Cho phép người chơi thay đổi trang phục của họ trong trận!",
+    "6858477D482601B747C2A5B828C69E76": "Cho phép người chơi thay đổi trang phục của họ trong trận!",
+    "069CC8AE4ED9E11514DC138D49FAE7B8": "Thay Đổi\nTrang Phục",
+    "8951F4C1460E491F9313AAA5E16BE4CA": "Buồng Thay Đồ",
+    "F46A146B4C7FE5B2794F9182EE5BCFCD": "Buồng Thay Đồ",
+    "059506D64DE2C7BC2249EA967ADC0C18": "Tùy Chỉnh",
+    "FB6C538F4D6F606703196597BAA7ADA8": "Đẩy tất cả người chơi ra khỏi buồng thay đồ khi nhận một tín hiệu từ kênh được chọn.",
+    "1F0C513442C1083AE99BE581F865957A": "Đẩy người chơi khởi xướng ra khỏi buồng thay đồ khi nhận một tín hiệu từ kênh được chọn."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_PhoneBooth_C.Disable.DisplayName": "Tắt",
+    "BP_Creative_PhoneBooth_C.Disable.Description": "Vô hiệu hóa thiết bị, đẩy tất cả người chơi ra khỏi buồng thay đồ và không cho phép ai sử dụng nó nữa.",
+    "BP_Creative_PhoneBooth_C.Enable.DisplayName": "Bật",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "Được Bật Khi Bắt Đầu Trận",
+    "BP_Creative_PhoneBooth_C.Enable.Description": "Kích hoạt thiết bị, cho phép người chơi sử dụng buồng thay đồ.",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "Ẩn biểu tượng HUD khi Sai.",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.DisplayName": "Khi Người Chơi Vào",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.DisplayName": "Khi Người Chơi Rời Khỏi",
+    "D7A8AF6E425ECAB0858442927BCFF93A": "Loại Bỏ Tất Cả Người Chơi",
+    "C8A4072D491C9059C5CFF1854936E573": "Loại Bỏ Người Chơi Khởi Xướng",
+    "BP_Creative_PhoneBooth_C.Show HUD Beacon.DisplayName": "Hiển Thị Đèn Hiệu HUD",
+    "BP_Creative_PhoneBooth_C.OnPlayerEnter.Description": "Phát tín hiệu khi có người chơi vào trong Thiết Bị Buồng Thay Đồ",
+    "BP_Creative_PhoneBooth_C.OnPlayerExit.Description": "Phát tín hiệu khi có người chơi ra khỏi Thiết Bị Buồng Thay Đồ",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.Description": "Thiết bị này có được bật khi bắt đầu trận hay không."
+  }
+}

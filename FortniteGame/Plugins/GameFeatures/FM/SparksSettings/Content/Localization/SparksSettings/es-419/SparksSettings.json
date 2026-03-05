@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>No</>: los gesto de baile se mostrarán a la velocidad normal y su música se reproducirá sobre la pista de improvisación.",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Sí</>: los gesto de baile se sincronizarán con el ritmo de las pistas de improvisación y la música de los gestos dejará de escucharse.",
+    "JamTrackAudioTabName": "Pistas de improvisación",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "Sincronizar mis gestos de baile con las pistas de improvisación",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Estos ajustes cambian lo que sucede con tus gestos de baile mientras suena una pista de improvisación."
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "Ajusta el volumen de la música del juego en Festival.",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "Música de Festival"
+  }
+}

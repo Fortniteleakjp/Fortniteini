@@ -1,0 +1,32 @@
+{
+  "": {
+    "2A3DA133450DE1F4E7762EBFC3C8F144": "Rìu Tha Hóa",
+    "5916DF4549227279E8AD35931888404D": "Nỏ Chiến Thần Sầu Tha Hóa",
+    "9875D91146C4D8408E03BAAEFDF0BB3F": "Cặp Dao Găm Tha Hóa",
+    "F32A2C4A460D4C6BC10DD7BD49D31F18": "Búa Tha Hóa",
+    "9695AF99464F0C9FEC50C3BE822C43AF": "Dao Rựa Tha Hóa",
+    "76AEC6DD4CF9D18F7BFDC9BCFAEAA530": "Chiến Cụ Tha Hóa",
+    "69115BA249B1068F42E315B62BF89A6C": "Súng Lục Plasma Tha Hóa",
+    "8CC4CDD3405EAA085765AAB2E319DF1D": "Ngọn Giáo Tha Hóa",
+    "934302ED42B3386302EC7F9B113AC1FA": "Kiếm Tha Hóa",
+    "4F041E594D370BBE74E3BDA4A7A4BBAF": "Chế tạo một Vũ Khí với <emphA>Pha Lê Tha Hóa Đã Gia Công</>.",
+    "4709780A4E901F20D82492ADE6339182": "Chế tạo một vũ khí từ một viên <text color=\"E2FCFFFF\">Pha Lê Tha Hóa Đã Gia Công</>",
+    "C000930E48E063391FFEDFA82B24B571": "Cứ sau vài giây, thao tác né sẽ giúp bạn triệu hồi mặt nạ để truy đuổi kẻ địch và khiến chúng nổ tung khi va phải.",
+    "1698974C46A90E20604D21BB850149FE": "Sự Phẫn Nộ Của Tháp Xoắn IV",
+    "96F30C124D97236C1039428F0ED3FB2C": "Sự Phẫn Nộ Của Tháp Xoắn IV",
+    "9AF379BD41AED1FFBDBC898B76D03198": "CỰC KỲ truyền cảm hứng.",
+    "BD73B5584E28FBB049C627BCB4B934BA": "Bạn sẽ cần một <EmphA>Pha Lê Tha Hóa</> và một <EmphA>Máy Cắt Ngọc</>.",
+    "19CC8E6C4A0EBC05523D13B480BC3BFA": "tài nguyên chế tạo"
+  },
+  "Juno_GameplayItemCraftingFormulas_CutCorruptedCrystalMaterial": {
+    "CutCorruptedCrystal_DisplayName": "Pha Lê Tha Hóa Đã Gia Công",
+    "EssenceOfSpireWrathIV_DisplayName": "Sự Phẫn Nộ Của Tháp Xoắn IV"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "A623134E47F36B4867D2559117996AF6": "Pha Lê Tha Hóa Đã Gia Công"
+  },
+  "Juno_UpdateItemData": {
+    "89238479458E64E9C358C986EFA5832A": "Sắc bén kinh hồn.",
+    "6BA4926A4017F26CA4BA1E9607643091": "Dùng để chế tạo vũ khí hạng nhẹ. Được tinh luyện từ Pha Lê Tha Hóa."
+  }
+}

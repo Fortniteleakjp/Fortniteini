@@ -1,0 +1,41 @@
+{
+  "": {
+    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "完成<emphA>复仇者琼斯</>的<emphA>搞定！</>任务即可解锁制作配方。 ",
+    "2526E3264410B707308E20B8534279DB": "完成<emphA>复仇者琼斯</>的<emphA>搞定！</>任务即可解锁制作配方。 ",
+    "31A9F48344282DCF8F65FE8B306F22C8": "完成<emphA>复仇者琼斯</>的<emphA>搞定！</>任务即可解锁制作配方。 ",
+    "A0E91B49404BEF991ACE78A035FB9FA5": "完成<emphA>复仇者琼斯</>的<emphA>搞定！</>任务即可解锁制作配方。 ",
+    "0BF1727A4D90DCAEE14B258CC4212DE3": "史诗等离子手枪。轰炸敌人，干扰他们的原子结构！",
+    "BAAFC86C4534ACB06CC80994621448C0": "传奇等离子手枪。轰炸敌人，干扰他们的原子结构！",
+    "44C70BA449A264B9703BCEABB9D340A3": "邓黎芷……瞪梨子……蹬驴子……好吧，是等离子手枪。",
+    "422220DB4E40F60B63AEEFAE27DEA53E": "远程枪支",
+    "599752D6488B6EC23EC0C68BED53ED65": "远程枪支",
+    "62257ECA477347F53A1A868296689A18": "远程枪支",
+    "EA747D1E453DCB0F43A86580E4B5C092": "远程枪支",
+    "BF1756B943F369BD9986D993E258750C": "稀有等离子手枪。轰炸敌人，干扰他们的原子结构！",
+    "ADCCA19C4060AFD909BE87A5893C2CE0": "罕见等离子手枪。轰炸敌人，干扰他们的原子结构！",
+    "46AA227040F5CC18B31C5CB3B87F2B93": "嗡嗡嗡——滋砰！",
+    "0CD3C87C459B141BAA857593CCFE8EF6": "嗡嗡嗡——唰！",
+    "EFE2F67D4FE0515AF526C1898CC016BD": "滋滋滋——砰！"
+  },
+  "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
+    "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "竹制等离子手枪",
+    "Plasma_Pistols_T6_T6_Honed_Bamboo_DisplayName": "竹制等离子手枪",
+    "Plasma_Pistols_T7_T7_Honed_Bamboo_DisplayName": "竹制等离子手枪",
+    "Plasma_Pistols_T8_T8_Honed_Bamboo_DisplayName": "竹制等离子手枪",
+    "Plasma_Pistols_T7_T7_Honed_Dragon_Opal_DisplayName": "龙珀等离子手枪",
+    "Plasma_Pistols_T8_T8_Honed_Dragon_Opal_DisplayName": "龙珀等离子手枪",
+    "Plasma_Pistols_T5_T5_Honed_Kozustone_DisplayName": "木津石等离子手枪",
+    "Plasma_Pistols_T6_T6_Honed_Kozustone_DisplayName": "木津石等离子手枪",
+    "Plasma_Pistols_T7_T7_Honed_Kozustone_DisplayName": "木津石等离子手枪",
+    "Plasma_Pistols_T8_T8_Honed_Kozustone_DisplayName": "木津石等离子手枪",
+    "Plasma_Pistols_T6_T6_Honed_Steel_DisplayName": "钢制等离子手枪",
+    "Plasma_Pistols_T7_T7_Honed_Steel_DisplayName": "钢制等离子手枪",
+    "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "钢制等离子手枪"
+  },
+  "Juno_UpdateItemData": {
+    "154D52A747D30B2EAFA712A289645F6D": "等离子手枪",
+    "61FD372A4CB97B18D20D6FA5761F7026": "等离子手枪",
+    "7B04D8D34F9407730A1CDB9CE3F62067": "等离子手枪",
+    "E4EF40D34E94A918540D478454F8A407": "等离子手枪"
+  }
+}

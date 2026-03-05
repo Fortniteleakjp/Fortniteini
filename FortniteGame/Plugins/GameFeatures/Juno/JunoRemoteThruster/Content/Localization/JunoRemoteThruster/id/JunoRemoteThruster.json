@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "Gunakan beberapa item ini saat kamu butuh dorongan. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "Saat dorongan untukmu butuh sedikit \"yuk\" lagi!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "Pasang pendorong besar ke struktur yang sudah ada dan objek dinamis.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "Pasang pendorong kecil ke struktur yang sudah ada dan objek dinamis.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "Pendorong Besar",
+    "5E9A371D43E076126910D39AF338F4B5": "Pendorong Kecil"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "Pendorong Besar",
+    "RemoteThruster_DisplayName": "Pendorong Kecil"
+  }
+}

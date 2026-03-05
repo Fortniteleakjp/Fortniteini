@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "เกิดข้อผิดพลาดในการตรวจสอบข้อมูลผู้เล่น"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "ล้มเหลวในการฟลัชข้อมูลการคงอยู่และใช้ความพยายามในการลองใหม่ที่อนุญาตหมดแล้ว"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "ไม่สามารถเรียกดูจุดเช็คพอยต์ที่ใช้ได้",
+    "FailedToSetInitialCheckpointErrorMessage": "การตั้งค่าจุดเช็คพอยต์เริ่มต้นล้มเหลว",
+    "InvalidJunoWorldErrorMessage": "โลกจูโนไม่ถูกต้องเมื่อพยายามเริ่มต้นตัวจัดการจุดเช็คพอยต์",
+    "InvalidJunoRootPlayspaceErrorMessage": "โลกจูโนไม่ถูกต้องเมื่อพยายามเริ่มเริ่มต้นตัวจัดการจุดเช็คพอยต์"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "พยายามเริ่มต้นคงข้อมูลของผู้เล่นหลังจากที่ถูกเริ่มต้นแล้ว",
+    "InvalidPlayerPersistenceStorageErrorMessage": "ที่เก็บข้อมูลคงทนของผู้เล่นไม่ถูกต้อง",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "ไม่สามารถสร้างตัวจัดการจุดเช็คพอยต์ได้"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "กำลังพยายามยกเลิกการเริ่มคงข้อมูลของผู้เล่นด้วย ID ผู้เล่นที่ไม่ถูกต้อง",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "กำลังพยายามเริ่มคงข้อมูลของผู้เล่นหลายครั้ง",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "กำลังพยายามยกเลิกการเริ่มคงข้อมูลของผู้เล่นด้วย ID ผู้เล่นที่ไม่ถูกต้อง",
+    "StalePlayerPersistenceHandlerErrorMessage": "ตัวจัดการมีตัวตยของผู้เล่นที่ล้าสมัยเมื่อเริ่มต้นเสร็จสิ้น",
+    "UnableToCreatePlayerPersistenceErrorMessage": "ไม่สามารถสร้างตัวจัดการข้อมูลคงทนของผู้เล่น",
+    "InvalidPlayerPersistenceStorageErrorMessage": "ไม่สามารถเรียกข้อมูลคงทนของผู้เล่นที่ถูกต้องได้"
+  }
+}

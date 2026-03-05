@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Pelat Tekanan",
+    "53154EE74D5D376B3B686BB88086E6C1": "Pelat Pemicu"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "Tombol yang bisa kamu injak untuk mengaktifkan saluran. Tombol ini harus tetap ditekan agar bisa berfungsi! Bisa dihubungkan ke saluran agar bisa diaktifkan atau dinonaktifkan.",
+    "5105BE2640EF2F340BFDACBBD992B887": "Tombol yang bisa kamu injak untuk mengaktifkan saluran. Berbeda dengan Pelat Tekanan, tombol tidak harus tetap ditekan.",
+    "3EE5611646661AE4DCB8A286F3C86C08": "Kamu bisa berdiri di belakang sakelar ini ... DAN di atasnya!",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Pelat Tekanan",
+    "72407BB74A3BB4361BC8138E65BE9602": "Pelat Pemicu",
+    "B007D95344C458E23652D897346A66AE": "Berfungsi paling baik di bawah tekanan."
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Pelat Tekanan",
+    "TriggerPlate_DisplayName": "Pelat Pemicu"
+  }
+}

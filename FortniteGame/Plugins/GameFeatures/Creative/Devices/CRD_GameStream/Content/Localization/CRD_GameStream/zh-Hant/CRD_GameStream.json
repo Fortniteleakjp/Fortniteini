@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "從此接收時新增至結束遊戲隊列",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "強制在島嶼上單個場次中的所有玩家配對。",
+    "8A7E9FBB45B757940356DFBCBD04F720": "遊戲串流",
+    "D6605AA24CE9BB51B09055B216381F62": "遊戲串流",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "島嶼代碼",
+    "4906BC4442B704E71E23E9B9A01FF370": "等級傳送門",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "設定島嶼代碼，供配對傳送門指向。",
+    "413FED52446F49764E9AF9B6A2F275BB": "從此接收時轉移人口"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "從此接收時停用",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "在接收選定頻道的訊號時停用裝置。",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "從此接收時啟用",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "在接收選定頻道的訊號時啟用裝置。",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "結束遊戲由隊列",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "轉移人口"
+  }
+}

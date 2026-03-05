@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Classe widget mancante.\n\nVai all'implementazione del tuo progetto e trova il modello Playspace in utilizzo.\n\nImposta \"CaptureToolWidgetClass\" del componente Playspace SparksCommonUtils sul widget che vorresti creare qui.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} ha ignorato l'evento (nessun componente NPS disponibile)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} ha aumentato la dimensione pool: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} ha aumentato la dimensione pool: {size}"
+  }
+}

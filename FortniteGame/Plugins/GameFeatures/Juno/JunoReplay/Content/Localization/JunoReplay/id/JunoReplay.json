@@ -1,0 +1,6 @@
+{
+  "GameSettingRegistryExtension_JunoReplay": {
+    "ReplayRecordingJuno_Name": "Rekam Rekaman Ulang Juno",
+    "ReplayRecordingJuno_Description": "Mengaktifkan/menonaktifkan perekaman putar ulang untuk pertandingan Juno."
+  }
+}

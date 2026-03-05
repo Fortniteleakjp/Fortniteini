@@ -1,0 +1,24 @@
+{
+  "": {
+    "589BC8C545D9D766C0F02DAA67AF848E": "Prenda balões enormes e vá pelos ares!",
+    "46C7F27B4A5570C7071636BB7EF37E8D": "Cuidado para não estourar PRA VALER.",
+    "2FB1FBF64A8E9BE1A2F1C7BA5B611584": "Cuidado para não estourar.",
+    "644DE9964A9EB1D0E32D6CB2C74B7685": "Esse é um estouro. Um pequeno estouro, melhor dizendo. "
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F022CD50420DB9CA0BC872AA6D67BBB5": "Balão grande acionável que utiliza uma conexão de canais. Pode ser acionado por um comando de canais para inflar e levantar voo.",
+    "812DFE244981B3CEE5E8E0ABBA8D2940": "Balão pequeno acionável que utiliza uma conexão de canais. Pode ser acionado por um comando de canais para inflar e levantar voo.",
+    "2AA87E9E40F4F4D87E02BBB60A2F4230": "Balão Grande Ativado",
+    "7988ADD74C897E641532648A25A6DF3C": "Balão Pequeno Ativado",
+    "B57EF9BD4D82A829083838A7E5BE2085": "Afixa balões grandes em estruturas e objetos dinâmicos.",
+    "B3815C7846E7DD14D5367CAC8F99EB48": "Afixa balões pequenos em estruturas e objetos dinâmicos.",
+    "000401864743389FEA88AFA4F5CC7938": "Balão Grande",
+    "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Balão Pequeno"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "ActivatedBalloon_DisplayName": "Balão Ativado",
+    "ActivatedBalloonLarge_DisplayName": "Balão Grande Ativado",
+    "BalloonLarge_DisplayName": "Balão Grande",
+    "Balloon_DisplayName": "Balão Pequeno"
+  }
+}

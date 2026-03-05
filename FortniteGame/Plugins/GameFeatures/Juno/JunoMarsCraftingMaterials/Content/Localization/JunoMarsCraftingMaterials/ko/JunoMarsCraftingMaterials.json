@@ -1,0 +1,31 @@
+{
+  "": {
+    "8904037A486FDD7697C24F9CCC7A09E4": "타락한 도끼",
+    "D0DA70DA41F0A3993DE6769C586E332C": "타락한 석궁",
+    "D4E19FC74CC61B2B37CFDE8170255B51": "타락한 쌍단검",
+    "B978FA6D498FA6B2144CA6AC653C8B5A": "타락한 망치",
+    "1822903D4A5636538882EB96DF94477C": "타락한 마체테",
+    "0FF216704E4918F85F0A80B832AA08B6": "타락한 곡괭이",
+    "2016FB8F4235504F4405B1B9400CF599": "타락한 플라스마 권총",
+    "D2A04A8D4B5B082370478A9C15347AEA": "타락한 창",
+    "BFFBEE5D4578F0D96C3651991883FCCF": "타락한 검",
+    "D8D0E610425287EEC6581CA560C9CE2D": "<emphA>타락한 수정</>을 사용해 무기를 만드세요.",
+    "B4A003F74E36C034781DB78A95945FC6": "<text color=\"E2FCFFFF\">타락한 수정</>으로 무기 제작",
+    "AD9A538E447069CA6AE9C1AFDACF52B7": "첨탑과 첨탑으로 소환된 적에게 추가 피해를 줍니다.",
+    "206873EF4F48BE2ECB5D009249CEEFAD": "<EmphA>강한 첨탑 적</>이 떨어트립니다.",
+    "9A09D2F744A36F074921E7A4D2E02714": "첨탑의 영감이랄까요.",
+    "3D8D9E114E1EF86663319690D4F208F3": "첨탑 파멸 III",
+    "736485B648FE6289DF5BB9B7D123F623": "첨탑 파멸 III",
+    "17AE277C4F1C68BC510397B449029A6C": "제작 자원"
+  },
+  "Juno_GameplayItemCraftingFormulas_JunoMars": {
+    "EssenceOfSpireBaneIII_DisplayName": "첨탑 파멸 III"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "C690C330466D954F310A0C9352E4ADC1": "타락한 수정"
+  },
+  "Juno_UpdateItemData": {
+    "A3556D85478029980B37BA96C2D359C4": "제작 재료입니다. 엘리트 첨탑 및 중무장 악마 경비병을 쓰러트려 획득합니다.",
+    "7E069A074076CE89EE39B893EDEF205C": "이 수정은 웅웅거리며 속삭입니다. 자세히 들여다보면 무언가 맞받아 보는 것을 거의 볼 수 있습니다..."
+  }
+}

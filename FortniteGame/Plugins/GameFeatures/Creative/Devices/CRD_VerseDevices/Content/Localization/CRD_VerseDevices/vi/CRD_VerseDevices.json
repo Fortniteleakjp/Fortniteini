@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "Đã Tắt",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "Đã Tắt",
+    "7F622AD141A596DB6DA4A69D874C2761": "Đã Bật",
+    "F635B92B4F6D69AC48F18D8428078A2F": "Đã Bật",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "Cho phép người chơi chạy một mã lệnh Verse tùy chỉnh",
+    "0156B90F4D5E75298F886FA5AFC000E7": "Tải và chạy một mã lệnh Verse đã chỉ định.",
+    "12BB4013449DF18D296F85AA4CB849E1": "Thiết Bị Mã Lệnh",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "Thiết Bị Mã Lệnh",
+    "4033820A43CE091C31CEF486B399093F": "Thiết Bị Mã Lệnh"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "Xác định thiết bị mã lệnh có hiển thị trong trận đấu hay không.",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "Được Bật Khi Bắt Đầu Trận",
+    "VerseDevice_C.VisibleInGame.DisplayName": "Hiển Thị trong Trận Đấu",
+    "VerseDevice_C.Enabled at Game Start.Description": "Xác định mã lệnh đính kèm có chạy trong trận đấu hay không."
+  }
+}

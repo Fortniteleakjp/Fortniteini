@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "ตำแหน่งเริ่มต้นสำหรับการแข่งขัน Rocket Racing",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "เริ่มต้นผู้เล่น RR",
+    "0DF3230B4B023C3622D22CA51A8972F7": "ตำแหน่งเริ่มต้นผู้เล่น RR"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "กำหนดลำดับที่รถจะพยายามเกิดที่จุดออกตัว ไม่สนใจค่าที่ต่ำกว่าศูนย์เมื่อเกิดที่จุดออกตัว",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "ลำดับความสำคัญ"
+  }
+}

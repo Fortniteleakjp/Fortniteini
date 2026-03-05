@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Błąd przy sprawdzaniu danych gracza"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Niepowodzenie opróżnienia persystencji. Wyczerpano dostępne możliwości powtórzenia."
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "Nie udało się odzyskać dostępnych punktów kontrolnych",
+    "FailedToSetInitialCheckpointErrorMessage": "Nie udało się ustawić początkowego punktu kontrolnego",
+    "InvalidJunoWorldErrorMessage": "Nieprawidłowy świat Juno podczas próby inicjalizacji obsługi punktu kontrolnego",
+    "InvalidJunoRootPlayspaceErrorMessage": "Nieprawidłowy rdzeń rozgrywki podczas próby inicjalizacji obsługi punktu kontrolnego"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Próba inicjalizacji persystencji gracza po pierwotnej inicjalizacji",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Niewłaściwy zapis persystencji gracza",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "Nie można stworzyć obsługi punktu kontrolnego"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Próba deinicjalizacji persystencji gracza o nieprawidłowym identyfikatorze gracza",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Wielokrotna próba inicjalizacji persystencji gracza",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Próba inicjalizacji persystencji gracza o prawidłowym identyfikatorze gracza",
+    "StalePlayerPersistenceHandlerErrorMessage": "Problem z obsługą persystencji gracza podczas kończenia inicjalizacji",
+    "UnableToCreatePlayerPersistenceErrorMessage": "Nie można stworzyć obsługi persystencji gracza",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Nie można pobrać poprawnego zapisu persystencji gracza"
+  }
+}

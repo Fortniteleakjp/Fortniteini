@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Eine platzierbare Kante, von der sich Spieler abstoßen können.",
+    "EFF5545942BE6E906FA09492A029002C": "Eine platzierbare Kante, von der sich Spieler abstoßen können.",
+    "39AFB32446569697402D1D827A10908B": "Eine platzierbare Kante, von der sich Spieler abstoßen können.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Ausschalten bei Empfang von",
+    "39698C45412DE4DC33043394E36BCF15": "Schaltet das Gerät aus, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Einschalten bei Empfang von",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Schaltet das Gerät ein, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Metallring",
+    "7E36FA504A82288E8BFF03B718AAF93E": "-",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Platzierbare Kante",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Platzierbare Kante",
+    "97078157436AE317038738A4DBF33EAE": "Holzbalken"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Titel"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Angepasstes 3D-Gitter",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Bestimmt, ob Kanten während des Spiels eingeschaltet und sichtbar sein sollen.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Ausschalten",
+    "Device_PlaceableLedge_C.Disable.Description": "Schaltet das Gerät aus.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Einschalten",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Eingeschaltet während des Spiels",
+    "Device_PlaceableLedge_C.Enable.Description": "Schaltet das Gerät ein.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Bei entsprechender Auswahl nutzt dieses Gerät einen Ring zum Klettern statt eines Balkens. ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Auswahl des Kanten-Meshs",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Metallring",
+    "ELedgeMeshSelections.None.DisplayName": "-",
+    "BoolMetaData.FalseDisplayName": "Aus",
+    "BoolMetaData.TrueDisplayName": "Ein",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "Dieses benutzerdefinierte 3D-Gitter wird für die Kante benutzt, wenn die 3D-Gitter-Option auf „Angepasst“ gestellt ist.",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Holzbalken"
+  }
+}

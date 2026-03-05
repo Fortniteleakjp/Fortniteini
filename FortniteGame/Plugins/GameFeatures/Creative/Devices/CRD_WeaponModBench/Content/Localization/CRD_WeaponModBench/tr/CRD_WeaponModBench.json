@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "Oyuncuların modifiye edilebilir silahlar için modifikasyon satın alabilmesini ve kaldırabilmesini sağlayan bir cihazdır.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "Oyuncuların modifiye edilebilir silahlar için modifikasyon satın alabilmesini ve kaldırabilmesini sağlayan bir cihazdır. Gereken para birimini belirlemek için cihazın üzerine bir eşya bırak.",
+    "C71343894A060847493A649689759A65": "Modifiye edilmiş silahları çıkarmak için etkileşime geçilebilen bir dizi kasa.",
+    "460F73D54CB382F639D9F28B319DB307": "ÖZELLEŞTİR ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "Modifikasyon Masası Kullanılamıyor",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "Oyun İçi Para Birimi",
+    "53C6F3F34E06E917D367268882E08D87": "Bir silahı modifiye etmek için gereken para birimini belirler.",
+    "A30B8506487121E7C4E703A5629FBE05": "Şuradan Alındığında Devre Dışı Bırak:",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "Devre Dışı",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "Cihazı devre dışı bırakır, modifikasyonların satın alınabilmesini ve kaldırılabilmesini engeller.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "Şuradan Alındığında Etkinleştir:",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "Cihazı etkinleştirir ve oyuncuların kaymaya başlamasına izin verir.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "Modifiye Edilmiş Silah Kasası Galerisi",
+    "0B7642504100909455884BA8ECBE7AD4": "Silah Modifikasyon Masası",
+    "1EBC090141D82557511D43B7E5342FD4": "Silah Modifikasyon Masası"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "İzin Verilen Sınıf",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "İzin Verilen Takım",
+    "ECreativeClassType.Any.DisplayName": "Herhangi Biri",
+    "ECreativeTeamType.Any.DisplayName": "Herhangi Biri",
+    "ClassSlotMetaData.DisplayPattern": "{0}. Sınıf",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "Oyuncunun kaynakları eksikse eşyanın nadirliğinin gösterilip gösterilmeyeceğini belirler.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "Bu cihazın mini oyun başladığında etkinleştirilip etkinleştirilmeyeceğini belirler.",
+    "Device_WeaponModBench_C.ModCost.Description": "Modifiye edilebilir bir silaha modifikasyon ekleme bedelini belirler. Bu değer, seçilebilir tüm modifikasyonlar için geçerlidir. Varsayılanı Değiştirme ayarı, Battle Royale'in kullandığı değerleri kullanır ve değişebilir.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "Hangi sınıfın bu Silah Modifikasyon Masası'nı kullanabileceğini belirler.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "Hangi takımın bu Silah Modifikasyon Masası'nı kullanabileceğini belirler.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "Device_WeaponModBench_C.Disable.Description": "Cihazı devre dışı bırakır, modifikasyonların satın alınabilmesini ve kaldırılabilmesini engeller.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "Etkinleştir",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "Mini Oyun Başlarken Etkinleşir",
+    "Device_WeaponModBench_C.Enable.Description": "Cihazı etkinleştirir, modifikasyonların satın alınabilmesini ve kaldırılabilmesini sağlar.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "Ayarlandığında cihaz İzin Verilen Sınıf hariç herkese izin verir.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "Ayarlandığında cihaz İzin Verilen Takım hariç herkese izin verir.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "Sınıf Seçimini Tersine Çevir",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "Takım Seçimini Tersine Çevir",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "Modifikasyon Bedeli",
+    "ECreativeClassType.NoClass.DisplayName": "Hiçbir Sınıf",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "Eksik Eşya Komutunda Eşya Nadirliğini Göster",
+    "TeamIndexMetaData.DisplayPattern": "{0}. Takım"
+  }
+}

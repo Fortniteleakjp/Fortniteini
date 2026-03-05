@@ -1,0 +1,50 @@
+{
+  "": {
+    "67320F2F4EF316AB1ACEC181C9402FA1": "Lame",
+    "D96EFA7940C10FEA5ADD5A8E6814AB3E": "Indovina? Ho una shur-presa per te!",
+    "E97D828E401794E0E6035D9F0052C954": "Indovina? Ho una shur-presa per te!",
+    "11D19E87472E5A93C8E03DBB47CBB549": "Centro",
+    "5BE5CA8F476A74105C2107A1D1BE363F": "Shuriken comune. Le stelle ninja affilate come rasoi più famose del mondo. ",
+    "492E847A4056722468D9F1B7CAFE388C": "Shuriken epico. Le stelle ninja affilate come rasoi più famose del mondo.",
+    "18FA88BF49B66EA60C8D60B46BC1B3AC": "Apprendi nella scheda Maestria ninja ",
+    "6F05C4FC4D58CB2C77D1698AE043E597": "Apprendi nella scheda Maestria ninja ",
+    "86F5523A4B77B62BB87DB897E5AB31EC": "Apprendi nella scheda Maestria ninja ",
+    "90D66A5C4C2F770E96FD9F86F79D58A5": "Apprendi nella scheda Maestria ninja ",
+    "810270FA4C6EA512EA96118BC032FE27": "Shuriken leggendario. Le stelle ninja affilate come rasoi più famose del mondo.",
+    "3BD009B74B9055B4FEAE85A01DE4E0E9": "Sono come piccoli tornadi spinjitsu da lanciare.",
+    "88A8547E4AFE4F1D8470E5A08F7EB884": "Shuriken raro. Le stelle ninja affilate come rasoi più famose del mondo.",
+    "1621FE2D4F6EB770ED345BACD8F069CB": "Accorcia i tempi della battaglia... e anche la barba dei tuoi avversari.",
+    "7A9A3E76432BF59F037B7B809A42F41F": "Shuri, shuri, shuriken di tuttu l'annu.",
+    "0100F12640782A81255181BBEFF5BFA7": "Lanciare proiettili",
+    "425BA21942D3D6689773D686AD7EF2F7": "Lanciare proiettili",
+    "C2D4C9C84D1110C483A711AAD3729A20": "Lanciare proiettili",
+    "D751132B427D4ECA77992D8D271A891D": "Lanciare proiettili",
+    "E3FBFE784A2317E78F83BFAE859D2A69": "Lanciare proiettili",
+    "960E82854A9E861824DCA9BA7AC83EE4": "Shuriken non comune. Le stelle ninja affilate come rasoi più famose del mondo."
+  },
+  "Juno_BoostedItemNames_Shuriken": {
+    "Shuriken_T5_T5_Honed_Bamboo_DisplayName": "Shuriken di bambù",
+    "Shuriken_T6_T6_Honed_Bamboo_DisplayName": "Shuriken di bambù",
+    "Shuriken_T7_T7_Honed_Bamboo_DisplayName": "Shuriken di bambù",
+    "Shuriken_T8_T8_Honed_Bamboo_DisplayName": "Shuriken di bambù",
+    "Shuriken_T7_T7_Honed_Dragon_Opal_DisplayName": "Shuriken di opale di drago",
+    "Shuriken_T8_T8_Honed_Dragon_Opal_DisplayName": "Shuriken di opale di drago",
+    "Shuriken_T5_T5_Honed_Kozustone_DisplayName": "Shuriken di pietra Kozu",
+    "Shuriken_T6_T6_Honed_Kozustone_DisplayName": "Shuriken di pietra Kozu",
+    "Shuriken_T7_T7_Honed_Kozustone_DisplayName": "Shuriken di pietra Kozu",
+    "Shuriken_T8_T8_Honed_Kozustone_DisplayName": "Shuriken di pietra Kozu",
+    "Shuriken_T6_T6_Honed_Steel_DisplayName": "Shuriken d'acciaio",
+    "Shuriken_T7_T7_Honed_Steel_DisplayName": "Shuriken d'acciaio",
+    "Shuriken_T8_T8_Honed_Steel_DisplayName": "Shuriken d'acciaio"
+  },
+  "Juno_CBCFormulas_Shuriken": {
+    "Shuriken_DisplayName": "Shuriken"
+  },
+  "Juno_UpdateItemData": {
+    "3EB23374462AD1A4264B89B674069060": "Shuriken",
+    "863A6B134C12EED19BFA259464C5BC28": "Shuriken",
+    "DF616BC44AB6277D45CD3FAC66107E74": "Shuriken",
+    "E44D5CCF4255E842F3333B838A8725C8": "Shuriken",
+    "E8493B554EBD22EAD4974CA8D18255ED": "Shuriken"
+  }
+}

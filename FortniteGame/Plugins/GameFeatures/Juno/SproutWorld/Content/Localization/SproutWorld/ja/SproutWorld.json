@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "横断歩道",
+    "09298F2740CA51082D6CA3991E6A7A43": "キャッシュの価値: {val} | {perc}% - {spawned} / {total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "GO",
+    "30DF69ED4AA5D23EEE62998512640D06": "READY",
+    "355F7C204406651F83FF48BA624BD7B3": "プロフィールアクタ\r\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "レースエリア",
+    "F686194549FCDCDE1602BA87F50B713A": "レースエリア",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "まもなくレース開始",
+    "8FC27CE746647B26BBBF9782A019AFD4": "まもなくレース開始",
+    "CA4965C14941F1E3494B759C09C5AA84": "まもなくレース開始"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "ビクトリーレーンへようこそ",
+    "RaceWinReward_Body": "キミがブロック・ベイで<b>最速</>だ！ <emphasis>ラリーレース</>での勝利、おめでとう！ 誇りを持ってこれを飾ってよ。努力の結晶だ。\r\n<name>ドリフト</>より"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "اختر آلتك الموسيقية",
+    "E70730D546323455388D0F8862938650": "اختر آلتك الموسيقية",
+    "94FB361A46082147B697C19A318D8F49": "اختر أغنيتك",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "حلقات العزف",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "مقطوعات العزف",
+    "LockerJamTracksCategory": "مقطوعات عزف الخزانة"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "مقطوعة عزف"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "الأجواء اليومية",
+    "setlist_1_title": "الأجواء اليومية",
+    "setlist_title_1": "الأجواء اليومية",
+    "daily_1_desc": "وصف الأجواء اليومية!",
+    "setlist_1_desc": "وصف الأجواء اليومية!",
+    "setlist_desc_1": "وصف الأجواء اليومية!",
+    "festival_1_title": "مختارات Festival",
+    "setlist_3_title": "مختارات Festival",
+    "setlist_title_3": "مختارات Festival",
+    "festival_1_desc": "وصف مختارات Festival!",
+    "setlist_3_desc": "وصف مختارات Festival!",
+    "setlist_desc_3": "وصف مختارات Festival!",
+    "setlist_desc_Fortnitemares": "كوابيس Fortnite",
+    "setlist_title_Fortnitemares": "كوابيس Fortnite",
+    "setlist_2_title": "قائمة أغانٍ مميزة",
+    "setlist_title_2": "قائمة أغانٍ مميزة",
+    "spotlight_1_title": "قائمة أغانٍ مميزة",
+    "setlist_2_desc": "وصف قائمة الأغاني المميزة!",
+    "setlist_desc_2": "وصف قائمة الأغاني المميزة!",
+    "spotlight_1_desc": "وصف قائمة الأغاني المميزة!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "قائمة أغاني مخصصة",
+    "ProductMode_DisplayName_Setlist1": "قائمة الأغاني اليومية",
+    "Daily_1_Title": "الأجواء اليومية",
+    "Daily_1_Desc": "وصف الأجواء اليومية من الجدول",
+    "Festival_1_Title": "مختارات Festival",
+    "Festival_1_Desc": "وصف مختارات Festival من الجدول",
+    "Default_Title": "قائمة أغاني Festival",
+    "ProductMode_DisplayName_Setlist3": "قائمة أغانٍ مميزة",
+    "Spotlight_1_Title": "قائمة أغانٍ مميزة",
+    "Spotlight_1_Desc": "وصف قائمة الأغاني المميزة من الجدول",
+    "Default_Desc": "هذا الوصف الافتراضي لقائمة الأغاني!",
+    "ProductMode_DisplayName_Setlist2": "قائمة الأغاني الأسبوعية"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "اسم الفنان",
+    "SparksAvailableFilter": "متاح",
+    "SparksDefaultFilter": "افتراضي",
+    "SparksFeaturedSort": "العناصر المميزة",
+    "SparksFeaturedFilter": "الجديد والمميز",
+    "SparksOwnedFilter": "مملوك",
+    "SparksOwnedSort": "الملكية",
+    "SparksSongSecondaryFilterUnarchivedOnly": "عرض المؤرشف",
+    "SparksAlphaSort": "عنوان الأغنية (من A إلى Z)",
+    "SparksAlphaSortReverse": "عنوان الأغنية (من A إلى Z)"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

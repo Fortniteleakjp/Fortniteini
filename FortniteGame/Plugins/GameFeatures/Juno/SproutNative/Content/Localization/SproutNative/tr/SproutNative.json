@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Oluşturulacak diyalog seçeneklerinin sayısını belirten tam sayı (daha fazlası daha iyidir).",
+    "NulledOption": "KULLANILMIYOR. YOK SAY.",
+    "OptionFive_NPCResponse": "Karakterin tam diyalog yanıtı yalnızca oyuncu \"Beşinci Seçenek\"i seçtiyse (kullanılıyorsa) tetiklenir.",
+    "OptionFour_NPCResponse": "Karakterin tam diyalog yanıtı yalnızca oyuncu \"Dördüncü Seçenek\"i seçtiyse (kullanılıyorsa) tetiklenir.",
+    "OptionOne_NPCResponse": "Karakterin tam diyalog yanıtı yalnızca oyuncu \"Birinci Seçenek\"i seçtiyse (kullanılıyorsa) tetiklenir.",
+    "OptionSix_NPCResponse": "Karakterin tam diyalog yanıtı yalnızca oyuncu \"Altıncı Seçenek\"i seçtiyse (kullanılıyorsa) tetiklenir.",
+    "OptionThree_NPCResponse": "Karakterin tam diyalog yanıtı yalnızca oyuncu \"Üçüncü Seçenek\"i seçtiyse (kullanılıyorsa) tetiklenir.",
+    "OptionTwo_NPCResponse": "Karakterin tam diyalog yanıtı yalnızca oyuncu \"İkinci Seçenek\"i seçtiyse (kullanılıyorsa) tetiklenir.",
+    "MainQuestion": "Karakterin sorduğu ve oyuncunun seçeneklerden birini seçerek cevapladığı temel soru.",
+    "OptionFive": "Oyuncuya sunulan beşinci diyalog seçeneğinin metni. Bu, \"Ana Soru\"ya muhtemel bir cevaptır.",
+    "OptionOne": "Oyuncuya sunulan ilk diyalog seçeneğinin metni. Bu, \"Ana Soru\"ya muhtemel bir cevaptır.",
+    "OptionFour": "Oyuncuya sunulan dördüncü diyalog seçeneğinin metni. Bu, \"Ana Soru\"ya muhtemel bir cevaptır.",
+    "OptionTwo": "Oyuncuya sunulan ikinci diyalog seçeneğinin metni. Bu, \"Ana Soru\"ya muhtemel bir cevaptır.",
+    "OptionSix": "Oyuncuya sunulan altıncı diyalog seçeneğinin metni. Bu, \"Ana Soru\"ya muhtemel bir cevaptır.",
+    "OptionThree": "Oyuncuya sunulan üçüncü diyalog seçeneğinin metni. Bu, \"Ana Soru\"ya muhtemel bir cevaptır."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Seçimini yalnızca diyalog satırına göre yap, karakterin mevcut birincil duygusuna göre değil; ayarlamak istediğin duyguyu seç (Mutlu, Üzgün, Sinirli, Korkmuş, Nötr), hangisinin animasyon oynattığını ve duyguya kuvvet kattığını belirle ancak karakterin hangi birincil duygusu genel olarak yüksekse o seçilecektir. Mutlu his iyimserliği, Üzgün his hüzünlü tavırları, Sinirli his karşı gelmeyi ve Korkmuş his korkuyu etkiler.",
+    "FeelingChangeValue": "Duygu Değişimi'nin yoğunluğunu belirle; duygular hızlıca azaldığı için belirlediğin değer anın duygusal yoğunluğuyla eşleşmelidir: Basit, gündelik sohbetler için 0-20 arasında küçük bir değer kullan (en basit selamlamalar 0'a yakın olabilir). Anlamlı olaylar veya oyuncunun eylemini gerektiren diyaloglar için 20-60 arasında orta düzeyde bir değer kullan. Büyük, önemli anlar için (ihanet, bir görevi tamamlama veya harika bir hediye alma gibi) 60-100 arasında büyük bir değer kullan.",
+    "DialogueDescription": "Gerçekleştirilmesini istediğin diyalog repliğini belirler."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Düşünüyor..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Düşünüyor..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Düşünüyor..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "Eşya Tanımı:\"{0}\", Oyun Özelliği Verileriyle kaydedilmemiş ve konumu tespit edilemeyecek.",
+    "DuplicatePrimaryAssetError": "İki farklı öğe, \"{0}\" ve \"{1}\" olmak üzere aynı ana öğe kimliğini paylaşıyor."
+  }
+}

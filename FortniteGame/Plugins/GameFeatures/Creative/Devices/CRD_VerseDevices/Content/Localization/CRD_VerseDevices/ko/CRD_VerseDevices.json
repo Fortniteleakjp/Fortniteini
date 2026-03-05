@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "사용 안 함",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "사용 안 함",
+    "7F622AD141A596DB6DA4A69D874C2761": "사용",
+    "F635B92B4F6D69AC48F18D8428078A2F": "사용",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "플레이어가 커스텀 글 스크립트를 실행할 수 있습니다.",
+    "0156B90F4D5E75298F886FA5AFC000E7": "특정 글 스크립트를 불러오고 실행합니다.",
+    "12BB4013449DF18D296F85AA4CB849E1": "스크립트 장치",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "스크립트 장치",
+    "4033820A43CE091C31CEF486B399093F": "스크립트 장치"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "게임 중에 스크립트 장치를 보이도록 표시할지에 대한 여부를 설정합니다.",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "게임 시작 시 사용",
+    "VerseDevice_C.VisibleInGame.DisplayName": "게임 내 표시",
+    "VerseDevice_C.Enabled at Game Start.Description": "연결된 스크립트를 게임 중 실행할지 설정합니다."
+  }
+}

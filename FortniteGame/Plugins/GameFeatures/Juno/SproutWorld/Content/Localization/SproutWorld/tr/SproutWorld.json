@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "YAYA GEÇİDİ",
+    "09298F2740CA51082D6CA3991E6A7A43": "Peşin Değer: {val} | %{perc} - {spawned} / {total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "BAŞLA",
+    "30DF69ED4AA5D23EEE62998512640D06": "Hazırlan",
+    "355F7C204406651F83FF48BA624BD7B3": "Profil Aktörü\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "YARIŞ ALANI",
+    "F686194549FCDCDE1602BA87F50B713A": "YARIŞ ALANI",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "YARIŞ BİRAZDAN BAŞLIYOR",
+    "8FC27CE746647B26BBBF9782A019AFD4": "YARIŞ BİRAZDAN BAŞLIYOR",
+    "CA4965C14941F1E3494B759C09C5AA84": "YARIŞ BİRAZDAN BAŞLIYOR"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "Zafer kutlamasına hoş geldin",
+    "RaceWinReward_Body": "Yapı Koyu'nun <b>en hızlısı</> sensin! <emphasis>Ralli yarışını kazandığın</> için tebrikler! Bunu gururla sergile, hak ettin.\n- <name>Drift</>"
+  }
+}

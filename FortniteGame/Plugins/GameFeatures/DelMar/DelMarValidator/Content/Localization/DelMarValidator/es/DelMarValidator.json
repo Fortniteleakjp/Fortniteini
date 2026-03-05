@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Un circuito que no esté cerrado (que no sea un circuito en bucle) y que tenga más de una vuelta debe tener el teletransportador habilitado en el punto de control de línea de meta de RR, y la matriz del siguiente punto de control debe hacer referencia solo al punto de control de línea de salida de RR. {0}",
+    "MultipleFinishLines": "Hay más de un punto de control de RR marcado como \"línea de meta\". Debe haber un solo punto de control de línea de meta en un circuito de RR. {0}",
+    "MultipleStartLines": "Hay más de un punto de control de RR marcado como \"línea de salida\". Debe haber un solo punto de control de línea de salida de RR en un circuito de RR. {0}",
+    "NoFinishLine": "Ningún punto de control de RR está marcado como la \"línea de meta\". Debe haber un solo punto de control de línea de meta en un circuito de RR. {0}",
+    "NoStartLine": "Ningún punto de control de RR está marcado como \"línea de salida\". Debe haber un solo punto de control de línea de salida de RR en un circuito de RR. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Restablece y vuelve a rellenar la variable de los \"siguientes puntos de control\" para solucionar el problema con {0}.{1}",
+    "Loop": "No puedes volver a los puntos de control ya visitados en una vuelta. El dispositivo {0} tiene una matriz de los siguientes puntos de control que hace referencia a {1}; {2} ya hizo referencia a esto antes en la vuelta. {3}",
+    "DoesntOverlapFinishLine": "El circuito principal de RR debe extenderse desde el punto de control de línea de salida de RR hasta el punto de control de línea de meta de RR. En este momento no se cruza con el punto de control de RR marcado como línea de meta. {0}",
+    "DoesntOverlapStartingLine": "El circuito principal de RR debe extenderse desde el punto de control de línea de salida de RR hasta el punto de control de línea de meta de RR. En este momento no se cruza con el punto de control de RR marcado como línea de salida. {0}",
+    "DeadEnd": "{0} no contiene una o más referencias a los \"siguientes puntos de control\" que lleven al punto de control de línea de meta de RR. {1}",
+    "Orphan": "No se ha conectado {0} en la pista."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Hay más de un gestor de carreras de RR con la misma etiqueta de nivel. Los circuitos deben contener un solo gestor de carreras de RR. {0}",
+    "MultipleModeManager": "Hay más de un gestor de carreras de RR colocado. Los circuitos deben contener un solo gestor de carreras de RR. {0}",
+    "MultipleModeManagerForMode": "Hay más de un gestor de carreras de RR.Los circuitos deben contener un solo gestor de carreras de RR.{0}",
+    "NoModeManager": "No hay ningún gestor de carreras de RR colocado. Los circuitos deben contener un solo gestor de carreras de RR. Gestor de carreras competitivas de RR, gestor de carreras de pruebas de velocidad de RR, etc. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Más de un circuito de RR tiene el valor de tipo de circuito configurado como \"principal\". Debe haber un solo circuito principal. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Ningún circuito de RR tiene el valor de tipo de circuito configurado como \"principal\". Debe haber un solo circuito principal. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Cuando los puntos de control de línea de salida y de línea de meta de RR son el mismo punto de control de RR, se considera que el circuito está cerrado y la spline del circuito principal debe tener el ajuste \"Circuito en bucle\" configurado como verdadero en la pestaña relacionada con el dispositivo de la ventana Editor de estilo.{0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} tiene un circuito de tipo \"secundario\", pero se ha configurado como circuito en bucle en la pestaña relacionada con el dispositivo de la ventana Editor de estilo. Solo los circuitos de tipo \"principal\" y \"cosmético\" pueden configurarse como circuito en bucle. {1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0} tiene un nodo final colocado de tal manera que queda conectado al circuito en un punto anterior al primer nodo en la vuelta. Este circuito de RR podría haberse diseñado al revés, en contra del flujo habitual del circuito, O BIEN alguno de los extremos de la spline podría estar demasiado cerca de una sección del circuito por la que no quieres que circulen los jugadores. Selecciona este circuito de RR en la vista en perspectiva y comprueba si las líneas de conexión de esta spline del circuito secundario de RR se conectan al circuito como deberían. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

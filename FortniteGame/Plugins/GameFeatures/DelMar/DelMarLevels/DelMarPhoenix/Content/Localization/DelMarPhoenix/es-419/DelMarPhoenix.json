@@ -1,0 +1,12 @@
+{
+  "": {
+    "44B83EF64E3ECF914A3189897E8AE9F4": "Delirio",
+    "495014B74039223B7F55AD8330B15F67": "Atraviesa los edificios: no se necesita para la jugabilidad, <br>pero quiero encauzar a los jugadores visualmente hacia un espacio más <br>estrecho y que los edificios estén cerca de la pista para que se perciba la velocidad.",
+    "CF19A8864C019B8D550B59BADE13C8B6": "Atajo para volar entre los edificios <br>Quiero que los jugadores vean el espacio que hay entre los edificios <br>y puedan volar y tomar varios atajos para atravesar la ciudad.",
+    "3A380EC545BDE8B6BA2B618D5F58B535": "El paisaje no es un espacio jugable <br>Quiero impedir que los jugadores conduzcan en este terreno <br>(también se ajustarán los volúmenes del tubo OOB y la opción de agregar demostración).",
+    "4A52799741BA2F86D00F808AD7DD601D": "El paisaje no es un espacio jugable <br>Quiero impedir que los jugadores conduzcan en este terreno <br>(también se ajustarán los volúmenes del tubo OOB y la opción de agregar demostración).",
+    "5F9B0F294EACCD80FF256C9B88FBAA53": "El paisaje no es un espacio jugable <br>Quiero impedir que los jugadores conduzcan en este terreno <br>(también se ajustarán los volúmenes del tubo OOB y la opción de agregar demostración).",
+    "B16104B543F62AA2E84658983C8E2F2A": "El paisaje no es un espacio jugable <br>Quiero impedir que los jugadores conduzcan en este terreno <br>(también se ajustarán los volúmenes del tubo OOB y la opción de agregar demostración).",
+    "D509F9B444F464992878918C6B171594": "Atajo de paisaje <br>No quiero que sea completamente plano, <br>sino un poco más parejo que ahora."
+  }
+}

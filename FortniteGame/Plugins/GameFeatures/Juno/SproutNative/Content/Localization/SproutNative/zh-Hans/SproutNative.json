@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "一个整数，代表即将生成的对话选项数量（数量越多越好）。",
+    "NulledOption": "未使用。 忽略。",
+    "OptionFive_NPCResponse": "当玩家选择“选项五”（如有使用）时才会触发的NPC完整对话回应。",
+    "OptionFour_NPCResponse": "当玩家选择“选项四”（如有使用）时才会触发的NPC完整对话回应。",
+    "OptionOne_NPCResponse": "玩家选择“选项一”（如有使用）时才会触发的NPC完整对话回应。",
+    "OptionSix_NPCResponse": "当玩家选择“选项六”（如有使用）时才会触发的NPC完整对话回应。",
+    "OptionThree_NPCResponse": "当玩家选择“选项三”（如有使用）时才会触发的NPC完整对话回应。",
+    "OptionTwo_NPCResponse": "当玩家选择“选项二”（如有使用）时才会触发的NPC完整对话回应。",
+    "MainQuestion": "NPC提出的核心问题，玩家将通过选择选项作答。",
+    "OptionFive": "向玩家展示的第五个对话选项文本。 这是“主要问题”的一个可选回答。",
+    "OptionOne": "向玩家展示的第一个对话选项文本。 这是“主要问题”的一个可选回答。",
+    "OptionFour": "向玩家展示的第四个对话选项文本。 这是“主要问题”的一个可选回答。",
+    "OptionTwo": "向玩家展示的第二个对话选项文本。 这是“主要问题”的一个可选回答。",
+    "OptionSix": "向玩家展示的第六个对话选项文本。 这是“主要问题”的一个可选回答。",
+    "OptionThree": "向玩家展示的第三个对话选项文本。 这是“主要问题”的一个可选回答。"
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "请仅根据当前这句对话的内容（而非依据NPC当前的主要情绪）做出选择。选好要调整的情感类型（快乐、悲伤、愤怒、恐惧、中立）后，系统将播放对应动画，并为对应情绪增加分值。然而，NPC的主要情绪将由得分最高的情感决定：“快乐”影响积极行为；“悲伤”影响忧郁行为；“愤怒”影响对抗行为；“恐惧”影响畏惧行为。",
+    "FeelingChangeValue": "设置情感变化的强度。情绪会迅速消失，因此数值应与当下情境的情感权重相匹配：普通、随意的对话需要0–20的低数值（大多数简单问候更接近0）；要求玩家做出反应的重要事件或对话需要20–60的中数值；重大关键时刻（如背叛、完成任务、获得完美礼物）则需要60–100的高数值。",
+    "DialogueDescription": "待执行的对话台词。"
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "思考中……"
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "思考中……"
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "思考中……"
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "物品定义“{0}”未在游戏功能数据中注册，无法定位。",
+    "DuplicatePrimaryAssetError": "两个不同资源共用同一个主要资源ID“{0}”和“{1}”"
+  }
+}

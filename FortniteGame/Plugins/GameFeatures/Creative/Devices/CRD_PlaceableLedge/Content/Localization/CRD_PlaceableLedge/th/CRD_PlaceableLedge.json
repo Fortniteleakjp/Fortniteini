@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "ขอบที่วางได้ซึ่งจะอนุญาตให้ผู้เล่นกระโดดจากขอบชั้นนั้นได้",
+    "EFF5545942BE6E906FA09492A029002C": "ขอบที่วางได้ซึ่งจะอนุญาตให้ผู้เล่นกระโดดจากขอบชั้นนั้นได้",
+    "39AFB32446569697402D1D827A10908B": "ขอบที่วางได้ซึ่งจะอนุญาตให้ผู้เล่นกระโดดจากขอบชั้นนั้นได้",
+    "1B6B2930405A922826E5319CC16C6F4D": "ปิดการใช้งานเมื่อได้รับจาก",
+    "39698C45412DE4DC33043394E36BCF15": "ปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "เปิดการใช้งานเมื่อได้รับจาก",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "แหวนโลหะ",
+    "7E36FA504A82288E8BFF03B718AAF93E": "ไม่มี",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "ขอบที่วางได้",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "ขอบที่วางได้",
+    "97078157436AE317038738A4DBF33EAE": "คานไม้"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Mesh ที่กำหนดเอง",
+    "Device_PlaceableLedge_C.Enable during game.Description": "กำหนดว่าควรเปิดใช้งานและมองเห็นขอบระหว่างเกมหรือไม่",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "ปิดการใช้งาน",
+    "Device_PlaceableLedge_C.Disable.Description": "ปิดการใช้งานอุปกรณ์",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "เปิดการใช้งาน",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "เปิดใช้งานระหว่างเกม",
+    "Device_PlaceableLedge_C.Enable.Description": "เปิดการใช้งานอุปกรณ์",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "หากเป็นจริง อุปกรณ์นี้จะใช้วงแหวนที่ปีนได้แทนคาน ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "การเลือก Mesh ของขอบ",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "แหวนโลหะ",
+    "ELedgeMeshSelections.None.DisplayName": "ไม่มี",
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "Mesh ที่กำหนดเองเพื่อใช้สำหรับขอบหากตัวเลือก Mesh ถูกตั้งค่าเป็นแบบ \"กำหนดเอง\"",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "คานไม้"
+  }
+}

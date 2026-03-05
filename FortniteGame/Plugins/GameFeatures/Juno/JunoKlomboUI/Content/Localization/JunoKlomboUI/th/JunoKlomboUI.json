@@ -1,0 +1,29 @@
+{
+  "": {
+    "66154818419BE970410E9AA46BE0EC33": "ชายหาด",
+    "3B04DA4A43DB0505833073946BE0E91A": "ยกเลิก",
+    "B3C2115241A075BB82A745A3241666B5": "ชาร์จพลัง",
+    "1BA471C04115C1F647866CA5E30F712E": "ยืนยัน",
+    "FB0CBD6B4DBA137A8A5FF3A049682BF5": "ลง",
+    "8EB05A024E30B03058E9D7B7303C9D4B": "คุณอยากจะเสนอ<ToUpperEmphasis>{ResourceCount} {ResourceName}</>เพิ่มเพื่อเปิดผนึกศาลเจ้าไหม?",
+    "E086D52E4AD9E74DAFFA0B917A5B5F66": "คุณอยากจะเสนอ <ToUpperEmphasis>{ResourceCount}{ResourceName}</> เพื่อเปิดผนึกศาลเจ้าไหม?",
+    "80A47EF643DC7A204A4AE889FEA80E6C": "ซ่อนตัวควบคุม",
+    "F829A6A642555A53297941B1EF96F45A": "ป่า",
+    "3D3A30324F017B24F7B916B6107A218F": "คลอมโบ",
+    "A13BC3C84693A9765D9AACAB19275AF1": "เปิด",
+    "1ACCF6634CB477A4C0A1E280E8BFEC97": "เกาะที่สูญหาย",
+    "1C585D5F410E69692075D5982E22F8BD": "เกาะที่สูญหาย",
+    "67A8FF8A493260B59A645C99BB4584EF": "เกาะที่สูญหาย",
+    "C1E0B58C461632533E3812A1A23D0CCB": "เกาะที่สูญหาย",
+    "49734683475414336C91D8AD73FF1E74": "ภูเขา",
+    "62E2265F42110C238FAC09B9D90C03B7": "ทุ่งหญ้า",
+    "FFDDB40B47F25C29497178ADC3503C49": "แท่นบูชาริฟต์",
+    "15F73FAE47C2EDCB5A34EFB10FAB8DBE": "แสดงการควบคุม",
+    "1746A88A4D0A969F41E3A49CA244DCB0": "สิ่งนี้จะทำลายพิมพ์เขียวออกจากโลก",
+    "FFD701D443F93768BDAD919710452E9B": "สุญญากาศ",
+    "086D18C74CA99D0CF992BC8F5B677819": "ดูดฝุ่น (กดค้าง)",
+    "3BE48D82410FF27B492EFC8DC2299D18": "คุณต้องการเพิ่มอีก <ToUpperEmphasis>{ResourceCount}{ResourceName}</> เพื่อเปิดผนึกศาลเจ้า!",
+    "661E6805481F6738D4DCA0B9D84A6605": "คุณต้องการ <ToUpperEmphasis>{ResourceCount}{ResourceName}</> เพื่อเปิดผนึกศาลเจ้า!",
+    "A4AF39CA42D7D3C1CC703E94555D174C": "คุณต้องการ <ToUpperEmphasis>{ResourceCount}{ResourceName}</> เพื่อเปิดผนึกศาลเจ้า! คุณต้องการถวาย <ToUpperEmphasis>{InventoryCount}{ResourceName}</> ตอนนี้และกลับมาพร้อมกับส่วนที่เหลือไหม?"
+  }
+}

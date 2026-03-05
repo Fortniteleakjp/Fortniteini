@@ -1,0 +1,18 @@
+{
+  "": {
+    "4D29A50144D006462961578BC1311E34": "Piastra a pressione",
+    "53154EE74D5D376B3B686BB88086E6C1": "Piastra attivatrice"
+  },
+  "Juno_UpdateItemData": {
+    "EEABEF0C45391DA995B7CE9DC6D40758": "Un pulsante su cui puoi salire per attivare i canali. Il pulsante deve rimanere abbassato per funzionare! Può essere collegato al canale per attivare l'accensione o lo spegnimento.",
+    "5105BE2640EF2F340BFDACBBD992B887": "Un pulsante su cui puoi salire per attivare i canali. A differenza di una piastra a pressione, il pulsante non deve rimanere abbassato.",
+    "3EE5611646661AE4DCB8A286F3C86C08": "Un interruttore pronto a sostenerti in ogni modo... mentre lo calpesti!",
+    "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Piastra a pressione",
+    "72407BB74A3BB4361BC8138E65BE9602": "Piastra attivatrice",
+    "B007D95344C458E23652D897346A66AE": "Funziona meglio sotto pressione."
+  },
+  "PP_CraftingFormulas_KlomboPhysics": {
+    "PressurePlate_DisplayName": "Piastra a pressione",
+    "TriggerPlate_DisplayName": "Piastra attivatrice"
+  }
+}

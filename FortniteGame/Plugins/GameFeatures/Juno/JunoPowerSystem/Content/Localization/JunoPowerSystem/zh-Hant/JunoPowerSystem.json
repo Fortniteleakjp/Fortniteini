@@ -1,0 +1,29 @@
+{
+  "": {
+    "71A3F0BE4BC401EDE8B47B95349DEB84": "開啟",
+    "720C69504E4939D88E00D99BFCF8A8D0": "開啟",
+    "ED441C00473C8BBFA99707B9326177C1": "電能池",
+    "0B2B80644FCC0FFF6CD779B0D1CF6F58": "載具控制單元",
+    "769BB15949AFF1D8966456BDE44FBFCD": "載具控制單元",
+    "7C8E79484A3A1067EC71B9BB7763EB0E": "載具控制單元",
+    "9A37E02F4EAFB15EB33D378B3616B601": "載具控制單元",
+    "01692D2545D048DD3FFFEE80A8AE31C8": "你需要<EmphA>地面</>上的<EmphA>有機資源</>。"
+  },
+  "Juno_UpdateItemData": {
+    "E34B1A154A9B1F3E569CA4B01FD1009E": "手掌中的一點力量。",
+    "5B6A24294D0D954A8185D480AF6D8096": "大型電能中心",
+    "B691209A4F938FE92EA504BA5290C96B": "中型電能中心",
+    "4DCFA2C2464B8884929713B612BDC204": "放在建物上面並儲放電能池，即可為連接的實用玩具提供電能。儲存著大量電能。",
+    "B44851ED463714FE7F10CFB591926A47": "放在建物上面並儲放電能池，即可為連接的實用玩具提供電能。儲存著一些電能。",
+    "D6C9ABB6498B1D8753B21A838B8CCF03": "放在建物上面並儲放電能池，即可為連接的實用玩具提供電能。儲存著少量電能。",
+    "2EC89F09471DC7BD1A0E199C8F7ED74E": "放進電能中心即可為你的裝置提供電能。",
+    "2DC55E444BCAF9CE3B3BFDA77991163B": "Power Bank",
+    "960679A546697BC052B8F8816BB01087": "小型電能中心"
+  },
+  "PP_CraftingFormulas_PowerSystem": {
+    "PowerCenterLarge_DisplayName": "大型電能中心",
+    "PowerCenterMedium_DisplayName": "中型電能中心",
+    "PowerCell_DisplayName": "電能池",
+    "PowerCenterSmall_DisplayName": "小型電能中心"
+  }
+}

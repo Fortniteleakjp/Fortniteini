@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "楽器を選択しましょう",
+    "E70730D546323455388D0F8862938650": "楽器を選択しましょう",
+    "94FB361A46082147B697C19A318D8F49": "楽曲を選択しましょう",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "ジャムセッションループ",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "ジャムトラック",
+    "LockerJamTracksCategory": "ロッカーのジャムトラック"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "ジャムトラック"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "デイリーのバイブス",
+    "setlist_1_title": "デイリーのバイブス",
+    "setlist_title_1": "デイリーのバイブス",
+    "daily_1_desc": "デイリーのバイブスの説明文です！",
+    "setlist_1_desc": "デイリーのバイブスの説明文です！",
+    "setlist_desc_1": "デイリーのバイブスの説明文です！",
+    "festival_1_title": "Festivalセレクト",
+    "setlist_3_title": "Festivalセレクト",
+    "setlist_title_3": "Festivalセレクト",
+    "festival_1_desc": "Festivalセレクトの説明文！",
+    "setlist_3_desc": "Festivalセレクトの説明文！",
+    "setlist_desc_3": "Festivalセレクトの説明文！",
+    "setlist_desc_Fortnitemares": "フォートナイトメア",
+    "setlist_title_Fortnitemares": "フォートナイトメア",
+    "setlist_2_title": "スポットライトセットリスト",
+    "setlist_title_2": "スポットライトセットリスト",
+    "spotlight_1_title": "スポットライトセットリスト",
+    "setlist_2_desc": "スポットライトセットリストの説明文！",
+    "setlist_desc_2": "スポットライトセットリストの説明文！",
+    "spotlight_1_desc": "スポットライトセットリストの説明文です！"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "カスタムセットリスト",
+    "ProductMode_DisplayName_Setlist1": "デイリーセットリスト",
+    "Daily_1_Title": "デイリーのバイブス",
+    "Daily_1_Desc": "テーブルからのデイリーのバイブスの説明",
+    "Festival_1_Title": "Festivalセレクト",
+    "Festival_1_Desc": "テーブルからのFestivalセレクトの説明",
+    "Default_Title": "Festivalセットリスト",
+    "ProductMode_DisplayName_Setlist3": "スポットライトセットリスト",
+    "Spotlight_1_Title": "スポットライトセットリスト",
+    "Spotlight_1_Desc": "テーブルからのスポットライトセットリストの説明",
+    "Default_Desc": "これはデフォルトのセットリストの説明文です！",
+    "ProductMode_DisplayName_Setlist2": "ウィークリーセットリスト"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "アーティスト名",
+    "SparksAvailableFilter": "利用可能",
+    "SparksDefaultFilter": "デフォルト",
+    "SparksFeaturedSort": "おすすめ",
+    "SparksFeaturedFilter": "新規&おすすめ",
+    "SparksOwnedFilter": "所持中",
+    "SparksOwnedSort": "所有権",
+    "SparksSongSecondaryFilterUnarchivedOnly": "アーカイブ済みを表示",
+    "SparksAlphaSort": "曲名順、A-Z",
+    "SparksAlphaSortReverse": "曲名順、Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

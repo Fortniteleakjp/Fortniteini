@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Reguluje głośność danych dźwiękowych Patchwork na wejściu przed przesłaniem ich do innego urządzenia dźwiękowego Patchwork. Gdy masz do czynienia z mieszanką różnych danych dźwięku na wejściu, wzmocnienie niektórych z nich może zrównoważyć głośność elementów łącznego miksu.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "Reguluje głośność danych dźwiękowych Patchwork na wejściu przed przesłaniem ich do innego urządzenia dźwiękowego Patchwork. Gdy masz do czynienia z mieszanką różnych danych dźwięku na wejściu, wzmocnienie niektórych z nich może zrównoważyć głośność elementów łącznego miksu.",
+    "43690F0542ED4B273A4C72B2627C2936": "Mnoży głośność danych wejściowych dźwięku o wybraną wartość. Wartość 0 wyciszy dźwięk całkowicie. Wartość 2 podwoi głośność dźwięku.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Efekt wzmocnienia Patchwork",
+    "8A62F091464769AD6A2A51B1CECCED46": "Efekt wzmocnienia Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Efekt wzmocnienia Patchwork"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Zezwól na dostęp przewodowy",
+    "EEnabledOnPhase.Always.DisplayName": "Zawsze",
+    "Device_FabricGain_C.AudioIn.DisplayName": "Wejście audio",
+    "Device_FabricGain_C.AudioOut.DisplayName": "Wyjście audio",
+    "EEnabledOnPhase.Create Only.DisplayName": "Tylko podczas tworzenia",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Określa, czy narzędzie Patchwork ma dostęp do kabli wyjścia lub wyjścia w urządzeniu.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "Określa fazy gry, podczas których urządzenie będzie włączone. „Przed grą” zawiera wszystkie fazy przez rozpoczęciem gry (jak lobby przedmeczowe lub odliczanie do początku gry.) To ustawienie nie dotyczy trybu edycji.",
+    "Device_FabricGain_C.Disable.DisplayName": "Wyłącz",
+    "Device_FabricGain_C.Disable.Description": "Wyłącza urządzenie, gdy występuje zdarzenie.",
+    "Device_FabricGain_C.Enable.DisplayName": "Włącz",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "Włączone podczas fazy",
+    "Device_FabricGain_C.Enable.Description": "Włącza urządzenie, gdy występuje zdarzenie.",
+    "Device_FabricGain_C.Gain.DisplayName": "Wzmocnienie",
+    "Device_FabricGain_C.GainIn.DisplayName": "Wejście wzmocnienia",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Tylko podczas gry",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "Informacje prawne",
+    "EEnabledOnPhase.None.DisplayName": "Brak",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "Przy wyłączeniu",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "Przy włączeniu",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "Pamiętaj: Korzystanie z urządzeń dźwiękowych Patchwork jest ograniczone do tworzenia nowych i oryginalnych utworów muzycznych.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "Wejście przycisku zasilania",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Tylko przed grą",
+    "Device_FabricGain_C.AudioOut.Description": "Wybierz cel kabla wyjścia audio tego urządzenia.",
+    "Device_FabricGain_C.AudioIn.Description": "Określa sterowanie portu wejścia audio w tym urządzeniu.",
+    "Device_FabricGain_C.GainIn.Description": "Określa sterowanie pokrętła wzmocnienia w tym urządzeniu.",
+    "Device_FabricGain_C.OnDisabled.Description": "Aktywuje zdarzenie, gdy urządzenie jest wyłączone.",
+    "Device_FabricGain_C.OnEnabled.Description": "Aktywuje zdarzenie, gdy urządzenie jest włączone."
+  }
+}

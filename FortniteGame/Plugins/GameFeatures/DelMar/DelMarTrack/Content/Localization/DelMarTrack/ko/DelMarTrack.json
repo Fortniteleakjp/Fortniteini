@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "레이서가 해당 볼륨에 입장하면 대상 트랙을 활성화합니다. 대개 기하학적 구조가 없는 트랙에 사용됩니다.",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "로켓 레이싱 활성 트랙 볼륨"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "숨겨진 트랙 강제 재생성",
+    "MultipleValues": "다중 값",
+    "Off Track Radius": "오프 트랙 반경",
+    "Use Back Endcap": "후방 엔드캡 사용",
+    "Use Front Endcap": "전방 엔드캡 사용",
+    "Use Stable Roll": "스테이블 롤 사용"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "여러 지점의 모양 변경",
+    "DeleteMultipleNodeConfirmation": "여러 지점을 삭제할까요?",
+    "DeleteMultipleNodes": "여러 지점 삭제",
+    "EnableOOBTube": "OOB 튜브 사용",
+    "MeshCustomizations": "다중 메시 커스터마이징 옵션",
+    "MultipleNodesSelected": "여러 지점 선택됨",
+    "UseStableRollOnMultiple": "다중 스테이블 롤 사용"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "지점 삭제",
+    "DeleteNodeConfirmation": "지점을 삭제할까요?",
+    "MetaDataIndexTitle": "인덱스: {CurrentIndex}",
+    "SingleNodeSelected": "한 지점 선택됨",
+    "SplitNode": "지점에서 분할",
+    "SplitNodeConfirmation": "지점에서 분할할까요?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "장치",
+    "DeviceProperties": "장치 속성",
+    "EditDevice": "장치 편집",
+    "EditTrack": "트랙 편집",
+    "Looping Track": "루프 트랙",
+    "None": "없음",
+    "RoadStyle": "도로 스타일",
+    "SelectSplinePoints": "선택된 스플라인 포인트",
+    "SelectedPoints": "선택된 포인트",
+    "Theme": "테마",
+    "Track": "트랙"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "보조 트랙 연결 불량! 모든 보조 트랙이 기본 또는 보조 트랙에 연결되어 있는지 확인하세요: {1}. 맵: {2}",
+    "NoEndTrackConnection": "보조 트랙이 {0}에 EndTrackConnection이 없습니다. 맵: {1}",
+    "NoStartTrackConnection": "보조 트랙이 {0}에 StartTrackConnection이 없습니다. 맵: {1}",
+    "SecondaryTrackLoops": "보조 트랙 루프 발견! {0} 트랙에서 루프가 발견됐습니다(시작 트랙: {1}). 맵: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "상급자",
+    "AttachToEnd": "끝에 연결",
+    "AttachToStart": "시작에 연결",
+    "Attaching": "붙이기",
+    "ConvertOobTubesToNative_Label": "청사진 OOB 튜브를 네이티브로 변환",
+    "ConvertOobTubesToNative_Tooltip": "기존 청사진 OOB 튜브 전부를 상응하는 네이티브로 변환합니다.",
+    "DelMarTrack": "Del Mar 트랙",
+    "PrintAttachableActors": "연결 가능 액터 출력",
+    "RebuildOobTube": "OOB 튜브 다시 빌드",
+    "DelMarStyleEditor": "스타일 에디터"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "Del Mar 스플라인 컴포넌트 비주얼라이저"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "OOB 튜브",
+    "Rebuild OOB Tube": "OOB 튜브 다시 빌드",
+    "RoadSplineTabTitle": "도로 스플라인",
+    "SelectedSplineTabTitle": "선택된 지점",
+    "SplineLengthTitle": "스플라인 길이: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "선택된 스플라인 포인트",
+    "SelectedPoints": "선택된 포인트"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "뱅크드 로드",
+    "Change Road Shape": "도로 모양 변경",
+    "FlatRoad": "플랫 로드",
+    "HalfPipe": "하프 파이프",
+    "Pipe": "파이프",
+    "RoadShape": "도로 모양",
+    "Tunnel": "터널"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "다음 스플라인 포인트를 현재 선택 목록에 추가합니다.",
+    "SelectAddPrevSplinePointToolTip": "이전 스플라인 포인트를 현재 선택 목록에 추가합니다.",
+    "DeleteMultipleNodeConfirmation": "여러 지점을 삭제할까요?",
+    "SelectDeleteSplinePointToolTip": "현재 선택 목록에 있는 포인트를 삭제합니다.",
+    "SelectAllSplinePointToolTip": "모든 스플라인 포인트를 선택합니다.",
+    "SelectFirstSplinePointToolTip": "첫 스플라인 포인트를 선택합니다.",
+    "SelectLastSplinePointToolTip": "마지막 스플라인 포인트를 선택합니다.",
+    "SelectNextSplinePointToolTip": "다음 스플라인 포인트를 선택합니다.",
+    "SelectPrevSplinePointToolTip": "이전 스플라인 포인트를 선택합니다.",
+    "SplitNodeConfirmation": "선택된 지점에서 분할할까요?",
+    "SelectSplitSplinePointToolTip": "선택한 인덱스에서 노드를 분할합니다.인덱스"
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "선택된 스플라인 포인트를 UseStableRoll 플래그로 토글",
+    "ToggleUseStableRoll": "스테이블 롤 사용"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "활성화할 트랙"
+  }
+}

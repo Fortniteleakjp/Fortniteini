@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "مواد مخصصة لتضاريس Juno"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "تفعيل معادلات مواد تضاريس Juno"
+  },
+  "JunoLandscape": {
+    "Juno": "Juno"
+  }
+}

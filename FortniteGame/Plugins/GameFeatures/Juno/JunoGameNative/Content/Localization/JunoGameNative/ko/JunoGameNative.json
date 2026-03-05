@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "간격: {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}: {1} 외부에서 생성",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "{ItemName} 배치"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0} <Yellow>님이 처치되었습니다</>",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>님이 토템 덕에 목숨을 구했습니다</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "{ItemDisplayText} 선물"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "전부 주세요!",
+    "LNFDropNOfX": "{WantItemCount} {WantItem}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "캠프 참가 {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "수량이 부족하여 거래할 수 없습니다. {WantItem} {WantItemCount}개가 있어야 {SellItem} {SellItemCount}개로 교환할 수 있습니다. \n 번들 {BundleCount}개가 남았습니다.",
+    "TradeXForX": "{WantItem} {WantItemCount}개를 {SellItem} {SellItemCount}개로 교환합니다. \n 번들 {BundleCount}개가 남았습니다."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "완료!",
+    "GetX": "{0} 받기"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>님이 세계에 들어왔습니다</>",
+    "GameMemberDisconnected": "{0} <Yellow>님이 세계를 떠났습니다</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "충전 추가",
+    "ChargeCostUnits": "돌격",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "계속",
+    "JunoSpeech_NoAIRole": "무직",
+    "JunoSpeech_NoBoundCampName": "무명 마을",
+    "JunoSpeech_NoLastUsedGatheringActor": "작업장 없음"
+  },
+  "JunoStorageChest": {
+    "Open": "열기",
+    "Search": "살펴보기"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName}의 마을 {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "오랫동안 움직임이 없어서 퇴장당했습니다. 호스트와의 연결이 끊겼습니다.",
+    "SpawnedWhenPermanentlyDead": "이 클라이언트는 남은 목숨이 없습니다."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "안내 빌드 입장"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "이번 주에는 보유한 콘텐츠를 이 친구의 세계에 마지막으로 배치할 수 있습니다.",
+    "MCPItemPlacedMessageTitleText": "주의! 보유한 콘텐츠",
+    "MCPItemPlacedMessageDescription_NLeft": "이번 주에는 보유한 콘텐츠를 친구들의 세계 {0}개에 추가로 배치할 수 있습니다."
+  }
+}

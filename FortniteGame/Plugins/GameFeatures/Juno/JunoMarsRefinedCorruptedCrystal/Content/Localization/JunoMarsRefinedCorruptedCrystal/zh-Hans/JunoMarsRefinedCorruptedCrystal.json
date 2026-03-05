@@ -1,0 +1,32 @@
+{
+  "": {
+    "2A3DA133450DE1F4E7762EBFC3C8F144": "腐化手斧",
+    "5916DF4549227279E8AD35931888404D": "腐化十字弓",
+    "9875D91146C4D8408E03BAAEFDF0BB3F": "腐化双匕首",
+    "F32A2C4A460D4C6BC10DD7BD49D31F18": "腐化重锤",
+    "9695AF99464F0C9FEC50C3BE822C43AF": "腐化砍刀",
+    "76AEC6DD4CF9D18F7BFDC9BCFAEAA530": "腐化镐",
+    "69115BA249B1068F42E315B62BF89A6C": "腐化等离子手枪",
+    "8CC4CDD3405EAA085765AAB2E319DF1D": "腐化矛",
+    "934302ED42B3386302EC7F9B113AC1FA": "腐化剑",
+    "4F041E594D370BBE74E3BDA4A7A4BBAF": "使用<emphA>切割腐化水晶</>打造一件武器。",
+    "4709780A4E901F20D82492ADE6339182": "使用<text color=\"E2FCFFFF\">切割腐化水晶</>制作一件武器",
+    "C000930E48E063391FFEDFA82B24B571": "闪避动作每隔几秒就会召唤能追踪敌人的面具。面具碰到敌人后就会爆炸。",
+    "1698974C46A90E20604D21BB850149FE": "魔塔之怒IV",
+    "96F30C124D97236C1039428F0ED3FB2C": "魔塔之怒IV",
+    "9AF379BD41AED1FFBDBC898B76D03198": "魔塔全启迪。",
+    "BD73B5584E28FBB049C627BCB4B934BA": "你需要一颗<EmphA>腐化水晶</>和一台<EmphA>宝石切割机</>。",
+    "19CC8E6C4A0EBC05523D13B480BC3BFA": "制作资源"
+  },
+  "Juno_GameplayItemCraftingFormulas_CutCorruptedCrystalMaterial": {
+    "CutCorruptedCrystal_DisplayName": "切割腐化水晶",
+    "EssenceOfSpireWrathIV_DisplayName": "魔塔之怒IV"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "A623134E47F36B4867D2559117996AF6": "切割腐化水晶"
+  },
+  "Juno_UpdateItemData": {
+    "89238479458E64E9C358C986EFA5832A": "当心，锋利得吓人。",
+    "6BA4926A4017F26CA4BA1E9607643091": "用来制作轻型武器。用腐化水晶加工而成。"
+  }
+}

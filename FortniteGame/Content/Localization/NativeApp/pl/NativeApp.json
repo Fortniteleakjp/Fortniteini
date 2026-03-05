@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} – kopiuj"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Podwójna likwidacja",
+    "Down": "Powalenie",
+    "DebugLoadContentFail": "Pobieranie nie powiodło się",
+    "Eliminated": "Odniesione likwidacje",
+    "Elimination": "Likwidacja",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Wyjdź z sesji",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "Przejście do menu głównego nie jest dozwolone podczas sesji mobilnej UEFN.",
+    "UEFNMobileSessionMainMenuError_Title": "Sesja mobilna",
+    "MultiElimination": "Multi-likwidacja",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Coś poszło nie tak. Sesja mobilna zostanie zakończona",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Coś poszło nie tak: {Reason}. Sesja mobilna zostanie zakończona",
+    "TripleElimination": "Potrójna likwidacja",
+    "Win": "Zwycięstwo",
+    "UEFNMobileSessionMainMenu_MessageBody": "Nie możesz wejść do Lobby Fortnite w trakcie sesji mobilnej. Czy chcesz wyjść?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Podczas odtwarzania powtórki wystąpił błąd."
+  },
+  "SpriteCategory": {
+    "Lighting": "Oświetlenie"
+  }
+}

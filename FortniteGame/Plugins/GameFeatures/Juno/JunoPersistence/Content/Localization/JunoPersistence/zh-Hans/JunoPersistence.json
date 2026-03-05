@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "检索玩家数据时出错"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "可用重试额度耗尽，未能刷新持久性"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "检索可用检查点失败",
+    "FailedToSetInitialCheckpointErrorMessage": "无法设置初始检查点",
+    "InvalidJunoWorldErrorMessage": "尝试初始化检查点处理程序时Juno世界无效",
+    "InvalidJunoRootPlayspaceErrorMessage": "尝试初始化检查点处理程序时根游戏空间无效"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "尝试在玩家持久化已初始化后再次初始化",
+    "InvalidPlayerPersistenceStorageErrorMessage": "无效的玩家永久存储",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "无法创建检查点处理程序"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "尝试使用无效玩家ID反初始化玩家数据持久化",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "尝试多次初始化玩家数据持久化",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "尝试使用无效玩家ID初始化玩家数据持久化",
+    "StalePlayerPersistenceHandlerErrorMessage": "完成初始化后玩家数据持久化处理程序失效",
+    "UnableToCreatePlayerPersistenceErrorMessage": "无法创建玩家数据持久化处理程序",
+    "InvalidPlayerPersistenceStorageErrorMessage": "无法获取有效的玩家永久存储"
+  }
+}

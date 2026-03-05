@@ -1,0 +1,32 @@
+{
+  "DelMarValidator_Checkpoints": {
+    "IncorrectTeleportSetup": "Dönmeyen (döngüsel olmayan) ve bir turdan uzun olan bir pistin Bitiş Çizgisi RR Kontrol Noktasında Işınlanma etkinleştirilmiş olmalı ve Sonraki Kontrol Noktası dizisi yalnızca Başlangıç Çizgisi RR Kontrol Noktana başvurmalıdır. {0}",
+    "MultipleFinishLines": "Birden fazla RR Kontrol Noktası \"Bitiş Çizgisi\" olarak işaretlenmiş. Bir RR Pistinde tam olarak bir adet Bitiş Çizgisi RR Kontrol Noktası olmalıdır. {0}",
+    "MultipleStartLines": "Birden fazla RR Kontrol Noktası \"Başlangıç Çizgisi\" olarak işaretlenmiş. Bir RR Pistinde tam olarak bir adet Başlangıç Çizgisi RR Kontrol Noktası olmalıdır. {0}",
+    "NoFinishLine": "Hiçbir RR Kontrol Noktası \"Bitiş Çizgisi\" olarak işaretlenmemiş. Bir RR Pistinde tam olarak bir adet Bitiş Çizgisi RR Kontrol Noktası olmalıdır. {0}",
+    "NoStartLine": "Hiçbir RR Kontrol Noktası \"Başlangıç Çizgisi\" olarak işaretlenmemiş. Bir RR Pistinde tam olarak bir adet Başlangıç Çizgisi RR Kontrol Noktası olmalıdır. {0}",
+    "Checkpoint has invalid Next Checkpoint": "Düzeltmek üzere {0} için \"Sonraki Kontrol Noktaları\"nı sıfırla ve yeniden yap. {1}",
+    "Loop": "Bir tur içinde zaten ziyaret edilmiş kontrol noktalarını döngüye tekrar ekleyemezsin. {0} cihazı, {1} öğesine başvuran bir Sonraki Kontrol Noktaları dizisine sahiptir. Bu öğeye, turun önceki bir noktasında {2} başvurmuştu. {3}",
+    "DoesntOverlapFinishLine": "Birincil RR Pistin, Başlangıç Çizgisi RR Kontrol Noktandan Bitiş Çizgisi RR Kontrol Noktana kadar uzanmalıdır. Şu anda Bitiş Çizgin olarak işaretlenmiş RR Kontrol Noktan ile kesişmiyor. {0}",
+    "DoesntOverlapStartingLine": "Birincil RR Pistin, Başlangıç Çizgisi RR Kontrol Noktandan Bitiş Çizgisi RR Kontrol Noktana kadar uzanmalıdır. Şu anda Başlangıç Çizgin olarak işaretlenmiş RR Kontrol Noktan ile kesişmiyor. {0}",
+    "DeadEnd": "{0}, sonunda Bitiş Çizgisi RR Kontrol Noktasına giden bir veya daha fazla \"Sonraki Kontrol Noktaları\" başvurusu içermiyor. {1}",
+    "Orphan": "{0} pistte bağlı değil."
+  },
+  "DelMarValidator_ModeManager": {
+    "MultipleModeManagerForModeWithLevelTag": "Aynı seviye etiketiyle birden fazla RR Yarış Yöneticisi yerleştirilmiş. Pistler tam olarak bir adet RR Yarış Yöneticisi içermelidir. {0}",
+    "MultipleModeManager": "Birden fazla RR Yarış Yöneticisi yerleştirilmiş. Pistler tam olarak bir adet RR Yarış Yöneticisi içermelidir. {0}",
+    "MultipleModeManagerForMode": "Birden fazla RR Yarış Yöneticisi yerleştirilmiş. Pistler tam olarak bir adet RR Yarış Yöneticisi içermelidir. {0}",
+    "NoModeManager": "Yerleştirilmiş bir RR Yarış Yöneticisi yok. Pistler tam olarak bir adet RR Yarış Yöneticisi içermelidir. RR Rekabetçi Yarış Yöneticisi, RR Hız Turu Yarış Yöneticisi vb. {0}"
+  },
+  "DelMarValidator_Tracks": {
+    "DelMarMapCheck_MultiplePrimaryTracks": "Birden fazla RR Pistinin Pist Türü değeri \"Birincil\" olarak ayarlanmış. Tam olarak bir adet Birincil Pist olmalıdır. {0}",
+    "DelMarMapCheck_NoPrimaryTrack": "Hiçbir RR Pistinin Pist Türü değeri \"Birincil\" olarak ayarlanmamış. Tam olarak bir adet Birincil Pist olmalıdır. {0}",
+    "DelMarMapCheck_PrimaryCircuitTrackDoesntLoop": "Başlangıç ve Bitiş Çizgisi RR Kontrol Noktaların aynı RR Kontrol Noktası olduğu zaman pist bir döngü olarak kabul edilir ve Stil Editörü penceresinin Cihaz sekmesinde, Birincil Pist Eğrinin \"Döngülü Pist\" seçeneği doğru olarak ayarlanmalıdır.{0}",
+    "DelMarMapCheck_SecondaryClosedLoop": "{0} \"İkincil\" Pist Türünde olmasına rağmen Stil Editörü penceresinin Cihaz sekmesinde Döngülü Pist olarak ayarlanmış.Yalnızca \"Birincil\" ve \"Kozmetik\" Pist Türleri Döngülü Pist olarak ayarlanabilir.{1}",
+    "DelMarMapCheck_AuthoredBackwards": "{0}, turun ilk düğümden daha erken bir noktasında piste bağlanan bir son düğüm yerleşimine sahiptir. Bu RR Pisti, pistin akışına ters olarak geriye doğru oluşturulabilir VEYA eğrinin iki ucundan biri, pistte oyuncuların gitmesini amaçlamadığın bir kısma çok yakın olabilir. Bu RR Pistini perspektif görünümünde seç ve bu İkincil RR Pisti eğrisinin bağlantı çizgilerinin, pistine beklenen biçimde bağlanıp bağlanmadığını kontrol et. {1}"
+  },
+  "DelMarWorldValidation": {
+    "AssetCheck_Message_Error": "{CustomMessage}. ({ValidatorName})",
+    "AssetCheck_Message_Warning": "{CustomMessage}. ({ValidatorName})"
+  }
+}

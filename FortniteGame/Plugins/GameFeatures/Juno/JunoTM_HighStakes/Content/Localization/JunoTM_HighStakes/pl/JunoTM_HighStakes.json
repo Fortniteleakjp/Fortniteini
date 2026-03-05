@@ -1,0 +1,12 @@
+{
+  "": {
+    "2AE5912049F8E030DD426997414A7F38": "Trofeum Suchej Doliny",
+    "0D7D54204AA280F576939C85BB93FB71": "Trofeum Mroźnych Ziem",
+    "842747D74DC9DCD7560A57875CC14DCF": "Trofeum Łąk"
+  },
+  "JunoTM_HighStakes_CraftingFormulas": {
+    "JBID_Trophy_Storm_Desert_A_DisplayName": "Trofeum Suchej Doliny",
+    "JBID_Trophy_Storm_Snow_A_DisplayName": "Trofeum Mroźnych Ziem",
+    "JBID_Trophy_Storm_Grassland_A_DisplayName": "Trofeum Łąk"
+  }
+}

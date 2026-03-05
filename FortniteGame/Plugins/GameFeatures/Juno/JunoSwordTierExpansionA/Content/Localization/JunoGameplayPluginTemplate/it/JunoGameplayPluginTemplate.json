@@ -1,0 +1,37 @@
+{
+  "": {
+    "5446F2D2417D38A6EDFC49B0D96B298E": "Una spada leggendaria. Ideale per il combattimento in mischia contro i nemici.",
+    "A5C5C211434AA2839F6672858D879834": "Nessuna penna ferisce più di questa spada.",
+    "95421B5F4BD58E6E0AEB56B340AD756C": "Spada",
+    "691AD6104B64E9B53B152A932C3A7948": "Ti servirà una <EmphA>segheria</>.",
+    "AF59C13740BF3D246EFE6894041683CA": "Ti servirà una <EmphA>segheria</>.",
+    "D46F690B44A43726C9409EBBF35FBD5A": "Ti servirà una <EmphA>segheria</>.",
+    "E3E111A0471AFDF9BD27CAA33A5EFF11": "Ti servirà una <EmphA>segheria</>."
+  },
+  "Juno_BoostedItemNames_SwordTierExpansionA": {
+    "Sword_T5_T5_Honed_Bamboo_DisplayName": "Spada di bambù",
+    "Sword_T6_T6_Honed_Bamboo_DisplayName": "Spada di bambù",
+    "Sword_T7_T7_Honed_Bamboo_DisplayName": "Spada di bambù",
+    "Sword_T8_T8_Honed_Bamboo_DisplayName": "Spada di bambù",
+    "Sword_T7_T7_Honed_Dragon_Opal_DisplayName": "Spada di opale di drago",
+    "Sword_T8_T8_Honed_Dragon_Opal_DisplayName": "Spada di opale di drago",
+    "Sword_T5_T5_Honed_Kozustone_DisplayName": "Spada di pietra Kozu",
+    "Sword_T6_T6_Honed_Kozustone_DisplayName": "Spada di pietra Kozu",
+    "Sword_T7_T7_Honed_Kozustone_DisplayName": "Spada di pietra Kozu",
+    "Sword_T8_T8_Honed_Kozustone_DisplayName": "Spada di pietra Kozu",
+    "Sword_T6_T6_Honed_Steel_DisplayName": "Spada d'acciaio",
+    "Sword_T7_T7_Honed_Steel_DisplayName": "Spada d'acciaio",
+    "Sword_T8_T8_Honed_Steel_DisplayName": "Spada d'acciaio"
+  },
+  "Juno_UpdateItemData": {
+    "9D2274024920F96BB5B5DAB3D6499928": "Una spada rara. Ideale per il combattimento in mischia contro i nemici.",
+    "AAEBFFD3470AB1F929C9A0AAF1E46032": "I tuoi nemici cammineranno sul filo di lama.",
+    "CAD24296497618FE393B79B375B3D198": "Una spada epica. Ideale per il combattimento in mischia contro i nemici.",
+    "7F0D841F4798D9DA06E8CB9880022753": "Una spada non comune. Ideale per il combattimento in mischia contro i nemici.",
+    "0F1190C84ED9FAA2BB8F609189C8FBA6": "Molto meglio di un comune coltello.",
+    "30D0CC564A676E401A2AF193711F5A03": "Cala la spada come se sferrassi un colpo dal cielo.",
+    "AF6FA11A4F8DFCD10CC859B46655BB2A": "Spada",
+    "C9A902E24804F529DDB98399903E1F9F": "Spada",
+    "F07655364C7958D6AB473B8B9ABA433A": "Spada"
+  }
+}

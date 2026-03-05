@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "Arbeitsspeicher niedrig",
+    "Return to main menu reason (default)": "Arbeitsspeicher erreicht kritische Schwelle – Sitzung wurde beendet.\n Dein letzter Fortschritt wurde gesichert! Kehre in den Kreativmodus zurück und setze das Spiel fort, wo du aufgehört hattest.",
+    "Warning toast description (default)": "Sitzung endet möglicherweise plötzlich."
+  }
+}

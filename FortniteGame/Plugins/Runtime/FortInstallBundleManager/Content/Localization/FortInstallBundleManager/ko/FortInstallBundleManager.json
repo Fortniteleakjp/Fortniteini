@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "거의 끝났습니다! 앱을 열어 완료하세요.",
+    "DownloadCompleteNotification.Title": "설치를 완료해 플레이하세요",
+    "DownloadCompleteNotification.ActionText": "설치",
+    "InstallBundleSourceValkyrieDownloadedFmt": "설치 번들 소스 게임 커스텀이 {0}|hpp(을,를) 다운로드함",
+    "InstallBundleSourceValkyrieInstalledFmt": "설치 번들 소스 게임 커스텀이 {0}|hpp(을,를) 설치함",
+    "Simulate_BuildVerify_Error": "설치 파일이 손상되었습니다. 지원센터에 문의하시기 바랍니다."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "": {
+    "6BEB205E41DDFB69DF5D79AFD6533115": "İçerik Mağazası Portalı",
+    "A636CB9048F6D10A27FAE2ACA3336261": "İçerik Mağazası Portalı",
+    "ECA01A1C4D96960EA267CEA75C458F15": "İçerik Mağazası Portalı",
+    "F0DA7B7A455C002838011E9950021E4F": "İçerik Mağazası Portalı",
+    "F6BA046441D88E68E7317EB0D779DDEE": "İçerik Mağazası Portalı",
+    "563DE2EB4787A3667F7057ABCC0B4A5E": "Mağazayı Aç",
+    "DCE39BA345F949F3DDB3568FFE7C9E4C": "Dükkânı Aç",
+    "29CA50DA4B559F49BA6637B93C6BFB85": "Şuradan Alındığında Mağazayı Aç:",
+    "00D5A9E24BFF570550C50BA4FF70D7E7": "Mağazayı Aç: {Item}",
+    "36208DA84E9D4CFC5014F39A628DFEB4": "Mağazayı Aç: {Item}",
+    "1FACE34B4982C5A6E5DB33B021C46C57": "Seçili kanaldan alındığında tetikleyen oyuncuda mağazayı açar.",
+    "18E3F3AD48251A9142A05A8349684E89": "Bu cihaz etkinleştirildiğinde içerik mağazasını açar.",
+    "50CFF36649ED7DDCCCF6A89AEB6D82EB": "Bu cihaz etkinleştirildiğinde içerik mağazasını açar.",
+    "79656CFD409EE4E11B68988ACDCA8585": "Bu cihaz etkinleştirildiğinde içerik mağazasını açar.",
+    "7F3C48984DFF76451EC7A7A2B7A43A60": "Bu cihaz etkinleştirildiğinde içerik mağazasını açar.",
+    "FEEED2394D93DEFF415BDBA65ADE37D6": "Bu cihaz etkinleştirildiğinde içerik mağazasını açar."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Her zaman",
+    "EEnabledOnPhase.Create Only.DisplayName": "Yalnızca Oluşturma",
+    "Device_ItemShop_V2_C.EnabledOnPhase.Description": "Cihazın etkinleştirileceği oyun aşamalarını belirler. Oyun öncesi, oyunun başlamasından önceki tüm aşamaları (Öne Çıkan Adalar'da \"oyuncular bekleniyor\" lobisi ve oyun başlangıcı geri sayımını) içerir.",
+    "Device_ItemShop_V2_C.InteractTime.Description": "Cihazı çalıştırmak için gereken etkileşim süresini belirler.",
+    "Device_ItemShop_V2_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "Device_Store_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "Device_Store_C.Disable.Description": "Seçilen kanaldan sinyal alınca cihazı devre dışı bırakır.",
+    "Device_ItemShop_V2_C.Disable.Description": "Cihazı devre dışı bırakır.",
+    "Device_ItemShop_V2_C.Enable.DisplayName": "Etkinleştir",
+    "Device_Store_C.Enable.DisplayName": "Etkinleştir",
+    "Device_ItemShop_V2_C.EnabledOnPhase.DisplayName": "Aşama Sırasında Etkin:",
+    "Device_Store_C.Enable.Description": "Seçilen kanaldan sinyal alınca cihazı etkinleştirir.",
+    "Device_ItemShop_V2_C.Enable.Description": "Cihazı etkinleştirir.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Sadece Oynanış",
+    "Device_ItemShop_V2_C.InteractTime.DisplayName": "Etkileşim Süresi",
+    "EEnabledOnPhase.None.DisplayName": "Hiçbiri",
+    "Device_Store_C.OpenStore.DisplayName": "Mağazayı Aç",
+    "Device_Store_C.OpenStore.Description": "Seçili kanaldan alındığında tetikleyen oyuncuda mağazayı açar.",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Sadece Oyun Öncesi"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Añadir a la cola de terminar partida cuando se recibe",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Fuerza a todos los jugadores de una sesión en la isla a emparejarse.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Transmisión de la partida",
+    "D6605AA24CE9BB51B09055B216381F62": "Transmisión de la partida",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Código de isla",
+    "4906BC4442B704E71E23E9B9A01FF370": "Portal de niveles",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Establece el código de isla al que dirigirá el portal de emparejamiento.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Transferir cantidad cuando se recibe"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Deshabilitar cuando se recibe",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Habilitar cuando se recibe",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Hacer cola al terminar partida",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Transferir cantidad"
+  }
+}

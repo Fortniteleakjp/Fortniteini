@@ -1,0 +1,24 @@
+{
+  "": {
+    "173E48304BB325DB7FCF47BAC766B62A": "Bölüm Yükleme Cihazı",
+    "B994BE1B42B67ED6AE1EDDB2CECBE770": "Bölüm Yükleme Cihazı",
+    "6290D58B473E479F05752B83814E9464": "Bölüm Yükleme Cihazı, Bölüm Aşaması Cihazı'nda oluşturulan bölümleri yükler ve bunları, diğer Bölüm Yükleme Cihazlarının üzeri de dahil olmak üzere adanda istediğin yere yerleştirebilmeni ve çevirebilmeni sağlar.",
+    "8B0A90554F1A9810AB370EA8E2536C5E": "Bölüm Yükleme Cihazı, Bölüm Aşaması Cihazı'nda oluşturulan bölümleri yükler ve bunları, diğer Bölüm Yükleme Cihazlarının üzeri de dahil olmak üzere adanda istediğin yere yerleştirebilmeni ve çevirebilmeni sağlar.",
+    "C94582E540DF7EE0C6FC639E503D0A8E": "Bölüm Yükleme Cihazı, Bölüm Aşaması Cihazı'nda oluşturulan bölümleri yükler ve bunları, diğer Bölüm Yükleme Cihazlarının üzeri de dahil olmak üzere adanda istediğin yere yerleştirebilmeni ve çevirebilmeni sağlar."
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiket"
+  },
+  "UserOptionDefinition": {
+    "BP_LevelLoaderDevice_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "BP_LevelLoaderDevice_C.Disable.Description": "Seçilen kanaldan sinyal alınca cihazı devre dışı bırakır.",
+    "BP_LevelLoaderDevice_C.Enable.DisplayName": "Etkinleştir",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "Oyun Başlangıcında Etkinleştir",
+    "BP_LevelLoaderDevice_C.Enable.Description": "Seçilen kanaldan sinyal alınca cihazı etkinleştirir.",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "Bölüm Aşaması Adı",
+    "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "Yüklenecek bölümün adını belirler.",
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "BP_LevelLoaderDevice_C.bEnableAtGameStart.Description": "Bu cihazın oyun başladığında etkin olup olmayacağını belirler."
+  }
+}

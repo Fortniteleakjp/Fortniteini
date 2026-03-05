@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Âm Lượng Đám Đông",
+    "CBA0009043A15E05890AC68F8056B814": "Âm Lượng Đám Đông",
+    "E1067A64427AA66B822488B1D608CD94": "Âm Lượng Đám Đông",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Tắt",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BFBBEB534C644E161C3AE491501828F6": "Bật",
+    "650644994C28CFD38E31829A56E3464F": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Tạo ra một đám đông để reo hò cổ vũ cho bạn.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Tạo ra một đám đông để reo hò cổ vũ cho bạn.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Tạo ra một đám đông để reo hò cổ vũ cho bạn.",
+    "7EDB5C9C49AC528E948643B2245928A7": "Thiết bị này cho phép bạn thiết lập một đám đông",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=Ô, other=Ô)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=Ô, other=Ô)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=Ô, other=Ô)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Luôn luôn",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Hiệu Chỉnh Nhân Vật",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Độ Ngẫu Nhiên Góc Nhân Vật",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Độ Ngẫu Nhiên Mức Độ Nhân Vật",
+    "EEnabledOnPhase.Create Only.DisplayName": "Chỉ Tạo",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Mật Độ Đám Đông",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Xác định thiết bị sẽ được bật trong suốt giai đoạn nào của trận đấu. Trước Trận Đấu bao gồm tất cả các giai đoạn trước khi Trận Đấu bắt đầu (sảnh chờ người chơi trên Đảo Nổi Bật và Đếm Ngược Thời Gian Bắt Đầu Trận Đấu).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Tắt",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Bật",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Bật Trong Suốt Giai Đoạn",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Chỉ Trong Trận Đấu",
+    "EEnabledOnPhase.None.DisplayName": "Không",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Chỉ Có Trước Trận",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Thiết lập mức độ đông đúc của đám đông.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Thiết lập độ chính xác trong việc căn chỉnh các thành viên đám đông theo lưới.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Thiết lập mức độ ngẫu nhiên trong kích thước các thành viên đám đông.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Thiết lập mức độ ngẫu nhiên trong hướng các thành viên đám đông hướng mặt.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Thiết lập độ sâu của vùng trong ô.",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Thiết lập chiều cao của vùng trong ô.",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Thiết lập chiều rộng của vùng trong ô xếp.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Độ Sâu Vùng",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Chiều Cao Vùng",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Chiều Rộng Vùng"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "": {
+    "B888A5E744CF9026AEFB41912100123B": "Một lưới xương để phát một hoạt ảnh",
+    "477037CE4A29EB50C5A6E5B004123435": "Lưới Hoạt Ảnh",
+    "E65BCB6841E0CA2F0E8533A3B43DA40B": "Lưới Hoạt Ảnh",
+    "9D01ABCB4C57956061A5B8BD095D856B": "Áp dụng hoạt ảnh cho một lưới xương",
+    "DC1C8C244DC0AA0F0E34098EEFC8C932": "Tạm Dừng Hoạt Ảnh",
+    "1465D4B7485AFA39A4A0D69816DCDAD2": "Tạm dừng hoạt ảnh.",
+    "ED9506B7426508B1B97535AF002D07C9": "Phát Hoạt Ảnh",
+    "4E6399154374E72C93B24A9FB9E86176": "Phát Ngược Hoạt Ảnh",
+    "06C0CF2E41126953274F7B964A00DAE4": "Đang chơi",
+    "971EF1A7489930888171E8A553647F92": "Phát ngược hoạt ảnh.",
+    "070EC9F24AA5A04C8C685397F8E618AF": "Phát hoạt ảnh.",
+    "331E6A7840E4CFF073DE4C8FE9442FA2": "Phát ngược",
+    "EA5AABFD4E954596EAA9C985D0509E7D": "Đã Dừng Lại"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "Device_AnimatedMesh_C.Animation.DisplayName": "Hoạt Ảnh",
+    "Device_AnimatedMesh_C.InitialState.Description": "Xác định xem hoạt ảnh có được phát từ đầu không.",
+    "Device_AnimatedMesh_C.InitialState.DisplayName": "Trạng Thái Ban Đầu",
+    "Device_AnimatedMesh_C.Loop.DisplayName": "Lặp Lại",
+    "Device_AnimatedMesh_C.PlayRate.Description": "Hệ số dùng để điều khiển tốc độ lặp lại của hoạt ảnh.",
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "Device_AnimatedMesh_C.Pause.DisplayName": "Tạm Dừng",
+    "Device_AnimatedMesh_C.Pause.Description": "Tạm dừng hoạt ảnh.",
+    "Device_AnimatedMesh_C.Play.DisplayName": "Phát",
+    "Device_AnimatedMesh_C.PlayRate.DisplayName": "Tốc Độ Phát",
+    "EAnimationPlayState.Playing.DisplayName": "Đang chơi",
+    "Device_AnimatedMesh_C.Reverse.Description": "Phát ngược hoạt ảnh.",
+    "Device_AnimatedMesh_C.Play.Description": "Phát hoạt ảnh.",
+    "Device_AnimatedMesh_C.Reverse.DisplayName": "Đảo Ngược",
+    "EAnimationPlayState.Reversing.DisplayName": "Phát ngược",
+    "Device_AnimatedMesh_C.SkeletalMesh.DisplayName": "Lưới Xương",
+    "EAnimationPlayState.Stopped.DisplayName": "Đã Dừng Lại",
+    "Device_AnimatedMesh_C.Animation.Description": "Hoạt ảnh sẽ phát.",
+    "Device_AnimatedMesh_C.SkeletalMesh.Description": "Lưới xương để phát hoạt ảnh lên.",
+    "Device_AnimatedMesh_C.Loop.Description": "Xác định xem hoạt ảnh có tự động lặp lại khi phát đến cuối hay không."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "": {
+    "589BC8C545D9D766C0F02DAA67AF848E": "綁上大氣球，一飛沖天！",
+    "46C7F27B4A5570C7071636BB7EF37E8D": "準備大口充氣。",
+    "2FB1FBF64A8E9BE1A2F1C7BA5B611584": "準備充氣。",
+    "644DE9964A9EB1D0E32D6CB2C74B7685": "只要能飄就行。這次交給氣球吧。 "
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "F022CD50420DB9CA0BC872AA6D67BBB5": "未充氣的大氣球，可以連接通道。可透過通道控制來觸發氣球使之充氣升空。",
+    "812DFE244981B3CEE5E8E0ABBA8D2940": "未充氣的小氣球，可以連接通道。可透過通道控制來觸發氣球使之充氣升空。",
+    "2AA87E9E40F4F4D87E02BBB60A2F4230": "可收放的大氣球",
+    "7988ADD74C897E641532648A25A6DF3C": "可收放的小氣球",
+    "B57EF9BD4D82A829083838A7E5BE2085": "為現有結構和動態物件綁上大氣球。",
+    "B3815C7846E7DD14D5367CAC8F99EB48": "為現有結構和動態物件綁上小氣球。",
+    "000401864743389FEA88AFA4F5CC7938": "大氣球",
+    "1618D3CC4CCEF8458C2DE4AD9DF7E809": "小氣球"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "ActivatedBalloon_DisplayName": "可收放氣球",
+    "ActivatedBalloonLarge_DisplayName": "可收放氣球 - 大",
+    "BalloonLarge_DisplayName": "大氣球",
+    "Balloon_DisplayName": "小氣球"
+  }
+}

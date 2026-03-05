@@ -1,0 +1,47 @@
+{
+  "": {
+    "232F904440BC3A033E6337B5E384F2B2": "Scena d'azione. Nun-chak! Si gira!",
+    "FB3BEC4C4A482936DC56C4A7228B3876": "Nunchaku comuni. Costringi i nemici alla resa con questa fulminea arma ninja.",
+    "0B3F3BB441C766F5706B0AA7A8140ABE": "Completa il primo incarico sull'<img id=\"IcoNinja\"/>isola di Ninjago",
+    "4CF5389B41A649CD8B0F918DAEB91E19": "Completa il primo incarico sull'<img id=\"IcoNinja\"/>isola di Ninjago",
+    "B20C6C8243CFAC9DFA03DBA43883B1DA": "Completa il primo incarico sull'<img id=\"IcoNinja\"/>isola di Ninjago",
+    "B74E7099443434ADC72C36AC120AFEEA": "Completa il primo incarico sull'<img id=\"IcoNinja\"/>isola di Ninjago",
+    "E27A5B174002E4206237A1A1D3C8EAD5": "Completa il primo incarico sull'<img id=\"IcoNinja\"/>isola di Ninjago",
+    "E1FCA581470D5785BCA1A787D04E70E5": "Nunchaku epici. Costringi i nemici alla resa con questa fulminea arma ninja.",
+    "D3D9014F439FF82E3B9D6095C155C21D": "Non ti accorgerai nemmeno del colpo!",
+    "BE121C264FE8A591F65ED6ADBE534E1D": "Impugnature",
+    "12315A064273B463455A56BC9B5D45B4": "Il nemico ha ri-nunchaku a combattere.",
+    "8DE8D2DC4E9F619F338D6A80F8676FE5": "Nunchaku leggendari. Costringi i nemici alla resa con questa fulminea arma ninja.",
+    "A92E48D24F6D8211BBA2588305AB7B07": "Catena",
+    "BE6CD11241F70A4BBA989194FB806CA4": "Fa male anche alle teste più dure.",
+    "C7F9EB0241CEA5E50B4764B30A77E097": "Nun-chuck storia, hai già vinto.",
+    "34D71B9F4AD521BD53EDC9B1835D9237": "Nunchaku rari. Costringi i nemici alla resa con questa fulminea arma ninja.",
+    "487CA54E4CFBE4FE72035988E1535154": "Nunchaku non comuni. Costringi i nemici alla resa con questa fulminea arma ninja."
+  },
+  "Juno_BoostedItemNames_Nunchucks": {
+    "Nunchucks_T4_T4_Bamboo_DisplayName": "Nunchaku di bambù",
+    "Nunchucks_T5_T5_Honed_Bamboo_DisplayName": "Nunchaku di bambù",
+    "Nunchucks_T6_T6_Honed_Bamboo_DisplayName": "Nunchaku di bambù",
+    "Nunchucks_T7_T7_Honed_Bamboo_DisplayName": "Nunchaku di bambù",
+    "Nunchucks_T8_T8_Honed_Bamboo_DisplayName": "Nunchaku di bambù",
+    "Nunchucks_T7_T7_Honed_Dragon_Opal_DisplayName": "Nunchaku di opale di drago",
+    "Nunchucks_T8_T8_Honed_Dragon_Opal_DisplayName": "Nunchaku di opale di drago",
+    "Nunchucks_T5_T5_Honed_Kozustone_DisplayName": "Nunchaku di pietra Kozu",
+    "Nunchucks_T6_T6_Honed_Kozustone_DisplayName": "Nunchaku di pietra Kozu",
+    "Nunchucks_T7_T7_Honed_Kozustone_DisplayName": "Nunchaku di pietra Kozu",
+    "Nunchucks_T8_T8_Honed_Kozustone_DisplayName": "Nunchaku di pietra Kozu",
+    "Nunchucks_T6_T6_Honed_Steel_DisplayName": "Nunchaku d'acciaio",
+    "Nunchucks_T7_T7_Honed_Steel_DisplayName": "Nunchaku d'acciaio",
+    "Nunchucks_T8_T8_Honed_Steel_DisplayName": "Nunchaku d'acciaio"
+  },
+  "Juno_CBCFormulas_Nunchucks": {
+    "Nunchucks_DisplayName": "Nunchaku"
+  },
+  "Juno_UpdateItemData": {
+    "0F0118FD49D31B09DE4FECAF9E4B85F6": "Nunchaku",
+    "5EAC5DBC431F97B93C078582EAB05E32": "Nunchaku",
+    "79735EDA4A054667CB447C817F531CB8": "Nunchaku",
+    "7BFBDFE44B5AC7190EE6B890E98ABFCA": "Nunchaku",
+    "DF515FAC4948E32D784589A6F952EED3": "Nunchaku"
+  }
+}

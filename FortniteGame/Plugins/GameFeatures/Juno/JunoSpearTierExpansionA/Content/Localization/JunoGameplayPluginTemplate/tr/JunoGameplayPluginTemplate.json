@@ -1,0 +1,37 @@
+{
+  "": {
+    "02D507F542501C32987007BB40B310CF": "Bir <EmphA>Kereste Kesici</>'ye ihtiyacın olacak.",
+    "46465B3F47396715F622C8B9C8D00E02": "Bir <EmphA>Kereste Kesici</>'ye ihtiyacın olacak.",
+    "7DA1447E47D8D89073ACF0AAA1A2864B": "Bir <EmphA>Kereste Kesici</>'ye ihtiyacın olacak.",
+    "A681DC5345D98537642259976B7D96FD": "Bir <EmphA>Kereste Kesici</>'ye ihtiyacın olacak."
+  },
+  "Juno_BoostedItemNames_SpearTierExpansionA": {
+    "Spear_T5_T5_Honed_Bamboo_DisplayName": "Bambu Mızrak",
+    "Spear_T6_T6_Honed_Bamboo_DisplayName": "Bambu Mızrak",
+    "Spear_T7_T7_Honed_Bamboo_DisplayName": "Bambu Mızrak",
+    "Spear_T8_T8_Honed_Bamboo_DisplayName": "Bambu Mızrak",
+    "Spear_T7_T7_Honed_Dragon_Opal_DisplayName": "Ejderha Opali Mızrak",
+    "Spear_T8_T8_Honed_Dragon_Opal_DisplayName": "Ejderha Opali Mızrak",
+    "Spear_T5_T5_Honed_Kozustone_DisplayName": "Kozu Taşı Mızrak",
+    "Spear_T6_T6_Honed_Kozustone_DisplayName": "Kozu Taşı Mızrak",
+    "Spear_T7_T7_Honed_Kozustone_DisplayName": "Kozu Taşı Mızrak",
+    "Spear_T8_T8_Honed_Kozustone_DisplayName": "Kozu Taşı Mızrak",
+    "Spear_T6_T6_Honed_Steel_DisplayName": "Çelik Mızrak",
+    "Spear_T7_T7_Honed_Steel_DisplayName": "Çelik Mızrak",
+    "Spear_T8_T8_Honed_Steel_DisplayName": "Çelik Mızrak"
+  },
+  "Juno_UpdateItemData": {
+    "311316ED4D182EEA2FA46DAA81FD15E5": "Yakın veya menzilli çatışmada kullanılabilecek bir Efsanevi Mızrak. Saldırmak için dokun. Fırlatmak için basılı tut.",
+    "B25A2F324DB535390E4B73930870E49A": "Yakın veya menzilli çatışmada kullanılabilecek bir Nadir Mızrak. Saldırmak için dokun. Fırlatmak için basılı tut.",
+    "9586F8E1415780F4E24C91BC3AF6173F": "Rakipsiz bir mızrak.",
+    "3D7692F9440542E88EC2D0BE65D1A7D0": "Yakın veya menzilli çatışmada kullanılabilecek bir Destansı Mızrak. Saldırmak için dokun. Fırlatmak için basılı tut.",
+    "9FE27A4249F4F9C0F7527782A3B1C0F8": "Yakın veya menzilli çatışmada kullanılabilecek bir Sıradışı Mızrak. Saldırmak için dokun. Fırlatmak için basılı tut.",
+    "D94E848A42A304BA80384AB51A03A759": "Mızıkçı düşmanları mızrakla.",
+    "1F54FBF84AFFB2CCD540CD80D88B83BC": "Mızrak",
+    "2EA3F9C34873AAA9DAA84885A9BCD37B": "Mızrak",
+    "52E93B624E1B24175BB6F6811B0B3856": "Mızrak",
+    "824F02E94ED416162B699D95ED1A1A60": "Mızrak",
+    "C3ED5020413D4F9AC37D7B828F778F0A": "Mızrak dediğin ruhunu yansıtacak.",
+    "888AAE0B4DA62E8ED2440D80116B1BD1": "Mızrak, mızmızlık yapmadan kullanılır."
+  }
+}

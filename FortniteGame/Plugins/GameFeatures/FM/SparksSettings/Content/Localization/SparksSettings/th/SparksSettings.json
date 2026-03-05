@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>ปิด</>: อีโมตเต้นจะเล่นด้วยความเร็วปกติ และเพลงของอีโมตจะเล่นทับบนแจมแทร็ก",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>เปิด</>: อีโมตเต้นจะซิงค์กับจังหวะของแจมแทร็กและปิดเพลงของอีโมต",
+    "JamTrackAudioTabName": "แจมแทร็ก",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "ซิงค์อีโมตเต้นของฉันกับแจมแทร็ก",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "การตั้งค่านี้จะใช้ควบคุมอีโมตเต้นของคุณขณะเล่นแจมแทร็ก"
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "ปรับระดับเสียงเพลงเกมเพลย์ในเฟสติวัล",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "มิวสิค - เฟสติวัล"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "": {
+    "BFCA909F48F11FFA8AD6ACA948310A4F": "Przestrzeń tłumu",
+    "CBA0009043A15E05890AC68F8056B814": "Przestrzeń tłumu",
+    "E1067A64427AA66B822488B1D608CD94": "Przestrzeń tłumu",
+    "4C46C8CA41311206CF70698F2FE39BEB": "Wyłącz",
+    "B54F3AE74FE03F1200AD098F5312D7A6": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BFBBEB534C644E161C3AE491501828F6": "Włącz",
+    "650644994C28CFD38E31829A56E3464F": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "1104ABBC4616CFE4BFFDC8BCD475B503": "Tworzy tłum kibiców.",
+    "2253A34C49B07B7CD62CB18E4F691187": "Tworzy tłum kibiców.",
+    "F4DA79224C576591D48AF68C10A6FD46": "Tworzy tłum kibiców.",
+    "7EDB5C9C49AC528E948643B2245928A7": "To urządzenie umożliwia konfigurowanie tłumu",
+    "53521B864E1ACCB1C96A4B9FFB6E65A8": "{0} {1}|plural(one=pole,few=pola,many=pól,other=pola)",
+    "7EFF8CE942523239CC9656A5185BB30B": "{0} {1}|plural(one=pole,few=pola,many=pól,other=pola)",
+    "EC5B458045BCB17844B932BD5EBF8AC1": "{0} {1}|plural(one=pole,few=pola,many=pól,other=pola)",
+    "4D87BDDF4770AE9A99FD8D8FB9D66784": "{0}%",
+    "524941774170EB80263952B139029CF0": "{0}%",
+    "D368E98F42B8E8CEA234F0AE01871F97": "{0}%",
+    "E38B41C544828B86144091BA57C7AC52": "{0}%"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "EEnabledOnPhase.Always.DisplayName": "Zawsze",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.DisplayName": "Ustawienie postaci",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.DisplayName": "Losowość kąta postaci",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.DisplayName": "Losowość skali postaci",
+    "EEnabledOnPhase.Create Only.DisplayName": "Tylko podczas tworzenia",
+    "BP_CrowdVolume_Device_C.CrowdDensity.DisplayName": "Zagęszczenie tłumu",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.Description": "Określa fazy gry, podczas których urządzenie będzie włączone. Ustawienie Przed grą obejmuje wszystkie fazy przed rozpoczęciem gry (oczekiwanie na graczy znajdujących się w lobby na wyróżnionych wyspach oraz odliczanie do rozpoczęcia gry).",
+    "BP_CrowdVolume_Device_C.Disable.DisplayName": "Wyłącz",
+    "BP_CrowdVolume_Device_C.Disable.Description": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "BP_CrowdVolume_Device_C.Enable.DisplayName": "Włącz",
+    "BP_CrowdVolume_Device_C.EnabledDuringPhase.DisplayName": "Włączone podczas fazy",
+    "BP_CrowdVolume_Device_C.Enable.Description": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Tylko podczas gry",
+    "EEnabledOnPhase.None.DisplayName": "Brak",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "Tylko przed grą",
+    "BP_CrowdVolume_Device_C.CrowdDensity.Description": "Określa stopień zagęszczenia tłumu.",
+    "BP_CrowdVolume_Device_C.CharacterAlignment.Description": "Określa dokładność wyrównania członków tłumu na siatce.",
+    "BP_CrowdVolume_Device_C.CharacterScaleRandomness.Description": "Określa stopień losowości rozmiaru członków tłumu.",
+    "BP_CrowdVolume_Device_C.CharacterAngleRandomness.Description": "Określa stopień losowości kierunku zwrócenia członków tłumu.",
+    "BP_CrowdVolume_Device_C.ZoneDepth.Description": "Określa głębokość strefy (w polach)",
+    "BP_CrowdVolume_Device_C.ZoneHeight.Description": "Określa wysokość strefy (w polach)",
+    "BP_CrowdVolume_Device_C.ZoneWidth.Description": "Określa szerokość strefy (w polach)",
+    "BP_CrowdVolume_Device_C.ZoneDepth.DisplayName": "Głębokość strefy",
+    "BP_CrowdVolume_Device_C.ZoneHeight.DisplayName": "Wysokość strefy",
+    "BP_CrowdVolume_Device_C.ZoneWidth.DisplayName": "Szerokość strefy"
+  }
+}

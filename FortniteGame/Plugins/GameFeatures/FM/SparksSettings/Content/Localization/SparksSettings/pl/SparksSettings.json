@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Wył.</>: emotki taneczne będą animowane z normalną prędkością, a muzyka emotki zagłuszy ścieżkę jamową.",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Wł.</>: emotki taneczne zsynchronizują się z rytmem ścieżki jamowej, a muzyka emotki zostanie wyciszona.",
+    "JamTrackAudioTabName": "Ścieżki jamowe",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "Synchronizuj moje emotki taneczne ze ścieżkami jamowymi",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "To ustawienie zmienia zachowanie emotek tanecznych, gdy odtwarzana jest ścieżka jamowa."
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "Zmienia głośność muzyki w rozgrywce Fortnite Festival.",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "Muzyka – Festival"
+  }
+}

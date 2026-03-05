@@ -1,0 +1,12 @@
+{
+  "": {
+    "E0629EFC46B5EA714FCCD19162143823": "Ramasser du bois",
+    "EC841CD54B7090D2510D7586F386C251": "Ramasser du bois"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "BuildingActor": "Appuyer sur E pour modifier"
+  },
+  "UserOptionDefinition": {
+    "OptionDefinitionContainer.Customize": "Personnaliser"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "Error al comprobar los datos del jugador"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "Failed to flush persistence and exhausted the allowed retry attempts"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "No se han podido recuperar los puntos de control disponibles",
+    "FailedToSetInitialCheckpointErrorMessage": "Error al fijar el punto de control inicial",
+    "InvalidJunoWorldErrorMessage": "Mundo no válido de Juno al intentar iniciar el controlador de puntos de control",
+    "InvalidJunoRootPlayspaceErrorMessage": "Zona de juego raíz no válida al intentar iniciar el controlador de puntos de control"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "Se ha intentado inicializar la persistencia del jugador después de que ya hubiera finalizado",
+    "InvalidPlayerPersistenceStorageErrorMessage": "Almacenamiento persistente del jugador no válido",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "No se ha podido crear el controlador de puntos de control"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "Intentando desinicializar la persistencia del jugador con ID de jugador no válida",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "Intentando inicializar la persistencia del jugador varias veces",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "Intentando inicializar la persistencia del jugador con ID de jugador no válida",
+    "StalePlayerPersistenceHandlerErrorMessage": "Inicio del controlador de persistencia de jugador control tras completarse obsoleto",
+    "UnableToCreatePlayerPersistenceErrorMessage": "No se ha podido crear el controlador de persistencia de jugador",
+    "InvalidPlayerPersistenceStorageErrorMessage": "No se puede recuperar el almacenamiento persistente del jugador válido"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "": {
+    "8DBC4BF6452583F1C59C7F846EBCCF00": "Krawędź do umieszczenia, która umożliwia graczom wykonanie wyskoku wspinaczkowego.",
+    "EFF5545942BE6E906FA09492A029002C": "Krawędź do umieszczenia, która umożliwia graczom wykonanie wyskoku wspinaczkowego.",
+    "39AFB32446569697402D1D827A10908B": "Krawędź do umieszczenia, która umożliwia graczom wykonanie wyskoku wspinaczkowego.",
+    "1B6B2930405A922826E5319CC16C6F4D": "Wyłącz przy transmisji od",
+    "39698C45412DE4DC33043394E36BCF15": "Wyłącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "6D2712AB4BF8C8E8F0F24C80EC76C1D1": "Włącz przy transmisji od",
+    "7295D4F64BC35C0FE67F8181BEFF38E5": "Włącza urządzenie po otrzymaniu sygnału na określonym kanale.",
+    "B50472184D98C31CD4AF8FB58B5FDAFC": "Metalowy pierścień",
+    "7E36FA504A82288E8BFF03B718AAF93E": "Brak",
+    "745F38704A9EF89BCE3EE7AF17A8F32C": "Krawędź do umieszczenia",
+    "E6A576184EFFC3AA9D25EE92E97B3C6D": "Krawędź do umieszczenia",
+    "97078157436AE317038738A4DBF33EAE": "Drewniana belka"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "Device_PlaceableLedge_C.CustomMesh.DisplayName": "Własny model",
+    "Device_PlaceableLedge_C.Enable during game.Description": "Określa, czy krawędź ma być włączona i widoczna podczas gry.",
+    "Device_PlaceableLedge_C.Disable.DisplayName": "Wyłącz",
+    "Device_PlaceableLedge_C.Disable.Description": "Wyłącza urządzenie.",
+    "Device_PlaceableLedge_C.Enable.DisplayName": "Włącz",
+    "Device_PlaceableLedge_C.Enable during game.DisplayName": "Włącz podczas gry",
+    "Device_PlaceableLedge_C.Enable.Description": "Włącza urządzenie.",
+    "Device_PlaceableLedge_C.Ledge mesh selection.Description": "Jeśli włączono, to urządzenie będzie używać pierścienia do wspinaczki zamiast belki ",
+    "Device_PlaceableLedge_C.Ledge mesh selection.DisplayName": "Wybór modelu krawędzi",
+    "ELedgeMeshSelections.Metal Ring.DisplayName": "Metalowy pierścień",
+    "ELedgeMeshSelections.None.DisplayName": "Brak",
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "Device_PlaceableLedge_C.CustomMesh.Description": "Własny model do wykorzystania jako krawędź, jeśli wybrano „Własny model” krawędzi",
+    "ELedgeMeshSelections.Wood Beam.DisplayName": "Drewniana belka"
+  }
+}

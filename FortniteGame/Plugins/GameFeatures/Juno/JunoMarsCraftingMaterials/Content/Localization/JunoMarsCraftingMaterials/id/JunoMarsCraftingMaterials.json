@@ -1,0 +1,31 @@
+{
+  "": {
+    "8904037A486FDD7697C24F9CCC7A09E4": "Kapak Korup",
+    "D0DA70DA41F0A3993DE6769C586E332C": "Busur Silang Korup",
+    "D4E19FC74CC61B2B37CFDE8170255B51": "Belati Ganda Korup",
+    "B978FA6D498FA6B2144CA6AC653C8B5A": "Palu Korup",
+    "1822903D4A5636538882EB96DF94477C": "Parang Korup",
+    "0FF216704E4918F85F0A80B832AA08B6": "Beliung Korup",
+    "2016FB8F4235504F4405B1B9400CF599": "Pistol Plasma Korup",
+    "D2A04A8D4B5B082370478A9C15347AEA": "Tombak Korup",
+    "BFFBEE5D4578F0D96C3651991883FCCF": "Pedang Korup",
+    "D8D0E610425287EEC6581CA560C9CE2D": "Rakit Senjata menggunakan <emphA>Kristal Korup</>.",
+    "B4A003F74E36C034781DB78A95945FC6": "Rakit senjata dengan <text color=\"E2FCFFFF\">Kristal Korup</>",
+    "AD9A538E447069CA6AE9C1AFDACF52B7": "Menimbulkan peningkatan damage pada Spire dan musuh yang Dipanggil oleh Spire.",
+    "206873EF4F48BE2ECB5D009249CEEFAD": "Dijatuhkan oleh <EmphA>musuh Spire yang tangguh</>.",
+    "9A09D2F744A36F074921E7A4D2E02714": "Ter-Inspirasi.",
+    "3D8D9E114E1EF86663319690D4F208F3": "Kutukan Spire III",
+    "736485B648FE6289DF5BB9B7D123F623": "Kutukan Spire III",
+    "17AE277C4F1C68BC510397B449029A6C": "sumber daya perakitan"
+  },
+  "Juno_GameplayItemCraftingFormulas_JunoMars": {
+    "EssenceOfSpireBaneIII_DisplayName": "Kutukan Spire III"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "C690C330466D954F310A0C9352E4ADC1": "Kristal Korup"
+  },
+  "Juno_UpdateItemData": {
+    "A3556D85478029980B37BA96C2D359C4": "Material perakitan. Didapatkan dengan mengalahkan Spire Elite dan Penjaga Iblis Berat.",
+    "7E069A074076CE89EE39B893EDEF205C": "Kristal ini bergumam dan berbisik. Kalau diperhatikan dari dekat, kamu hampir bisa melihat sesuatu menatap balik ke arahmu ..."
+  }
+}

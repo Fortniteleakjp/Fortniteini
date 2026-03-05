@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "他のPatchworkのオーディオの仕掛けに送信する前に、Patchworkのオーディオ入力の音量を調整する。複数のオーディオ入力があるミックスでは、そのうちのいくつかにゲインを適用することで、ミックス全体の中で各入力のボリュームのバランスを取ることができる。",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "他のPatchworkのオーディオの仕掛けに送信する前に、Patchworkのオーディオ入力の音量を調整する。複数のオーディオ入力があるミックスでは、そのうちのいくつかにゲインを適用することで、ミックス全体の中で各入力のボリュームのバランスを取ることができる。",
+    "43690F0542ED4B273A4C72B2627C2936": "オーデュオ入力の音量を、選択した値で乗算する。値を0にするとオーディオが無音になる。値を2にするとオーディオの音量が2倍になる。",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork ゲインエフェクト",
+    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork ゲインエフェクト",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork ゲインエフェクト"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "ケーブルでのアクセスを許可",
+    "EEnabledOnPhase.Always.DisplayName": "常時",
+    "Device_FabricGain_C.AudioIn.DisplayName": "オーディオの入力",
+    "Device_FabricGain_C.AudioOut.DisplayName": "オーディオ出力",
+    "EEnabledOnPhase.Create Only.DisplayName": "作成限定",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Patchworkツールが、この仕掛けのケーブル入力ポートまたは出力ポートにアクセスできるかの設定。",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "仕掛けが有効となるゲームフェーズの設定。「ゲーム前」にはゲーム開始前の全てのフェーズ(ゲーム前ロビーやゲーム開始までのカウントダウンなど)が含まれる。この設定は編集モードには影響しない。",
+    "Device_FabricGain_C.Disable.DisplayName": "無効化",
+    "Device_FabricGain_C.Disable.Description": "イベントが発生すると仕掛けを無効にする。",
+    "Device_FabricGain_C.Enable.DisplayName": "有効化",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "有効なフェーズ",
+    "Device_FabricGain_C.Enable.Description": "イベントが発生すると仕掛けを有効にする。",
+    "Device_FabricGain_C.Gain.DisplayName": "ゲイン",
+    "Device_FabricGain_C.GainIn.DisplayName": "ゲインの入力",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "ゲームプレイのみ",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "法的事項の情報",
+    "EEnabledOnPhase.None.DisplayName": "なし",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "無効になった時",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "有効になった時",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "ご注意ください: Patchworkオーディオの仕掛けの使用は、新規およびオリジナルの楽曲の作成に制限されています。",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "電源ボタンの入力",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "ゲーム前のみ",
+    "Device_FabricGain_C.AudioOut.Description": "この仕掛けのオーディオ出力ケーブルの行き先の設定。",
+    "Device_FabricGain_C.AudioIn.Description": "この仕掛けのオーディオ入力ポート用の入力を設定する。",
+    "Device_FabricGain_C.GainIn.Description": "この仕掛けのゲインのノブ用の入力を設定する。",
+    "Device_FabricGain_C.OnDisabled.Description": "仕掛けが無効になると、イベントを起動する。",
+    "Device_FabricGain_C.OnEnabled.Description": "仕掛けが有効になると、イベントを起動する。"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "AssetTypeActions": {
+    "AssetTypeActions_JunoLandscapeCutomMaterial": "주노 랜드스케이프 커스텀 머티리얼"
+  },
+  "FJunoProceduralLandscapeEditorModule": {
+    "EnableJunoLandscapeMaterialExpressions_Label": "주노 지형 머티리얼 표현식 활성화"
+  },
+  "JunoLandscape": {
+    "Juno": "주노"
+  }
+}

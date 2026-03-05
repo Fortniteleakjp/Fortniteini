@@ -1,0 +1,47 @@
+{
+  "": {
+    "43CFBFFD4F8152697D0C7C93A59340A1": "Foco",
+    "43F09C044AF62206095CF781534EA856": "Cabo",
+    "E6B68B79478A46E9684822B2F134867F": "Cabeça",
+    "DB549DF44E248CF55461B2BF32444D9A": "Cunha"
+  },
+  "Juno_BoostedItemNames_TwoHandedHammer": {
+    "War_Hammer_T4_Amber_DisplayName": "Martelo de Guerra de Âmbar",
+    "War_Hammer_T5_Amber_DisplayName": "Martelo de Guerra de Âmbar",
+    "War_Hammer_T2_Blast_Core_DisplayName": "Martelo de Guerra Explosivo",
+    "War_Hammer_T1_Bone_DisplayName": "Martelo de Guerra de Osso",
+    "War_Hammer_T2_Brightcore_DisplayName": "Martelo de Guerra Brilhante",
+    "War_Hammer_T1_Arctic_Claw_DisplayName": "Martelo de Guerra de Garra",
+    "War_Hammer_T1_Sand_Claw_DisplayName": "Martelo de Guerra de Garra",
+    "War_Hammer_T1_Wolf_Claw_DisplayName": "Martelo de Guerra de Garra",
+    "War_Hammer_T3_Copper_DisplayName": "Martelo de Guerra de Cobre",
+    "War_Hammer_T2_Cursed_Bone_DisplayName": "Martelo de Guerra Amaldiçoado",
+    "War_Hammer_T4_Emerald_DisplayName": "Martelo de Guerra de Esmeralda",
+    "War_Hammer_T5_Emerald_DisplayName": "Martelo de Guerra de Esmeralda",
+    "War_Hammer_T1_Flexwood_DisplayName": "Martelo de Guerra de Madeira Macia",
+    "War_Hammer_T1_Frostpine_DisplayName": "Martelo de Guerra de Pinhal Gélido",
+    "War_Hammer_T1_Glass_DisplayName": "Martelo de Guerra de Vidro",
+    "War_Hammer_T3_Gold_DisplayName": "Martelo de Guerra de Ouro",
+    "War_Hammer_T2_Granite_DisplayName": "Martelo de Guerra de Granito",
+    "War_Hammer_T3_Iron_DisplayName": "Martelo de Guerra de Ferro",
+    "War_Hammer_T1_Knotroot_DisplayName": "Martelo de Guerra de Raízes",
+    "War_Hammer_T1_Mahogany_DisplayName": "Martelo de Guerra de Mogno",
+    "War_Hammer_T2_Malachite_DisplayName": "Martelo de Guerra de Malaquita",
+    "War_Hammer_T2_Marble_DisplayName": "Martelo de Guerra de Mármore",
+    "War_Hammer_T2_Obsidian_DisplayName": "Martelo de Guerra de Obsidiana",
+    "War_Hammer_T2_Redrock_DisplayName": "Martelo de Guerra de Pedra Vermelha",
+    "War_Hammer_T4_Ruby_DisplayName": "Martelo de Guerra de Rubi",
+    "War_Hammer_T5_Ruby_DisplayName": "Martelo de Guerra de Rubi",
+    "War_Hammer_T2_Sandstone_DisplayName": "Martelo de Guerra de Arenito",
+    "War_Hammer_T4_Sapphire_DisplayName": "Martelo de Guerra de Safira",
+    "War_Hammer_T5_Sapphire_DisplayName": "Martelo de Guerra de Safira",
+    "War_Hammer_T4_Shatterhorn_Fragment_DisplayName": "Martelo de Guerra Parte-chifres",
+    "War_Hammer_T5_Shatterhorn_Fragment_DisplayName": "Martelo de Guerra Parte-chifres",
+    "War_Hammer_T1_Storm_Core_DisplayName": "Martelo de Guerra da Tempestade",
+    "War_Hammer_T3_Greater_Storm_Core_DisplayName": "Martelo de Guerra de Guarda da Tempestade",
+    "War_Hammer_T1_Wood_DisplayName": "Martelo de Guerra de Madeira"
+  },
+  "Juno_CBCFormulas_TwoHandedHammer": {
+    "Hammer_DisplayName": "Martelo de Guerra"
+  }
+}

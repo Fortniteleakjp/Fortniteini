@@ -1,0 +1,9 @@
+{
+  "StringTable_Beanstalk_Common": {
+    "BS_Control_Dive": "俯衝",
+    "BS_MainTitle": "糖豆人",
+    "BS_InteractionBlocked": "糖豆人不能用這個。",
+    "BS_Control_Jump": "跳躍",
+    "BS_Control_QuitCourse": "退出賽道"
+  }
+}

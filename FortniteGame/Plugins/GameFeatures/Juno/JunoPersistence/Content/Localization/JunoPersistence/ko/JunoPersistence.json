@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "플레이어 데이터 확인 중 오류"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "퍼시스턴스를 삭제하지 못했으며 허용된 재시도 횟수를 모두 소진했습니다"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "사용 가능 체크포인트 불러오기 실패",
+    "FailedToSetInitialCheckpointErrorMessage": "초기 체크포인트를 설정하지 못했습니다",
+    "InvalidJunoWorldErrorMessage": "체크포인트 핸들러를 초기화하려 시도했을 때 Juno 월드가 유효하지 않음",
+    "InvalidJunoRootPlayspaceErrorMessage": "체크포인트 핸들러를 초기화하려 시도했을 때 루트 플레이 공간이 유효하지 않음"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "이미 초기화된 후 플레이어 퍼시스턴스를 초기화하려 시도했습니다",
+    "InvalidPlayerPersistenceStorageErrorMessage": "유효하지 않은 플레이어 퍼시스턴스 스토리지",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "체크포인트 핸들러를 생성할 수 없음"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "유효하지 않은 플레이어 ID로 플레이어 퍼시스턴스를 해제하려 시도합니다",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "플레이어 퍼시스턴스를 여러 번 초기화하려 시도합니다",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "유효하지 않은 플레이어 ID로 플레이어 퍼시스턴스를 초기화하려 시도합니다",
+    "StalePlayerPersistenceHandlerErrorMessage": "초기화 완료 시 플레이어 퍼시스턴스 핸들러가 오래되었습니다",
+    "UnableToCreatePlayerPersistenceErrorMessage": "플레이어 퍼시스턴스를 생성할 수 없습니다",
+    "InvalidPlayerPersistenceStorageErrorMessage": "유효하지 않은 플레이어 퍼시스턴스 스토리지를 불러올 수 없음"
+  }
+}

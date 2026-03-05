@@ -1,0 +1,18 @@
+{
+  "": {
+    "18F0F83648CE482382F6DCA7FA60782C": "Añadir bucle (mantener)",
+    "0312236F4E5F971CA73587AA085CDDCD": "Anclas",
+    "8325DFC7417E6D6D6782FD85C509E851": "Sin bordes",
+    "7E41B31B47FF0FEB0F18DCBB24F59995": "Tamaño del botón",
+    "8C8D81B347F06E817028F9B1ADA0A5F9": "Cambiar bucle (mantener)",
+    "FFB7298D4566E73393FB0BBAA26DF179": "Se puede mover la cámara al mantener tras presionar el botón",
+    "C6009EB54EFE1132AA1FF2935107A92B": "No caben los bucles adicionales",
+    "E88A0566490455A220BBF3A5F699713C": "Improvisación: unirse rápido",
+    "0A4340094AA41F559933DBB69EAF8504": "Improvisar en grupo",
+    "786E80874733AB204D36ED9E04D8D601": "JamDecks",
+    "3FA13F004C7D52EF537B8CACCC10040D": "Añadir bucle adicional",
+    "36365ECD4993EA71955323A9FFC4B5D4": "Detener bucle",
+    "FA9AF9FE41984A922675B2AF9CF30700": "Tamaño de la zona táctil",
+    "60E1EB7E4A2C987877789E9AC8989279": "Actualizando presencia IMC... Emisor=\"{deck}\"  -  Es bloqueador=\"{bool}\"   -- Debería tener controles = {ChangeResult}"
+  }
+}

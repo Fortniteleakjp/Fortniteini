@@ -1,0 +1,45 @@
+{
+  "": {
+    "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Позволяет регулировать громкость сигнала на аудиовходе Patchwork перед его отправкой другому звуковому устройству Patchwork. Если вы используете несколько аудиовходов одновременно, усиление некоторых из них может помочь при регулировке громкости каждого используемого входа для общего микса.",
+    "EBE12DCE4FC5BFE59827F9988983FC11": "Позволяет регулировать громкость сигнала на аудиовходе Patchwork перед его отправкой другому звуковому устройству Patchwork. Если вы используете несколько аудиовходов одновременно, усиление некоторых из них может помочь при регулировке громкости каждого используемого входа для общего микса.",
+    "43690F0542ED4B273A4C72B2627C2936": "Увеличивает громкость аудиовхода в соответствии с выбранным значением. Если выбрано значение 0, звук будет выключен. Если выбрано значение 2, громкость звука будет увеличена в два раза.",
+    "2B31F3AD48FA2C4C533FE69FB91C904E": "Эффект усиления Patchwork",
+    "8A62F091464769AD6A2A51B1CECCED46": "Эффект усиления Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Эффект усиления Patchwork"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "02DB7A7C46AD84E42A7FA180D2087E91": "Разрешить доступ к кабелю",
+    "EEnabledOnPhase.Always.DisplayName": "Всегда",
+    "Device_FabricGain_C.AudioIn.DisplayName": "Аудиовход",
+    "Device_FabricGain_C.AudioOut.DisplayName": "Вывод звука",
+    "EEnabledOnPhase.Create Only.DisplayName": "Только при создании",
+    "Device_FabricGain_C.AllowPortSelection.Description": "Определяет, есть ли у инструмента Patchwork доступ к портам ввода или вывода кабелей устройства.",
+    "Device_FabricGain_C.EnabledOnPhase.Description": "Определяет, на каких этапах игры устройство будет активно. Стадия «До начала игры» включает в себя все этапы, предшествующие началу игры (ожидание в лобби, отсчёт до начала игры и т. д.). Этот параметр не действует в режиме редактирования.",
+    "Device_FabricGain_C.Disable.DisplayName": "Выключить",
+    "Device_FabricGain_C.Disable.Description": "Выключает устройство, когда происходит событие.",
+    "Device_FabricGain_C.Enable.DisplayName": "Включить",
+    "Device_FabricGain_C.EnabledOnPhase.DisplayName": "Активно во время фазы",
+    "Device_FabricGain_C.Enable.Description": "Включает устройство, когда происходит событие.",
+    "Device_FabricGain_C.Gain.DisplayName": "Уровень усиления",
+    "Device_FabricGain_C.GainIn.DisplayName": "Усиление: вход",
+    "EEnabledOnPhase.Gameplay Only.DisplayName": "Только во время игры",
+    "Device_FabricGain_C.LegalInfo.DisplayName": "Юридическая информация",
+    "EEnabledOnPhase.None.DisplayName": "Нет",
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "Device_FabricGain_C.OnDisabled.DisplayName": "При отключении",
+    "Device_FabricGain_C.OnEnabled.DisplayName": "При включении",
+    "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
+    "Device_FabricGain_C.LegalInfo.Description": "Учтите, что звуковое устройство Patchwork предназначено только для создания новых и оригинальных музыкальных произведений.",
+    "Device_FabricGain_C.PowerButtonIn.DisplayName": "Кнопка питания: вход",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "До начала игры",
+    "Device_FabricGain_C.AudioOut.Description": "Определяет, куда ведёт кабель «Вывод звука», принадлежащий этому устройству.",
+    "Device_FabricGain_C.AudioIn.Description": "Определяет вводы для аудиовхода устройства.",
+    "Device_FabricGain_C.GainIn.Description": "Определяет вводы для регулятора усиления этого устройства.",
+    "Device_FabricGain_C.OnDisabled.Description": "Запускает событие, когда устройство выключено.",
+    "Device_FabricGain_C.OnEnabled.Description": "Запускает событие, когда устройство включено."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "间距：{1}",
+    "PointsOutsideVolumeDescriptionContext": "{0}：在{1}之外生成",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "放置{ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "{0}<Yellow>被淘汰了</>",
+    "OnPlayerSavedByTotemGameEvent": "{0}<Yellow>被图腾拯救</>"
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "赠送{ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "把所有东西都给我！",
+    "LNFDropNOfX": "{WantItemCount}{WantItem}。"
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "加入营地 {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "数量不足交易。需要x{WantItemCount}{WantItem}来交易换取x{SellItemCount}{SellItem}。\n剩余{BundleCount}同捆包。",
+    "TradeXForX": "以x{WantItemCount}{WantItem}交易换取x{SellItemCount}{SellItem}。\n剩余{BundleCount}同捆包。"
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "搞定了！",
+    "GetX": "获得 {0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0}<Yellow>进入世界</>",
+    "GameMemberDisconnected": "{0}<Yellow>退出世界</>"
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "增加充能",
+    "ChargeCostUnits": "充能",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "继续",
+    "JunoSpeech_NoAIRole": "失业",
+    "JunoSpeech_NoBoundCampName": "无名村庄",
+    "JunoSpeech_NoLastUsedGatheringActor": "无工作台"
+  },
+  "JunoStorageChest": {
+    "Open": "打开",
+    "Search": "搜索"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "{PlayerName}的村庄{VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "因处于闲置状态被踢出。由于您长时间处于闲置状态，与主机连接已中断。",
+    "SpawnedWhenPermanentlyDead": "该玩家已经体力耗尽。"
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "进入向导模式"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "本周，你只能该好友的这个世界中放置已拥有内容。",
+    "MCPItemPlacedMessageTitleText": "警告！已拥有内容",
+    "MCPItemPlacedMessageDescription_NLeft": "本周，你还可以在好友世界中再放置{0}个已拥有内容。"
+  }
+}

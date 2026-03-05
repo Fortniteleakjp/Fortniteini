@@ -1,0 +1,14 @@
+{
+  "": {
+    "FD39DC6140EFD87422D587B255DDE9A8": "Rocket Racing 比賽的起點",
+    "5524A3094B9D1F8172904BB7FDBC20F8": "Rocket Racing 玩家起點",
+    "0DF3230B4B023C3622D22CA51A8972F7": "Rocket Racing 玩家起點"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "Device_DelMar_PlayerStart_C.Priority.Description": "決定起點線上車輛生成的順序。在起點線上生成時，低於零的值會被忽略。",
+    "Device_DelMar_PlayerStart_C.Priority.DisplayName": "優先順序"
+  }
+}

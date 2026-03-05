@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "Düşük bellek",
+    "Return to main menu reason (default)": "Bellek kritik seviyelere ulaştı. Oturum sona erdi.\n Son ilerlemen kaydedildi! Kreatif'e dönerek oyuna bıraktığın yerden devam edebilirsin.",
+    "Warning toast description (default)": "Oturum beklenmedik bir şekilde sona erebilir."
+  }
+}

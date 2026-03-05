@@ -1,0 +1,60 @@
+{
+  "": {
+    "7CF675F54AAAF7E59BE02DAB77408A05": "讓你可以臨危振作。",
+    "C5A8140A4118053FC98DFDBB0D477551": "喝下",
+    "DB08DD254AF3AFB372428180B61CA019": "喝下",
+    "EAB819034C2F9C992BA858A086E9DE9F": "喝下",
+    "00BB690D4E89F43785A3D4A229B6DB61": "特大生命藥水",
+    "7C8602704D9895DDF91E619E313F2BF1": "回家藥水",
+    "0F2572A7464747102625ADA1C20A47C8": "研究石頭加工機",
+    "15DCC0C24F5C4F536F138088AC42AEB3": "研究石頭加工機",
+    "6658571740A19DBD7B45048831519148": "研究石頭加工機",
+    "D698C5014DE407DFBCD1D8AE7E59ACE5": "研究石頭加工機",
+    "519F538E4BA1F07B9CC0568E94FE94B8": "小型生命藥水",
+    "DC0C133C44C2FCDE2C191A8B80DBE979": "味道比繃帶好一點。",
+    "1A7EEC024336625F5D77D2BE8F3A1E12": "你需要一個<EmphA>大釜</>。",
+    "203816BD498C65F400EDCAAFA79DE3F4": "你需要一個<EmphA>大釜</>。",
+    "3FBDEF784A8467A63BC5389C3714371A": "你需要一個<EmphA>大釜</>。",
+    "098D7FC84C27CDA3213B928D7BC06685": "[PH] Armor!",
+    "5EBE269C4DF3ACDB4DDCCC83D9320525": "[PH] Armor!",
+    "73B283534BB330C6C0FA37BC88FB3964": "[PH] Armor!",
+    "8C92454C4E5EC9270D982F883C645C73": "[PH] Armor!",
+    "B40D0DF44A51658B026C89A6BD52307E": "[PH] Armor!",
+    "B6936F49436567C947C6ECA1142DC821": "[PH] Armor!",
+    "E6133BEB4DE647E7D2E533BBCF608733": "[PH] Armor!",
+    "114C815F480295A9C5963D98AB509BF0": "[PH] Reflect incoming damage!",
+    "6F68CA2B48F0773A737A338576500926": "[PH] Reflect incoming damage!",
+    "AA63055C4747688885933C913B315E2D": "[PH] Steal life on kill!",
+    "C47866DF4D1617BCB9170DA533B73B3D": "[PH] Steal life on kill!",
+    "71A315D041D4D11C9C91CCB789CC2249": "[PH] Survive Lethal Damage!"
+  },
+  "Juno_GameplayItemCraftingFormulas_Hijinks": {
+    "BaitBucket_T2_DisplayName": "誘餌桶",
+    "BaitBucket_T3_DisplayName": "誘餌桶",
+    "BaitBucket_T4_DisplayName": "誘餌桶",
+    "CauldronWorkBench_DisplayName": "大釜",
+    "IceCream_Snowberry_Potion_DisplayName": "冰莓冰淇淋",
+    "DeftCheese_DisplayName": "靈巧起司",
+    "SlapPotion_DisplayName": "敏捷藥水",
+    "FoodProcessorT2_DisplayName": "果汁機",
+    "LargeHealthPotion_DisplayName": "特大生命藥水",
+    "KlomHomePotion_DisplayName": "回家藥水",
+    "SnowberryPotion_DisplayName": "巧技藥水",
+    "SlurpPotion_DisplayName": "吸樂補藥水",
+    "SmallHealthPotion_DisplayName": "小型生命藥水",
+    "IceCream_Spicy_Potion_DisplayName": "辣冰淇淋",
+    "StormPotion_DisplayName": "風暴果藥水",
+    "TropicalPotion_DisplayName": "堅韌藥水"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "FF57B7FC4313F112B1386F8664A02965": "製作站，用來調配強效藥水，喝下藥水就能帶來短期加成和增益。"
+  },
+  "Juno_UpdateItemData": {
+    "EEB808C346F14B845EEE0CA4E7B297E4": "鄉愁解藥。",
+    "2CD5F58F4007255FA614DBBCE9CA4BFE": "喝下以恢復大量生命值。",
+    "D6B5234C4486FD9C5F42A4905B425B3C": "喝下以恢復生命值。",
+    "7B2C77B74AC8138554098BBCF7C8966B": "喝下後可以回到你的床上。",
+    "C6D7D9884CB3989794F920B66D5D5808": "藥水大釜",
+    "397D26184BD0A822B5F0138724CC12AC": "該來動手 DIY 了！"
+  }
+}

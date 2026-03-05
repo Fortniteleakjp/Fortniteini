@@ -1,0 +1,41 @@
+{
+  "": {
+    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Volltreffer!</> ab, um das Rezept freizuschalten. ",
+    "2526E3264410B707308E20B8534279DB": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Volltreffer!</> ab, um das Rezept freizuschalten. ",
+    "31A9F48344282DCF8F65FE8B306F22C8": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Volltreffer!</> ab, um das Rezept freizuschalten. ",
+    "A0E91B49404BEF991ACE78A035FB9FA5": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Volltreffer!</> ab, um das Rezept freizuschalten. ",
+    "0BF1727A4D90DCAEE14B258CC4212DE3": "Epische Plasmapistolen. Zerreiße die atomare Struktur von Gegnern, indem du sie abschießt!",
+    "BAAFC86C4534ACB06CC80994621448C0": "Legendäre Plasmapistolen. Zerreiße die atomare Struktur von Gegnern, indem du sie abschießt!",
+    "44C70BA449A264B9703BCEABB9D340A3": "Peter Pfeifer packte ’ne Packung Plasmapistolen.",
+    "422220DB4E40F60B63AEEFAE27DEA53E": "Fernkampfschusswaffe",
+    "599752D6488B6EC23EC0C68BED53ED65": "Fernkampfschusswaffe",
+    "62257ECA477347F53A1A868296689A18": "Fernkampfschusswaffe",
+    "EA747D1E453DCB0F43A86580E4B5C092": "Fernkampfschusswaffe",
+    "BF1756B943F369BD9986D993E258750C": "Seltene Plasmapistolen. Zerreiße die atomare Struktur von Gegnern, indem du sie abschießt!",
+    "ADCCA19C4060AFD909BE87A5893C2CE0": "Ungewöhnliche Plasmapistolen. Zerreiße die atomare Struktur von Gegnern, indem du sie abschießt!",
+    "46AA227040F5CC18B31C5CB3B87F2B93": "Vrrrrr ZIP-PWUMM!",
+    "0CD3C87C459B141BAA857593CCFE8EF6": "WRRRR-ZAU!",
+    "EFE2F67D4FE0515AF526C1898CC016BD": "Zzzzz-BLAM!"
+  },
+  "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
+    "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "Bambus-Plasmapistolen",
+    "Plasma_Pistols_T6_T6_Honed_Bamboo_DisplayName": "Bambus-Plasmapistolen",
+    "Plasma_Pistols_T7_T7_Honed_Bamboo_DisplayName": "Bambus-Plasmapistolen",
+    "Plasma_Pistols_T8_T8_Honed_Bamboo_DisplayName": "Bambus-Plasmapistolen",
+    "Plasma_Pistols_T7_T7_Honed_Dragon_Opal_DisplayName": "Drachenopal-Plasmapistolen",
+    "Plasma_Pistols_T8_T8_Honed_Dragon_Opal_DisplayName": "Drachenopal-Plasmapistolen",
+    "Plasma_Pistols_T5_T5_Honed_Kozustone_DisplayName": "Kozustein-Plasmapistolen",
+    "Plasma_Pistols_T6_T6_Honed_Kozustone_DisplayName": "Kozustein-Plasmapistolen",
+    "Plasma_Pistols_T7_T7_Honed_Kozustone_DisplayName": "Kozustein-Plasmapistolen",
+    "Plasma_Pistols_T8_T8_Honed_Kozustone_DisplayName": "Kozustein-Plasmapistolen",
+    "Plasma_Pistols_T6_T6_Honed_Steel_DisplayName": "Stahl-Plasmapistolen",
+    "Plasma_Pistols_T7_T7_Honed_Steel_DisplayName": "Stahl-Plasmapistolen",
+    "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "Stahl-Plasmapistolen"
+  },
+  "Juno_UpdateItemData": {
+    "154D52A747D30B2EAFA712A289645F6D": "Plasmapistolen",
+    "61FD372A4CB97B18D20D6FA5761F7026": "Plasmapistolen",
+    "7B04D8D34F9407730A1CDB9CE3F62067": "Plasmapistolen",
+    "E4EF40D34E94A918540D478454F8A407": "Plasmapistolen"
+  }
+}

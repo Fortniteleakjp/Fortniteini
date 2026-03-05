@@ -1,0 +1,37 @@
+{
+  "": {
+    "497EBD6F4BE687D2A803AF8B8F226C6F": "00:00",
+    "0DA7CDA0445A881D8B587E99395603CE": "Claquete",
+    "56A03FF7436EC20DE829418960AB9A08": "Claquete",
+    "CBED28064D13CE2F8EFD03BBF8FD1EF6": "Contagem Regressiva",
+    "54EF511B43B2E65B7886F99DA6DD9816": "Contagem Progressiva",
+    "DBD3CF07469018D06ECB89BBCBA06AC2": "Desabilitada",
+    "AE5B62204B1FB18FD103519F4F38C337": "Quando esta opção é definida, esta claquete só enviará um sinal se a transmissão que atingiu sua marcação de tempo for a transmissão indicada.",
+    "77D7DD294A81C19292A44388D4D1A105": "Transmissão Inválida",
+    "15CAFDE0497C42D493DB10828B7326A0": "Manda um sinal quando o vídeo em reprodução atinge a marcação de tempo determinada.",
+    "EE6F8DDD48E31DD985B5C6A458134926": "Manda sinais quando a transmissão em reprodução chega a determinado ponto.",
+    "F577B6BA4C36A5FB1AE322A9284D0EFE": "Define se o tempo na claquete regredirá até 0 ou contará até o tempo definido.",
+    "47A0B0E747D41C694384768BB2B392E6": "Transmissão Específica",
+    "C8C43A1C4FFCC7356B72B1897BA7D097": "Tempo (Milissegundos)",
+    "2ED1F344488EB2612D092586C1725442": "Tempo (Minutos)",
+    "5750BFD542FFB083102152A0A1BC2154": "Tempo (Segundos)",
+    "8E2D4B6E4DD05F33111416A689848AB7": "Exibição do Tempo",
+    "BA3F7673424D1E2D32DFC4A719B9928D": "Transmitir Quando Atingir o Tempo",
+    "FF2400934566662794B5DB97A137A842": "Transmite um sinal neste canal ao fim do temporizador deste dispositivo.",
+    "BF86DB0048B26EA18ACCDF9F1F46711C": "{0}",
+    "13F5562D46588A7FA31631BF22ACA7EB": "{0} ms",
+    "064C4B864CDFAFB0C2333C849CD6B11D": "{0} s",
+    "FFD2DA044BD5B7DFBEB0CBB04770DB4A": "{min}:{sec}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Rótulo"
+  },
+  "UserOptionDefinition": {
+    "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "Desabilitar",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "Desabilita o dispositivo ao receber um sinal do canal selecionado.",
+    "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "Habilitar",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "Habilita o dispositivo ao receber um sinal do canal selecionado.",
+    "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "Ao Atingir o Tempo",
+    "Creative_Device_StreamClapBoard_C.Time Reached.Description": "Transmite um sinal neste canal ao fim do temporizador deste dispositivo."
+  }
+}

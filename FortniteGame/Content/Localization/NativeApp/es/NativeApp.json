@@ -1,0 +1,27 @@
+{
+  "FORTMOBILE_HUDLAYOUTPROFILE": {
+    "HUDProfileContainerSaveSlotTitle": "{0} Copiar"
+  },
+  "Fortnite": {
+    "DoubleElimination": "Eliminación doble",
+    "Down": "Abajo",
+    "DebugLoadContentFail": "Error en la descarga",
+    "Eliminated": "Eliminado",
+    "Elimination": "Eliminación",
+    "UEFNMobileSessionMainMenuError_Confirmation": "Salir de la sesión",
+    "UEFNMobileSessionMainMenuError_MessageDialog": "No está permitido ir al menú principal en una sesión móvil de UEFN.",
+    "UEFNMobileSessionMainMenuError_Title": "Sesión móvil",
+    "MultiElimination": "Eliminación múltiple",
+    "UEFNMobileSessionMainMenu_MessageBodyErrorEmptyReason": "Algo ha salido mal. Se va a salir de la sesión móvil",
+    "UEFNMobileSessionMainMenu_MessageBodyError": "Algo ha salido mal: {Reason}. Se va a salir de la sesión móvil",
+    "TripleElimination": "Eliminación triple",
+    "Win": "Victoria",
+    "UEFNMobileSessionMainMenu_MessageBody": "No puedes entrar en la sala de Fortnite mientras estás en una sesión móvil. ¿Quieres salir?"
+  },
+  "ReturnToMainMenuReason": {
+    "PlaybackError": "Se ha producido un error al reproducir la jugada."
+  },
+  "SpriteCategory": {
+    "Lighting": "Iluminación"
+  }
+}

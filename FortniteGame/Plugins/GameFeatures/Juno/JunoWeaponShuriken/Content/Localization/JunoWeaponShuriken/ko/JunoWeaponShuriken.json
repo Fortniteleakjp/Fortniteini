@@ -1,0 +1,50 @@
+{
+  "": {
+    "67320F2F4EF316AB1ACEC181C9402FA1": "칼날",
+    "D96EFA7940C10FEA5ADD5A8E6814AB3E": "수리도 되나요? 물론 되죠!",
+    "E97D828E401794E0E6035D9F0052C954": "수리도 되나요? 물론 되죠!",
+    "11D19E87472E5A93C8E03DBB47CBB549": "중앙",
+    "5BE5CA8F476A74105C2107A1D1BE363F": "일반 수리검입니다. 닌자들이 좋아하는 날카로운 별모양 투척 무기입니다. ",
+    "492E847A4056722468D9F1B7CAFE388C": "에픽 수리검입니다. 닌자들이 좋아하는 날카로운 별 모양 투척 무기입니다.",
+    "18FA88BF49B66EA60C8D60B46BC1B3AC": "닌자 숙련 탭에서 배우세요 ",
+    "6F05C4FC4D58CB2C77D1698AE043E597": "닌자 숙련 탭에서 배우세요 ",
+    "86F5523A4B77B62BB87DB897E5AB31EC": "닌자 숙련 탭에서 배우세요 ",
+    "90D66A5C4C2F770E96FD9F86F79D58A5": "닌자 숙련 탭에서 배우세요 ",
+    "810270FA4C6EA512EA96118BC032FE27": "전설 수리검입니다. 닌자들이 좋아하는 날카로운 별 모양 투척 무기입니다.",
+    "3BD009B74B9055B4FEAE85A01DE4E0E9": "마치 투척용 스핀짓주 토네이도 같습니다.",
+    "88A8547E4AFE4F1D8470E5A08F7EB884": "희귀 수리검입니다. 닌자들이 좋아하는 날카로운 별 모양 투척 무기입니다.",
+    "1621FE2D4F6EB770ED345BACD8F069CB": "전투 시간도 깎아주고... 적도 깎아줍니다.",
+    "7A9A3E76432BF59F037B7B809A42F41F": "이 수리검은 내가 수리한 수리검인가 내가 수리 안 한 수리검인가.",
+    "0100F12640782A81255181BBEFF5BFA7": "투척 무기",
+    "425BA21942D3D6689773D686AD7EF2F7": "투척 무기",
+    "C2D4C9C84D1110C483A711AAD3729A20": "투척 무기",
+    "D751132B427D4ECA77992D8D271A891D": "투척 무기",
+    "E3FBFE784A2317E78F83BFAE859D2A69": "투척 무기",
+    "960E82854A9E861824DCA9BA7AC83EE4": "고급 수리검입니다. 닌자들이 좋아하는 날카로운 별 모양 투척 무기입니다."
+  },
+  "Juno_BoostedItemNames_Shuriken": {
+    "Shuriken_T5_T5_Honed_Bamboo_DisplayName": "대나무 수리검",
+    "Shuriken_T6_T6_Honed_Bamboo_DisplayName": "대나무 수리검",
+    "Shuriken_T7_T7_Honed_Bamboo_DisplayName": "대나무 수리검",
+    "Shuriken_T8_T8_Honed_Bamboo_DisplayName": "대나무 수리검",
+    "Shuriken_T7_T7_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 수리검",
+    "Shuriken_T8_T8_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 수리검",
+    "Shuriken_T5_T5_Honed_Kozustone_DisplayName": "코주스톤 수리검",
+    "Shuriken_T6_T6_Honed_Kozustone_DisplayName": "코주스톤 수리검",
+    "Shuriken_T7_T7_Honed_Kozustone_DisplayName": "코주스톤 수리검",
+    "Shuriken_T8_T8_Honed_Kozustone_DisplayName": "코주스톤 수리검",
+    "Shuriken_T6_T6_Honed_Steel_DisplayName": "강철 수리검",
+    "Shuriken_T7_T7_Honed_Steel_DisplayName": "강철 수리검",
+    "Shuriken_T8_T8_Honed_Steel_DisplayName": "강철 수리검"
+  },
+  "Juno_CBCFormulas_Shuriken": {
+    "Shuriken_DisplayName": "수리검"
+  },
+  "Juno_UpdateItemData": {
+    "3EB23374462AD1A4264B89B674069060": "수리검",
+    "863A6B134C12EED19BFA259464C5BC28": "수리검",
+    "DF616BC44AB6277D45CD3FAC66107E74": "수리검",
+    "E44D5CCF4255E842F3333B838A8725C8": "수리검",
+    "E8493B554EBD22EAD4974CA8D18255ED": "수리검"
+  }
+}

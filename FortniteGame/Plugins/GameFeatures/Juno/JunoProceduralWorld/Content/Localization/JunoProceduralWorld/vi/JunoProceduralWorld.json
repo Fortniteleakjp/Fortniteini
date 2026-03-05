@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "Nhiều Giá Trị",
+    "NoComponent": "Không",
+    "ConvertSelectedActorsToIAsText": "[Juno] Chuyển đổi {0} thành Chủ Thể Phiên Bản Hóa"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "Thuộc tính cho đường dẫn chủ thể đã giải quyết '{0}', tên hàng đã giải quyết '{1}' và/hoặc biểu thị '{2}' đang xung đột với các tên thuộc tính khác",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(Thêm các thuộc tính sau:{ActorPath} : Chuỗi : Đường dẫn chuỗi để chủ thể tạo ra (sao chép từ hàng bảng){Representation} : Tên : Giá trị EJunoRepresentation về cách tạo chủ thể (sao chép từ hàng bảng){RowName} : Số thực : Tên của hàng đã chọn.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(Đọc các thuộc tính sau trên luồng dữ liệu không gian:{BiomeTableName} : Chuỗi : Đường dẫn cho bảng dữ liệu quần thể để đọc{FilterName} : Tên : Tùy chọn. Nếu được chỉ định, nó sẽ chỉ chọn các hàng có tên loại khớp với giá trị của thuộc tính này.{LayerWeight} : Số thực : Tùy chọn. Nếu được chỉ định, cột 'LayerWeights' sẽ được sử dụng thay cho 'Weight', được nội suy theo giá trị này.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(Thuộc tính cài đặt có thể được ghi đè bằng:{P0} : Tên{P1} : Tên{P2} : Tên{P3} : Tên{P4} : Tên{P5} : Tên)docs",
+    "UPCGJunoPathfindSettingsShapePin": "Định hình để tìm đường đi (có thể là Cảnh Quan!)",
+    "UnableToGetPointData": "Không thể lấy dữ liệu Điểm từ đầu vào",
+    "UnableToGetSpatialData": "Không thể lấy dữ liệu Không Gian từ đầu vào"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu độ cao, khởi tạo thất bại.",
+    "TextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu này, khởi tạo thất bại.",
+    "LandscapeComponentLost": "Đã mất tham chiếu đến một hoặc nhiều thành phần cảnh quan, bản đồ sẽ không được tạo."
+  }
+}

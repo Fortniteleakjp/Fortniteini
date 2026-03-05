@@ -1,0 +1,47 @@
+{
+  "": {
+    "232F904440BC3A033E6337B5E384F2B2": "곤히 잠들게 해줍니다.",
+    "FB3BEC4C4A482936DC56C4A7228B3876": "일반 쌍절곤입니다. 이 빠른 닌자 무기로 적을 강타해 굴복시키세요.",
+    "0B3F3BB441C766F5706B0AA7A8140ABE": "<img id=\"IcoNinja\"/>닌자고 섬에서 첫 퀘스트를 완료하세요",
+    "4CF5389B41A649CD8B0F918DAEB91E19": "<img id=\"IcoNinja\"/>닌자고 섬에서 첫 퀘스트를 완료하세요",
+    "B20C6C8243CFAC9DFA03DBA43883B1DA": "<img id=\"IcoNinja\"/>닌자고 섬에서 첫 퀘스트를 완료하세요",
+    "B74E7099443434ADC72C36AC120AFEEA": "<img id=\"IcoNinja\"/>닌자고 섬에서 첫 퀘스트를 완료하세요",
+    "E27A5B174002E4206237A1A1D3C8EAD5": "<img id=\"IcoNinja\"/>닌자고 섬에서 첫 퀘스트를 완료하세요",
+    "E1FCA581470D5785BCA1A787D04E70E5": "에픽 쌍절곤입니다. 이 빠른 닌자 무기로 적을 강타해 굴복시키세요.",
+    "D3D9014F439FF82E3B9D6095C155C21D": "휘두르고 싶어집니다.",
+    "BE121C264FE8A591F65ED6ADBE534E1D": "손잡이",
+    "12315A064273B463455A56BC9B5D45B4": "쌍절곤으로 절단낼 수 있다면 쌍절곤으로 얼마나 많이 절단낼 수 있을까요?",
+    "8DE8D2DC4E9F619F338D6A80F8676FE5": "전설 쌍절곤입니다. 이 빠른 닌자 무기로 적을 강타해 굴복시키세요.",
+    "A92E48D24F6D8211BBA2588305AB7B07": "연결 사슬",
+    "BE6CD11241F70A4BBA989194FB806CA4": "어리석은 자를 위한 무기가 아닙니다.",
+    "C7F9EB0241CEA5E50B4764B30A77E097": "다른 녀석들이 쌍관할 일이 아닙니다",
+    "34D71B9F4AD521BD53EDC9B1835D9237": "희귀 쌍절곤입니다. 이 빠른 닌자 무기로 적을 강타해 굴복시키세요.",
+    "487CA54E4CFBE4FE72035988E1535154": "고급 쌍절곤입니다. 이 빠른 닌자 무기로 적을 강타해 굴복시키세요."
+  },
+  "Juno_BoostedItemNames_Nunchucks": {
+    "Nunchucks_T4_T4_Bamboo_DisplayName": "대나무 쌍절곤",
+    "Nunchucks_T5_T5_Honed_Bamboo_DisplayName": "대나무 쌍절곤",
+    "Nunchucks_T6_T6_Honed_Bamboo_DisplayName": "대나무 쌍절곤",
+    "Nunchucks_T7_T7_Honed_Bamboo_DisplayName": "대나무 쌍절곤",
+    "Nunchucks_T8_T8_Honed_Bamboo_DisplayName": "대나무 쌍절곤",
+    "Nunchucks_T7_T7_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 쌍절곤",
+    "Nunchucks_T8_T8_Honed_Dragon_Opal_DisplayName": "드래곤 오팔 쌍절곤",
+    "Nunchucks_T5_T5_Honed_Kozustone_DisplayName": "코주스톤 쌍절곤",
+    "Nunchucks_T6_T6_Honed_Kozustone_DisplayName": "코주스톤 쌍절곤",
+    "Nunchucks_T7_T7_Honed_Kozustone_DisplayName": "코주스톤 쌍절곤",
+    "Nunchucks_T8_T8_Honed_Kozustone_DisplayName": "코주스톤 쌍절곤",
+    "Nunchucks_T6_T6_Honed_Steel_DisplayName": "강철 쌍절곤",
+    "Nunchucks_T7_T7_Honed_Steel_DisplayName": "강철 쌍절곤",
+    "Nunchucks_T8_T8_Honed_Steel_DisplayName": "강철 쌍절곤"
+  },
+  "Juno_CBCFormulas_Nunchucks": {
+    "Nunchucks_DisplayName": "쌍절곤"
+  },
+  "Juno_UpdateItemData": {
+    "0F0118FD49D31B09DE4FECAF9E4B85F6": "쌍절곤",
+    "5EAC5DBC431F97B93C078582EAB05E32": "쌍절곤",
+    "79735EDA4A054667CB447C817F531CB8": "쌍절곤",
+    "7BFBDFE44B5AC7190EE6B890E98ABFCA": "쌍절곤",
+    "DF515FAC4948E32D784589A6F952EED3": "쌍절곤"
+  }
+}

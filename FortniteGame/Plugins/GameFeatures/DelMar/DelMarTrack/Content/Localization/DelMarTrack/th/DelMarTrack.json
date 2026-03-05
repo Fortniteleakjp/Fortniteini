@@ -1,0 +1,109 @@
+{
+  "": {
+    "AEC3E5D145654881107EABA1385B7959": "เปิดใช้งานแทร็กที่กำหนดเมื่อมีนักแข่งเข้าสู่โซนนี้ โดยทั่วไปจะใช้สำหรับแทร็กที่ไม่มีรายละเอียดฉากหลัง",
+    "9F99EFB641D35FBC23B43D816B0D87D3": "ระดับเสียงแทร็ก RR ที่เปิดใช้งาน"
+  },
+  "DelMarMetaDataWidget": {
+    "Force Hidden Track Respawns": "บังคับให้เกิดใหม่ในแทร็กที่ซ่อนอยู่",
+    "MultipleValues": "ค่าหลายค่า",
+    "Off Track Radius": "รัศมีนอกแทร็ก",
+    "Use Back Endcap": "ใช้ Back Endcap",
+    "Use Front Endcap": "ใช้ Front Endcap",
+    "Use Stable Roll": "ใช้การม้วนแบบมั่นคง"
+  },
+  "DelMarSelectedNodesWidget": {
+    "ChangeShapeOfMultipleNodes": "เปลี่ยนรูปร่างของโหนดหลายโหนด",
+    "DeleteMultipleNodeConfirmation": "ลบโหนดหลายโหนดหรือไม่?",
+    "DeleteMultipleNodes": "ลบโหนดหลายโหนด",
+    "EnableOOBTube": "เปิดใช้งานท่อ OOB",
+    "MeshCustomizations": "การปรับแต่ง Mesh หลายรายการ",
+    "MultipleNodesSelected": "เลือกหลายโหนดแล้ว",
+    "UseStableRollOnMultiple": "ใช้การม้วนแบบมั่นคงหลายรายการ"
+  },
+  "DelMarSingleNodeWidget": {
+    "DeleteNode": "ลบโหนด",
+    "DeleteNodeConfirmation": "ลบโหนดหรือไม่?",
+    "MetaDataIndexTitle": "ดัชนี: {CurrentIndex}",
+    "SingleNodeSelected": "เลือกโหนดเดียวแล้ว",
+    "SplitNode": "แยกที่โหนด",
+    "SplitNodeConfirmation": "แยกที่โหนดหรือไม่?"
+  },
+  "DelMarStyleEditorWidget": {
+    "Device": "อุปกรณ์",
+    "DeviceProperties": "คุณสมบัติอุปกรณ์",
+    "EditDevice": "แก้ไขอุปกรณ์",
+    "EditTrack": "แก้ไขแทร็ก",
+    "Looping Track": "แทร็กวนลูป",
+    "None": "ไม่มี",
+    "RoadStyle": "สไตล์ถนน",
+    "SelectSplinePoints": "เลือกจุดสไปลน์",
+    "SelectedPoints": "จุดที่เลือก",
+    "Theme": "ธีม",
+    "Track": "แทร็ก"
+  },
+  "DelMarTrack": {
+    "SecondaryTrackBadConnection": "มีปัญหาการเชื่อมต่อแทร็กรอง! ตรวจสอบให้แน่ใจว่าแทร็กรองทุกเส้นเชื่อมกับแทร็กหลักหรือแทร็กรองแล้ว: {1} แผนที่: {2}",
+    "NoEndTrackConnection": "แทร็กสำรองไม่มี EndTrackConnection ใน {0} แผนที่: {1}",
+    "NoStartTrackConnection": "แทร็กสำรองไม่มี StartTrackConnection ใน {0} แผนที่: {1}",
+    "SecondaryTrackLoops": "ตรวจพบการวนลูปของแทร็กรอง! ตรวจพบการวนลูปที่แทร็ก {0} (แทร็กเริ่มต้น: {1}) แผนที่: {2}"
+  },
+  "DelMarTrackEditor": {
+    "Advanced": "ขั้นสูง",
+    "AttachToEnd": "แนบไปที่จุดสิ้นสุด",
+    "AttachToStart": "แนบไปที่จุดเริ่มต้น",
+    "Attaching": "กำลังแนบ",
+    "ConvertOobTubesToNative_Label": "แปลงท่อ OOB พิมพ์เขียวเป็นแบบดั้งเดิม",
+    "ConvertOobTubesToNative_Tooltip": "แปลงท่อ OOB พิมพ์เขียวที่มีอยู่ทั้งหมดให้เทียบเท่าแบบดั้งเดิม",
+    "DelMarTrack": "แทร็ก DelMar",
+    "PrintAttachableActors": "พิมพ์ตัวแสดงที่แนบได้",
+    "RebuildOobTube": "สร้างท่อ OOB ใหม่",
+    "DelMarStyleEditor": "ตัวแก้ไขสไตล์"
+  },
+  "DelMarTrackSplineComponentVisualizer": {
+    "DelMar": "Del Mar",
+    "DelMarSplineComponentVisualizer": "วิชวลไลเซอร์องค์ประกอบสไปลน์ DelMar"
+  },
+  "DelMarTrackWidget": {
+    "OOBTubeTabTitle": "ท่อ OOB",
+    "Rebuild OOB Tube": "สร้างท่อ OOB ใหม่",
+    "RoadSplineTabTitle": "สไปลน์ถนน",
+    "SelectedSplineTabTitle": "โหนดที่เลือก",
+    "SplineLengthTitle": "ความยาวสไปลน์: {SplineLength}"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "SDelMarOobSelectedNodesWidget": {
+    "SelectSplinePoints": "เลือกจุดสไปลน์",
+    "SelectedPoints": "จุดที่เลือก"
+  },
+  "SDelMarRoadShapeWidget": {
+    "BankedRoad": "ถนนลาดเอียง",
+    "Change Road Shape": "เปลี่ยนรูปร่างถนน",
+    "FlatRoad": "ถนนเรียบ",
+    "HalfPipe": "ครึ่งท่อ",
+    "Pipe": "ท่อ",
+    "RoadShape": "รูปร่างถนน",
+    "Tunnel": "อุโมงค์"
+  },
+  "SDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "เพิ่มจุดสไปลน์ถัดไปไปยังการเลือกปัจจุบัน",
+    "SelectAddPrevSplinePointToolTip": "เพิ่มจุดสไปลน์ก่อนหน้าไปยังการเลือกปัจจุบัน",
+    "DeleteMultipleNodeConfirmation": "ลบโหนดหลายโหนดหรือไม่?",
+    "SelectDeleteSplinePointToolTip": "ลบจุดที่เลือกปัจจุบัน",
+    "SelectAllSplinePointToolTip": "เลือกจุดสไปลน์ทั้งหมด",
+    "SelectFirstSplinePointToolTip": "เลือกจุดสไปลน์แรก",
+    "SelectLastSplinePointToolTip": "เลือกจุดสไปลน์สุดท้าย",
+    "SelectNextSplinePointToolTip": "เลือกจุดสไปลน์ถัดไป",
+    "SelectPrevSplinePointToolTip": "เลือกจุดสไปลน์ก่อนหน้า",
+    "SplitNodeConfirmation": "แยกที่โหนดที่เลือกอยู่หรือไม่?",
+    "SelectSplitSplinePointToolTip": "แยกโหนดที่ดัชนีที่เลือก"
+  },
+  "UICommands.DelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "สลับจุดสไปลน์ที่เลือกเป็นธงใช้การม้วนเสถียร",
+    "ToggleUseStableRoll": "ใช้การม้วนแบบมั่นคง"
+  },
+  "UserOptionDefinition": {
+    "DelMarTrack_ActiveTrigger_C.TrackToActivate.DisplayName": "แทร็กเพื่อเปิดใช้งาน"
+  }
+}

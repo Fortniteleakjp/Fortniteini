@@ -1,0 +1,22 @@
+{
+  "": {
+    "73D2CE984373AB624525A994C75B85B2": "Dinonaktifkan",
+    "DCB3DB7C45DAAC31102ACB882DED8896": "Dinonaktifkan",
+    "7F622AD141A596DB6DA4A69D874C2761": "Diaktifkan",
+    "F635B92B4F6D69AC48F18D8428078A2F": "Diaktifkan",
+    "E819C07E4D525CACB4BC0BA3E1EFBE1B": "Biarkan pemain menjalankan skrip Verse kustom",
+    "0156B90F4D5E75298F886FA5AFC000E7": "Memuat dan menjalankan skrip Verse yang telah ditentukan.",
+    "12BB4013449DF18D296F85AA4CB849E1": "Perangkat Skrip",
+    "1A23F40D46BA3DEA4960ACB702BB954F": "Perangkat Skrip",
+    "4033820A43CE091C31CEF486B399093F": "Perangkat Skrip"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "VerseDevice_C.VisibleInGame.Description": "Menentukan apakah perangkat skrip terlihat selama game.",
+    "VerseDevice_C.Enabled at Game Start.DisplayName": "Diaktifkan pada Awal Game",
+    "VerseDevice_C.VisibleInGame.DisplayName": "Terlihat dalam Game",
+    "VerseDevice_C.Enabled at Game Start.Description": "Apakah skrip yang terlampir akan dijalankan selama game atau tidak."
+  }
+}

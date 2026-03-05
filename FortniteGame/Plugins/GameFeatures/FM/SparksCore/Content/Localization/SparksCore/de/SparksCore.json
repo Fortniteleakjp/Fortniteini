@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Wähle dein Instrument",
+    "E70730D546323455388D0F8862938650": "Wähle dein Instrument",
+    "94FB361A46082147B697C19A318D8F49": "Wähle deinen Song",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Jam Loops",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Jam-Songs",
+    "LockerJamTracksCategory": "Spind-Jam-Songs"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Jam-Song"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Tägliche Vibes",
+    "setlist_1_title": "Tägliche Vibes",
+    "setlist_title_1": "Tägliche Vibes",
+    "daily_1_desc": "Tägliche Vibes-Beschreibung!",
+    "setlist_1_desc": "Tägliche Vibes-Beschreibung!",
+    "setlist_desc_1": "Tägliche Vibes-Beschreibung!",
+    "festival_1_title": "Festival-Auswahl",
+    "setlist_3_title": "Festival-Auswahl",
+    "setlist_title_3": "Festival-Auswahl",
+    "festival_1_desc": "Festival-Auswahl-Beschreibung!",
+    "setlist_3_desc": "Festival-Auswahl-Beschreibung!",
+    "setlist_desc_3": "Festival-Auswahl-Beschreibung!",
+    "setlist_desc_Fortnitemares": "Fortnite: Albträume",
+    "setlist_title_Fortnitemares": "Fortnite: Albträume",
+    "setlist_2_title": "Spotlight-Setlist",
+    "setlist_title_2": "Spotlight-Setlist",
+    "spotlight_1_title": "Spotlight-Setlist",
+    "setlist_2_desc": "Spotlight-Setlist-Beschreibung!",
+    "setlist_desc_2": "Spotlight-Setlist-Beschreibung!",
+    "spotlight_1_desc": "Spotlight-Setlist-Beschreibung!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Angepasste Setlist",
+    "ProductMode_DisplayName_Setlist1": "Tägliche Setlist",
+    "Daily_1_Title": "Tägliche Vibes",
+    "Daily_1_Desc": "Tägliche Vibes-Beschreibung aus der Tabelle",
+    "Festival_1_Title": "Festival-Auswahl",
+    "Festival_1_Desc": "Festival-Auswahl-Beschreibung aus der Tabelle",
+    "Default_Title": "Festival-Setlist",
+    "ProductMode_DisplayName_Setlist3": "Spotlight-Setlist",
+    "Spotlight_1_Title": "Spotlight-Setlist",
+    "Spotlight_1_Desc": "Spotlight-Setlist-Beschreibung aus der Tabelle",
+    "Default_Desc": "DIES IST DIE STANDARD-SETLIST-BESCHREIBUNG!",
+    "ProductMode_DisplayName_Setlist2": "Wöchentliche Setlist"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Künstlername",
+    "SparksAvailableFilter": "Verfügbar",
+    "SparksDefaultFilter": "Standard",
+    "SparksFeaturedSort": "Vorgestellt",
+    "SparksFeaturedFilter": "Neu und vorgestellt",
+    "SparksOwnedFilter": "Im Besitz",
+    "SparksOwnedSort": "Besitzer",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Archiviertes anzeigen",
+    "SparksAlphaSort": "Songtitel, A–Z",
+    "SparksAlphaSortReverse": "Songtitel, Z–A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

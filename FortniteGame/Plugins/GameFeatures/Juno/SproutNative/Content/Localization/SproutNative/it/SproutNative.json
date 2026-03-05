@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Un singolo numero intero che indica la quantità di scelte di dialogo da generare (più sono, meglio è).",
+    "NulledOption": "NON IN USO. IGNORA.",
+    "OptionFive_NPCResponse": "La risposta completa del dialogo con il PNG, che si attiva solo se i giocatori selezionano \"OpzioneCinque\" (se utilizzata).",
+    "OptionFour_NPCResponse": "La risposta completa del dialogo con il PNG, che si attiva solo se i giocatori selezionano \"OpzioneQuattro\" (se utilizzata).",
+    "OptionOne_NPCResponse": "La risposta completa del dialogo con il PNG, che si attiva solo se i giocatori selezionano \"OpzioneUno\" (se utilizzata).",
+    "OptionSix_NPCResponse": "La risposta completa del dialogo con il PNG, che si attiva solo se i giocatori selezionano \"OpzioneSei\" (se utilizzata).",
+    "OptionThree_NPCResponse": "La risposta completa del dialogo con il PNG, che si attiva solo se i giocatori selezionano \"OpzioneTre\" (se utilizzata).",
+    "OptionTwo_NPCResponse": "La risposta completa del dialogo con il PNG, che si attiva solo se i giocatori selezionano \"OpzioneDue\" (se utilizzata).",
+    "MainQuestion": "La domanda centrale posta dal PNG, a cui i giocatori risponderanno scegliendo una delle opzioni.",
+    "OptionFive": "Il testo per la quinta opzione di dialogo presentata ai giocatori. Questa è una possibile risposta alla \"DomandaPrincipale\".",
+    "OptionOne": "Il testo per la prima opzione di dialogo presentata ai giocatori. Questa è una possibile risposta alla \"DomandaPrincipale\".",
+    "OptionFour": "Il testo per la quarta opzione di dialogo presentata ai giocatori. Questa è una possibile risposta alla \"DomandaPrincipale\".",
+    "OptionTwo": "Il testo per la seconda opzione di dialogo presentata ai giocatori. Questa è una possibile risposta alla \"DomandaPrincipale\".",
+    "OptionSix": "Il testo per la sesta opzione di dialogo presentata ai giocatori. Questa è una possibile risposta alla \"DomandaPrincipale\".",
+    "OptionThree": "Il testo per la terza opzione di dialogo presentata ai giocatori. Questa è una possibile risposta alla \"DomandaPrincipale\"."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "È fondamentale basare la tua scelta solo sulla battuta di dialogo immediata, non sull'emozione primaria attuale del PNG; scegli quale emozione modificare (Felice, Triste, Furente, Tremante, Neutrale), che farà partire un'animazione e aumenterà il punteggio di quell'emozione. Tuttavia, l'emozione primaria del PNG sarà comunque quella con il punteggio complessivo più alto, dove Felice influenza la positività, Triste un atteggiamento cupo, Furente conflittualità e Tremante la paura.",
+    "FeelingChangeValue": "Imposta l'intensità del CambioSentimento; poiché i sentimenti si attenuano rapidamente, il valore deve riflettere il peso emotivo del momento: per conversazioni semplici e casuali, utilizza un valore lieve tra 0 e 20 (con saluti semplici vicino a 0); per eventi significativi o dialoghi che richiedono un'azione dei giocatori, usa un valore moderato tra 20 e 60; per momenti importanti e cruciali (come un tradimento, il completamento di un incarico o il ricevimento di un regalo perfetto), utilizza un valore elevato tra 60 e 100.",
+    "DialogueDescription": "La linea di dialogo che vuoi far eseguire."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Sto pensando..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Sto pensando..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Sto pensando..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "La Def oggetto:\"{0}\" non è registrata tra i dati delle Funzionalità di gioco e non sarà localizzabile.",
+    "DuplicatePrimaryAssetError": "Due risorse diverse condividono la stessa risorsa primaria Id \"{0}\" e \"{1}\""
+  }
+}

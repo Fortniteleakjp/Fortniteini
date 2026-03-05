@@ -1,0 +1,10 @@
+{
+  "MusicTimeNetSync": {
+    "MusicTimeNetSyncInterfaceSeek": "跳轉",
+    "MusicTimeNetSyncInterfaceSeekTarget": "跳轉目標",
+    "MusicTimeNetSyncInterfaceSeek_Description": "尋找以跳轉目標。",
+    "MusicTimeNetSyncInterfaceSpeed": "速度",
+    "MusicTimeNetSyncInterfaceSpeed_Description": "計時應該使用的速度。",
+    "MusicTimeNetSyncInterfaceSeekTarget_Description": "跳轉的位置。"
+  }
+}

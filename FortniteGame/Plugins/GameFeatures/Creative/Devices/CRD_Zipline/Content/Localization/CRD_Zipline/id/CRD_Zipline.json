@@ -1,0 +1,42 @@
+{
+  "": {
+    "8F2B6E6B476DB519D417A7A29236F3A9": "Tidak Bisa Naiki Luncur Gantung",
+    "768283974295183A2A78FCBFBAFE1742": "Membuat luncur gantung yang memindah pemain dari titik ke titik",
+    "C7C925214E0954D490E48DB594FCAE7C": "Membuat luncur gantung yang memindah pemain dari titik ke titik",
+    "61985E5F481B78C1C10A0BB6755D6A9A": "Sesuaikan ",
+    "B59D1E0E4D1405DA0E585BB0034A02CD": "Perangkat Hanya Buat Transien yang berfungsi sebagai antarmuka alat telepon ke titik spline Luncur Gantung.",
+    "6D1DBFC24DB7E153953451BEF654AAC4": "Luncur Gantung",
+    "8CE167104123A4888338D3A2901028D8": "Luncur Gantung",
+    "D8E7A27E4792A318B0AFF3A995901F8D": "Titik Kontrol Luncur Gantung"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "ECreativeClassType.Any.DisplayName": "Apa pun",
+    "ECreativeTeamType.Any.DisplayName": "Apa pun",
+    "ClassSlotMetaData.DisplayPattern": "Kelas {0}",
+    "Device_Zipline_C.Color.DisplayName": "Warna",
+    "Device_ZiplineControlPoint_C.TangentIntensity.Description": "Menentukan jumlah pengaruh arah maju Titik Kontrol ini terhadap kurva jalur di lokasi ini.",
+    "Device_Zipline_C.UseCustomColor.Description": "Menentukan apakah kita menggunakan warna kustom selain yang default",
+    "Device_Zipline_C.Color.Description": "Menentukan warna kustom yang digunakan.",
+    "Device_Zipline_C.Selected Class.Description": "Menentukan kelas mana yang bisa menggunakan Luncur Gantung ini.",
+    "Device_Zipline_C.Selected Team.Description": "Menentukan tim mana yang bisa menggunakan Luncur Gantung ini.",
+    "Device_Zipline_C.Invert Class Selection.Description": "Jika diatur, perangkat akan mengizinkan semua kecuali kelas terpilih.",
+    "Device_Zipline_C.Invert Team Selection.Description": "Jika diatur, perangkat akan mengizinkan semua kecuali tim terpilih.",
+    "Device_Zipline_C.Invert Class Selection.DisplayName": "Balik Pemilihan Kelas",
+    "Device_Zipline_C.Invert Team Selection.DisplayName": "Balik Pemilihan Tim",
+    "ECreativeClassType.NoClass.DisplayName": "Tanpa Kelas",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "Device_Zipline_C.OnAttach.DisplayName": "Saat Memasang",
+    "Device_Zipline_C.OnDetach.DisplayName": "Saat Lepas",
+    "Device_Zipline_C.Selected Class.DisplayName": "Kelas Terpilih",
+    "Device_Zipline_C.Selected Team.DisplayName": "Tim Terpilih",
+    "Device_Zipline_C.OnAttach.Description": "Mengirim sinyal saat agen memasang ke luncur gantung.",
+    "Device_Zipline_C.OnDetach.Description": "Mengirim event saat agen lepas dari luncur gantung",
+    "Device_ZiplineControlPoint_C.TangentIntensity.DisplayName": "Intensitas Tangen",
+    "TeamIndexMetaData.DisplayPattern": "Tim {0}",
+    "Device_Zipline_C.UseCustomColor.DisplayName": "Gunakan Warna Kustom"
+  }
+}

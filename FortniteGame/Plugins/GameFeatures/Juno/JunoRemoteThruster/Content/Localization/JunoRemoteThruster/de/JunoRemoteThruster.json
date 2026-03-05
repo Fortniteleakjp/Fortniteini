@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "Für den Fall, dass du einen kleinen Boost brauchst. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "Wenn der Boost mal wieder nicht groß genug sein kann!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "Befestige große Düsen an bestehenden Gebäuden und dynamischen Objekten.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "Befestige kleine Düsen an bestehenden Gebäuden und dynamischen Objekten.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "Große Düse",
+    "5E9A371D43E076126910D39AF338F4B5": "Kleine Düse"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "Große Düse",
+    "RemoteThruster_DisplayName": "Kleine Düse"
+  }
+}

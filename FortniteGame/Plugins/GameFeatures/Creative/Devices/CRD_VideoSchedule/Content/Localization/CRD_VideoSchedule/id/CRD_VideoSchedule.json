@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "Memutar ulang video berdasarkan jadwal.",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "Menjadwalkan pemutaran ulang video di UEFN.",
+    "04683984415B4636C2EF72B51E178286": "Jadwal Video",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "VideoSchedule"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "Selaraskan Saat Jadwal Pengisian",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "Kontrol Pemutar Video",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "Harian",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "Jangan Ulang",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "Jadwal Pengisian",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "Celah Saat Jadwal Pengisian",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "Per Jam",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "Menautkan ke perangkat pemutar video yang harus dikendalikan oleh jadwal ini.",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "Ulang Jadwal",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "Jadwal (Tes)",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "Mulai",
+    "Device_VideoSchedule_Native_C.Start.Description": "Memulai putar ulang jadwal video.",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "Berhenti",
+    "Device_VideoSchedule_Native_C.Stop.Description": "Menghentikan putar ulang jadwal video.",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "Tes Terima Kontrol",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "Fungsi tes untuk menerima kontrol event pemutar video.",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "Apakah jadwal harus diulang atau tidak"
+  }
+}

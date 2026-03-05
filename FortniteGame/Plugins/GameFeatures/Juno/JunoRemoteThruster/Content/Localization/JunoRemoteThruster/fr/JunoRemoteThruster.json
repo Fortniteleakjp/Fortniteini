@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "Pour aller plus vite. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "Pour aller toujours plus vite !"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "Un grand propulseur à attacher à des structures existantes et des objets dynamiques.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "Un petit propulseur à attacher à des structures existantes et des objets dynamiques.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "Grand propulseur",
+    "5E9A371D43E076126910D39AF338F4B5": "Petit propulseur"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "Grand propulseur",
+    "RemoteThruster_DisplayName": "Petit propulseur"
+  }
+}

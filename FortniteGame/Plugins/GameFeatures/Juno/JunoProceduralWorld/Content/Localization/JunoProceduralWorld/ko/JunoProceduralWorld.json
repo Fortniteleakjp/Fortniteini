@@ -1,0 +1,22 @@
+{
+  "FJunoProceduralWorldEditorModule": {
+    "MultipleValuesText": "<multiple values>",
+    "MultipleValues": "다중 값",
+    "NoComponent": "없음",
+    "ConvertSelectedActorsToIAsText": "[Juno] {0}을(를) 인스턴스 액터로 변환"
+  },
+  "JunoProceduralWorld": {
+    "AttributeClash": "확인된 액터 경로 '{0}'의 속성, 확인된 열 이름 '{1}' 및/또는 다른 속성 이름과 충돌하는 대표 '{2}'",
+    "JunoResolveBiomeIngredients_Output": "R\"docs(다음 속성 추가:{ActorPath} : 스트링 : 액터가 생성되는 스트링 경로 (테이블 열에서 복사됨){Representation} : 이름 : 생성 방법에 대한 EJunoRepresentation 값 (테이블 열에서 복사됨){RowName} : 부동소수점 : 선택한 열의 이름.)docs",
+    "JunoResolveBiomeIngredients_Input": "R\"docs(공간 데이터 스트림에서 다음 속성을 읽음:{BiomeTableName} : 스트링 : {FilterName}을(를) 읽을 지형 데이터 테이블의 경로 : 이름 : 선택 사항. 명시하면 이 프로퍼티의 값과 일치하는 유형 이름이 적용된 열만 선택합니다.{LayerWeight} : 부동소수점 : 선택 사항. 명시되면 'Weight' 대신 이 값으로 보간된 'LayerWeights' 컬럼이 사용됩니다.)docs",
+    "JunoResolveBiomeIngredients_Param": "R\"docs(설정 속성을 다음으로 덮어쓸 순 없음:{P0} : 이름{P1} : 이름{P2} : 이름{P3} : 이름{P4} : 이름{P5} : 이름)docs",
+    "UPCGJunoPathfindSettingsShapePin": "건너갈 경로 찾기 형태 (풍경일 가능성 높음!)",
+    "UnableToGetPointData": "입력에서 점수 데이터를 받을 수 없습니다",
+    "UnableToGetSpatialData": "입력에서 공간 데이터를 받을 수 없습니다"
+  },
+  "PCGJunoGenerateLanscapeTexturesElement": {
+    "HeightTextureInitFailed": "높이 텍스처 데이터를 불러올 수 없어 초기화에 실패했습니다.",
+    "TextureInitFailed": "이 텍스처 데이터를 불러올 수 없어 초기화에 실패했습니다.",
+    "LandscapeComponentLost": "하나 이상의 지형 컴포넌트에 대한 참조가 누락되어 잔디 맵을 생성할 수 없습니다."
+  }
+}

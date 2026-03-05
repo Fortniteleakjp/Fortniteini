@@ -1,0 +1,67 @@
+{
+  "EnvQueryGenerator": {
+    "PointsOutsideVolume": "Espace entre : {1}",
+    "PointsOutsideVolumeDescriptionContext": "{0} : généré hors de {1}",
+    "PointsOutsideVolumeDescriptionWithProjection": "{Description}, {ProjectionDescription}"
+  },
+  "FJunoStateDrivenEvent_InsertItem": {
+    "InsertItem": "Placer {ItemName}"
+  },
+  "JunoControllerComponent": {
+    "OnPlayerDiedGameEvent": "<Yellow>Élimination de</> {0}.",
+    "OnPlayerSavedByTotemGameEvent": "{0} <Yellow>a survécu grâce à un fétiche</>."
+  },
+  "JunoConversationTaskNode_GiftNPC": {
+    "GiftXToNPC": "Offrir {ItemDisplayText}"
+  },
+  "JunoConversationTaskNode_GrantLostAndFoundItem": {
+    "LNFDropAll": "Donnez-moi tout !",
+    "LNFDropNOfX": "{WantItem} x{WantItemCount}."
+  },
+  "JunoConversationTaskNode_RemoteCampRecruitment": {
+    "JoinInCampX": "Rejoindre le camp {0}"
+  },
+  "JunoConversationTaskNode_TradeWithMerchant": {
+    "NotEnoughForTrade": "Pas assez pour effectuer un échange. Il faut {WantItem} x{WantItemCount} pour obtenir {SellItem} x{SellItemCount}. \n {BundleCount} packs restants.",
+    "TradeXForX": "Échangez {WantItem} x{WantItemCount} contre {SellItem} x{SellItemCount}. \n {BundleCount} packs restants."
+  },
+  "JunoConversationTask_GetResource": {
+    "Finished": "Terminé !",
+    "GetX": "{0}"
+  },
+  "JunoGameStateComponent_GameEventStream": {
+    "GameMemberAdded": "{0} <Yellow>a rejoint le monde</>.",
+    "GameMemberDisconnected": "{0} <Yellow>a quitté le monde</>."
+  },
+  "JunoItemChargeCost": {
+    "AddChargeCostUnits": "ajouter une charge",
+    "ChargeCostUnits": "Charge",
+    "CostFmtStr": "{CostValue} {ChargeType} {CostType}"
+  },
+  "JunoSpeech": {
+    "JunoSpeech_UnknownParticipant": "???",
+    "JunoSpeech_ConsecutiveSpeechDefaultText": "Continuer",
+    "JunoSpeech_NoAIRole": "Sans travail",
+    "JunoSpeech_NoBoundCampName": "Village sans nom",
+    "JunoSpeech_NoLastUsedGatheringActor": "Pas de poste"
+  },
+  "JunoStorageChest": {
+    "Open": "Ouvrir",
+    "Search": "Fouiller"
+  },
+  "JunoUI": {
+    "JunoUI_CampNameFormat": "Village de {PlayerName} : {VillageCount}"
+  },
+  "NetworkErrors": {
+    "KickedPlayerForInactivity": "Déconnexion pour cause d'absence. La connexion à l'hôte a été perdue à cause d'une trop longue durée d'inactivité.",
+    "SpawnedWhenPermanentlyDead": "Ce client est hors service."
+  },
+  "UJunoGuidedBuildingInteractionComponent": {
+    "GetInteractionText": "Commencer la construction guidée"
+  },
+  "UJunoPlayerBuildingComponent": {
+    "MCPItemPlacedMessageDescription_ZeroLeft": "Il s'agit du dernier des mondes de vos amis dans lequel vous pouvez placer du contenu acheté cette semaine.",
+    "MCPItemPlacedMessageTitleText": "Attention ! Contenu acheté",
+    "MCPItemPlacedMessageDescription_NLeft": "Cette semaine, vous pouvez encore placer du contenu acheté dans {0} mondes de vos amis."
+  }
+}

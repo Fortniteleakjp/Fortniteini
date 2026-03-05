@@ -1,0 +1,18 @@
+{
+  "": {
+    "7838AC3245F6E8CB14BDD880F1C85DE3": "CROSSWALK",
+    "09298F2740CA51082D6CA3991E6A7A43": "Cash Value: {val} | {perc}% - {spawned} / {total}",
+    "59CCF21848566C63F046A9AAE55BADC3": "GO",
+    "30DF69ED4AA5D23EEE62998512640D06": "Get Ready",
+    "355F7C204406651F83FF48BA624BD7B3": "Profile Actor\r\n[{loc}]",
+    "BE1B0C544EAF4DBC66031B8E7D85E5C7": "RACE AREA",
+    "F686194549FCDCDE1602BA87F50B713A": "RACE AREA",
+    "19E9CC8A4A379BBB141F668EA95F7A61": "RACE STARTING SOON",
+    "8FC27CE746647B26BBBF9782A019AFD4": "RACE STARTING SOON",
+    "CA4965C14941F1E3494B759C09C5AA84": "RACE STARTING SOON"
+  },
+  "ST_Sprout_RaceMail": {
+    "RaceWinReward_Subject": "Welcome to Victory Lane",
+    "RaceWinReward_Body": "You're the <b>fastest</> in Brick Bay! Congrats on <emphasis>winning the rally race</>! Display this with pride - you've earned it.\r\n- <name>Drift</>"
+  }
+}

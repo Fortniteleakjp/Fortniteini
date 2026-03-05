@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "Thêm vào Hàng Chờ Kết Thúc Trận Khi Nhận Tín Hiệu",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "Bắt buộc tất cả người chơi trong một phiên trên đảo ghép trận.",
+    "8A7E9FBB45B757940356DFBCBD04F720": "Luồng Phát Trận",
+    "D6605AA24CE9BB51B09055B216381F62": "Luồng Phát Trận",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "Mã Đảo",
+    "4906BC4442B704E71E23E9B9A01FF370": "Cổng Cấp Độ Chơi",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "Cài đặt mã đảo mà cổng ghép trận sẽ trỏ tới.",
+    "413FED52446F49764E9AF9B6A2F275BB": "Chuyển Giao Tài Nguyên Khi Nhận Tín Hiệu"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "Tắt Khi Nhận Tín Hiệu",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "Tắt thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "Bật Khi Nhận Tín Hiệu",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "Bật thiết bị khi nhận tín hiệu từ kênh đã chọn.",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "Hàng Chờ khi Kết Thúc Trận",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "Chuyển Giao Tài Nguyên"
+  }
+}

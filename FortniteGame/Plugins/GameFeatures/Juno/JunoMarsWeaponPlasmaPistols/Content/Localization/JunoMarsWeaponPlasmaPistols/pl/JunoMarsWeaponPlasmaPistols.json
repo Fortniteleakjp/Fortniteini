@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "Akcesorium",
+    "1DC695F543617CDD983D6CA98D244D3F": "Lufa",
+    "644AFB924BC996E1358E8DAC5E388D65": "Energia",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "Skup wzrok",
+    "43384B4746A525AAE21308A2255D4AB7": "Uchwyt"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "Bursztynowe Pistolety Plazmowe",
+    "Plasma_Pistols_T5_Amber_DisplayName": "Bursztynowe pistolety plazmowe",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "Wybuchowe Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Bone_DisplayName": "Kościane Pistolety Plazmowe",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "Jasnordzeniowe Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "Pazurowe Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "Pazurowe Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "Pazurowe Pistolety Plazmowe",
+    "Plasma_Pistols_T3_Copper_DisplayName": "Miedziane Pistolety Plazmowe",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "Przeklęte Pistolety Plazmowe",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "Szmaragdowe Pistolety Plazmowe",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "Szmaragdowe pistolety plazmowe",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "Elastodrewniane Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "Lodososnowe Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Glass_DisplayName": "Szklane Pistolety Plazmowe",
+    "Plasma_Pistols_T3_Gold_DisplayName": "Złote Pistolety Plazmowe",
+    "Plasma_Pistols_T2_Granite_DisplayName": "Granitowe Pistolety Plazmowe",
+    "Plasma_Pistols_T3_Iron_DisplayName": "Żelazne Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "Supłokorzeniowe Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "Mahoniowe Pistolety Plazmowe",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "Malachitowe Pistolety Plazmowe",
+    "Plasma_Pistols_T2_Marble_DisplayName": "Marmurowe Pistolety Plazmowe",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "Obsydianowe Pistolety Plazmowe",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "Czerwonoskalne Pistolety Plazmowe",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "Rubinowe Pistolety Plazmowe",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "Rubinowe pistolety plazmowe",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "Piaskowcowe Pistolety Plazmowe",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "Szafirowe Pistolety Plazmowe",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "Szafirowe pistolety plazmowe",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "Trzaskorogowe Pistolety Plazmowe",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "Trzaskorogowe pistolety plazmowe",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "Burzowe Pistolety Plazmowe",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "Burzosłonowe Pistolety Plazmowe",
+    "Plasma_Pistols_T1_Wood_DisplayName": "Drewniane Pistolety Plazmowe"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "Pistolety Plazmowe"
+  }
+}

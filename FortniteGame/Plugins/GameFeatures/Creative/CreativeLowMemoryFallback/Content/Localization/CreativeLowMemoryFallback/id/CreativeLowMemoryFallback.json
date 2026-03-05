@@ -1,0 +1,7 @@
+{
+  "CreativeLowMemoryFallback": {
+    "Warning toast title (default)": "Memori rendah",
+    "Return to main menu reason (default)": "Level memori kritis - sesi berakhir.\n Progres terakhir kamu sudah disimpan! Kembali ke Creative dan lanjutkan game terakhir yang kamu mainkan.",
+    "Warning toast description (default)": "Sesi mungkin berakhir secara tak terduga."
+  }
+}

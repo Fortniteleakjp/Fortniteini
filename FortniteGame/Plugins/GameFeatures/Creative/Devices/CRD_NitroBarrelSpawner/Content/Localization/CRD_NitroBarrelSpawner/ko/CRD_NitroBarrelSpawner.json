@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "파괴되면 주변 플레이어에게 니트로를 적용하는 환경 사물입니다.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "파괴되면 주변 플레이어에게 니트로를 적용하는 환경 사물입니다.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "파괴되면 주변 플레이어에게 니트로를 적용하는 환경 사물입니다.",
+    "30E5234B40854AF182F76E99E0005299": "니트로 통 커스터마이징",
+    "3A16E0DE435CF07612216D94958139C0": "수신 시 사용 안 함",
+    "A17C5EC645C874D630065CA36AD5AB43": "선택한 채널로 수신하면 장치를 사용 안 함 상태로 설정합니다.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "수신 시 사용",
+    "6480B4A0446374163AA14886F9A0633A": "선택한 채널로 신호를 수신하면 장치를 활성화합니다.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "즉시",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "니트로 통",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "니트로 통",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "통 폭발 시",
+    "6DE8D3364821C2389FC94292884E08A9": "통 발사 시",
+    "ED148DE148299AEB76E8C1AF05838DC0": "통이 폭발하면 트리거됩니다.",
+    "3A1B14E145478FEACE47E0B8E1360191": "통이 날아가기 시작하면 트리거됩니다.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0}{1}초"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "통 재생성 허용",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "폭발 시 재생성 지연 후 통이 재생성되도록 합니다.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "통 재생성에 걸리는 시간을 설정합니다.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "게임 중 장치가 폭발하면 통이 다시 생성될지 여부를 설정합니다.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "통을 날려보내는 데 필요한 힘에 적용되는 배수를 설정합니다.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "게임을 시작할 때 통의 사용 및 표시 여부를 설정합니다.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "장치 사용 안 함",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "통을 사용하지 않고 숨깁니다.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "통 재생성 허용 안 함",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "장치 사용",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "통을 사용하고 표시합니다.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "발사력 배수",
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "통 폭발 시",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "통 발사 시",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "통이 재생성되지 않도록 합니다. 재생성 지연 카운트다운이 시작되지 않습니다. 카운트다운이 이미 시작되었을 경우, 끝나도 통이 재생성되지 않습니다.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "재생성 지연",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "재생성 여부",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "시작 시 사용",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "통이 폭발하면 트리거됩니다.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "통이 날아가면 트리거됩니다."
+  }
+}

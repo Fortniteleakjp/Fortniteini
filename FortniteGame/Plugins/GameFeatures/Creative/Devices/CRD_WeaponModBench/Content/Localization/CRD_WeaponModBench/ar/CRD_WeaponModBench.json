@@ -1,0 +1,49 @@
+{
+  "": {
+    "EE4D7BEA46F5E3BC560EE7A7138D068B": "جهاز يسمح للاعبين بشراء التعديلات وتطبيقها أو إزالتها من الأسلحة القابلة للتعديل.",
+    "32B7609E4822D95BE50BB9AF02EB9B91": "جهاز يسمح للاعبين بشراء التعديلات وتطبيقها أو إزالتها من الأسلحة القابلة للتعديل. ضع عنصرًا على الجهاز لتعيين العملة اللازمة.",
+    "C71343894A060847493A649689759A65": "مجموعة من الحالات التي يمكن التفاعل معها لنشر أسلحة معدّلة.",
+    "460F73D54CB382F639D9F28B319DB307": "تخصيص ",
+    "683B5CF74C33D965A0F7AF89AED92EE8": "لا يمكن استخدام طاولة التعديل",
+    "08CBEE774BF9AD32B29F3BA31F2B86A4": "العملة",
+    "53C6F3F34E06E917D367268882E08D87": "لتحديد العملة المعينة اللازمة لتعديل سلاح.",
+    "A30B8506487121E7C4E703A5629FBE05": "التعطيل عند الاستلام من",
+    "B7F6060B4BEAFE140D5DDEB1E13121C9": "معطّل",
+    "FA5DCADC4A0C014F7FE7758F6E556F79": "لتعطيل الجهاز ومنع شراء التعديلات أو إزالتها.",
+    "78C605F443BE7CF4C9C126B6DDC1913C": "تمكين عند الاستلام من",
+    "02A78E05452B145AB3B0AE95F9C2E8E0": "يمكّن الجهاز ويسمح للاعبين بالبدء في التزحلق.",
+    "DF4A2EAF41D27832BC4BA9A2C3D630FC": "معرض حقيبة الأسلحة المعدلة",
+    "0B7642504100909455884BA8ECBE7AD4": "طاولة تعديل الأسلحة",
+    "1EBC090141D82557511D43B7E5342FD4": "طاولة تعديل الأسلحة"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "Device_WeaponModBench_C.Allowed Class.DisplayName": "فئة مقبولة",
+    "Device_WeaponModBench_C.Allowed Team.DisplayName": "الفريق المقبول",
+    "ECreativeClassType.Any.DisplayName": "أي",
+    "ECreativeTeamType.Any.DisplayName": "أي",
+    "ClassSlotMetaData.DisplayPattern": "الفئة {0}",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.Description": "تحديد إذا ما كانت ستُعرض ندرة العنصر للاعب في حال نقصان الموارد لديه.",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.Description": "لتحديد ما إذا كان يجب تمكين هذا الجهاز عند بدء اللعبة المصغرة.",
+    "Device_WeaponModBench_C.ModCost.Description": "لتحديد تكلفة تجهيز تعديل لسلاح قابل للتعديل. تنطبق هذه القيمة على جميع التعديلات القابلة للتحديد. تستخدم \"لا تتجاوز\" التكاليف التي تستخدمها باتل رويال وهي عرضة للتغيير.",
+    "Device_WeaponModBench_C.Allowed Class.Description": "لتحديد الفئة التي يمكنها استخدام طاولة تعديل السلاح هذه.",
+    "Device_WeaponModBench_C.Allowed Team.Description": "لتحديد الفريق الذي يمكنه استخدام طاولة تعديل السلاح هذه.",
+    "Device_WeaponModBench_C.Disable.DisplayName": "تعطيل",
+    "Device_WeaponModBench_C.Disable.Description": "لتعطيل الجهاز ومنع شراء التعديلات أو إزالتها.",
+    "Device_WeaponModBench_C.Enable.DisplayName": "تفعيل",
+    "Device_WeaponModBench_C.bEnabledOnMinigameStart.DisplayName": "ممكّن عند بدء لعبة صغيرة",
+    "Device_WeaponModBench_C.Enable.Description": "لتمكين الجهاز والسماح بشراء التعديلات وإزالتها.",
+    "Device_WeaponModBench_C.Invert Class Selection.Description": "عند التعيين، سيسمح الجهاز للجميع باستثناء الفئة المسموح لها.",
+    "Device_WeaponModBench_C.Invert Team Selection.Description": "عند التعيين، سيسمح الجهاز للجميع باستثناء الفريق المسموح له.",
+    "Device_WeaponModBench_C.Invert Class Selection.DisplayName": "عكس اختيار الفئة",
+    "Device_WeaponModBench_C.Invert Team Selection.DisplayName": "عكس اختيار الفريق",
+    "Device_WeaponModBench_C.ModCost.DisplayName": "تكلفة التعديل",
+    "ECreativeClassType.NoClass.DisplayName": "دون فئة",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "Device_WeaponModBench_C.ShowItemRarityOnMissingItemPrompt.DisplayName": "عرض ندرة العنصر على توجيه العناصر الناقصة",
+    "TeamIndexMetaData.DisplayPattern": "الفريق {0}"
+  }
+}

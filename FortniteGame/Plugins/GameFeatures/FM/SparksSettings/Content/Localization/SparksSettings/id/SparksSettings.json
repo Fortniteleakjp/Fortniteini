@@ -1,0 +1,13 @@
+{
+  "FortniteMusicSparksSettings": {
+    "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Nonaktif</>: Emot dansa akan diputar dengan kecepatan normal, dan musik emot akan diputar menimpa Lagu Jamming.",
+    "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Aktif</>: Emot dansa akan disinkronkan dengan irama Lagu Jamming, dan musik emot akan dibisukan.",
+    "JamTrackAudioTabName": "Lagu Jamming",
+    "SynchronizeMyDanceEmotesToJamTracks_Name": "Sinkronisasikan Emot Dansaku dengan Lagu Jamming",
+    "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Pengaturan ini mengubah apa yang terjadi pada Emot Dansa kamu ketika Lagu Jamming sedang diputar."
+  },
+  "SparksSetting": {
+    "332501D14C2052DD4743AC95B5460C4C": "Menyesuaikan volume musik gameplay dalam Festival.",
+    "6BD3D4EC474B9CAAAA42E193124261C7": "Festival - Musik"
+  }
+}

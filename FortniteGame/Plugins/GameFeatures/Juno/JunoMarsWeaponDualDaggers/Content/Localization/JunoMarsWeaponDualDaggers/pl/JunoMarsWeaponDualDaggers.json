@@ -1,0 +1,46 @@
+{
+  "": {
+    "B06604654D1ACA502149BC8F63A6A65B": "Ostrze",
+    "33EE7DD140FA593C65E6858D3ED133F0": "Skup wzrok",
+    "7D92FBAF4FF2178468D08FB5447138AA": "Uchwyt"
+  },
+  "Juno_BoostedItemNames_DualDaggers": {
+    "Dual_Daggers_T4_Amber_DisplayName": "Para Bursztynowych Sztyletów",
+    "Dual_Daggers_T5_Amber_DisplayName": "Para bursztynowych sztyletów",
+    "Dual_Daggers_T2_Blast_Core_DisplayName": "Bara Wybuchowych Sztyletów",
+    "Dual_Daggers_T1_Bone_DisplayName": "Para Kościanych Sztyletów",
+    "Dual_Daggers_T2_Brightcore_DisplayName": "Para Jasnordzeniowych Sztyletów",
+    "Dual_Daggers_T1_Arctic_Claw_DisplayName": "Para Pazurowych Sztyletów",
+    "Dual_Daggers_T1_Sand_Claw_DisplayName": "Para Pazurowych Sztyletów",
+    "Dual_Daggers_T1_Wolf_Claw_DisplayName": "Para Pazurowych Sztyletów",
+    "Dual_Daggers_T3_Copper_DisplayName": "Para Miedzianych Sztyletów",
+    "Dual_Daggers_T2_Cursed_Bone_DisplayName": "Para Przeklętych Sztyletów",
+    "Dual_Daggers_T4_Emerald_DisplayName": "Para Szmaragdowych Sztyletów",
+    "Dual_Daggers_T5_Emerald_DisplayName": "Para szmaragdowych sztyletów",
+    "Dual_Daggers_T1_Flexwood_DisplayName": "Para Elastodrewnianych Sztyletów",
+    "Dual_Daggers_T1_Frostpine_DisplayName": "Para Lodososnowych Sztyletów",
+    "Dual_Daggers_T1_Glass_DisplayName": "Para Szklanych Sztyletów",
+    "Dual_Daggers_T3_Gold_DisplayName": "Para Złotych Sztyletów",
+    "Dual_Daggers_T2_Granite_DisplayName": "Para Granitowych Sztyletów",
+    "Dual_Daggers_T3_Iron_DisplayName": "Para Żelaznych Sztyletów",
+    "Dual_Daggers_T1_Knotroot_DisplayName": "Para Supłokorzeniowych Sztyletów",
+    "Dual_Daggers_T1_Mahogany_DisplayName": "Para Mahoniowych Sztyletów",
+    "Dual_Daggers_T2_Malachite_DisplayName": "Para Malachitowych Sztyletów",
+    "Dual_Daggers_T2_Marble_DisplayName": "Para Marmurowych Sztyletów",
+    "Dual_Daggers_T2_Obsidian_DisplayName": "Para Obsydianowych Sztyletów",
+    "Dual_Daggers_T2_Redrock_DisplayName": "Para Czerwonoskalnych Sztyletów",
+    "Dual_Daggers_T4_Ruby_DisplayName": "Para Rubinowych Sztyletów",
+    "Dual_Daggers_T5_Ruby_DisplayName": "Para rubinowych sztyletów",
+    "Dual_Daggers_T2_Sandstone_DisplayName": "Para Piaskowcowych Sztyletów",
+    "Dual_Daggers_T4_Sapphire_DisplayName": "Para Szafirowych Sztyletów",
+    "Dual_Daggers_T5_Sapphire_DisplayName": "Para szafirowych sztyletów",
+    "Dual_Daggers_T4_Shatterhorn_Fragment_DisplayName": "Para Trzaskorogowych Sztyletów",
+    "Dual_Daggers_T5_Shatterhorn_Fragment_DisplayName": "Para trzaskorogowych sztyletów",
+    "Dual_Daggers_T1_Storm_Core_DisplayName": "Para Burzowych Sztyletów",
+    "Dual_Daggers_T3_Greater_Storm_Core_DisplayName": "Para Burzosłonowych Sztyletów",
+    "Dual_Daggers_T1_Wood_DisplayName": "Para Drewnianych Sztyletów"
+  },
+  "Juno_CBCFormulas_DualDaggers": {
+    "DualDaggers_DisplayName": "Para Sztyletów"
+  }
+}

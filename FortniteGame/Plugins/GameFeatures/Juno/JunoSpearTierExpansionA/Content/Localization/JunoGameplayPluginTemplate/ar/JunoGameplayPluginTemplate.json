@@ -1,0 +1,37 @@
+{
+  "": {
+    "02D507F542501C32987007BB40B310CF": "ستحتاج إلى <EmphA>طاحونة خشب</>.",
+    "46465B3F47396715F622C8B9C8D00E02": "ستحتاج إلى <EmphA>طاحونة خشب</>.",
+    "7DA1447E47D8D89073ACF0AAA1A2864B": "ستحتاج إلى <EmphA>طاحونة خشب</>.",
+    "A681DC5345D98537642259976B7D96FD": "ستحتاج إلى <EmphA>طاحونة خشب</>."
+  },
+  "Juno_BoostedItemNames_SpearTierExpansionA": {
+    "Spear_T5_T5_Honed_Bamboo_DisplayName": "رمح من الخيزران",
+    "Spear_T6_T6_Honed_Bamboo_DisplayName": "رمح من الخيزران",
+    "Spear_T7_T7_Honed_Bamboo_DisplayName": "رمح من الخيزران",
+    "Spear_T8_T8_Honed_Bamboo_DisplayName": "رمح من الخيزران",
+    "Spear_T7_T7_Honed_Dragon_Opal_DisplayName": "رمح من أوبال التنين",
+    "Spear_T8_T8_Honed_Dragon_Opal_DisplayName": "رمح من أوبال التنين",
+    "Spear_T5_T5_Honed_Kozustone_DisplayName": "رمح كوزوستون",
+    "Spear_T6_T6_Honed_Kozustone_DisplayName": "رمح كوزوستون",
+    "Spear_T7_T7_Honed_Kozustone_DisplayName": "رمح كوزوستون",
+    "Spear_T8_T8_Honed_Kozustone_DisplayName": "رمح كوزوستون",
+    "Spear_T6_T6_Honed_Steel_DisplayName": "رمح فولاذي",
+    "Spear_T7_T7_Honed_Steel_DisplayName": "رمح فولاذي",
+    "Spear_T8_T8_Honed_Steel_DisplayName": "رمح فولاذي"
+  },
+  "Juno_UpdateItemData": {
+    "311316ED4D182EEA2FA46DAA81FD15E5": "رمح أسطوري مناسب للاشتباك أو لقتال المدى البعيد. انقر للهجوم. اضغط باستمرار للإلقاء.",
+    "B25A2F324DB535390E4B73930870E49A": "رمح نادر مناسب للاشتباك والقتال بعيد المدى. انقر للهجوم. اضغط باستمرار للإلقاء.",
+    "9586F8E1415780F4E24C91BC3AF6173F": "رمح فريد.",
+    "3D7692F9440542E88EC2D0BE65D1A7D0": "رمح ملحمي مناسب للاشتباك والقتال بعيد المدى. انقر للهجوم. اضغط باستمرار للإلقاء.",
+    "9FE27A4249F4F9C0F7527782A3B1C0F8": "رمح غير شائع مناسب للاشتباك والقتال بعيد المدى. انقر للهجوم. اضغط باستمرار للإلقاء.",
+    "D94E848A42A304BA80384AB51A03A759": "تجربة رمح ناجحة.",
+    "1F54FBF84AFFB2CCD540CD80D88B83BC": "رمح",
+    "2EA3F9C34873AAA9DAA84885A9BCD37B": "رمح",
+    "52E93B624E1B24175BB6F6811B0B3856": "رمح",
+    "824F02E94ED416162B699D95ED1A1A60": "رمح",
+    "C3ED5020413D4F9AC37D7B828F778F0A": "هذا هو رمح الإرادة.",
+    "888AAE0B4DA62E8ED2440D80116B1BD1": "تجربة رمح لا تُقدر بثمن."
+  }
+}

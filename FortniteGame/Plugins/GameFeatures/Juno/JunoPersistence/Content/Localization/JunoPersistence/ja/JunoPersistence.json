@@ -1,0 +1,27 @@
+{
+  "JunoPersistenceErrors": {
+    "ErrorCheckingOutPlayerData": "プレイヤーデータの確認エラー"
+  },
+  "JunoPersistenceFlushManager": {
+    "PersistenceFlushRetryExhaustedErrorMessage": "持続データをフラッシュできず、許可された試行回数の上限に達しました。"
+  },
+  "JunoPlayerCheckpointHandler": {
+    "FailedToGetAvailableCheckpointsErrorMessage": "利用可能なチェックポイントの取得に失敗しました",
+    "FailedToSetInitialCheckpointErrorMessage": "初期チェックポイントの設定に失敗しました",
+    "InvalidJunoWorldErrorMessage": "チェックポイントハンドラーの初期化を試行する際にJunoのワールドが無効でした",
+    "InvalidJunoRootPlayspaceErrorMessage": "チェックポイントハンドラーの初期化を試行する際にルートのプレイスペースが無効でした"
+  },
+  "JunoPlayerPersistenceHandler": {
+    "PlayerCheckpointHandlerReinitializationNotAllowedErrorMessage": "すでに初期化されているプレイヤー持続データを初期化しようとしました",
+    "InvalidPlayerPersistenceStorageErrorMessage": "プレイヤーの持続データの記憶域が無効です",
+    "PlayerCheckpointHandlerCreationFailedErrorMessage": "チェックポイントハンドラーを作成できません"
+  },
+  "JunoPlayerPersistenceManager": {
+    "DeinitializePlayerPersistenceWithInvalidIdErrorMessage": "プレイヤーIDが無効なプレイヤー持続データの初期化を取り消そうとしています",
+    "DuplicatePlayerPersistenceInitializationErrorMessage": "プレイヤー持続データの初期化を複数回試行しています",
+    "InitializePlayerPersistenceWithInvalidIdErrorMessage": "プレイヤーIDが無効なプレイヤー持続データを初期化しようとしています",
+    "StalePlayerPersistenceHandlerErrorMessage": "初期化完了の際のプレイヤー持続データハンドラーが古いものでした",
+    "UnableToCreatePlayerPersistenceErrorMessage": "プレイヤー持続データハンドラーを作成できません",
+    "InvalidPlayerPersistenceStorageErrorMessage": "プレイヤーの持続データの有効な記憶域を取得できません"
+  }
+}

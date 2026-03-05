@@ -1,0 +1,37 @@
+{
+  "SproutDynamicOptions": {
+    "AvailableOptions": "Ein einzelner Integer, der die Anzahl der zu generierenden Dialogoptionen angibt (je mehr desto besser).",
+    "NulledOption": "NICHT VERWENDET. IGNORIEREN.",
+    "OptionFive_NPCResponse": "Die vollständige Dialogantwort des NPCs, die nur ausgewählt wird, falls der Spieler 'OptionFive' (falls zutreffend) auswählt.",
+    "OptionFour_NPCResponse": "Die vollständige Dialogantwort des NPCs, die nur ausgewählt wird, falls der Spieler 'OptionFour' (falls zutreffend) auswählt.",
+    "OptionOne_NPCResponse": "Die vollständige Dialogantwort des NPCs, die nur ausgewählt wird, falls der Spieler 'OptionOne' (falls zutreffend) auswählt.",
+    "OptionSix_NPCResponse": "Die vollständige Dialogantwort des NPCs, die nur ausgewählt wird, falls der Spieler 'OptionSix' (falls zutreffend) auswählt.",
+    "OptionThree_NPCResponse": "Die vollständige Dialogantwort des NPCs, die nur ausgewählt wird, falls der Spieler 'OptionThree' (falls zutreffend) auswählt.",
+    "OptionTwo_NPCResponse": "Die vollständige Dialogantwort des NPCs, die nur ausgewählt wird, falls der Spieler 'OptionTwo' (falls zutreffend) auswählt.",
+    "MainQuestion": "Die zentrale Frage, die der NPC fragt und auf die der Spieler antwortet, indem er eine der Optionen auswählt.",
+    "OptionFive": "Der Text für die fünfte Dialogoption, die dem Spieler gezeigt wird. Dies ist eine mögliche Antwort auf 'MainQuestion'.",
+    "OptionOne": "Der Text für die erste Dialogoption, die dem Spieler gezeigt wird. Dies ist eine mögliche Antwort auf 'MainQuestion'.",
+    "OptionFour": "Der Text für die vierte Dialogoption, die dem Spieler gezeigt wird. Dies ist eine mögliche Antwort auf 'MainQuestion'.",
+    "OptionTwo": "Der Text für die zweite Dialogoption, die dem Spieler gezeigt wird. Dies ist eine mögliche Antwort auf 'MainQuestion'.",
+    "OptionSix": "Der Text für die sechste Dialogoption, die dem Spieler gezeigt wird. Dies ist eine mögliche Antwort auf 'MainQuestion'.",
+    "OptionThree": "Der Text für die dritte Dialogoption, die dem Spieler gezeigt wird. Dies ist eine mögliche Antwort auf 'MainQuestion'."
+  },
+  "SproutOratorDialogue": {
+    "FeelingChange": "Es ist unbedingt erforderlich, dass deine Auswahl nur auf dem direkt verfügbaren Dialog basiert, nicht auf dem aktuellen Hauptgefühl des NPCs. Wähle aus, welches Gefühl angepasst werden soll (Glücklich, Traurig, Wütend, Ängstlich, Neutral), wodurch eine Animation abgespielt und die Punktzahl für dieses Gefühl erhöht wird. Das Hauptgefühl des NPCs ist das Gefühl mit den meisten Punkten insgesamt. Dabei wirkt sich „Glücklich“ auf die Positivität, „Traurig“ auf die düstere Einstellung, „Wütend“ auf die Konfrontationsfreudigkeit und „Ängstlich“ auf die Angst aus.",
+    "FeelingChangeValue": "Lege die Intensität von FeelingChange fest. Da Gefühle schnell nachlassen, muss der Wert dem emotionalen Gewicht des Moments entsprechen. Für einfache, lockere Gespräche solltest du einen geringen Wert zwischen 0 und 20 festlegen (die meisten einfachen Begrüßungen gehen eher Richtung 0). Bedeutungsvollere Ereignisse oder Dialoge, die eine Spieleraktion erfordern, solltest du einen moderaten Wert zwischen 20 und 60 verwenden. Für wichtige, prägende Momente (wie ein Verrat, der Abschluss eines Auftrags oder der Erhalt eines perfekten Geschenks) solltest du einen hohen Wert zwischen 60 und 100 verwenden.",
+    "DialogueDescription": "Die Dialogzeile, die ausgeführt werden soll."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions": {
+    "LoadingOptionsFromLLM": "Denkt nach ..."
+  },
+  "SproutRedwoodConversationTaskNode_DynamicOptions_Parent": {
+    "LoadingLLMMainQuestion": "Denkt nach ..."
+  },
+  "SproutRedwoodConversationTaskNode_SaySomething": {
+    "LoadingFromLLM": "Denkt nach ..."
+  },
+  "Sprout_FortItemDefValidator": {
+    "UnregisteredPrimaryAssetError": "Die Gegenstand-Definition „{0}“ ist nicht in den Game-Feature-Daten registriert und wird nicht auffindbar sein.",
+    "DuplicatePrimaryAssetError": "Zwei verschiedene Assets teilen sich dieselbe primäre Asset-ID: {0} und {1}"
+  }
+}

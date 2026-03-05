@@ -1,0 +1,8 @@
+{
+  "": {
+    "779FA07F49D6496D312B8DB33E5C0F74": "Thiếu lớp tiện ích.\n\nTruy cập mục triển khai dự án, và tìm kiếm bản vẽ Không Gian Chơi mà nó sử dụng.\n\nCài đặt 'CaptureToolWidgetClass' trên thành phần không gian chơi SparksCommonUtils thành tiện ích mà bạn muốn tạo ở đây.",
+    "C0F0959840F4AD18AC957EA99E0B92D7": "[FxCan] {name} đã bỏ qua sự kiện (không có cấu phần NPS)",
+    "2C73DC37419E1C2029525C96CF3281FA": "[FxCan] {name} đã tăng quy mô giải thưởng: {size}",
+    "31721AA74E9906C27A881092B5F8F50D": "[FxCan] {name} đã tăng quy mô giải thưởng: {size}"
+  }
+}

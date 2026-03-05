@@ -1,0 +1,10 @@
+{
+  "FortInstallBundleManager": {
+    "DownloadCompleteNotification.BodyText": "اقتربت من النهاية! افتح التطبيق لإتمام الخطوات الأخيرة.",
+    "DownloadCompleteNotification.Title": "أكمِل التثبيت واستمتع باللعب",
+    "DownloadCompleteNotification.ActionText": "تثبيت",
+    "InstallBundleSourceValkyrieDownloadedFmt": "تم تنزيل InstallBundleSourceGameCustom {0}",
+    "InstallBundleSourceValkyrieInstalledFmt": "تم تثبيت InstallBundleSourceGameCustom {0}",
+    "Simulate_BuildVerify_Error": "التثبيت غير صالح. يُرجى الاتصال بالدعم."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "Wadah yang bisa kamu gunakan untuk menyimpan dan meletakkan prop bersama-sama.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "Wadah yang bisa kamu gunakan untuk menyimpan dan meletakkan prop bersama-sama.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "Wadah yang bisa kamu gunakan untuk menyimpan dan meletakkan prop bersama-sama.",
+    "B83B1047441082FB019A61A98B6D0581": "Creative",
+    "5407FED74DA205FC418FA485B7622650": "Bisa Diedit",
+    "3D5826A149B0F5277962A9A36BFFE13F": "Mengedit",
+    "78335B4046FF677AC12593921618222C": "Kesalahan",
+    "4AA32A31415D1CEE34CCED9C69768627": "Perangkat Instance Level",
+    "85848E934539608AA1BD9D834830CA76": "Perangkat Instance Level",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "Terkunci",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "Ditempatkan",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "Penempatan"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "Opsi ini akan menghapus konten di semua perangkat yang sedang merujuk level ini."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "Koleksi Konten",
+    "BP_LevelInstanceDevice_C.EditState.Description": "Menentukan apakah objek bisa ditambahkan ke level ini.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "Nonaktifkan",
+    "BP_LevelInstanceDevice_C.Disable.Description": "Menonaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "Edit Status",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "Bisa Diedit",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "Aktifkan",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "Aktifkan saat Mulai Game",
+    "BP_LevelInstanceDevice_C.Enable.Description": "Mengaktifkan perangkat saat menerima sinyal dari saluran terpilih.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "Kedalaman Level",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "Tinggi Level",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "Nama Instance Level",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "Lebar Level",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "Terkunci",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "Nama level yang akan dimuat.",
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "Mencegah agar konten yang tidak kompatibel dengan pilihan tidak disertakan dalam instance level.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "Kedalaman plot di petak. \n\nPERINGATAN: Dengan mengurangi ukuran, prop yang tidak lagi berada di dalam batas-batas plot mungkin akan dihapus.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "Tinggi plot di petak. \n\nPERINGATAN: Dengan mengurangi ukuran, prop yang tidak lagi berada di dalam batas-batas plot mungkin akan dihapus.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "Lebar plot di petak. \n\nPERINGATAN: Dengan mengurangi ukuran, prop yang tidak lagi berada di dalam batas-batas plot mungkin akan dihapus.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "Menentukan apakah perangkat ini diaktifkan saat game dimulai."
+  }
+}

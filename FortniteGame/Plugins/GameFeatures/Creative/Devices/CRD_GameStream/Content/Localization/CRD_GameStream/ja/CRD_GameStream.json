@@ -1,0 +1,23 @@
+{
+  "": {
+    "921E7E5A454EE7F33FB436B17AE844CB": "受信しているとゲーム終了のキューに追加する",
+    "1A3F077D487B49AE78B23F8CEED7A03A": "島のセッションに参加中の全プレイヤーにマッチメイキングを強制する。",
+    "8A7E9FBB45B757940356DFBCBD04F720": "ゲーム配信",
+    "D6605AA24CE9BB51B09055B216381F62": "ゲーム配信",
+    "10BBEBD2488D4EDFCA92498E3954ED46": "島のコード",
+    "4906BC4442B704E71E23E9B9A01FF370": "レベルポータル",
+    "09492FF74BDF3C196CAD79A19BCAACCE": "マッチメイキングポータルの対象となる島のコードを設定する。",
+    "413FED52446F49764E9AF9B6A2F275BB": "受信していると集団を転送する"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "受信していると無効になる",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "選択されたチャンネルから信号を受信していると、この仕掛けを無効にする。",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "受信していると有効になる",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "選択されたチャンネルから信号を受信していると、この仕掛けを有効にする。",
+    "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "ゲーム終了時に待機",
+    "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "集団を転送"
+  }
+}

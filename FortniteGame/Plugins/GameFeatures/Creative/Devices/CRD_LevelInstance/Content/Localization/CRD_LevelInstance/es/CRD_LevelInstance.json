@@ -1,0 +1,49 @@
+{
+  "": {
+    "225675A242F9461EA52D73AEC01426DF": "1x1",
+    "C4A4029B41B7D40B0217F88300B60405": "3x3",
+    "067354B44686EA91D178E49FCC91B5A8": "5x5",
+    "587502E142966C4D356B2898AAE485A6": "Un contenedor que te permite guardar y colocar elementos colectivamente de forma relativa entre sí.",
+    "9DE821F44D83AF597A4BDAA78A1B8F7E": "Un contenedor que te permite guardar y colocar elementos colectivamente de forma relativa entre sí.",
+    "F25BCF0A454EDE05A6D1BF90D4B60CB8": "Un contenedor que te permite guardar y colocar elementos colectivamente de forma relativa entre sí.",
+    "B83B1047441082FB019A61A98B6D0581": "Modo Creativo",
+    "5407FED74DA205FC418FA485B7622650": "Editable",
+    "3D5826A149B0F5277962A9A36BFFE13F": "Editar",
+    "78335B4046FF677AC12593921618222C": "Error",
+    "4AA32A31415D1CEE34CCED9C69768627": "Dispositivo de instancia de nivel",
+    "85848E934539608AA1BD9D834830CA76": "Dispositivo de instancia de nivel",
+    "E3CB1CA94D4810A1CBBA4AB81770A48F": "Bloqueado",
+    "F58CD5AD459E335CD1DA8FBE6E2F978E": "Colocado",
+    "8AAD27E14D9A4885D65FDDA3859C2691": "Clasificación"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "ULevelInstanceItemListComponent": {
+    "ClearItemsWarning": "Esto eliminará los contenidos de todos los dispositivos que hagan referencia a este nivel."
+  },
+  "UserOptionDefinition": {
+    "BP_LevelInstanceDevice_C.ContentCollection.DisplayName": "Colección de contenido",
+    "BP_LevelInstanceDevice_C.EditState.Description": "Establece si se pueden añadir objetos a este nivel.",
+    "BP_LevelInstanceDevice_C.Disable.DisplayName": "Deshabilitar",
+    "BP_LevelInstanceDevice_C.Disable.Description": "Deshabilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_LevelInstanceDevice_C.EditState.DisplayName": "Editar estado",
+    "Enum_LevelInstance_EditMode.Editable.DisplayName": "Editable",
+    "BP_LevelInstanceDevice_C.Enable.DisplayName": "Permitir",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.DisplayName": "Habilitar al inicio de la partida",
+    "BP_LevelInstanceDevice_C.Enable.Description": "Habilita el dispositivo al recibir una señal desde el canal seleccionado.",
+    "BP_LevelInstanceDevice_C.LevelDepth.DisplayName": "Profundidad del nivel",
+    "BP_LevelInstanceDevice_C.LevelHeight.DisplayName": "Altura del nivel",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.DisplayName": "Nombre de instancia de nivel",
+    "BP_LevelInstanceDevice_C.LevelWidth.DisplayName": "Anchura del nivel",
+    "Enum_LevelInstance_EditMode.Locked.DisplayName": "Bloqueado",
+    "BP_LevelInstanceDevice_C.LevelInstanceName.Description": "Nombre del nivel que se va a cargar.",
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "BP_LevelInstanceDevice_C.ContentCollection.Description": "Impide que se incluya contenido que no sea compatible con la selección de la instancia de nivel.",
+    "BP_LevelInstanceDevice_C.LevelDepth.Description": "La profundidad del terreno en casillas. \r\n\r\nAVISO: Reducir el tamaño puede eliminar elementos que dejen de estar dentro de los límites del terreno.",
+    "BP_LevelInstanceDevice_C.LevelHeight.Description": "La altura del terreno en casillas. \r\n\r\nAVISO: Reducir el tamaño puede eliminar elementos que dejen de estar dentro de los límites del terreno.",
+    "BP_LevelInstanceDevice_C.LevelWidth.Description": "La anchura del terreno en casillas. \r\n\r\nAVISO: Reducir el tamaño puede eliminar elementos que dejen de estar dentro de los límites del terreno.",
+    "BP_LevelInstanceDevice_C.bEnableAtGameStart.Description": "Establece si este dispositivo está habilitado cuando empiece la partida."
+  }
+}

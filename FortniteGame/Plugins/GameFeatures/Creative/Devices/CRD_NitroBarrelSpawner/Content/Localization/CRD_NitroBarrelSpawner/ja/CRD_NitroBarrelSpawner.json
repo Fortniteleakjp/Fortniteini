@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "破壊時、周囲にニトロの効果を付与する環境用小道具。",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "破壊時、周囲にニトロの効果を付与する環境用小道具。",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "破壊時、周囲にニトロの効果を付与する環境用小道具。",
+    "30E5234B40854AF182F76E99E0005299": "ニトロバレルをカスタマイズ",
+    "3A16E0DE435CF07612216D94958139C0": "受信していると無効になる",
+    "A17C5EC645C874D630065CA36AD5AB43": "選択されたチャンネルから受信していると、この仕掛けを無効にする。",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "受信していると有効になる",
+    "6480B4A0446374163AA14886F9A0633A": "選択されたチャンネルから受信していると、この仕掛けを有効にする。",
+    "D668B93241E5952E0B0D7C9F45C0B037": "即時",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "ニトロバレル",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "ニトロバレル",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "タルの爆発時",
+    "6DE8D3364821C2389FC94292884E08A9": "タルが吹き飛んだ時",
+    "ED148DE148299AEB76E8C1AF05838DC0": "タルが爆発すると起動する。",
+    "3A1B14E145478FEACE47E0B8E1360191": "タルが吹き飛び始めると起動する。",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0}秒"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "バレルのリスポーンを許可",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "バレルの爆発時、「リスポーンディレイ」の時間が経過するとバレルがリスポーンできるようにする。",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "バレルがリスポーンされるまでの時間を決定する。",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "ゲーム中に爆発した後、この仕掛けがバレルをリスポーンするかどうかの設定。",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "タルが吹き飛ぶ際の力に適用される倍率の設定。",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "ゲーム開始時にこのタルが有効になり、表示されるかどうかの設定。",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "仕掛けを無効化",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "タルを無効にして非表示にする。",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "バレルのリスポーンを許可しない",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "仕掛けを有効化",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "タルを有効にして表示する。",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "吹き飛び力の倍率",
+    "BoolMetaData.FalseDisplayName": "オフ",
+    "BoolMetaData.TrueDisplayName": "オン",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "タルの爆発時",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "タルが吹き飛んだ時",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "バレルがリスポーンしないようにする。「リスポーンディレイ」のカウントダウンは始動しない。カウントダウンがすでに始まっている場合、カウントの終了時にバレルはリスポーンしない。",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "リスポーンディレイ",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "リスポーンの有無",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "開始時に有効化",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "タルが起爆されると起動する。",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "タルが吹き飛ぶと起動する。"
+  }
+}

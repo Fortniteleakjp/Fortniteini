@@ -1,0 +1,48 @@
+{
+  "": {
+    "B27513814E4ED088893872A8002732F1": "Phụ Kiện",
+    "1DC695F543617CDD983D6CA98D244D3F": "Thùng Phuy",
+    "644AFB924BC996E1358E8DAC5E388D65": "Năng lượng",
+    "BE92A9C14CCD1DDE6F95148190BAC4EF": "Tâm Điểm",
+    "43384B4746A525AAE21308A2255D4AB7": "Kìm"
+  },
+  "Juno_BoostedItemNames_PlasmaPistols": {
+    "Plasma_Pistols_T4_Amber_DisplayName": "Cặp Súng Lục Plasma Hổ Phách",
+    "Plasma_Pistols_T5_Amber_DisplayName": "Cặp Súng Lục Plasma Hổ Phách",
+    "Plasma_Pistols_T2_Blast_Core_DisplayName": "Cặp Súng Lục Plasma Nổ",
+    "Plasma_Pistols_T1_Bone_DisplayName": "Cặp Súng Lục Plasma Xương",
+    "Plasma_Pistols_T2_Brightcore_DisplayName": "Cặp Súng Lục Plasma Tươi Sáng",
+    "Plasma_Pistols_T1_Arctic_Claw_DisplayName": "Cặp Súng Lục Plasma Móng Vuốt",
+    "Plasma_Pistols_T1_Sand_Claw_DisplayName": "Cặp Súng Lục Plasma Móng Vuốt",
+    "Plasma_Pistols_T1_Wolf_Claw_DisplayName": "Cặp Súng Lục Plasma Móng Vuốt",
+    "Plasma_Pistols_T3_Copper_DisplayName": "Cặp Súng Lục Plasma Đồng",
+    "Plasma_Pistols_T2_Cursed_Bone_DisplayName": "Cặp Súng Lục Plasma Bị Nguyền",
+    "Plasma_Pistols_T4_Emerald_DisplayName": "Cặp Súng Lục Plasma Ngọc Lục Bảo",
+    "Plasma_Pistols_T5_Emerald_DisplayName": "Cặp Súng Lục Plasma Ngọc Lục Bảo",
+    "Plasma_Pistols_T1_Flexwood_DisplayName": "Cặp Súng Lục Plasma Gỗ Đa Năng",
+    "Plasma_Pistols_T1_Frostpine_DisplayName": "Cặp Súng Lục Plasma Gỗ Thông Băng Giá",
+    "Plasma_Pistols_T1_Glass_DisplayName": "Cặp Súng Lục Plasma Thủy Tinh",
+    "Plasma_Pistols_T3_Gold_DisplayName": "Cặp Súng Lục Plasma Vàng",
+    "Plasma_Pistols_T2_Granite_DisplayName": "Cặp Súng Lục Plasma Đá Hoa Cương",
+    "Plasma_Pistols_T3_Iron_DisplayName": "Cặp Súng Lục Plasma Sắt",
+    "Plasma_Pistols_T1_Knotroot_DisplayName": "Cặp Súng Lục Plasma Gỗ Xoắn",
+    "Plasma_Pistols_T1_Mahogany_DisplayName": "Cặp Súng Lục Plasma Gỗ Gụ",
+    "Plasma_Pistols_T2_Malachite_DisplayName": "Cặp Súng Lục Plasma Đá Khổng Tước",
+    "Plasma_Pistols_T2_Marble_DisplayName": "Cặp Súng Lục Plasma Đá Cẩm Thạch",
+    "Plasma_Pistols_T2_Obsidian_DisplayName": "Cặp Súng Lục Plasma Hắc Diện Thạch",
+    "Plasma_Pistols_T2_Redrock_DisplayName": "Cặp Súng Lục Plasma Đá Đỏ",
+    "Plasma_Pistols_T4_Ruby_DisplayName": "Cặp Súng Lục Plasma Ruby",
+    "Plasma_Pistols_T5_Ruby_DisplayName": "Cặp Súng Lục Plasma Ruby",
+    "Plasma_Pistols_T2_Sandstone_DisplayName": "Cặp Súng Lục Plasma Sa Thạch",
+    "Plasma_Pistols_T4_Sapphire_DisplayName": "Cặp Súng Lục Plasma Lam Ngọc",
+    "Plasma_Pistols_T5_Sapphire_DisplayName": "Cặp Súng Lục Plasma Lam Ngọc",
+    "Plasma_Pistols_T4_Shatterhorn_Fragment_DisplayName": "Cặp Súng Lục Plasma Sừng Vụn",
+    "Plasma_Pistols_T5_Shatterhorn_Fragment_DisplayName": "Cặp Súng Lục Plasma Sừng Vụn",
+    "Plasma_Pistols_T1_Storm_Core_DisplayName": "Cặp Súng Lục Plasma Bão",
+    "Plasma_Pistols_T3_Greater_Storm_Core_DisplayName": "Cặp Súng Lục Plasma Hộ Vệ Bão",
+    "Plasma_Pistols_T1_Wood_DisplayName": "Cặp Súng Lục Plasma Gỗ"
+  },
+  "Juno_CBCFormulas_PlasmaPistols": {
+    "PlasmaPistols_DisplayName": "Cặp Súng Lục Plasma"
+  }
+}

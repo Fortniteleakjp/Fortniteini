@@ -1,0 +1,47 @@
+{
+  "": {
+    "72B9375144FF4BCDC5784594CB8C039C": "غرض بيئي يضيف النيترو إلى ما حوله بعد تدميره.",
+    "7DBA9A854BDD2A9CCD895E999ECCEFC7": "غرض بيئي يضيف النيترو إلى ما حوله بعد تدميره.",
+    "ABEEC19745F1539DC1A3EDB81B8A9D69": "غرض بيئي يضيف النيترو إلى ما حوله بعد تدميره.",
+    "30E5234B40854AF182F76E99E0005299": "تخصيص برميل النيترو",
+    "3A16E0DE435CF07612216D94958139C0": "تعطيل عند الاستلام من",
+    "A17C5EC645C874D630065CA36AD5AB43": "لتعطيل الجهاز عند الاستلام من القناة المحددة.",
+    "D13DC0744CF15F7EDCA65D8716CE491B": "تمكين عند الاستلام من",
+    "6480B4A0446374163AA14886F9A0633A": "لتمكين الجهاز عند استلام إشارة من القناة المحددة.",
+    "D668B93241E5952E0B0D7C9F45C0B037": "فوري",
+    "9504D0EF41EF6D204CDA0AB2FB8BB642": "برميل النيترو",
+    "EB49CB5F4F9192AB677F4697F4BF8792": "برميل النيترو",
+    "9D2A2C2E44988BC61EC5B39B7D1197BB": "عند انفجار البرميل",
+    "6DE8D3364821C2389FC94292884E08A9": "عند إطلاق البرميل",
+    "ED148DE148299AEB76E8C1AF05838DC0": "تشغيل عند انفجار البرميل.",
+    "3A1B14E145478FEACE47E0B8E1360191": "تشغيل عند بدء انطلاق البرميل.",
+    "CA473148442DD4AE87EE64AFAB814B25": "{0} {1}|plural(zero=ثانية, one=ثانية, two=ثانية, few=ثواني, many=ثانية, other=ثانية)"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.DisplayName": "السماح بإعادة نشر البرميل",
+    "Device_NitroBarrelSpawner_C.AllowBarrelRespawn.Description": "السماح بإعادة نشر البرميل بعد تأخير إعادة النشر عندما ينفجر.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.Description": "لتحديد المدة التي ستستغرقها عملية إعادة نشر البرميل.",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.Description": "لتحديد إن كان الجهاز سيُعيد نشر البرميل بعد انفجاره خلال المواجهة.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.Description": "يحدد المُضاعف المُطبق على القوة المستخدمة لإطلاق البرميل.",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.Description": "لتحديد إن كان هذا الجهاز مُفعّلًا ومرئيًا عند بدء اللعبة.",
+    "Device_NitroBarrelSpawner_C.DisableDevice.DisplayName": "تعطيل الجهاز",
+    "Device_NitroBarrelSpawner_C.DisableDevice.Description": "لتعطيل وإخفاء البرميل.",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.DisplayName": "عدم السماح بإعادة نشر البرميل",
+    "Device_NitroBarrelSpawner_C.EnableDevice.DisplayName": "تفعيل الجهاز",
+    "Device_NitroBarrelSpawner_C.EnableDevice.Description": "لتفعيل وعرض البرميل.",
+    "Device_NitroBarrelSpawner_C.LaunchForceMultiplier.DisplayName": "مُضاعف قوة الإطلاق",
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.DisplayName": "عند انفجار البرميل",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.DisplayName": "عند إطلاق البرميل",
+    "Device_NitroBarrelSpawner_C.DisallowBarrelRespawn.Description": "يمنع البرميل من إعادة النشر. لن يبدأ العد التنازلي لتأخير إعادة النشر. إذا بدأ العد التنازلي بالفعل فلن يُعاد نشر البرميل عند انتهائه.",
+    "Device_NitroBarrelSpawner_C.RespawnDelay.DisplayName": "مهلة إعادة النشر",
+    "Device_NitroBarrelSpawner_C.bShouldRespawn.DisplayName": "إعادة النشر",
+    "Device_NitroBarrelSpawner_C.bStartEnabled.DisplayName": "فُعّل البدء",
+    "Device_NitroBarrelSpawner_C.OnBarrelExploded.Description": "تشغيل عند انفجار البرميل.",
+    "Device_NitroBarrelSpawner_C.OnBarrelLaunched.Description": "تشغيل عند إطلاق البرميل."
+  }
+}

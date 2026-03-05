@@ -1,0 +1,16 @@
+{
+  "": {
+    "89C0FBAD44FADF34B8511F882A8640D1": "Utiliza unos cuantos cuando quieras acelerar las cosas. ",
+    "ACEE789D4CB4CF1EE4874BA6768119DE": "¡Cuando necesitas acelerar hasta el infinito y más allá!"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "7F12123A4DDD99D670F726A00737F034": "Coloca propulsores grandes en estructuras existentes y objetos dinámicos.",
+    "A273638A43FBCAE3F1D05BA2085ACB16": "Coloca propulsores pequeños en estructuras existentes y objetos dinámicos.",
+    "FB90A27F4B95E168E9C6CA88443875D0": "Propulsor (grande)",
+    "5E9A371D43E076126910D39AF338F4B5": "Propulsor (pequeño)"
+  },
+  "PP_CraftingFormulas_RemoteThrusterPlacer": {
+    "RemoteThrusterLarge_DisplayName": "Propulsor (grande)",
+    "RemoteThruster_DisplayName": "Propulsor (pequeño)"
+  }
+}

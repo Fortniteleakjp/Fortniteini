@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "Scegli il tuo strumento",
+    "E70730D546323455388D0F8862938650": "Scegli il tuo strumento",
+    "94FB361A46082147B697C19A318D8F49": "Scegli la tua canzone",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "Loop Jam",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "Tracce Jam",
+    "LockerJamTracksCategory": "Tracce Jam armadietto"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "Traccia Jam"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "Emozioni giornaliere",
+    "setlist_1_title": "Emozioni giornaliere",
+    "setlist_title_1": "Emozioni giornaliere",
+    "daily_1_desc": "Descrizione Emozioni giornaliere!",
+    "setlist_1_desc": "Descrizione Emozioni giornaliere!",
+    "setlist_desc_1": "Descrizione Emozioni giornaliere!",
+    "festival_1_title": "La selezione Festival",
+    "setlist_3_title": "La selezione Festival",
+    "setlist_title_3": "La selezione Festival",
+    "festival_1_desc": "Descrizione La selezione Festival!",
+    "setlist_3_desc": "Descrizione La selezione Festival!",
+    "setlist_desc_3": "Descrizione La selezione Festival!",
+    "setlist_desc_Fortnitemares": "Fortnite: l'incubo",
+    "setlist_title_Fortnitemares": "Fortnite: l'incubo",
+    "setlist_2_title": "Scaletta Spotlight",
+    "setlist_title_2": "Scaletta Spotlight",
+    "spotlight_1_title": "Scaletta Spotlight",
+    "setlist_2_desc": "Descrizione scaletta Spotlight!",
+    "setlist_desc_2": "Descrizione scaletta Spotlight!",
+    "spotlight_1_desc": "Descrizione scaletta Spotlight!"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "Scaletta personalizzata",
+    "ProductMode_DisplayName_Setlist1": "Scaletta giornaliera",
+    "Daily_1_Title": "Emozioni giornaliere",
+    "Daily_1_Desc": "Descrizione Emozioni giornaliere sulla tabella",
+    "Festival_1_Title": "La selezione Festival",
+    "Festival_1_Desc": "Descrizione La selezione Festival sulla tabella",
+    "Default_Title": "Scaletta Festival",
+    "ProductMode_DisplayName_Setlist3": "Scaletta Spotlight",
+    "Spotlight_1_Title": "Scaletta Spotlight",
+    "Spotlight_1_Desc": "Descrizione scaletta Spotlight sulla tabella",
+    "Default_Desc": "QUESTA È LA DESCRIZIONE DELLA SCALETTA PREDEFINITA!",
+    "ProductMode_DisplayName_Setlist2": "Scaletta settimanale"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "Nome dell'artista",
+    "SparksAvailableFilter": "Disponibile",
+    "SparksDefaultFilter": "Predefinito",
+    "SparksFeaturedSort": "In evidenza",
+    "SparksFeaturedFilter": "Nuove e in evidenza",
+    "SparksOwnedFilter": "In possesso",
+    "SparksOwnedSort": "Proprietà",
+    "SparksSongSecondaryFilterUnarchivedOnly": "Mostra archiviati",
+    "SparksAlphaSort": "Titolo della traccia, A-Z",
+    "SparksAlphaSortReverse": "Titolo della traccia, Z-A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}

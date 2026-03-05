@@ -1,0 +1,32 @@
+{
+  "": {
+    "2A3DA133450DE1F4E7762EBFC3C8F144": "堕落の斧",
+    "5916DF4549227279E8AD35931888404D": "堕落のクロスボウ",
+    "9875D91146C4D8408E03BAAEFDF0BB3F": "堕落のデュアルダガー",
+    "F32A2C4A460D4C6BC10DD7BD49D31F18": "堕落のハンマー",
+    "9695AF99464F0C9FEC50C3BE822C43AF": "堕落のマチェーテ",
+    "76AEC6DD4CF9D18F7BFDC9BCFAEAA530": "堕落のツルハシ",
+    "69115BA249B1068F42E315B62BF89A6C": "堕落のプラズマピストル",
+    "8CC4CDD3405EAA085765AAB2E319DF1D": "堕落の槍",
+    "934302ED42B3386302EC7F9B113AC1FA": "堕落の剣",
+    "4F041E594D370BBE74E3BDA4A7A4BBAF": "<emphA>カットした堕落のクリスタル</>を使って武器をクラフトしよう。",
+    "4709780A4E901F20D82492ADE6339182": "<text color=\"E2FCFFFF\">カットした堕落のクリスタル</>で武器をクラフトする",
+    "C000930E48E063391FFEDFA82B24B571": "数秒ごとに、回避すると敵を探して接触時に爆発する仮面が召喚される。",
+    "1698974C46A90E20604D21BB850149FE": "スパイアの怒り IV",
+    "96F30C124D97236C1039428F0ED3FB2C": "スパイアの怒り IV",
+    "9AF379BD41AED1FFBDBC898B76D03198": "とてもイン\"スパイア\"されるものだ。",
+    "BD73B5584E28FBB049C627BCB4B934BA": "<EmphA>堕落のクリスタル</>と<EmphA>宝石切断機</>が必要だ。",
+    "19CC8E6C4A0EBC05523D13B480BC3BFA": "クラフト素材"
+  },
+  "Juno_GameplayItemCraftingFormulas_CutCorruptedCrystalMaterial": {
+    "CutCorruptedCrystal_DisplayName": "カットした堕落のクリスタル",
+    "EssenceOfSpireWrathIV_DisplayName": "スパイアの怒り IV"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "A623134E47F36B4867D2559117996AF6": "カットした堕落のクリスタル"
+  },
+  "Juno_UpdateItemData": {
+    "89238479458E64E9C358C986EFA5832A": "怖いほど鋭い。",
+    "6BA4926A4017F26CA4BA1E9607643091": "軽量な武器のクラフトに使用する。堕落のクリスタルを加工したもの。"
+  }
+}

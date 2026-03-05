@@ -1,0 +1,32 @@
+{
+  "": {
+    "6C4EC66B437CF6F3B12DEE95E4755630": "根据日程播放视频。",
+    "2DC509D549C32EFC8C8287888BE6F9B3": "在 UEFN (Unreal Editor Fortnite 特别版) 内安排视频播放日程。",
+    "04683984415B4636C2EF72B51E178286": "视频日程",
+    "C9C0906B47F72BBE6A22CB82BC2A6663": "视频日程"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "标签"
+  },
+  "UserOptionDefinition": {
+    "Device_VideoSchedule_Native_C.FillScheduleAlign.DisplayName": "填充日程时对齐",
+    "Device_VideoSchedule_Native_C.Control Video Player.DisplayName": "控制视频播放器",
+    "EVideoScheduleDeviceRepeat.Daily.DisplayName": "每日",
+    "EVideoScheduleDeviceRepeat.None.DisplayName": "不重复",
+    "Device_VideoSchedule_Native_C.bFillSchedule.DisplayName": "填充日程",
+    "Device_VideoSchedule_Native_C.FillScheduleGap.DisplayName": "填充日程时留下间隙",
+    "EVideoScheduleDeviceRepeat.Hourly.DisplayName": "每小时",
+    "Device_VideoSchedule_Native_C.Control Video Player.Description": "链接到应受此日程控制的视频播放器设备。",
+    "BoolMetaData.FalseDisplayName": "关",
+    "BoolMetaData.TrueDisplayName": "开",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.DisplayName": "重复日程",
+    "Device_VideoSchedule_Native_C.SimpleSchedule.DisplayName": "日程（测试）",
+    "Device_VideoSchedule_Native_C.Start.DisplayName": "开始",
+    "Device_VideoSchedule_Native_C.Start.Description": "开始播放视频日程。",
+    "Device_VideoSchedule_Native_C.Stop.DisplayName": "停止",
+    "Device_VideoSchedule_Native_C.Stop.Description": "停止播放视频日程。",
+    "Device_VideoSchedule_Native_C.Test Control Receive.DisplayName": "测试控制接收",
+    "Device_VideoSchedule_Native_C.Test Control Receive.Description": "接收控制视频播放器事件的测试功能。",
+    "Device_VideoSchedule_Native_C.RepeatSchedule.Description": "描述是否应重复日程"
+  }
+}

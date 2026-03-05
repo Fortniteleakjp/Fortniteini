@@ -1,0 +1,67 @@
+{
+  "": {
+    "5480E1F941D7D93B362D71BA60CB7F14": "选择乐器",
+    "E70730D546323455388D0F8862938650": "选择乐器",
+    "94FB361A46082147B697C19A318D8F49": "选择你的歌曲",
+    "27BE35C74D1FAAF01E9C2485C71B8C86": "即兴循环",
+    "48DAF18248B16009E2FD49BCC8CAF20D": "{Option}"
+  },
+  "JamTracksEmote": {
+    "AllJamTracksCategory": "即兴曲目",
+    "LockerJamTracksCategory": "仓库即兴曲目"
+  },
+  "Sparks.SongItemDefinition": {
+    "DefaultShortDescription": "即兴曲目"
+  },
+  "SparksCuratedSetlistStringsNS": {
+    "daily_1_title": "日常旋律",
+    "setlist_1_title": "日常旋律",
+    "setlist_title_1": "日常旋律",
+    "daily_1_desc": "日常旋律描述！",
+    "setlist_1_desc": "日常旋律描述！",
+    "setlist_desc_1": "日常旋律描述！",
+    "festival_1_title": "音乐节精选",
+    "setlist_3_title": "音乐节精选",
+    "setlist_title_3": "音乐节精选",
+    "festival_1_desc": "音乐节精选描述！",
+    "setlist_3_desc": "音乐节精选描述！",
+    "setlist_desc_3": "音乐节精选描述！",
+    "setlist_desc_Fortnitemares": "Fortnite梦魇",
+    "setlist_title_Fortnitemares": "Fortnite梦魇",
+    "setlist_2_title": "焦点歌单",
+    "setlist_title_2": "焦点歌单",
+    "spotlight_1_title": "焦点歌单",
+    "setlist_2_desc": "焦点歌单描述！",
+    "setlist_desc_2": "焦点歌单描述！",
+    "spotlight_1_desc": "焦点歌单描述！"
+  },
+  "SparksCuratedSetlistTitles": {
+    "ProductMode_DisplayName_MainStage": "自定义歌单",
+    "ProductMode_DisplayName_Setlist1": "每日歌单",
+    "Daily_1_Title": "日常旋律",
+    "Daily_1_Desc": "表格中日常旋律描述",
+    "Festival_1_Title": "音乐节精选",
+    "Festival_1_Desc": "表格中音乐节精选描述",
+    "Default_Title": "音乐节歌单",
+    "ProductMode_DisplayName_Setlist3": "焦点歌单",
+    "Spotlight_1_Title": "焦点歌单",
+    "Spotlight_1_Desc": "表格中焦点歌单描述",
+    "Default_Desc": "此为默认歌单描述！",
+    "ProductMode_DisplayName_Setlist2": "每周歌单"
+  },
+  "SparksFilters": {
+    "SparksArtistSort": "艺术家名称",
+    "SparksAvailableFilter": "可用",
+    "SparksDefaultFilter": "默认",
+    "SparksFeaturedSort": "精选",
+    "SparksFeaturedFilter": "新歌或精选",
+    "SparksOwnedFilter": "已拥有",
+    "SparksOwnedSort": "权属",
+    "SparksSongSecondaryFilterUnarchivedOnly": "显示已归档",
+    "SparksAlphaSort": "歌曲标题，从A到Z",
+    "SparksAlphaSortReverse": "歌曲标题，从Z到A"
+  },
+  "SparksSongItemDetails": {
+    "ItemCategoryName": "{Year} | {Duration}"
+  }
+}
