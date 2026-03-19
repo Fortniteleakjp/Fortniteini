@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "アチーブメントクリアトークン",
     "48008F3445314E50326D9FB086B9189F": "アチーブメントクリアトークン",
     "FC7458584E93A2CCE3222B9CB21FFF51": "アチーブメントクリアトークン",
+    "647B590E4A6D893A4E58DB921F805840": "アクティビティ",
     "9FEF179645D8A343518563AEFE302A2A": "アクティビティ",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "ドリフトウォーカー用の追加クエスト。",
     "C0AD274548543104E8F3ABB507431A91": "ゴールドベイン ガーディアン クエストパックの追加クエスト",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "Junoプロジェクト用の空白プラグインを作成する。",
     "E806A3B84B22DDCF92AAF2B4C829173": "ItemDefinitionを格納するFNE用のゲーム機能プラグインを作成します。FNEは自動的に追加されるので、コードネームをつけるだけで準備完了。例: FooBarはFNEFooBarになります！",
     "37C405BC468E03254AB82CB18FD5CF98": "新しいキャンプシナリオのプラグインを作成する",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "Junoプロジェクト用の新規クリーチャープラグインを作成する。",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "クリエイティブモード用の新たな仕掛けを作成",
     "9E0FC24F423F8F20BB5934B8F479E56B": "FNEモード用の新しいファブリックの仕掛けを作成する",
     "5E0375C044B7B6205FA5AABD6B429116": "フォートナイトのコード付きゲーム機能プラグインを新たに作成する(エラーを起こさず使用できるようにするには、コードファイルに追加で変更を加える必要があります)",
     "633C71E243C17F5070573DB8EA470FBD": "フォートナイトのコード+UIモジュール付きゲーム機能プラグインを新たに作成する(エラーを起こさず使用できるようにするには、コードファイルに追加で変更を加える必要があります)。",
     "D5255BA645C1DCF04D17019E061BAB8A": "基本的なコンテンツでフォートナイトのゲーム機能プラグインを新たに作成する。",
+    "A4A0F4E74285005A28C88FBBB31AD140": "Curioboxプロジェクト用の新規プラグインを作成する。",
     "92B3DC974E94F5CA36482B9DB3343CF2": "Junoプロジェクト用の新規プラグインを作成する。",
-    "A4A0F4E74285005A28C88FBBB31AD140": "Sproutプロジェクト用の新規プラグインを作成する。",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "新しいJunoのキャンプシナリオのプラグインを作成する",
     "D5255BA645C1DCF04D17019E061BAB7A": "ルートゲーム機能のプラグインを新規作成する。",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "フォートナイトのゲーム機能プラグインを新たに作成する。GameFeatureDataのアセットのみが含まれる。",
     "D4034010418FF429289586AC5F972D77": "新しいバトルロイヤルのゲームプレイ機能のUIコンテンツ向けに空のプラグインを作成する",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "クロスボーンボイジャー",
     "54743E7F439EF3489ADB5689670DEFFE": "クロスマークオペレーティブ チャレンジ",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "カドル・バンズ チャレンジ",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "Curioboxゲームプレイプラグインのテンプレート",
     "EF9405A043B0E869255F438176090428": "デイリーパンチカードクリアトークン",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "ダンスサポート",
     "FEA5CDF84F86CFEEDCFFD69726390294": "<Emphasized>体力が低下</>していると<Emphasized>与ダメージが増加</>する。",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "強化型アサルトライフル  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "強化型コンパクトサブマシンガン",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "エンハンスドドラムショットガン",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "強化型ハープーンガン",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "強化型タクティカルショットガン",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "キャノンに入る",
     "E6F1B9FF470A284E11AF6F891FE7D098": "キャノンに入る",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "銃 遠隔 ピストル 大口径弾 セミオート",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "銃 遠隔 ピストル 大口径弾 セミオート",
     "2D37E97E43724ABA040D5DB07530962F": "銃 遠隔 ピストル セミオート",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "銃 遠隔 ピストル セミオート",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "銃 遠隔 ピストル セミオート",
     "9EA74A7A4C987B0D9D927EB133619716": "銃 遠隔 ピストル セミオート",
     "BF1FF2F14FDC8846B569E7966543F17B": "銃 遠隔 ピストル セミオート",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "ハンティングライフル",
     "D29EE9294C3C6ACC03577885D6B34262": "ハンティングライフル",
     "DFD2853F433A8DA06177BFAAF22D0CED": "ハンティングライフル",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "爆発して近くの敵をノックバックさせるグレネードを投げる。",
     "88E97DAD4C1AB681AF821394106303DF": "敵プレイヤーやオブジェクトにくっつく爆弾を投げる。",
     "9F773C444680E58D8F932EA37E5F0581": "敵プレイヤーやオブジェクトにくっつく爆弾を投げる。",
     "90F8ED68488FD4B3343C46A4B7131E87": "有毒ガスを放出し、範囲内の敵にダメージを与えるグレネードを投げる。近づくと危険！",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "全ての技術の<Emphasized>チャージ率</>を改良する",
     "842064DD4CCAF532392128861286DD02": "全ての武器で腰だめ撃ちの<Emphasized>命中率</>が上がる",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "インパルスグレネード",
+    "CFEA70984FEAE95DC388B0AC8B919432": "インパルスグレネード",
     "FB4BDD7B494F39753C6778979CD662CC": "空中で: ターゲットに向かって飛ぶ",
     "80D8948A44365AE1A9D3DB9925A43A2B": "<Emphasized>グライダーの速度</>が増加",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "<Emphasized>ヘッドショット</>ダメージが増加するが、<Emphasized>それ以外の部位</>へのダメージが減少する",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "ジャンプパッド(水平)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "ジャンプパッド(上)",
     "251E3DE8412479479C227D821FAAC425": "Juno ブランクプラグイン",
-    "38DE538C495F59868887E890EC3FD597": "Juno キャンプのシナリオ",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "Juno クリーチャープラグインのテンプレート",
     "105342A546779B970DC46E80183052FE": "Juno ゲームプレイプラグインのテンプレート",
     "EF22E85B49A871DF9C133DA1F84B3900": "JunoTG (テーマ ゲーム)",
     "FDA97C5F4842CB9AE5195393C8759F84": "JunoTM (テーマ ミニマル)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "被ダメージを<Emphasized>さらに防ぐ</>ことができるキングスマン",
     "330D995D4F99BB677CE5FF8643A9B17A": "キットのチャージショットガン",
     "A01D19E14ACA958C292350B0BDD893E8": "ノックグレネード ユーティリティ・アイテム グレネード",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "ノックグレネード ユーティリティ・アイテム グレネード",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "大",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "レゴ メタバース アセットコレクション",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "レゴ メタバース アセットコンポジション",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} 水泳{swimming} モンタージュ{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "プレイヤー",
     "291AD5F7469E20890EFCD288976C3A9B": "プレイヤーアンケート適正トークン",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "プレイ時間によるXPを獲得した！",
     "14164C9D434D02CF6E737F8644740969": "プレイ時間によるXPを獲得した！",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "地雷",
     "FE97DA514506C8282ACCE59BFD3A562C": "地雷",
     "EB7FCBAD49E466CA687372AC079CF68B": "地雷+",
+    "31127BE846D8E9589A9E6BA80983EEB7": "敵を自分の元へひきつけて、ダメージを与える。",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "ポンプショットガン",
     "EF0917D448D388C00D296F8E62FF2DC4": "ポンプショットガン+",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "<Emphasized>ヘッドショットでのダメージが上がった</>ポンプショットガン",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "消火しよう！",
     "4253CE934E3EFF13CA95C787B6D46641": "新たなるサマーテニスの王者、エリサに盛大な拍手を！",
     "43088BA143F2B6BCAEE378847172BE8C": "クアッドクラッシャー",
+    "CC13E7A44B19B6541560D085C426791D": "クアッドクラッシャー",
     "24034CD84B1D10C83560F8902AF33DC2": "クエスト",
     "280019E146742BEA12E9E897FA18D7D4": "クエスト",
     "31F60738447C00A236E84A89CEB3B03A": "クエスト",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "木材を消費して心地よい焚き火を起こし、回復しよう！",
     "654EA602493B038AED40358E6100A5F7": "木材を消費して心地よい焚き火を起こし、回復しよう！",
     "CD5B0A744223502F67BABD81B1230D5D": "スプレー",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "Sprout ゲームプレイプラグインのテンプレート",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (テーマ ゲーム)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "スクワッド要請",
     "459B35F94D969E08A4D1109E18B98C2F": "標準仕様の<Emphasized>近接</>銃",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "ターゲットにフォーカス",
     "TiltAngleIndicator": "傾け {0}度"
   },
+  "AIActionSequence": {
+    "AppLabel": "AIアクションシーケンス",
+    "AIActionSequenceTab": "AIActionSequence",
+    "AddTrack": "AIトラックを追加",
+    "DeleteAction": "AIアクションを削除",
+    "DeleteTrack": "AIトラックを削除"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "AIアクションシーケンスエディタで開く",
+    "OpenAIActionSequencesEditor_Tooltip": "AIアクションシーケンスエディタでこのアセットを開く。"
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "プロンプトエディターツールを開く",
+    "PromptEditorTool": "プロンプトエディターツール",
+    "PromptEditorToolTabTitle": "プロンプトエディターツール"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "プレイヤーが足りないため、1人以上のチームメイトがマッチを放棄しました",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "AIアクションシーケンス",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0} m",
     "LongestKillDistanceText": "{0} m"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "現在",
-    "NumberOfDays": "{NumDays} 日"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "マーカー設置",
     "PlaceDangerMarkerDoubleTap": "危険マーカーを設置(ダブルタップ)",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "合計GPU時間: {GPUTimeMS} ms",
     "DrawCalls": "合計ドローコール: {DrawCalls}",
     "NumPrimitives": "合計基本命令描写数: {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}！\n\nメモリ使用量: {1} / {2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}！\n\nメモリ使用量: {1} / {2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}！\n\nメモリ使用量 : {1} / {2}Mb"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "撃破された"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "次のマッチに向け準備を完了する",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "次の準備OK!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "新しいチームで準備してください。",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "再マッチ",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "チームで再マッチ",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "プレイヤーを通報",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "ロビーに戻る",
     "KeepPlayingTogether.PartyMemberOptedOutText": "一部のパーティーメンバーはチームに残ることに投票しませんでした",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "{0}人の観戦者が視聴中"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "プロジェクト内に重なり合っているレゴ®のアセットがあります。これはレゴ®のガイドラインに反しています。重なり合っている部分を全て解消しなければ、プロジェクトが審査を通過できません。\nアクタ「{0}」が他の「{1}」のアクタと重なり合っています:",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}アクタ「{1}」が他の「{2}」のアクタと重なり合っている:"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "コンテンツパッケージリゾルバの作成に失敗しました",
     "InvalidStateRequested": "内部コンテンツビーコンエラーが発生しました\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "参加エラー",
+    "ServicesUnavailable": "現在、サービスがとても混雑しています。しばらくしてから再度お試しください。{ShortErrorCode}",
     "PackageResolveFlowCancelled": "パッケージリゾルバの制御フローが不明な原因でキャンセルされました。",
     "ProjectDuplicationErrorTitle": "プロジェクト重複エラー",
     "RequestInvalid": "リクエストの形式が何らかの形で正しくありません {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "予期せずサーバーがシャットダウンしました。もう一度お試しください\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "予期せずサーバーがシャットダウンしました。もう一度お試しください\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "AIアクションシーケンスエディタ"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "HLTv2からカスタマイズUIプラグイン",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "SpatialProfiler",
     "WeaponModernizationEditorCommands": "武器近代化ツール"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "画面分割のプレイヤーが準備を完了できません。プライマリプレイヤーとしてログインし、クロスプレイの設定を変更してください。"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "サイズ",
+    "CopyOfCustomLayoutProfile": "{0}コピー",
+    "CopyOfLayoutPreset": "{0}コピー"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0分",
     "AllowedTimeNoLimit": "上限なし",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "近くにいるAIを撃破する",
     "DebugCommand_EndGame_DisplayName": "ゲームを終了",
     "DebugCommand_EndRound_DisplayName": "ラウンドを終了",
+    "DebugCommand_Flight_DisplayName": "飛行",
     "DebugCommand_GiveGold_DisplayName": "ゴールド素材を増加する",
     "DebugCommand_AddPlayerScore_DisplayName": "スコアを上げる",
     "DebugCommand_PauseRound_DisplayName": "ラウンドタイマーを一時停止する",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "バックパック",
     "Badge": "バッジ",
     "Badge_Plural": "バッジ",
+    "SparksBass": "ベース",
+    "SparksBass_Plural": "ベース",
     "Buff": "バフ",
     "BuffCredit": "バフ",
     "BuffCredit_Plural": "バフ",
     "Buff_Plural": "バフ",
+    "JunoBuildingSet": "建築",
     "BuildingPiece": "建築ピース",
     "BuildingPiece_Plural": "建築ピース",
+    "JunoBuildingSet_Plural": "建築",
     "ItemCache": "キャッシュ",
     "ItemCache_Plural": "キャッシュ",
     "CodeToken": "コードトークン",
@@ -3506,12 +3548,16 @@
     "Currency": "通貨",
     "DailyRewardScheduleToken": "デイリー報酬",
     "DailyRewardScheduleToken_Plural": "デイリー報酬",
+    "JunoBuildingProp": "装飾",
     "Deco": "装飾品",
     "Deco_Plural": "装飾品",
+    "JunoBuildingProp_Plural": "装飾",
     "Defender": "ディフェンダー",
     "Defender_Plural": "ディフェンダー",
     "DeployableBaseCloudSave": "設置可能な拠点",
     "DeployableBaseCloudSave_Plural": "設置可能な拠点",
+    "SparksDrums": "ドラム",
+    "SparksDrums_Plural": "ドラム",
     "EditTool": "編集ツール",
     "EditTool_Plural": "編集ツール",
     "Emote": "エモート",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "ゲームプレイモディファイア",
     "Glider": "グライダー",
     "Glider_Plural": "グライダー",
+    "SparksGuitar": "ギター",
+    "SparksGuitar_Plural": "ギター",
     "Hero": "ヒーロー",
     "Hero_Plural": "ヒーロー",
     "HomebaseBannerIcon": "拠点用バナー",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "拠点バナー",
     "Ingredient": "成分",
     "Ingredient_Plural": "素材",
+    "SparksKeyboard": "キーター",
+    "SparksKeyboard_Plural": "キーター",
     "CosmeticShoes": "シューズ",
     "CosmeticShoes_Plural": "シューズ",
     "LoadingScreen": "ロード画面",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "戦利品",
     "WeaponMelee": "近接武器",
     "WeaponMelee_Plural": "近接武器",
+    "SparksMicrophone": "マイク",
+    "SparksMicrophone_Plural": "マイク",
     "MissionItem": "ミッションアイテム",
     "MissionItem_Plural": "ミッションアイテム",
     "Music": "ミュージック",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "後で確認",
     "EmoteConfirmDesc": "エモート「ブギウギ」は24時間以内にアカウントに付与されます！"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "ウェーブを管理",
-    "InitialWave": "ウェーブ[ 0 ] - 最初のウェーブ"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "エンゲージメントプラグインエディタの設定を調整します。",
-    "EngagementsEditorProjectSettingsName": "エンゲージメントエディタ"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "インタラクトできない",
     "InteractionMessage": "インタラクト"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "CTAエディタ",
     "ConditionalTransitionEditorTabTooltip": "条件付きトランジションアクタのエディタを開く"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "アウト・プラグインを確認中",
+    "CustomizableUI": "カスタマイズUI",
+    "HLTv2ToCustomizableUIMigratorTool": "すべてのHLTv2設定をカスタマイズUIに移行",
+    "FailedToWriteDescriptor": "プラグイン{0}が見つかりませんでした"
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "建築中にしゃがむ(タップ)/スライディング(長押し)",
     "CrouchWhileEditing": "編集中にしゃがむ(タップ)/スライディング(長押し)",
     "ToggleCursorMode": "カーソルモード",
-    "Custom1(Fire)": "カスタム入力1(射撃)",
     "CustomInput10(Right)": "カスタム入力10(右)",
     "CustomInput11(PreviousItem)": "カスタム入力11(前のアイテム)",
     "CustomInput12(NextItem)": "カスタム入力12(次のアイテム)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "カスタム入力16(インベントリ切り替え)",
     "CustomInput17(SquadRequests)": "カスタム入力17(スクワッド要請)",
     "CustomInput18(Emote)": "カスタム入力18(エモート)",
-    "CustomInput2(Target)": "カスタム入力2(照準)",
-    "CustomInput3(Crouch)": "カスタム入力3(しゃがむ)",
-    "CustomInput4(Jump)": "カスタム入力4(ジャンプ)",
-    "CustomInput5(Sprint)": "カスタム入力5(ダッシュ)",
     "CustomInput6(Interact)": "カスタム入力6(インタラクト)",
     "CustomInput7(Forward)": "カスタム入力7(前方)",
     "CustomInput8(Backwards)": "カスタム入力8(後方)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "アーリーアクセス",
-    "MapRotationMessage": "次のマップ: {0}",
     "Ranked_Feral_ModeName": "ランクバリスティック",
     "Ranked_Figment_ModeName": "ランク フォートナイト ORIGIN",
     "Ranked_LTM_ModeName": "ランク 期間限定モード",
     "Ranked_DelMar_SeasonNameOverride": "ランクレーシング",
     "Ranked_BlastBerry_ModeName": "ランク リロード",
     "Ranked_BattleRoyale_ModeName": "ランク {0}",
-    "ReJoinMessage": "{0}のマッチメイキング制限を回避するには、進行中のマッチに再参加してください",
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "シーズンゼロ",
     "Ranked_BlastBerry_SeasonNameOverride": "シーズンゼロ",
     "Ranked_Figment_SeasonNameOverride": "シーズンゼロ",
-    "BlackoutTimeCountdownFormat": "{0}で利用不可",
     "Ranked_Matchmaking_ReadyUpWelcome": "{0}ようこそ"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "隠しアセット",
     "MemoryTestResults_Summary_HighestMemoryLocation": "最高メモリの位置: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "最高メモリ使用量: {MemoryValue} / {MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "最高メモリ使用量: {MemoryValue} / {MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "メモリ計算結果の概要",
     "MemoryTestResults_Summary_NumLocationsSampled": "サンプルにされた位置の数: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "参照チェーン{0}件を処理中",
     "MemoryTestResults_Summary_Result": "結果: {0}",
     "MemoryTestResults_Summary_Result_Success": "成功",
     "MemoryTestResults_TopTotalExclActors_Header": "合計限定サイズごとのトップアクタ",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "クラス{0}",
     "Game": "ゲーム",
     "TeamScoreboardNameFormat": "チーム{0}",
-    "JoinInProgressTooLate": "参加しようとしているゲームはすでに終了しています。",
-    "UnableToFindSpawnPoint": "スポーン地点が見つかりません"
+    "JoinInProgressTooLate": "参加しようとしているゲームはすでに終了しています。"
   },
   "FortMissionPopupWidget": {
     "REWARD:": "報酬:",
     "BluGloReward": "x{0}"
-  },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "{0}%増量*"
   },
   "FortMtxStoreVM": {
     "RealPriceFormat": "({0}*に相当)",
     "RealPriceFormat_AdditionalText": "({0}**に相当)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**ぴったり額購入に対応している場合、{0} V-Bucksちょうどを{1}で購入できます。このプラットフォームはぴったり額購入に対応していません。",
     "RealPriceLegalFormat_AdditionalText": "+*{0}V-Bucksちょうどの購入費用は{1}です。",
-    "ExactPackLegalText": "*V-Bucksの増量のパーセンテージは、1,000 V-Bucksパックの価格と比較した場合の数字です。",
+    "BonusAmountLegalFormat_Amount": "*V-Bucksの増量ボーナスは、{0}パックの価格と比較した場合の数字です。",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*V-Bucksの増量のパーセンテージとボーナスは、{0}パックの価格と比較した場合の数字です。",
+    "BonusAmountLegalFormat_PercentageLegacy": "*V-Bucksの増量のパーセンテージは、{0} V-Bucksパックの価格と比較した場合の数字です。",
+    "BonusAmountLegalFormat_Percentage": "*V-Bucksの増量のパーセンテージは、{0}パックの価格と比較した場合の数字です。",
     "RealPriceLegalFormat_NoExactAmount": "*ぴったり額購入に対応している場合、{0} V-Bucksちょうどを{1}で購入できます。このプラットフォームはぴったり額購入に対応していません。",
     "RealPriceLegalFormat": "*{0}V-Bucksちょうどの購入費用は{1}です。",
+    "ExactAmountOfferTitleText": "オファーの正確な額",
+    "NonRefundableVBucksLegalText": "V-Bucksパックは払い戻しできません。",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "管理設定のダウンロードに失敗しました。",
     "QueryKeychainFailedMsg": "キーチェーンのダウンロードに失敗しました",
     "GuestLoginNotAllowed": "ゲストアカウントではフォートナイトをプレイできない場合があります。別のXbox アカウントにログインしてから続行してください。",
-    "WorkspaceManagerInitFailed": "ワークスペースマネージャーの初期化に失敗",
     "InitializingEpicParty": "Epicパーティーを初期化中…",
     "RegisterUsabilityExperiment": "ユーザビリティ設定を初期化しています…",
     "LeavingParty": "パーティーを離脱中…",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "チーム{0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>スケジュール作成</>",
+    "PlayScheduleTitle": "<Strong>プレイスケジュール</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "毎日",
     "PlaytimeScheduleFriday": "金曜日",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "プレイ可能時間",
     "TuesdayPlaytimeCollection_Name": "火曜日",
     "PlaytimeReports_Description": "毎週、お子様がフォートナイトとUnreal Editor for Fortnite(UEFN)のプレイに使用した時間を閲覧できます。\n\nこの設定を「オン」にすると、この情報が記載されたEメールを毎週受け取ることも可能です。",
-    "WednesdayPlaytimeCollection_Name": "水曜日"
+    "WednesdayPlaytimeCollection_Name": "水曜日",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName}(長押し)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "建築素材の自動非表示",
     "AutoSetQuality_Action": "自動設定",
     "AutoSetQuality_Name": "クオリティの自動設定",
+    "AutomaticallyApplyXP_Name": "自動適用 - キャラクターXP",
     "DynamicResolution_Description": "GPU負荷に応じて3D解像度を自動調整します。 GPU使用率が低いとき、解像度はネイティブ解像度を上限に上昇します。 GPU使用率が高いとき、解像度は最小3D解像度を下限に低下します。",
     "AutoSetQuality_Description": "ハードウェアのベンチマークに基づき、グラフィッククオリティのオプションを自動設定します。",
     "EditConfirmOnRelease_Description_Switch": "ボタンを放した時に編集のアクションを自動的に確定します。",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "ボタンを放した時に編集リセットのアクションを自動的に確定します。",
     "ResetConfirmOnRelease_Description_PS4_PS5": "ボタンを放した時に編集のアクションを自動的に確定します。",
     "ResetConfirmOnRelease_Description": "入力を離した時に編集リセットのアクションを自動的に確定する。",
+    "AutomaticallyApplyXP_Description": "利用可能なキャラクターXPを使用して、使用中のヒーローロードアウトのヒーローとディフェンダー、スクワッドのサバイバーを自動でレベルアップします",
     "AutoMulchMode_Traps_Description": "このレア度以下のトラップ設計図を自動的にリサイクルする。",
     "AutoMulchMode_Weapons_Description": "このレア度以下の武器設計図を自動的にリサイクルする。",
     "AutoMulchMode_Defenders_Description": "このレア度以下のディフェンダーを自動的に退役させる。",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "ボタングループ",
     "QuickWeaponButtonGroup_Name_XB1": "ボタングループ",
     "QuickWeaponButtonGroup_Name_XSX": "ボタングループ",
+    "ButtonHoldTime_Name": "ボタン長押し時間",
     "ControllerButtonMappingCollection_Name": "ボタン配置",
     "TouchButtonPulseAnimation_Name": "パルスアニメーションボタン",
     "GyroCalibrationContext_Name": "調整",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "携帯モード時のジャイロセンサースペース",
     "MobileVibration_Name": "ハプティクス",
     "ControllerHardwareCollection_Name": "ハードウェア",
-    "EnableHardwareRayTracing_Name": "ハードウェアレイトレーシング",
-    "EnableHardwareRayTracing_Description": "ハードウェアレイトレーシングは、高品質のLumenグローバルイルミネーションと反射を有効にしますが、パフォーマンスを低下させる可能性があります。",
     "GyroTighteningThreshold_Description": "コントローラーをゆっくり動かしている際にジャイロセンサー照準の速度を落とし、照準を安定させることができます。このしきい値は、どの程度の速さ(1秒あたりの角度)でコントローラーを動かすとタイトニング効果が無効になるのかを決定します。また、しきい値を0にすれば、この効果を完全に無効にすることが可能です。ジャイロセンサーのデッドゾーンはこのしきい値へと加算されるため、両方が有効になっている場合でも、タイトニングはデッドゾーンからのスムーズな移行を可能にします。",
     "AutoMulchMode_Heroes_Name": "ヒーロー",
     "HiddenMatchmakingDelay_Name": "隠しマッチメイキング遅延",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "低入力レイテンシーモード",
     "GlobalIlluminationEpic": "Lumen 最高",
     "ReflectionsEpic": "Lumen 最高",
-    "Lumen is disabled": "Lumenグローバルイルミネーションまたは反射を有効にする必要があります。",
     "GlobalIlluminationHigh": "Lumen 高",
     "ReflectionsHigh": "Lumen 高",
     "LumenUnavailableInGameMode": "Lumenはこのゲームモードでは利用できません",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "クイック武器",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "R2のリリース",
     "GyroTrackballDecay_Description": "ジャイロセンサートラックボールが減速する割合です(ジャイロセンサーX軸機能とジャイロセンサーY軸機能のトラックボールオプションの挙動にのみ影響します)。",
+    "LumenRequiresRayTracing": "このプラットフォームはレイトレーシングに対応していません。",
     "AnnualRefundTokenRequests_Name": "最近の購入",
     "TSRRecommended": "推奨",
     "ReplayRecordingCreativeMode_Name": "クリエイティブのリプレイを記録",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "セーフゾーン",
     "AutoMulchCollection_Name": "世界を救え - 自動リサイクル/退役",
+    "PeopleXPCollection_Name": "世界を救え - XP自動適用",
     "CombatTweakZone_Scope": "対象",
     "GyroActiveMode_Scope": "スコープのみ",
     "MouseScopedMultiplier_Name": "スコープ感度",
@@ -7526,7 +7585,7 @@
     "SocialPushNotificationCollection_Name": "ソーシャルプッシュ通知",
     "UnsupportedD3D12": "ソフトウェアまたはハードウェアの要件が満たされていません。DirectX 12にはWindows 10のより新しいバージョン(バージョン1909.1350より新しいもの)、またはDirectX 12 Agility SDK をサポートするWindows 11、高度なシェーディング機能を備えた専用のグラフィックスカード、および最新のグラフィクスドライバーが必要です。",
     "EFortSubtitleBackgroundOpacity_Solid": "ソリッド",
-    "UserInterfaceParallax_Description": "アイテムショップなどの一部のメニューには視差効果がある場合があります。そのような効果を静止させるいは、この設定を無効にしてください。",
+    "UserInterfaceParallax_Description": "アイテムショップなどの一部のメニューには視差効果がある場合があります。そのような効果を静止させる場合は、この設定を無効にしてください。",
     "MotionBlur_Description": "映像にブラー効果を与えることができます。この演出によって気分が悪くなる場合もありますので、ご注意ください。画面酔いの予防や、アニメーションをスムーズに描画するには、この設定を無効にしてください。",
     "SoundCollection_Name": "サウンド",
     "SoundQuality_Name": "音質",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "Lumenを有効にするには「レンダリングモード」を「DirctX 12」に設定する必要があります。",
     "NaniteRequiresD3D12": "Naniteを有効にするには「レンダリングモード」を「DirctX 12」に設定する必要があります。",
     "FilterMatureLanguage_Warning": "成人向けの表現フィルターは、13歳未満のプレイヤーに対しては常に有効になります。",
+    "ButtonHoldTime_Description": "タッチスクリーン使用時に、ボタンが選択されるまでに必要な長押しの時間(秒単位)です。UEFNで作成された体験にのみ適用されます。",
     "KeyboardMovementBackwardDiagonal_Description": "キーボードで斜め後ろ方向を入力した際の走る角度。",
     "KeyboardMovementForwardDiagonal_Description": "キーボードで斜め前方向を入力した際の走る角度。",
     "KeyboardMovementStrafeDiagonal_Description": "キーボードで攻撃を入力した際の走る角度。",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0}秒",
     "GyroButtonHoldTime_Display": "{0}秒",
     "GyroSmoothWindowTime": "{0}秒",
+    "LongPressTime_FormattedLabelText": "{0}秒",
     "LookBoostAccelerationTimeAds_Format": "{0}秒",
     "LookBoostAccelerationTime_Fortmat": "{0}秒",
     "LookEaseTime_Format": "{0}秒",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0}秒",
     "SlideButtonHoldTime": "{0}秒",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0}%",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "日ごとにカスタマイズ",
     "SettingOff": "オフ",
     "SettingSameEveryDay": "毎日同じ"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "オフ",
+    "SettingOn": "オン",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "なし",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "スプレー"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "バージョン{0}から{1}(アクタ={2})のデータ移行が失敗しました"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "ゲーム",
     "LoadingNameKey": "名前を取得中",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes}分 {Seconds}秒",
     "WeeksFormatText": "{Weeks}週 {Days}日"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "デュオ",
-    "SubGameMode.LTMSolo": "ソロ",
-    "SubGameMode.LTMSquads": "スクワッド"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(ダウンロードが必要です)",
     "Message.Error": "エラーが発生しました。",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "別のチーム",
     "DuosTeam": "デュオ",
     "Message.EstimatedTimeRemaining": "推定残り時間: {0}",
-    "Fill": "埋める",
     "TeamFill": "埋める",
     "Message.FindingMatchNoETA": "マッチング中…\n経過時間: {0}",
     "Message.FindingMatch": "マッチング中…\n経過時間: {0}、完了予定: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "マッチメイキングエラー (#4)",
     "Message.ETANotAvailable": "利用不可",
     "Message.ModeNew": "新モードが登場！",
-    "NoFill": "埋めない",
     "NoTeamFill": "埋めない",
     "Header.NotMatchmaking": "マッチメイキングできません",
     "Message.CanMatchmakeSoloNewStyle": "プレイ",
     "Message.CanMatchmakeSolo": "プレイ！",
-    "Private": "プライベート",
-    "Public": "パブリック",
     "Header.PartyError": "パーティーエラー",
     "Header.Preparing": "準備中…",
     "PrivateMatch": "プライベート",
     "PublicMatch": "パブリック",
     "Message.QueueFull": "待ちリストがいっぱいです。お待ちください…\n経過時間: {0}",
     "Message.PlayersInQueue": "待機リストのプレイヤー数: {0}\n経過時間: {1}",
-    "Ranked": "ランク",
-    "RankedOff": "ランク: オフ",
-    "RankedOn": "ランク: オン",
     "Message.CanReJoinGame": "再参加",
     "Message.CanMatchmakeParty": "準備OK？",
     "PartySameTeamShort": "同じチーム",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "サーバーの反応を待っています…",
     "Message.WaitingForReadyFormat_Two": "{0}と{1}の準備を待っています...",
     "Message.WaitingForReadyFormat_More": "{0}人のプレイヤーの準備を待っています…",
-    "Message.WaitingForReadyFormat_Single": "{0}の準備を待っています...",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "{0}の準備を待っています..."
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "ニュース"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "ゲームへの参加リクエストが拒否されました。少し時間を置いて、もう一度お試しください。",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "{0}トーナメント"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "建築",
+    "BuildModeTitle": "ビルド / ゼロビルド",
+    "TeamSize2": "デュオ",
+    "Fill": "埋める",
+    "NoFill": "埋めない",
+    "TeamSize8": "オクテット",
+    "Off": "オフ",
+    "On": "オン",
+    "RankedDescription": "成績がランクに影響します",
+    "UnrankedDescription": "成績はランクに影響しません",
+    "ZeroBuildModeDescription": "建築を無効にしてプレイ",
+    "BuildModeDescription": "建築を有効にしてプレイ",
+    "TeamSize5": "クイント",
+    "Ranked": "ランク戦",
+    "TeamSize6": "シックス・スタック",
+    "TeamSize1": "ソロ",
+    "TeamSize4": "スクワッド",
+    "SquadFillTitle": "チームを埋める",
+    "TeamSizeTitle": "チーム規模",
+    "TeamSizeDescription1": "チーム人数は1プレイヤーに限定されています",
+    "TeamSizeDescription2": "チーム人数は2プレイヤーに限定されています",
+    "TeamSizeDescription3": "チーム人数は3プレイヤーに限定されています",
+    "TeamSizeDescription4": "チーム人数は4プレイヤーに限定されています",
+    "TeamSizeDescription5": "チーム人数は5プレイヤーに限定されています",
+    "TeamSizeDescription6": "チーム人数は6プレイヤーに限定されています",
+    "TeamSizeDescription8": "チーム人数は8プレイヤーに限定されています",
+    "TeamSize3": "トリオ",
+    "Unranked": "ランクなし",
+    "FillDescription": "マッチメイキング開始前にチームのメンバーが埋まります",
+    "NoFillDescription": "パーティー内のプレイヤーだけでチームを編成します",
+    "ZeroBuildMode": "ゼロビルド"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "無効なバックエンドがリクエストされました！ すでに存在します。"
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "オンの場合、MODを適用した武器にカーソルを合わせたときに、説明文ではなくアイコンだけが表示される。"
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</>がゲームに勝利！"
+    "WinnerGameFormat": "<WinnerName>{0}</>がゲームに勝利！",
+    "SuspendKick": "中断状態が長すぎたため退場になりました。"
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "不明な理由により利用できません。"
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "グループの招待",
     "GroupInviteDescription": "{0}からグループに招待されました"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "すべてのHLTv2設定をカスタマイズUIに移行"
   },
   "HUD": {
     "Cancel": "キャンセル",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "パワーレベルとFORT値が増加した。",
     "MemberJoinedToastTitle": "{0}がチームに参加しました"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "アパレルでエディターコマンドを実行した"
-  },
   "MessageDispatcher": {
     "UnknownError": "{ChannelName}の{MessageName}に予期せぬエラーが発生しました",
     "ChannelNotValid": "エラー: \"{MessageName}\"でチャンネルなしに戻ったため、もうチャンネルは有効ではありません。",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "ファクトを設定",
     "SetFactTemplate": "ファクトのテンプレートを設定",
-    "SetFactText": "ファクトのテキストを設定"
+    "FactArrayTextFormat": "{0}のファクト"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "{0}のデリゲートの暗黙の引数0とSelfファクトの引数の型が不一致。式: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "{0}の戻り値の型({1})をファクトにデコードできませんでした。式: {2}",
     "CouldntFindFact": "{0}という名前のファクトが見つかりませんでした",
     "CouldntGenerateConditionalToken": "条件トークンを生成できませんでした",
+    "CouldntGenerateLoopToken": "ループトークンを生成できませんでした",
     "CouldntParseConditionalSymbol": "条件シンボルをパースできませんでした",
+    "CouldntParseLoopSymbol": "ループシンボルを解析できませんでした",
     "InvalidDelegateObject_3": "ファクト{0}のデリゲートは有効なファクトの型を返しません。式: {1}",
     "InvalidDelegateObject_2": "ファクト{0}のデリゲートはオブジェクト{1}の有効な関数名にバインドされていません。式: {2}",
     "InvalidDelegateObject_1": "ファクト{0}のデリゲートは有効なオブジェクトにバインドされていません。式: {1}",
     "DelegateRecursionExceeded": "デリゲート{0}の再帰の深さを超過しました。式: {1}",
     "InfiniteDelegateRecursionDetected": "{0}のデリゲートで無限のデリゲート再帰が検出されました。式: {1}",
     "ExpectedQuote": "\" を予期",
+    "ExpectedIn": "{% for element...の要素名の後に予期される'in'",
     "ExpectedElseIfCondition": "{% else if  %}内で予期される条件式",
     "ExpectedIfCondition": "{% if  %}内で予期される条件式",
+    "ExpectedElement": "{% forの後に予期される要素名 ",
+    "ExpectedForElseInnerTemplate": "{% else %}と{% endfor %}の間で予期されるelseテンプレート",
     "ExpectedElseInnerTemplate": "{% else %}と{% endif %}の間で予期されるelseテンプレート",
     "ExpectedInnerTemplate": "予期される内部テンプレート",
     "ExpectedClosingBrace": "ファクトの式の末尾 } の一致を予期",
+    "ExpectedForLoop": "{% for  %}内で予期される範囲式",
+    "ExpectedWhitespaceAfterIn": "{% for element in ...の'in'の後に予期される空白",
     "InvalidFact_1": "式で参照されている無効なファクト{0} (エラー: {1}): {2}",
     "InvalidFact_2": "式で参照されている無効なファクト{0}: {1}",
     "InvalidDelegateParamCall": "引数を受け入れない{0}のデリゲートへのパラメータ化された呼び出しが無効です。式: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "テンプレートの再帰の深さを超過しました。式: {0}",
     "TooManyArgs": "{0}の呼び出しのパラメータが多すぎます。式: {1}",
     "UnexpectedElseAfterElse": "前のelseの後の予期しないelseブロック",
+    "UnexpectedElseAfterElseInFor": "前のelseの後の予期しないelseブロック",
     "UnexpectedElseIfAfterElse": "前のelseの後の予期しないelse ifブロック",
     "EOSExpectedConditionEnd": "ストリームの末尾が予期されていない形です。予期される閉じ方 ' %}'",
+    "EOSExpectedLoopEnd": "ストリームの末尾が予期されていない形です。予期される閉じ方' %}'",
+    "EOSExpectedEndFor2": "ストリームの末尾が予期されていない形です。予期される閉じ方{% endfor %}",
     "EOSExpectedEndIf2": "ストリームの末尾が予期されていない形です。予期される閉じ方 {% endif %}",
+    "EOSExpectedEndFor1": "ストリームの末尾が予期されていない形です。予期されるインナーテンプレートと閉じ方{% endfor %}",
     "EOSExpectedEndIf1": "ストリームの末尾が予期されていない形です。予期されるインナーテンプレートと閉じ方 {% endif %}",
     "ExpectedOpenBrace": "{1}における予期しないトークン「{0}」:ファクトのデリゲート後の{2}、式の中: {3}",
     "UnexpectedFactExprToken": "{1}における予期されていないトークン「{0}」:ファクトの式の{2}: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "一致しない式の閉じ }"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "チャットコンプリーター上書き",
-    "RunEnginePromptTooltip": "モノローグの *エンジン* サブシステムを使用してプロンプトを実行し、返答を評価する",
-    "RunWorldPromptTooltip": "モノローグの *ワールド* サブシステムを評価してプロンプトを実行し、返答を評価する",
-    "RefreshPreviewTooltip": "テンプレートを強制的に再ファクト化する(例: 動的なファクトのデリゲートを再評価する)",
-    "PromptNameLabel": "名前",
+    "LabelChatCompleterOverride": "チャットコンプリーター上書き",
+    "TooltipChatCompleterOverride": "レスポンスの生成に使用するChatCompleterです。指定しない場合、モノローグのエンジン・サブシステムの*デフォルトのChatCompleter*が使用されます。",
+    "LabelPromptName": "名前",
+    "ButtonNavigateToSystemMessage": "システムメッセージに移動する(Ctrl+Alt+上向き矢印)",
+    "ButtonNavigateToUserMessage": "ユーザーメッセージへ移動する(Ctrl+Alt+上向き矢印)",
+    "ButtonNavigateToNextFact": "次のファクトに移動する(Ctrl+Alt+右向き矢印)",
+    "ButtonNavigateToPreviousFact": "前のファクトに移動する(Ctrl+Alt+左向き矢印)",
+    "SetChatCompleterClassOverride": "ChatCompleterを上書きする",
     "PromptPreviewSettings": "プロンプトのプレビュー設定",
     "PromptResponse": "プロンプトの返答",
-    "SavePreviewTooltip": "繰り返しテストするためにプレビュー設定をアセットに保存する",
-    "SetMPChatCompleterOverride": "MonologuePrompt ChatCompleter上書きを設定",
+    "ButtonRefreshFacts": "ファクトを更新する(エディターの基盤モデルをクリアする)",
+    "ButtonRunPrompt": "モノローグの*ワールド*または(*エンジン*)サブシステムを使用してプロンプトを実行し、応答を生成する",
+    "ButtonSavePreview": "プレビュー設定をアセットに保存して繰り返しテストを実行する",
     "SetPromptName": "プロンプト名を設定",
     "SetPromptPreviewSettings": "プロンプトのプレビュー設定を設定",
-    "SetPromptSystemMessage": "プロンプトのシステムメッセージテンプレートを設定",
-    "SetPromptUserMessage": "プロンプトのユーザーメッセージテンプレートを設定",
-    "SystemMessageLabel": "システムメッセージ",
-    "CompleterOverrideTooltip": "このリクエストに使用するUChatCompleter。指定しない場合、モノローグのエンジンサブシステムの「デフォルトのチャットコンプイーター」が使用されます。",
-    "UserMessageLabel": "ユーザーメッセージ",
-    "WrapSystemMessageToolTip": "テキストの折り返し",
-    "WrapUserMessageToolTip": "テキストの折り返し"
+    "SetSystemMessageTemplate": "システムメッセージテンプレートを設定する",
+    "SetUserMessageTemplate": "ユーザーメッセージテンプレートを設定する"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "DataRegistryのファクトのデリゲート - データレジストリに「{0}」という名前のファクトは見つかりませんでした",
     "NoDRSubsystem": "DataRegistryのファクトのデリゲート - データレジストリのサブシステムが利用できません。DataRegistryプラグインが有効になっているか確認してください。",
     "InvalidDRFactItemId": "DataRegistryのファクトのデリゲート - DataRegistryItemIdString「{0}」は有効なデータレジストリのアイテムIDではありません",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "イベント詳細を取得するMutuallyPerceivedEventsに無効な最初のUMonologueComponentが渡されました！",
     "FirstPersonName_My": "自分の",
     "NameNoSubject": "名前を取得するサブジェクトにIMonologueSubjectInterfaceが渡されていません！",
     "ObservedNameNoSubject": "名前を取得するサブジェクトにIMonologueSubjectInterfaceが渡されていません！",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "{0}"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "NearbySubjectに無効なSearchHeightが渡されました。SearchHeightは0より大きくなくてはなりません",
+    "NearbySubjectsInvalidSearchRadius": "NearbySubjectに無効なSearchRadiusが渡されました。SearchRadiusは0より大きくなくてはなりません",
+    "NearbySubjectsNoActor": "NearbySubjectに渡されたMonologueComponentに、距離確認の対象となる所有者がいません",
+    "NearbySubjectsNoSelf": "NearbySubjectにUMonologueComponentが渡されませんでした",
     "SmartObjectBehaviorsNoSelf": "SmartObjectBehaviorsにUMonologueComponentが渡されていない",
+    "SpatialContextNoSelf": "SpatialContextにUMonologueComponentが渡されていません",
     "SmartObjectBehaviorsNoPawn": "SmartObjectBehaviors - サブジェクトからポーンを取得できませんでした",
     "SpatialContextNoPawn": "SpatialContext - サブジェクトからポーンを取得できませんでした"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "射撃",
     "SecondaryActionName": "ズーム"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "ランクなし"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "レベル{LevelRequired}到達で新しいセットをアンロック",
     "Offer_CanUnlockSet": "セットをアンロックして報酬の受け取りを開始する"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "{Date}にアンロック"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "ページ{IndexPage}の報酬を全て取得する",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "秘密のキーを待っています"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "シーズン{0}のシーズン番号が無効です。{1}(前シーズン + 1)を予期、{2}を取得"
+    "InvalidSeasonDependencies": "シーズンで参照されているアセット{0}から依存関係を取得できませんでした。",
+    "InvalidSeasonNumber": "シーズン{0}のシーズン番号が無効です。{1}(前シーズン + 1)を予期、{2}を取得",
+    "IncompatibleSeasonNumber": "シーズン{0}の依存関係{1}の検証を試行中。参照先のシーズン({3})よりリリースバージョン({2})が新しくなっています。",
+    "InvalidObjectDef": "シーズン{0}の依存関係{1}の検証を試行中。UFortItemDefinitionであるはずの設定が異なっています。"
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "開けられるプレゼントは残り<text size=\"18\">{0}</>個",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "フォートナイトをプレイしていただき、ありがとうございます！",
     "PurchaseHeader": "アイテム獲得"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "トラックを追加",
+    "AddTrack_ToolTip": "新しいアクショントラックを作成"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "保存",
+    "SavePrompts_ToolTip": "プロンプトプロバイダーを保存"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "HUDレイアウトツールの設定をすべてカスタマイズUIに移行する",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "すべてのHLTv2設定を新しいカスタマイズUIフレームワークに移行するための、HLTv2からカスタマイズUI移行ツールを開く"
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "空間プロファイラを開く",
+    "OpenSpatialProfiler_ToolTip": "空間プロファイラタブを開く"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "武器近代化ツールを開く",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "{CategoryName}の報酬を全て取得するとアンロック",
     "CategoryStatus_LockedRewardLevelFormat": "報酬をあと{NumRewards}個獲得するか、レベルを{NumLevels}上げてアンロック",
-    "CategoryStatus_LockedUntilLevel": "レベル{LevelRequired}到達でこのセットをアンロック",
-    "Status_LockedDateLockedFormat": "{Date}にアンロック"
+    "CategoryStatus_LockedUntilLevel": "レベル{LevelRequired}到達でこのセットをアンロック"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "{CategoryName}の報酬を全て取得するとアンロック",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "乗り物用オーディオビジュアルデータチューザーのコンバーターを実行",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "乗り物用ビジュアルアイテム定義のオーディオチューザーのコンバーターを実行"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "複数値"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "アセットはアイテム定義ではありません",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Fort Vehicle Cosmetics Preview Actor",
     "CanCreateActorFrom_InvalidAsset": "無効なアセット",
     "CanCreateActorFrom_InvalidAssetClass": "無効なアセットクラス"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "無効",
+    "MultipleValues": "複数値"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Fort Vehicle Cosmetics Variant Token",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "座席変更",
     "SwitchToWeapon": "武器に切り替え"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "なし"
   },
   "VkAnimNode": {
     "FADEINLEFT": "フェードイン 左",
@@ -11715,6 +11845,9 @@
     "OutBoundError": "会話の再始動に次のタスクを設定することはできません"
   },
   "VkSpeechNode": {
+    "OutBoundError": "このノードは同じタイプの他のノードや、リスタートのノードには接続できません"
+  },
+  "VkSpeechRandomVariantNode": {
     "OutBoundError": "このノードは同じタイプの他のノードや、リスタートのノードには接続できません"
   },
   "VkTextCrawlNode": {

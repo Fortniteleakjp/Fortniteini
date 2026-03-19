@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "調べる",
     "CF6195BE44741B679B03A7970B0904F5": "調べる",
     "B8C80B5041E5FBA2635752B2A5271479": "インタラクト",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "LLMオプション…",
     "21E869E04BA5F2AA7735959B3A3A57D0": "LLMオプション…",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "LLMオプション…",
     "AEB376F240A55432B193BC8797FF5AE9": "LLMオプション…",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "LLMオプション…",
     "9D19804447678A4A92E82F9AC04AEAA8": "持ち上げる",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "倉庫がいっぱいです",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "第4選択肢の簡潔な要約(1～2語)。",
+    "OptionTwo_ShortText": "プレイヤーの第2選択肢を簡潔に表した(1～2語)もの。",
+    "OptionSix_ShortText": "最後である第6選択肢を選んだ際の短いフレーズ(1～2語)。",
+    "OptionOne_ShortText": "第1選択肢のごく短い要約(1～2語)。 選択メニューでプレイヤーに表示される。",
+    "OptionFive_ShortText": "第5選択肢をUI上に表示するラベル(1～2語)。",
+    "OptionTwo_FullText": "プレイヤーが「OptionTwo」を選んだ際に話す完全文。",
+    "OptionFour_FullText": "プレイヤーが「OptionFour」を話す際のセリフ全文。",
+    "OptionOne_FullText": "プレイヤーが「OptionOne」で話すセリフ全文。要約版を展開した内容にすること。",
+    "OptionSix_FullText": "プレイヤーが「OptionSix」を選んだ際のセリフ全文。",
+    "OptionThree_FullText": "プレイヤーキャラが「OptionThree」を話す際のセリフ全文。",
+    "OptionFive_FullText": "プレイヤーが「OptionFive」を選んだ際のセリフ全文。",
+    "OptionThree_ShortText": "第3選択肢を短く表示した(1～2語)テキスト。"
   }
 }

@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Daten für Höhentextur konnten nicht beschafft werden; Initialisierung fehlgeschlagen.",
     "TextureInitFailed": "Daten für diese Textur konnten nicht beschafft werden; Initialisierung fehlgeschlagen.",
+    "FailExtractGrassTypeOverrides": "Fehler beim Extrahieren der Überschreibungen für Gras-Typen.",
+    "MissingGrassName": "Name des Gras-Typs fehlte, Daten konnten nicht beschriftet werden. Bitte stelle sicher, dass alle Gras-Typen in deinem Landschaftmaterial ein zugehöriges Asset haben.",
     "LandscapeComponentLost": "Referenz zu einer oder mehreren Landschaftskomponenten verloren; Graskarten werden nicht generiert."
   }
 }

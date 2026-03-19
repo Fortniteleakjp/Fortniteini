@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "Menu Chính",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Hiệu Ứng Lấp Lánh Chung"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Tắt</>: Động tác nhảy sẽ hoạt động với tốc độ thông thường, và nhạc nền của động tác sẽ phát đè lên Bản Nhạc Biến Tấu.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Bật</>: Động tác nhảy sẽ đồng bộ với nhịp điệu của Bản Nhạc Biến Tấu và nhạc nền của động tác sẽ bị tắt tiếng.",

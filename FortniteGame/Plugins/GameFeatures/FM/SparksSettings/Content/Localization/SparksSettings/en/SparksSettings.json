@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "Game Menu",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Sparks General"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Off</>: Dance emotes will play at their normal speed, and the emote music will play over the Jam Track.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>On</>: Dance emotes will sync to the beat of the Jam Track, and the emote music will be muted.",

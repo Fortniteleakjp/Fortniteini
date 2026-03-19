@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "Inspect",
     "CF6195BE44741B679B03A7970B0904F5": "Inspect",
     "B8C80B5041E5FBA2635752B2A5271479": "Interact",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "LLM Options...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "LLM Options...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "LLM Options...",
     "AEB376F240A55432B193BC8797FF5AE9": "LLM Options...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "LLM Options...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Lift",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Your Warehouse Is Full",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "A brief summary (1-2 words) for the fourth possible choice.",
+    "OptionTwo_ShortText": "A concise label (1-2 words) for the second player choice.",
+    "OptionSix_ShortText": "A short phrase (1-2 words) for the sixth and final option.",
+    "OptionOne_ShortText": "A very short summary (1-2 words) of the first option. This is what the player sees in the choice menu.",
+    "OptionFive_ShortText": "The UI label (1-2 words) for the fifth dialogue option.",
+    "OptionTwo_FullText": "The complete sentence the player speaks when selecting 'OptionTwo'.",
+    "OptionFour_FullText": "The entire line of dialogue spoken by the player for 'OptionFour'.",
+    "OptionOne_FullText": "The full dialogue line the player says for 'OptionOne', which should be an expansion of the short text.",
+    "OptionSix_FullText": "The full dialogue spoken by the player when they select 'OptionSix'.",
+    "OptionThree_FullText": "The full dialogue the player character says for 'OptionThree'.",
+    "OptionFive_FullText": "The full sentence the player says if they choose 'OptionFive'.",
+    "OptionThree_ShortText": "The short display text (1-2 words) for the third option."
   }
 }

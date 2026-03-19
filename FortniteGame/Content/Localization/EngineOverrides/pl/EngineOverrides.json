@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "Menedżer plików"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "UWAGA: Profil karty graficznej został sporządzony przy włączonej synchronizacji pionowej. Czas oczekiwania na synchronizację będzie wliczany do każdego zestawu i w związku z tym dane mogą być niepoprawne. Aby uzyskać jak najdokładniejsze dane, sporządź profil po wyłączeniu synchronizacji pionowej."
-  },
   "InputKeys": {
     "Acceleration": "Przyspieszenie",
     "Ampersand": "Symbol et",

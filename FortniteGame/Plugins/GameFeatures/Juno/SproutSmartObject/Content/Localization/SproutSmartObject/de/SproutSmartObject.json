@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "Ansehen",
     "CF6195BE44741B679B03A7970B0904F5": "Ansehen",
     "B8C80B5041E5FBA2635752B2A5271479": "Interagieren",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "LLM-Optionen ...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "LLM-Optionen ...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "LLM-Optionen ...",
     "AEB376F240A55432B193BC8797FF5AE9": "LLM-Optionen ...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "LLM-Optionen ...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Heben",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Dein Lagerhaus ist voll",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "Eine kurze Zusammenfassung (1 bis 2 Wörter) für die vierte mögliche Auswahl.",
+    "OptionTwo_ShortText": "Ein präzises Label (1 bis 2 Wörter) für die zweite Spielerauswahl.",
+    "OptionSix_ShortText": "Eine kurze Phrase (1 bis 2 Wörter) für die sechste und letzte Option.",
+    "OptionOne_ShortText": "Eine sehr kurze Zusammenfassung (1 bis 2 Wörter) der ersten Option. Dies ist, was Spieler im Auswahlmenü sehen.",
+    "OptionFive_ShortText": "Das UI-Label (1 bis 2 Wörter) für die fünfte Dialogoption.",
+    "OptionTwo_FullText": "Der komplette Satz, den der Spieler sagt, wenn 'OptionTwo' ausgewählt wird.",
+    "OptionFour_FullText": "Der gesamte Dialog, der vom Spieler bei 'OptionFour' gesprochen wird.",
+    "OptionOne_FullText": "Der vollständige Dialog, den der Spieler für 'OptionOne' sagt. Dies sollte ausgeschmückter als der kurze Text sein.",
+    "OptionSix_FullText": "Der vollständige Dialog, der vom Spieler gesprochen wird, wenn 'OptionSix' ausgewählt wird.",
+    "OptionThree_FullText": "Der vollständige Dialog, den der Spieler für 'OptionThree' spricht.",
+    "OptionFive_FullText": "Der vollständige Satz, den der Spieler sagt, wenn er 'OptionFive' auswählt.",
+    "OptionThree_ShortText": "Der kurze Anzeigetext (1 bis 2 Wörter) für die dritte Option."
   }
 }

@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Data could not be retrieved for height texture, initialization failed.",
     "TextureInitFailed": "Data could not be retrieved for this texture, initialization failed.",
+    "FailExtractGrassTypeOverrides": "Failed to extract grass type overrides.",
+    "MissingGrassName": "Grass type name was missing, data could not be labeled. Make sure all GrassTypes in your landscape material have an asset associated.",
     "LandscapeComponentLost": "Reference to one or more landscape components lost, grass maps will not be generated."
   }
 }

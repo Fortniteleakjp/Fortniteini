@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu độ cao, khởi tạo thất bại.",
     "TextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu này, khởi tạo thất bại.",
+    "FailExtractGrassTypeOverrides": "Trích xuất ghi đè loại cỏ không thành công.",
+    "MissingGrassName": "Thiếu tên loại cỏ, không thể gắn nhãn dữ liệu. Đảm bảo rằng tất cả Loại Cỏ trong mục vật liệu cảnh quan của bạn đều có tài sản được liên ết.",
     "LandscapeComponentLost": "Đã mất tham chiếu đến một hoặc nhiều thành phần cảnh quan, bản đồ sẽ không được tạo."
   }
 }

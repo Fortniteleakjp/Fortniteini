@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Nie można pobrać danych tekstury wysokości. Inicjalizacja nieudana.",
     "TextureInitFailed": "Nie można pobrać danych dla tej tekstury. Inicjalizacja nieudana.",
+    "FailExtractGrassTypeOverrides": "Nie udało się pobrać zastąpienia rodzaju trawy.",
+    "MissingGrassName": "Brakuje nazwy rodzaju trawy, nie można sklasyfikować danych. Upewnij się, że wszystkie rodzaje traw GrassType w twoim materiale krajobrazu mają powiązany zasób.",
     "LandscapeComponentLost": "Utracono odnośnik do co najmniej jednego komponentu krajobrazu. Mapy trawy nie będą generowane."
   }
 }

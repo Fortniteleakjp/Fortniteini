@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "โทเคนพิชิตความสำเร็จ",
     "48008F3445314E50326D9FB086B9189F": "โทเคนพิชิตความสำเร็จ",
     "FC7458584E93A2CCE3222B9CB21FFF51": "โทเคนพิชิตความสำเร็จ",
+    "647B590E4A6D893A4E58DB921F805840": "กิจกรรม",
     "9FEF179645D8A343518563AEFE302A2A": "กิจกรรม",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "เควสต์เพิ่มเติมสำหรับดริฟต์วอล์กเกอร์",
     "C0AD274548543104E8F3ABB507431A91": "เควสต์เพิ่มเติมสำหรับแพ็กเควสต์ผู้พิทักษ์แห่งโกลเด้นเบน",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "สร้างปลั๊กอินว่างเปล่าสำหรับโปรเจกต์ Juno",
     "E806A3B84B22DDCF92AAF2B4C829173": "สร้างปลั๊กอินฟีเจอร์เกมสำหรับ FNE เพื่อตั้งนิยามไอเทม FNE จะถูกเพิ่มเข้าไปอัตโนมัติ ดังนั้นแค่ตั้งชื่อโค้ดเนมก็พอแล้ว ตัวอย่าง: FooBar จะกลายเป็น FNEFooBar!",
     "37C405BC468E03254AB82CB18FD5CF98": "สร้างปลั๊กอินสถานการณ์แคมป์ใหม่",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "สร้างปลั๊กอิน Creature ใหม่สำหรับโปรเจกต์ Juno",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "สร้างอุปกรณ์ใหม่สำหรับโหมดครีเอทีฟ",
     "9E0FC24F423F8F20BB5934B8F479E56B": "สร้างอุปกรณ์ผ้าใหม่สำหรับโหมด FNE",
     "5E0375C044B7B6205FA5AABD6B429116": "สร้างปลั๊กอินฟีเจอร์เกม Fortnite ใหม่ด้วยโค้ด (ต้องแก้ไขไฟล์โค้ดเพิ่มเติมก่อนจึงจะสามารถใช้งานได้โดยไม่มีข้อผิดพลาด)",
     "633C71E243C17F5070573DB8EA470FBD": "สร้างปลั๊กอินฟีเจอร์เกม Fortnite ใหม่พร้อมโค้ด + โมดูล UI (ต้องแก้ไขไฟล์โค้ดเพิ่มเติมก่อนใช้งานจริงไม่อย่างนั้นอาจเกิดข้อผิดพลาดได้)",
     "D5255BA645C1DCF04D17019E061BAB8A": "สร้างปลั๊กอินฟีเจอร์เกม Fortnite ใหม่ที่มีเนื้อหาพื้นฐาน",
+    "A4A0F4E74285005A28C88FBBB31AD140": "สร้างปลั๊กอินเกมเพลย์ใหม่สำหรับโปรเจกต์ Curiobox",
     "92B3DC974E94F5CA36482B9DB3343CF2": "สร้างปลั๊กอินเกมเพลย์ใหม่สำหรับโปรเจกต์ Juno",
-    "A4A0F4E74285005A28C88FBBB31AD140": "สร้างปลั๊กอินเกมเพลย์ใหม่สำหรับโปรเจกต์ Sprout",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "สร้างปลั๊กอินสถานการณ์ Juno CAMP ใหม่",
     "D5255BA645C1DCF04D17019E061BAB7A": "สร้างปลั๊กอินฟีเจอร์ Root ของเกมใหม่",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "สร้างปลั๊กอินฟีเจอร์เกม Fortnite ใหม่ที่ว่างเปล่า มีเฉพาะAsset GameFeatureData",
     "D4034010418FF429289586AC5F972D77": "สร้างปลั๊กอินเปล่าสำหรับเนื้อหา UI ของฟีเจอร์เกมเพลย์แบทเทิลรอยัลใหม่",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "นักเดินทางกะโหลกไขว้",
     "54743E7F439EF3489ADB5689670DEFFE": "ชาเลนจ์ปฏิบัติการหมายหัว",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "ชาเลนจ์คัดเดิ้ลบันส์",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "เทมเพลตปลั๊กอินเกมเพลย์ Curiobox",
     "EF9405A043B0E869255F438176090428": "โทเคนพิชิตบัตรสะสมประจำวัน",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "เต้นสนับสนุน",
     "FEA5CDF84F86CFEEDCFFD69726390294": "สร้าง<Emphasized>ความเสียหายมากขึ้น</>เมื่อมี<Emphasized>พลังชีวิตต่ำ</>",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "ปืนไรเฟิลจู่โจมเสริมพลัง  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "ปืนกลมือกะทัดรัดเสริมพลัง",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "ปืนลูกซองดรัมเสริมพลัง",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "ปืนฉมวกเสริมพลัง",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "ปืนลูกซองยุทธวิธีเสริมพลัง",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "เข้าสู่ปืนใหญ่",
     "E6F1B9FF470A284E11AF6F891FE7D098": "เข้าสู่ปืนใหญ่",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "ปืน ระยะไกล ปืนพก กระสุนหนัก กึ่งอัตโนมัติ",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "ปืน ระยะไกล ปืนพก กระสุนหนัก กึ่งอัตโนมัติ",
     "2D37E97E43724ABA040D5DB07530962F": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
     "9EA74A7A4C987B0D9D927EB133619716": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
     "BF1FF2F14FDC8846B569E7966543F17B": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "ปืนไรเฟิลล่าสัตว์",
     "D29EE9294C3C6ACC03577885D6B34262": "ปืนไรเฟิลล่าสัตว์",
     "DFD2853F433A8DA06177BFAAF22D0CED": "ปืนไรเฟิลล่าสัตว์",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "ขว้างระเบิดที่ทำให้ผู้เล่นทั้งหมดที่อยู่ใกล้เคียงกระเด็นถอยหลังเมื่อระเบิดออก",
     "88E97DAD4C1AB681AF821394106303DF": "ขว้างระเบิดที่จะเกาะติดผู้เล่นฝ่ายศัตรูหรือสภาพแวดล้อม",
     "9F773C444680E58D8F932EA37E5F0581": "ขว้างระเบิดที่จะเกาะติดผู้เล่นฝ่ายศัตรูหรือสภาพแวดล้อม",
     "90F8ED68488FD4B3343C46A4B7131E87": "ขว้างระเบิดที่ปล่อยหมอกพิษออกมา ซึ่งสร้างความเสียหายให้กับศัตรูที่อยู่ในหมอก หนีก่อนดีกว่า!",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "เพิ่ม<Emphasized>อัตราชาร์จพลัง</>ให้เทคทั้งหมด",
     "842064DD4CCAF532392128861286DD02": "เพิ่ม<Emphasized>ความแม่นยำ</>ในการยิงแบบไม่ขึ้นศูนย์เล็งของอาวุธทั้งหมด",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "ระเบิดแรงผลัก",
+    "CFEA70984FEAE95DC388B0AC8B919432": "ระเบิดแรงผลัก",
     "FB4BDD7B494F39753C6778979CD662CC": "กลางอากาศ: กระโดดใส่เป้าหมาย",
     "80D8948A44365AE1A9D3DB9925A43A2B": "เพิ่ม<Emphasized>ความเร็วเครื่องร่อน</>",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "เพิ่ม<Emphasized>ความเสียหายเฮดช็อต</> แต่ลด<Emphasized>ความเสียหายต่อร่างกาย</>",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "แท่นกระโดด (มีทิศทาง)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "แท่นกระโดด (ขึ้น)",
     "251E3DE8412479479C227D821FAAC425": "ปลั๊กอิน Juno ว่างเปล่า",
-    "38DE538C495F59868887E890EC3FD597": "สถานการณ์ Juno CAMP",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "เทมเพลตปลั๊กอิน Juno Creature",
     "105342A546779B970DC46E80183052FE": "เทมเพลตปลั๊กอินเกมเพลย์ Juno",
     "EF22E85B49A871DF9C133DA1F84B3900": "JunoTG (เกมธีม)",
     "FDA97C5F4842CB9AE5195393C8759F84": "JunoTM (ธีมมินิมอล)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "คิงส์แมนที่สามารถ<Emphasized>เพิ่มการบล็อก</>ความเสียหายที่ได้รับ",
     "330D995D4F99BB677CE5FF8643A9B17A": "ปืนลูกซองชาร์จของคิท",
     "A01D19E14ACA958C292350B0BDD893E8": "ระเบิดอัดสลบ ไอเทมอเนกประสงค์ ระเบิด",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "ระเบิดอัดสลบ ไอเทมอเนกประสงค์ ระเบิดมือ",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "คอลเลกชัน Asset LEGO Metaverse",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "องค์ประกอบ Asset LEGO Metaverse",
@@ -1380,9 +1387,9 @@
     "23E4AD8040BD27B12F54D592B136B741": "โทเคนพิชิตชาเลนจ์ต่อเวลา",
     "60E8BD514CA49B8427DE5E968D50D6D0": "โทเคนพิชิตชาเลนจ์ต่อเวลา",
     "B6C570664C3322374D227E9C64E5CE53": "โทเคนพิชิตชาเลนจ์ต่อเวลา",
-    "4BCDDFA14F686CEE682E0781A1C6663A": "ชื่อจุดที่น่าสนใจ",
-    "BA80BC654CFB8E01EB9956876F4F2480": "ชื่อจุดที่น่าสนใจ",
-    "49D6D31842D007DC166BF4A177D63B81": "ขนาดจุดที่น่าสนใจ",
+    "4BCDDFA14F686CEE682E0781A1C6663A": "ชื่อสถานที่สำคัญ",
+    "BA80BC654CFB8E01EB9956876F4F2480": "ชื่อสถานที่สำคัญ",
+    "49D6D31842D007DC166BF4A177D63B81": "ขนาดสถานที่สำคัญ",
     "86A84DD84459F5837773B3BF3ECA2AAB": "ศิลาพลัง",
     "666DA32449CF40B24E7D1EAC0965A360": "ครึ่งปลา",
     "899E0A054AFE4ADC6753749705B2A70C": "ของขวัญอำลา",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} ว่ายน้ำ{swimming} มอนทาจ{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "ผู้เล่น",
     "291AD5F7469E20890EFCD288976C3A9B": "โทเคนการมีสิทธิ์เข้าร่วมสำรวจผู้เล่น",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "ได้รับ XP จากเวลาที่เล่นแล้ว!",
     "14164C9D434D02CF6E737F8644740969": "ได้รับ XP จากเวลาที่เล่นแล้ว!",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "กับระเบิดจับระยะ",
     "FE97DA514506C8282ACCE59BFD3A562C": "กับระเบิดจับระยะ",
     "EB7FCBAD49E466CA687372AC079CF68B": "กับระเบิดจับระยะ +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "ดึงศัตรูเข้าหาคุณและสร้างความเสียหาย",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "ปืนลูกซองปั๊ม",
     "EF0917D448D388C00D296F8E62FF2DC4": "ปืนลูกซองปั๊ม +",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "ปืนลูกซองปั๊มที่<Emphasized>เพิ่มความเสียหายเฮดช็อต</>",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "ดับไฟเลย!",
     "4253CE934E3EFF13CA95C787B6D46641": "จงวางมือสำรวมแด่เอริซ่า แชมป์การแข่งขันเทนนิสฤดูร้อนประจำเกาะคนใหม่ของเรา!",
     "43088BA143F2B6BCAEE378847172BE8C": "ควอดแครชเชอร์",
+    "CC13E7A44B19B6541560D085C426791D": "ควอดแครชเชอร์",
     "24034CD84B1D10C83560F8902AF33DC2": "เควสต์",
     "280019E146742BEA12E9E897FA18D7D4": "เควสต์",
     "31F60738447C00A236E84A89CEB3B03A": "เควสต์",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "ใช้ไม้เพื่อก่อกองไฟอุ่นสบายและฟื้นฟูพลังชีวิต!",
     "654EA602493B038AED40358E6100A5F7": "ใช้ไม้เพื่อก่อกองไฟอุ่นสบายและฟื้นฟูพลังชีวิต!",
     "CD5B0A744223502F67BABD81B1230D5D": "สเปรย์",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "เทมเพลตปลั๊กอินเกมเพลย์ Sprout",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (เกมธีม)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "คำขอให้เข้าทีม",
     "459B35F94D969E08A4D1109E18B98C2F": "อาวุธ<Emphasized>ระยะประชิด</>แบบมาตรฐาน",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "โฟกัสที่เป้าหมาย",
     "TiltAngleIndicator": "เอียง {0} องศา"
   },
+  "AIActionSequence": {
+    "AppLabel": "ลำดับแอ็กชันของ Ai",
+    "AIActionSequenceTab": "ลำดับแอคชั่นของ AI",
+    "AddTrack": "เพิ่มแทร็ก AI",
+    "DeleteAction": "ลบแอคชั่น Ai",
+    "DeleteTrack": "ลบแทร็ก Ai"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "เปิดในตัวแก้ไขลำดับแอคชั่นของ AI",
+    "OpenAIActionSequencesEditor_Tooltip": "เปิดแอสเซ็ตนี้ในตัวแก้ไขลำดับกแอคชั่นของ AI"
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "เปิดเครื่องมือแก้ไขข้อความแจ้งเตือน",
+    "PromptEditorTool": "เครื่องมือแก้ไขพรอมต์",
+    "PromptEditorToolTabTitle": "เครื่องมือแก้ไขข้อความแจ้งเตือน"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "สมาชิกอย่างน้อยหนึ่งคนในทีมของคุณเลือกที่จะละทิ้งแมตช์เนื่องจากมีผู้เล่นไม่ครบจำนวน",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "ลำดับแอ็กชันของ Ai",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0} ม.",
     "LongestKillDistanceText": "{0} ม."
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "วันนี้",
-    "NumberOfDays": "{NumDays} {0}|plural(one=วัน,other=วัน)"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "ทำเครื่องหมาย",
     "PlaceDangerMarkerDoubleTap": "ทำเครื่องหมายเตือนภัย (คลิกสองครั้ง)",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "เวลา GPU ทั้งหมด : {GPUTimeMS} ms",
     "DrawCalls": "Draw Calls ทั้งหมด : {DrawCalls}",
     "NumPrimitives": "Primitives Drawn ทั้งหมด : {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nการใช้งานหน่วยความจำ: {1} / {2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nการใช้งานหน่วยความจำ: {1} / {2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\nการใช้หน่วยความจำ: {1} / {2}Mb"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "กำจัด"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "พร้อมสำหรับแมตช์ต่อไป",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "พร้อม!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "เตรียมพร้อมกับทีมใหม่",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "เล่นแมตช์อีกครั้ง",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "เล่นแมตช์อีกครั้งพร้อมทีม",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "รายงานผู้เล่น",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "กลับไปที่ล็อบบี้",
     "KeepPlayingTogether.PartyMemberOptedOutText": "สมาชิกปาร์ตี้บางคนไม่ได้โหวตให้เล่นต่อกับทีมเดิม",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "มีผู้ชม {0} คนกำลังฟังอยู่"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "คุณมีทรัพยากร LEGO® ที่ซ้อนทับกันในโปรเจกต์ของคุณ ซึ่งขัดกับแนวทางของ LEGO® โปรดแก้ไขการซ้อนทับทั้งหมด มิฉะนั้น โปรเจกต์ของคุณอาจไม่ผ่านการตรวจสอบ\nวัตถุ {0} ซ้อนทับกับวัตถุอื่นจำนวน {1} รายการ:",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}วัตถุ {1} ซ้อนทับกับวัตถุอื่นจำนวน {2} รายการ:"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "ไม่สามารถสร้างตัวแก้ไขแพ็กเกจเนื้อหาได้",
     "InvalidStateRequested": "ข้อผิดพลาดสัญญาณข้อมูลภายใน \n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "ข้อผิดพลาดในการเข้าร่วม",
+    "ServicesUnavailable": "ขณะนี้ระบบมีผู้ใช้งานเป็นจำนวนมาก  โปรดลองอีกครั้งในภายหลัง\n {ShortErrorCode}",
     "PackageResolveFlowCancelled": "ถูกยกเลิกการควบคุมกระแสข้อมูลของตัวแก้ไขแพ็กเกจด้วยเหตุผลที่ไม่ทราบ",
     "ProjectDuplicationErrorTitle": "ข้อผิดพลาดการทำซ้ำโครงการ",
     "RequestInvalid": "คำขอผิดรูปแบบใดสักรูปแบบ {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "เซิร์ฟเวอร์ปิดการทำงานอย่างไม่คาดคิด โปรดลองอีกครั้ง\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "เซิร์ฟเวอร์ปิดการทำงานอย่างไม่คาดคิด โปรดลองอีกครั้ง\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "ตัวแก้ไขลำดับแอคชั่นของ AI"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "ปลั๊กอิน HLTv2ToCustomizableUI",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "ตัววิเคราะห์เชิงพื้นที่",
     "WeaponModernizationEditorCommands": "เครื่องมือปรับปรุงอาวุธ"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "ผู้เล่นแบบแยกหน้าจอไม่สามารถพร้อมได้ เข้าสู่ระบบในฐานะผู้เล่นหลักเพื่อเปลี่ยนการตั้งค่าการเล่นข้ามแพลตฟอร์ม"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "ขนาด",
+    "CopyOfCustomLayoutProfile": "คัดลอก {0}",
+    "CopyOfLayoutPreset": "คัดลอก {0}"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0 นาที",
     "AllowedTimeNoLimit": "ไม่จำกัด",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "กำจัด AI ใกล้เคียง",
     "DebugCommand_EndGame_DisplayName": "จบเกม",
     "DebugCommand_EndRound_DisplayName": "จบรอบ",
+    "DebugCommand_Flight_DisplayName": "บิน",
     "DebugCommand_GiveGold_DisplayName": "เพิ่มทรัพยากรทอง",
     "DebugCommand_AddPlayerScore_DisplayName": "เพิ่มคะแนน",
     "DebugCommand_PauseRound_DisplayName": "หยุดตัวจับเวลารอบชั่วคราว",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "กระเป๋าเป้",
     "Badge": "ตรา",
     "Badge_Plural": "ตรา",
+    "SparksBass": "เบส",
+    "SparksBass_Plural": "เบส",
     "Buff": "บัฟ",
     "BuffCredit": "บัฟ",
     "BuffCredit_Plural": "บัฟ",
     "Buff_Plural": "บัฟ",
+    "JunoBuildingSet": "สร้าง",
     "BuildingPiece": "ชิ้นส่วนสิ่งก่อสร้าง",
     "BuildingPiece_Plural": "ชิ้นส่วนสิ่งก่อสร้าง",
+    "JunoBuildingSet_Plural": "สร้าง",
     "ItemCache": "แคช",
     "ItemCache_Plural": "แคช",
     "CodeToken": "โทเคนรหัส",
@@ -3506,12 +3548,16 @@
     "Currency": "สกุลเงิน",
     "DailyRewardScheduleToken": "รางวัลรายวัน",
     "DailyRewardScheduleToken_Plural": "รางวัลรายวัน",
+    "JunoBuildingProp": "ของประดับ",
     "Deco": "ไอเทมประดับ",
     "Deco_Plural": "ไอเทมประดับ",
+    "JunoBuildingProp_Plural": "ของประดับ",
     "Defender": "ผู้ป้องกัน",
     "Defender_Plural": "ผู้ป้องกัน",
     "DeployableBaseCloudSave": "ฐานที่วางได้",
     "DeployableBaseCloudSave_Plural": "ฐานที่วางได้",
+    "SparksDrums": "กลอง",
+    "SparksDrums_Plural": "กลอง",
     "EditTool": "เครื่องมือแก้ไข",
     "EditTool_Plural": "เครื่องมือแก้ไข",
     "Emote": "อีโมต",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "ตัวปรับเกมเพลย์",
     "Glider": "เครื่องร่อน",
     "Glider_Plural": "เครื่องร่อน",
+    "SparksGuitar": "กีตาร์",
+    "SparksGuitar_Plural": "กีตาร์",
     "Hero": "ฮีโร่",
     "Hero_Plural": "ฮีโร่",
     "HomebaseBannerIcon": "แบนเนอร์โฮมเบส",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "แบนเนอร์โฮมเบส",
     "Ingredient": "วัตถุดิบ",
     "Ingredient_Plural": "วัตถุดิบ",
+    "SparksKeyboard": "คีย์ตาร์",
+    "SparksKeyboard_Plural": "คีย์ตาร์",
     "CosmeticShoes": "รองเท้าผ้าใบ",
     "CosmeticShoes_Plural": "รองเท้าผ้าใบ",
     "LoadingScreen": "ภาพหน้าจอโหลด",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "ของลูท",
     "WeaponMelee": "อาวุธระยะประชิด",
     "WeaponMelee_Plural": "อาวุธระยะประชิด",
+    "SparksMicrophone": "ไมโครโฟน",
+    "SparksMicrophone_Plural": "ไมโครโฟน",
     "MissionItem": "ไอเทมภารกิจ",
     "MissionItem_Plural": "ไอเทมภารกิจ",
     "Music": "ดนตรี",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "เตือนฉันในภายหลัง",
     "EmoteConfirmDesc": "บัญชีของคุณจะได้รับอีโมตยักย้ายส่ายสะโพกภายใน 24 ชม.!"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "จัดการระลอก",
-    "InitialWave": "ระลอก [ 0 ] - ระลอกเริ่มต้น"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "ปรับแต่งค่าการตั้งค่าตัวแก้ไขปลั๊กอินการมีส่วนร่วม",
-    "EngagementsEditorProjectSettingsName": "ตัวแก้ไขการมีส่วนร่วม"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "โต้ตอบไม่ได้",
     "InteractionMessage": "โต้ตอบ"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "ตัวแก้ไข CTA",
     "ConditionalTransitionEditorTabTooltip": "เปิดตัวแก้ไขวัตถุการเปลี่ยนผ่านแบบมีเงื่อนไข"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "กำลังเช็กเอาท์ปลั๊กอิน",
+    "CustomizableUI": "UI ที่ปรับแต่งได้",
+    "HLTv2ToCustomizableUIMigratorTool": "ย้ายการตั้งค่า HLTv2 ทั้งหมดไปที่ UI ที่ปรับแต่งได้",
+    "FailedToWriteDescriptor": "ไม่พบปลั๊กอิน '{0}'"
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "ย่อตัวขณะสร้าง (กด) / สไลด์ (กดค้าง)",
     "CrouchWhileEditing": "ย่อตัวขณะแก้ไข (กด) / สไลด์ (กดค้าง)",
     "ToggleCursorMode": "โหมดเคอร์เซอร์",
-    "Custom1(Fire)": "อินพุตกำหนดเอง 1 (ยิง)",
     "CustomInput10(Right)": "อินพุตกำหนดเอง 10 (ขวา)",
     "CustomInput11(PreviousItem)": "อินพุตกำหนดเอง 11 (ไอเทมก่อนหน้า)",
     "CustomInput12(NextItem)": "อินพุตกำหนดเอง 12 (ไอเทมถัดไป)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "อินพุตกำหนดเอง 16 (เปิด / ปิดช่องเก็บของ)",
     "CustomInput17(SquadRequests)": "ข้อมูลกำหนดเอง 17 (คำขอทีม)",
     "CustomInput18(Emote)": "อินพุตกำหนดเอง 18 (อีโมต)",
-    "CustomInput2(Target)": "อินพุตกำหนดเอง 2 (เล็งเป้าหมาย)",
-    "CustomInput3(Crouch)": "อินพุตกำหนดเอง 3 (ย่อตัว)",
-    "CustomInput4(Jump)": "อินพุตกำหนดเอง 4 (กระโดด)",
-    "CustomInput5(Sprint)": "อินพุตกำหนดเอง 5 (วิ่งสปรินท์)",
     "CustomInput6(Interact)": "อินพุตกำหนดเอง 6 (โต้ตอบ)",
     "CustomInput7(Forward)": "อินพุตกำหนดเอง 7 (เดินหน้า)",
     "CustomInput8(Backwards)": "อินพุตกำหนดเอง 8 (ถอยหลัง)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "อยู่ระหว่าง Early Access",
-    "MapRotationMessage": "แผนที่ถัดไป: {0}",
     "Ranked_Feral_ModeName": "แรงก์บัลลิสติก",
     "Ranked_Figment_ModeName": "แรงก์ Fortnite OG",
     "Ranked_LTM_ModeName": "โหมดจำกัดเวลาแบบจัดอันดับ",
     "Ranked_DelMar_SeasonNameOverride": "แรงก์เรซซิ่ง",
     "Ranked_BlastBerry_ModeName": "แรงก์รีโหลด",
     "Ranked_BattleRoyale_ModeName": "แรงก์{0}",
-    "ReJoinMessage": "เข้าไปยังแมตช์ที่กำลังดำเนินอยู่ใหม่อีกครั้งเพื่อเลี่ยงไม่ให้ถูกจำกัดจากการเข้าร่วมการจับคู่แข่งขันในแมตช์ {0}",
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "ซีซั่นศูนย์",
     "Ranked_BlastBerry_SeasonNameOverride": "ซีซั่นศูนย์",
     "Ranked_Figment_SeasonNameOverride": "ซีซั่นศูนย์",
-    "BlackoutTimeCountdownFormat": "ไม่พร้อมให้ใช้งานใน {0}",
     "Ranked_Matchmaking_ReadyUpWelcome": "ยินดีต้อนรับสู่ {0}"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "แอสเซ็ตที่ซ่อนอยู่",
     "MemoryTestResults_Summary_HighestMemoryLocation": "ตำแหน่งหน่วยความจำสูงสุด: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "การใช้งานหน่วยความจำสูงสุด: {MemoryValue} / {MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "การใช้หน่วยความจำสูงสุด: {MemoryValue} / {MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "สรุปผลการคำนวณหน่วยความจำ",
     "MemoryTestResults_Summary_NumLocationsSampled": "จำนวนตำแหน่งที่ตั้งที่เก็บตัวอย่าง: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "กำลังประมวลผลห่วงโซ่อ้างอิง {0}",
     "MemoryTestResults_Summary_Result": "ผลลัพธ์: {0}",
     "MemoryTestResults_Summary_Result_Success": "สำเร็จ",
     "MemoryTestResults_TopTotalExclActors_Header": "วัตถุสูงสุด พิจารณาจากขนาดเฉพาะรวม",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "คลาส {0}",
     "Game": "เกม",
     "TeamScoreboardNameFormat": "ทีม {0}",
-    "JoinInProgressTooLate": "เกมที่คุณพยายามเข้าร่วมจบลงแล้ว",
-    "UnableToFindSpawnPoint": "ไม่สามารถค้นหาจุดเกิดได้"
+    "JoinInProgressTooLate": "เกมที่คุณพยายามเข้าร่วมจบลงแล้ว"
   },
   "FortMissionPopupWidget": {
     "REWARD:": "รางวัล:",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "{0}% เพิ่มเติม*"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "(เทียบเท่ากับ {0}*)",
-    "RealPriceFormat_AdditionalText": "(เทียบเท่ากับ {0}**)",
+    "RealPriceFormat": "(เทียบเท่าสูงสุด {0}*)",
+    "RealPriceFormat_AdditionalText": "(เทียบเท่าสูงสุด {0}**)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**หากต้องการซื้อวีบั๊กให้ครบจำนวน {0} เท่าที่มีให้ซื้อได้คุณจะต้องจ่าย {1} ไม่สามารถซื้อพอจำนวนดังกล่าวบนแพลตฟอร์มนี้ได้",
     "RealPriceLegalFormat_AdditionalText": "**หากต้องการซื้อวีบั๊กให้ครบจำนวน {0} คุณจะต้องจ่าย {1}",
-    "ExactPackLegalText": "*เปอร์เซ็นต์วีบั๊กพิเศษจะแสดงเมื่อเทียบกับราคาของแพ็ก 1,000 วีบั๊ก",
+    "BonusAmountLegalFormat_Amount": "*โบนัสวีบั๊กพิเศษจะแสดงเปรียบเทียบกับราคาของแพ็ก {0}",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*เปอร์เซ็นต์และโบนัสวีบั๊กพิเศษจะแสดงเปรียบเทียบกับราคาของแพ็ก {0}",
+    "BonusAmountLegalFormat_PercentageLegacy": "*เปอร์เซ็นต์วีบั๊กพิเศษจะแสดงเปรียบเทียบกับราคาของแพ็ก {0} วีบั๊ก",
+    "BonusAmountLegalFormat_Percentage": "*เปอร์เซ็นต์วีบั๊กพิเศษจะแสดงเปรียบเทียบกับราคาของแพ็ก {0}",
     "RealPriceLegalFormat_NoExactAmount": "*หากต้องการซื้อวีบั๊กให้ครบจำนวน {0} คุณจะต้องจ่าย {1} ไม่สามารถซื้อจำนวนพอดีบนแพลตฟอร์มนี้ได้",
     "RealPriceLegalFormat": "*หากต้องการซื้อวีบั๊กให้ครบ {0} คุณจะต้องจ่าย {1}",
+    "ExactAmountOfferTitleText": "ข้อเสนอจำนวนที่ขาด",
+    "NonRefundableVBucksLegalText": "แพ็กวีบั๊กจะไม่สามารถขอคืนเงินได้",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "ดาวน์โหลดการตั้งค่าแบบมีผู้ดูแลล้มเหลว",
     "QueryKeychainFailedMsg": "ดาวน์โหลดคีย์เชนของแอสเซ็ตไม่สำเร็จ",
     "GuestLoginNotAllowed": "บัญชีแขกไม่สามารถเล่น Fortnite ได้ โปรดลงชื่อเข้าใช้บัญชีเครือข่าย Xbox แยกต่างหากเพื่อดำเนินการต่อ",
-    "WorkspaceManagerInitFailed": "การเริ่มการทำงานของตัวจัดการพื้นที่ล้มเหลว",
     "InitializingEpicParty": "กำลังเริ่มปาร์ตี้ Epic…",
     "RegisterUsabilityExperiment": "กำลังเริ่มการตั้งค่าความสามารถในการใช้งาน...",
     "LeavingParty": "กำลังออกจากปาร์ตี้...",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "ทีม {0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>สร้างตาราง</>",
+    "PlayScheduleTitle": "<Strong>ตารางเล่น</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "ทุกวัน",
     "PlaytimeScheduleFriday": "วันศุกร์",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "กรอบเวลา",
     "TuesdayPlaytimeCollection_Name": "วันอังคาร",
     "PlaytimeReports_Description": "ดูว่าบุตรหลานของคุณใช้เวลาเล่น Fortnite และ Unreal Editor for Fortnite (UEFN) นานเท่าใดในแต่ละสัปดาห์\n\nหากคุณเปิดการตั้งค่านี้ คุณจะสามารถเลือกรับอีเมลรายสัปดาห์ที่ระบุข้อมูลนี้ได้ด้วยเช่นกัน",
-    "WednesdayPlaytimeCollection_Name": "วันพุธ"
+    "WednesdayPlaytimeCollection_Name": "วันพุธ",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} (กดค้าง)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "ซ่อนวัสดุก่อสร้างโดยอัตโนมัติ",
     "AutoSetQuality_Action": "ตั้งค่าอัตโนมัติ",
     "AutoSetQuality_Name": "ตั้งค่าคุณภาพกราฟิกอัตโนมัติ",
+    "AutomaticallyApplyXP_Name": "การใช้งานอัตโนมัติ - XP บุคลากร",
     "DynamicResolution_Description": "ปรับความละเอียด 3D โดยอัตโนมัติตามการใช้งาน GPU เมื่อการใช้งาน GPU ต่ำ ความละเอียดจะเพิ่มขึ้นเป็นความละเอียดเดิมที่ตั้งไว้ เมื่อการใช้งาน GPU สูง ความละเอียดจะลดลงเป็นการตั้งค่าความละเอียด 3D ขั้นต่ำ",
     "AutoSetQuality_Description": "ตั้งค่าคุณภาพกราฟิกโดยอัตโนมัติตามประสิทธิภาพของฮาร์ดแวร์",
     "EditConfirmOnRelease_Description_Switch": "ยืนยันการแก้ไขอัตโนมัติเมื่อปล่อยปุ่มกด",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "ยืนยันการรีเซ็ตการแก้ไขอัตโนมัติเมื่อปล่อยปุ่มกด",
     "ResetConfirmOnRelease_Description_PS4_PS5": "ยืนยันการรีเซ็ตการแก้ไขอัตโนมัติเมื่อปล่อยปุ่มกด",
     "ResetConfirmOnRelease_Description": "ยืนยันการรีเซ็ตการแก้ไขอัตโนมัติเมื่อปล่อยปุ่มกด",
+    "AutomaticallyApplyXP_Description": "ใช้ XP บุคลากรที่มีอยู่อัปเลเวลฮีโร่และผู้ป้องกันในโหลดเอาต์ฮีโร่ที่ใช้งานอยู่ รวมถึงผู้รอดชีวิตในทีมโดยอัตโนมัติ",
     "AutoMulchMode_Traps_Description": "รีไซเคิลแผนผังกับดักที่มีระดับความหายากนี้หรือต่ำกว่าโดยอัตโนมัติ",
     "AutoMulchMode_Weapons_Description": "รีไซเคิลแผนผังอาวุธที่มีระดับความหายากนี้หรือต่ำกว่าโดยอัตโนมัติ",
     "AutoMulchMode_Defenders_Description": "ปลดระวางผู้ป้องกันที่มีระดับความหายากนี้หรือต่ำกว่าโดยอัตโนมัติ",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "กลุ่มปุ่ม",
     "QuickWeaponButtonGroup_Name_XB1": "กลุ่มปุ่ม",
     "QuickWeaponButtonGroup_Name_XSX": "กลุ่มปุ่ม",
+    "ButtonHoldTime_Name": "ระยะเวลากดปุ่มค้าง",
     "ControllerButtonMappingCollection_Name": "การผูกปุ่ม",
     "TouchButtonPulseAnimation_Name": "แอนิเมชันพัลส์ของปุ่ม",
     "GyroCalibrationContext_Name": "การปรับเทียบ",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "พื้นที่ไจโรสำหรับโหมดแฮนด์เฮลด์",
     "MobileVibration_Name": "การสั่นตอบสนอง",
     "ControllerHardwareCollection_Name": "ฮาร์ดแวร์",
-    "EnableHardwareRayTracing_Name": "Ray Tracing ของฮาร์ดแวร์",
-    "EnableHardwareRayTracing_Description": "Ray Tracing ของฮาร์ดแวร์ช่วยเพิ่มคุณภาพของโกลบอลอิลลูมิเนชันแบบ Lumen\nและคุณภาพของเงาสะท้อนให้ดีขึ้น แต่อาจลดประสิทธิภาพการทำงาน",
     "GyroTighteningThreshold_Description": "ช่วยให้การเล็งของคุณนิ่งขึ้นโดยลดความเร็วของการเล็งด้วยไจโร\nเมื่อคอนโทรลเลอร์ของคุณหมุนช้ามาก ค่าเกณฑ์คือความเร็วที่คุณต้องหมุนคอนโทรลเลอร์\nเพื่อปิดใช้งานความหนืดนี้ (องศาต่อวินาที) และถ้าตั้งค่าเป็น 0 เอฟเฟกต์นี้จะถูกปิดใช้งาน\nค่าเดดโซนของไจโรจะถูกเพิ่มเข้าไปในเกณฑ์นี้ด้วย\nทั้งนี้ ในกรณีที่เปิดใช้งานการตั้งค่าทั้งสองตัว\nความหนืดจะช่วยให้เคลื่อนก้านอนาล็อกออกจากเดดโซนได้อย่างราบรื่น",
     "AutoMulchMode_Heroes_Name": "ฮีโร่",
     "HiddenMatchmakingDelay_Name": "ดีเลย์เวลาในการจับคู่ผู้เล่น",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "โหมดลดความล่าช้าของอินพุต",
     "GlobalIlluminationEpic": "Lumen Epic",
     "ReflectionsEpic": "Lumen Epic",
-    "Lumen is disabled": "ต้องเปิดใช้งาน Lumen GI หรือเงาสะท้อน",
     "GlobalIlluminationHigh": "Lumen High",
     "ReflectionsHigh": "Lumen High",
     "LumenUnavailableInGameMode": "ไม่สามารถใช้งาน Lumen ได้ในโหมดเกมนี้",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "สลับอาวุธด่วน",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "ปล่อย R2",
     "GyroTrackballDecay_Description": "อัตราการชะลอของแทร็กบอลไจโร (มีผลเฉพาะกับการทำงานของตัวเลือกแทร็กบอลสำหรับปุ่มแกน X และแกน Y ของไจโร)",
+    "LumenRequiresRayTracing": "แพลตฟอร์มนี้ไม่รองรับ Ray Tracing",
     "AnnualRefundTokenRequests_Name": "การซื้อล่าสุด",
     "TSRRecommended": "แนะนำ",
     "ReplayRecordingCreativeMode_Name": "บันทึกรีเพลย์โหมดครีเอทีฟ",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "เซฟโซน",
     "AutoMulchCollection_Name": "กอบกู้โลก - รีไซเคิล/ปลดระวางอัตโนมัติ",
+    "PeopleXPCollection_Name": "Save The World - ใช้ Xp อัตโนมัติ",
     "CombatTweakZone_Scope": "กล้องเล็ง",
     "GyroActiveMode_Scope": "กล้องเล็งเท่านั้น",
     "MouseScopedMultiplier_Name": "ความไวกล้องเล็ง",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "คุณจำเป็นต้องตั้งค่า 'โหมดการเรนเดอร์' เป็น 'DirectX 12' เพื่อเปิดใช้งาน Lumen",
     "NaniteRequiresD3D12": "คุณจำเป็นต้องตั้งค่า 'โหมดการเรนเดอร์' เป็น 'DirectX 12' เพื่อเปิดใช้งาน Nanite",
     "FilterMatureLanguage_Warning": "ระบบจะเปิดใช้งานตัวกรองภาษาหยาบคายไว้เสมอสำหรับผู้เล่นที่มีอายุต่ำกว่า 13 ปี",
+    "ButtonHoldTime_Description": "ระยะเวลา (เป็นวินาที) ที่ต้องกดปุ่มค้างไว้ เพื่อเลือกปุ่มนั้นๆ เมื่อใช้หน้าจอสัมผัส ใช้ได้กับประสบการณ์ที่สร้างใน UEFN เท่านั้น",
     "KeyboardMovementBackwardDiagonal_Description": "มุมที่จะวิ่งเมื่อวิ่งทแยงถอยหลังโดยใช้คีย์บอร์ดควบคุม",
     "KeyboardMovementForwardDiagonal_Description": "มุมที่จะวิ่งเมื่อวิ่งทแยงไปข้างหน้าโดยใช้คีย์บอร์ดควบคุม",
     "KeyboardMovementStrafeDiagonal_Description": "มุมที่จะวิ่งเมื่อวิ่งทแยงไปด้านข้างโดยใช้คีย์บอร์ดควบคุม",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0} วินาที",
     "GyroButtonHoldTime_Display": "{0} วินาที",
     "GyroSmoothWindowTime": "{0} วินาที",
+    "LongPressTime_FormattedLabelText": "{0} วินาที",
     "LookBoostAccelerationTimeAds_Format": "{0} วินาที",
     "LookBoostAccelerationTime_Fortmat": "{0} วินาที",
     "LookEaseTime_Format": "{0} วินาที",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0} วินาที",
     "SlideButtonHoldTime": "{0} วินาที",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0}%",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "ปรับแต่งทุกวัน",
     "SettingOff": "ปิด",
     "SettingSameEveryDay": "เหมือนเดิมทุกวัน"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "ปิด",
+    "SettingOn": "เปิด",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "ไม่",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "สเปรย์"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "ไม่สามารถย้ายข้อมูลจากเวอร์ชัน{0}ไปยัง{1}ได้ (วัตถุ={2})"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "เกม",
     "LoadingNameKey": "กำลังรับชื่อ",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes} นาที {Seconds} วินาที",
     "WeeksFormatText": "{Weeks} สัปดาห์ {Days} วัน"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "ดูโอ้",
-    "SubGameMode.LTMSolo": "โซโล่",
-    "SubGameMode.LTMSquads": "ทีม"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(จำเป็นต้องดาวน์โหลด)",
     "Message.Error": "เกิดข้อผิดพลาด",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "คนละทีม",
     "DuosTeam": "ดูโอ้",
     "Message.EstimatedTimeRemaining": "เวลาที่เหลืออยู่โดยประมาณ: {0}",
-    "Fill": "หาสมาชิก",
     "TeamFill": "หาสมาชิก",
     "Message.FindingMatchNoETA": "กำลังหาแมตช์…\nเวลาที่ผ่านไปแล้ว:{0}",
     "Message.FindingMatch": "กำลังค้นหาแมตช์...\nผ่านมาแล้ว: {0} เวลาที่คาดโดยประมาณ: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "เกิดข้อผิดพลาดในการจับคู่ผู้เล่น (#4)",
     "Message.ETANotAvailable": "N/A",
     "Message.ModeNew": "โหมดใหม่พร้อมให้เล่นแล้ว!",
-    "NoFill": "ไม่หาสมาชิก",
     "NoTeamFill": "ไม่หาสมาชิก",
     "Header.NotMatchmaking": "ไม่จับคู่แข่งขันในแมตช์",
     "Message.CanMatchmakeSoloNewStyle": "เล่น",
     "Message.CanMatchmakeSolo": "เล่น!",
-    "Private": "ส่วนตัว",
-    "Public": "สาธารณะ",
     "Header.PartyError": "เกิดข้อผิดพลาดกับปาร์ตี้",
     "Header.Preparing": "กำลังจัดเตรียม...",
     "PrivateMatch": "ส่วนตัว",
     "PublicMatch": "สาธารณะ",
     "Message.QueueFull": "คิวเต็มแล้ว โปรดรอ...\nผ่านมาแล้ว: {0}",
     "Message.PlayersInQueue": "ผู้เล่นที่รอคิว: {0}\nผ่านมาแล้ว: {1}",
-    "Ranked": "แรงก์",
-    "RankedOff": "แรงก์: ปิด",
-    "RankedOn": "แรงก์: เปิด",
     "Message.CanReJoinGame": "เข้าร่วมใหม่",
     "Message.CanMatchmakeParty": "พร้อม!",
     "PartySameTeamShort": "ทีมเดียวกัน",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "กำลังรอเซิร์ฟเวอร์...",
     "Message.WaitingForReadyFormat_Two": "กำลังรอให้ {0} และ {1} พร้อม...",
     "Message.WaitingForReadyFormat_More": "กำลังรอให้ผู้เล่นอีก {0} คนพร้อม...",
-    "Message.WaitingForReadyFormat_Single": "กำลังรอให้ {0} พร้อม...",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "กำลังรอให้ {0} พร้อม..."
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "ข่าวสาร"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "คำขอเข้าร่วมเกมของคุณถูกปฏิเสธ โปรดลองอีกครั้งในอีกสักครู่",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "ทัวร์นาเมนต์{0}"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "โหมดบิลด์",
+    "BuildModeTitle": "โหมดบิลด์ / ซีโร่บิลด์",
+    "TeamSize2": "ดูโอ้",
+    "Fill": "เติมสมาชิก",
+    "NoFill": "ไม่เติมสมาชิก",
+    "TeamSize8": "ออกเตต",
+    "Off": "ปิด",
+    "On": "เปิด",
+    "RankedDescription": "ผลงานที่ทำได้จะส่งผลต่อแรงก์ของคุณ",
+    "UnrankedDescription": "ผลงานที่ทำได้จะไม่ส่งผลต่อแรงก์ของคุณ",
+    "ZeroBuildModeDescription": "เล่นโดยปิดการสร้าง",
+    "BuildModeDescription": "เล่นโดยเปิดการสร้าง",
+    "TeamSize5": "ควินต์",
+    "Ranked": "แรงก์",
+    "TeamSize6": "ซิกส์สแต็ก",
+    "TeamSize1": " โซโล่",
+    "TeamSize4": "ทีม",
+    "SquadFillTitle": "เติมสมาชิกทีม",
+    "TeamSizeTitle": "ขนาดทีม",
+    "TeamSizeDescription1": "ทีมจำกัดผู้เล่น 1 คน",
+    "TeamSizeDescription2": "ทีมจำกัดผู้เล่น 2 คน",
+    "TeamSizeDescription3": "ทีมจำกัดผู้เล่น 3 คน",
+    "TeamSizeDescription4": "ทีมจำกัดผู้เล่น 4 คน",
+    "TeamSizeDescription5": "ทีมจำกัดผู้เล่น 5 คน",
+    "TeamSizeDescription6": "ทีมจำกัดผู้เล่น 6 คน",
+    "TeamSizeDescription8": "ทีมจำกัดผู้เล่น 8 คน",
+    "TeamSize3": "ทรีโอ้",
+    "Unranked": "ไม่จัดแรงก์",
+    "FillDescription": "ทีมของคุณต้องมีผู้เล่นครบก่อนจึงจะเริ่มการจับคู่",
+    "NoFillDescription": "ทีมของคุณจะมีเฉพาะผู้เล่นในปาร์ตี้ของคุณเท่านั้น",
+    "ZeroBuildMode": "ซีโร่บิลด์"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "แบ็กเอนด์ที่ร้องขอไม่ถูกต้อง! กำลังออก"
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "เมื่อเปิดใช้งาน การเลื่อนเมาส์ไปวางไว้บนอาวุธแต่งจะแสดงเพียงแค่ไอคอนเท่านั้น แต่จะไม่แสดงคำอธิบาย"
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</> ชนะเกม!"
+    "WinnerGameFormat": "<WinnerName>{0}</> ชนะเกม!",
+    "SuspendKick": "ถูกเตะออกเพราะถูกระงับชั่วคราวเป็นเวลานาน"
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "ถูกปิดใช้งานด้วยเหตุผลที่ไม่ทราบ"
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "คำเชิญกลุ่ม",
     "GroupInviteDescription": "{0} เชิญคุณเข้ากลุ่ม"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "ย้ายการตั้งค่า HLTv2 ทั้งหมดไปที่ UI ที่ปรับแต่งได้"
   },
   "HUD": {
     "Cancel": "ยกเลิก",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "เลเวลพลังและค่าสถานะ FORT ของคุณเพิ่มขึ้นแล้ว",
     "MemberJoinedToastTitle": "{0} เข้าร่วมทีมแล้ว"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "รันคำสั่งของตัวแก้ไขกับเครื่องแต่งกาย"
-  },
   "MessageDispatcher": {
     "UnknownError": "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุกับ {MessageName} ใน {ChannelName}",
     "ChannelNotValid": "ข้อผิดพลาด: ช่องไม่ถูกต้องอีกต่อไปสำหรับ \"{MessageName}\" กำลังเปลี่ยนกลับเป็น \"ไม่มีช่อง\"",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "ตั้งค่าข้อเท็จจริง",
     "SetFactTemplate": "ตั้งเทมเพลตแฟกส์",
-    "SetFactText": "ตั้งข้อความแฟกส์"
+    "FactArrayTextFormat": "{0} ข้อเท็จจริง"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "ประเภทอาร์กิวเมนต์ไม่ตรงกันสำหรับเดเลเกต {0} ที่มีอาร์กิวเมนต์ 0 และแฟกส์ Self ที่ละไว้นิพจน์: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "ไม่สามารถถอดรหัสประเภทการคืนค่า {0} ({1}) เป็นแฟกส์ได้นิพจน์: {2}",
     "CouldntFindFact": "ไม่พบแฟกส์ใด ๆ ที่ชื่อ {0}",
     "CouldntGenerateConditionalToken": "ไม่สามารถสร้างโทเคนเงื่อนไขได้",
+    "CouldntGenerateLoopToken": "สร้างโทเคนลูปไม่ได้",
     "CouldntParseConditionalSymbol": "ไม่สามารถวิเคราะห์สัญลักษณ์เงื่อนไขได้",
+    "CouldntParseLoopSymbol": "แยกวิเคราะห์สัญลักษณ์ลูปไม่ได้",
     "InvalidDelegateObject_3": "แฟกส์เดเลเกต {0} ไม่ได้คืนประเภทเฟกต์ที่ถูกต้องกลับมานิพจน์: {1}",
     "InvalidDelegateObject_2": "แฟกส์เดเลเกต {0} ไม่ได้ผูกกับชื่อฟังก์ชันที่ถูกต้องสำหรับออบเจ็กต์ {1}นิพจน์: {2}",
     "InvalidDelegateObject_1": "แฟกส์เดเลเกต {0} ไม่ได้ผูกกับออบเจ็กต์ที่ถูกต้องนิพจน์: {1}",
     "DelegateRecursionExceeded": "มีการเรียกฟังก์ชันเดเลเกต {0} เกินขีดจำกัดนิพจน์: {1}",
     "InfiniteDelegateRecursionDetected": "ตรวจพบการเรียกฟังก์ชันเดเลเกตอย่างไม่สิ้นสุดในเดเลเกต {0}นิพจน์: {1}",
     "ExpectedQuote": "ควรจะมี \"",
+    "ExpectedIn": "ควรมีคำว่า 'in' หลังชื่อองค์ประกอบในคำสั่ง {% for element in ...",
     "ExpectedElseIfCondition": "คาดว่าน่าจะมีนิพจน์เงื่อนไขอยู่ภายใน {% else if  %}",
     "ExpectedIfCondition": "คาดว่าน่าจะมีนิพจน์เงื่อนไขอยู่ภายใน {% if  %}",
+    "ExpectedElement": "ควรมีชื่อองค์ประกอบหลังคำสั่ง {% for ",
+    "ExpectedForElseInnerTemplate": "คาดว่าจะมีเทมเพลต else อยู่ระหว่าง {% else %} และ {% endfor %}",
     "ExpectedElseInnerTemplate": "เทมเพลต else ที่คาดไว้ระหว่าง {% else %} และ {% endif %}",
     "ExpectedInnerTemplate": "เทมเพลตภายในที่คาดไว้",
     "ExpectedClosingBrace": "ควรจะมี } ปิดท้ายนิพจน์แฟกส์ที่ตรงกัน",
+    "ExpectedForLoop": "คาดว่าน่าจะมีนิพจน์อยู่ภายใน {% for  %}",
+    "ExpectedWhitespaceAfterIn": "ควรมีช่องว่างหลังคำว่า 'in' ในคำสั่ง {% for element in ...",
     "InvalidFact_1": "ส่งต่อแฟกส์ {0} (ข้อผิดพลาด: {1}) ไม่ถูกต้องในนิพจน์: {2}",
     "InvalidFact_2": "ส่งต่อแฟกส์ {0} ไม่ถูกต้องในนิพจน์: {1}",
     "InvalidDelegateParamCall": "มีการเรียกพารามิเตอร์ไปยังเดเลเกต {0} ไม่ถูกต้อง ซึ่งไม่รับอาร์กิวเมนต์นิพจน์: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "มีการเรียกเทมเพลตเกินขีดจำกัดนิพจน์: {0}",
     "TooManyArgs": "ใส่พารามิเตอร์มากเกินไปในการเรียกฟังก์ชัน {0}นิพจน์: {1}",
     "UnexpectedElseAfterElse": "บล็อก else ที่ไม่คาดคิดหลังจากบล็อก else ก่อนหน้า",
+    "UnexpectedElseAfterElseInFor": "พบบล็อก else เพิ่มเติมโดยไม่คาดคิด หลังจากมี else ก่อนหน้าไปแล้ว",
     "UnexpectedElseIfAfterElse": "บล็อก else if ที่ไม่คาดคิดหลังจากบล็อก else ก่อนหน้า",
     "EOSExpectedConditionEnd": "สิ้นสุดสตรีมโดยไม่คาดคิดควรจะมี ' %}’ ปิดท้าย",
+    "EOSExpectedLoopEnd": "การสตรีมยุติลงโดยไม่คาดคิดควรมีตัวปิด ' %}'",
+    "EOSExpectedEndFor2": "การสตรีมยุติลงโดยไม่คาดคิดควรมีตัวปิด {% endfor %}",
     "EOSExpectedEndIf2": "การสตรีมยุติลงโดยไม่คาดคิดต้องมี {% endif %} ปิดท้าย",
+    "EOSExpectedEndFor1": "การสตรีมยุติลงโดยไม่คาดคิดควรมีเทมเพลตภายในและตัวปิด {% endfor %}",
     "EOSExpectedEndIf1": "การสตรีมยุติลงโดยไม่คาดคิดต้องมีเทมเพลตภายในและ {% endif %} ปิดท้าย",
     "ExpectedOpenBrace": "พบโทเคนที่ไม่คาดคิด \"{0}\" @ {1}:{2} หลังจากเดเลเกตแฟกส์ ในนิพจน์: {3}",
     "UnexpectedFactExprToken": "พบโทเคนที่ไม่คาดคิด \"{0}\" @ {1}:{2} ในนิพจน์แฟกส์: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "นิพจน์ปิด } ไม่ตรงกัน"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "การแทนที่ตัวเติมการสนทนา",
-    "RunEnginePromptTooltip": "รันพรอมต์โดยใช้ Monologue *Engine* Subsystem เพื่อประเมินการโต้ตอบ",
-    "RunWorldPromptTooltip": "รันพรอมต์โดยใช้ Monologue *World* Subsystem เพื่อประเมินการโต้ตอบ",
-    "RefreshPreviewTooltip": "บังคับให้เปลี่ยนแฟกต์ของเทมเพลตใหม่ (เช่น เพื่อประเมินเดเลเกตแฟกส์แบบไดนามิกใหม่อีกครั้ง)",
-    "PromptNameLabel": "ชื่อ",
+    "LabelChatCompleterOverride": "การแทนที่ตัวเติมการสนทนา",
+    "TooltipChatCompleterOverride": "ตัว ChatCompleter ที่ใช้ในการสร้างคำตอบ หากไม่ได้กำหนดจะใช้ *chat completer ค่าเริ่มต้น* ของระบบ Monologue Engine",
+    "LabelPromptName": "ชื่อ",
+    "ButtonNavigateToSystemMessage": "ไปที่ข้อความระบบ (Ctrl + Alt + ลูกศรขึ้น)",
+    "ButtonNavigateToUserMessage": "ไปที่ข้อความผู้ใช้ (Ctrl + Alt + ลูกศรขึ้น)",
+    "ButtonNavigateToNextFact": "ไปที่ Fact ถัดไป (Ctrl + Alt + ลูกศรขวา)",
+    "ButtonNavigateToPreviousFact": "ไปที่ Fact ก่อนหน้า (Ctrl + Alt + ลูกศรซ้าย)",
+    "SetChatCompleterClassOverride": "แทนที่ ChatCompleter",
     "PromptPreviewSettings": "การตั้งค่าตัวอย่างพรอมต์",
     "PromptResponse": "การโต้ตอบพรอมต์",
-    "SavePreviewTooltip": "บันทึกการตั้งค่าตัวอย่างไปยัง asset เพื่อทดสอบซ้ำ",
-    "SetMPChatCompleterOverride": "กำหนดการแทนที่ตัวเติมการสนทนาข้อความบทพูดเดี่ยว",
+    "ButtonRefreshFacts": "รีเฟรชข้อมูล (ล้างโมเดลพื้นฐานของตัวแก้ไข)",
+    "ButtonRunPrompt": "รันพรอมป์โดยใช้ระบบย่อย Monologue World หรือ (Engine) เพื่อสร้างคำตอบ",
+    "ButtonSavePreview": "บันทึกการตั้งค่าพรีวิวเป็นแอสเซ็ตเพื่อทดสอบซ้ำ",
     "SetPromptName": "ตั้งชื่อพรอมต์",
     "SetPromptPreviewSettings": "ตั้งการตั้งค่าตัวอย่างพรอมต์",
-    "SetPromptSystemMessage": "ตั้งเทมเพลตข้อความระบบพรอมต์",
-    "SetPromptUserMessage": "ตั้งเทมเพลตข้อความผู้ใช้พรอมต์",
-    "SystemMessageLabel": "ข้อความระบบ",
-    "CompleterOverrideTooltip": "UChatCompleter ที่จะใช้สำหรับคำขอนี้หากไม่ได้กำหนดจะใช้ 'ตัวเติมการสนทนาเริ่มต้น' ของระบบย่อยสำหรับเอนจิ้นบทพูดเดี่ยว",
-    "UserMessageLabel": "ข้อความผู้ใช้",
-    "WrapSystemMessageToolTip": "การตัดข้อความ",
-    "WrapUserMessageToolTip": "การตัดข้อความ"
+    "SetSystemMessageTemplate": "ตั้งค่าเทมเพลตข้อความระบบ",
+    "SetUserMessageTemplate": "ตั้งค่าเทมเพลตข้อความผู้ใช้"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "DataRegistry Fact Delegate- ไม่พบแฟกส์ใดๆที่ชื่อ \"{0}\" ใน Data Registry",
     "NoDRSubsystem": "DataRegistry Fact Delegate - Data Registry Subsystem ไม่พร้อมใช้งาน โปรดตรวจสอบให้แน่ใจว่าเปิดใช้งานปลั๊กอิน DataRegistry แล้ว",
     "InvalidDRFactItemId": "DataRegistry Fact Delegate-DataRegistryItemIdString \"{0}\" ไม่ใช่ไอดีรายการในรายการข้อมูลที่ถูกต้อง",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "UMonologueComponent แรกที่ส่งไปยัง MutuallyPerceivedEvents ไม่ถูกต้อง!",
     "FirstPersonName_My": "ของฉัน",
     "NameNoSubject": "ไม่ได้ส่ง IMonologueSubjectInterface ไปยัง Subject เพื่อดึงชื่อ!",
     "ObservedNameNoSubject": "ไม่ได้ส่ง IMonologueSubjectInterface ไปยัง Subject เพื่อดึงชื่อ!",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "ของ {0}"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "SearchHeight ที่ส่งไปยัง NearbySubject ไม่ถูกต้อง SearchHeight ต้อง > 0",
+    "NearbySubjectsInvalidSearchRadius": "SearchRadius ที่ส่งไปยัง NearbySubject ไม่ถูกต้อง SearchRadius ต้อง > 0",
+    "NearbySubjectsNoActor": "MonologueComponent ที่ส่งไปยัง NearbySubject ไม่มี Owner สำหรับตรวจสอบระยะทาง",
+    "NearbySubjectsNoSelf": "ไม่มีการส่ง UMonologueComponent ไปยัง NearbySubject",
     "SmartObjectBehaviorsNoSelf": "ไม่มีการส่ง UMonologueComponent ไปยัง SmartObjectBehaviors",
+    "SpatialContextNoSelf": "ไม่มีการส่ง UMonologueComponent ไปยัง SpatialContext",
     "SmartObjectBehaviorsNoPawn": "SmartObjectBehaviors - ไม่สามารถดึงตัวละครจาก subject ได้",
     "SpatialContextNoPawn": "SpatialContext - ไม่สามารถดึงตัวละครจาก subject ได้"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "ยิง",
     "SecondaryActionName": "ซูม"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "ยังไม่จัดแรงก์"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "ขึ้นถึงเลเวล {LevelRequired} เพื่อปลดล็อกเซ็ตใหม่",
     "Offer_CanUnlockSet": "ปลดล็อกเซ็ตนี้เพื่อเริ่มรับรางวัล"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "ปลดล็อกเมื่อ {Date}"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "รับรางวัลหน้า {IndexPage} ทั้งหมด",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "กำลังรอรหัสลับ"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "ซีซั่น {0} มีหมายเลขซีซั่นที่ไม่ถูกต้อง คาดหมาย {1} (ซีซั่นที่แล้ว + 1) แต่ได้รับ {2}"
+    "InvalidSeasonDependencies": "ซีซันอ้างอิงแอสเซ็ต {0} ไม่สามารถเรียกใช้องค์ประกอบที่จำเป็นได้",
+    "InvalidSeasonNumber": "ซีซั่น {0} มีหมายเลขซีซั่นที่ไม่ถูกต้อง คาดหมาย {1} (ซีซั่นที่แล้ว + 1) แต่ได้รับ {2}",
+    "IncompatibleSeasonNumber": "ซีซั่น {0} กำลังตรวจสอบไฟล์หรือองค์ประกอบที่จำเป็นก่อนเริ่มทำงาน {1} เวอร์ชันเผยแพร่ ({2}) สูงกว่าซีซั่นที่อ้างอิงรายการนี้ ({3})",
+    "InvalidObjectDef": "ซีซั่น {0} กำลังตรวจสอบไฟล์หรือองค์ประกอบที่จำเป็นก่อนเริ่มทำงาน {1} ระบบคาดว่าจะเป็น UFortItemDefinition แต่พบประเภทข้อมูลไม่ถูกต้อง"
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "เหลือของขวัญให้เปิดอีก <text size=\"18\">{0}</> {0}|plural(one=กล่อง,other=กล่อง)",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "ขอขอบคุณที่เล่น Fortnite!",
     "PurchaseHeader": "ได้รับ{0}|plural(one=ไอเทม,other=ไอเทม)"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "เพิ่มแทร็ก",
+    "AddTrack_ToolTip": "สร้างแทร็กแอ็กชันใหม่"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "บันทึก",
+    "SavePrompts_ToolTip": "บันทึกตัวให้บริการพรอมต์"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "ย้ายการตั้งค่าเครื่องมือเลย์เอาต์ HUD ทั้งหมดไปที่ UI ที่ปรับแต่งได้",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "เปิด HLTv2 ที่เครื่องมือย้าย UI ที่ปรับแต่งได้เพื่อย้ายการตั้งค่า HLTv2 ทั้งหมดไปที่เฟรมเวิร์ก UI ที่ปรับแต่งได้อันใหม่"
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "เปิด Spatial Profiler",
+    "OpenSpatialProfiler_ToolTip": "เปิดแท็บ Spatial Profiler"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "เปิดเครื่องมือปรับปรุงอาวุธ",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "ปลดล็อกเมื่อคุณรับรางวัลทั้งหมดใน{CategoryName}",
     "CategoryStatus_LockedRewardLevelFormat": "รับรางวัลอีก {NumRewards} ชิ้น หรืออัปอีก {NumLevels} เลเวลเพื่อปลดล็อก",
-    "CategoryStatus_LockedUntilLevel": "ขึ้นถึงเลเวล {LevelRequired} เพื่อปลดล็อกเซ็ตนี้",
-    "Status_LockedDateLockedFormat": "จะปลดล็อกในวันที่ {Date}"
+    "CategoryStatus_LockedUntilLevel": "ขึ้นถึงเลเวล {LevelRequired} เพื่อปลดล็อกเซ็ตนี้"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "ปลดล็อกเมื่อคุณรับรางวัลทั้งหมดใน{CategoryName}",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "ใช้งานตัวแปลงตัวเลือกข้อมูลของตกแต่งเสียงยานพาหนะ",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "ใช้งานตัวแปลงตัวเลือกเสียงนิยามไอเทมตกแต่งยานพาหนะ"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "ค่าหลายค่า"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "asset ไม่ใช่คำนิยามไอเทม",
     "FortVehicleCosmeticsActorFactoryDisplayName": "วัตถุตัวอย่างของตกแต่งยานพาหนะป้อม",
     "CanCreateActorFrom_InvalidAsset": "asset ไม่ถูกต้อง",
     "CanCreateActorFrom_InvalidAssetClass": "คลาส asset ไม่ถูกต้อง"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "ไม่ถูกต้อง",
+    "MultipleValues": "หลายค่า"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "โทเคนหลากหลายของตกแต่งยานพาหนะป้อม",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "สลับที่นั่ง",
     "SwitchToWeapon": "เปลี่ยนเป็นอาวุธ"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "ไม่มี"
   },
   "VkAnimNode": {
     "FADEINLEFT": "เฟดเข้าด้านซ้าย",
@@ -11715,6 +11845,9 @@
     "OutBoundError": "บทสนทนารีสตาร์ทไม่อนุญาตให้มีงานถัดไป"
   },
   "VkSpeechNode": {
+    "OutBoundError": "โหนดนี้ไม่สามารถเชื่อมโยงกับโหนดอื่นๆ ในประเภทเดียวกัน หรือโหนดรีสตาร์ทได้"
+  },
+  "VkSpeechRandomVariantNode": {
     "OutBoundError": "โหนดนี้ไม่สามารถเชื่อมโยงกับโหนดอื่นๆ ในประเภทเดียวกัน หรือโหนดรีสตาร์ทได้"
   },
   "VkTextCrawlNode": {

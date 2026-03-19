@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "Dosya Yöneticisi"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "UYARI: Bu ekran kartı gözlemi dikey senkronizasyon açık şekilde kaydedilmiş. Dikey senkronizasyon bekleme süresi herhangi bir veri dizininde görünebilir ve bunun sonucunda görüntülemeye bağlı veriler değişebilir. Lütfen en net sonuç için gözlemi dikey senkronizasyon kapalı şekilde yap."
-  },
   "InputKeys": {
     "Acceleration": "İvmelenme",
     "Ampersand": "Ve İşareti",

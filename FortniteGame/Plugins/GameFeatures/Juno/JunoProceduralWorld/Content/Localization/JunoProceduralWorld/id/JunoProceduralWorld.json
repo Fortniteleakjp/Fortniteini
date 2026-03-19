@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Data untuk tekstur ketinggian tidak dapat diambil, inisialisasi gagal.",
     "TextureInitFailed": "Data untuk tekstur ini tidak dapat diambil, inisialisasi gagal.",
+    "FailExtractGrassTypeOverrides": "Gagal mengekstrak penggantian tipe rumput.",
+    "MissingGrassName": "Nama tipe rumput hilang, data tidak bisa diberi label. Pastikan semua TipeRumput dalam material lanskap kamu memiliki aset terkait.",
     "LandscapeComponentLost": "Merujuk ke satu komponen lanskap yang hilang atau lebih, peta rumput tidak akan dibuat."
   }
 }

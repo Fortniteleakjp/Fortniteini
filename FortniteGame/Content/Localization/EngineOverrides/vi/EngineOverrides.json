@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "Trình Quản Lý Tệp"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "CẢNH BÁO: Hồ sơ hiệu suất GPU này được tính khi tính năng đồng bộ dọc đang bật.  Thời gian chờ đồng bộ dọc có thể hiển thị trong bất kỳ mục nào dẫn đến dữ liệu trong hồ sơ này có thể bị sai lệch. Vui lòng tính hồ sơ hiệu suất khi tắt chế độ đồng bộ dọc để có được dữ liệu chính xác nhất."
-  },
   "InputKeys": {
     "Acceleration": "Gia Tốc",
     "Ampersand": "Dấu &",

@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "Esamina",
     "CF6195BE44741B679B03A7970B0904F5": "Esamina",
     "B8C80B5041E5FBA2635752B2A5271479": "Interagisci",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "Opzioni LLM...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "Opzioni LLM...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "Opzioni LLM...",
     "AEB376F240A55432B193BC8797FF5AE9": "Opzioni LLM...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "Opzioni LLM...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Sollevamento",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Il tuo magazzino è pieno",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "Un breve riassunto (1-2 parole) per la quarta possibile scelta.",
+    "OptionTwo_ShortText": "Un'etichetta concisa (1-2 parole) per la seconda scelta dei giocatori.",
+    "OptionSix_ShortText": "Una frase breve (1-2 parole) per la sesta e ultima opzione.",
+    "OptionOne_ShortText": "Un riassunto molto breve (1-2 parole) della prima opzione. Questo è ciò che i giocatori vedono nel menu delle scelte.",
+    "OptionFive_ShortText": "L'etichetta dell'interfaccia utente (1-2 parole) per la quinta opzione di dialogo.",
+    "OptionTwo_FullText": "La frase completa che i giocatori pronunciano quando selezionano \"OpzioneDue\".",
+    "OptionFour_FullText": "La battuta completa del dialogo pronunciata dai giocatori per \"OpzioneQuattro\".",
+    "OptionOne_FullText": "La battuta del dialogo completa che i giocatori pronunciano per \"OpzioneUno\", che dovrebbe essere un'estensione del testo breve.",
+    "OptionSix_FullText": "Il dialogo completo pronunciato dai giocatori quando selezionano \"OpzioneSei\".",
+    "OptionThree_FullText": "Il dialogo completo pronunciato dal personaggio dei giocatori per \"OpzioneTre\".",
+    "OptionFive_FullText": "La frase completa che i giocatori pronunciano se sceglie \"OpzioneCinque\".",
+    "OptionThree_ShortText": "Il testo breve da mostrare (1-2 parole) per la terza opzione."
   }
 }

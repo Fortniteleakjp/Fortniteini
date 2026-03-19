@@ -207,6 +207,9 @@
     "CaveLocationText": "<text color=\"088899\">위치:</> ???",
     "LocationRichText": "<text color=\"088899\">위치:</> {0}, {1}, {2}"
   },
+  "JunoInteraction": {
+    "Conversation": "{0}|hpp(과,와) 대화하기"
+  },
   "StringTable_Juno_Announcements": {
     "QuestCompleted": "<Subheading20_60p>도전</>\n완료!",
     "Permadeath": "<Subheading20_60p>처치되면</>\n다시 부활하지 않습니다",

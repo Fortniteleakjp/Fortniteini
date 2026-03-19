@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "无法获取高度纹理数据，初始化失败。",
     "TextureInitFailed": "无法获取此纹理数据，初始化失败。",
+    "FailExtractGrassTypeOverrides": "无法提取草地类型覆盖。",
+    "MissingGrassName": "缺少草地类型名称，无法标注数据。请确保你的地形材质中所有草地类型都关联了资源。",
     "LandscapeComponentLost": "一个或多个地形组件的引用已丢失，将不会生成草地地图。"
   }
 }

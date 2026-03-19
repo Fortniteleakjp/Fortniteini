@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "Manajer File"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "PERINGATAN: Profil GPU ini ditangkap dengan v-sync yang aktif.  Waktu tunggu v-sync bisa ditampilkan di bucket mana pun, dan hasil data dalam profil ini mungkin tidak terdistribusi secara merata. Harap lakukan profiling dengan v-sync dinonaktifkan untuk mendapatkan data yang paling akurat."
-  },
   "InputKeys": {
     "Acceleration": "Akselerasi",
     "Ampersand": "Ampersan",

@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Impossibile recuperare i dati per la texture d'altezza, inizializzazione fallita.",
     "TextureInitFailed": "Impossibile recuperare i dati per questa texture, inizializzazione fallita.",
+    "FailExtractGrassTypeOverrides": "Estrazione degli override del tipo erba fallita.",
+    "MissingGrassName": "Il nome del tipo erba non è stato trovato, i dati non sono stati etichettati. Assicurati che tutti i tipi erba nel tuo materiale del paesaggio abbiano un asset associato.",
     "LandscapeComponentLost": "Impossibile generare le mappe dell'erba a causa della perdita di riferimento a uno o più componenti del paesaggio."
   }
 }

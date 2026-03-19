@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "ファイルマネージャー"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "警告: このGPUのプロフィールはV-Syncが有効な状態で取得されました。V-Syncの待ち時間はあらゆるバケットに適用されるので、このプロフィールのデータが正確でない場合があります。最も正確なデータを取得するには、V-Syncを無効にしてください。"
-  },
   "InputKeys": {
     "Acceleration": "加速度",
     "Ampersand": "アンド",

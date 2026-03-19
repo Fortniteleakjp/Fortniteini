@@ -207,6 +207,9 @@
     "CaveLocationText": "<text color=\"088899\">Địa Điểm:</> ???",
     "LocationRichText": "<text color=\"088899\">Địa Điểm:</> {0}, {1}, {2}"
   },
+  "JunoInteraction": {
+    "Conversation": "Nói chuyện với {0}"
+  },
   "StringTable_Juno_Announcements": {
     "QuestCompleted": "<Subheading20_60p>Thử thách</>\nHOÀN THÀNH!",
     "Permadeath": "<Subheading20_60p>Hạ gục là </>\nVĨNH VIỄN",

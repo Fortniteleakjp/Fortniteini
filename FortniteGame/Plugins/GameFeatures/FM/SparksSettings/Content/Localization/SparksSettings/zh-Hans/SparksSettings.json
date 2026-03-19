@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "游戏菜单",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Sparks通用"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>开启</>：舞蹈姿势会以正常速度播放，姿势音乐会在即兴曲目的基础上播放。",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>开启</>：舞蹈姿势会和即兴曲目的节拍同步，姿势音乐会被静音。",

@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "قائمة اللعبة",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Sparks عام"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>تعطيل</>: سيتم تشغيل الرقصة بسرعتها العادية، وسيتم تشغيل صوت موسيقى الرقصة مع موسيقى مقطوعة العزف.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>تشغيل</>: ستتزامن الرقصة مع إيقاع مقطوعة العزف، وسيُكتم صوت موسيقى الرقصة.",

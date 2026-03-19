@@ -207,6 +207,9 @@
     "CaveLocationText": "<text color=\"088899\">ตำแหน่ง:</> ???",
     "LocationRichText": "<text color=\"088899\">ตำแหน่ง:</> {0}, {1}, {2}"
   },
+  "JunoInteraction": {
+    "Conversation": "คุยกับ {0}"
+  },
   "StringTable_Juno_Announcements": {
     "QuestCompleted": "<Subheading20_60p>ท้าทาย</>\nสำเร็จ!",
     "Permadeath": "<Subheading20_60p>การกำจัดจะ</>\nถาวร",

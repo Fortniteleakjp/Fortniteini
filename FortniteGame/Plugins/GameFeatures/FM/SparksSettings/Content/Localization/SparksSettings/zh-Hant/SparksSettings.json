@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "遊戲選單",
+    "95ECDCA94656A3029ADE71B59767D9A9": "火花通用"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>關閉</>：舞蹈表情動作將以正常速度播放，且表情動作的音樂將蓋過即興曲目。",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>開啟</>：舞蹈表情動作將與即興曲目的節奏同步，並將表情動作的音樂靜音。",

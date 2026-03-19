@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "ตัวจัดการไฟล์"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "คำเตือน: โปรไฟล์ GPU นี้มีการจับภาพขณะเปิดใช้งาน V-sync  เวลารอ V-sync อาจปรากฏในหมวดหมู่ใดก็ได้ ส่งผลให้ข้อมูลในโปรไฟล์นี้อาจคลาดเคลื่อน โปรดสร้างโปรไฟล์โดยปิด V-sync เพื่อให้ได้ข้อมูลที่แม่นยำที่สุด"
-  },
   "InputKeys": {
     "Acceleration": "เร่งความเร็ว",
     "Ampersand": "เครื่องหมาย &",

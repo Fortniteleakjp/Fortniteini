@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "게임 메뉴",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Sparks 일반"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>끄기</>: 댄스 이모트가 원래 속도로 재생되며, 이모트 음악이 잼 트랙과 함께 재생됩니다.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>켜기</>: 댄스 이모트가 잼 트랙 비트에 동기화되며, 이모트 음악이 음소거됩니다.",

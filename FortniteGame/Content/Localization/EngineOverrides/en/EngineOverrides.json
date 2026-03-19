@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "File Manager"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "WARNING: This GPU profile was captured with v-sync enabled.  V-sync wait time may show up in any bucket, and as a result the data in this profile may be skewed. Please profile with v-sync disabled to obtain the most accurate data."
-  },
   "InputKeys": {
     "Acceleration": "Acceleration",
     "Ampersand": "Ampersand",

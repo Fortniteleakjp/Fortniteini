@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "Dateimanager"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "ACHTUNG: Dieses Grafikkartenprofil wurde mit aktivierter VSync erfasst.  Die VSync-Wartezeit könnte in die Daten dieses Profils miteinbezogen werden und sie dadurch verfälschen. Bitte deaktiviere VSync, um möglichst genaue Daten für dieses Profil ermitteln zu können."
-  },
   "InputKeys": {
     "Acceleration": "Beschleunigung",
     "Ampersand": "Kaufmanns-Und",

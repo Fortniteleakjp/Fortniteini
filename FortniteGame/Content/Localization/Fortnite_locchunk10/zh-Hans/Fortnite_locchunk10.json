@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "达成成就标志",
     "48008F3445314E50326D9FB086B9189F": "达成成就标志",
     "FC7458584E93A2CCE3222B9CB21FFF51": "达成成就标志",
+    "647B590E4A6D893A4E58DB921F805840": "活动",
     "9FEF179645D8A343518563AEFE302A2A": "活动",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "漫步者的额外任务。",
     "C0AD274548543104E8F3ABB507431A91": "金蛇守护者任务组合包的额外任务",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "为朱诺项目创建一个新的空白插件。",
     "E806A3B84B22DDCF92AAF2B4C829173": "为FNE创建一个游戏功能插件，用于存放物品定义。FNE会自动加入该插件，只需用代号命名即可。示例：FooBar会变为FNEFooBar！",
     "37C405BC468E03254AB82CB18FD5CF98": "创建一个新的营地场景插件",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "为朱诺项目创建一个新的生物插件。",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "为创意模式创建新的设备",
     "9E0FC24F423F8F20BB5934B8F479E56B": "为 FNE 模式创建新的网络设备.",
     "5E0375C044B7B6205FA5AABD6B429116": "使用代码创建新的 Fortnite 游戏功能插件（需要对代码文件进行额外修改后才能正常使用）。",
     "633C71E243C17F5070573DB8EA470FBD": "创建带代码+UI模块的全新Fortnite游戏功能插件（使用前需对代码文件进行额外修改，否则可能出现错误）。",
     "D5255BA645C1DCF04D17019E061BAB8A": "创建一个包含基础内容的新Fortnite游戏功能插件。",
+    "A4A0F4E74285005A28C88FBBB31AD140": "为Curiobox项目创建一个新的玩法插件。",
     "92B3DC974E94F5CA36482B9DB3343CF2": "为朱诺项目创建一个新的玩法插件。",
-    "A4A0F4E74285005A28C88FBBB31AD140": "为Sprout项目创建一个新的玩法插件。",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "创建一个新的朱诺营地场景插件",
     "D5255BA645C1DCF04D17019E061BAB7A": "创建一个新的主游戏功能插件。",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "创建一个新的 Fortnite 游戏功能空插件。只包含 GameFeatureData 素材。",
     "D4034010418FF429289586AC5F972D77": "为全新大逃杀游戏功能的UI内容创建空白插件",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "十字骨航海者",
     "54743E7F439EF3489ADB5689670DEFFE": "十字特工挑战",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "抱抱包挑战",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "Curiobox玩法插件模板",
     "EF9405A043B0E869255F438176090428": "每日任务卡完成代币",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "舞蹈支持",
     "FEA5CDF84F86CFEEDCFFD69726390294": "在<Emphasized>低生命值</>时造成<Emphasized>更多伤害</>。",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "强化突击步枪  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "强化小型冲锋枪",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "强化弹鼓霰弹枪",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "强化鱼叉枪",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "强化战术霰弹枪",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "进入加农炮",
     "E6F1B9FF470A284E11AF6F891FE7D098": "进入加农炮",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "远程枪械手枪重型子弹半自动式",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "远程枪械手枪重型子弹半自动式",
     "2D37E97E43724ABA040D5DB07530962F": "枪 远距 手枪 半自动",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "枪械 远距 手枪 半自动",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "枪 远距 手枪 半自动",
     "9EA74A7A4C987B0D9D927EB133619716": "枪 远距 手枪 半自动",
     "BF1FF2F14FDC8846B569E7966543F17B": "枪 远距 手枪 半自动",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "猎枪",
     "D29EE9294C3C6ACC03577885D6B34262": "猎枪",
     "DFD2853F433A8DA06177BFAAF22D0CED": "猎枪",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "投掷一颗手雷，爆炸时击退附近所有玩家。",
     "88E97DAD4C1AB681AF821394106303DF": "投掷一颗附着命中目标的手雷。",
     "9F773C444680E58D8F932EA37E5F0581": "投掷一颗附着命中目标的手雷。",
     "90F8ED68488FD4B3343C46A4B7131E87": "投掷一枚会释放毒云的手雷，对敌人造成伤害。最好撤离！",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "提高所有特工能力的<Emphasized>充能速率</>",
     "842064DD4CCAF532392128861286DD02": "提升所有武器的腰射<Emphasized>精准度</>",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "冲击手雷",
+    "CFEA70984FEAE95DC388B0AC8B919432": "冲击手雷",
     "FB4BDD7B494F39753C6778979CD662CC": "在空中：跃向目标",
     "80D8948A44365AE1A9D3DB9925A43A2B": "提高<Emphasized>滑翔伞速度</>",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "造成的<Emphasized>精准打击伤害</>提升，但<Emphasized>对躯干的伤害</>降低",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "起跳垫(定向)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "起跳垫(向上)",
     "251E3DE8412479479C227D821FAAC425": "朱诺空白插件",
-    "38DE538C495F59868887E890EC3FD597": "朱诺营地场景",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "朱诺生物插件模板",
     "105342A546779B970DC46E80183052FE": "朱诺玩法插件模板",
     "EF22E85B49A871DF9C133DA1F84B3900": "朱诺 TG（主题游戏）",
     "FDA97C5F4842CB9AE5195393C8759F84": "朱诺 TG（主题最小）",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "能够<Emphasized>抵挡更多</>伤害的王牌特工伞",
     "330D995D4F99BB677CE5FF8643A9B17A": "小猫咪的充能霰弹枪",
     "A01D19E14ACA958C292350B0BDD893E8": "爆震手雷 实用物品 手雷",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "爆震手雷 实用物品 手雷",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "大",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "乐高元宇宙资源集",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "乐高元宇宙资源组合",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was}游泳{swimming}蒙太奇{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "Player",
     "291AD5F7469E20890EFCD288976C3A9B": "玩家调查合格标识",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "已获得游戏时间经验！",
     "14164C9D434D02CF6E737F8644740969": "已获得游戏时间经验！",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "感应地雷",
     "FE97DA514506C8282ACCE59BFD3A562C": "感应地雷",
     "EB7FCBAD49E466CA687372AC079CF68B": "感应地雷+",
+    "31127BE846D8E9589A9E6BA80983EEB7": "将敌人拉向自己并造成伤害。",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "泵动式霰弹枪",
     "EF0917D448D388C00D296F8E62FF2DC4": "泵动式霰弹枪+",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "<Emphasized>提升了精准打击伤害的</>泵动式霰弹枪",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "把火扑灭！",
     "4253CE934E3EFF13CA95C787B6D46641": "为艾瑞莎——新晋夏日网球冠军鼓掌！",
     "43088BA143F2B6BCAEE378847172BE8C": "四轮粉碎者",
+    "CC13E7A44B19B6541560D085C426791D": "四轮粉碎者",
     "24034CD84B1D10C83560F8902AF33DC2": "任务",
     "280019E146742BEA12E9E897FA18D7D4": "任务",
     "31F60738447C00A236E84A89CEB3B03A": "任务",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "花费木材点燃篝火进行治疗！",
     "654EA602493B038AED40358E6100A5F7": "花费木材点燃篝火进行治疗！",
     "CD5B0A744223502F67BABD81B1230D5D": "涂鸦",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "Sprout玩法插件模板",
     "CD3076B64ADB97607D7AF4A750656533": "萌芽TG（主题游戏）",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "小队请求",
     "459B35F94D969E08A4D1109E18B98C2F": "制式<Emphasized>近战</>武器",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "已聚焦目标",
     "TiltAngleIndicator": "倾斜角度{0}"
   },
+  "AIActionSequence": {
+    "AppLabel": "AI动作序列",
+    "AIActionSequenceTab": "AI动作序列",
+    "AddTrack": "添加AI轨道",
+    "DeleteAction": "删除AI动作",
+    "DeleteTrack": "删除AI轨道"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "在AI动作序列编辑器中打开",
+    "OpenAIActionSequencesEditor_Tooltip": "在AI动作序列编辑器中打开此资源。"
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "打开提示词编辑工具",
+    "PromptEditorTool": "提示词编辑工具",
+    "PromptEditorToolTabTitle": "提示词编辑工具"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "由于缺少玩家，你的队伍中至少有一名成员选择了放弃比赛。",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "AI动作序列",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0}米",
     "LongestKillDistanceText": "{0}米"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "今天",
-    "NumberOfDays": "{NumDays}天"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "放置标记",
     "PlaceDangerMarkerDoubleTap": "放置危险标记（双击）",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "总GPU时间：  {GPUTimeMS}毫秒",
     "DrawCalls": "总绘制调用： {DrawCalls}",
     "NumPrimitives": "总绘制的图元： {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}！\n\n内存占用情况： {1}/{2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}！\n\n内存占用情况： {1}/{2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\n内存使用：{1} / {2}Mb"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "淘汰"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "准备下一场比赛",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "准备！",
     "KeepPlayingTogether.ReadyUpNewTeamText": "为新团队做好准备。",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "重开比赛",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "与队伍重开比赛",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "举报玩家",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "返回大厅",
     "KeepPlayingTogether.PartyMemberOptedOutText": "部分队伍成员没有投票留在队伍中，准备组成新的队伍。",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "{0}个观战者正在收听"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "你的项目中有重叠的乐高®资产。 这违反了乐高®规则指南。 请处理重复的资产，否则你的项目有可能无法通过审核。\nActor{0}与其他{1}位Actor重叠：",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}角色{1}与其他{2}位角色重叠："
   },
   "Augments": {
     "AugmentsRerollContext": "/{0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "无法创建内容包解析程序",
     "InvalidStateRequested": "内部内容信标错误\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "加入错误",
+    "ServicesUnavailable": "服务器目前负载过高。请稍后重试。\n{ShortErrorCode}",
     "PackageResolveFlowCancelled": "软件包解析程序控制流因不明原因被取消。",
     "ProjectDuplicationErrorTitle": "项目复制错误",
     "RequestInvalid": "请求存在格式错误{RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "服务器意外关闭。请重试。\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "服务器意外关闭。请重试。\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "AI动作序列编辑器"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "HLTv2至可自定义界面插件",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "空间分析工具",
     "WeaponModernizationEditorCommands": "武器现代化工具"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "分屏玩家无法就绪。请以主要玩家身份登录，变更跨平台游戏设置"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "尺寸",
+    "CopyOfCustomLayoutProfile": "{0}副本",
+    "CopyOfLayoutPreset": "{0}副本"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0分钟",
     "AllowedTimeNoLimit": "无限制",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "淘汰附近AI",
     "DebugCommand_EndGame_DisplayName": "结束游戏",
     "DebugCommand_EndRound_DisplayName": "结束回合",
+    "DebugCommand_Flight_DisplayName": "飞行",
     "DebugCommand_GiveGold_DisplayName": "增加黄金资源",
     "DebugCommand_AddPlayerScore_DisplayName": "增加分数",
     "DebugCommand_PauseRound_DisplayName": "暂停回合计时",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "背包",
     "Badge": "徽章",
     "Badge_Plural": "徽章",
+    "SparksBass": "贝斯",
+    "SparksBass_Plural": "贝斯",
     "Buff": "增益",
     "BuffCredit": "增益",
     "BuffCredit_Plural": "增益",
     "Buff_Plural": "增益",
+    "JunoBuildingSet": "建造",
     "BuildingPiece": "建筑构件",
     "BuildingPiece_Plural": "建筑构件",
+    "JunoBuildingSet_Plural": "建造",
     "ItemCache": "储物点",
     "ItemCache_Plural": "储物点",
     "CodeToken": "代码兑换代币",
@@ -3506,12 +3548,16 @@
     "Currency": "货币",
     "DailyRewardScheduleToken": "每日奖励",
     "DailyRewardScheduleToken_Plural": "每日奖励",
+    "JunoBuildingProp": "装饰",
     "Deco": "装饰物品",
     "Deco_Plural": "装饰物品",
+    "JunoBuildingProp_Plural": "装饰",
     "Defender": "防御者",
     "Defender_Plural": "防御者",
     "DeployableBaseCloudSave": "可配属基地",
     "DeployableBaseCloudSave_Plural": "可配属基地",
+    "SparksDrums": "架子鼓",
+    "SparksDrums_Plural": "架子鼓",
     "EditTool": "编辑工具",
     "EditTool_Plural": "编辑工具",
     "Emote": "姿势",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "游戏方式调整",
     "Glider": "滑翔伞",
     "Glider_Plural": "滑翔伞",
+    "SparksGuitar": "吉他",
+    "SparksGuitar_Plural": "吉他",
     "Hero": "英雄",
     "Hero_Plural": "英雄",
     "HomebaseBannerIcon": "大本营战旗",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "大本营战旗",
     "Ingredient": "原料",
     "Ingredient_Plural": "素材",
+    "SparksKeyboard": "键盘",
+    "SparksKeyboard_Plural": "键盘",
     "CosmeticShoes": "鞋子",
     "CosmeticShoes_Plural": "鞋子",
     "LoadingScreen": "载入界面",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "战利品",
     "WeaponMelee": "近战武器",
     "WeaponMelee_Plural": "近战武器",
+    "SparksMicrophone": "麦克风",
+    "SparksMicrophone_Plural": "麦克风",
     "MissionItem": "任务物品",
     "MissionItem_Plural": "任务物品",
     "Music": "音乐",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "稍后提醒我",
     "EmoteConfirmDesc": "“放松一下”姿势将在24小时内发放至您的账户！"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "管理波次",
-    "InitialWave": "挥手[0] - 初始波次"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "配置参与度插件编辑器设置。",
-    "EngagementsEditorProjectSettingsName": "参与度编辑器"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "无法互动",
     "InteractionMessage": "互动"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "CTA编辑器",
     "ConditionalTransitionEditorTabTooltip": "打开条件过渡Actor编辑器"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "正在检查插件",
+    "CustomizableUI": "可自定义界面",
+    "HLTv2ToCustomizableUIMigratorTool": "将所有HLTv2设置迁移至可自定义界面",
+    "FailedToWriteDescriptor": "未能找到插件“{0}”"
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "建造时蹲下（点击）/滑行（长按）",
     "CrouchWhileEditing": "编辑时蹲下（点击）/滑行（长按）",
     "ToggleCursorMode": "光标模式",
-    "Custom1(Fire)": "自定义输入 1（射击）",
     "CustomInput10(Right)": "自定义输入 10（向右）",
     "CustomInput11(PreviousItem)": "自定义输入 11（前一个物品）",
     "CustomInput12(NextItem)": "自定义输入 12（下一个物品）",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "自定义输入16（切换物品栏）",
     "CustomInput17(SquadRequests)": "自定义输入17（小队请求）",
     "CustomInput18(Emote)": "自定义输入18（姿势）",
-    "CustomInput2(Target)": "自定义输入 2（目标）",
-    "CustomInput3(Crouch)": "自定义输入 3（下蹲）",
-    "CustomInput4(Jump)": "自定义输入 4（跳跃）",
-    "CustomInput5(Sprint)": "自定义输入 5（冲刺）",
     "CustomInput6(Interact)": "自定义输入 6（互动）",
     "CustomInput7(Forward)": "自定义输入 7（向前）",
     "CustomInput8(Backwards)": "自定义输入 8（向后）",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "抢先体验",
-    "MapRotationMessage": "下个地图：{0}",
     "Ranked_Feral_ModeName": "枪火盛宴段位赛",
     "Ranked_Figment_ModeName": "Fortnite怀旧段位赛",
     "Ranked_LTM_ModeName": "段位限时模式",
     "Ranked_DelMar_SeasonNameOverride": "段位竞速",
     "Ranked_BlastBerry_ModeName": "火力全开段位赛",
     "Ranked_BattleRoyale_ModeName": "段位{0}",
-    "ReJoinMessage": "重新加入正在进行中的比赛，规避{0}比赛匹配限制",
     "Ranked_DelMar_HeaderName": "火箭竞速",
     "Ranked_BattleRoyale_SeasonNameOverride": "第0赛季",
     "Ranked_BlastBerry_SeasonNameOverride": "第0赛季",
     "Ranked_Figment_SeasonNameOverride": "第零赛季",
-    "BlackoutTimeCountdownFormat": "{0}后关闭",
     "Ranked_Matchmaking_ReadyUpWelcome": "欢迎来到{0}"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "隐藏资源",
     "MemoryTestResults_Summary_HighestMemoryLocation": "最高内存使用位置： ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "最高内存使用：{MemoryValue} / {MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "最高内存使用：{MemoryValue} / {MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "内存计算结果汇总",
     "MemoryTestResults_Summary_NumLocationsSampled": "采样位置数量：{0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "正在处理{0}个参考链",
     "MemoryTestResults_Summary_Result": "结果：{0}",
     "MemoryTestResults_Summary_Result_Success": "成功",
     "MemoryTestResults_TopTotalExclActors_Header": "按照总计专属大小的上层角色",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "职业{0}",
     "Game": "游戏",
     "TeamScoreboardNameFormat": "小队{0}",
-    "JoinInProgressTooLate": "你尝试加入的游戏已经结束。",
-    "UnableToFindSpawnPoint": "无法找到重生点"
+    "JoinInProgressTooLate": "你尝试加入的游戏已经结束。"
   },
   "FortMissionPopupWidget": {
     "REWARD:": "奖励：",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "多赠{0}%*"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "（即{0}*）",
-    "RealPriceFormat_AdditionalText": "（相当于{0}**）",
+    "RealPriceFormat": "（相当于最高{0}*）",
+    "RealPriceFormat_AdditionalText": "（相当于最高{0}**）",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**在可用的情况下，你需要支付{1}以购买正好{0}V币。当前平台不支持精确数额购买。",
     "RealPriceLegalFormat_AdditionalText": "**购买{0}V币，需支付{1}。",
-    "ExactPackLegalText": "*所示赠送比例以1000V币组合包价格为参考。",
+    "BonusAmountLegalFormat_Amount": "*所示V币赠送奖励以{0}组合包价格为参考。",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*所示V币赠送比例和奖励以{0}组合包价格为参考。",
+    "BonusAmountLegalFormat_PercentageLegacy": "*所示V币赠送比例以{0}V币组合包价格为参考。",
+    "BonusAmountLegalFormat_Percentage": "*所示V币赠送比例以{0}组合包价格为参考。",
     "RealPriceLegalFormat_NoExactAmount": "*在可用的情况下，你需要支付{1}以购买正好{0}V币。当前平台不支持精确数额购买。",
     "RealPriceLegalFormat": "*购买{0}V币，需支付{1}。",
+    "ExactAmountOfferTitleText": "精确充值功能",
+    "NonRefundableVBucksLegalText": "V币组合包不支持退款。",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "无法下载监管设置。",
     "QueryKeychainFailedMsg": "下载资源钥匙链失败",
     "GuestLoginNotAllowed": "访客账户不可游玩Fortnite。请登入独立Xbox网络账户后继续。",
-    "WorkspaceManagerInitFailed": "工作区管理器初始化失败",
     "InitializingEpicParty": "正在初始化Epic团队...",
     "RegisterUsabilityExperiment": "初始化可用性设置……",
     "LeavingParty": "离开队伍。",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "小队{0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0}{1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>创建时间表</>",
+    "PlayScheduleTitle": "<Strong>游玩时间表</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "每天",
     "PlaytimeScheduleFriday": "星期五",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "开放时间",
     "TuesdayPlaytimeCollection_Name": "周二",
     "PlaytimeReports_Description": "查看您的孩子每周在Fortnite和UEFN (Unreal Editor Fortnite特别版)中花费的时间。\n\n如开启此设置，您还可以选择每周接收包含此信息的电子邮件。",
-    "WednesdayPlaytimeCollection_Name": "周三"
+    "WednesdayPlaytimeCollection_Name": "周三",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} （长按）"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "自动隐藏建筑材料",
     "AutoSetQuality_Action": "自动设置",
     "AutoSetQuality_Name": "自动设置画质",
+    "AutomaticallyApplyXP_Name": "自动应用 - 成员经验值",
     "DynamicResolution_Description": "根据GPU负载自动调整3D分辨率。GPU使用率较低时，分辨率将提升至原生分辨率。GPU使用率较高时，分辨率将降低至最低3D分辨率预设值。",
     "AutoSetQuality_Description": "根据硬件基准自动配置画面质量选项。",
     "EditConfirmOnRelease_Description_Switch": "放开键时自动确认一次编辑操作。",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "放开键时自动确认一次编辑重置操作。",
     "ResetConfirmOnRelease_Description_PS4_PS5": "放开键时自动确认一次编辑重置操作。",
     "ResetConfirmOnRelease_Description": "输入释放时自动确认一次编辑复位操作。",
+    "AutomaticallyApplyXP_Description": "消耗现有的成员经验值，自动提升当前英雄编队中英雄和防御者的等级，以及小队中幸存者的等级",
     "AutoMulchMode_Traps_Description": "自动回收等于或低于此品质的陷阱构造图。",
     "AutoMulchMode_Weapons_Description": "自动回收等于或低于此品质的武器构造图。",
     "AutoMulchMode_Defenders_Description": "自动辞退等于或低于此品质的防御者。",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "键组",
     "QuickWeaponButtonGroup_Name_XB1": "键组",
     "QuickWeaponButtonGroup_Name_XSX": "键组",
+    "ButtonHoldTime_Name": "按钮长按时间",
     "ControllerButtonMappingCollection_Name": "按键映射",
     "TouchButtonPulseAnimation_Name": "键脉冲动画",
     "GyroCalibrationContext_Name": "校准",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "掌上模式陀螺仪感应器空间",
     "MobileVibration_Name": "震动反馈",
     "ControllerHardwareCollection_Name": "器械",
-    "EnableHardwareRayTracing_Name": "硬件光线追踪",
-    "EnableHardwareRayTracing_Description": "硬件光线追踪可实现更高质量的流明全局照明和反射，但会降低性能。",
     "GyroTighteningThreshold_Description": "当手柄转动非常缓慢时，该功能会降低陀螺仪感应器的瞄准速度，帮助你更稳地进行瞄准操作。阈值指的是手柄旋转速度（以度/秒为单位）达到多快时，该收紧效果会被取消。将阈值设为0可完全关闭此功能。陀螺仪感应器死区会叠加到该阈值上，因此当两者同时启用时，瞄准收紧功能可实现从死区到正常瞄准的平滑过渡。",
     "AutoMulchMode_Heroes_Name": "英雄",
     "HiddenMatchmakingDelay_Name": "隐藏匹配延迟",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "低输入延迟模式",
     "GlobalIlluminationEpic": "史诗流明",
     "ReflectionsEpic": "史诗流明",
-    "Lumen is disabled": "必须启用流明 GI 或反射。",
     "GlobalIlluminationHigh": "高流明",
     "ReflectionsHigh": "高流明",
     "LumenUnavailableInGameMode": "此游戏模式无法使用流明",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "快速武器",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "R2键释放",
     "GyroTrackballDecay_Description": "陀螺仪感应器轨迹球放慢的速率（只影响陀螺仪感应器X轴和Y轴的轨迹球行为)。",
+    "LumenRequiresRayTracing": "当前平台不支持光线追踪。",
     "AnnualRefundTokenRequests_Name": "退款请求",
     "TSRRecommended": "推荐",
     "ReplayRecordingCreativeMode_Name": "录制创意模式回放",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "安全区",
     "AutoMulchCollection_Name": "守护家园——自动回收/辞退",
+    "PeopleXPCollection_Name": "守护家园 - 自动应用经验值",
     "CombatTweakZone_Scope": "范围",
     "GyroActiveMode_Scope": "仅限开镜",
     "MouseScopedMultiplier_Name": "开镜灵敏度",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "必须将“渲染模式”设置为“DirectX 12”，才能启用 Lumen。",
     "NaniteRequiresD3D12": "必须将“渲染模式”设置为“DirectX 12”，才能启用 Nanite。",
     "FilterMatureLanguage_Warning": "对于未满13岁的玩家，成人语言过滤器始终处于开启状态。",
+    "ButtonHoldTime_Description": "使用触屏时，长按按钮触发选中所需的时间（秒）。仅适用于在UEFN（Unreal Editor Fortnite特别版）中制作的体验",
     "KeyboardMovementBackwardDiagonal_Description": "使用键盘输入后向对角线时的跑步角度。",
     "KeyboardMovementForwardDiagonal_Description": "使用键盘输入前向对角线时的跑步角度。",
     "KeyboardMovementStrafeDiagonal_Description": "使用键盘扫射时的跑步角度。",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0}秒",
     "GyroButtonHoldTime_Display": "{0}秒",
     "GyroSmoothWindowTime": "{0}秒",
+    "LongPressTime_FormattedLabelText": "{0}秒",
     "LookBoostAccelerationTimeAds_Format": "{0}秒",
     "LookBoostAccelerationTime_Fortmat": "{0}秒",
     "LookEaseTime_Format": "{0}秒",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0}秒",
     "SlideButtonHoldTime": "{0}秒",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0}%",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "每天自定义",
     "SettingOff": "关闭",
     "SettingSameEveryDay": "每天相同"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "关闭",
+    "SettingOn": "开启",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "否",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "涂鸦"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "版本{0}数据转移至{1}失败（Actor={2}）"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "游戏",
     "LoadingNameKey": "起名",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes} 分钟 {Seconds} 秒",
     "WeeksFormatText": "{Weeks}周{Days}天"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "双人",
-    "SubGameMode.LTMSolo": "单人",
-    "SubGameMode.LTMSquads": "小队"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "（需要下载）",
     "Message.Error": "出现错误。",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "不同的团队",
     "DuosTeam": "双人",
     "Message.EstimatedTimeRemaining": "预计剩余时间：{0}",
-    "Fill": "填充队友",
     "TeamFill": "填充",
     "Message.FindingMatchNoETA": "正在寻找比赛……\n用时{0}",
     "Message.FindingMatch": "正在寻找比赛…\n用时: {0}, 预计时间: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "匹配错误（#4）",
     "Message.ETANotAvailable": "不可用",
     "Message.ModeNew": "新增模式！",
-    "NoFill": "无填充",
     "NoTeamFill": "不填充",
     "Header.NotMatchmaking": "未匹配",
     "Message.CanMatchmakeSoloNewStyle": "开始",
     "Message.CanMatchmakeSolo": "游戏开始！",
-    "Private": "私密",
-    "Public": "公共",
     "Header.PartyError": "组队错误",
     "Header.Preparing": "准备中……",
     "PrivateMatch": "私密",
     "PublicMatch": "公共",
     "Message.QueueFull": "队列已满，请稍等……\n用时：{0}",
     "Message.PlayersInQueue": "队列中玩家：{0}\n匹配用时：{1}",
-    "Ranked": "段位赛",
-    "RankedOff": "段位赛：关",
-    "RankedOn": "段位赛：开",
     "Message.CanReJoinGame": "重新加入",
     "Message.CanMatchmakeParty": "准备！",
     "PartySameTeamShort": "同一团队",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "等待服务器中……",
     "Message.WaitingForReadyFormat_Two": "正在等待{0}和{1}准备……",
     "Message.WaitingForReadyFormat_More": "正在等待其他{0}位玩家准备……",
-    "Message.WaitingForReadyFormat_Single": "正在等待{0}准备……",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "正在等待{0}准备……"
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "新闻"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "加入游戏的请求遭拒。请稍后重试。",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "{0}锦标赛"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "建造",
+    "BuildModeTitle": "建造/零建造",
+    "TeamSize2": "双人",
+    "Fill": "填充",
+    "NoFill": "无填充",
+    "TeamSize8": "八人",
+    "Off": "取消",
+    "On": "使用",
+    "RankedDescription": "游戏表现将影响你的段位",
+    "UnrankedDescription": "游戏表现不会影响你的段位",
+    "ZeroBuildModeDescription": "禁用建造并游玩",
+    "BuildModeDescription": "启用建造并游玩",
+    "TeamSize5": "五人",
+    "Ranked": "段位",
+    "TeamSize6": "六人小队",
+    "TeamSize1": "单人",
+    "TeamSize4": "小队",
+    "SquadFillTitle": "填充队伍",
+    "TeamSizeTitle": "队伍规模",
+    "TeamSizeDescription1": "队伍上限1名玩家",
+    "TeamSizeDescription2": "队伍上限2名玩家",
+    "TeamSizeDescription3": "队伍上限3名玩家",
+    "TeamSizeDescription4": "队伍上限4名玩家",
+    "TeamSizeDescription5": "队伍上限5名玩家",
+    "TeamSizeDescription6": "队伍上限6名玩家",
+    "TeamSizeDescription8": "队伍上限8名玩家",
+    "TeamSize3": "三人",
+    "Unranked": "非段位",
+    "FillDescription": "在匹配开始前，你的队伍将自动填充",
+    "NoFillDescription": "你的队伍中只会包含团队中的玩家",
+    "ZeroBuildMode": "零建造"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "请求的后端无效！离开。"
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "开启时，悬停在武器上方将只显示图标而非描述。"
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</>成为了家园勇士！"
+    "WinnerGameFormat": "<WinnerName>{0}</>成为了家园勇士！",
+    "SuspendKick": "暂停太久而被踢出。"
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "因未知原因被禁用"
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "群组邀请",
     "GroupInviteDescription": "{0}邀请你加入群组"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "将所有HLTv2设置迁移至可自定义界面"
   },
   "HUD": {
     "Cancel": "取消",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "你的能量等级和堡垒状态现已增强。",
     "MemberJoinedToastTitle": "{0}已加入队伍"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "在服装上运行编辑器指令"
-  },
   "MessageDispatcher": {
     "UnknownError": "{ChannelName}上的{MessageName}出现了未知错误。",
     "ChannelNotValid": "错误：“{MessageName}”频道已经失效，还原至无频道。",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "设置事实",
     "SetFactTemplate": "设置事实模板",
-    "SetFactText": "设置事实文本"
+    "FactArrayTextFormat": "{0}事实"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "委托{0}的隐式参数0与Self事实参数不匹配。表达式：{1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "无法将返回类型{0}（{1}）解码为事实。表达式：{2}",
     "CouldntFindFact": "找不到名为{0}的事实",
     "CouldntGenerateConditionalToken": "无法生成条件令牌",
+    "CouldntGenerateLoopToken": "无法生成循环令牌",
     "CouldntParseConditionalSymbol": "无法解析条件符号",
+    "CouldntParseLoopSymbol": "无法解析循环符号",
     "InvalidDelegateObject_3": "委托事实{0}未返回有效的事实类型。表达式：{1}",
     "InvalidDelegateObject_2": "委托事实{0}未绑定到对象{1}的有效函数名。表达式：{2}",
     "InvalidDelegateObject_1": "委托事实{0}未绑定到有效对象。表达式：{1}",
     "DelegateRecursionExceeded": "超出委托{0}递归深度。表达式：{1}",
     "InfiniteDelegateRecursionDetected": "委托{0}检测到无限委托递归。表达式：{1}",
     "ExpectedQuote": "缺少“",
+    "ExpectedIn": "{% for element in ...的元素名称之后需要“in”",
     "ExpectedElseIfCondition": "{% else if  %}内缺少条件表达式",
     "ExpectedIfCondition": "{% if  %}内缺少条件表达式",
+    "ExpectedElement": "{% for之后需要一个元素名称 ",
+    "ExpectedForElseInnerTemplate": "{% else %}与{% endfor %}之间缺少else模板",
     "ExpectedElseInnerTemplate": "{% else %}与{% endif %}之间缺少else模板",
     "ExpectedInnerTemplate": "缺少内部模板",
     "ExpectedClosingBrace": "缺少匹配的事实表达式闭合花括号}",
+    "ExpectedForLoop": "{% for  %}内缺少范围表达式",
+    "ExpectedWhitespaceAfterIn": "{% for element in ...的“in”之后需要空格",
     "InvalidFact_1": "无效事实{0}（错误：{1}）在表达式中被引用：{2}",
     "InvalidFact_2": "无效事实{0}在表达式中被引用：{1}",
     "InvalidDelegateParamCall": "对不接受参数的委托{0}的参数化调用无效。表达式：{1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "超出模板递归深度。表达式：{0}",
     "TooManyArgs": "调用{0}时参数过多。表达式：{1}",
     "UnexpectedElseAfterElse": "在前一个else之后出现意外的else块",
+    "UnexpectedElseAfterElseInFor": "在前一个else之后意外出现else块",
     "UnexpectedElseIfAfterElse": "在前一个else之后出现意外的else if块",
     "EOSExpectedConditionEnd": "意外的流中止。缺少闭合标记“%}”",
+    "EOSExpectedLoopEnd": "意外发生串流中止。缺少闭合标记“%}”",
+    "EOSExpectedEndFor2": "意外发生串流中止。缺少闭合标记{% endfor %}",
     "EOSExpectedEndIf2": "意外的流中止。缺少闭合标记{% endif %}",
+    "EOSExpectedEndFor1": "意外发生串流中止。缺少内部模板和闭合{% endfor %}",
     "EOSExpectedEndIf1": "意外的流中止。缺少内部模板和闭合{% endif %}",
     "ExpectedOpenBrace": "意外令牌“{0}”@{1}：{2}于委托事实后，表达式：{3}",
     "UnexpectedFactExprToken": "意外令牌“{0}”@{1}：{2}于事实表达式：{3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "未匹配的表达式闭合花括号}"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "聊天补全器覆盖",
-    "RunEnginePromptTooltip": "使用独白*引擎*子系统执行提示并评估响应",
-    "RunWorldPromptTooltip": "使用独白*世界*子系统执行提示并评估响应",
-    "RefreshPreviewTooltip": "强制模板重新实例化（如：重新评估动态委托事实）",
-    "PromptNameLabel": "名称",
+    "LabelChatCompleterOverride": "聊天补全器覆盖",
+    "TooltipChatCompleterOverride": "用于生成回复的聊天补全器。若未指定，将使用独白引擎子系统的*默认聊天补全器*。",
+    "LabelPromptName": "名字",
+    "ButtonNavigateToSystemMessage": "导航至系统消息（Ctrl + Alt + 上箭头）",
+    "ButtonNavigateToUserMessage": "导航至用户消息（Ctrl + Alt + 上箭头）",
+    "ButtonNavigateToNextFact": "导航至下一个事实（Ctrl + Alt + 右箭头）",
+    "ButtonNavigateToPreviousFact": "导航至上一事实（Ctrl + Alt + 左箭头）",
+    "SetChatCompleterClassOverride": "覆盖聊天补全器",
     "PromptPreviewSettings": "提示预览设置",
     "PromptResponse": "提示响应",
-    "SavePreviewTooltip": "将预览设置保存至资源以便重复测试",
-    "SetMPChatCompleterOverride": "设置MonologuePrompt ChatCompleter覆盖",
+    "ButtonRefreshFacts": "刷新数据，即清空编辑器的底层模型。",
+    "ButtonRunPrompt": "使用独白*世界* 或（*引擎*）子系统运行提示以生成响应",
+    "ButtonSavePreview": "将预览设置保存至资源以便重复测试",
     "SetPromptName": "设置提示名称",
     "SetPromptPreviewSettings": "修改提示预览设置",
-    "SetPromptSystemMessage": "设置提示系统消息模板",
-    "SetPromptUserMessage": "设置提示用户消息模板",
-    "SystemMessageLabel": "系统消息",
-    "CompleterOverrideTooltip": "用于此请求的UChatCompleter。若未指定，将使用独白引擎子系统的“默认聊天补全器”。",
-    "UserMessageLabel": "用户消息",
-    "WrapSystemMessageToolTip": "文本换行",
-    "WrapUserMessageToolTip": "文本换行"
+    "SetSystemMessageTemplate": "设置系统消息模板",
+    "SetUserMessageTemplate": "设置用户消息模板"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "数据注册表事实委托 - 在数据注册表中未找到名为“{0}”的事实项",
     "NoDRSubsystem": "数据注册表事实委托 - 数据注册表子系统不可用，请确保已启用数据注册表插件。",
     "InvalidDRFactItemId": "数据注册表事实委托 - DataRegistryItemIdString“{0}”不是有效的数据注册表项ID",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "传递至MutuallyPerceivedEvents的第一个UMonologueComponent无效，无法获取事件详情！",
     "FirstPersonName_My": "我的",
     "NameNoSubject": "未将IMonologueSubjectInterface传递至Subject，无法获取名称！",
     "ObservedNameNoSubject": "未将IMonologueSubjectInterface传递至Subject，无法获取名称！",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "{0}的"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "传递给NearbySubject的SearchHeight无效。SearchHeight必须大于0",
+    "NearbySubjectsInvalidSearchRadius": "传递给NearbySubject的SearchRadius无效。SearchRadius必须大于0",
+    "NearbySubjectsNoActor": "传递给NearbySubject的MonologueComponent没有所有者，不能进行距离检测",
+    "NearbySubjectsNoSelf": "未将UMonologueComponent传递至NearbySubject",
     "SmartObjectBehaviorsNoSelf": "未将UMonologueComponent传递至SmartObjectBehaviors",
+    "SpatialContextNoSelf": "未将UMonologueComponent传递至SpatialContext",
     "SmartObjectBehaviorsNoPawn": "智能对象行为 - 未能从主题获取角色",
     "SpatialContextNoPawn": "空间上下文 - 未能从主题获取角色"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "射击",
     "SecondaryActionName": "缩放"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "未校准"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription}（{QuestProgress}/{QuestGoal}）"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "达到等级{LevelRequired}后解锁新套装",
     "Offer_CanUnlockSet": "解锁此套装开始领取奖励"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "{Date}解锁"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "领取第{IndexPage}页的所有奖励",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "等待密钥"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "第{0}赛季的赛季编号无效。预期为{1}（最近赛季+1），实际为{2}"
+    "InvalidSeasonDependencies": "赛季引用的资源{0}无法获取其依赖项。",
+    "InvalidSeasonNumber": "第{0}赛季的赛季编号无效。预期为{1}（最近赛季+1），实际为{2}",
+    "IncompatibleSeasonNumber": "第{0}赛季正在尝试验证依赖项{1}。其发布版本({2})比引用它的赛季({3})更高。",
+    "InvalidObjectDef": "第{0}赛季正在尝试验证依赖项{1}。它本应是一个UFortItemDefinition，但实际上不是。"
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "<text size=\"18\">{0}份</>礼物待开启",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "感谢游玩Fortnite！",
     "PurchaseHeader": "已收集{0}件物品"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "添加轨道",
+    "AddTrack_ToolTip": "创建新的动作轨道"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "保存",
+    "SavePrompts_ToolTip": "保存提示提供程序"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "将所有HUD布局工具设置迁移至可自定义界面",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "打开“HLTv2至可自定义界面迁移工具”，将所有HLTv2设置迁移至新的可自定义界面框架。"
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "打开空间分析工具",
+    "OpenSpatialProfiler_ToolTip": "打开空间分析工具选项卡"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "打开武器现代化工具",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "领取所有{CategoryName}奖励以解锁",
     "CategoryStatus_LockedRewardLevelFormat": "再领取{NumRewards}份奖励，或完成{NumLevels}个等级以解锁",
-    "CategoryStatus_LockedUntilLevel": "达到{LevelRequired}级后解锁该套装",
-    "Status_LockedDateLockedFormat": "{Date}解锁"
+    "CategoryStatus_LockedUntilLevel": "达到{LevelRequired}级后解锁该套装"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "领取所有{CategoryName}奖励以解锁",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "运行载具音频装扮数据选择工具转化器",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "运行载具装扮物品Def音频选择工具转化器"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "多个值"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "资源非物品定义",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Fort 载具外观预览 Actor",
     "CanCreateActorFrom_InvalidAsset": "无效资源",
     "CanCreateActorFrom_InvalidAssetClass": "无效资源类别"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "无效",
+    "MultipleValues": "多个值"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Fort 载具外观涂装标记",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "换座位",
     "SwitchToWeapon": "切换至武器"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "无"
   },
   "VkAnimNode": {
     "FADEINLEFT": "左侧淡入",
@@ -11715,6 +11845,9 @@
     "OutBoundError": "重启对话不允许进行第二项任务"
   },
   "VkSpeechNode": {
+    "OutBoundError": "该对话节点无法连接到其他相同类型的节点或重启节点"
+  },
+  "VkSpeechRandomVariantNode": {
     "OutBoundError": "该对话节点无法连接到其他相同类型的节点或重启节点"
   },
   "VkTextCrawlNode": {

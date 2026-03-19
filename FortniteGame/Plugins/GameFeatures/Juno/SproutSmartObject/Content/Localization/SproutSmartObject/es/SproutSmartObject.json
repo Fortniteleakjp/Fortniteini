@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "Inspeccionar",
     "CF6195BE44741B679B03A7970B0904F5": "Inspeccionar",
     "B8C80B5041E5FBA2635752B2A5271479": "Interactuar",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "Opciones de LLM...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "Opciones de LLM...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "Opciones de LLM...",
     "AEB376F240A55432B193BC8797FF5AE9": "Opciones de LLM...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "Opciones de LLM...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Levantar",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Tu almacén está lleno",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "Un breve resumen (1-2 palabras) para la cuarta opción.",
+    "OptionTwo_ShortText": "Una etiqueta concisa (1-2 palabras) para la segunda opción del jugador.",
+    "OptionSix_ShortText": "Una frase corta (1-2 palabras) para la sexta y última opción.",
+    "OptionOne_ShortText": "Un resumen muy breve (1-2 palabras) de la primera opción. Esto es lo que ve el jugador en el menú de opciones.",
+    "OptionFive_ShortText": "La etiqueta de la IU (1-2 palabras) para la quinta opción de diálogo.",
+    "OptionTwo_FullText": "La frase completa que dice el jugador al seleccionar \"OptionTwo\".",
+    "OptionFour_FullText": "Todo el diálogo del jugador para \"OptionFour\".",
+    "OptionOne_FullText": "La línea de diálogo completa que dice el jugador para \"OptionOne\", que debería ser una ampliación del texto breve.",
+    "OptionSix_FullText": "El diálogo completo del jugador cuando selecciona \"OptionSix\".",
+    "OptionThree_FullText": "El diálogo completo que dice el personaje del jugador para la \"'OptionThree\".",
+    "OptionFive_FullText": "La frase completa que dice el jugador si elige la \"OptionFive\".",
+    "OptionThree_ShortText": "Texto breve (1-2 palabras) para la tercera opción."
   }
 }

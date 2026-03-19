@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "Başarım Tamamlama Jetonu",
     "48008F3445314E50326D9FB086B9189F": "Başarım Tamamlama Jetonu",
     "FC7458584E93A2CCE3222B9CB21FFF51": "Başarım Tamamlama Jetonu",
+    "647B590E4A6D893A4E58DB921F805840": "Etkinlik",
     "9FEF179645D8A343518563AEFE302A2A": "Etkinlik",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "Gece Gezgini DRIFT için ilave görevler.",
     "C0AD274548543104E8F3ABB507431A91": "Altınboğan Muhafız Görev Paketi için ilave görevler.",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "Create a blank plugin for the Juno project.",
     "E806A3B84B22DDCF92AAF2B4C829173": "FNE için bir EşyaAçıklaması içeren oyun özelliği eklentisi oluştur. FNE buna otomatik olarak eklenecek. Bu yüzden sadece kod adını verip kullanmaya başlayabilirsin. Örnek: FooBar, FNEFooBar olur!",
     "37C405BC468E03254AB82CB18FD5CF98": "Yeni bir KAMP Senaryosu eklentisi oluştur",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "Juno projesi için yeni bir yaratık eklentisi oluştur.",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "Kreatif Mod için yeni bir cihaz oluştur",
     "9E0FC24F423F8F20BB5934B8F479E56B": "FNE Modu için yeni bir Doku Cihazı oluştur.",
     "5E0375C044B7B6205FA5AABD6B429116": "Kod ile yeni bir Fortnite Oyun Özelliği Eklentisi oluştur (Hatasız kullanılmadan önce kod dosyalarında ekstra değişiklik yapılması gerekir).",
     "633C71E243C17F5070573DB8EA470FBD": "Kod + Kullanıcı Arayüzü Modülü ile yeni bir Fortnite Oyun Özelliği Eklentisi oluştur (Hatasız kullanılmadan önce kod dosyalarında ekstra değişiklik yapılması gerekir).",
     "D5255BA645C1DCF04D17019E061BAB8A": "Temel içerikli yeni bir Fortnite Oyun Özelliği Eklentisi oluştur.",
+    "A4A0F4E74285005A28C88FBBB31AD140": "Ziynet Kutusu projesi için yeni bir oynanış eklentisi oluştur.",
     "92B3DC974E94F5CA36482B9DB3343CF2": "Juno projesi için yeni bir oynanış eklentisi oluştur.",
-    "A4A0F4E74285005A28C88FBBB31AD140": "Filiz projesi için yeni bir oynanış eklentisi oluştur.",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "Yeni bir Juno KAMP Senaryosu eklentisi oluştur.",
     "D5255BA645C1DCF04D17019E061BAB7A": "Yeni bir Temel Oyun Özelliği Eklentisi oluştur.",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "Yeni bir boş Fortnite Oyun Özelliği Eklentisi oluştur. Yalnızca bir Oyun Özelliği Verisi öğesi içerir.",
     "D4034010418FF429289586AC5F972D77": "Yeni bir Battle Royale Oynanış Özelliğinin Kullanıcı Arayüzü içeriği için boş bir eklenti oluştur.",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "Fevkalade Hareket",
     "54743E7F439EF3489ADB5689670DEFFE": "Nişancı Casus Görevleri",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "Minnoş Ekmek Görevleri",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "Ziynet Kutusu Oynanış Eklenti Şablonu",
     "EF9405A043B0E869255F438176090428": "Günlük Kart Tamamlama Jetonu",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "Şifalı Dans",
     "FEA5CDF84F86CFEEDCFFD69726390294": "<Emphasized>Canın azken</> <Emphasized>daha fazla hasar</> verirsin.",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Geliştirilmiş Taarruz Tüfeği  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Geliştirilmiş Küçük Hafif Makineli Tüfek",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Geliştirilmiş Tambur Pompalı Tüfek",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Geliştirilmiş Zıpkın Tüfeği",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Geliştirilmiş Taktiksel Pompalı Tüfek",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "Top Arabasına Gir",
     "E6F1B9FF470A284E11AF6F891FE7D098": "Top Arabasına Gir",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "Silahlar Menzilli Tabancalar AğırMermiler YarıOtomatik",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Silahlar Menzilli Tabancalar AğırMermiler YarıOtomatik",
     "2D37E97E43724ABA040D5DB07530962F": "Silahlar Menzilli Tabancalar YarıOtomatik",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Silahlar Menzilli Tabancalar YarıOtomatik",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Silahlar Menzilli Tabancalar YarıOtomatik",
     "9EA74A7A4C987B0D9D927EB133619716": "Silahlar Menzilli Tabancalar YarıOtomatik",
     "BF1FF2F14FDC8846B569E7966543F17B": "Silahlar Menzilli Tabancalar YarıOtomatik",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "Av Tüfeği",
     "D29EE9294C3C6ACC03577885D6B34262": "Av Tüfeği",
     "DFD2853F433A8DA06177BFAAF22D0CED": "Av Tüfeği",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "Patladığında yakınındaki tüm oyuncuları geri iten bir el bombası fırlatır.",
     "88E97DAD4C1AB681AF821394106303DF": "Rakip oyunculara veya çevreye yapışan bir el bombası atar.",
     "9F773C444680E58D8F932EA37E5F0581": "Rakip oyunculara veya çevreye yapışan bir el bombası atar.",
     "90F8ED68488FD4B3343C46A4B7131E87": "Zehirli bir bulut yayan ve bulutun içinde kalan rakiplere hasar veren bir el bombası atar. Uzak dursan iyi olur!",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "Tüm teknolojilerin <Emphasized>yüklenme hızı</> artar.",
     "842064DD4CCAF532392128861286DD02": "Tüm silahların nişan almadan atış <Emphasized>isabetliliği</> artar.",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "Savuran Bomba",
+    "CFEA70984FEAE95DC388B0AC8B919432": "Savuran Bomba",
     "FB4BDD7B494F39753C6778979CD662CC": "Havada: Hedefe Sıçra",
     "80D8948A44365AE1A9D3DB9925A43A2B": "<Emphasized>Planörünün hızını</> arttırır.",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "<Emphasized>Daha fazla kafadan vuruş hasarı</> fakat <Emphasized>daha az beden vuruş hasarı</> verirsin.",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "Zıplatan Kare (Yönsel)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "Zıplatan Kare (Yukarı)",
     "251E3DE8412479479C227D821FAAC425": "Juno Blank Plugin",
-    "38DE538C495F59868887E890EC3FD597": "Juno KAMP Senaryosu",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "Juno Yaratık Eklenti Şablonu",
     "105342A546779B970DC46E80183052FE": "Juno Oynanış Eklenti Şablonu",
     "EF22E85B49A871DF9C133DA1F84B3900": "JunoTO (Temalı Oyun)",
     "FDA97C5F4842CB9AE5195393C8759F84": "JunoTM (Temalı Minimal)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "<Emphasized>Daha fazla hasar engelleyebilen</> bir Şemsilah.",
     "330D995D4F99BB677CE5FF8643A9B17A": "Pisikopat'ın Yüklü Pompalısı",
     "A01D19E14ACA958C292350B0BDD893E8": "İtenBomba DestekEşyası ElBombası",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "İtenBomba DestekEşyası ElBombası",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "LEGO Metaverse Öğe Koleksiyonu",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "LEGO Metaverse Öğe Kompozisyonu",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} Swimming{swimming} Montage{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "Oyuncu",
     "291AD5F7469E20890EFCD288976C3A9B": "Oyuncu Anketi Uygunluk Jetonu",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "Oyun Süresi TP'si Kazanıldı!",
     "14164C9D434D02CF6E737F8644740969": "Oyun Süresi TP'si Kazanıldı!",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "Yakınlığa Duyarlı Mayın",
     "FE97DA514506C8282ACCE59BFD3A562C": "Yakınlığa Duyarlı Mayın",
     "EB7FCBAD49E466CA687372AC079CF68B": "Yakınlığa Duyarlı Mayın +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Düşmanları sana doğru çeker ve onlara hasar verir.",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "Klasik Pompalı Tüfek",
     "EF0917D448D388C00D296F8E62FF2DC4": "Klasik Pompalı Tüfek +",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "<Emphasized>Kafadan vuruş hasarı arttırılmış</> klasik pompalı tüfek.",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "Ateşi söndür!",
     "4253CE934E3EFF13CA95C787B6D46641": "Yeni Yaz Adası Tenis Şampiyonumuz Kedi Şövalye için büyük bir alkış alalım!",
     "43088BA143F2B6BCAEE378847172BE8C": "Dört Teker",
+    "CC13E7A44B19B6541560D085C426791D": "Dört Teker",
     "24034CD84B1D10C83560F8902AF33DC2": "Görevler",
     "280019E146742BEA12E9E897FA18D7D4": "Görevleri",
     "31F60738447C00A236E84A89CEB3B03A": "Görevler",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "İçini ısıtacak bir kamp ateşi yakmak ve canını doldurmak için ahşap harca!",
     "654EA602493B038AED40358E6100A5F7": "İçini ısıtacak bir kamp ateşi yakmak ve canını doldurmak için ahşap harca!",
     "CD5B0A744223502F67BABD81B1230D5D": "Sık",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "Filiz Oynanış Eklenti Şablonu",
     "CD3076B64ADB97607D7AF4A750656533": "FilizTemalıOyun (Temalı Oyun)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "Ekip İstekleri",
     "459B35F94D969E08A4D1109E18B98C2F": "Standart <Emphasized>yakın çatışma</> silahı.",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "Hedefe odaklandı",
     "TiltAngleIndicator": "Eğim Açısı {0}"
   },
+  "AIActionSequence": {
+    "AppLabel": "Yapay Zekâ Eylem Sekansı",
+    "AIActionSequenceTab": "Yapay Zekâ Eylem Sekansı",
+    "AddTrack": "Yapay Zekâ Parçası Ekle",
+    "DeleteAction": "Yapay Zekâ Aksiyonunu Sil",
+    "DeleteTrack": "Yapay Zekâ Parçasını Sil"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "Yapay Zekâ Eylem Sekansı Düzenleyicisi'nde Aç",
+    "OpenAIActionSequencesEditor_Tooltip": "Bu öğeyi Yapay Zekâ Eylem Sekansı Düzenleyicisi'nde aç."
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "Komut Düzenleyici Aracını Aç",
+    "PromptEditorTool": "Komut Düzenleyici Aracı",
+    "PromptEditorToolTabTitle": "Komut Düzenleyici Aracı"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "Takımındaki en az bir üye, eksik oyuncular sebebiyle maçı terk etmeye karar verdi.",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "Yapay Zekâ Eylem Sekansı",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0} m",
     "LongestKillDistanceText": "{0} m"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "Bugün",
-    "NumberOfDays": "{NumDays} {0}|plural(one=Gün,other=Gün)"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "İşaret Koy",
     "PlaceDangerMarkerDoubleTap": "Tehlike İşareti Yerleştir (Çift Dokun)",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "Toplam ekran kartı süresi: {GPUTimeMS} ms",
     "DrawCalls": "Toplam çizim komutu: {DrawCalls}",
     "NumPrimitives": "Çizilen toplam primitif: {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nBellek Kullanımı: {1}/{2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nBellek Kullanımı: {1}/{2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\nBellek Kullanımı: {1}/{2}"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "Avlandı"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "Sonraki Maç İçin Hazır Ol",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "Hazırlan!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "Yeni bir takımla hazır ol.",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "Tekrar Meydan Oku",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "Bu Takımla Tekrar Meydan Oku",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "Oyuncuyu Şikâyet Et",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "Lobiye Dön",
     "KeepPlayingTogether.PartyMemberOptedOutText": "Bazı grup üyeleri takımla kalma oyu vermedi.",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "{0} seyirci dinliyor"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "Projende çakışan LEGO® öğeleri bulunuyor. Bu durum LEGO® kurallarına aykırı. Tüm çakışmalar çözülmezse projen değerlendirmeyi geçemeyebilir.\nAktör {0}, diğer {1} aktör ile çakışıyor:",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}Aktör {1} {2} diğer aktörle çakışıyor:"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "Failed to create content package resolver",
     "InvalidStateRequested": "Yerel içerik sinyali hatası\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "Katılım hatası",
+    "ServicesUnavailable": "Hizmetlerimizde şu an yoğunluk var.  Birazdan tekrar dene.\n {ShortErrorCode}",
     "PackageResolveFlowCancelled": "Package resolver control flow was cancelled for unknown reason.",
     "ProjectDuplicationErrorTitle": "Project Duplication Error",
     "RequestInvalid": "İstek bir şekilde yanlış biçimlendirildi {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "Sunucu beklenmedik şekilde kapandı. Lütfen tekrar dene\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "Sunucu beklenmedik şekilde kapandı. Lütfen tekrar dene\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "Yapay Zekâ Eylem Sekansı Düzenleyicisi"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "HLTv2ToCustomizableUI Eklentisi",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "Uzamsal Profil Oluşturucu",
     "WeaponModernizationEditorCommands": "Silah Modernleştirme Aracı"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "Bölünmüş ekrandaki oyuncu hazır olamıyor, platformlar arası ayarları değiştirmek için birincil oyuncu olarak oturum aç"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "Boyut",
+    "CopyOfCustomLayoutProfile": "{0} Kopya",
+    "CopyOfLayoutPreset": "{0} Kopya"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0 Dakika",
     "AllowedTimeNoLimit": "Sınırsız",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "Yakındaki Yapay Zekâyı Avla",
     "DebugCommand_EndGame_DisplayName": "Oyunu Sonlandır",
     "DebugCommand_EndRound_DisplayName": "Raundu Sonlandır",
+    "DebugCommand_Flight_DisplayName": "Uçuş",
     "DebugCommand_GiveGold_DisplayName": "Altın Kaynağını Arttır",
     "DebugCommand_AddPlayerScore_DisplayName": "Puanı Arttır",
     "DebugCommand_PauseRound_DisplayName": "Raunt Süreölçerini Duraklat",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "Sırt Çantası",
     "Badge": "Rozet",
     "Badge_Plural": "Rozetler",
+    "SparksBass": "Bas",
+    "SparksBass_Plural": "Baslar",
     "Buff": "Güçlendirme",
     "BuffCredit": "Güçlendirme",
     "BuffCredit_Plural": "Güçlendirmeler",
     "Buff_Plural": "Güçlendirmeler",
+    "JunoBuildingSet": "Yapı",
     "BuildingPiece": "Yapı Parçası",
     "BuildingPiece_Plural": "Yapı Parçası",
+    "JunoBuildingSet_Plural": "Yapılar",
     "ItemCache": "Zula",
     "ItemCache_Plural": "Zula",
     "CodeToken": "CodeToken",
@@ -3506,12 +3548,16 @@
     "Currency": "Oyun İçi Para Birimi",
     "DailyRewardScheduleToken": "Günlük Ödül",
     "DailyRewardScheduleToken_Plural": "Günlük Ödüller",
+    "JunoBuildingProp": "Dekor",
     "Deco": "Süs Eşyası",
     "Deco_Plural": "Dekorasyon Eşyaları",
+    "JunoBuildingProp_Plural": "Dekorlar",
     "Defender": "Savunmacı",
     "Defender_Plural": "Savunmacılar",
     "DeployableBaseCloudSave": "Yerleştirilebilir Üs",
     "DeployableBaseCloudSave_Plural": "Yerleştirilebilir Üsler",
+    "SparksDrums": "Bateri",
+    "SparksDrums_Plural": "Bateri",
     "EditTool": "Düzenleme Aracı",
     "EditTool_Plural": "Düzenleme Araçları",
     "Emote": "İfade",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "Oynanış Düzenleyiciler",
     "Glider": "Planör",
     "Glider_Plural": "Planörler",
+    "SparksGuitar": "Gitar",
+    "SparksGuitar_Plural": "Gitarlar",
     "Hero": "Kahraman",
     "Hero_Plural": "Kahramanlar",
     "HomebaseBannerIcon": "Ana Üs Sancağı",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "Ana Üs Sancakları",
     "Ingredient": "Malzeme",
     "Ingredient_Plural": "Malzemeler",
+    "SparksKeyboard": "Keytar",
+    "SparksKeyboard_Plural": "Keytarlar",
     "CosmeticShoes": "Ayak Aksesuarı",
     "CosmeticShoes_Plural": "Ayak Aksesuarı",
     "LoadingScreen": "Yükleme Ekranı",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "Ganimet",
     "WeaponMelee": "Yakın Dövüş Silahı",
     "WeaponMelee_Plural": "Yakın Dövüş Silahları",
+    "SparksMicrophone": "Mikrofon",
+    "SparksMicrophone_Plural": "Mikrofonlar",
     "MissionItem": "Görev Eşyası",
     "MissionItem_Plural": "Görev Eşyaları",
     "Music": "Müzik",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "Sonra Hatırlat",
     "EmoteConfirmDesc": "Kopar Bizi DJ ifadesi 24 saat içinde hesabına gelecek!"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "Dalgaları Yönetir",
-    "InitialWave": "Dalga [ 0 ] - İlk Dalga"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "Etkileşim Eklentisinin Editör Ayarlarını Yapılandır",
-    "EngagementsEditorProjectSettingsName": "Etkileşim Editörü"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "Etkileşime Geçilemez",
     "InteractionMessage": "Etkileşime Geç"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "Koşullu Geçiş Aktörü Editörü",
     "ConditionalTransitionEditorTabTooltip": "Koşullu Geçiş Aktörü Editörü'nü aç"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "Eklentiler Kontrol Ediliyor",
+    "CustomizableUI": "Özelleştirilebilir Kullanıcı Arayüzü",
+    "HLTv2ToCustomizableUIMigratorTool": "Tüm HLTv2 Ayarlarını Özelleştirilebilir Kullanıcı Arayüzüne Taşı",
+    "FailedToWriteDescriptor": "\"{0}\" eklentisi bulunamadı."
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "İnşa Ederken Eğil (Dokun) / Kay (Basılı Tut)",
     "CrouchWhileEditing": "Düzenlerken Eğil (Dokun) / Kay (Basılı Tut)",
     "ToggleCursorMode": "İmleç Modu",
-    "Custom1(Fire)": "Özel Komut 1 (Ateş Etme)",
     "CustomInput10(Right)": "Özel Komut 10 (Sağ)",
     "CustomInput11(PreviousItem)": "Özel Komut 11 (Önceki Eşya)",
     "CustomInput12(NextItem)": "Özel Komut 12 (Sonraki Eşya)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "Özel Komut 16 (Çantayı Aç/Kapat)",
     "CustomInput17(SquadRequests)": "Özel Komut 17 (Ekip İstekleri)",
     "CustomInput18(Emote)": "Özel Komut 18 (İfade Kullan)",
-    "CustomInput2(Target)": "Özel Komut 2 (Hedefleme)",
-    "CustomInput3(Crouch)": "Özel Komut 3 (Eğilme)",
-    "CustomInput4(Jump)": "Özel Komut 4 (Zıplama)",
-    "CustomInput5(Sprint)": "Özel Komut 5 (Depar Atma)",
     "CustomInput6(Interact)": "Özel Komut 6 (Etkileşime Geçme)",
     "CustomInput7(Forward)": "Özel Komut 7 (İleri)",
     "CustomInput8(Backwards)": "Özel Komut 8 (Geri)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "Erken Erişim",
-    "MapRotationMessage": "Sıradaki Harita: {0}",
     "Ranked_Feral_ModeName": "Dereceli Balistik",
     "Ranked_Figment_ModeName": "Dereceli Fortnite: Mazi",
     "Ranked_LTM_ModeName": "Dereceli Sınırlı Süreli Mod",
     "Ranked_DelMar_SeasonNameOverride": "Dereceli Yarış",
     "Ranked_BlastBerry_ModeName": "Dereceli Yeniden",
     "Ranked_BattleRoyale_ModeName": "Dereceli {0}",
-    "ReJoinMessage": "{0} eşleştirme kısıtlamasından kaçınmak için devam eden bir maça yeniden katıl",
     "Ranked_DelMar_HeaderName": "ROCKET RACING",
     "Ranked_BattleRoyale_SeasonNameOverride": "Sıfırıncı Sezon",
     "Ranked_BlastBerry_SeasonNameOverride": "Sıfırıncı Sezon",
     "Ranked_Figment_SeasonNameOverride": "Sıfırıncı Sezon",
-    "BlackoutTimeCountdownFormat": "{0} Sonra Kapanacak",
     "Ranked_Matchmaking_ReadyUpWelcome": "{0} hoş geldin"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "Gizli Öğe",
     "MemoryTestResults_Summary_HighestMemoryLocation": "En Yüksek Bellek Kullanılan Konum: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "En Yüksek Bellek Kullanımı: {MemoryValue}/{MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "En Yüksek Bellek Kullanımı: {MemoryValue}/{MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "Bellek Hesaplama Sonuç Özeti",
     "MemoryTestResults_Summary_NumLocationsSampled": "Örneklenen Konum Sayısı: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "{0} referans zinciri işleniyor",
     "MemoryTestResults_Summary_Result": "Sonuç: {0}",
     "MemoryTestResults_Summary_Result_Success": "BAŞARILI",
     "MemoryTestResults_TopTotalExclActors_Header": "Top Actors by Total Exclusive Size",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "{0}. Sınıf",
     "Game": "Oyun",
     "TeamScoreboardNameFormat": "{0}. Takım",
-    "JoinInProgressTooLate": "Katılmaya çalıştığın oyun çoktan bitti.",
-    "UnableToFindSpawnPoint": "Doğma noktası bulunamıyor."
+    "JoinInProgressTooLate": "Katılmaya çalıştığın oyun çoktan bitti."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "ÖDÜL:",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "%{0} Ekstra*"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "({0}* ile denk)",
-    "RealPriceFormat_AdditionalText": "({0}** ile denk)",
+    "RealPriceFormat": "({0} ile denk*)",
+    "RealPriceFormat_AdditionalText": "({0} ile denk**)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**Mevcut olduğunda tam {0} V-Papel satın almak için {1} miktarında ödeme yapman gerekir. Bu platformda tam miktarda satın alım desteklenmiyor.",
     "RealPriceLegalFormat_AdditionalText": "**Tam {0} V-Papel satın almak için {1} miktarında ödeme yapman gerekir.",
-    "ExactPackLegalText": "*Görünen ekstra V-Papel yüzdesi, 1.000 V-Papel paketinin ücretiyle karşılaştırılmıştır.",
+    "BonusAmountLegalFormat_Amount": "*Görünen ekstra V-Papel bonusu, {0} paketinin ücretiyle karşılaştırılmıştır.",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*Görünen ekstra V-Papel yüzdesi ve bonusu, {0} paketinin ücretiyle karşılaştırılmıştır.",
+    "BonusAmountLegalFormat_PercentageLegacy": "*Görünen ekstra V-Papel yüzdesi, {0} V-Papel paketinin ücretiyle karşılaştırılmıştır.",
+    "BonusAmountLegalFormat_Percentage": "*Görünen ekstra V-Papel yüzdesi, {0} paketinin ücretiyle karşılaştırılmıştır.",
     "RealPriceLegalFormat_NoExactAmount": "*Mevcut olduğunda tam {0} V-Papel satın almak için {1} miktarında ödeme yapman gerekir. Bu platformda tam miktarda satın alım desteklenmiyor.",
     "RealPriceLegalFormat": "*Tam {0} V-Papel satın almak için {1} miktarında ödeme yapman gerekir.",
+    "ExactAmountOfferTitleText": "Tam Miktar Teklifi",
+    "NonRefundableVBucksLegalText": "V-Papel paketleri iade edilemez.",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "Denetlenen ayarlar indirilemedi.",
     "QueryKeychainFailedMsg": "Veri anahtar zinciri indirmesi başarısız oldu",
     "GuestLoginNotAllowed": "Misafir hesapları Fortnite oynayamayabilir. Lütfen devam etmek için başka bir Xbox ağı hesabıyla giriş yap.",
-    "WorkspaceManagerInitFailed": "Çalışma Alanı Yöneticisinin Başlatılması Başarısız Oldu",
     "InitializingEpicParty": "Epic Partisi başlatılıyor...",
     "RegisterUsabilityExperiment": "Kullanılabilirlik ayarları başlatılıyor...",
     "LeavingParty": "Gruptan çıkılıyor...",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "{0}. Takım",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>PROGRAM OLUŞTUR</>",
+    "PlayScheduleTitle": "<Strong>PROGRAMI OYNA</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "Her gün",
     "PlaytimeScheduleFriday": "Cuma",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "Zaman Aralığı",
     "TuesdayPlaytimeCollection_Name": "Salı",
     "PlaytimeReports_Description": "Her hafta çocuğunuzun Fortnite ve Fortnite İçin Unreal Editor'da (UEFN) geçirdiği süreye bakabilirsiniz.\n\nBu seçeneği Açık olarak ayarlarsanız bu bilgiyi haftalık olarak e-posta alabilirsiniz.",
-    "WednesdayPlaytimeCollection_Name": "Çarşamba"
+    "WednesdayPlaytimeCollection_Name": "Çarşamba",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} (Basılı Tut)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "İnşa Malzemelerini Otomatik Sakla",
     "AutoSetQuality_Action": "Otomatik Ayarla",
     "AutoSetQuality_Name": "Otomatik Kalite Ayarlama",
+    "AutomaticallyApplyXP_Name": "Otomatik Uygulama - İnsan TP'si",
     "DynamicResolution_Description": "Ekran kartı yüküne bağlı olarak 3D çözünürlüğü otomatik olarak ayarlar. Ekran kartı kullanımı düşükken çözünürlük, standart çözünürlüğe yükselir. Ekran kartı kullanımı yüksekken çözünürlük, Minimum 3D Çözünürlük ayarlarına düşer.",
     "AutoSetQuality_Description": "Donanımının özelliklerine göre görüntü kalitesi ayarlarını otomatik olarak yapılandırır.",
     "EditConfirmOnRelease_Description_Switch": "Düğme bırakılınca düzenleme eylemini otomatik olarak onaylar.",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "Düğme bırakılınca düzenlemeyi sıfırlama eylemini otomatik olarak onaylar.",
     "ResetConfirmOnRelease_Description_PS4_PS5": "Düğme bırakılınca düzenlemeyi sıfırlama eylemini otomatik olarak onaylar.",
     "ResetConfirmOnRelease_Description": "Düğme/tuş bırakılınca düzenlemeyi sıfırlama eylemini otomatik olarak onaylar.",
+    "AutomaticallyApplyXP_Description": "Mevcut İnsan TP'lerini kullanarak etkin kahraman dizilimindeki kahramanlara ve savunmacılara, ayrıca ekiplerindeki felaketzedelere otomatik olarak seviye atlat.",
     "AutoMulchMode_Traps_Description": "Bu nadirlikteki veya nadirliği daha düşük tuzak şemalarını otomatik olarak geri dönüştür.",
     "AutoMulchMode_Weapons_Description": "Bu nadirlikteki veya nadirliği daha düşük silah şemalarını otomatik olarak geri dönüştür.",
     "AutoMulchMode_Defenders_Description": "Bu nadirlikteki veya nadirliği daha düşük savunmacıları otomatik olarak emekliye ayır.",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "Buton Grubu",
     "QuickWeaponButtonGroup_Name_XB1": "Buton Grubu",
     "QuickWeaponButtonGroup_Name_XSX": "Buton Grubu",
+    "ButtonHoldTime_Name": "Düğme Basılı Tutma Süresi",
     "ControllerButtonMappingCollection_Name": "Düğme Atamaları",
     "TouchButtonPulseAnimation_Name": "Buton Sinyal Animasyonu",
     "GyroCalibrationContext_Name": "Kalibrasyon",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "El Konsolu Modu Jiroskop Alanı",
     "MobileVibration_Name": "Dokunmatik",
     "ControllerHardwareCollection_Name": "Donanım",
-    "EnableHardwareRayTracing_Name": "Donanım Işın İzleme",
-    "EnableHardwareRayTracing_Description": "Donanım Işın İzleme, daha yüksek kalitede Lumen küresel aydınlatma ve yansıma sunar ancak performansı düşürebilir.",
     "GyroTighteningThreshold_Description": "Oyun kumandan çok yavaş dönerken jiroskop hedefleme hızını azaltarak nişan alışını sabitlemene yardımcı olur. Sınır, sıkılaştırma etkisinin devre dışı kalması için oyun kumandasının ne kadar hızlı dönmesi gerektiğini (saniye başına derece cinsinden) belirler. Bu etki, sınırı 0'a ayarlayarak tamamen devre dışı bırakılabilir. Jiroskop Ölü Alanı, bu sınıra eklenir. Böylece Sıkılaştırma, ikisi de etkinken ölü alanın dışına çıkarken daha yumuşak biri geçiş sağlar.",
     "AutoMulchMode_Heroes_Name": "Kahramanlar",
     "HiddenMatchmakingDelay_Name": "Gizli Eşleştirme Gecikmesi",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "Düşük Girdi Gecikmesi Modu",
     "GlobalIlluminationEpic": "Destansı Lumen",
     "ReflectionsEpic": "Destansı Lumen",
-    "Lumen is disabled": "Lumen Küresel Aydınlatma veya Yansımalar etkinleştirilmelidir.",
     "GlobalIlluminationHigh": "Yüksek Lumen",
     "ReflectionsHigh": "Yüksek Lumen",
     "LumenUnavailableInGameMode": "Lumen bu oyun modunda mevcut değil.",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "Hızlı Silah",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "R2'nin Bırakılması",
     "GyroTrackballDecay_Description": "Jiroskop iztopu için yavaşlama oranı (yalnızca X ekseni Jiroskop Düğmesi ve Y ekseni Jiroskop Düğmesi için İZTOPU seçeneklerinin davranışını etkiler).",
+    "LumenRequiresRayTracing": "Işın İzleme bu platformda desteklenmiyor.",
     "AnnualRefundTokenRequests_Name": "Son Satın Alımlar",
     "TSRRecommended": "Önerilen",
     "ReplayRecordingCreativeMode_Name": "Kreatif Tekrarlarını Kaydet",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "Güvenli Bölge",
     "AutoMulchCollection_Name": "Dünyayı Kurtar - Otomatik Geri Dönüştür/Emekliye Ayır",
+    "PeopleXPCollection_Name": "Dünyayı Kurtar - Otomatik Olarak TP Uygula",
     "CombatTweakZone_Scope": "Nişan Al",
     "GyroActiveMode_Scope": "Yalnızca Dürbündeyken",
     "MouseScopedMultiplier_Name": "Dürbün Hassaslığı",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "Lumen'i etkinleştirmek için \"Görüntü Oluşturma Modu\" ayarı \"DirectX 12\" olarak ayarlanmalı.",
     "NaniteRequiresD3D12": "Nanite'ı etkinleştirmek için \"Görüntü Oluşturma Modu\" ayarı \"DirectX 12\" olarak ayarlanmalı.",
     "FilterMatureLanguage_Warning": "Uygunsuz dil filtresi 13 yaşından küçük oyuncularda her zaman açık olacaktır.",
+    "ButtonHoldTime_Description": "Dokunmatik ekran kullanırken bir düğmeye basılı tutmanın seçilmesine neden olacağı süre (saniye cinsinden). Yalnızca UEFN'de yapılan deneyimler için geçerlidir",
     "KeyboardMovementBackwardDiagonal_Description": "Klavyeyle geri çapraz harekete girerken koşulacak açı.",
     "KeyboardMovementForwardDiagonal_Description": "Klavyeyle ileri çapraz harekete girerken koşulacak açı.",
     "KeyboardMovementStrafeDiagonal_Description": "Klavyeyle yanlara koşarken kullanılacak açı.",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0} Saniye",
     "GyroButtonHoldTime_Display": "{0} Saniye",
     "GyroSmoothWindowTime": "{0} Saniye",
+    "LongPressTime_FormattedLabelText": "{0} Saniye",
     "LookBoostAccelerationTimeAds_Format": "{0} Saniye",
     "LookBoostAccelerationTime_Fortmat": "{0} Saniye",
     "LookEaseTime_Format": "{0} Saniye",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0} Saniye",
     "SlideButtonHoldTime": "{0} Saniye",
     "BrightnessFormat": "%{0}",
+    "PercentFormat": "%{0}",
     "ResolutionScalePercent": "%{0}",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "HER GÜNE ÖZEL",
     "SettingOff": "KAPALI",
     "SettingSameEveryDay": "HER GÜN AYNI"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "KAPALI",
+    "SettingOn": "AÇIK",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "HAYIR",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "Sprey"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "{0} sürümünden {1} sürümüne veri taşınamadı (Aktör={2})"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "Oyun",
     "LoadingNameKey": "İsim alınıyor",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes} DK {Seconds} SN",
     "WeeksFormatText": "{Weeks} H {Days} G"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "ÇİFTLİ",
-    "SubGameMode.LTMSolo": "TEKLİ",
-    "SubGameMode.LTMSquads": "EKİPLİ"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(İndirilmesi Gerekiyor)",
     "Message.Error": "Bir hata oluştu.",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "Farklı Takımlar",
     "DuosTeam": "Çiftli",
     "Message.EstimatedTimeRemaining": "Kalan Tahmini Süre: {0}",
-    "Fill": "DOLDUR",
     "TeamFill": "Doldur",
     "Message.FindingMatchNoETA": "Maç bulunuyor...\nGeçen Süre: {0}",
     "Message.FindingMatch": "Maç bulunuyor...\nGeçen Süre: {0}, Tahmini Bekleme Süresi: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "Eşleştirme hatası (#4)",
     "Message.ETANotAvailable": "Yok",
     "Message.ModeNew": "YENİ MOD GELDİ!",
-    "NoFill": "DOLDURMA",
     "NoTeamFill": "Doldurma",
     "Header.NotMatchmaking": "Eşleştirilemiyor",
     "Message.CanMatchmakeSoloNewStyle": "OYNA",
     "Message.CanMatchmakeSolo": "OYNA!",
-    "Private": "ÖZEL",
-    "Public": "HERKESE AÇIK",
     "Header.PartyError": "Grup Hatası",
     "Header.Preparing": "Hazırlanıyor...",
     "PrivateMatch": "Özel",
     "PublicMatch": "Herkese Açık",
     "Message.QueueFull": "Sıra var, lütfen bekle...\nGeçen Süre: {0}",
     "Message.PlayersInQueue": "Kuyruktaki oyuncular: {0}\nGeçen Süre: {1}",
-    "Ranked": "DERECELİ",
-    "RankedOff": "DERECELİ: KAPALI",
-    "RankedOn": "DERECELİ: AÇIK",
     "Message.CanReJoinGame": "YENİDEN KATIL",
     "Message.CanMatchmakeParty": "HAZIR!",
     "PartySameTeamShort": "Aynı Takım",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "Sunucu bekleniyor...",
     "Message.WaitingForReadyFormat_Two": "{0} ve {1} adlı oyuncuların hazırlanması bekleniyor...",
     "Message.WaitingForReadyFormat_More": "{0} oyuncunun daha hazırlanması bekleniyor...",
-    "Message.WaitingForReadyFormat_Single": "{0} adlı oyuncunun hazırlanması bekleniyor...",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "%{0}"
+    "Message.WaitingForReadyFormat_Single": "{0} adlı oyuncunun hazırlanması bekleniyor..."
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "Haberler"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "Oyuna katılma talebin reddedildi. Lütfen birazdan tekrar dene.",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "{0} Turnuvası"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "İnşa",
+    "BuildModeTitle": "İnşa / Sıfır İnşa",
+    "TeamSize2": "Çiftli",
+    "Fill": "Doldur",
+    "NoFill": "Doldurma",
+    "TeamSize8": "Sekizli",
+    "Off": "Kapalı",
+    "On": "Açık",
+    "RankedDescription": "Performansın dereceni etkiler",
+    "UnrankedDescription": "Performansın dereceni etkilemez",
+    "ZeroBuildModeDescription": "İnşasız oyna",
+    "BuildModeDescription": "İnşalı oyna",
+    "TeamSize5": "Beşli",
+    "Ranked": "Dereceli",
+    "TeamSize6": "Altılı",
+    "TeamSize1": "Tekli",
+    "TeamSize4": "Ekipli",
+    "SquadFillTitle": "Takım Doldurma",
+    "TeamSizeTitle": "Takım Boyutu",
+    "TeamSizeDescription1": "Takımlar 1 oyuncuyla sınırlıdır",
+    "TeamSizeDescription2": "Takımlar 2 oyuncuyla sınırlıdır",
+    "TeamSizeDescription3": "Takımlar 3 oyuncuyla sınırlıdır",
+    "TeamSizeDescription4": "Takımlar 4 oyuncuyla sınırlıdır",
+    "TeamSizeDescription5": "Takımlar 5 oyuncuyla sınırlıdır",
+    "TeamSizeDescription6": "Takımlar 6 oyuncuyla sınırlıdır",
+    "TeamSizeDescription8": "Takımlar 8 oyuncuyla sınırlıdır",
+    "TeamSize3": "Üçlü",
+    "Unranked": "Derecesiz",
+    "FillDescription": "Takımın eşleştirme başlamadan önce doldurulur",
+    "NoFillDescription": "Takımın sadece grubundaki oyunculardan oluşur",
+    "ZeroBuildMode": "Sıfır İnşa"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "Geçersiz arka uç istendi! Çıkılıyor."
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "Açıldığında, üstünde durulan modifiye edilmiş silahlar açıklamaları yerine yalnızca simgelerini gösterir."
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</> maçı kazandı!"
+    "WinnerGameFormat": "<WinnerName>{0}</> maçı kazandı!",
+    "SuspendKick": "Uzun süre boşta beklediğin için atıldın."
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "Bilinmeyen Bir Sebepten Devre Dışı"
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "Grup Daveti",
     "GroupInviteDescription": "{0} seni bir gruba davet etti"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "Tüm HLTv2 ayarlarını Özelleştirilebilir Kullanıcı Arayüzüne taşı"
   },
   "HUD": {
     "Cancel": "İptal",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "Güç Seviyen ve KASK niteliklerin arttı.",
     "MemberJoinedToastTitle": "{0} takıma katıldı"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "Görünümde düzenleyici komutunu çalıştır"
-  },
   "MessageDispatcher": {
     "UnknownError": "{ChannelName} kanalında, {MessageName} mesajıyla ilgili bilinmeyen bir hata oluştu",
     "ChannelNotValid": "HATA: Kanal artık \"{MessageName}\" mesajı için geçerli değil. Kanal Yok olarak güncelleniyor.",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "Set Olgusu",
     "SetFactTemplate": "Olgu Şablonu Belirle",
-    "SetFactText": "Olgu Metni Belirle"
+    "FactArrayTextFormat": "{0} Olguları"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "{0} Temsilcisi için bağımsız değişken türü uyumsuzluğu, 0 bağımsız değişkeni ve Kendisi olgusunu belirtir. İfade: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "{0} döndürme türü ({1}) çözülerek olguya dönüştürülemedi. İfade: {2}",
     "CouldntFindFact": "{0} adında hiçbir olgu bulunamadı",
     "CouldntGenerateConditionalToken": "Koşullu jeton üretilemedi",
+    "CouldntGenerateLoopToken": "Döngü jetonu oluşturulamadı",
     "CouldntParseConditionalSymbol": "Koşullu sembol ayrıştırılamadı",
+    "CouldntParseLoopSymbol": "Döngü simgesi ayrıştırılamadı",
     "InvalidDelegateObject_3": "{0} temsilci olgusu geçerli bir olgu türü döndürmüyor. İfade: {1}",
     "InvalidDelegateObject_2": "{0} temsilci olgusu, {1} nesnesi için geçerli bir fonksiyona veya ada bağlı değil. İfade: {2}",
     "InvalidDelegateObject_1": "{0} temsilci olgusu geçerli bir nesneye bağlı değil. İfade: {1}",
     "DelegateRecursionExceeded": "{0} temsilcisinin özyineleme derinliği aşıldı. İfade: {1}",
     "InfiniteDelegateRecursionDetected": "{0} temsilcisinde sonsuz temsilci özyinelemesi tespit edildi. İfade: {1}",
     "ExpectedQuote": "\" bekleniyor",
+    "ExpectedIn": "{% içindeki element için element isminden sonra \"in\" bekleniyor...",
     "ExpectedElseIfCondition": "{% else if  %} içinde durum ifadesi bekleniyor",
     "ExpectedIfCondition": "{% if  %} içinde durum ifadesi bekleniyor",
+    "ExpectedElement": "{% ifadesinden sonra şunun için bir element adı bekleniyor: ",
+    "ExpectedForElseInnerTemplate": "{% else %} ve {% endfor %} arasında başka şablon bekleniyor",
     "ExpectedElseInnerTemplate": "{% else %} ve {% endif %} arasında başka şablon bekleniyor",
     "ExpectedInnerTemplate": "İç şablon bekleniyor",
     "ExpectedClosingBrace": "Uyumlı olgu ifadesinin } karakterinin kapanması bekleniyor",
+    "ExpectedForLoop": "{% for  %} içinde durum ifadesi bekleniyor",
+    "ExpectedWhitespaceAfterIn": "{% içindeki \"in\" ifadesinden sonra boşluk bekleniyor...",
     "InvalidFact_1": "İfadede referans alınan {0} (Hata: {1}) geçersiz olgu: {2}",
     "InvalidFact_2": "İfadede referans alınan {0} geçersiz olgu: {1}",
     "InvalidDelegateParamCall": "{0} temsilcisine yapılan, bağımsız değişkenleri kabul etmeyen parametre haline getirilmiş çağrı geçersiz. İfade: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "Şablon özyineleme derinliği aşıldı. İfade: {0}",
     "TooManyArgs": "{0} çağrılırken çok fazla parametre mevcut. İfade: {1}",
     "UnexpectedElseAfterElse": "Önceki başka öğeden sonra beklenmedik başka öğe engeli",
+    "UnexpectedElseAfterElseInFor": "Önceki başka öğeden sonra beklenmedik başka öğe engeli",
     "UnexpectedElseIfAfterElse": "Önceki başka öğeden sonra engel varsa beklenmedik başka öğe",
     "EOSExpectedConditionEnd": "Akış beklenmedik şekilde bitti. ' %}' kapanması bekleniyor",
+    "EOSExpectedLoopEnd": "Akış beklenmedik şekilde bitti. ' %}' kapanması bekleniyor",
+    "EOSExpectedEndFor2": "Akış beklenmedik şekilde bitti. {% endfor %} kapanması bekleniyor",
     "EOSExpectedEndIf2": "Akış beklenmedik şekilde bitti. {% endif %} kapanması bekleniyor",
+    "EOSExpectedEndFor1": "Akış beklenmedik şekilde bitti. İç şablon ve {% endfor %} kapanışı bekleniyor",
     "EOSExpectedEndIf1": "Akış beklenmedik şekilde bitti. iç şablon ve {% endif %} kapanışı bekleniyor",
     "ExpectedOpenBrace": "\"{0}\" jetonu beklenmedik şekilde {1} konumunda: {2} temsilci olgusundan sonra, ifadeyle: {3}",
     "UnexpectedFactExprToken": "\"{0}\" jetonu beklenmedik şekilde {1} konumunda: {2} olgu ifadesiyle: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "Eşleşmeyen ifade kapanıyor }"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "Sohbet Tamamlayıcı Değişikliği",
-    "RunEnginePromptTooltip": "Yanıtı değerlendirmek için Monolog \"Motor\" Alt Sistemi'ni kullanarak komutu gir",
-    "RunWorldPromptTooltip": "Yanıtı değerlendirmek için Monolog \"Dünya\" Alt Sistemi'ni kullanarak komutu gir",
-    "RefreshPreviewTooltip": "Şablonları yeniden düzeltmeye zorla (örneğin, dinamik temsilci olgularını yeniden değerlendirmek)",
-    "PromptNameLabel": "İsim",
+    "LabelChatCompleterOverride": "Sohbet Tamamlayıcı Değişikliği",
+    "TooltipChatCompleterOverride": "Yanıt oluşturmak için kullanılacak sohbet tamamlayıcısı. Belirlenmezse Monolog Motoru Alt Sistemi'nin *varsayılan sohbet tamamlayıcısı* kullanılır.",
+    "LabelPromptName": "İsim",
+    "ButtonNavigateToSystemMessage": "Sistem Mesajına Git (Ctrl + Alt + Yukarı Ok)",
+    "ButtonNavigateToUserMessage": "Kullanıcı Mesajına Git (Ctrl + Alt + Yukarı Ok)",
+    "ButtonNavigateToNextFact": "Sonraki Olguya Git (Ctrl + Alt + Sağ Ok)",
+    "ButtonNavigateToPreviousFact": "Önceki Olguya Git (Ctrl + Alt + Sol Ok)",
+    "SetChatCompleterClassOverride": "Sohbet Tamamlayıcısını Geçersiz Kıl",
     "PromptPreviewSettings": "Komut Önizleme Ayarları",
     "PromptResponse": "Komut Yanıtı",
-    "SavePreviewTooltip": "Tekrar test etmek için önizleme ayarlarını öğeye kaydet",
-    "SetMPChatCompleterOverride": "Monolog Komutu Sohbet Tamamlayıcı Değişikliği Belirle",
+    "ButtonRefreshFacts": "Olguları Yenile. Örn. Editörlerin temel modellerini temizle.",
+    "ButtonRunPrompt": "Bir yanıt oluşturmak için Monolog *Dünya* veya (*Motor*) alt sistemini kullanarak komutu çalıştır",
+    "ButtonSavePreview": "Tekrarlanan test için önizleme ayarlarını öğeye kaydet",
     "SetPromptName": "Komut Adı Belirle",
     "SetPromptPreviewSettings": "Komut Önizleme Ayarlarını Belirle",
-    "SetPromptSystemMessage": "Komut Sistem Mesajı Şablonu Belirle",
-    "SetPromptUserMessage": "Komut Kullanıcı Mesajı Şablonu Belirle",
-    "SystemMessageLabel": "Sistem Mesajı",
-    "CompleterOverrideTooltip": "Bu talep için kullanılacak Sohbet Tamamlayıcı'yı belirler. Belirlenmezse Monolog Motoru Alt Sistemi'nin varsayılan sohbet tamamlayıcısı kullanılır.",
-    "UserMessageLabel": "Kullanıcı Mesajı",
-    "WrapSystemMessageToolTip": "Metni Kaydır",
-    "WrapUserMessageToolTip": "Metni Kaydır"
+    "SetSystemMessageTemplate": "Sistem Mesajı Şablonu Belirle",
+    "SetUserMessageTemplate": "Kullanıcı Mesajı Şablonu Belirle"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "Veri Kayıt Defteri Olgu Temsilcisi - Veri Kayıt Defteri'nde \"{0}\" adında hiçbir olgu bulunamadı.",
     "NoDRSubsystem": "Veri Kayıt Defteri Olgu Temsilcisi - Veri Kayıt Defteri Alt Sistemi kullanılamıyor, lütfen Veri Kayıt Defteri eklentisinin etkinleştirildiğinden emin ol.",
     "InvalidDRFactItemId": "Veri Kayıt Defteri Olgu Temsilcisi - \"{0}\" Veri Kayıt Defteri Öğesi Kimlik Dizesi, geçerli bir veri kayıt defteri öğesi kimliği değil.",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "Yanlış ilk U Monolog Bileşeni, etkinlik ayrıntılarını almak için Ortak Algılanan Etkinlikler'e geçti!",
     "FirstPersonName_My": "Benim",
     "NameNoSubject": "Hiçbir I Monolog Özne Arayüzü, ismini almak için özneye geçmedi!",
     "ObservedNameNoSubject": "Hiçbir I Monolog Özne Arayüzü, ismini almak için özneye geçmedi!",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "{0} oyuncusunun"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "Geçersiz Arama Yüksekliği, Yakındaki Özne'ye geçti. Arama Yüksekliği > 0 olmalı",
+    "NearbySubjectsInvalidSearchRadius": "Geçersiz Arama Yarıçapı, Yakındaki Özne'ye geçti. Arama Yarıçapı > 0 olmalı",
+    "NearbySubjectsNoActor": "Yakındaki Özne'ye geçen Monolog Bileşeni'nin mesafesini kontrol etmek için Sahibi yok.",
+    "NearbySubjectsNoSelf": "Hiçbir U Monolog Bileşeni, Yakındaki Özne'ye geçmedi",
     "SmartObjectBehaviorsNoSelf": "Hiçbir U Monolog Bileşeni, Akıllı Nesne Davranışları'na geçmedi",
+    "SpatialContextNoSelf": "Hiçbir U Monolog Bileşeni, Uzamsal Bağlam'a geçmedi",
     "SmartObjectBehaviorsNoPawn": "Akıllı Nesne Davranışları - Bu özneden piyon alınamadı",
     "SpatialContextNoPawn": "Uzamsal Bağlam - Bu özneden piyon alınamadı"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "Ateş Et",
     "SecondaryActionName": "Yakınlaştır"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "Derecesiz"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "Yeni bir set açmak için {LevelRequired}. seviyeye ulaş",
     "Offer_CanUnlockSet": "Ödülleri almaya başlamak için bu seti aç"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "{Date} tarihinde açılır."
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "Tüm {IndexPage}. sayfa ödüllerini al.",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "Gizli anahtar bekleniyor"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "{0}. Sezon'un sezon numarası geçersiz. Beklenen {1} (geçen sezon +1) olmalıyken {2} görünüyor."
+    "InvalidSeasonDependencies": "{0} öğesine referans veren sezon, bağımlılığını getiremedi.",
+    "InvalidSeasonNumber": "{0}. Sezon'un sezon numarası geçersiz. Beklenen {1} (geçen sezon +1) olmalıyken {2} görünüyor.",
+    "IncompatibleSeasonNumber": "{0}. Sezon, {1} bağımlılığını doğrulamaya çalışıyor. Bahsettiği sezona ({3}) kıyasla daha büyük bir Sürüm Versiyonu'na ({2}) sahip.",
+    "InvalidObjectDef": "{0}. Sezon, {1} bağımlılığını doğrulamaya çalışıyor. Bir UFortItemDefinition olması gerekiyordu ama değildi."
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "Açabileceğin <text size=\"18\">{0}</> {0}|plural(one=Hediye,other=Hediye) Kaldı",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "Fortnite oynadığın için teşekkürler!",
     "PurchaseHeader": "{0}|plural(one=Eşya,other=Eşya) Alındı"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "Parça Ekle",
+    "AddTrack_ToolTip": "Yeni bir aksiyon parçası oluştur"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "Kaydet",
+    "SavePrompts_ToolTip": "Komut Sağlayıcılarını Kaydet"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "Tüm Gösterge Paneli Düzen Aracı Ayarlarını Özelleştirilebilir Kullanıcı Arayüzüne Taşı",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Tüm HLTv2 ayarlarını yeni özelleştirilebilir kullanıcı arayüzü altyapısına taşımak için HLTv2'den Özelleştirilebilir Kullanıcı Arayüzüne Taşıyıcı Araç'ı açar."
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "Uzamsal Profil Oluşturucu'yu Aç",
+    "OpenSpatialProfiler_ToolTip": "Uzamsal Profil Oluşturucu Sekmesini Aç"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "Silah Modernleştirme Aracı'nı aç",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "Kilidini açmak için tüm {CategoryName} ödüllerini al.",
     "CategoryStatus_LockedRewardLevelFormat": "Kilidini açmak için {NumRewards} ödül daha al VEYA {NumLevels} aşama kazan.",
-    "CategoryStatus_LockedUntilLevel": "Bu seti açmak için {LevelRequired}. seviyeye ulaş",
-    "Status_LockedDateLockedFormat": "{Date} tarihinde açılır."
+    "CategoryStatus_LockedUntilLevel": "Bu seti açmak için {LevelRequired}. seviyeye ulaş"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "Kilidini açmak için tüm {CategoryName} ödüllerini al.",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "Araç Sesi Kozmetik Veri Seçici Dönüştürücü Çalıştır",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "Araç Kozmetik Eşyası Eşya Tanımı Ses Seçici Dönüştürücü Çalıştır"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "Birden Fazla Değer"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "Öğe bir eşya tanımı değil",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Fort Vehicle Cosmetics Preview Actor",
     "CanCreateActorFrom_InvalidAsset": "Geçersiz öğe",
     "CanCreateActorFrom_InvalidAssetClass": "Geçersiz öğe sınıfı"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "Geçersiz",
+    "MultipleValues": "Birden Fazla Değer"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Fort Vehicle Cosmetics Variant Token",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "Koltuk Değiştir",
     "SwitchToWeapon": "Silaha Geç"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "Hiçbiri"
   },
   "VkAnimNode": {
     "FADEINLEFT": "Soldan Yavaşça Açılma",
@@ -11715,6 +11845,9 @@
     "OutBoundError": "Konuşma sıfırlamanın başka bir görevinin olmasına izin verilmiyor"
   },
   "VkSpeechNode": {
+    "OutBoundError": "Bu nokta, aynı türdeki başka noktalara veya Yeniden Başlatma noktalarına bağlanamıyor."
+  },
+  "VkSpeechRandomVariantNode": {
     "OutBoundError": "Bu nokta, aynı türdeki başka noktalara veya Yeniden Başlatma noktalarına bağlanamıyor."
   },
   "VkTextCrawlNode": {

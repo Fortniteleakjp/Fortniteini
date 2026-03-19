@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "Menu gry",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Sparks, ogólne"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Wył.</>: emotki taneczne będą animowane z normalną prędkością, a muzyka emotki zagłuszy ścieżkę jamową.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Wł.</>: emotki taneczne zsynchronizują się z rytmem ścieżki jamowej, a muzyka emotki zostanie wyciszona.",

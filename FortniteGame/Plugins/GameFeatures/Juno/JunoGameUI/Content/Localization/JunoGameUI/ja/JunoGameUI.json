@@ -207,6 +207,9 @@
     "CaveLocationText": "<text color=\"088899\">位置:</> ？？？",
     "LocationRichText": "<text color=\"088899\">位置:</> {0}, {1}, {2}"
   },
+  "JunoInteraction": {
+    "Conversation": "{0}と話す"
+  },
   "StringTable_Juno_Announcements": {
     "QuestCompleted": "<Subheading20_60p>チャレンジ</>\r\nクリア！",
     "Permadeath": "<Subheading20_60p>撃破されると</>\r\n復活できません",

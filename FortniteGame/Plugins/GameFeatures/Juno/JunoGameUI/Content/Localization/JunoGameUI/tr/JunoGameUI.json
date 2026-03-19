@@ -207,6 +207,9 @@
     "CaveLocationText": "<text color=\"088899\">Konum:</> ???",
     "LocationRichText": "<text color=\"088899\">Konum:</> {0}, {1}, {2}"
   },
+  "JunoInteraction": {
+    "Conversation": "{0} ile konuş"
+  },
   "StringTable_Juno_Announcements": {
     "QuestCompleted": "<Subheading20_60p>Görev</>\nTAMAMLANDI!",
     "Permadeath": "<Subheading20_60p>Avlanırsan</>\nYENİDEN DOĞAMAZSIN",

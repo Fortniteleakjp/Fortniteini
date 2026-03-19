@@ -207,6 +207,9 @@
     "CaveLocationText": "<text color=\"088899\">Loc:</> ???",
     "LocationRichText": "<text color=\"088899\">Loc:</> {0}, {1}, {2}"
   },
+  "JunoInteraction": {
+    "Conversation": "Talk to {0}"
+  },
   "StringTable_Juno_Announcements": {
     "QuestCompleted": "<Subheading20_60p>Challenge</>\r\nCOMPLETE!",
     "Permadeath": "<Subheading20_60p>Eliminations are</>\r\nPERMANENT",

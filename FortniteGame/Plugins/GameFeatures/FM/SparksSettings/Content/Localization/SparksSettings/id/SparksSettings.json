@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "Menu Game",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Sparks Umum"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Nonaktif</>: Emot dansa akan diputar dengan kecepatan normal, dan musik emot akan diputar menimpa Lagu Jamming.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Aktif</>: Emot dansa akan disinkronkan dengan irama Lagu Jamming, dan musik emot akan dibisukan.",

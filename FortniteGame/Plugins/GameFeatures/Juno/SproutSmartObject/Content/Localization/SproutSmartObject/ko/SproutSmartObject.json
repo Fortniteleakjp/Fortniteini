@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "조사",
     "CF6195BE44741B679B03A7970B0904F5": "조사",
     "B8C80B5041E5FBA2635752B2A5271479": "상호작용",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "LLM 옵션...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "LLM 옵션...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "LLM 옵션...",
     "AEB376F240A55432B193BC8797FF5AE9": "LLM 옵션...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "LLM 옵션...",
     "9D19804447678A4A92E82F9AC04AEAA8": "들어 올리기",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "창고 가득 참",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "네 번째 옵션을 1~2단어로 간단하게 요약한 텍스트입니다.",
+    "OptionTwo_ShortText": "두 번째 옵션을 1~2단어로 간단히 표시한 라벨입니다.",
+    "OptionSix_ShortText": "여섯 번째이자 마지막 옵션을 1~2단어로 짧게 요약한 내용입니다.",
+    "OptionOne_ShortText": "첫 번째 옵션을 1~2단어로 아주 짧게 요약한 내용입니다. 이것은 플레이어가 선택 메뉴에서 보게 되는 문장입니다.",
+    "OptionFive_ShortText": "다섯 번째 옵션을 1~2단어로 표시하는 UI 라벨입니다.",
+    "OptionTwo_FullText": "플레이어가 'OptionTwo'를 선택하면 말하게 되는 전체 대사입니다.",
+    "OptionFour_FullText": "플레이어가 'OptionFour'를 선택하면 말하게 되는 전체 대사입니다.",
+    "OptionOne_FullText": "플레이어가 'OptionOne'을 선택했을 때 말하게 되는 전체 대사로, 짧은 텍스트를 확장한 내용입니다.",
+    "OptionSix_FullText": "플레이어가 'OptionSix'를 선택하면 말하게 되는 전체 대사입니다.",
+    "OptionThree_FullText": "플레이어가 'OptionThree'를 선택하면 말하게 되는 전체 대사입니다.",
+    "OptionFive_FullText": "플레이어가 'OptionFive'를 선택하면 말하게 되는 전체 문장입니다.",
+    "OptionThree_ShortText": "세 번째 옵션을 1~2단어로 짧게 요약한 텍스트입니다."
   }
 }

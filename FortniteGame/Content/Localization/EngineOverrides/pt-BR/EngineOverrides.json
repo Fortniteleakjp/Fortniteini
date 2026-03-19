@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "Gerenciador de Arquivos"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "AVISO: este perfil de GPU foi encontrado com o V-sync habilitado. O tempo de espera do V-sync pode aparecer em qualquer intervalo e, como resultado, os dados do perfil podem ser danificados. Desabilite o V-sync para obter dados mais precisos."
-  },
   "InputKeys": {
     "Acceleration": "Aceleração",
     "Ampersand": "E Comercial",

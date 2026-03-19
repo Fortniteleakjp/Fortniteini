@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Les données n'ont pas pu être récupérées pour la texture de hauteur ; l'initialisation a échoué.",
     "TextureInitFailed": "Les données n'ont pas pu être récupérées pour cette texture ; l'initialisation a échoué.",
+    "FailExtractGrassTypeOverrides": "Échec d'extraction des remplacements de type d'herbe.",
+    "MissingGrassName": "Le nom du type d'herbe est manquant ; échec de l'étiquetage des données. Assurez-vous que tous les GrassTypes de votre matériau de paysage sont associés à une ressource.",
     "LandscapeComponentLost": "Référence à un ou plusieurs composants de paysage perdu(s) ; les mappages d'herbe ne seront pas générés."
   }
 }

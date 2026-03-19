@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "تعذر استرجاع بيانات إكساء الارتفاع، وفشلت التهيئة.",
     "TextureInitFailed": "تعذر استرجاع بيانات هذا الإكساء، وفشلت التهيئة.",
+    "FailExtractGrassTypeOverrides": "فشل استخلاص تجاوزات نوع العشب.",
+    "MissingGrassName": "اسم نوع العشب مفقود، ولا يمكن تصنيف البيانات. تأكد أن جميع أنواع العشب في مواد التضاريس لديك مرتبطة بعنصر مناسب.",
     "LandscapeComponentLost": "هناك مرجع أو أكثر مفقود من مكونات التضاريس، فلن يتم توليد خرائط العشب."
   }
 }

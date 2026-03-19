@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "File Manager"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "ATTENZIONE: Questo profilo è stato registrato con V-synch attivo.  Il tempo di attesa di V-sync può apparire in qualsiasi bucket. Di conseguenza i dati in questo profilo possono essere distorti. Profila con V-sync disattivato per avere dati più accurati."
-  },
   "InputKeys": {
     "Acceleration": "Accelerazione",
     "Ampersand": "E commerciale",

@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "Token Penyelesaian Pencapaian",
     "48008F3445314E50326D9FB086B9189F": "Token Penyelesaian Pencapaian",
     "FC7458584E93A2CCE3222B9CB21FFF51": "Token Penyelesaian Pencapaian",
+    "647B590E4A6D893A4E58DB921F805840": "Aktivitas",
     "9FEF179645D8A343518563AEFE302A2A": "Aktivitas",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "Quest tambahan untuk Driftwalker.",
     "C0AD274548543104E8F3ABB507431A91": "Quest tambahan untuk Paket Quest Penjaga Goldenbane",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "Buat plugin kosong untuk proyek Juno.",
     "E806A3B84B22DDCF92AAF2B4C829173": "Buat plugin fitur game, untuk FNE, untuk menampung DefinisiItem. FNE akan ditambahkan secara otomatis, jadi cukup namai dengan nama kode dan kamu sudah siap. Contoh: FooBar akan menjadi FNEFooBar!",
     "37C405BC468E03254AB82CB18FD5CF98": "Buat Plugin Skenario KAMP baru",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "Buat plugin Makhluk baru untuk proyek Juno.",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "Buat Perangkat baru untuk Mode Kreatif",
     "9E0FC24F423F8F20BB5934B8F479E56B": "Buat Perangkat Fabric baru untuk Mode FNE.",
     "5E0375C044B7B6205FA5AABD6B429116": "Buat Plugin Fitur Game Fortnite Baru Dengan Kode (Akan memerlukan modifikasi tambahan pada file kode sebelum dapat digunakan tanpa kesalahan).",
     "633C71E243C17F5070573DB8EA470FBD": "Buat Plugin Fitur Game Fortnite Baru dengan Kode + Modul UI (Akan memerlukan modifikasi tambahan pada file kode sebelum dapat digunakan tanpa kesalahan).",
     "D5255BA645C1DCF04D17019E061BAB8A": "Buat Plugin Fitur Game Fortnite baru dengan konten dasar.",
+    "A4A0F4E74285005A28C88FBBB31AD140": "Buat plugin Gameplay baru untuk proyek Curiobox.",
     "92B3DC974E94F5CA36482B9DB3343CF2": "Buat plugin Gameplay baru untuk proyek Juno.",
-    "A4A0F4E74285005A28C88FBBB31AD140": "Buat plugin Gameplay baru untuk proyek Tunas.",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "Buat Plugin Skenario Juno CAMP baru",
     "D5255BA645C1DCF04D17019E061BAB7A": "Buat Plugin Fitur Game Root baru.",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "Buat Plugin Fitur Game Fortnite baru yang kosong. Hanya berisi aset GameFeatureData.",
     "D4034010418FF429289586AC5F972D77": "Buat plugin kosong untuk konten UI Fitur Gameplay BR terbaru",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "Voyager Crossbone",
     "54743E7F439EF3489ADB5689670DEFFE": "Tantangan Operasi Tanda Silang",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "Tantangan Roti Peluk",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "Templat Plugin Gameplay Curiobox",
     "EF9405A043B0E869255F438176090428": "Token Penyelesaian Kartu Pons Harian",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "Pendukung Tarian",
     "FEA5CDF84F86CFEEDCFFD69726390294": "Menimbulkan <Emphasized>damage lebih tinggi</> saat <Emphasized>HP rendah</>.",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Senapan Serbu Diperkuat  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "SMG Ringkas yang Diperkuat",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Senapan Gentel Diperkuat",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Senapan Harpun yang Diperkuat",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Senapan Gentel Taktis yang Diperkuat",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "Masuk ke Meriam",
     "E6F1B9FF470A284E11AF6F891FE7D098": "Masuk ke Meriam",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "Senjata Api Jarak Jauh Pistol PeluruBerat SemiOtomatis",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Senjata Api Jarak Jauh Pistol PeluruBerat SemiOtomatis",
     "2D37E97E43724ABA040D5DB07530962F": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
     "9EA74A7A4C987B0D9D927EB133619716": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
     "BF1FF2F14FDC8846B569E7966543F17B": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "Senapan Berburu",
     "D29EE9294C3C6ACC03577885D6B34262": "Senapan Berburu",
     "DFD2853F433A8DA06177BFAAF22D0CED": "Senapan Berburu",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "Melemparkan granat yang memukul mundur semua pemain di sekitar saat meledak.",
     "88E97DAD4C1AB681AF821394106303DF": "Melemparkan granat yang menempel pada pemain musuh atau alam.",
     "9F773C444680E58D8F932EA37E5F0581": "Melemparkan granat yang menempel pada pemain musuh atau alam.",
     "90F8ED68488FD4B3343C46A4B7131E87": "Melemparkan granat yang mengeluarkan awan beracun yang dapat melukai musuh di dalamnya. Sebaiknya menyingkir!",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "Meningkatkan <Emphasized>laju tembakan</> pada semua teknologi",
     "842064DD4CCAF532392128861286DD02": "Meningkatkan <Emphasized>akurasi</> hip-fire untuk semua senjata",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "Granat Impuls",
+    "CFEA70984FEAE95DC388B0AC8B919432": "Granat Impuls",
     "FB4BDD7B494F39753C6778979CD662CC": "Di Udara: Lompat untuk Menarget",
     "80D8948A44365AE1A9D3DB9925A43A2B": "Meningkatkan <Emphasized>kecepatan gantole</>",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "Meningkatkan <Emphasized>damage tembakan kepala</>, tapi mengurangi <Emphasized>damage tubuh</>",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "Alas Lompat (Berarah)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "Alas Lompat (Atas)",
     "251E3DE8412479479C227D821FAAC425": "Plugin Juno Kosong",
-    "38DE538C495F59868887E890EC3FD597": "Skenario Juno CAMP",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "Templat Plugin Makhluk Juno",
     "105342A546779B970DC46E80183052FE": "Templat Plugin Gameplay Juno",
     "EF22E85B49A871DF9C133DA1F84B3900": "JunoTG (Game Bertema)",
     "FDA97C5F4842CB9AE5195393C8759F84": "JunoTM (Tema Minimal)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "Kingsman yang bisa <Emphasized>menahan lebih banyak</> damage yang datang",
     "330D995D4F99BB677CE5FF8643A9B17A": "Senapan Gentel Charge Kit",
     "A01D19E14ACA958C292350B0BDD893E8": "KnockGrenade UtilityItem Grenade",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "KnockGrenade UtilityItem Grenade",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "Koleksi Aset LEGO Metaverse",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "Komposisi Aset LEGO Metaverse",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} Swimming{swimming} Montage{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "Pemain",
     "291AD5F7469E20890EFCD288976C3A9B": "Token Kelayakan Survei Pemain",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PemainPionAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "XP Waktu Bermain Didapatkan!",
     "14164C9D434D02CF6E737F8644740969": "XP Waktu Bermain Didapatkan!",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "Ranjau Jarak Dekat",
     "FE97DA514506C8282ACCE59BFD3A562C": "Ranjau Jarak Dekat",
     "EB7FCBAD49E466CA687372AC079CF68B": "Ranjau Jarak Dekat +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Menarik musuh kepadamu dan menimbulkan damage.",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "Senapan Gentel Pompa",
     "EF0917D448D388C00D296F8E62FF2DC4": "Senapan Gentel Pompa +",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "Senapan Gentel Pompa dengan <Emphasized>damage tembakan kepala yang ditingkatkan</>",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "Padamkan apinya!",
     "4253CE934E3EFF13CA95C787B6D46641": "Beri tepuk tangan untuk Erisa, Juara Tenis Musim Panas di Pulau!",
     "43088BA143F2B6BCAEE378847172BE8C": "Quadcrasher",
+    "CC13E7A44B19B6541560D085C426791D": "Quadcrasher",
     "24034CD84B1D10C83560F8902AF33DC2": "Quest",
     "280019E146742BEA12E9E897FA18D7D4": "Quest",
     "31F60738447C00A236E84A89CEB3B03A": "Quest",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "Pakai kayu untuk menyalakan api unggun hangat dan memulihkan diri!",
     "654EA602493B038AED40358E6100A5F7": "Pakai kayu untuk menyalakan api unggun hangat dan memulihkan diri!",
     "CD5B0A744223502F67BABD81B1230D5D": "Cat Semprot",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "Templat Plugin Gameplay Sprout",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (Game Bertema)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "Permintaan Skuad",
     "459B35F94D969E08A4D1109E18B98C2F": "Senjata <Emphasized>pertarungan jarak dekat</> versi standar.",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "Fokus pada target",
     "TiltAngleIndicator": "Derajat Kemiringan {0}"
   },
+  "AIActionSequence": {
+    "AppLabel": "Urutan Aksi AI",
+    "AIActionSequenceTab": "AIActionSequence",
+    "AddTrack": "Tambahkan Trek AI",
+    "DeleteAction": "Hapus Aksi AI",
+    "DeleteTrack": "Hapus Trek AI"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "Buka di Editor Urutan Aksi AI",
+    "OpenAIActionSequencesEditor_Tooltip": "Buka aset ini di Editor Urutan Aksi AI."
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "Buka Alat Editor Prompt",
+    "PromptEditorTool": "Alat Editor Prompt",
+    "PromptEditorToolTabTitle": "Alat Editor Prompt"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "Setidaknya satu anggota dari timmu sudah memilih untuk meninggalkan pertandingan ini karena ada pemain yang menghilang.",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "Urutan Aksi AI",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0} m",
     "LongestKillDistanceText": "{0} m"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "Hari Ini",
-    "NumberOfDays": "{NumDays} {0}|plural(one=Hari,other=Hari)"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "Tempatkan  Penanda",
     "PlaceDangerMarkerDoubleTap": "Taruh Penanda Bahaya (Ketuk Dua Kali)",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "total waktu GPU : {GPUTimeMS} md",
     "DrawCalls": "total panggilan gambar : {DrawCalls}",
     "NumPrimitives": "total primitif yang digambar : {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nPenggunaan Memori: {1} / {2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nPenggunaan Memori: {1} / {2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\nPenggunaan Memori: {1} / {2}"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "Tereliminasi"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "Bersiap untuk Pertandingan Selanjutnya",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "Bersiap!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "Bersiap dengan tim baru.",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "Tanding Ulang",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "Tanding Ulang dengan Tim",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "Laporkan Pemain",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "Kembali ke Lobi",
     "KeepPlayingTogether.PartyMemberOptedOutText": "Beberapa anggota kelompok tidak memberikan suara untuk tetap bersama tim",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "{0} penonton mendengarkan"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "Kamu punya aset LEGO® yang tumpang tindih di dalam proyekmu. Ini melanggar pedoman LEGO®. Semua aset yang tumpang tindih harus diatasi. Kalau tidak, proyekmu berisiko gagal pada tahap moderasi.\nAktor {0} tumpang tindih dengan {1} aktor lain:",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}Aktor {1} tumpang tindih dengan {2} aktor lain:"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "Gagal membuat resolver paket konten",
     "InvalidStateRequested": "Kesalahan beacon konten internal\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "Kesalahan saat bergabung",
+    "ServicesUnavailable": "Layanan kami sedang mengalami penuh saat ini.  Coba lagi dalam beberapa saat.\n {ShortErrorCode}",
     "PackageResolveFlowCancelled": "Alur kontrol resolver paket dibatalkan karena alasan yang tidak diketahui.",
     "ProjectDuplicationErrorTitle": "Kesalahan Duplikasi Proyek",
     "RequestInvalid": "Format permintaan salah {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "Server nonaktif secara tak terduga. Silakan coba lagi\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "Server nonaktif secara tak terduga. Silakan coba lagi\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "Editor Urutan Aksi AI"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "Plugin HLTv2ToCustomizableUI",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "SpatialProfiler",
     "WeaponModernizationEditorCommands": "Alat Modernisasi Senjata"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "Pemain dengan layar terpisah tidak bisa bersiap, login sebagai pemain primer untuk mengubah pengaturan crossplay"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "Ukuran",
+    "CopyOfCustomLayoutProfile": "{0} Salinan",
+    "CopyOfLayoutPreset": "{0} Salinan"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0 Menit",
     "AllowedTimeNoLimit": "Tanpa Batas",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "Singkirkan AI di Sekitar",
     "DebugCommand_EndGame_DisplayName": "Akhiri Game",
     "DebugCommand_EndRound_DisplayName": "Akhir Ronde",
+    "DebugCommand_Flight_DisplayName": "Terbang",
     "DebugCommand_GiveGold_DisplayName": "Tingkatkan Sumber Daya Emas",
     "DebugCommand_AddPlayerScore_DisplayName": "Tingkatkan Skor",
     "DebugCommand_PauseRound_DisplayName": "Jeda Timer Ronde",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "Ransel",
     "Badge": "Lencana",
     "Badge_Plural": "Lencana",
+    "SparksBass": "Bas",
+    "SparksBass_Plural": "Bas",
     "Buff": "Buff",
     "BuffCredit": "Buff",
     "BuffCredit_Plural": "Buff",
     "Buff_Plural": "Buff",
+    "JunoBuildingSet": "Bangunan",
     "BuildingPiece": "Bagian Bangunan",
     "BuildingPiece_Plural": "Bagian Bangunan",
+    "JunoBuildingSet_Plural": "Bangunan",
     "ItemCache": "Cache",
     "ItemCache_Plural": "Cache",
     "CodeToken": "CodeToken",
@@ -3506,12 +3548,16 @@
     "Currency": "Mata Uang",
     "DailyRewardScheduleToken": "Imbalan Harian",
     "DailyRewardScheduleToken_Plural": "Imbalan Harian",
+    "JunoBuildingProp": "Dekorasi",
     "Deco": "Item Dekorasi",
     "Deco_Plural": "Item Dekorasi",
+    "JunoBuildingProp_Plural": "Dekorasi",
     "Defender": "Pembela",
     "Defender_Plural": "Pembela",
     "DeployableBaseCloudSave": "Markas yang Bisa Dikerahkan",
     "DeployableBaseCloudSave_Plural": "Markas yang Bisa Dikerahkan",
+    "SparksDrums": "Drum",
+    "SparksDrums_Plural": "Drum",
     "EditTool": "Alat Edit",
     "EditTool_Plural": "Alat Edit",
     "Emote": "Emot",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "Pengubah Gameplay",
     "Glider": "Gantole",
     "Glider_Plural": "Gantole",
+    "SparksGuitar": "Gitar",
+    "SparksGuitar_Plural": "Gitar",
     "Hero": "Hero",
     "Hero_Plural": "Hero",
     "HomebaseBannerIcon": "Banner Pangkalan",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "Banner Pangkalan",
     "Ingredient": "Bahan",
     "Ingredient_Plural": "Bahan",
+    "SparksKeyboard": "Keytar",
+    "SparksKeyboard_Plural": "Keytar",
     "CosmeticShoes": "Sepatu",
     "CosmeticShoes_Plural": "Sepatu",
     "LoadingScreen": "Layar Muat",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "Jarahan",
     "WeaponMelee": "Senjata Jarak Dekat",
     "WeaponMelee_Plural": "Senjata Jarak Dekat",
+    "SparksMicrophone": "Mikrofon",
+    "SparksMicrophone_Plural": "Mikrofon",
     "MissionItem": "Item Misi",
     "MissionItem_Plural": "Item Misi",
     "Music": "Musik",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "Ingatkan Aku Nanti",
     "EmoteConfirmDesc": "Emot Boogie Down akan tiba di akunmu dalam waktu 24 jam!"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "Kelola Gelombang",
-    "InitialWave": "Gelombang [ 0 ] - Gelombang Awal"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "Konfigurasi Pengaturan Editor Plugin Keterlibatan.",
-    "EngagementsEditorProjectSettingsName": "Editor Keterlibatan"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "Tidak Bisa Berinteraksi",
     "InteractionMessage": "Interaksi"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "Editor CTA",
     "ConditionalTransitionEditorTabTooltip": "Buka Editor Aktor Transisi Bersyarat"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "Memeriksa Plugin",
+    "CustomizableUI": "UI yang Bisa Dikustom",
+    "HLTv2ToCustomizableUIMigratorTool": "Migrasikan pengaturan Semua HLTv2 ke UI yang Bisa Dikustom",
+    "FailedToWriteDescriptor": "Plugin '{0}' tidak bisa ditemukan"
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "Jongkok Saat Membangun (Ketuk) / Geser (Tahan)",
     "CrouchWhileEditing": "Jongkok Saat Mengedit (Ketuk) / Geser (Tahan)",
     "ToggleCursorMode": "Mode Kursor",
-    "Custom1(Fire)": "Input Kustom 1 (Tembak)",
     "CustomInput10(Right)": "Input Kustom 10 (Kanan)",
     "CustomInput11(PreviousItem)": "Input Kustom 11 (Item Sebelumnya)",
     "CustomInput12(NextItem)": "Input Kustom 12 (Item Selanjutnya)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "Input Kustom 16 (Ganti Inventaris)",
     "CustomInput17(SquadRequests)": "Masukan Khusus 17 (PermintaanSkuad)",
     "CustomInput18(Emote)": "Input Kustom 18 (Emot)",
-    "CustomInput2(Target)": "Input Kustom 2 (Target)",
-    "CustomInput3(Crouch)": "Input Kustom 3 (Jongkok)",
-    "CustomInput4(Jump)": "Input Kustom 4 (Lompat)",
-    "CustomInput5(Sprint)": "Input Kustom 5 (Lari Cepat)",
     "CustomInput6(Interact)": "Input Kustom 6 (Interaksi)",
     "CustomInput7(Forward)": "Input Kustom 7 (Maju)",
     "CustomInput8(Backwards)": "Input Kustom 8 (Mundur)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "Akses Awal",
-    "MapRotationMessage": "Peta Selanjutnya: {0}",
     "Ranked_Feral_ModeName": "Balistik Berperingkat",
     "Ranked_Figment_ModeName": "Fortnite OG Berperingkat",
     "Ranked_LTM_ModeName": "Mode Berbatas Waktu Berperingkat",
     "Ranked_DelMar_SeasonNameOverride": "Balapan Berperingkat",
     "Ranked_BlastBerry_ModeName": "Reload Berperingkat",
     "Ranked_BattleRoyale_ModeName": "{0} Berperingkat",
-    "ReJoinMessage": "Gabung kembali ke pertandingan yang sedang berlangsung untuk menghindari {0} Pembatasan Pencarian Lawan",
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "Musim Nol",
     "Ranked_BlastBerry_SeasonNameOverride": "Musim Nol",
     "Ranked_Figment_SeasonNameOverride": "Musim Nol",
-    "BlackoutTimeCountdownFormat": "Tidak tersedia di {0}",
     "Ranked_Matchmaking_ReadyUpWelcome": "Selamat datang di {0}"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "Aset Tersembunyi",
     "MemoryTestResults_Summary_HighestMemoryLocation": "Lokasi Memori Tertinggi: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "Penggunaan Memori Tertinggi: {MemoryValue} / {MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "Penggunaan Memori Tertinggi: {MemoryValue} / {MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "Ringkasan Hasil Perhitungan Memori",
     "MemoryTestResults_Summary_NumLocationsSampled": "Jumlah Lokasi Sampel: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "Memproses {0} rantai referensi",
     "MemoryTestResults_Summary_Result": "Hasil: {0}",
     "MemoryTestResults_Summary_Result_Success": "BERHASIL",
     "MemoryTestResults_TopTotalExclActors_Header": "Aktor Teratas berdasarkan Ukuran Eksklusif Total",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "Kelas {0}",
     "Game": "Game",
     "TeamScoreboardNameFormat": "Tim {0}",
-    "JoinInProgressTooLate": "Game yang akan kamu masuki sudah berakhir.",
-    "UnableToFindSpawnPoint": "Tidak bisa menemukan titik spawn"
+    "JoinInProgressTooLate": "Game yang akan kamu masuki sudah berakhir."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "IMBALAN:",
     "BluGloReward": "x{0}"
-  },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "{0}% Ekstra*"
   },
   "FortMtxStoreVM": {
     "RealPriceFormat": "(setara dengan {0}*)",
     "RealPriceFormat_AdditionalText": "(setara dengan {0}**)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**Untuk membeli tepat {0} V-Buck saat tersedia, kamu akan membayar {1}. Pembelian dalam jumlah persis tertentu tidak didukung di platform ini.",
     "RealPriceLegalFormat_AdditionalText": "**Untuk membeli tepat {0} V-Buck, kamu akan membayar {1}.",
-    "ExactPackLegalText": "*Persentase V-Buck ekstra ditampilkan sebagai perbandingan dengan harga paket 1.000 V-Buck.",
+    "BonusAmountLegalFormat_Amount": "*Bonus V-Buck ekstra ditampilkan sebagai perbandingan dengan harga paket {0}.",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*Persentase V-Buck ekstra dan bonus ditampilkan sebagai perbandingan dengan harga paket {0}.",
+    "BonusAmountLegalFormat_PercentageLegacy": "*Persentase V-Buck ekstra ditampilkan sebagai perbandingan dengan harga paket {0} V-Buck.",
+    "BonusAmountLegalFormat_Percentage": "*Persentase V-Buck ekstra ditampilkan sebagai perbandingan dengan harga paket {0}.",
     "RealPriceLegalFormat_NoExactAmount": "*Untuk membeli tepat {0} V-Buck saat tersedia, kamu akan membayar {1}. Pembelian dalam jumlah persis tertentu tidak didukung di platform ini.",
     "RealPriceLegalFormat": "*Untuk membeli tepat {0} V-Buck, kamu akan membayar {1}.",
+    "ExactAmountOfferTitleText": "Penawaran Jumlah Tepat",
+    "NonRefundableVBucksLegalText": "Paket V-Buck tidak dapat dikembalikan.",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "Gagal mengunduh Pengaturan yang Diawasi.",
     "QueryKeychainFailedMsg": "Gagal mengunduh keychain aset",
     "GuestLoginNotAllowed": "Akun tamu tidak bisa bermain Fortnite. Silakan masuk ke akun jaringan Xbox terpisah untuk melanjutkan.",
-    "WorkspaceManagerInitFailed": "Gagal Memulai Manajer Ruang Kerja",
     "InitializingEpicParty": "Menginisialisasi Kelompok Epic ...",
     "RegisterUsabilityExperiment": "Menginisialisasi pengaturan kegunaan ...",
     "LeavingParty": "Meninggalkan kelompok ...",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "Tim {0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>BUAT JADWAL</>",
+    "PlayScheduleTitle": "<Strong>JADWAL MAIN</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "Setiap hari",
     "PlaytimeScheduleFriday": "Jumat",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "Jendela Waktu",
     "TuesdayPlaytimeCollection_Name": "Selasa",
     "PlaytimeReports_Description": "Lihat berapa banyak waktu yang telah dihabiskan oleh anak Anda dalam Fortnite dan Unreal Editor for Fortnite (UEFN) setiap minggu.\n\nJika kamu mengaktifkan pengaturan ini, kamu juga dapat memilih untuk menerima email mingguan dengan informasi ini.",
-    "WednesdayPlaytimeCollection_Name": "Rabu"
+    "WednesdayPlaytimeCollection_Name": "Rabu",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} (Tahan)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "Sembunyikan Otomatis Material Bangunan",
     "AutoSetQuality_Action": "Atur Otomatis",
     "AutoSetQuality_Name": "Atur Kualitas Otomatis",
+    "AutomaticallyApplyXP_Name": "Penerapan Otomatis - XP Karakter",
     "DynamicResolution_Description": "Secara otomatis menyesuaikan resolusi 3D berdasarkan beban GPU. Saat penggunaan GPU rendah, resolusi akan meningkat ke resolusi asli. Saat penggunaan GPU tinggi, resolusi akan turun ke pengaturan Resolusi 3D Minimum.",
     "AutoSetQuality_Description": "Secara otomatis mengonfigurasi opsi kualitas grafis berdasarkan benchmark perangkat keras.",
     "EditConfirmOnRelease_Description_Switch": "Otomatis mengonfirmasi tindakan pengeditan saat Tombol dilepas.",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "Otomatis mengonfirmasi tindakan reset pengeditan saat Tombol dilepas.",
     "ResetConfirmOnRelease_Description_PS4_PS5": "Otomatis mengonfirmasi tindakan reset pengeditan saat tombol dilepas.",
     "ResetConfirmOnRelease_Description": "Otomatis mengonfirmasi pengeditan dan pengaturan ulang setelah tombol dilepas.",
+    "AutomaticallyApplyXP_Description": "Naikkan level Hero dan Pelindung di Set Tempur Heromu yang aktif, serta Penyintas di Skuadmu secara otomatis menggunakan XP Karakter yang tersedia",
     "AutoMulchMode_Traps_Description": "Secara otomatis mendaur ulang skema Perangkap jika selangka ini atau lebih langka.",
     "AutoMulchMode_Weapons_Description": "Secara otomatis mendaur ulang skema Senjata jika selangka ini atau lebih langka.",
     "AutoMulchMode_Defenders_Description": "Secara otomatis pensiunkan Pembela jika selangka ini atau lebih langka.",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "Grup Tombol",
     "QuickWeaponButtonGroup_Name_XB1": "Grup Tombol",
     "QuickWeaponButtonGroup_Name_XSX": "Grup Tombol",
+    "ButtonHoldTime_Name": "Waktu Tahan Tombol",
     "ControllerButtonMappingCollection_Name": "Pemetaan Tombol",
     "TouchButtonPulseAnimation_Name": "Animasi Getar Tombol",
     "GyroCalibrationContext_Name": "Kalibrasi",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "Ruang Gyro Mode Genggam",
     "MobileVibration_Name": "Haptik",
     "ControllerHardwareCollection_Name": "Perangkat Keras",
-    "EnableHardwareRayTracing_Name": "Ray Tracing Perangkat Keras",
-    "EnableHardwareRayTracing_Description": "Ray Tracing Perangkat Keras memungkinkan iluminasi global Lumen dan refleksi dengan kualitas yang lebih tinggi, tetapi dapat mengurangi performa.",
     "GyroTighteningThreshold_Description": "Membantu menjaga bidikanmu tetap stabil dengan mengurangi kecepatan bidikan gyro saat pengontrolmu berputar dengan sangat lambat. Ambang batas adalah seberapa cepat pengontrol perlu diputar untuk menonaktifkan efek pengetatan ini (dalam derajat per detik), dan efek ini dapat sepenuhnya dinonaktifkan dengan mengatur ambang batas ke 0. Zona Mati Gyro ditambahkan ke ambang batas ini sehingga jika keduanya diaktifkan, Pengencangan memberikan transisi yang mulus untuk keluar dari zona mati.",
     "AutoMulchMode_Heroes_Name": "Hero",
     "HiddenMatchmakingDelay_Name": "Jeda Pencarian Lawan yang Disembunyikan",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "Mode Latensi Input Rendah",
     "GlobalIlluminationEpic": "Lumen Epic",
     "ReflectionsEpic": "Lumen Epic",
-    "Lumen is disabled": "Lumen GI atau Refleksi harus diaktifkan.",
     "GlobalIlluminationHigh": "Lumen Tinggi",
     "ReflectionsHigh": "Lumen Tinggi",
     "LumenUnavailableInGameMode": "Lumen tidak tersedia dalam mode game ini",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "Senjata Cepat",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "Pelepasan R2",
     "GyroTrackballDecay_Description": "Tingkat perlambatan untuk trackball gyro (hanya memengaruhi perilaku opsi TRACKBALL untuk X-Axis Tombol Gyro dan Y-Axis Tombol Gyro).",
+    "LumenRequiresRayTracing": "Ray Tracing tidak didukung di platform ini.",
     "AnnualRefundTokenRequests_Name": "Pembelian Terkini",
     "TSRRecommended": "Direkomendasikan",
     "ReplayRecordingCreativeMode_Name": "Rekam Putar Ulang Kreatif",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "Zona Aman",
     "AutoMulchCollection_Name": "Selamatkan Dunia - Daur Ulang/Pensiun Otomatis",
+    "PeopleXPCollection_Name": "Selamatkan Dunia - Terapkan XP Secara Otomatis",
     "CombatTweakZone_Scope": "Teropong",
     "GyroActiveMode_Scope": "Hanya Teropong",
     "MouseScopedMultiplier_Name": "Sensitivitas Teropong",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "Pengaturan 'Mode Rendering' harus diatur ke 'DirectX 12' untuk mengaktifkan Lumen.",
     "NaniteRequiresD3D12": "Pengaturan 'Mode Rendering' harus diatur ke 'DirectX 12' untuk mengaktifkan Nanite.",
     "FilterMatureLanguage_Warning": "Filter Bahasa Vulgar suara selalu aktif untuk pemain di bawah usia 13 tahun.",
+    "ButtonHoldTime_Description": "Jumlah durasi (dalam detik) saat menahan tombol yang akan membuatnya dipilih saat menggunakan layar sentuh. Hanya berlaku untuk pengalaman bermain yang dibuat di UEFN",
     "KeyboardMovementBackwardDiagonal_Description": "Sudut untuk berlari saat memasukkan diagonal mundur dengan keyboard.",
     "KeyboardMovementForwardDiagonal_Description": "Sudut untuk berlari saat memasukkan diagonal maju dengan keyboard.",
     "KeyboardMovementStrafeDiagonal_Description": "Sudut untuk berlari saat bergerak menyamping dengan keyboard.",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0} Detik",
     "GyroButtonHoldTime_Display": "{0} Detik",
     "GyroSmoothWindowTime": "{0} Detik",
+    "LongPressTime_FormattedLabelText": "{0} Detik",
     "LookBoostAccelerationTimeAds_Format": "{0} Detik",
     "LookBoostAccelerationTime_Fortmat": "{0} Detik",
     "LookEaseTime_Format": "{0} Detik",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0} Detik",
     "SlideButtonHoldTime": "{0} Detik",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0}%",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "DIKUSTOMISASI SETIAP HARI",
     "SettingOff": "NONAKTIF",
     "SettingSameEveryDay": "SAMA SETIAP HARI"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "NONAKTIF",
+    "SettingOn": "AKTIF",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "TIDAK",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "Cat Semprot"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "Gagal melakukan migrasi data dari versi {0} ke {1} (Actor={2})"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "Game",
     "LoadingNameKey": "Mendapatkan nama",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes}M {Seconds}D",
     "WeeksFormatText": "{Weeks}Ming {Days}Hari"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "DUO",
-    "SubGameMode.LTMSolo": "SOLO",
-    "SubGameMode.LTMSquads": "SKUAD"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(Memerlukan Pengunduhan)",
     "Message.Error": "Terjadi kesalahan.",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "Tim Berbeda",
     "DuosTeam": "Duo",
     "Message.EstimatedTimeRemaining": "Estimasi Sisa Waktu: {0}",
-    "Fill": "ISI",
     "TeamFill": "Isi",
     "Message.FindingMatchNoETA": "Mencari pertandingan ...\nWaktu terlampaui: {0}",
     "Message.FindingMatch": "Mencari pertandingan...\nWaktu terlampaui: {0}, ETA: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "Kesalahan pencarian lawan (#4)",
     "Message.ETANotAvailable": "N/A",
     "Message.ModeNew": "MODE BARU TERSEDIA!",
-    "NoFill": "TIDAK ADA ISI",
     "NoTeamFill": "Tidak Ada Isi",
     "Header.NotMatchmaking": "Tidak dalam Pencarian Lawan",
     "Message.CanMatchmakeSoloNewStyle": "MAIN",
     "Message.CanMatchmakeSolo": "MAINKAN!",
-    "Private": "PRIVAT",
-    "Public": "PUBLIK",
     "Header.PartyError": "Kesalahan Kelompok",
     "Header.Preparing": "Bersiap ...",
     "PrivateMatch": "Privat",
     "PublicMatch": "Publik",
     "Message.QueueFull": "Antrean penuh, harap tunggu...\nWaktu berlalu: {0}",
     "Message.PlayersInQueue": "Pemain yang mengantre: {0}\nWaktu terlampaui: {1}",
-    "Ranked": "BERPERINGKAT",
-    "RankedOff": "PERINGKAT: NONAKTIF",
-    "RankedOn": "PERINGKAT: AKTIF",
     "Message.CanReJoinGame": "GABUNG KEMBALI",
     "Message.CanMatchmakeParty": "SIAP!",
     "PartySameTeamShort": "Tim yang Sama",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "Menunggu server ...",
     "Message.WaitingForReadyFormat_Two": "Menunggu {0} dan {1} untuk bersiap...",
     "Message.WaitingForReadyFormat_More": "Menunggu {0} pemain lagi untuk bersiap...",
-    "Message.WaitingForReadyFormat_Single": "Menunggu {0} untuk bersiap...",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "Menunggu {0} untuk bersiap..."
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "Berita"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "Permintaanmu untuk bergabung dalam game telah ditolak. Silakan coba lagi nanti.",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "Turnamen {0}"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "Build",
+    "BuildModeTitle": "Build/Zero Build",
+    "TeamSize2": "Duo",
+    "Fill": "Isi",
+    "NoFill": "Tidak Ada Isi",
+    "TeamSize8": "Oktet",
+    "Off": "Nonaktif",
+    "On": "Aktif",
+    "RankedDescription": "Performa akan memengaruhi peringkatmu",
+    "UnrankedDescription": "Performa tidak akan memengaruhi peringkatmu",
+    "ZeroBuildModeDescription": "Bermain dengan membangun dinonaktifkan",
+    "BuildModeDescription": "Bermain dengan membangun diaktifkan",
+    "TeamSize5": "Kuintet",
+    "Ranked": "Berperingkat",
+    "TeamSize6": "Enam Sekawan",
+    "TeamSize1": "Solo",
+    "TeamSize4": "Skuad",
+    "SquadFillTitle": "Pengisian Tim",
+    "TeamSizeTitle": "Ukuran Tim",
+    "TeamSizeDescription1": "Tim dibatasi sebanyak 1 pemain",
+    "TeamSizeDescription2": "Tim dibatasi sebanyak 2 pemain",
+    "TeamSizeDescription3": "Tim dibatasi sebanyak 3 pemain",
+    "TeamSizeDescription4": "Tim dibatasi sebanyak 4 pemain",
+    "TeamSizeDescription5": "Tim dibatasi sebanyak 5 pemain",
+    "TeamSizeDescription6": "Tim dibatasi sebanyak 6 pemain",
+    "TeamSizeDescription8": "Tim dibatasi sebanyak 8 pemain",
+    "TeamSize3": "Trio",
+    "Unranked": "Tak masuk peringkat",
+    "FillDescription": "Tim kamu akan diisi sebelum pencarian lawan dimulai",
+    "NoFillDescription": "Tim kamu hanya akan terdiri dari pemain dalam kelompokmu",
+    "ZeroBuildMode": "Zero Build"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "Backend yang diminta tidak valid! Keluar."
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "Saat aktif, senjata yang dimodifikasi hanya akan menampilkan ikon ketimbang deskripsi."
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</> memenangkan pertandingan!"
+    "WinnerGameFormat": "<WinnerName>{0}</> memenangkan pertandingan!",
+    "SuspendKick": "Dikeluarkan karena ditangguhkan terlalu lama."
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "Dinonaktifkan untuk Alasan yang Tidak Diketahui."
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "Undangan Grup",
     "GroupInviteDescription": "{0} mengundangmu bergabung ke grup"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "Migrasikan pengaturan semua HLTv2 ke UI yang Bisa Dikustom"
   },
   "HUD": {
     "Cancel": "Batalkan",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "Level Daya dan stat FORT kamu meningkat saat ini.",
     "MemberJoinedToastTitle": "{0} telah bergabung dalam tim"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "Menjalankan perintah editor pada Pakaian"
-  },
   "MessageDispatcher": {
     "UnknownError": "Terjadi kesalahan yang tidak diketahui dengan {MessageName} pada {ChannelName}",
     "ChannelNotValid": "KESALAHAN: Saluran tidak lagi valid untuk \"{MessageName}\", kembali ke Tanpa Saluran.",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "Tetapkan Fakta",
     "SetFactTemplate": "Atur Templat Fakta",
-    "SetFactText": "Atur Teks Fakta"
+    "FactArrayTextFormat": "{0} Fakta"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "Ketidaksesuaian tipe argumen untuk delegasi {0} antara argumen 0 yang diimplikasikan dan fakta Self. Ekspresi: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "Tidak dapat mendekode {0} tipe pengembalian ({1}) ke fakta. Ekspresi: {2}",
     "CouldntFindFact": "Tidak ditemukan fakta bernama {0}",
     "CouldntGenerateConditionalToken": "Tidak bisa menghasilkan token bersyarat",
+    "CouldntGenerateLoopToken": "Tidak bisa menghasilkan token loop",
     "CouldntParseConditionalSymbol": "Tidak bisa menguraikan simbol bersyarat",
+    "CouldntParseLoopSymbol": "Tidak dapat menguraikan simbol loop",
     "InvalidDelegateObject_3": "Delegasi fakta {0} tidak mengembalikan tipe fakta yang valid. Ekspresi: {1}",
     "InvalidDelegateObject_2": "Delegasi fakta {0} tidak terikat pada nama fungsi yang valid untuk objek {1}. Ekspresi: {2}",
     "InvalidDelegateObject_1": "Delegasi fakta {0} tidak terikat pada objek yang valid. Ekspresi: {1}",
     "DelegateRecursionExceeded": "Kedalaman rekursi delegasi {0} terlampaui. Ekspresi: {1}",
     "InfiniteDelegateRecursionDetected": "Terdeteksi rekursi tak terbatas dalam delegasi {0}. Ekspresi: {1}",
     "ExpectedQuote": "Diperlukan \"",
+    "ExpectedIn": "Diperlukan 'in' setelah nama elemen di {% untuk elemen di ...",
     "ExpectedElseIfCondition": "Diperlukan ekspresi kondisi dalam {% else if  %}",
     "ExpectedIfCondition": "Diperlukan ekspresi kondisi dalam {% if  %}",
+    "ExpectedElement": "Diperlukan nama elemen setelah {% untuk ",
+    "ExpectedForElseInnerTemplate": "Diperlukan adanya templat else antara {% else %} dan {% endfor %}",
     "ExpectedElseInnerTemplate": "Diperkirakan adanya templat else antara {% else %} dan {% endif %}",
     "ExpectedInnerTemplate": "Diperkirakan adanya templat bagian dalam",
     "ExpectedClosingBrace": "Diperlukan kurung tutup kurawal } yang cocok dalam ekspresi fakta",
+    "ExpectedForLoop": "Diperlukan rentang ekspresi dalam {% for  %}",
+    "ExpectedWhitespaceAfterIn": "Diperlukan Spasi setelah 'in' di {% untuk elemen di ...",
     "InvalidFact_1": "Fakta tidak valid {0} (Kesalahan: {1}) dirujuk dalam ekspresi: {2}",
     "InvalidFact_2": "Fakta tidak valid {0} dirujuk dalam ekspresi: {1}",
     "InvalidDelegateParamCall": "Pemanggilan dengan parameter tidak valid ke delegasi {0} yang tidak menerima argumen. Ekspresi: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "Kedalaman rekursi templat terlampaui. Ekspresi: {0}",
     "TooManyArgs": "Terlalu banyak parameter dalam pemanggilan ke {0}. Ekspresi: {1}",
     "UnexpectedElseAfterElse": "Else block tidak terduga setelah else sebelumnya",
+    "UnexpectedElseAfterElseInFor": "Else block tidak terduga setelah else sebelumnya",
     "UnexpectedElseIfAfterElse": "Else if block tidak terduga setelah else sebelumnya",
     "EOSExpectedConditionEnd": "Pengakhiran stream tak sesuai. Diperlukan penutupan ' %}'",
+    "EOSExpectedLoopEnd": "Pengakhiran stream tak terduga. Diperlukan penutupan ' %}'",
+    "EOSExpectedEndFor2": "Pengakhiran stream tak terduga. Diperlukan penutupan {% endfor %}",
     "EOSExpectedEndIf2": "Pengakhiran stream tak terduga. Diperlukan penutupan {% endif %}",
+    "EOSExpectedEndFor1": "Pengakhiran stream tak terduga. Diperlukan adanya templat bagian dalam dan penutupan {% endfor %}",
     "EOSExpectedEndIf1": "Pengakhiran stream tak terduga. Diperkirakan adanya templat bagian dalam dan penutupan {% endif %}",
     "ExpectedOpenBrace": "Token tak terduga \"{0}\" @ {1}:{2} setelah fakta delegasi, dalam ekspresi: {3}",
     "UnexpectedFactExprToken": "Token tak terduga \"{0}\" @ {1}:{2} dalam ekspresi fakta: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "Kurung tutup kurawal } tidak memiliki pasangan yang sesuai"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "Timpa Penyelesai Obrolan",
-    "RunEnginePromptTooltip": "Jalankan petunjuk menggunakan Subsistem *Engine* Monolog untuk mengevaluasi respons",
-    "RunWorldPromptTooltip": "Jalankan petunjuk menggunakan Subsistem *World* Monolog untuk mengevaluasi respons",
-    "RefreshPreviewTooltip": "Paksa pembuatan ulang fakta pada templat (misalnya, untuk mengevaluasi kembali fakta delegasi dinamis)",
-    "PromptNameLabel": "Nama",
+    "LabelChatCompleterOverride": "Timpa Penyelesai Obrolan",
+    "TooltipChatCompleterOverride": "ChatCompleter yang akan digunakan untuk menghasilkan respons. Jika tidak ditentukan, *penyelesai obrolan default* Subsistem Mesin Monolog yang akan digunakan.",
+    "LabelPromptName": "Nama",
+    "ButtonNavigateToSystemMessage": "Navigasi ke Pesan Sistem (Ctrl + Alt + Panah Atas)",
+    "ButtonNavigateToUserMessage": "Navigasi ke Pesan Pengguna (Ctrl + Alt + Panah Atas)",
+    "ButtonNavigateToNextFact": "Navigasi ke Fakta berikutnya (Ctrl + Alt + Panah Kanan)",
+    "ButtonNavigateToPreviousFact": "Navigasi ke Fakta sebelumnya (Ctrl + Alt + Panah Kiri)",
+    "SetChatCompleterClassOverride": "Timpa ChatCompleter",
     "PromptPreviewSettings": "Pengaturan Pratinjau Petunjuk",
     "PromptResponse": "Respons Petunjuk",
-    "SavePreviewTooltip": "Simpan pengaturan pratinjau ke aset untuk pengujian ulang",
-    "SetMPChatCompleterOverride": "Atur Penimpaan MonologuePrompt ChatCompleter",
+    "ButtonRefreshFacts": "Refresh Fakta, yaitu menghapus model dasar yang digunakan Editor.",
+    "ButtonRunPrompt": "Jalankan petunjuk menggunakan subsistem *Dunia* atau (*Mesin*) Monolog untuk menghasilkan respons",
+    "ButtonSavePreview": "Simpan pengaturan pratinjau ke aset untuk pengujian ulang",
     "SetPromptName": "Atur Nama Petunjuk",
     "SetPromptPreviewSettings": "Atur Pengaturan Pratinjau Petunjuk",
-    "SetPromptSystemMessage": "Atur Templat Pesan Sistem Petunjuk",
-    "SetPromptUserMessage": "Atur Templat Pesan Pengguna Petunjuk",
-    "SystemMessageLabel": "Pesan Sistem",
-    "CompleterOverrideTooltip": "UChatCompleter yang akan digunakan untuk permintaan ini. Jika tidak ditentukan, 'penyelesai obrolan default' Subsistem Mesin Monolog yang akan digunakan.",
-    "UserMessageLabel": "Pesan Pengguna",
-    "WrapSystemMessageToolTip": "Pemindahan Otomatis Teks",
-    "WrapUserMessageToolTip": "Pemindahan Otomatis Teks"
+    "SetSystemMessageTemplate": "Atur Templat Pesan Sistem",
+    "SetUserMessageTemplate": "Atur Templat Pesan Pengguna"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "Delegasi Fakta DataRegistry - Tidak ditemukan fakta bernama \"{0}\" dalam Registri Data.",
     "NoDRSubsystem": "Delegasi Fakta DataRegistry - Subsistem Registri Data tidak tersedia, pastikan plugin DataRegistry diaktifkan.",
     "InvalidDRFactItemId": "Delegasi Fakta DataRegistry - DataRegistryItemIdString \"{0}\" bukan id item registri data yang valid.",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "UMonologueComponent Pertama yang tidak valid diteruskan ke MutuallyPerceivedEvents untuk mengambil detail event!",
     "FirstPersonName_My": "Milikku",
     "NameNoSubject": "Tidak ada IMonologueSubjectInterface yang diberikan untuk mengambil nama Subjek!",
     "ObservedNameNoSubject": "Tidak ada IMonologueSubjectInterface yang diberikan untuk mengambil nama Subjek!",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "Milik {0}"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "SearchHeight yang tidak valid diteruskan ke NearbySubject. SearchHeight harus > 0",
+    "NearbySubjectsInvalidSearchRadius": "SearchRadius yang tidak valid diteruskan ke NearbySubject. SearchRadius harus > 0",
+    "NearbySubjectsNoActor": "MonologueComponent yang diteruskan ke NearbySubject tidak memiliki Pemilik untuk pemeriksaan jarak",
+    "NearbySubjectsNoSelf": "Tidak ada UMonologueComponent yang diteruskan ke NearbySubject",
     "SmartObjectBehaviorsNoSelf": "Tidak ada UMonologueComponent yang diberikan ke SmartObjectBehaviors",
+    "SpatialContextNoSelf": "Tidak ada UMonologueComponent yang diberikan ke SpatialContext",
     "SmartObjectBehaviorsNoPawn": "SmartObjectBehaviors - Tidak dapat mengambil Pion dari subjek",
     "SpatialContextNoPawn": "SpatialContext - Tidak dapat mengambil Pion dari subjek"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "Tembak",
     "SecondaryActionName": "Perbesar/Perkecil"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "Tidak masuk peringkat"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "Capai level {LevelRequired} untuk membuka set baru",
     "Offer_CanUnlockSet": "Buka set ini untuk mulai mengambil hadiah"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "Terbuka pada {Date}"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "Ambil semua hadiah Halaman {IndexPage}",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "Menunggu kunci rahasia"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "Musim {0} punya angka musim yang tidak valid. Perkiraan {1} (musim terakhir + 1), mendapat {2}"
+    "InvalidSeasonDependencies": "Aset referensi musim {0} tidak dapat mengambil dependensinya.",
+    "InvalidSeasonNumber": "Musim {0} punya angka musim yang tidak valid. Perkiraan {1} (musim terakhir + 1), mendapat {2}",
+    "IncompatibleSeasonNumber": "Musim {0} mencoba memvalidasi dependensi {1}. Versi Rilisnya ({2}) lebih tinggi daripada musim yang merujuknya ({3}).",
+    "InvalidObjectDef": "Musim {0} mencoba memvalidasi dependensi {1}. Seharusnya ini adalah UFortItemDefinition, tetapi ternyata bukan."
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "<text size=\"18\">{0}</> {0}|plural(one=Kado,other=Kado) Tersisa untuk Dibuka",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "Terima kasih karena sudah bermain Fortnite!",
     "PurchaseHeader": "{0}|plural(one=Item,other=Item) Diperoleh"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "Tambahkan Trek",
+    "AddTrack_ToolTip": "Buat trek aksi baru"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "Simpan",
+    "SavePrompts_ToolTip": "Simpan Penyedia Petunjuk"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "Migrasikan pengaturan Semua Alat Tata Letak HUD ke UI yang Bisa Dikustom",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Buka HLTv2 ke Alat Migrator UI yang Bisa Dikustom untuk melakukan migrasi semua pengaturan HLTv2 ke kerangka kerja UI baru yang bisa dikustom."
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "Buka Profiler Spasial",
+    "OpenSpatialProfiler_ToolTip": "Buka Tab Profiler Spasial"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "Buka Alat Modernisasi Senjata",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "Ambil semua hadiah {CategoryName} untuk membuka",
     "CategoryStatus_LockedRewardLevelFormat": "Ambil {NumRewards} hadiah lagi ATAU capai {NumLevels} level untuk membuka",
-    "CategoryStatus_LockedUntilLevel": "Capai level {LevelRequired} untuk membuka set ini",
-    "Status_LockedDateLockedFormat": "Terbuka pada {Date}"
+    "CategoryStatus_LockedUntilLevel": "Capai level {LevelRequired} untuk membuka set ini"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "Ambil semua hadiah {CategoryName} untuk membuka",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "Jalankan Konverter Pemilih Data Kosmetik Audio Kendaraan",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "Jalankan Konverter Pemilih Audio Definisi Item Kosmetik Kendaraan"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "Banyak Nilai"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "Aset bukan definisi item",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Aktor Pratinjau Kosmetik Kendaraan Benteng",
     "CanCreateActorFrom_InvalidAsset": "Aset tidak valid",
     "CanCreateActorFrom_InvalidAssetClass": "Kelas aset tidak valid"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "Tidak Valid",
+    "MultipleValues": "Beberapa Nilai"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Token Varian Kosmetik Kendaraan Benteng",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "Ganti Tempat Duduk",
     "SwitchToWeapon": "Beralih ke Senjata"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "Tidak Ada"
   },
   "VkAnimNode": {
     "FADEINLEFT": "Fade In Kiri",
@@ -11716,6 +11846,9 @@
   },
   "VkSpeechNode": {
     "OutBoundError": "Simpul ini tidak bisa terhubung dengan simpul lain dengan tipe yang sama atau simpul Mulai Ulang."
+  },
+  "VkSpeechRandomVariantNode": {
+    "OutBoundError": "Node ini tidak bisa terhubung dengan node lain dengan tipe yang sama atau node Mulai Ulang"
   },
   "VkTextCrawlNode": {
     "Format": "Karakter per Detik: {NUMBER}",

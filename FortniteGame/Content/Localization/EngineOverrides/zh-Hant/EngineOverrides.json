@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "檔案管理員"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "警告：此 GPU 設定檔是在啟用垂直同步的情況下擷取的。垂直同步等待時間可能出現在任何儲存桶中，因此該設定檔中的資料可能會有所偏差。請在停用垂直同步的情況下進行分析，以獲得最準確的資料。"
-  },
   "InputKeys": {
     "Acceleration": "加速",
     "Ampersand": "和號鍵",

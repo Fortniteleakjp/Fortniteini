@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "檢視",
     "CF6195BE44741B679B03A7970B0904F5": "檢視",
     "B8C80B5041E5FBA2635752B2A5271479": "互動",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "LLM 選項……",
     "21E869E04BA5F2AA7735959B3A3A57D0": "LLM 選項……",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "LLM 選項……",
     "AEB376F240A55432B193BC8797FF5AE9": "LLM 選項……",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "LLM 選項……",
     "9D19804447678A4A92E82F9AC04AEAA8": "抬起",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "你的倉庫已滿",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}：{EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "第四個可選項的簡短摘要（1 至 2 字）。",
+    "OptionTwo_ShortText": "第二個玩家選擇的簡潔標籤（1 至 2 字）。",
+    "OptionSix_ShortText": "第六（也是最後一個）選項的短詞語（1 至 2 字）。",
+    "OptionOne_ShortText": "第一個選項的極短摘要（1 至 2 字）。這是玩家在選單中看到的文字。",
+    "OptionFive_ShortText": "第五個對話選項的使用者介面標籤（1 至 2 字）。",
+    "OptionTwo_FullText": "玩家選擇「OptionTwo」時說出的完整台詞。",
+    "OptionFour_FullText": "玩家選擇「OptionFour」時說出的完整台詞。",
+    "OptionOne_FullText": "玩家選擇「OptionOne」時說出的完整台詞，應為短摘要的展開文字。",
+    "OptionSix_FullText": "玩家選擇「OptionSix」時說出的完整台詞。",
+    "OptionThree_FullText": "玩家選擇「OptionThree」時說出的完整台詞。",
+    "OptionFive_FullText": "玩家選擇「OptionFive」時說出的完整台詞。",
+    "OptionThree_ShortText": "第三個選項的簡短顯示文字（1 至 2 字）。"
   }
 }

@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "Menu de jeu",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Général Sparks"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Désactivé</> : les emotes de danse sont jouées à leur vitesse normale et la musique de l'emote est diffusée par-dessus la piste musicale.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Activé</> : les emotes de danse se synchronisent au rythme de la piste musicale. La musique des emotes est également désactivée.",

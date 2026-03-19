@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "Inspecionar",
     "CF6195BE44741B679B03A7970B0904F5": "Inspecionar",
     "B8C80B5041E5FBA2635752B2A5271479": "Interagir",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "Opções de LLM...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "Opções de LLM...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "Opções de LLM...",
     "AEB376F240A55432B193BC8797FF5AE9": "Opções de LLM...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "Opções de LLM...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Elevar",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Seu Armazém Está Lotado",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "Um resumo breve (1 a 2 palavras) para a quarta opção possível.",
+    "OptionTwo_ShortText": "Um rótulo conciso (1 a 2 palavras) para a segunda escolha da pessoa jogadora.",
+    "OptionSix_ShortText": "Uma frase curta (1 a 2 palavras) para a sexta e última opção.",
+    "OptionOne_ShortText": "Um resumo bem curto (1 a 2 palavras) da primeira opção. É o que a pessoa jogadora vê no menu de escolhas.",
+    "OptionFive_ShortText": "Um rótulo de interface (1 a 2 palavras) para a quinta escolha de diálogo.",
+    "OptionTwo_FullText": "A frase completa que a pessoa jogadora fala ao selecionar \"OptionTwo\".",
+    "OptionFour_FullText": "A linha de diálogo completa que a pessoa jogadora fala na \"OptionFour\".",
+    "OptionOne_FullText": "A linha de diálogo completa que a pessoa jogadora diz para a \"OptionOne\", que deve expandir do texto curto.",
+    "OptionSix_FullText": "A linha de diálogo completa falada pela pessoa jogadora quando ela seleciona \"OptionSix\".",
+    "OptionThree_FullText": "A linha completa que a pessoa jogadora fala na \"OptionThree\".",
+    "OptionFive_FullText": "A frase completa falada pela pessoa jogadora se \"OptionFive\" for escolhida.",
+    "OptionThree_ShortText": "O texto de exibição curto (1 a 2 palavras) da terceira opção."
   }
 }

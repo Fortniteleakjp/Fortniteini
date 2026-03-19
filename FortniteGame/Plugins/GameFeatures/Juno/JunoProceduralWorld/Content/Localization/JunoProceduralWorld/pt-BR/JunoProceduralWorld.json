@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Não foi possível recuperar os dados de altura da textura. Falha na inicialização.",
     "TextureInitFailed": "Não foi possível recuperar os dados desta textura. Falha na inicialização.",
+    "FailExtractGrassTypeOverrides": "Falha ao extrair modificações de tipo de vegetação.",
+    "MissingGrassName": "O nome do tipo de vegetação não foi encontrado, a entrada de dados não pôde ser intitulada. Verifique se todos os GrassTypes no seu material de paisagem têm um recurso associado.",
     "LandscapeComponentLost": "Referência a um ou mais componentes de cenários perdidos. Mapas de grama não serão gerados."
   }
 }

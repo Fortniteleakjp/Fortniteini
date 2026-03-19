@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "Ficha de compleción de logro",
     "48008F3445314E50326D9FB086B9189F": "Ficha de compleción de logro",
     "FC7458584E93A2CCE3222B9CB21FFF51": "Ficha de compleción de logro",
+    "647B590E4A6D893A4E58DB921F805840": "Actividad",
     "9FEF179645D8A343518563AEFE302A2A": "Actividad",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "Misiones adicionales para Deriva espeluznante.",
     "C0AD274548543104E8F3ABB507431A91": "Misiones adicionales del pack de misiones de Guardiana de las ruinas de oro",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "Crea un complemento en blanco para el proyecto Juno.",
     "E806A3B84B22DDCF92AAF2B4C829173": "Crea un complemento de funcionalidad del juego para FNE para alojar una ItemDefinition. FNE se añade automáticamente, así que indica el nombre del código y lo tendrás todo listo. Ejemplo: ¡FooBar se convertirá en FNEFooBar!",
     "37C405BC468E03254AB82CB18FD5CF98": "Crea un nuevo complemento de CAMP",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "Crea un nuevo complemento de criatura para el proyecto Juno.",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "Crea un dispositivo nuevo para el modo Creativo",
     "9E0FC24F423F8F20BB5934B8F479E56B": "Crea un dispositivo de tejido nuevo para el modo FNE.",
     "5E0375C044B7B6205FA5AABD6B429116": "Crea un nuevo complemento de funcionalidad de juego para Fortnite con código. (Será necesario modificar más los archivos de código para poder usarlo sin errores).",
     "633C71E243C17F5070573DB8EA470FBD": "Crea un nuevo complemento de funcionalidad de juego para Fortnite con código y un módulo de IU. (Será necesario modificar más los archivos de código para poder usarlo sin errores).",
     "D5255BA645C1DCF04D17019E061BAB8A": "Crea un nuevo complemento de funcionalidad de juego para Fortnite con contenido básico.",
+    "A4A0F4E74285005A28C88FBBB31AD140": "Crea un nuevo complemento de juego para el proyecto Curiobox.",
     "92B3DC974E94F5CA36482B9DB3343CF2": "Crea un nuevo complemento de juego para el proyecto Juno.",
-    "A4A0F4E74285005A28C88FBBB31AD140": "Crea un nuevo complemento de juego para el proyecto Pimpollo.",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "Crea una nueva extensión de campamento de Juno",
     "D5255BA645C1DCF04D17019E061BAB7A": "Crea un nuevo complemento de funcionalidad de juego raíz para Fortnite.",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "Crea un nuevo complemento de funcionalidad de juego para Fortnite vacío. Solo contiene un recurso de GameFeatureData.",
     "D4034010418FF429289586AC5F972D77": "Crea una extensión vacía para una nueva funcionalidad de contenido de la IU del juego de BR.",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "Viajero calavera",
     "54743E7F439EF3489ADB5689670DEFFE": "Desafíos de Agente cruzada",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "Desafíos de Bollos cariñosos",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "Plantilla de complemento de juego de Curiobox",
     "EF9405A043B0E869255F438176090428": "Ficha de compleción de tarjeta perforada diaria",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "Asistencia de baile",
     "FEA5CDF84F86CFEEDCFFD69726390294": "Inflige <Emphasized>más daño</> cuando tengas la <Emphasized>salud baja</>.",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Fusil de asalto mejorado  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Subfusil compacto mejorado",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Escopeta de barril mejorada",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Arma arpón mejorada",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Escopeta táctica mejorada",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "Subir al cañón",
     "E6F1B9FF470A284E11AF6F891FE7D098": "Subir al cañón",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "Armas a distancia pistolas balas pesadas semiautomática",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Armas a distancia pistolas balas pesadas semiautomática",
     "2D37E97E43724ABA040D5DB07530962F": "Armas a distancia pistolas semiautomática",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Armas a distancia pistolas semiautomáticas",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Armas a distancia pistolas semiautomática",
     "9EA74A7A4C987B0D9D927EB133619716": "Armas a distancia pistolas semiautomática",
     "BF1FF2F14FDC8846B569E7966543F17B": "Armas a distancia pistolas semiautomática",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "Fusil de caza",
     "D29EE9294C3C6ACC03577885D6B34262": "Fusil de caza",
     "DFD2853F433A8DA06177BFAAF22D0CED": "Fusil de caza",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "Una granada que repele a los jugadores cercanos al explotar.",
     "88E97DAD4C1AB681AF821394106303DF": "Lanza una granada que se adhiere a los jugadores enemigos o al entorno.",
     "9F773C444680E58D8F932EA37E5F0581": "Lanza una granada que se adhiere a los jugadores enemigos o al entorno.",
     "90F8ED68488FD4B3343C46A4B7131E87": "Lanza una granada que provoca una nube venenosa y daña a los enemigos en su interior. ¡Mejor salir pitando!",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "<Emphasized>Frecuencia de carga</> mejorada en toda la tecnología.",
     "842064DD4CCAF532392128861286DD02": "<Emphasized>Precisión</> de disparo sin mira mejorada para todas las armas.",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "Granada de impulso",
+    "CFEA70984FEAE95DC388B0AC8B919432": "Granada de impulso",
     "FB4BDD7B494F39753C6778979CD662CC": "En el aire: saltar al objetivo",
     "80D8948A44365AE1A9D3DB9925A43A2B": "<Emphasized>Velocidad del ala delta</> aumentada.",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "Aumenta el <Emphasized>daño a la cabeza</>, pero lo reduce <Emphasized>al cuerpo</>.",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "Plataforma de salto (direccional)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "Plataforma de salto (arriba)",
     "251E3DE8412479479C227D821FAAC425": "Complemento en blanco de Juno",
-    "38DE538C495F59868887E890EC3FD597": "Entorno de campamento de Juno",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "Plantilla de complemento de criatura de Juno",
     "105342A546779B970DC46E80183052FE": "Plantilla de complemento de juego de Juno",
     "EF22E85B49A871DF9C133DA1F84B3900": "Juno TG (temática de juego)",
     "FDA97C5F4842CB9AE5195393C8759F84": "Juno TM (temática minimalista)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "Kingsman puede <Emphasized>bloquear más</> daño.",
     "330D995D4F99BB677CE5FF8643A9B17A": "Escopeta de carga de Kit",
     "A01D19E14ACA958C292350B0BDD893E8": "Granada de empuje objeto de utilidad granada",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "Granada de empuje objeto de utilidad granada",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "Colección de recursos del metaverso de LEGO",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "Composición de recursos del metaverso de LEGO",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} Swimming{swimming} Montage{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "Jugador",
     "291AD5F7469E20890EFCD288976C3A9B": "Ficha de elegibilidad de encuesta a jugadores",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "¡Has obtenido PE por tiempo de juego!",
     "14164C9D434D02CF6E737F8644740969": "¡Has obtenido PE por tiempo de juego!",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "Mina de proximidad",
     "FE97DA514506C8282ACCE59BFD3A562C": "Mina de proximidad",
     "EB7FCBAD49E466CA687372AC079CF68B": "Mina de proximidad +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Atrae a los enemigos hacia ti e inflige daño.",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "Escopeta de corredera",
     "EF0917D448D388C00D296F8E62FF2DC4": "Escopeta de corredera +",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "Escopeta de corredera con <Emphasized>daño a la cabeza mejorado</>.",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "¡Apaga ese fuego!",
     "4253CE934E3EFF13CA95C787B6D46641": "¡Un fuerte aplauso para Erisa, la nueva campeona del Grand Slam de verano de la isla!",
     "43088BA143F2B6BCAEE378847172BE8C": "Quadtaclismo",
+    "CC13E7A44B19B6541560D085C426791D": "Quadtaclismo",
     "24034CD84B1D10C83560F8902AF33DC2": "Misiones",
     "280019E146742BEA12E9E897FA18D7D4": "Misiones",
     "31F60738447C00A236E84A89CEB3B03A": "Misiones",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "¡Gasta madera y enciende una fogata acogedora para curarte!",
     "654EA602493B038AED40358E6100A5F7": "¡Gasta madera y enciende una fogata acogedora para curarte!",
     "CD5B0A744223502F67BABD81B1230D5D": "Grafiti",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "Plantilla de complemento de juego de Pimpollo",
     "CD3076B64ADB97607D7AF4A750656533": "Sprout TG (temática de juego)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "Peticiones de escuadrón",
     "459B35F94D969E08A4D1109E18B98C2F": "Arma a <Emphasized>corta distancia</> de modelo estándar.",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "Enfocando al objetivo",
     "TiltAngleIndicator": "Inclinación de {0} grados"
   },
+  "AIActionSequence": {
+    "AppLabel": "Secuencia de acción de IA",
+    "AIActionSequenceTab": "AIActionSequence",
+    "AddTrack": "Añadir circuito de IA",
+    "DeleteAction": "Eliminar acción de IA",
+    "DeleteTrack": "Eliminar circuito de IA"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "Abrir en el editor de secuencias de acción de IA",
+    "OpenAIActionSequencesEditor_Tooltip": "Abrir este recurso en el editor de secuencias de acción de IA"
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "Abrir el editor de comandos",
+    "PromptEditorTool": "Editor de comandos",
+    "PromptEditorToolTabTitle": "Editor de comandos"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "Al menos un miembro de tu equipo ha decidido abandonar la partida por falta de jugadores.",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "Secuencia de acción de IA",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0} m",
     "LongestKillDistanceText": "{0} m"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "Hoy",
-    "NumberOfDays": "{NumDays} {0}|plural(one=día,other=días)"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "Colocar  marcador",
     "PlaceDangerMarkerDoubleTap": "Colocar marcador de peligro (pulsar dos veces)",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "tiempo de la GPU total: {GPUTimeMS} ms",
     "DrawCalls": "procesos de renderizado totales: {DrawCalls}",
     "NumPrimitives": "primitivas de dibujo totales: {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "¡{0}!\n\nUso de memoria: {1} / {2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "¡{0}!\n\nUso de memoria: {1} / {2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "¡{0}!\n\nUso de memoria: {1} / {2}Mb"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "ha caído"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "Todo listo",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "¡Todo listo!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "Busca uno nuevo.",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "Revancha",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "Pide la revancha en equipo",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "Informar sobre un jugador",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "Volver a la sala",
     "KeepPlayingTogether.PartyMemberOptedOutText": "Algunos miembros del grupo no han votado a favor de seguir en el equipo",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "Espectadores escuchando: {0}"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "Tienes elementos de LEGO® que se solapan en tu proyecto. Esta acción va contra las directrices de LEGO®. Soluciona todos los solapamientos o puede que tu proyecto no supere el proceso de moderación.\nEl actor {0} se solapa con otro(s) {1} actor(es):",
-    "AddingOverlappingActorsHitActor": "{1}\n{0}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{1}\n{0}",
+    "AddingOverlappingActors": "{2}El actor {0} se solapa con otro(s) {1} actor(es):"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "No se ha podido crear el resolutor de contenido del paquete",
     "InvalidStateRequested": "Error de baliza de contenido interno\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "Error al unirse",
+    "ServicesUnavailable": "Nuestros servicios están sobrecargados en este momento.  Vuelve a intentarlo más tarde.\n {ShortErrorCode}",
     "PackageResolveFlowCancelled": "El flujo de control del resolutor de paquetes se ha cancelado por motivos desconocidos.",
     "ProjectDuplicationErrorTitle": "Error al duplicar el proyecto",
     "RequestInvalid": "La petición no estaba bien formulada {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "El servidor se ha desconectado inesperadamente. Vuelve a intentarlo\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "El servidor se ha desconectado inesperadamente. Vuelve a intentarlo\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "Editor de secuencias de acción de IA"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "Complemento HLTv2ToCustomizableUI",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "SpatialProfiler",
     "WeaponModernizationEditorCommands": "Herramienta de modernización de armas"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "El jugador en pantalla partida no puede prepararse. Inicia sesión como jugador principal para cambiar la configuración multiplataforma."
   },
+  "CustomizableUI": {
+    "SizePropertyName": "Tamaño",
+    "CopyOfCustomLayoutProfile": "{0} Copiar",
+    "CopyOfLayoutPreset": "{0} Copiar"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0 minutos",
     "AllowedTimeNoLimit": "Sin límite",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "Eliminar IA cercana",
     "DebugCommand_EndGame_DisplayName": "Finalizar partida",
     "DebugCommand_EndRound_DisplayName": "Finalizar ronda",
+    "DebugCommand_Flight_DisplayName": "Vuelo",
     "DebugCommand_GiveGold_DisplayName": "Aumentar recursos de oro",
     "DebugCommand_AddPlayerScore_DisplayName": "Aumentar puntuación",
     "DebugCommand_PauseRound_DisplayName": "Pausar cronómetro de ronda",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "Mochilas",
     "Badge": "Insignia",
     "Badge_Plural": "Insignias",
+    "SparksBass": "Bajo",
+    "SparksBass_Plural": "Bajos",
     "Buff": "Mejora",
     "BuffCredit": "Mejora",
     "BuffCredit_Plural": "Mejoras",
     "Buff_Plural": "Mejoras",
+    "JunoBuildingSet": "Construcción",
     "BuildingPiece": "Pieza de construcción",
     "BuildingPiece_Plural": "Piezas de construcción",
+    "JunoBuildingSet_Plural": "Construcciones",
     "ItemCache": "Alijo",
     "ItemCache_Plural": "Alijos",
     "CodeToken": "FichaCódigo",
@@ -3506,12 +3548,16 @@
     "Currency": "Moneda",
     "DailyRewardScheduleToken": "RECOMPENSA DIARIA",
     "DailyRewardScheduleToken_Plural": "Recompensas diarias",
+    "JunoBuildingProp": "Decoración",
     "Deco": "Objeto decorativo",
     "Deco_Plural": "Objetos decorativos",
+    "JunoBuildingProp_Plural": "Decoraciones",
     "Defender": "Defensor",
     "Defender_Plural": "Defensores",
     "DeployableBaseCloudSave": "Base desplegable",
     "DeployableBaseCloudSave_Plural": "Bases desplegables",
+    "SparksDrums": "Batería",
+    "SparksDrums_Plural": "Batería",
     "EditTool": "Herramienta de edición",
     "EditTool_Plural": "Herramientas de edición",
     "Emote": "Gesto",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "Modificadores del juego",
     "Glider": "Ala delta",
     "Glider_Plural": "Alas delta",
+    "SparksGuitar": "Guitarra",
+    "SparksGuitar_Plural": "Guitarras",
     "Hero": "Héroe",
     "Hero_Plural": "Héroes",
     "HomebaseBannerIcon": "Estandarte de la base",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "Estandartes de la base",
     "Ingredient": "Ingrediente",
     "Ingredient_Plural": "Ingredientes",
+    "SparksKeyboard": "Keytar",
+    "SparksKeyboard_Plural": "Keytar",
     "CosmeticShoes": "Calzado",
     "CosmeticShoes_Plural": "Calzado",
     "LoadingScreen": "Pantalla de carga",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "Botín",
     "WeaponMelee": "Arma cuerpo a cuerpo",
     "WeaponMelee_Plural": "Armas cuerpo a cuerpo",
+    "SparksMicrophone": "Micrófono",
+    "SparksMicrophone_Plural": "Micrófonos",
     "MissionItem": "Objeto de misión",
     "MissionItem_Plural": "Objetos de misión",
     "Music": "Música",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "Recuérdamelo más tarde",
     "EmoteConfirmDesc": "!El gesto Boogie Down llegará a tu cuenta en un plazo de veinticuatro horas!"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "Gestiona oleadas",
-    "InitialWave": "Oleada [0] - Oleada inicial"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "Configura los ajustes del complemento de editor de interacciones.",
-    "EngagementsEditorProjectSettingsName": "Editor de interacciones"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "No se puede interactuar",
     "InteractionMessage": "Interactuar"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "Editor de TAC",
     "ConditionalTransitionEditorTabTooltip": "Abre el editor de transición de actor condicional."
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "Comprobando complementos",
+    "CustomizableUI": "IU personalizable",
+    "HLTv2ToCustomizableUIMigratorTool": "Migrar todas las configuraciones HLTv2 a la IU personalizable",
+    "FailedToWriteDescriptor": "No se ha podido encontrar el complemento \"{0}\""
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "Agacharse al construir (tocar)/Deslizarse (mantener)",
     "CrouchWhileEditing": "Agacharse al construir (tocar)/Deslizarse (mantener)",
     "ToggleCursorMode": "Modo del cursor",
-    "Custom1(Fire)": "Entrada personalizada 1 (Disparar)",
     "CustomInput10(Right)": "Entrada personalizada 10 (Derecha)",
     "CustomInput11(PreviousItem)": "Entrada personalizada 11 (Objeto anterior)",
     "CustomInput12(NextItem)": "Entrada personalizada 12 (Siguiente objeto)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "Entrada personalizada 16 (Alternar inventario)",
     "CustomInput17(SquadRequests)": "Entrada personalizada 17 (Peticiones de escuadrón)",
     "CustomInput18(Emote)": "Entrada personalizada 18 (Gesto)",
-    "CustomInput2(Target)": "Entrada personalizada 2 (Apuntar)",
-    "CustomInput3(Crouch)": "Entrada personalizada 3 (Agacharse)",
-    "CustomInput4(Jump)": "Entrada personalizada 4 (Saltar)",
-    "CustomInput5(Sprint)": "Entrada personalizada 5 (Esprintar)",
     "CustomInput6(Interact)": "Entrada personalizada 6 (Interactuar)",
     "CustomInput7(Forward)": "Entrada personalizada 7 (Adelante)",
     "CustomInput8(Backwards)": "Entrada personalizada 8 (Atrás)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "Acceso anticipado",
-    "MapRotationMessage": "Siguiente mapa: {0}",
     "Ranked_Feral_ModeName": "Clasificatoria de Ballistic",
     "Ranked_Figment_ModeName": "Clasificatoria de Fortnite: Orígenes",
     "Ranked_LTM_ModeName": "Clasificatoria\\\r\\\ndel modo de tiempo limitado",
     "Ranked_DelMar_SeasonNameOverride": "Modo Clasificatoria",
     "Ranked_BlastBerry_ModeName": "Clasificatoria de Recarga",
     "Ranked_BattleRoyale_ModeName": "Clasificatoria de {0}",
-    "ReJoinMessage": "Únete de nuevo a una partida en curso para evitar una restricción de emparejamiento de {0}.",
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "Temporada cero",
     "Ranked_BlastBerry_SeasonNameOverride": "Temporada cero",
     "Ranked_Figment_SeasonNameOverride": "Temporada cero",
-    "BlackoutTimeCountdownFormat": "No disponible en {0}",
     "Ranked_Matchmaking_ReadyUpWelcome": "Te damos la bienvenida a {0}"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "Recurso oculto",
     "MemoryTestResults_Summary_HighestMemoryLocation": "Ubicación de memoria más elevada: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "Uso de memoria más elevado: {MemoryValue} / {MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "Uso de memoria más elevado: {MemoryValue} / {MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "Resumen de resultados del cálculo de memoria",
     "MemoryTestResults_Summary_NumLocationsSampled": "Cantidad de ubicaciones de la muestra: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "Procesando {0} cadenas de referencia",
     "MemoryTestResults_Summary_Result": "Resultado: {0}",
     "MemoryTestResults_Summary_Result_Success": "ÉXITO",
     "MemoryTestResults_TopTotalExclActors_Header": "Ordenar elementos por tamaño total exclusivo",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "Clase {0}",
     "Game": "Juego",
     "TeamScoreboardNameFormat": "Equipo {0}",
-    "JoinInProgressTooLate": "La partida a la que intentabas unirte ya ha terminado.",
-    "UnableToFindSpawnPoint": "No se ha podido encontrar un punto de aparición"
+    "JoinInProgressTooLate": "La partida a la que intentabas unirte ya ha terminado."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "RECOMPENSA:",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "{0} % adicional*"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "(equivalente a {0}*)",
-    "RealPriceFormat_AdditionalText": "(equivalente a {0}**)",
+    "RealPriceFormat": "(hasta un máximo equivalente a {0}*)",
+    "RealPriceFormat_AdditionalText": "(hasta un máximo equivalente a {0}**)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "** Para comprar exactamente {0} paVos donde esté permitido, pagarías {1}. La compra de esta cantidad exacta no está permitida en esta plataforma.",
     "RealPriceLegalFormat_AdditionalText": "** Para comprar exactamente {0} paVos, pagarías {1}.",
-    "ExactPackLegalText": "* Se muestra un porcentaje adicional de paVos en comparación con el precio del pack de 1000 paVos.",
+    "BonusAmountLegalFormat_Amount": "* Se muestra una bonificación adicional de paVos en comparación con el precio del pack de {0}.",
+    "BonusAmountLegalFormat_PercentageAndAmount": "* Se muestra un porcentaje y una bonificación adicional de paVos en comparación con el precio del pack de {0}.",
+    "BonusAmountLegalFormat_PercentageLegacy": "* Se muestra un porcentaje adicional de paVos en comparación con el precio del pack de {0} paVos.",
+    "BonusAmountLegalFormat_Percentage": "* Se muestra un porcentaje adicional de paVos en comparación con el precio del pack de {0}.",
     "RealPriceLegalFormat_NoExactAmount": "* Para comprar exactamente {0} paVos donde esté permitido, pagarías {1}. La compra de esta cantidad exacta no está permitida en esta plataforma.",
     "RealPriceLegalFormat": "* Para comprar exactamente {0} paVos, pagarías {1}.",
+    "ExactAmountOfferTitleText": "Oferta por la cantidad exacta",
+    "NonRefundableVBucksLegalText": "Los packs de paVos no admiten reembolso.",
     "LegalTextNewLineAppendFormat": "{1}\n{0}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "No se han podido descargar los ajustes de supervisión.",
     "QueryKeychainFailedMsg": "Error al descargar la cadena de claves del elemento",
     "GuestLoginNotAllowed": "No se puede jugar a Fortnite con una cuenta de invitado. Inicia sesión con otra cuenta de Red Xbox para continuar.",
-    "WorkspaceManagerInitFailed": "Error de iniciación del gestor de espacio laboral",
     "InitializingEpicParty": "Iniciando grupo de Epic...",
     "RegisterUsabilityExperiment": "Inicializando la configuración de mejora de uso",
     "LeavingParty": "Abandonando el grupo...",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "Equipo {0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>CREAR CALENDARIO</>",
+    "PlayScheduleTitle": "<Strong>REPRODUCIR CALENDARIO</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "Todos los días",
     "PlaytimeScheduleFriday": "Viernes",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "Intervalo de tiempo",
     "TuesdayPlaytimeCollection_Name": "Martes",
     "PlaytimeReports_Description": "Consulta cuánto tiempo pasa tu hijo/a en Fortnite y Unreal Editor para Fortnite (UEFN) cada semana.\n\nSi estableces este ajuste en Sí, también puedes decidir si quieres recibir un correo electrónico semanal con esta información.",
-    "WednesdayPlaytimeCollection_Name": "Miércoles"
+    "WednesdayPlaytimeCollection_Name": "Miércoles",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} (Mantener pulsado)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "Ocultar materiales de construcción automáticamente",
     "AutoSetQuality_Action": "Ajustar automáticamente",
     "AutoSetQuality_Name": "Ajustar calidad automáticamente",
+    "AutomaticallyApplyXP_Name": "Aplicación automática: PE de personas",
     "DynamicResolution_Description": "Ajusta automáticamente la resolución 3D en función de la carga de la GPU. Cuando el uso de la GPU es bajo, la resolución aumenta hasta alcanzar la resolución nativa. Cuando el uso de la GPU es alto, la resolución disminuye hasta el ajuste de resolución 3D mínima.",
     "AutoSetQuality_Description": "Configura automáticamente las opciones de calidad gráfica en función del banco de pruebas del hardware.",
     "EditConfirmOnRelease_Description_Switch": "Confirma automáticamente una edición al soltar el botón.",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "Confirma automáticamente el restablecimiento de la edición al soltar el botón.",
     "ResetConfirmOnRelease_Description_PS4_PS5": "Confirma automáticamente el restablecimiento de la edición al soltar el botón.",
     "ResetConfirmOnRelease_Description": "Confirma automáticamente y restablece la edición al soltar el dispositivo de entrada.",
+    "AutomaticallyApplyXP_Description": "Sube de nivel automáticamente con los PE de personas disponible a los héroes y defensores de tu equipo del héroe activo, así como a los supervivientes de tus escuadrones",
     "AutoMulchMode_Traps_Description": "Reciclar de forma automática los esquemas de trampas de esta rareza o inferior.",
     "AutoMulchMode_Weapons_Description": "Reciclar de forma automática los esquemas de armas de esta rareza o inferior.",
     "AutoMulchMode_Defenders_Description": "Retirar de forma automática los defensores de esta rareza o inferior.",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "Grupo de botones",
     "QuickWeaponButtonGroup_Name_XB1": "Grupo de botones",
     "QuickWeaponButtonGroup_Name_XSX": "Grupo de botones",
+    "ButtonHoldTime_Name": "Tiempo de pulsación del botón",
     "ControllerButtonMappingCollection_Name": "Mapeo de botones",
     "TouchButtonPulseAnimation_Name": "Animación de pulso del botón",
     "GyroCalibrationContext_Name": "Calibración",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "Espacio de giroscopio en modo portátil",
     "MobileVibration_Name": "Tecnología háptica",
     "ControllerHardwareCollection_Name": "Herramientas",
-    "EnableHardwareRayTracing_Name": "Hardware de trazado de rayos",
-    "EnableHardwareRayTracing_Description": "El hardware de trazado de rayos permite una iluminación global y reflejos con lúmenes de mayor calidad, pero puede reducir el rendimiento.",
     "GyroTighteningThreshold_Description": "Reduce la velocidad del apuntado del giroscopio cuando tu mando se mueve muy lento para ayudarte a apuntar bien. El umbral determina lo rápido que tendrá que girar el mando para que se deshabilite este efecto de restricción (en grados por segundo). Este efecto puede deshabilitarse por completo si se establece el umbral en 0. La zona sin uso del giroscopio se añade a este umbral para que, de estar habilitadas las dos opciones, el efecto de restricción permita pasar a la zona sin uso de manera suave y fluida.",
     "AutoMulchMode_Heroes_Name": "Héroes",
     "HiddenMatchmakingDelay_Name": "Retraso del emparejamiento oculto",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "Modo latencia de entrada baja",
     "GlobalIlluminationEpic": "Lumen épico",
     "ReflectionsEpic": "Lumen épico",
-    "Lumen is disabled": "La iluminación global o los reflejos con lúmenes deben estar habilitados.",
     "GlobalIlluminationHigh": "Lumen alto",
     "ReflectionsHigh": "Lumen alto",
     "LumenUnavailableInGameMode": "Lumen no está disponible este modo de juego",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "Arma rápida",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "Soltar R2",
     "GyroTrackballDecay_Description": "Ajusta la cantidad de ralentización de la bola de seguimiento del giroscopio (solo afecta al comportamiento de las opciones relativas a la bola de seguimiento para el eje X del giroscopio y el eje Y del giroscopio).",
+    "LumenRequiresRayTracing": "El trazado de rayos no está permitido en esta plataforma.",
     "AnnualRefundTokenRequests_Name": "Compras recientes",
     "TSRRecommended": "Recomendado",
     "ReplayRecordingCreativeMode_Name": "Grabar repeticiones del modo Creativo",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "Zona segura",
     "AutoMulchCollection_Name": "Salvar el mundo - Reciclaje automático / Retirar",
+    "PeopleXPCollection_Name": "Salvar el mundo: Aplicar PE automáticamente",
     "CombatTweakZone_Scope": "Objetivo",
     "GyroActiveMode_Scope": "Solo mira",
     "MouseScopedMultiplier_Name": "Sensibilidad de la mira",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "El ajuste \"Modo de renderizado\" debe estar configurado como \"DirectX 12\" para poder habilitar Lumen.",
     "NaniteRequiresD3D12": "El ajuste \"Modo de renderizado\" debe estar configurado como \"DirectX 12\" para poder habilitar Nanite.",
     "FilterMatureLanguage_Warning": "El filtro de lenguaje adulto estará siempre habilitado para los jugadores menores de 13 años.",
+    "ButtonHoldTime_Description": "La cantidad de tiempo (en segundos) que se debe mantener pulsado un botón para que se seleccione al usar una pantalla táctil. Solo se aplica a experiencias creadas en UEFN.",
     "KeyboardMovementBackwardDiagonal_Description": "El ángulo que se ejecutará al introducir una diagonal hacia atrás con el teclado.",
     "KeyboardMovementForwardDiagonal_Description": "El ángulo que se ejecutará al introducir una diagonal hacia delante con el teclado.",
     "KeyboardMovementStrafeDiagonal_Description": "El ángulo en el que se correrá al desplazarse hacia los lados con el teclado.",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0} segundos",
     "GyroButtonHoldTime_Display": "{0} segundos",
     "GyroSmoothWindowTime": "{0} segundos",
+    "LongPressTime_FormattedLabelText": "{0} segundos",
     "LookBoostAccelerationTimeAds_Format": "{0} segundos",
     "LookBoostAccelerationTime_Fortmat": "{0} segundos",
     "LookEaseTime_Format": "{0} segundos",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0} segundos",
     "SlideButtonHoldTime": "{0} segundos",
     "BrightnessFormat": "{0} %",
+    "PercentFormat": "{0} %",
     "ResolutionScalePercent": "{0} %",
     "ContrastMultiplier": "x{0}",
     "FPSMultiplierController_Format": "x{0}",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "PERSONALIZAR CADA DÍA",
     "SettingOff": "NO",
     "SettingSameEveryDay": "TODOS LOS DÍAS IGUAL"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "NO",
+    "SettingOn": "SÍ",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "NO",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "Grafiti"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "Error al migrar los datos de la versión {0} a {1} (Actor={2})"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "Juego",
     "LoadingNameKey": "Obteniendo nombre",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes}M {Seconds}S",
     "WeeksFormatText": "{Weeks}SEM {Days}D"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "DÚOS",
-    "SubGameMode.LTMSolo": "EN SOLITARIO",
-    "SubGameMode.LTMSquads": "ESCUADRONES"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(Descarga obligatoria)",
     "Message.Error": "Ha ocurrido un error.",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "Equipos diferentes",
     "DuosTeam": "Dúos",
     "Message.EstimatedTimeRemaining": "Tiempo restante estimado: {0}",
-    "Fill": "COMPLETAR",
     "TeamFill": "Completar",
     "Message.FindingMatchNoETA": "Buscando partida...\nTiempo transcurrido: {0}",
     "Message.FindingMatch": "Buscando partida...\nTiempo transcurrido: {0}, tiempo estimado: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "Error de emparejamiento (4)",
     "Message.ETANotAvailable": "N/A",
     "Message.ModeNew": "¡NUEVO MODO DISPONIBLE!",
-    "NoFill": "SIN COMPLETAR",
     "NoTeamFill": "Sin completar",
     "Header.NotMatchmaking": "Sin emparejamiento",
     "Message.CanMatchmakeSoloNewStyle": "JUGAR",
     "Message.CanMatchmakeSolo": "JUGAR",
-    "Private": "PRIVADO",
-    "Public": "PÚBLICO",
     "Header.PartyError": "Error de grupo",
     "Header.Preparing": "Preparando...",
     "PrivateMatch": "Privado",
     "PublicMatch": "Público",
     "Message.QueueFull": "La cola está llena, espera...",
     "Message.PlayersInQueue": "Jugadores en cola: {0}\nTiempo transcurrido: {1}",
-    "Ranked": "MODO CLASIFICATORIA",
-    "RankedOff": "CLASIFICATORIA: NO",
-    "RankedOn": "CLASIFICATORIA: SÍ",
     "Message.CanReJoinGame": "UNIRSE DE NUEVO",
     "Message.CanMatchmakeParty": "JUGAR",
     "PartySameTeamShort": "Mismo equipo",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "Esperando al servidor...",
     "Message.WaitingForReadyFormat_Two": "Esperando a que {0} y {1} estén listos...",
     "Message.WaitingForReadyFormat_More": "Esperando a que {0} jugadores más estén listos...",
-    "Message.WaitingForReadyFormat_Single": "Esperando a {0}",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0} %"
+    "Message.WaitingForReadyFormat_Single": "Esperando a {0}"
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "Noticias"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "Se ha rechazado tu petición para unirte a la partida. Vuelve a intentarlo en unos instantes.",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "Torneo {0}"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "Construcción",
+    "BuildModeTitle": "Construcción / Cero construcción",
+    "TeamSize2": "Dúo",
+    "Fill": "Sí",
+    "NoFill": "No",
+    "TeamSize8": "Octeto",
+    "Off": "No",
+    "On": "Sí",
+    "RankedDescription": "El rendimiento afectará a tu rango",
+    "UnrankedDescription": "El rendimiento no afectará a tu rango",
+    "ZeroBuildModeDescription": "Jugar con la construcción deshabilitada",
+    "BuildModeDescription": "Jugar con la construcción habilitada",
+    "TeamSize5": "Quintetos",
+    "Ranked": "Clasificatoria",
+    "TeamSize6": "Grupo de seis",
+    "TeamSize1": "En solitario",
+    "TeamSize4": "Escuadrón",
+    "SquadFillTitle": "Completar equipo",
+    "TeamSizeTitle": "Tamaño de los equipos",
+    "TeamSizeDescription1": "Los equipos están limitados a 1 jugador",
+    "TeamSizeDescription2": "Los equipos están limitados a 2 jugadores",
+    "TeamSizeDescription3": "Los equipos están limitados a 3 jugadores",
+    "TeamSizeDescription4": "Los equipos están limitados a 4 jugadores",
+    "TeamSizeDescription5": "Los equipos están limitados a 5 jugadores",
+    "TeamSizeDescription6": "Los equipos están limitados a 6 jugadores",
+    "TeamSizeDescription8": "Los equipos están limitados a 8 jugadores",
+    "TeamSize3": "Trío",
+    "Unranked": "Sin rango",
+    "FillDescription": "Tu equipo se completará antes de que empiece el emparejamiento",
+    "NoFillDescription": "Tu equipo solo incluirá a jugadores de tu grupo",
+    "ZeroBuildMode": "Cero construcción"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "¡Acceso solicitado no válido! Saliendo."
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "Si se habilita, cuando se pasa el cursor por encima de las armas solo se mostrarán los iconos en lugar de las descripciones."
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "¡<WinnerName>{0}</> ha ganado la partida!"
+    "WinnerGameFormat": "¡<WinnerName>{0}</> ha ganado la partida!",
+    "SuspendKick": "Expulsado por inactividad prolongada."
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "Se ha desactivado por causas desconocidas."
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "Invitación de grupo",
     "GroupInviteDescription": "{0} te ha invitado al grupo"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "Migrar todas las configuraciones HLTv2 a la IU personalizable"
   },
   "HUD": {
     "Cancel": "Cancelar",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "Han aumentado tus estadísticas básicas y de nivel de poder.",
     "MemberJoinedToastTitle": "{0} se ha unido al equipo"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "Ejecutar los controles del editor en los elementos."
-  },
   "MessageDispatcher": {
     "UnknownError": "Se ha producido un error desconocido relacionado con {MessageName} en {ChannelName}.",
     "ChannelNotValid": "ERROR: El canal ya no es válido para \"{MessageName}\". Vuelve a seleccionarse Ningún canal.",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "Establecer dato",
     "SetFactTemplate": "Establecer plantilla de dato",
-    "SetFactText": "Establecer texto de dato"
+    "FactArrayTextFormat": "Datos: {0}"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "Disparidad en el tipo de argumento del delegado {0} que implica el argumento 0 y el dato Self. Expresión: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "No se ha podido descifrar el tipo de retorno {0} ({1}) para pasarlo a dato. Expresión: {2}",
     "CouldntFindFact": "No se han podido encontrar datos de nombre {0}",
     "CouldntGenerateConditionalToken": "No se ha podido generar el token condicional.",
+    "CouldntGenerateLoopToken": "No se ha podido generar el token de bucle",
     "CouldntParseConditionalSymbol": "No se ha podido analizar el símbolo condicional.",
+    "CouldntParseLoopSymbol": "No se ha podido analizar el símbolo de bucle",
     "InvalidDelegateObject_3": "El dato delegado {0} no devuelve un tipo de dato válido. Expresión: {1}",
     "InvalidDelegateObject_2": "El dato delegado {0} no está vinculado a una función válida para el objeto {1}. Expresión: {2}",
     "InvalidDelegateObject_1": "El dato delegado {0} no está vinculado a un objeto válido. Expresión: {1}",
     "DelegateRecursionExceeded": "Se ha superado la profundidad del evento en cascada del delegado {0}. Expresión: {1}",
     "InfiniteDelegateRecursionDetected": "Se ha detectado un evento en cascada infinito de delegación en el delegado {0}. Expresión: {1}",
     "ExpectedQuote": "Se esperaba \"",
+    "ExpectedIn": "Se esperaba 'in' después del nombre del elemento en {% para el elemento en...",
     "ExpectedElseIfCondition": "Expresión de condición inesperada en {% else if  %}.",
     "ExpectedIfCondition": "Expresión de condición inesperada en {% if  %}.",
+    "ExpectedElement": "Se esperaba un nombre de elemento después de {% para ",
+    "ExpectedForElseInnerTemplate": "Otra plantilla esperada entre {% else %} y {% endfor %}.",
     "ExpectedElseInnerTemplate": "Otra plantilla esperada entre {% else %} y {% endif %}.",
     "ExpectedInnerTemplate": "Plantilla interna esperada",
     "ExpectedClosingBrace": "Cierre inesperado de la expresión de datos emparejada }",
+    "ExpectedForLoop": "Expresión de alcance inesperada en {% for  %}.",
+    "ExpectedWhitespaceAfterIn": "Se esperaba un espacio en blanco después de 'in' en {% para el elemento en...",
     "InvalidFact_1": "Dato no válido {0} (Error: {1}) referenciado en la expresión: {2}",
     "InvalidFact_2": "Dato no válido {0} referenciado en la expresión: {1}",
     "InvalidDelegateParamCall": "Llamada parametrizada no válida al delegado {0} que no acepta argumentos. Expresión: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "Se ha superado la profundidad del evento en cascada de plantilla. Expresión: {0}",
     "TooManyArgs": "Demasiados parámetros en la llamada a {0}. Expresión: {1}",
     "UnexpectedElseAfterElse": "Otro bloqueo inesperado tras el anterior",
+    "UnexpectedElseAfterElseInFor": "Otro bloqueo inesperado tras el anterior",
     "UnexpectedElseIfAfterElse": "Otro inesperado si hay bloqueo tras el anterior",
     "EOSExpectedConditionEnd": "Fin inesperado de la secuencia. Cierre inesperado \" %}\".",
+    "EOSExpectedLoopEnd": "Fin inesperado de la secuencia. Cierre inesperado \" %}\".",
+    "EOSExpectedEndFor2": "Fin inesperado de la secuencia. Cierre inesperado {% endfor %}.",
     "EOSExpectedEndIf2": "Fin inesperado de la secuencia. Cierre inesperado {% endif %}.",
+    "EOSExpectedEndFor1": "Fin inesperado de la secuencia. Plantilla interna esperada y cerrando {% endfor %}",
     "EOSExpectedEndIf1": "Fin inesperado de la secuencia. Plantilla interna esperada y cerrando {% endif %}",
     "ExpectedOpenBrace": "Token inesperado \"{0}\" en {1}:{2} después del dato delegado, en la expresión: {3}",
     "UnexpectedFactExprToken": "Token inesperado \"{0}\" en {1}:{2} en la expresión de datos: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "Cierre de expresión sin emparejar }"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "Cambiar completador de chat",
-    "RunEnginePromptTooltip": "Ejecutar la consulta con el subsistema de monólogo *Engine* para evaluar la respuesta",
-    "RunWorldPromptTooltip": "Ejecutar la consulta con el subsistema de monólogo *World* para evaluar la respuesta",
-    "RefreshPreviewTooltip": "Forzar la refactualización de plantillas (por ejemplo, reevaluar datos delegados dinámicos)",
-    "PromptNameLabel": "Nombre",
+    "LabelChatCompleterOverride": "Cambiar completador de chat",
+    "TooltipChatCompleterOverride": "Completador de chat que se usará para generar una respuesta. Si no se especifica, se usará el *completador de chat predeterminado* del subsistema de motor de monólogo.",
+    "LabelPromptName": "Nombre",
+    "ButtonNavigateToSystemMessage": "Ir al mensaje del sistema (Ctrl + Alt + Flecha ascendente)",
+    "ButtonNavigateToUserMessage": "Ir al mensaje del usuario (Ctrl + Alt + Flecha ascendente)",
+    "ButtonNavigateToNextFact": "Ir al hecho siguiente (Ctrl + Alt + Flecha a la derecha)",
+    "ButtonNavigateToPreviousFact": "Ir al hecho anterior (Ctrl + Alt + Flecha a la izquierda)",
+    "SetChatCompleterClassOverride": "Cambiar el completador de chat",
     "PromptPreviewSettings": "Ajustes de vista previa de consultas",
     "PromptResponse": "Respuesta de consulta",
-    "SavePreviewTooltip": "Guardar los ajustes de vista previa en el elemento para repetir la prueba",
-    "SetMPChatCompleterOverride": "Establecer cambio del MonologuePrompt ChatCompleter",
+    "ButtonRefreshFacts": "Actualizar los hechos, es decir, borrar los modelos subyacentes de los editores",
+    "ButtonRunPrompt": "Ejecutar la consulta con el subsistema de monólogo *World* (o *Engine*) para generar una respuesta",
+    "ButtonSavePreview": "Guardar los ajustes de vista previa en el elemento para repetir la prueba",
     "SetPromptName": "Establecer nombre de consulta",
     "SetPromptPreviewSettings": "Establecer ajustes de vista previa de consultas",
-    "SetPromptSystemMessage": "Establecer plantilla de mensajes del sistema de consultas",
-    "SetPromptUserMessage": "Establecer plantilla de mensajes del usuario de consultas",
-    "SystemMessageLabel": "Mensaje del sistema",
-    "CompleterOverrideTooltip": "El UChatCompleter que usar en esta solicitud. Si no se especifica, se usará el completador de chat predeterminado del subsistema de motor de monólogo.",
-    "UserMessageLabel": "Mensaje del usuario",
-    "WrapSystemMessageToolTip": "Ajustar texto",
-    "WrapUserMessageToolTip": "Ajustar texto"
+    "SetSystemMessageTemplate": "Establecer plantilla de mensaje del sistema",
+    "SetUserMessageTemplate": "Establecer plantilla de mensaje del usuario"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "Delegado de datos de DataRegistry: no se han podido encontrar datos con el nombre \"{0}\" en el registro de datos.",
     "NoDRSubsystem": "Delegado de datos de DataRegistry: el subsistema del registro de datos no está disponible, asegúrate de que el complemento DataRegistry esté habilitado.",
     "InvalidDRFactItemId": "Delegado de datos de DataRegistry: DataRegistryItemIdString \"{0}\" no es una ID de objeto del registro de datos válida.",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "¡Un primer UMonologueComponent no válido ha pasado a MutuallyPerceivedEvents para recuperar detalles del evento!",
     "FirstPersonName_My": "Mi",
     "NameNoSubject": "¡No hay ningún IMonologueSubjectInterface que haya pasado a Subject del que recuperar el nombre!",
     "ObservedNameNoSubject": "¡No hay ningún IMonologueSubjectInterface que haya pasado a Subject del que recuperar el nombre!",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "de {0}"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "Un SearchHeight no válido ha pasado a NearbySubject. SearchHeight debe ser > 0",
+    "NearbySubjectsInvalidSearchRadius": "Un SearchRadius no válido ha pasado a NearbySubject. SearchRadius debe ser > 0",
+    "NearbySubjectsNoActor": "Un MonologueComponent que ha pasado a NearbySubject no tiene propietario para calcular la distancia",
+    "NearbySubjectsNoSelf": "No hay ningún UMonologueComponent que haya pasado a NearbySubject",
     "SmartObjectBehaviorsNoSelf": "No hay ningún UMonologueComponent que haya pasado a SmartObjectBehaviors",
+    "SpatialContextNoSelf": "No se ha pasado ningún UMonologueComponent a SpatialContext",
     "SmartObjectBehaviorsNoPawn": "SmartObjectBehaviors: no se ha podido obtener Pawn del sujeto",
     "SpatialContextNoPawn": "SpatialContext: no se ha podido obtener Pawn del sujeto"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "Disparar",
     "SecondaryActionName": "Zoom"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "Sin rango"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
   },
@@ -11079,8 +11184,11 @@
     "NumRewards": "{NumTier} {NumTier}|plural(one=nivel,other=niveles)"
   },
   "SeasonPassRequirement_Offer": {
-    "Offer_LockedUntilLevel": "Alcanza el nivel {LevelRequired} para desbloquear un nuevo conjunto",
+    "Offer_LockedUntilLevel": "Alcanza el nivel {LevelRequired} para desbloquear un nuevo conjunto.",
     "Offer_CanUnlockSet": "Desbloquea este conjunto para empezar a recibir recompensas"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "Se desbloqueará el {Date}"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "Obtén todas las recompensas de la página {IndexPage}.",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "Esperando clave secreta"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "La temporada {0} tiene un número de temporada no válido.Expectativa: {1} (última temporada +1), resultado: {2}"
+    "InvalidSeasonDependencies": "No se ha podido obtener la dependencia del recurso de la temporada {0} al que se hace referencia.",
+    "InvalidSeasonNumber": "La temporada {0} tiene un número de temporada no válido.Expectativa: {1} (última temporada +1), resultado: {2}",
+    "IncompatibleSeasonNumber": "La temporada {0} intenta validar la dependencia {1}. Tiene una versión de lanzamiento ({2}) superior a la de la temporada que la referencia ({3}).",
+    "InvalidObjectDef": "La temporada {0} intenta validar la dependencia {1}. Se suponía que era UFortItemDefinition, pero no."
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "<text size=\"18\">{0}</> {0}|plural(one=regalo,other=regalos) sin abrir",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "¡Gracias por jugar a Fortnite!",
     "PurchaseHeader": "{0}|plural(one=objeto adquirido,other=objetos adquiridos)"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "Añadir circuito",
+    "AddTrack_ToolTip": "Crear un nuevo circuito de acción"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "Guardar",
+    "SavePrompts_ToolTip": "Guardar fuentes de consultas"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "Migrar todas las configuraciones de la herramienta de disposición del HUD a la IU personalizable",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Abre la herramienta HLTv2 to Customizable UI para migrar todas las configuraciones de HLTv2 al nuevo entorno de IU personalizable."
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "Abrir el perfilador espacial",
+    "OpenSpatialProfiler_ToolTip": "Abrir la pestaña del perfilador espacial"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "Abre la herramienta de modernización de armas",
@@ -11559,10 +11686,9 @@
     "DebugActiveProductInvalid": "ADVERTENCIA: LAS LISTAS DE REPRODUCCIÓN ACTIVAS NO CONFIGURAN ETIQUETAS DE PRODUCTOS. No se pueden mostrar misiones del producto actual.\nSe utilizará un producto de respaldo en su lugar ({0})"
   },
   "USeasonPassCategoryVMData": {
-    "CategoryStatus_LockedCategoryFormat": "Consigue todas las recompensas del {CategoryName} para desbloquear esta sección.",
+    "CategoryStatus_LockedCategoryFormat": "Consigue todas las recompensas de {CategoryName} para desbloquear esta sección.",
     "CategoryStatus_LockedRewardLevelFormat": "Consigue {NumRewards} recompensas más o sube {NumLevels} niveles para desbloquearla.",
-    "CategoryStatus_LockedUntilLevel": "Alcanza el nivel {LevelRequired} para desbloquear este conjunto",
-    "Status_LockedDateLockedFormat": "Se desbloqueará el {Date}"
+    "CategoryStatus_LockedUntilLevel": "Alcanza el nivel {LevelRequired} para desbloquear este conjunto."
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "Consigue las recompensas del {CategoryName} para desbloquear esta sección.",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "Ejecuta el conversor de elección de datos de objetos cosméticos del sonido para vehículos.",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "Ejecutar conversor de elección de sonido predeterminado de objetos cosméticos para vehículos"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "Varios valores"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "El recurso no es una definición de objeto",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Fort Vehicle Cosmetics Preview Actor",
     "CanCreateActorFrom_InvalidAsset": "Recurso no válido",
     "CanCreateActorFrom_InvalidAssetClass": "Clase de recurso no válida"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "No válido",
+    "MultipleValues": "Varios valores"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Fort Vehicle Cosmetics Variant Token",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "Cambiar de asiento",
     "SwitchToWeapon": "Cambiar a arma"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "Nada"
   },
   "VkAnimNode": {
     "FADEINLEFT": "Fundido de entrada izquierda",
@@ -11715,6 +11845,9 @@
     "OutBoundError": "Reiniciar conversación no puede tener una tarea a continuación"
   },
   "VkSpeechNode": {
+    "OutBoundError": "Este nodo no puede conectarse con otros del mismo tipo ni con nodos de reinicio"
+  },
+  "VkSpeechRandomVariantNode": {
     "OutBoundError": "Este nodo no puede conectarse con otros del mismo tipo ni con nodos de reinicio"
   },
   "VkTextCrawlNode": {

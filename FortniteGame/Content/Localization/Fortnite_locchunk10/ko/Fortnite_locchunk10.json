@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "업적 완료 토큰",
     "48008F3445314E50326D9FB086B9189F": "업적 완료 토큰",
     "FC7458584E93A2CCE3222B9CB21FFF51": "업적 완료 토큰",
+    "647B590E4A6D893A4E58DB921F805840": "활동",
     "9FEF179645D8A343518563AEFE302A2A": "활동",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "드리프트워커의 추가 퀘스트입니다.",
     "C0AD274548543104E8F3ABB507431A91": "황금 용의 수호자 퀘스트 팩 추가 퀘스트",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "주노 프로젝트의 백지 플러그인을 생성합니다.",
     "E806A3B84B22DDCF92AAF2B4C829173": "아이템 정의를 보관할 FNE용 게임 피처 플러그인을 만듭니다. FNE는 자동으로 추가되므로, 코드 이름만 붙이면 준비가 끝납니다. 예시: FooBar는 FNEFooBar가 됩니다!",
     "37C405BC468E03254AB82CB18FD5CF98": "신규 캠프 시나리오 플러그인을 만듭니다.",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "Juno 프로젝트의 신규 크리처 플러그인을 생성합니다.",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "포크리 모드용 신규 장치를 생성합니다",
     "9E0FC24F423F8F20BB5934B8F479E56B": "FNE 모드용 신규 패브릭 장치를 생성합니다.",
     "5E0375C044B7B6205FA5AABD6B429116": "코드로 새로운 포트나이트 게임 기능 플로그인을 생성합니다. (오류없이 사용하기 위해서는 코드 파일에 추가적인 수정이 필요합니다.)",
     "633C71E243C17F5070573DB8EA470FBD": "코드및 UI 모듈로 새로운 포트나이트 게임 기능 플러그인을 생성합니다(오류 없이 사용하기 위해서는 코드 파일에 추가적인 수정 필요합니다).",
     "D5255BA645C1DCF04D17019E061BAB8A": "기본 콘텐츠가 있는 새로운 포트나이트 게임 기능 플러그인을 생성합니다.",
+    "A4A0F4E74285005A28C88FBBB31AD140": "Curiobox 프로젝트의 새로운 게임플레이 플러그인을 생성합니다.",
     "92B3DC974E94F5CA36482B9DB3343CF2": "Juno 프로젝트의 신규 게임플레이 플러그인을 생성합니다.",
-    "A4A0F4E74285005A28C88FBBB31AD140": "Sprout 프로젝트의 새로운 게임플레이 플러그인을 생성합니다.",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "새로운 주노 캠프 시나리오 플러그인을 만듭니다",
     "D5255BA645C1DCF04D17019E061BAB7A": "새로운 루트 게임 기능 플러그인을 생성합니다.",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "비어 있는 새로운 포트나이트 게임 기능 플러그인을 생성합니다. 게임기능데이터 에셋만 포함합니다.",
     "D4034010418FF429289586AC5F972D77": "신규 배틀로얄 게임플레이 기능의 UI 콘텐츠에 대한 빈 플러그인을 생성합니다",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "크로스본 보이저",
     "54743E7F439EF3489ADB5689670DEFFE": "엑스표 정보원 도전",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "포옹팀 빵 도전",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "Curiobox 게임플레이 플러그인 템플릿",
     "EF9405A043B0E869255F438176090428": "일일 펀치카드 완료 토큰",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "댄스 테라피",
     "FEA5CDF84F86CFEEDCFFD69726390294": "<Emphasized>체력이 낮을</> 때 <Emphasized>주는 피해 증가</>",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "향상된 돌격소총  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "강화 소형 기관단총",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "개선된 드럼 산탄총",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "강화된 작살총",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "강화 전술 산탄총",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "캐넌 들어가기",
     "E6F1B9FF470A284E11AF6F891FE7D098": "캐넌 들어가기",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "총기 원거리 권총 대형탄환 반자동",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "총기 원거리 권총 대형탄환 반자동",
     "2D37E97E43724ABA040D5DB07530962F": "총기 원거리 권총 반자동",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "총기 원거리 권총 반자동",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "총기 원거리 권총 반자동",
     "9EA74A7A4C987B0D9D927EB133619716": "총기 원거리 권총 반자동",
     "BF1FF2F14FDC8846B569E7966543F17B": "총기 원거리 권총 반자동",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "사냥용 소총",
     "D29EE9294C3C6ACC03577885D6B34262": "사냥용 소총",
     "DFD2853F433A8DA06177BFAAF22D0CED": "사냥용 소총",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "폭발할 때 주변 플레이어를 모두 밀어내는 수류탄을 던집니다.",
     "88E97DAD4C1AB681AF821394106303DF": "적 플레이어나 사물에 부착되는 수류탄을 투척합니다.",
     "9F773C444680E58D8F932EA37E5F0581": "적 플레이어나 사물에 부착되는 수류탄을 투척합니다.",
     "90F8ED68488FD4B3343C46A4B7131E87": "유독가스를 뿜어내는 수류탄을 던져서 범위 안의 적에게 피해를 줍니다. 수류탄 범위에서 벗어나세요!",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "모든 기술의 <Emphasized>충전 속도</> 증가",
     "842064DD4CCAF532392128861286DD02": "모든 무기의 비조준 <Emphasized>정확도</> 증가",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "충격 수류탄",
+    "CFEA70984FEAE95DC388B0AC8B919432": "충격 수류탄",
     "FB4BDD7B494F39753C6778979CD662CC": "공중: 점프하여 조준",
     "80D8948A44365AE1A9D3DB9925A43A2B": "<Emphasized>글라이더 속도</> 증가",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "<Emphasized>헤드샷 피해</>가 증가하지만, <Emphasized>신체 피해</>는 감소",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "점프패드(지향성)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "점프패드(상향)",
     "251E3DE8412479479C227D821FAAC425": "주노 백지 플러그인",
-    "38DE538C495F59868887E890EC3FD597": "주노 캠프 시나리오",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "Juno 크리처 플러그인 템플릿",
     "105342A546779B970DC46E80183052FE": "Juno 게임플레이 플러그인 템플릿",
     "EF22E85B49A871DF9C133DA1F84B3900": "주노 TG (테마 게임)",
     "FDA97C5F4842CB9AE5195393C8759F84": "주노 TM (테마 미니멀)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "받는 피해를 <Emphasized>더 많이 차단</>해 주는 킹스맨",
     "330D995D4F99BB677CE5FF8643A9B17A": "키트의 충전식 산탄총",
     "A01D19E14ACA958C292350B0BDD893E8": "녹아웃수류탄 유틸리티아이템 수류탄",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "녹아웃수류탄 유틸리티아이템 수류탄",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "레고 메타버스 에셋 컬렉션",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "레고 메타버스 에셋 조합",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} Swimming{swimming} Montage{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "플레이어",
     "291AD5F7469E20890EFCD288976C3A9B": "플레이어 설문조사 참가 자격 토큰",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "플레이 시간 XP 획득!",
     "14164C9D434D02CF6E737F8644740969": "플레이 시간 XP 획득!",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "근접 폭발 지뢰",
     "FE97DA514506C8282ACCE59BFD3A562C": "근접 폭발 지뢰",
     "EB7FCBAD49E466CA687372AC079CF68B": "근접 폭발 지뢰 +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "적을 끌어당겨 피해를 줍니다.",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "펌프 액션 산탄총",
     "EF0917D448D388C00D296F8E62FF2DC4": "펌프 액션 산탄총 +",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "<Emphasized>헤드샷 피해가 증가</>한 펌프 액션 산탄총",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "어서 불을 끄세요!",
     "4253CE934E3EFF13CA95C787B6D46641": "새로운 섬 여름 테니스 챔피언, 에리사에게 박수!",
     "43088BA143F2B6BCAEE378847172BE8C": "쿼드크래셔",
+    "CC13E7A44B19B6541560D085C426791D": "쿼드크래셔",
     "24034CD84B1D10C83560F8902AF33DC2": "퀘스트",
     "280019E146742BEA12E9E897FA18D7D4": "퀘스트",
     "31F60738447C00A236E84A89CEB3B03A": "퀘스트",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "목재를 사용해 아늑한 모닥불을 피우고, 체력을 회복하세요!",
     "654EA602493B038AED40358E6100A5F7": "목재를 사용해 아늑한 모닥불을 피우고, 체력을 회복하세요!",
     "CD5B0A744223502F67BABD81B1230D5D": "스프레이",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "Sprout 게임플레이 플러그인 템플릿",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG(테마 게임)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "스쿼드 요청",
     "459B35F94D969E08A4D1109E18B98C2F": "표준 <Emphasized>근접</> 무기",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "대상 포커스 중",
     "TiltAngleIndicator": "기울이기 각도 {0}도"
   },
+  "AIActionSequence": {
+    "AppLabel": "AI 액션 시퀀스",
+    "AIActionSequenceTab": "AI 액션 시퀀스",
+    "AddTrack": "AI 트랙 추가",
+    "DeleteAction": "AI 액션 삭제",
+    "DeleteTrack": "AI 트랙 삭제"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "AI 액션 시퀀스 에디터에서 열기",
+    "OpenAIActionSequencesEditor_Tooltip": "AI 액션 시퀀스 에디터에서 이 에셋을 엽니다."
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "프롬프트 편집기 도구 열기",
+    "PromptEditorTool": "프롬프트 편집기 도구",
+    "PromptEditorToolTabTitle": "프롬프트 편집기 도구"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "참가하지 못한 플레이어들이 있어, 팀원 한 명 이상이 매치를 떠나기로 결정했습니다.",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "AI 액션 시퀀스",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0}m",
     "LongestKillDistanceText": "{0}m"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "오늘",
-    "NumberOfDays": "{NumDays}일"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "마커  배치",
     "PlaceDangerMarkerDoubleTap": "위험 마커 배치 (두 번 탭하기)",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "총 GPU 시간 :  {GPUTimeMS}ms",
     "DrawCalls": "총 드로 콜 : {DrawCalls}",
     "NumPrimitives": "총 프리미티브 드로 : {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}\n\n메모리 사용 : {1} / {2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}\n\n메모리 사용 : {1} / {2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\n메모리 사용량: {1} / {2}MB"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "처치됨"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "다음 매치 준비",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "준비 완료!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "새로운 팀에 합류하세요.",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "리매치",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "팀과 리매치",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "플레이어 신고",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "대기실로 돌아가기",
     "KeepPlayingTogether.PartyMemberOptedOutText": "일부 파티원들이 팀과 함께 남기 위한 투표에 참여하지 않았습니다.",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "{0}명의 관전자가 듣는 중"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "프로젝트에 겹치는 레고® 에셋이 있습니다. 이는 레고® 가이드라인에 어긋납니다. 레고 에셋 겹침 문제를 모두 해결하지 않으면 검토를 통과하지 못할 수 있습니다.\n액터 {0}이(가) 다른 {1} 액터와 겹칩니다.",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}액터 {1}이(가) 다른 {2} 액터와 겹칩니다."
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "콘텐츠 패키지 리졸버 생성에 실패했습니다",
     "InvalidStateRequested": "내부 콘텐츠 비컨 오류\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "참가 오류",
+    "ServicesUnavailable": "현재 서비스 접속자가 너무 많습니다.  잠시 후 다시 시도해 주세요.\n {ShortErrorCode}",
     "PackageResolveFlowCancelled": "패키지 리졸버 컨트롤 플로우가 알 수 없는 이유로 취소되었습니다.",
     "ProjectDuplicationErrorTitle": "프로젝트 복제 오류",
     "RequestInvalid": "일부 요청이 잘못 구성되었습니다 {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "서버가 예기치 못하게 종료되었습니다. 다시 시도해 주세요\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "서버가 예기치 못하게 종료되었습니다. 다시 시도해 주세요\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "AI 액션 시퀀스 에디터"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "HLTv2-커스터마이징 가능한 UI 플러그인",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "공간 프로파일러",
     "WeaponModernizationEditorCommands": "무기 현대화 도구"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "분할 화면 플레이어가 준비할 수 없습니다. 기본 플레이어로 로그인해 크로스플레이 설정을 변경하세요"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "크기",
+    "CopyOfCustomLayoutProfile": "{0} 복사",
+    "CopyOfLayoutPreset": "{0} 복사"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0분",
     "AllowedTimeNoLimit": "무제한",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "근처 AI 처치",
     "DebugCommand_EndGame_DisplayName": "게임 종료",
     "DebugCommand_EndRound_DisplayName": "라운드 종료",
+    "DebugCommand_Flight_DisplayName": "비행",
     "DebugCommand_GiveGold_DisplayName": "골드 자원 증가",
     "DebugCommand_AddPlayerScore_DisplayName": "점수 증가",
     "DebugCommand_PauseRound_DisplayName": "라운드 타이머 일시정지",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "배낭",
     "Badge": "배지",
     "Badge_Plural": "배지",
+    "SparksBass": "베이스",
+    "SparksBass_Plural": "베이스",
     "Buff": "버프",
     "BuffCredit": "버프",
     "BuffCredit_Plural": "버프",
     "Buff_Plural": "버프",
+    "JunoBuildingSet": "빌드",
     "BuildingPiece": "단일 구조물",
     "BuildingPiece_Plural": "단일 구조물",
+    "JunoBuildingSet_Plural": "빌드",
     "ItemCache": "물자",
     "ItemCache_Plural": "물자",
     "CodeToken": "코드 토큰",
@@ -3506,12 +3548,16 @@
     "Currency": "화폐",
     "DailyRewardScheduleToken": "일일 보상",
     "DailyRewardScheduleToken_Plural": "일일 보상",
+    "JunoBuildingProp": "장식",
     "Deco": "장식용 아이템",
     "Deco_Plural": "장식용 아이템",
+    "JunoBuildingProp_Plural": "장식",
     "Defender": "방어자",
     "Defender_Plural": "방어자",
     "DeployableBaseCloudSave": "전개형 기지",
     "DeployableBaseCloudSave_Plural": "전개형 기지",
+    "SparksDrums": "드럼",
+    "SparksDrums_Plural": "드럼",
     "EditTool": "편집 도구",
     "EditTool_Plural": "편집 도구",
     "Emote": "이모트",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "게임플레이 보정치",
     "Glider": "글라이더",
     "Glider_Plural": "글라이더",
+    "SparksGuitar": "기타",
+    "SparksGuitar_Plural": "기타",
     "Hero": "영웅",
     "Hero_Plural": "영웅",
     "HomebaseBannerIcon": "본부 배너",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "본부 배너",
     "Ingredient": "재료",
     "Ingredient_Plural": "재료",
+    "SparksKeyboard": "키타",
+    "SparksKeyboard_Plural": "키타",
     "CosmeticShoes": "신발",
     "CosmeticShoes_Plural": "신발",
     "LoadingScreen": "로딩 화면",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "전리품",
     "WeaponMelee": "근접 무기",
     "WeaponMelee_Plural": "근접 무기",
+    "SparksMicrophone": "마이크",
+    "SparksMicrophone_Plural": "마이크",
     "MissionItem": "미션 아이템",
     "MissionItem_Plural": "미션 아이템",
     "Music": "음악",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "나중에 알림",
     "EmoteConfirmDesc": "24시간 안에 계정에 부기다운 이모트가 지급될 예정입니다!"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "웨이브 관리",
-    "InitialWave": "웨이브 [ 0 ] - 최초 웨이브"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "교전 플러그인 에디터 설정을 구성합니다.",
-    "EngagementsEditorProjectSettingsName": "교전 에디터"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "상호작용 불가",
     "InteractionMessage": "상호작용"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "CTA 에디터",
     "ConditionalTransitionEditorTabTooltip": "조건부 트랜지션 액터 에디터를 엽니다"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "플러그인 확인 중",
+    "CustomizableUI": "커스터마이징 가능한 UI",
+    "HLTv2ToCustomizableUIMigratorTool": "모든 HLTv2 설정을 커스터마이징 가능한 UI로 마이그레이션",
+    "FailedToWriteDescriptor": "'{0}' 플러그인을 찾을 수 없음"
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "웅크리면서 건설 (탭하기)/슬라이드 (길게 누르기)",
     "CrouchWhileEditing": "웅크리면서 편집 (탭하기)/슬라이드 (길게 누르기)",
     "ToggleCursorMode": "커서 모드",
-    "Custom1(Fire)": "커스텀 입력 1(사격)",
     "CustomInput10(Right)": "커스텀 입력 10(오른쪽)",
     "CustomInput11(PreviousItem)": "커스텀 입력 11(이전 아이템)",
     "CustomInput12(NextItem)": "커스텀 입력 12(다음 아이템)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "커스텀 입력 16(인벤토리 토글)",
     "CustomInput17(SquadRequests)": "커스텀 입력 17(스쿼드 요청)",
     "CustomInput18(Emote)": "커스텀 입력 18(이모트)",
-    "CustomInput2(Target)": "커스텀 입력 2(목표물)",
-    "CustomInput3(Crouch)": "커스텀 입력 3(웅크리기)",
-    "CustomInput4(Jump)": "커스텀 입력 4(점프)",
-    "CustomInput5(Sprint)": "커스텀 입력 5(전력질주)",
     "CustomInput6(Interact)": "커스텀 입력 6(상호작용)",
     "CustomInput7(Forward)": "커스텀 입력 7(앞)",
     "CustomInput8(Backwards)": "커스텀 입력 8(뒤로)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "얼리 액세스",
-    "MapRotationMessage": "다음 맵: {0}",
     "Ranked_Feral_ModeName": "랭크 발리스틱",
     "Ranked_Figment_ModeName": "랭크 포트나이트 OG",
     "Ranked_LTM_ModeName": "랭크 기간 한정 모드",
     "Ranked_DelMar_SeasonNameOverride": "랭크 레이싱",
     "Ranked_BlastBerry_ModeName": "랭크 리로드",
     "Ranked_BattleRoyale_ModeName": "랭크 {0}",
-    "ReJoinMessage": "매치메이킹 제한을 피하려면 {0} 진행 중인 매치에 다시 참가하세요",
     "Ranked_DelMar_HeaderName": "로켓 레이싱",
     "Ranked_BattleRoyale_SeasonNameOverride": "시즌 제로",
     "Ranked_BlastBerry_SeasonNameOverride": "시즌 제로",
     "Ranked_Figment_SeasonNameOverride": "시즌 제로",
-    "BlackoutTimeCountdownFormat": "{0} 후에 이용 불가",
     "Ranked_Matchmaking_ReadyUpWelcome": "{0} 환영합니다"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5307,7 +5349,7 @@
     "GameReadiness_JumpIn": "플레이 중",
     "GameReadiness_SittingOut": "매치 미참가",
     "VoiceChannelTypeTitle": "음성 채널: <text color=\"{0}\">{1}</>",
-    "FriendSubscription_Off": "끄기",
+    "FriendSubscription_Off": "꺼짐",
     "FriendSubscription_On": "켜기"
   },
   "FortLocker": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "숨겨진 에셋",
     "MemoryTestResults_Summary_HighestMemoryLocation": "가장 높은 메모리 위치: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "가장 높은 메모리 사용량: {MemoryValue} / {MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "최고 메모리 사용량: {MemoryValue} / {MemoryThreshold}",
     "MemoryTestResults_Summary_Header": "메모리 계산 결과 요약",
     "MemoryTestResults_Summary_NumLocationsSampled": "샘플링한 위치 수: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "{0} 참조 체인 처리 중",
     "MemoryTestResults_Summary_Result": "결과: {0}",
     "MemoryTestResults_Summary_Result_Success": "성공",
     "MemoryTestResults_TopTotalExclActors_Header": "총 독점 크기 기준 탑 액터",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "클래스 {0}",
     "Game": "게임",
     "TeamScoreboardNameFormat": "{0} 팀",
-    "JoinInProgressTooLate": "참가하려는 게임이 이미 종료되었습니다.",
-    "UnableToFindSpawnPoint": "생성 지점 찾을 수 없음"
+    "JoinInProgressTooLate": "참가하려는 게임이 이미 종료되었습니다."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "보상:",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "{0}% 추가*"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "({0} 상응*)",
-    "RealPriceFormat_AdditionalText": "({0} 상응**)",
+    "RealPriceFormat": "(최대 {0} 상응*)",
+    "RealPriceFormat_AdditionalText": "(최대 {0} 상응**)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**V-Bucks를 정확히 {0}만큼 구매하는 경우 {1}의 금액을 지불하게 됩니다(가능한 경우). 이 플랫폼에서는 정확한 금액만큼 구매할 수 없습니다.",
     "RealPriceLegalFormat_AdditionalText": "**V-Bucks를 정확히 {0}만큼 구매하는 경우 {1}의 금액을 지불하게 됩니다.",
-    "ExactPackLegalText": "*1,000 V-Bucks 팩 가격과 비교하여 표시되는 추가 V-Bucks 비율입니다.",
+    "BonusAmountLegalFormat_Amount": "*{0} 팩 가격과 비교하여 표시되는 추가 V-Bucks 보너스입니다.",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*{0} 팩 가격과 비교하여 표시되는 추가 V-Bucks 비율 및 보너스입니다.",
+    "BonusAmountLegalFormat_PercentageLegacy": "*{0} V-Bucks 팩 가격과 비교하여 표시되는 추가 V-Bucks 비율입니다.",
+    "BonusAmountLegalFormat_Percentage": "*{0} 팩 가격과 비교하여 표시되는 추가 V-Bucks 비율입니다.",
     "RealPriceLegalFormat_NoExactAmount": "*V-Bucks를 정확히 {0}만큼 구매하는 경우 {1}의 금액을 지불하게 됩니다(가능한 경우). 이 플랫폼에서는 정확한 금액만큼 구매할 수 없습니다.",
     "RealPriceLegalFormat": "*V-Bucks를 정확히 {0}만큼 구매하는 경우 {1}의 금액을 지불하게 됩니다.",
+    "ExactAmountOfferTitleText": "정확한 금액 오퍼",
+    "NonRefundableVBucksLegalText": "V-Bucks 팩은 환불이 불가합니다.",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "관리 설정 다운로드에 실패했습니다.",
     "QueryKeychainFailedMsg": "에셋 키체인을 다운로드하는 데 실패했습니다.",
     "GuestLoginNotAllowed": "게스트 계정으로는 포트나이트를 플레이하실 수 없습니다. 계속하려면 별도의 Xbox 네트워크 계정으로 로그인하세요.",
-    "WorkspaceManagerInitFailed": "워크스페이스 매니저 초기화 실패",
     "InitializingEpicParty": "에픽 파티 초기화 중...",
     "RegisterUsabilityExperiment": "편리성 설정 초기화 중...",
     "LeavingParty": "파티 탈퇴 중...",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "팀 {0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>일정 생성</>",
+    "PlayScheduleTitle": "<Strong>플레이 일정</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "매일",
     "PlaytimeScheduleFriday": "금요일",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "시간대",
     "TuesdayPlaytimeCollection_Name": "화요일",
     "PlaytimeReports_Description": "자녀가 매주 포트나이트와 포트나이트 언리얼 에디터(UEFN)에서 보낸 시간을 확인합니다.\n\n이 설정을 사용하면 해당 정보가 포함된 주간 이메일을 받아볼 수도 있습니다.",
-    "WednesdayPlaytimeCollection_Name": "수요일"
+    "WednesdayPlaytimeCollection_Name": "수요일",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} (길게 누르기)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "건축 재료 자동 숨김",
     "AutoSetQuality_Action": "자동 설정",
     "AutoSetQuality_Name": "품질 자동 설정",
+    "AutomaticallyApplyXP_Name": "자동 적용 - 사람 XP",
     "DynamicResolution_Description": "GPU 부하량에 따라 3D 해상도를 자동으로 조정합니다. GPU 사용률이 낮을 때는 해상도가 네이티브 해상도까지 높아집니다. GPU 사용률이 높을 때는 해상도가 최소 3D 해상도 설정값까지 낮아집니다.",
     "AutoSetQuality_Description": "하드웨어 벤치마크에 따라 그래픽 품질 옵션을 자동으로 설정합니다.",
     "EditConfirmOnRelease_Description_Switch": "버튼 해제 시 자동으로 편집 액션을 확인합니다.",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "버튼 해제 시 자동으로 편집 초기화 액션을 확인합니다.",
     "ResetConfirmOnRelease_Description_PS4_PS5": "버튼 해제 시 자동으로 편집 초기화 액션을 확인합니다.",
     "ResetConfirmOnRelease_Description": "입력 버튼 해제 시 편집 초기화 행동을 자동 확인합니다.",
+    "AutomaticallyApplyXP_Description": "사용 가능한 사람 XP를 사용해 활성화된 영웅 편성의 영웅과 방어자 및 스쿼드의 생존자 레벨을 자동으로 올립니다",
     "AutoMulchMode_Traps_Description": "이 등급 이하의 함정 제작법들을 자동으로 재활용합니다.",
     "AutoMulchMode_Weapons_Description": "이 등급 이하의 무기 제작법들을 자동으로 재활용합니다.",
     "AutoMulchMode_Defenders_Description": "이 등급 이하의 방어자들을 자동으로 은퇴시킵니다.",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "버튼 그룹",
     "QuickWeaponButtonGroup_Name_XB1": "버튼 그룹",
     "QuickWeaponButtonGroup_Name_XSX": "버튼 그룹",
+    "ButtonHoldTime_Name": "버튼 길게 누르기 시간",
     "ControllerButtonMappingCollection_Name": "버튼 매핑",
     "TouchButtonPulseAnimation_Name": "버튼 펄스 애니메이션",
     "GyroCalibrationContext_Name": "조정",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "휴대 모드 자이로 센서 영역",
     "MobileVibration_Name": "햅틱",
     "ControllerHardwareCollection_Name": "하드웨어",
-    "EnableHardwareRayTracing_Name": "하드웨어 레이 트레이싱",
-    "EnableHardwareRayTracing_Description": "하드웨어 트레이싱은 루멘 글로벌 일루미네이션 및 반사를 사용할 수 있게 해주지만 성능을 저하시킵니다.",
     "GyroTighteningThreshold_Description": "컨트롤러가 매우 느리게 회전할 때 자이로 센서 조준 속도를 줄여 조준을 안정화해 줍니다. 컨트롤러 회전 속도가 한계치보다 빠르면 타이트닝 효과를 비활성화하고(초당 각도), 한계치를 0으로 설정하면 이 설정을 완전히 비활성화합니다. 자이로 센서 데드존은 이 한계치에 추가되므로, 둘 다 활성화하면 데드존에서 벗어날 때 타이트닝 효과로 더 부드럽게 전환됩니다.",
     "AutoMulchMode_Heroes_Name": "영웅",
     "HiddenMatchmakingDelay_Name": "숨겨진 매치메이킹 지연",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "낮은 입력 지연 모드",
     "GlobalIlluminationEpic": "루멘 에픽",
     "ReflectionsEpic": "루멘 에픽",
-    "Lumen is disabled": "루멘 GI 또는 반사를 활성화해야 합니다.",
     "GlobalIlluminationHigh": "루멘 높음",
     "ReflectionsHigh": "루멘 높음",
     "LumenUnavailableInGameMode": "이 게임 모드에서는 루멘을 이용할 수 없습니다.",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "빠른 무기",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "R2 해제",
     "GyroTrackballDecay_Description": "자이로 센서 트랙볼 사용 시 점진적 감속의 강도를 결정합니다(자이로 센서 버튼의 X축 기능과 Y축 기능의 트랙볼 옵션 동작에만 영향을 미칩니다).",
+    "LumenRequiresRayTracing": "이 플랫폼에서는 레이 트레이싱이 지원되지 않습니다.",
     "AnnualRefundTokenRequests_Name": "최근 구매",
     "TSRRecommended": "권장",
     "ReplayRecordingCreativeMode_Name": "포크리 리플레이 녹화",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "안전 구역",
     "AutoMulchCollection_Name": "세이브 더 월드 - 자동 재활용/은퇴",
+    "PeopleXPCollection_Name": "세이브 더 월드 - XP 자동 적용",
     "CombatTweakZone_Scope": "범위",
     "GyroActiveMode_Scope": "조준경만",
     "MouseScopedMultiplier_Name": "조준경 감도",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "루멘을 사용하려면 '렌더링 모드' 설정이 'DirectX 12'로 설정되어 있어야 합니다.",
     "NaniteRequiresD3D12": "나나이트를 활성화하려면 '렌더링 모드' 설정이 'DirectX 12'로 설정되어 있어야 합니다.",
     "FilterMatureLanguage_Warning": "만 13세 미만일 경우 비속어 필터가 항상 켜져 있습니다.",
+    "ButtonHoldTime_Description": "터치스크린 사용 시 버튼이 선택되기까지 누르고 있어야 하는 초 단위 시간입니다. UEFN 제작 경험에만 적용됩니다.",
     "KeyboardMovementBackwardDiagonal_Description": "키보드로 후방 대각선을 입력할 때 달릴 각도입니다.",
     "KeyboardMovementForwardDiagonal_Description": "키보드로 전방 대각선을 입력할 때 달릴 각도입니다.",
     "KeyboardMovementStrafeDiagonal_Description": "키보드로 옆걸음 시 달릴 각도입니다.",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0}초",
     "GyroButtonHoldTime_Display": "{0}초",
     "GyroSmoothWindowTime": "{0}초",
+    "LongPressTime_FormattedLabelText": "{0}초",
     "LookBoostAccelerationTimeAds_Format": "{0}초",
     "LookBoostAccelerationTime_Fortmat": "{0}초",
     "LookEaseTime_Format": "{0}초",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0}초",
     "SlideButtonHoldTime": "{0}초",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0}%",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "매일 다르게",
     "SettingOff": "끄기",
     "SettingSameEveryDay": "매일 동일하게"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "끄기",
+    "SettingOn": "켜기",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "아니오",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "스프레이"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "{0} 버전에서 {1} 버전으로 데이터를 마이그레이션하지 못했습니다(액터={2})"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "게임",
     "LoadingNameKey": "이름 불러오는 중",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes}분 {Seconds}초",
     "WeeksFormatText": "{Weeks}주 {Days}일"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "듀오",
-    "SubGameMode.LTMSolo": "솔로",
-    "SubGameMode.LTMSquads": "스쿼드"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(다운로드 필요)",
     "Message.Error": "오류가 발생했습니다.",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "다른 팀",
     "DuosTeam": "듀오",
     "Message.EstimatedTimeRemaining": "남은 예상 시간: {0}",
-    "Fill": "채움",
     "TeamFill": "채움",
     "Message.FindingMatchNoETA": "매치 찾는 중...\n경과 시간: {0}",
     "Message.FindingMatch": "매치 찾는 중...\n경과시간: {0}, 예상시간: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "매치메이킹 오류(#4)",
     "Message.ETANotAvailable": "없음",
     "Message.ModeNew": "새로운 모드 오픈!",
-    "NoFill": "채우기 없음",
     "NoTeamFill": "채우기 없음",
     "Header.NotMatchmaking": "매치메이킹하지 않음",
     "Message.CanMatchmakeSoloNewStyle": "시작",
     "Message.CanMatchmakeSolo": "시작!",
-    "Private": "비공개",
-    "Public": "공개",
     "Header.PartyError": "파티 오류",
     "Header.Preparing": "준비 중...",
     "PrivateMatch": "비공개",
     "PublicMatch": "공개",
     "Message.QueueFull": "대기열이 가득 찼습니다. 기다려 주세요...\n경과시간: {0}",
     "Message.PlayersInQueue": "대기 중인 플레이어 수: {0}\n경과 시간: {1}",
-    "Ranked": "랭크",
-    "RankedOff": "랭크: 끄기",
-    "RankedOn": "랭크: 켜기",
     "Message.CanReJoinGame": "다시 참가",
     "Message.CanMatchmakeParty": "준비 완료!",
     "PartySameTeamShort": "동일 팀",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "서버 응답 기다리는 중...",
     "Message.WaitingForReadyFormat_Two": "{0} 님과 {1} 님이 준비되기를 기다리는 중...",
     "Message.WaitingForReadyFormat_More": "{0}명의 플레이어가 더 준비되기를 기다리는 중...",
-    "Message.WaitingForReadyFormat_Single": "{0} 님이 준비되기를 기다리는 중...",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "{0} 님이 준비되기를 기다리는 중..."
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "새 소식"
@@ -8999,6 +9056,39 @@
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "{0} 토너먼트"
   },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "빌드",
+    "BuildModeTitle": "빌드 / 빌드 제로",
+    "TeamSize2": "듀오",
+    "Fill": "채우기",
+    "NoFill": "채우기 없음",
+    "TeamSize8": "옥텟",
+    "Off": "끄기",
+    "On": "켜기",
+    "RankedDescription": "매치 성적이 랭크에 영향을 줍니다",
+    "UnrankedDescription": "매치 성적이 랭크에 영향을 주지 않습니다",
+    "ZeroBuildModeDescription": "건설이 비활성화된 상태에서 플레이합니다",
+    "BuildModeDescription": "건설이 활성화된 상태에서 플레이합니다",
+    "TeamSize5": "퀸트",
+    "Ranked": "랭크",
+    "TeamSize6": "식스 스택",
+    "TeamSize1": "솔로",
+    "TeamSize4": "스쿼드",
+    "SquadFillTitle": "팀 채우기",
+    "TeamSizeTitle": "팀 크기",
+    "TeamSizeDescription1": "팀을 1명으로 제한합니다",
+    "TeamSizeDescription2": "팀을 2명으로 제한합니다",
+    "TeamSizeDescription3": "팀을 3명으로 제한합니다",
+    "TeamSizeDescription4": "팀을 4명으로 제한합니다",
+    "TeamSizeDescription5": "팀을 5명으로 제한합니다",
+    "TeamSizeDescription6": "팀을 6명으로 제한합니다",
+    "TeamSizeDescription8": "팀을 8명으로 제한합니다",
+    "TeamSize3": "트리오",
+    "Unranked": "랭크 없음",
+    "FillDescription": "매치메이킹 시작 전에 팀을 채웁니다",
+    "NoFillDescription": "파티에 있는 플레이어만 팀에 포함합니다",
+    "ZeroBuildMode": "빌드 제로"
+  },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "유효하지 않은 백엔드 요청! 나가는 중입니다."
   },
@@ -9149,7 +9239,7 @@
   },
   "GameActivity": {
     "CompleteTutorial": "튜토리얼 완료(솔로로 플레이하려면 파티를 탈퇴하세요)",
-    "InstallSaveTheWorld": "세이브 더 월드를 설치하세요.",
+    "InstallSaveTheWorld": "세이브 더 월드 설치",
     "PartySize": "파티 크기: 1-4인",
     "PlatformSupport": "세이브 더 월드를 지원하는 플랫폼",
     "Purchase": "세이브 더 월드 구매"
@@ -9159,7 +9249,7 @@
   },
   "GamePhaseChanging": {
     "AircraftStartingIn": "배틀버스 출발까지",
-    "AircraftEndingTime": "모두 뛰어내리세요! 마지막 다이빙 지점까지",
+    "AircraftEndingTime": "모두 뛰어내리세요! 마지막 종착지까지",
     "GameOverReturning": "게임 종료, 대기실로 돌아가기까지",
     "StormEyeShrinking": "폭풍의 눈 축소까지",
     "StormShrinkingIn": "폭풍의 눈 축소까지",
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "켜기로 설정하면 모드가 장착된 무기에 호버링했을 때 설명이 아닌 아이콘만 표시됩니다."
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</> 님이 게임에서 승리했습니다!"
+    "WinnerGameFormat": "<WinnerName>{0}</> 님이 게임에서 승리했습니다!",
+    "SuspendKick": "너무 오랫동안 정지 상태로 있어 추방되었습니다."
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "알 수 없는 이유로 인해 비활성화되었습니다."
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "그룹 초대",
     "GroupInviteDescription": "{0} 님이 그룹 초대 보냄"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "모든 HLTv2 설정을 커스터마이징 가능한 UI로 마이그레이션"
   },
   "HUD": {
     "Cancel": "취소",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "전력 레벨과 기본 능력치가 증가했습니다.",
     "MemberJoinedToastTitle": "{0} 님이 팀에 참가했습니다."
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "의류에 에디터 커맨드 실행"
-  },
   "MessageDispatcher": {
     "UnknownError": "{ChannelName}에서 알 수 없는 {MessageName} 오류가 발생했습니다.",
     "ChannelNotValid": "오류: \"{MessageName}\" 채널이 더 이상 유효하지 않습니다. 채널 없음으로 전환됩니다.",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "팩트 설정",
     "SetFactTemplate": "팩트 템플릿 설정",
-    "SetFactText": "팩트 텍스트 설정"
+    "FactArrayTextFormat": "{0} 팩트"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "{0} 델리게이트 암시 인수 0 및 셀프 팩트에 대해 인수 타입 불일치가 있습니다. 표현식: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "팩트에 대한 {0} 반환 타입({1})을 디코딩하지 못했습니다. 표현식: {2}",
     "CouldntFindFact": "이름이 {0}인 팩트를 찾지 못함",
     "CouldntGenerateConditionalToken": "조건부 토큰을 생성하지 못했습니다",
+    "CouldntGenerateLoopToken": "루프 토큰을 생성하지 못했습니다",
     "CouldntParseConditionalSymbol": "조건부 심볼을 파싱하지 못했습니다",
+    "CouldntParseLoopSymbol": "루프 기호를 파싱하지 못했습니다",
     "InvalidDelegateObject_3": "델리게이트 팩트 {0}|hpp(이,가) 유효한 팩트 타입을 반환하지 않습니다. 표현식: {1}",
     "InvalidDelegateObject_2": "델리게이트 팩트 {0}|hpp(이,가) 오브젝트 {1}의 유효한 함수 이름에 바인딩되지 않았습니다. 표현식: {2}",
     "InvalidDelegateObject_1": "델리게이트 팩트 {0}|hpp(이,가) 유효한 오브젝트에 바인딩되지 않았습니다. 표현식: {1}",
     "DelegateRecursionExceeded": "델리케이트 {0} 재귀 깊이 초과입니다. 표현식: {1}",
     "InfiniteDelegateRecursionDetected": "{0} 델리게이트에서 무한 델리게이트 재귀를 감지했습니다. 표현식: {1}",
     "ExpectedQuote": "예상 \"",
+    "ExpectedIn": "{% for element in ... 내 엘리먼트 이름 뒤 예상되는 'in'",
     "ExpectedElseIfCondition": "{% else if  %} 내 예상된 조건 표현식",
     "ExpectedIfCondition": "{% if  %} 내 예상된 조건 표현식",
+    "ExpectedElement": "{% for 뒤 예상되는 엘리먼트 이름 ",
+    "ExpectedForElseInnerTemplate": "{% else %} 및 {% endfor %} 사이의 예상된 else 템플릿",
     "ExpectedElseInnerTemplate": "{% else %} 및 {% endif %} 사이의 예상된 else 템플릿",
     "ExpectedInnerTemplate": "예상된 내부 템플릿",
     "ExpectedClosingBrace": "예상된 일치 팩트 표현식 종료 }",
+    "ExpectedForLoop": "{% for  %} 내 예상된 범위 표현식",
+    "ExpectedWhitespaceAfterIn": "{% for element in ... 내 'in' 뒤 예상되는 공백",
     "InvalidFact_1": "유효하지 않은 팩트 {0}(오류: {1})|hpp(이,가) 표현식에서 레퍼런스됨: {2}",
     "InvalidFact_2": "유효하지 않은 팩트 {0}|hpp(이,가) 표현식에서 레퍼런스됨: {1}",
     "InvalidDelegateParamCall": "실행인자를 수락하지 않는 델리게이트 {0}에 대한 유효하지 않은 파라미터화 호출입니다. 표현식: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "템플릿 재귀 깊이 초과입니다. 표현식: {0}",
     "TooManyArgs": "{0}에 대한 호출에 파라미터가 너무 많습니다. 표현식: {1}",
     "UnexpectedElseAfterElse": "기존 else 이후 예상치 못한 else 블록",
+    "UnexpectedElseAfterElseInFor": "기존 else 이후 예상치 못한 else 블록",
     "UnexpectedElseIfAfterElse": "기존 else 이후 예상치 못한 else if 블록",
     "EOSExpectedConditionEnd": "예상하지 못한 스트림 종료입니다. 예상 종료 ' %}'",
+    "EOSExpectedLoopEnd": "스트리밍이 예상치 못하게 종료되었습니다. 예상 종료 ' %}'",
+    "EOSExpectedEndFor2": "스트리밍이 예상치 못하게 종료되었습니다. 예상 종료 {% endfor %}",
     "EOSExpectedEndIf2": "예상하지 못한 스트림 종료입니다. 예상 종료 {% endif %}",
+    "EOSExpectedEndFor1": "스트리밍이 예상치 못하게 종료되었습니다. 예상된 내부 템플릿 및 {% endfor %} 종료 중",
     "EOSExpectedEndIf1": "예상하지 못한 스트림 종료입니다. 예상된 내부 템플릿 및 {% endif %} 종료 중",
     "ExpectedOpenBrace": "{1}에 의도하지 않은 토큰 '{2}' 발견: {3} 이후 델리게이트 팩트, 표현식: {0}",
     "UnexpectedFactExprToken": "예상하지 못한 토큰 '{0}'이 {1}에 있음: {2}|hpp(이,가) 팩트 표현식에 있음: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "불일치 표현식 종료 중 }"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "채팅 완료기 오버라이드",
-    "RunEnginePromptTooltip": "응답 평가를 위해 모놀로그 *엔진* 서브시스템을 사용하는 프롬프트 실행",
-    "RunWorldPromptTooltip": "응답 평가를 위해 모놀로그 *월드* 서브시스템을 사용하는 프롬프트 실행",
-    "RefreshPreviewTooltip": "템플릿 강제 재팩트화(예: 다이내믹 델리게이트 팩트 재평가를 위함)",
-    "PromptNameLabel": "이름",
+    "LabelChatCompleterOverride": "채팅 완료기 오버라이드",
+    "TooltipChatCompleterOverride": "답변 생성에 사용할 채팅 완성기입니다. 지정하지 않을 경우, 모놀로그 엔진 서브시스템의 '기본 채팅 완성기'가 사용됩니다.",
+    "LabelPromptName": "이름",
+    "ButtonNavigateToSystemMessage": "시스템 메시지로 이동(Ctrl + Alt + 위쪽 화살표)",
+    "ButtonNavigateToUserMessage": "사용자 메시지로 이동(Ctrl + Alt + 위쪽 화살표)",
+    "ButtonNavigateToNextFact": "다음 팩트로 이동 (Ctrl + Alt + 오른쪽 화살표)",
+    "ButtonNavigateToPreviousFact": "이전 팩트로 이동(Ctrl + Alt + 왼쪽 화살표)",
+    "SetChatCompleterClassOverride": "채팅 완성기 오버라이드",
     "PromptPreviewSettings": "프롬프트 프리뷰 세팅",
     "PromptResponse": "프롬프트 응답",
-    "SavePreviewTooltip": "반복 테스트를 위한 에셋에 프리뷰 설정 저장",
-    "SetMPChatCompleterOverride": "모놀로그 프롬프트 채팅 완성기 오버라이드 설정",
+    "ButtonRefreshFacts": "팩트를 새로고칩니다. 예: 에디터의 기본 모델 제거",
+    "ButtonRunPrompt": "모놀로그 *World* 또는 (*Engine*) 서브시스템을 사용하여 프롬프트를 실행하여 답변 생성",
+    "ButtonSavePreview": "반복 테스트를 위한 에셋에 프리뷰 설정 저장",
     "SetPromptName": "프롬프트 이름 설정",
     "SetPromptPreviewSettings": "프롬프트 프리뷰 세팅 설정",
-    "SetPromptSystemMessage": "프롬프트 시스템 메시지 템플릿 설정",
-    "SetPromptUserMessage": "프롬프트 사용자 메시지 템플릿 설정",
-    "SystemMessageLabel": "시스템 메시지",
-    "CompleterOverrideTooltip": "이 요청에 사용할 유 채팅 완성기입니다. 지정하지 않을 경우, 모놀로그 엔진 서브시스템의 '기본 채팅 완성기'가 사용됩니다.",
-    "UserMessageLabel": "사용자 메시지",
-    "WrapSystemMessageToolTip": "래핑 텍스트",
-    "WrapUserMessageToolTip": "래핑 텍스트"
+    "SetSystemMessageTemplate": "시스템 메시지 템플릿 설정",
+    "SetUserMessageTemplate": "사용자 메시지 템플릿 설정"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "데이터 레지스트리 팩트 델리게이트 - 데이터 레지스트리에서 이름이 '{0}'인 팩트를 찾지 못했습니다",
     "NoDRSubsystem": "데이터 레지스트리 팩트 델리게이트 - 데이터 레지스트리 서브시스템을 이용할 수 없습니다. 데이터 레지스트리 플러그인이 활성화되었는지 확인하세요.",
     "InvalidDRFactItemId": "데이터 레지스트리 팩트 델리게이트 - 데이터 레지스트리 아이템 ID 스트링 '{0}'|hpp(은,는) 유효한 데이터 레지스트리 아이템 ID가 아닙니다",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "이벤트 상세 정보를 얻기 위해 수동으로 인지된 이벤트에 전달된 유효한 첫 유 모놀로그 컴포넌트가 없습니다!",
     "FirstPersonName_My": "내",
     "NameNoSubject": "이름을 얻기 위해 서브젝트에 전달된 아이 모놀로그 서브젝트 인터페이스가 없습니다!",
     "ObservedNameNoSubject": "이름을 얻기 위해 서브젝트에 전달된 아이 모놀로그 서브젝트 인터페이스가 없습니다!",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "{0} 님의"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "근처 서브젝트에 유효하지 않은 수색 높이가 전달되었습니다. 수색 높이는 0보다 커야 합니다",
+    "NearbySubjectsInvalidSearchRadius": "근처 서브젝트에 유효하지 않은 수색 반경이 전달되었습니다. 수색 반경은 0보다 커야 합니다",
+    "NearbySubjectsNoActor": "근처 서브젝트에 전달된 모놀로그 컴포넌트에 거리를 확인할 소유자가 없습니다",
+    "NearbySubjectsNoSelf": "근처 서브젝트에 전달된 유 모놀로그 컴포넌트가 없습니다",
     "SmartObjectBehaviorsNoSelf": "스마트 오브젝트 비헤이비어에 전달된 유 모놀로그 컴포넌트가 없습니다",
+    "SpatialContextNoSelf": "공간 컨텍스트에 전달된 유 모놀로그 컴포넌트가 없습니다",
     "SmartObjectBehaviorsNoPawn": "스마트 오브젝트 비헤이비어 - 서브젝트에서 폰 확보 실패",
     "SpatialContextNoPawn": "공간 컨텍스트 - 서브젝트에서 폰 확보 실패"
   },
@@ -10881,23 +10989,23 @@
     "Thursday": "목요일",
     "Tuesday": "화요일",
     "Wednesday": "수요일",
-    "NextPlayPeriodTimeWindowsOtherDay": "{DayName} {NextPeriodStartTime}부터 시간이 추가됩니다.",
-    "NextPlayPeriodTimeWindowsToday": "오늘 {NextPeriodStartTime}부터 시간이 추가됩니다.",
-    "NextPlayPeriodTimeWindowsTomorrow": "내일 {NextPeriodStartTime}부터 시간이 추가됩니다.",
-    "NextPlayPeriodAllowedTimeTomorrow": "내일부터 시간이 추가됩니다.",
-    "NextPlayPeriodAllowedTimeOtherDay": "{DayName}부터 시간이 추가됩니다.",
+    "NextPlayPeriodTimeWindowsOtherDay": "{DayName} {NextPeriodStartTime}에 시간이 추가됩니다.",
+    "NextPlayPeriodTimeWindowsToday": "오늘 {NextPeriodStartTime}에 시간이 추가됩니다.",
+    "NextPlayPeriodTimeWindowsTomorrow": "내일 {NextPeriodStartTime}에 시간이 추가됩니다.",
+    "NextPlayPeriodAllowedTimeTomorrow": "내일 시간이 추가됩니다.",
+    "NextPlayPeriodAllowedTimeOtherDay": "{DayName}에 시간이 추가됩니다.",
     "PlaytimeSummaryTimeWindowsOnlyInWindow": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했으며, 오늘 {PeriodEndTime}까지 플레이할 수 있습니다.",
-    "PlaytimeSummaryBothNextWindowOtherDay": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했으며, 오늘 남은 시간이 없습니다. 시간은 {DayName} {NextPeriodStartTime}에 재개될 예정입니다.",
-    "PlaytimeSummaryBothNextWindowTomorrow": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했으며, 오늘 남은 시간이 없습니다. 시간은 내일 {NextPeriodStartTime}에 재개될 예정입니다.",
-    "PlaytimeSummaryAllowedTimeOnlyNoTimeLeftNextLaterDay": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했으며, 오늘 남은 시간이 없습니다. 시간은 {DayName}에 재개될 예정입니다.",
-    "PlaytimeSummaryAllowedTimeOnlyNoTimeLeftNextTomorrow": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했으며, 오늘 남은 시간이 없습니다. 시간은 내일 재개될 예정입니다.",
+    "PlaytimeSummaryBothNextWindowOtherDay": "오늘 제한 시간 {PlayTimespan}을 모두 사용하여 더 이상 남은 시간이 없습니다. {DayName} {NextPeriodStartTime}부터 다시 이용할 수 있습니다.",
+    "PlaytimeSummaryBothNextWindowTomorrow": "오늘 제한 시간 {PlayTimespan}을 모두 사용하여 더 이상 남은 시간이 없습니다. 내일 {NextPeriodStartTime}부터 다시 이용할 수 있습니다.",
+    "PlaytimeSummaryAllowedTimeOnlyNoTimeLeftNextLaterDay": "오늘 제한 시간 {PlayTimespan}을 모두 사용하여 더 이상 남은 시간이 없습니다. {DayName}부터 다시 이용할 수 있습니다.",
+    "PlaytimeSummaryAllowedTimeOnlyNoTimeLeftNextTomorrow": "오늘 제한 시간 {PlayTimespan}을 모두 사용하여 더 이상 남은 시간이 없습니다. 내일부터 다시 이용할 수 있습니다.",
     "PlaytimeSummaryAllowedTimeOnlyHasTimeLeft": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했으며, 오늘 남은 시간은 {RemainingTimespan} 입니다.",
     "PlaytimeSummaryBothInWindowWithTimeLeft": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했으며, 오늘 남은 시간은 {RemainingTimespan} 입니다.",
     "PlaytimeSummaryBothNextWindowToday": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했습니다. 남은 시간은 {RemainingTimespan}이며 시간은 오늘 {NextPeriodStartTime}에 재개될 예정입니다.",
     "PlaytimeSummaryTimeWindowsOnlyNextWindowOtherDay": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했습니다. 시간은 {DayName} {NextPeriodStartTime}에 재개될 예정입니다.",
     "PlaytimeSummaryTimeWindowsOnlyNextWindowToday": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했습니다. 시간은 오늘 {NextPeriodStartTime}에 재개될 예정입니다.",
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했습니다. 시간은 내일 {NextPeriodStartTime}에 재개될 예정입니다.",
-    "PlaytimeAddResultRegular": "자녀가 지금부터 {NewPlayTimespan}의 시간을 갖습니다."
+    "PlaytimeAddResultRegular": "지금 {NewPlayTimespan}의 시간을 추가합니다."
   },
   "PlayerStateAthena": {
     "CustomItemPrefix": "{PlayersDisplayName}의 {ItemName}"
@@ -10975,7 +11083,7 @@
     "Compatibility_OrDelimiter": " 또는 ",
     "Compatibility_ListDelimiter": ", ",
     "Compatibility_AvailableIn": "{0}에서 이용 가능",
-    "Compatibility_Fallback": "현 매치에서는 사용할 수 없습니다",
+    "Compatibility_Fallback": "현재 매치에서 사용 불가",
     "Compatibility_UnavailableIn": "{0} 후에 이용 불가",
     "DebugCompatibility_NoDisplayName": "경고: {0}에 대한 표시명이 없습니다!",
     "DebugCompatibility_Unsupported": "경고: 지원되지 않는 표현입니다!"
@@ -10994,9 +11102,6 @@
   "RangedWeapon": {
     "PrimaryActionName": "사격",
     "SecondaryActionName": "줌"
-  },
-  "Ranked": {
-    "Ranked_UnrankedText": "랭크 없음"
   },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "{LevelRequired}레벨을 달성하여 신규 세트를 잠금 해제하세요",
     "Offer_CanUnlockSet": "이 세트를 잠금 해제하고 보상을 획득하세요!"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "{Date}에 잠금 해제"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "{IndexPage}페이지 모든 보상 획득",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "비밀 열쇠 기다리는 중"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "시즌 {0}의 시즌 번호가 유효하지 않습니다. 예상: {1}(지난 시즌 + 1) 결과: {2}"
+    "InvalidSeasonDependencies": "시즌 참조된 에셋 {0}에서 종속성을 가져오지 못했습니다.",
+    "InvalidSeasonNumber": "시즌 {0}의 시즌 번호가 유효하지 않습니다. 예상: {1}(지난 시즌 + 1) 결과: {2}",
+    "IncompatibleSeasonNumber": "시즌 {0}에서 종속성 {1}의 유효성을 검사하려고 합니다. 참조하는 시즌({3})보다 출시 버전({2})이 큽니다.",
+    "InvalidObjectDef": "시즌 {0}에서 종속성 {1}의 유효성을 검사하려고 합니다. UFortItemDefinition이어야 했지만 그렇지 않았습니다."
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "선물 <text size=\"18\">{0}개</> 개봉 가능",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "포트나이트를 플레이해 주셔서 감사합니다!",
     "PurchaseHeader": "아이템 {0}개 획득"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "트랙 추가",
+    "AddTrack_ToolTip": "신규 액션 트랙 생성"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "저장",
+    "SavePrompts_ToolTip": "저장 프롬프트 제공자"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "모든 HUD 레이아웃 도구 설정을 커스터마이징 가능한 UI로 마이그레이션",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "HLTv2-커스터마이징 가능한 UI 마이그레이터 도구를 열어 모든 HLTv2 설정을 새로운 커스터마이징 가능한 UI 프레임워크로 마이그레이션합니다."
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "공간 프로파일러 열기",
+    "OpenSpatialProfiler_ToolTip": "공간 프로파일러 탭 열기"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "무기 현대화 도구 열기",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "{CategoryName} 보상을 모두 획득해 잠금 해제",
     "CategoryStatus_LockedRewardLevelFormat": "보상 {NumRewards}개를 더 획득하거나  {NumLevels}레벨을 달성해 잠금 해제",
-    "CategoryStatus_LockedUntilLevel": "{LevelRequired}레벨을 달성하여 이 세트를 잠금 해제하세요",
-    "Status_LockedDateLockedFormat": "{Date}에 잠금 해제"
+    "CategoryStatus_LockedUntilLevel": "{LevelRequired}레벨을 달성하여 이 세트를 잠금 해제하세요"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "{CategoryName} 보상을 모두 획득해 잠금 해제",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "탈것 오디오 장식 데이터 선택기 변환기 실행",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "탈것 장식 아이템 정의 오디오 선택기 변환기 실행"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "다중 값"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "에셋이 아이템 정의가 아닙니다",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Fort Vehicle Cosmetics Preview Actor",
     "CanCreateActorFrom_InvalidAsset": "유효하지 않은 에셋",
     "CanCreateActorFrom_InvalidAssetClass": "유효하지 않은 에셋 클래스"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "유효하지 않음",
+    "MultipleValues": "다중 값"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Fort Vehicle Cosmetics Variant Token",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "좌석 변경",
     "SwitchToWeapon": "무기로 변경"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "없음"
   },
   "VkAnimNode": {
     "FADEINLEFT": "왼쪽에서 페이드 인",
@@ -11715,6 +11845,9 @@
     "OutBoundError": "대화 재시작은 다음 작업을 지닐 수 없습니다"
   },
   "VkSpeechNode": {
+    "OutBoundError": "이 노드는 같은 유형의 다른 노드나 재시작 노드와 연결할 수 없습니다"
+  },
+  "VkSpeechRandomVariantNode": {
     "OutBoundError": "이 노드는 같은 유형의 다른 노드나 재시작 노드와 연결할 수 없습니다"
   },
   "VkTextCrawlNode": {

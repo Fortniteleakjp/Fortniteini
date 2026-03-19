@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "Examiner",
     "CF6195BE44741B679B03A7970B0904F5": "Examiner",
     "B8C80B5041E5FBA2635752B2A5271479": "Interagir",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "Options du LLM...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "Options du LLM...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "Options du LLM...",
     "AEB376F240A55432B193BC8797FF5AE9": "Options du LLM...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "Options du LLM...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Porter",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Votre réserve est pleine",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName} : {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "Un bref résumé (1 à 2 mots) pour le quatrième choix possible.",
+    "OptionTwo_ShortText": "Un intitulé concis (1 à 2 mots) pour le deuxième choix du joueur.",
+    "OptionSix_ShortText": "Une expression brève (1 à 2 mots) pour la sixième et dernière option.",
+    "OptionOne_ShortText": "Une description très brève (1 à 2 mots) de la première option. Ce que le joueur voit dans le menu de choix.",
+    "OptionFive_ShortText": "L'intitulé d'interface (1 à 2 mots) pour la cinquième option de dialogue.",
+    "OptionTwo_FullText": "La phrase complète du joueur lorsqu'il sélectionne \"OptionTwo\".",
+    "OptionFour_FullText": "La réplique complète du joueur pour \"OptionFour\".",
+    "OptionOne_FullText": "La réplique complète du joueur dans le cas de \"OptionOne\", qui doit être un développement de la description brève.",
+    "OptionSix_FullText": "Le dialogue complet du joueur lorsqu'il sélectionne \"OptionSix\".",
+    "OptionThree_FullText": "Le dialogue complet du personnage-joueur pour \"OptionThree\".",
+    "OptionFive_FullText": "La phrase complète du joueur lorsqu'il choisit \"OptionFive\".",
+    "OptionThree_ShortText": "Le texte court affiché (1 à 2 mots) pour la troisième option."
   }
 }

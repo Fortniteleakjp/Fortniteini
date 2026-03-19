@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "Menú del juego",
+    "95ECDCA94656A3029ADE71B59767D9A9": "General de Sparks"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>No</>: los gestos de baile mantendrán su ritmo estándar y la música del gesto se oirá junto a la pista de improvisación.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>Sí</>: los gestos de baile se sincronizarán al ritmo de la pista de improvisación y se silenciará la música del gesto.",

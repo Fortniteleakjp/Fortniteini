@@ -1,4 +1,8 @@
 {
+  "": {
+    "FA5F8AF14C4B14070C63C0BA3262906C": "Spielmenü",
+    "95ECDCA94656A3029ADE71B59767D9A9": "Sparks allgemein"
+  },
   "FortniteMusicSparksSettings": {
     "SynchronizeMyDanceEmotesToJamTracks_Off_Description": "<strong>Aus</>: Tanz-Emotes werden in normaler Geschwindigkeit abgespielt und die Musik des Emotes übertönt den Jam-Song.",
     "SynchronizeMyDanceEmotesToJamTracks_On_Description": "<strong>An</>: Tanz-Emotes passen sich an den Rhythmus des Jam-Songs an und die Musik des Emotes wird stummgeschaltet.",

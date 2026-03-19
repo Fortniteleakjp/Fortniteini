@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "No se pudieron recuperar los datos de la textura de altura. No se pudo inicializar.",
     "TextureInitFailed": "No se pudieron recuperar los datos de esta textura. No se pudo inicializar.",
+    "FailExtractGrassTypeOverrides": "Error al extraer las anulaciones de tipo de césped.",
+    "MissingGrassName": "Falta el nombre del tipo de césped, no pudieron etiquetarse los datos. Asegúrate de que todos los tipos de césped del material de paisaje tengan un recurso asociado.",
     "LandscapeComponentLost": "Consulta uno o más componentes de paisaje perdidos. No se generarán mapas de césped."
   }
 }

@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "Yükseklik dokusu verisi alınamadı, başlatma başarısız oldu.",
     "TextureInitFailed": "Bu dokunun verisi alınamadı, başlatma başarısız oldu.",
+    "FailExtractGrassTypeOverrides": "Çimen türü geçersiz kılmaları alınamadı.",
+    "MissingGrassName": "Çimen türü ismi eksikti, veri etiketlenemedi. Arazi malzemelerindeki tüm çim türlerinin bir öğeyle ilişkilendirildiğinden emin ol.",
     "LandscapeComponentLost": "Bir veya daha fazla manzara bileşeni kaybolduğunda çimen haritaları oluşturulmayacaktır."
   }
 }

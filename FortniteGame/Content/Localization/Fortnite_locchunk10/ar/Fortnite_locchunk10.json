@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "الرمز المميز لإكمال الإنجاز",
     "48008F3445314E50326D9FB086B9189F": "الرمز المميز لإكمال الإنجاز",
     "FC7458584E93A2CCE3222B9CB21FFF51": "الرمز المميز لإكمال الإنجاز",
+    "647B590E4A6D893A4E58DB921F805840": "النشاط",
     "9FEF179645D8A343518563AEFE302A2A": "النشاط",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "مهام إضافية للسائر المنجرف.",
     "C0AD274548543104E8F3ABB507431A91": "مهام إضافية لحزمة مهام حارسة غولدنباين",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "أنشئ قابسًا فارغًا لمشروع جونو.",
     "E806A3B84B22DDCF92AAF2B4C829173": "أنشئ مكوّن ميزة لعبة، من أجل FNE، لضم تعريف عنصر. تُضاف FNE إليه تلقائيًا فقم بتسميته اسمًا رمزيًا فقط وبهذا سيكون جاهزًا. مثال: FooBar ستصبح FNEFooBar!",
     "37C405BC468E03254AB82CB18FD5CF98": "أنشئ مكوّن سيناريو مخيم جديدًا",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "أنشئ كائنًا جديدًا إضافيًا لمشروع Juno.",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "إنشاء جهاز جديد للوضع الإبداعي",
     "9E0FC24F423F8F20BB5934B8F479E56B": "أنشئ جهاز نسيج جديدًا لوضع FNE.",
     "5E0375C044B7B6205FA5AABD6B429116": "إنشاء مكوّن إضافي لميزة لعبة Fortnite مع الرمز (سيتطلب تعديلًا إضافيًا لملفات الرمز قبل استخدامها من دون أخطاء).",
     "633C71E243C17F5070573DB8EA470FBD": "إنشاء مكوّن إضافي لميزة لعبة Fortnite مع الرمز + وحدة واجهة المستخدم (سيتطلب تعديلًا إضافيًا لملفات الرمز قبل استخدامها من دون أخطاء).",
     "D5255BA645C1DCF04D17019E061BAB8A": "إنشاء مكوّن إضافي لميزة لعبة Fortnite باستخدام محتوى أساسي.",
+    "A4A0F4E74285005A28C88FBBB31AD140": "أنشئ أسلوب لعب جديدًا إضافيًا لمشروع صندوق الفضول.",
     "92B3DC974E94F5CA36482B9DB3343CF2": "أنشئ أسلوب لعب جديدًا إضافيًا لمشروع Juno.",
-    "A4A0F4E74285005A28C88FBBB31AD140": "أنشئ أسلوب لعب جديدًا إضافيًا لمشروع البرعم.",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "أنشئ مكوّن سيناريو مخيم Juno جديد",
     "D5255BA645C1DCF04D17019E061BAB7A": "أنشئ مكوّن إضافي جديد لميزة لعبة الجذر.",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "إنشاء مكوّن فارغ جديد لميزة لعبة Fortnite. يحتوي فقط على أصل بيانات ميزة اللعبة.",
     "D4034010418FF429289586AC5F972D77": "أنشئ مكوّنًا إضافيًا فارغًا لمحتوى واجهة المستخدم لميزة اللعب الجديدة في باتل رويال",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "رحالة جمجمة الموت",
     "54743E7F439EF3489ADB5689670DEFFE": "تحديات العميلة إكس",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "تحديات العناق اللطيف",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "نموذج المكوّن لأسلوب لعب صندوق الفضول",
     "EF9405A043B0E869255F438176090428": "رمز اكتمال البطاقة المثقوبة اليومية",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "رقصة الدعم",
     "FEA5CDF84F86CFEEDCFFD69726390294": "يلحق <Emphasized>المزيد من الضرر</> عند <Emphasized>انخفاض الصحة</>.",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "بندقية هجومية محسنة  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "رشّاش خفيف صغير محسّن",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "شوزِن محسَنة بمخزن أسطواني",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "سلاح الحربة المُحسَّن",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "شوزِن تكتيكي محسّن",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "أدخل بالمدفع",
     "E6F1B9FF470A284E11AF6F891FE7D098": "أدخل بالمدفع",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "مسدسات بعيدة المدى نصف آلية ذات طلقات ثقيلة",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "مسدسات بعيدة المدى نصف آلية ذات طلقات ثقيلة",
     "2D37E97E43724ABA040D5DB07530962F": "أسلحة بعيدة المدى مسدسات نصف آلية",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "مسدسات نصف آلية بعيدة المدى",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "مسدسات بعيدة المدى النصف آلية",
     "9EA74A7A4C987B0D9D927EB133619716": "أسلحة بعيدة المدى مسدسات نصف آلية",
     "BF1FF2F14FDC8846B569E7966543F17B": "مسدسات بعيدة المدى نصف آلية",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "بندقية صيد",
     "D29EE9294C3C6ACC03577885D6B34262": "بندقية صيد",
     "DFD2853F433A8DA06177BFAAF22D0CED": "بندقية صيد",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "لقذف قنبلة يدوية تدفع جميع اللاعبين القريبين للوراء بمجرد انفجارها.",
     "88E97DAD4C1AB681AF821394106303DF": "تقذف قنبلة تلتصق باللاعبين الأعداء أو نطاقهم.",
     "9F773C444680E58D8F932EA37E5F0581": "تقذف قنبلة تلتصق باللاعبين الأعداء أو نطاقهم.",
     "90F8ED68488FD4B3343C46A4B7131E87": "تقذف قنبلة تطلق سحابة سامّة تدمر الأعداء في داخلها. من الأفضل إخلاء المكان!",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "تحسين <Emphasized>معدل الهجوم</> على كل التقنيات",
     "842064DD4CCAF532392128861286DD02": "تحسين دقة <Emphasized>طلقات الخصر</> لجميع الأسلحة",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "قنبلة دَفْع",
+    "CFEA70984FEAE95DC388B0AC8B919432": "قنبلة دَفْع",
     "FB4BDD7B494F39753C6778979CD662CC": "في الهواء: اقفز للهدف",
     "80D8948A44365AE1A9D3DB9925A43A2B": "زيادة <Emphasized>سرعة الطائرة الشراعية</>",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "زادت <Emphasized>ضرر إصابة الرأس</>، لكنها خفضت <Emphasized>ضرر الجسم</>",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "منصة القفز (الاتجاهية)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "منصة القفز (لأعلى)",
     "251E3DE8412479479C227D821FAAC425": "مكون إضافي فارغ لجونو",
-    "38DE538C495F59868887E890EC3FD597": "سيناريو مخيم Juno",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "نموذج إضافي لكائن Juno",
     "105342A546779B970DC46E80183052FE": "نموذج إضافي لأسلوب لعب Juno",
     "EF22E85B49A871DF9C133DA1F84B3900": "JunoTG (سمة لعبة)",
     "FDA97C5F4842CB9AE5195393C8759F84": "JunoTM (سمة بسيطة)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "كينقزمان الذي يمكنه <Emphasized>صد المزيد من</> الضرر القادم",
     "330D995D4F99BB677CE5FF8643A9B17A": "شوزِن شحن خاص بكيت",
     "A01D19E14ACA958C292350B0BDD893E8": "KnockGrenade UtilityItem Grenade",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "قنبلة إطاحة، عنصر مساعدة، قنبلة",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "مجموعة أصول ميتافيرس LEGO",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "تكوين أصول ميتافيرس LEGO",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} Swimming{swimming} Montage{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "اللاعب",
     "291AD5F7469E20890EFCD288976C3A9B": "رمز أهلية استبيان اللاعب",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "تم ربح نقاط خبرة وقت اللعب!",
     "14164C9D434D02CF6E737F8644740969": "تم ربح نقاط خبرة وقت اللعب!",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "اللغم الأرضي",
     "FE97DA514506C8282ACCE59BFD3A562C": "اللغم الأرضي",
     "EB7FCBAD49E466CA687372AC079CF68B": "اللغم الأرضي +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "لجذب الأعداء نحوك وتوجيه ضرر.",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "شوزِن بسحّاب",
     "EF0917D448D388C00D296F8E62FF2DC4": "شوزِن بسحّاب +",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "شوزِن بسحّاب مع <Emphasized>ضرر مُحسن للإصابة في الرأس</>",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "اخمد تلك النيران!",
     "4253CE934E3EFF13CA95C787B6D46641": "قم بتحية لإيريسا بطلة التنس الصيفي الجديدة على الجزيرة!",
     "43088BA143F2B6BCAEE378847172BE8C": "المحطم الرباعي",
+    "CC13E7A44B19B6541560D085C426791D": "المحطم الرباعي",
     "24034CD84B1D10C83560F8902AF33DC2": "المهام",
     "280019E146742BEA12E9E897FA18D7D4": "المهام",
     "31F60738447C00A236E84A89CEB3B03A": "المهام",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "أنفق الخشب لبدء نار المخيم الدفيئة والعلاج!",
     "654EA602493B038AED40358E6100A5F7": "أنفق الخشب لبدء نار المخيم الدفيئة والعلاج!",
     "CD5B0A744223502F67BABD81B1230D5D": "بخاخ",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "نموذج المكوّن لأسلوب لعب البرعم",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (سمة اللعب)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "طلبات الفريق",
     "459B35F94D969E08A4D1109E18B98C2F": "سلاح <Emphasized>اشتباكي</> ذو إصدار قياسي",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "التركيز على الهدف",
     "TiltAngleIndicator": "درجات إمالة {0}"
   },
+  "AIActionSequence": {
+    "AppLabel": "تسلسل حركات الذكاء الاصطناعي",
+    "AIActionSequenceTab": "تسلسل حركات الذكاء الاصطناعي",
+    "AddTrack": "إضافة مسار ذكاء اصطناعي",
+    "DeleteAction": "حذف حركات الذكاء الاصطناعي",
+    "DeleteTrack": "حذف مسار الذكاء الاصطناعي"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "افتح في محرر تسلسلات حركات الذكاء الاصطناعي",
+    "OpenAIActionSequencesEditor_Tooltip": "فتح هذا العنصر في محرر تسلسلات حركات الذكاء الاصطناعي"
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "فتح أداة تحرير التوجيهات",
+    "PromptEditorTool": "أداة تحرير التوجيهات",
+    "PromptEditorToolTabTitle": "أداة تحرير التوجيهات"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "اختار عضو واحد على الأقل من فريقك مغادرة المواجهة بسبب غياب لاعبين.",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0}: {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "تسلسل حركات الذكاء الاصطناعي",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0} دقيقة",
     "LongestKillDistanceText": "{0} دقيقة"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "اليوم",
-    "NumberOfDays": "{NumDays} {0}|plural(zero=يوم, one=يوم, two=يوم, few=أيام, many=يوم, other=يوم)"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "وضع المؤشر",
     "PlaceDangerMarkerDoubleTap": "ضع مؤشر الخطر (بالنقر المزدوج)",
@@ -2522,7 +2544,7 @@
     "ReturnToSettings": "العودة إلى علامة تبويب الإعدادات الأخيرة",
     "RotateDescription": "تدوير",
     "ReleaseBalloon": "لتحرير المنطاد",
-    "ThrowPlayer": "رمي"
+    "ThrowPlayer": "مرحى"
   },
   "AthenaGiftingConfirmationScreen": {
     "NewGiftBoxReceived": "حصلت على خيار تغليف هدايا جديد!"
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "وقت استخدام وحدة معالجة الرسوميات الكلي : {GPUTimeMS} مللي ثانية",
     "DrawCalls": "إجمالي مرات التصيير: {DrawCalls}",
     "NumPrimitives": "إجمالي الإكساءات التي تم تصييرها: {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nاستخدام الذاكرة : {1} / {2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nاستخدام الذاكرة : {1} / {2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\nاستهلاك الذاكرة : {1} / {2}Mb"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "تمت التصفية"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "استعد للمواجهة التالية",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "استعد!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "استعد مع فريق جديد.",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "إعادة المواجهة",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "إعادة المباراة مع الفريق",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "الإبلاغ عن لاعب",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "العودة إلى الردهة",
     "KeepPlayingTogether.PartyMemberOptedOutText": "صوت بعض أعضاء المجموعة لعدم البقاء في الفريق",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "يُنصت {0} من المشاهدين!"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "لديك عناصر LEGO® متداخلة في مشروعك. لا يتماشى هذا مع إرشادات LEGO®. يجب معالجة جميع التداخلات وإلا سيتعرض مشروعك إلى خطر فشل التوازن.\nالعنصر {0} يتداخل مع عنصر آخر (عناصر أخرى) {1}:",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "العنصر {1} يتداخل مع عنصر آخر (عناصر أخرى) {2}:"
   },
   "Augments": {
     "AugmentsRerollContext": "{0} /"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "تعذر إنشاء مصمم حزمة المحتوى",
     "InvalidStateRequested": "خطأ داخلي في إشارة المحتوى التنبيهية\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "خطأ في الانضمام",
+    "ServicesUnavailable": "تشهد خدماتنا ضغطًا عاليًا في الوقت الراهن.  حاول مرة أخرى بعد قليل.\n {ShortErrorCode}",
     "PackageResolveFlowCancelled": "تم إلغاء التحكم في في مصمم المحتوى لسبب غير معروف.",
     "ProjectDuplicationErrorTitle": "خطأ في استنساخ المشروع",
     "RequestInvalid": "ظهر خلل من نوع ما في الطلب {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "توقف الخادم بشكل غير متوقع. يُرجى إعادة المحاولة\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "توقف الخادم بشكل غير متوقع. يُرجى إعادة المحاولة\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "محرر تسلسل حركات الذكاء الاصطناعي"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "مكوّن HLTv2 إلى واجهة مستخدم قابلة للتخصيص",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "المحلل المكاني",
     "WeaponModernizationEditorCommands": "أداة تحديث الأسلحة"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "لا يمكن للاعب في وضع الشاشة المنقسمة الاستعداد، سجّل الدخول كلاعب رئيسي لتغيير إعدادات اللعب عبر المنصات"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "الحجم",
+    "CopyOfCustomLayoutProfile": "{0} من النسخ",
+    "CopyOfLayoutPreset": "{0} من النسخ"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0 من الدقائق",
     "AllowedTimeNoLimit": "بلا حدود",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "تصفية عناصر الذكاء الاصطناعي القريبة",
     "DebugCommand_EndGame_DisplayName": "إنهاء اللعبة",
     "DebugCommand_EndRound_DisplayName": "إنهاء الجولة",
+    "DebugCommand_Flight_DisplayName": "التحليق",
     "DebugCommand_GiveGold_DisplayName": "زيادة مورد الذهب",
     "DebugCommand_AddPlayerScore_DisplayName": "زيادة النتيجة",
     "DebugCommand_PauseRound_DisplayName": "إيقاف مؤقت الجولة مؤقتًا",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "حقائب الظهر",
     "Badge": "شارة",
     "Badge_Plural": "الشارات",
+    "SparksBass": "باس",
+    "SparksBass_Plural": "غيتارات باس",
     "Buff": "مؤثر إيجابي",
     "BuffCredit": "مؤثر إيجابي",
     "BuffCredit_Plural": "مؤثرات إيجابية",
     "Buff_Plural": "مؤثرات إيجابية",
+    "JunoBuildingSet": "مبنى",
     "BuildingPiece": "المبنى Piece",
     "BuildingPiece_Plural": "قطع البناء",
+    "JunoBuildingSet_Plural": "مبانٍ",
     "ItemCache": "المخبأ",
     "ItemCache_Plural": "ذاكرة التخزين المؤقت",
     "CodeToken": "رمز الكود المميز",
@@ -3506,12 +3548,16 @@
     "Currency": "عملة",
     "DailyRewardScheduleToken": "جائزة يومية",
     "DailyRewardScheduleToken_Plural": "الجوائز اليومية",
+    "JunoBuildingProp": "زينة",
     "Deco": "عنصر ديكور",
     "Deco_Plural": "عناصر ديكور",
+    "JunoBuildingProp_Plural": "عناصر زينة",
     "Defender": "المدافع",
     "Defender_Plural": "المدافعون",
     "DeployableBaseCloudSave": "قاعدة قابلة للنشر",
     "DeployableBaseCloudSave_Plural": "قواعد قابلة للنشر",
+    "SparksDrums": "طبول",
+    "SparksDrums_Plural": "طبول",
     "EditTool": "أداة التحرير",
     "EditTool_Plural": "أدوات التحرير",
     "Emote": "رقصة",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "أدوات تعديل طريقة اللعب",
     "Glider": "طائرة شراعية",
     "Glider_Plural": "الطائرات الشراعية",
+    "SparksGuitar": "غيتار",
+    "SparksGuitar_Plural": "غيتارات",
     "Hero": "البطل",
     "Hero_Plural": "الأبطال",
     "HomebaseBannerIcon": "راية القاعدة الرئيسية",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "رايات القاعدة الرئيسية",
     "Ingredient": "مكون",
     "Ingredient_Plural": "المكونات",
+    "SparksKeyboard": "كيتار",
+    "SparksKeyboard_Plural": "كيتارات",
     "CosmeticShoes": "الأحذية",
     "CosmeticShoes_Plural": "الأحذية",
     "LoadingScreen": "شاشة التحميل",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "غنيمة",
     "WeaponMelee": "سلاح شجار",
     "WeaponMelee_Plural": "أسلحة الشجار",
+    "SparksMicrophone": "ميكروفون",
+    "SparksMicrophone_Plural": "ميكروفونات",
     "MissionItem": "عنصر مهمة",
     "MissionItem_Plural": "عناصر مهمة",
     "Music": "موسيقى",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "قم بتذكيري لاحقًا",
     "EmoteConfirmDesc": "ستصل رقصة القفز المتنوع إلى حسابك خلال 24 ساعة!"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "إدارة الأمواج",
-    "InitialWave": "الموجة [ 0 ] - الموجة الأولية"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "تكوين إعدادات محرر مكون المشاركات الإضافي.",
-    "EngagementsEditorProjectSettingsName": "محرر المشاركات"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "لا يمكن التفاعل",
     "InteractionMessage": "تفاعل"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "محرر CTA",
     "ConditionalTransitionEditorTabTooltip": "فتح محرر ممثل الانتقال الشرطي"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "جارٍ التحقق من المكوّنات",
+    "CustomizableUI": "واجهة مستخدم قابلة للتخصيص",
+    "HLTv2ToCustomizableUIMigratorTool": "نقل جميع إعدادات HLTv2 إلى واجهة مستخدم قابلة للتخصيص",
+    "FailedToWriteDescriptor": "تعذر العثور على المكوّن \"{0}\""
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "الربض في أثناء البناء (النقر) / الانزلاق (الضغط باستمرار)",
     "CrouchWhileEditing": "الربض في أثناء التحرير (النقر) / الانزلاق (الضغط باستمرار)",
     "ToggleCursorMode": "وضع المؤشر",
-    "Custom1(Fire)": "إدخال مخصص 1 (إطلاق النار)",
     "CustomInput10(Right)": "إدخال مخصص 10 (يمين)",
     "CustomInput11(PreviousItem)": "إدخال مخصص 11 (العنصر السابق)",
     "CustomInput12(NextItem)": "إدخال مخصص 12 (العنصر التالي)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "إدخال مخصص 16 (تبديل المخزون)",
     "CustomInput17(SquadRequests)": "إدخال مخصص 17 (طلبات الفرقة)",
     "CustomInput18(Emote)": "إدخال مخصص 18 (رقصة)",
-    "CustomInput2(Target)": "إدخال مخصص 2 (استهداف)",
-    "CustomInput3(Crouch)": "إدخال مخصص 3 (الربض)",
-    "CustomInput4(Jump)": "إدخال مخصص 4 (القفز)",
-    "CustomInput5(Sprint)": "إدخال مخصص 5 (الجري)",
     "CustomInput6(Interact)": "إدخال مخصص 6 (التفاعل)",
     "CustomInput7(Forward)": "إدخال مخصص 7 (إلى الأمام)",
     "CustomInput8(Backwards)": "إدخال مخصص 8 (إلى الخلف)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "الوصول المبكر",
-    "MapRotationMessage": "الخريطة التالية: {0}",
     "Ranked_Feral_ModeName": "وضع اندفاع المصنف",
     "Ranked_Figment_ModeName": "العودة في Fortnite المصنفة",
     "Ranked_LTM_ModeName": "وضع تصنيف محدود الوقت",
     "Ranked_DelMar_SeasonNameOverride": "السباق المُصنّف",
     "Ranked_BlastBerry_ModeName": "تصنيف الإعادة",
     "Ranked_BattleRoyale_ModeName": "مُصنّف {0}",
-    "ReJoinMessage": "أعد الانضمام إلى مباراة جارية لتجنب {0} تقييد العثور على لاعبين",
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "الموسم صفر",
     "Ranked_BlastBerry_SeasonNameOverride": "الموسم صفر",
     "Ranked_Figment_SeasonNameOverride": "الموسم صفر",
-    "BlackoutTimeCountdownFormat": "غير متاح خلال {0}",
     "Ranked_Matchmaking_ReadyUpWelcome": "مرحبًا في {0}"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "أصل مخفٍ",
     "MemoryTestResults_Summary_HighestMemoryLocation": "أعلى موقع للذاكرة: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "أعلى استهلاك للذاكرة: {MemoryValue} / {MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "أعلى استهلاك للذاكرة: {MemoryValue} / {MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "ملخص نتائج حساب الذاكرة",
     "MemoryTestResults_Summary_NumLocationsSampled": "عدد المواقع التي أُخذ عينات منها: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "جارٍ معالجة {0} من السلاسل المرجعية",
     "MemoryTestResults_Summary_Result": "النتيجة: {0}",
     "MemoryTestResults_Summary_Result_Success": "نجاح",
     "MemoryTestResults_TopTotalExclActors_Header": "أظهر العناصر حسب الحجم الإجمالي الحصري",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "الفئة {0}",
     "Game": "اللعبة",
     "TeamScoreboardNameFormat": "الفريق {0}",
-    "JoinInProgressTooLate": "اللعبة التي كنت تحاول الانضمام إليها انتهت بالفعل.",
-    "UnableToFindSpawnPoint": "يتعذر العثور على نقطة نشر"
+    "JoinInProgressTooLate": "اللعبة التي كنت تحاول الانضمام إليها انتهت بالفعل."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "الجائزة:",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "{0}% إضافية*"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "(ما يعادل {0}*)",
-    "RealPriceFormat_AdditionalText": "(ما يعادل {0}**)",
+    "RealPriceFormat": "(ما يعادل ما يصل إلى {0}*)",
+    "RealPriceFormat_AdditionalText": "(ما يعادل ما يصل إلى {0}**)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**لشراء ما يعادل {0} من عملات V-Bucks بالضبط، إن كانت متاحة، فستدفع {1}. هذه المنصة لا تدعم الشراء بمبلغ محدد.",
     "RealPriceLegalFormat_AdditionalText": "**لشراء ما يعادل {0} من عملات V-Bucks بالضبط، ستدفع {1}.",
-    "ExactPackLegalText": "*نسبة عملات V-Bucks الإضافية تظهر مقارنة بسعر حزمة 1000 عملة V-Bucks.",
+    "BonusAmountLegalFormat_Amount": "*تظهر مكافأة عملات V-Bucks الإضافية مقارنةً بسعر حزمة {0}.",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*تظهر نسبة عملات V-Bucks الإضافية والمكافأة مقارنةً بسعر حزمة {0}.",
+    "BonusAmountLegalFormat_PercentageLegacy": "*تظهر نسبة عملات V-Bucks الإضافية مقارنةً بسعر حزمة {0} من عملات V-Bucks.",
+    "BonusAmountLegalFormat_Percentage": "*تظهر نسبة عملات V-Bucks الإضافية مقارنةً بسعر حزمة {0}.",
     "RealPriceLegalFormat_NoExactAmount": "*لشراء ما يعادل {0} من عملات V-Bucks بالضبط، إن كانت متاحة، ستدفع {1}. هذه المنصة لا تدعم الشراء بمبلغ محدد.",
     "RealPriceLegalFormat": "*لشراء ما يعادل {0} من عملات V-Bucks بالضبط، ستدفع {1}.",
+    "ExactAmountOfferTitleText": "عرض المقدار المضبوط",
+    "NonRefundableVBucksLegalText": "لا يمكن استرداد قيمة حزم عملات V-Bucks.",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "تعذر تنزيل الإعدادات التي تم الإشراف عليها.",
     "QueryKeychainFailedMsg": "تعذر تنزيل سلسلة مفاتيح الأصل",
     "GuestLoginNotAllowed": "لا يمكن لحسابات الضيوف لعب Fortnite. يُرجى تسجيل الدخول إلى حساب شبكة Xbox مستقل للاستمرار.",
-    "WorkspaceManagerInitFailed": "تعذر تشغيل مدير مساحة العمل",
     "InitializingEpicParty": "جارٍ تهيئة مجموعة Epic...",
     "RegisterUsabilityExperiment": "جارٍ تهيئة إعدادات قابلية الاستخدام...",
     "LeavingParty": "جارٍ مغادرة المجموعة...",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "الفريق {0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>إنشاء جدول زمني</>",
+    "PlayScheduleTitle": "<Strong>جدول اللعب</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "كل يوم",
     "PlaytimeScheduleFriday": "الجمعة",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "نافذة التوقيت",
     "TuesdayPlaytimeCollection_Name": "الثلاثاء",
     "PlaytimeReports_Description": "عرض مقدار الوقت الذي قضاه طفلك في Fortnite وUnreal Editor لـFortnite ‏(UEFN) لكل أسبوع.\n\nفي حالة تشغيل هذا الإعداد، فستتمكن أيضًا من اختيار تلقي رسالة بريد إلكترونية أسبوعيًا بهذه المعلومات.",
-    "WednesdayPlaytimeCollection_Name": "الأربعاء"
+    "WednesdayPlaytimeCollection_Name": "الأربعاء",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} (اضغط باستمرار)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "إخفاء مواد البناء التلقائي",
     "AutoSetQuality_Action": "التعيين التلقائي",
     "AutoSetQuality_Name": "جودة التعيين التلقائي",
+    "AutomaticallyApplyXP_Name": "تطبيق تلقائي - نقاط خبرة الأشخاص",
     "DynamicResolution_Description": "لضبط الدقة الثلاثية الأبعاد تلقائيًا حسب حِمل وحدة معالجة الرسوميات. عندما يكون استخدام وحدة معالجة الرسوميات منخفضًا، ستزيد الدقة حتى تصل إلى الدقة الأصلية. عندما يكون استخدام وحدة معالجة الرسوميات مرتفعًا، ستقل الدقة حتى تصل إلى إعداد الحد الأدنى من الدقة الثلاثية الأبعاد.",
     "AutoSetQuality_Description": "قم بتكوين خيارات جودة الرسوميات تلقائيًا بناءً على معيار الجودة.",
     "EditConfirmOnRelease_Description_Switch": "يؤكد تلقائيًا إجراء تحرير على الزرّ الذي تم إصداره.",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "يؤكد تلقائيًا إجراء تحرير إعادة التعيين على الزرّ الذي تم إصداره.",
     "ResetConfirmOnRelease_Description_PS4_PS5": "يؤكد تلقائيًا إجراء تحرير إعادة التعيين على الزرّ الذي تم إصداره.",
     "ResetConfirmOnRelease_Description": "يؤكد تلقائيًا إجراء تحرير إعادة التعيين على المدخلات التي تم إصدارها.",
+    "AutomaticallyApplyXP_Description": "ارفع مستوى الأبطال والمدافعين تلقائيًا من عتاد البطل النشط لديك، والناجين من فِرقك، باستخدام نقاط خبرة الأشخاص المتوفرة لديك",
     "AutoMulchMode_Traps_Description": "إعادة تدوير تلقائي لمخططات المصائد بهذه الندرة أو أقل.",
     "AutoMulchMode_Weapons_Description": "إعادة تدوير تلقائي لمخططات الأسلحة بهذه الندرة أو أقل.",
     "AutoMulchMode_Defenders_Description": "إنهاء تلقائي للمُدافعين بهذه الندرة أو أقل.",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "مجموعة الأزرار",
     "QuickWeaponButtonGroup_Name_XB1": "مجموعة الأزرار",
     "QuickWeaponButtonGroup_Name_XSX": "مجموعة الأزرار",
+    "ButtonHoldTime_Name": "مدة الضغط باستمرار على الزر",
     "ControllerButtonMappingCollection_Name": "تخطيط الأزرار",
     "TouchButtonPulseAnimation_Name": "حركة الأزرار النابضة",
     "GyroCalibrationContext_Name": "المعايرة",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "مساحة جيروسكوب بالوضع المحمول",
     "MobileVibration_Name": "التقنيات اللمسية",
     "ControllerHardwareCollection_Name": "المُعدات",
-    "EnableHardwareRayTracing_Name": "تتبع أشعة الجهاز",
-    "EnableHardwareRayTracing_Description": "يوفر تتبع أشعة الجهاز جودة عالية في اللومن والإضاءة عامة والانعكاسات، لكنه قد يقلل من الأداء.",
     "GyroTighteningThreshold_Description": "تساعدك على التصويب بشكل ثابت ومتزن من خلال تقليل سرعة التصويب بالجيروسكوب عندما يكون جهاز التحكم الخاص بك يعمل ببطء شديد. الحد هو حجم السرعة التي يحتاجها جهاز التحكم لتعطيل تأثير التشديد (الدرجات لكل ثانية)، ويمكن تعطيل هذا التأثير تمامًا من خلال تعيين الحد على 0. تمت إضافة جيروسكوب المنطقة غير النشطة إلى هذا الحد، ليوفر التشديد نوعًا من التنعيم عند الإرسال إلى المنطقة غير النشطة في حالة تفعيل كلًا منهما.",
     "AutoMulchMode_Heroes_Name": "الأبطال",
     "HiddenMatchmakingDelay_Name": "مهلة المطابقة المخفية",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "وضع تأخر الإدخال القليل",
     "GlobalIlluminationEpic": "لومن ملحمية",
     "ReflectionsEpic": "لومن ملحمية",
-    "Lumen is disabled": "يجب تمكين إضاءة لومن العامة أو الانعكاسات.",
     "GlobalIlluminationHigh": "لومن عالية",
     "ReflectionsHigh": "لومن عالية",
     "LumenUnavailableInGameMode": "لومن ليس متوفرًا في وضع اللعب هذا",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "السلاح السريع",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "إفلات R2",
     "GyroTrackballDecay_Description": "معدل الإبطاء لكرة تتبع الجيروسكوب (يؤثر فقط في أداء خيارات كرة التتبع لزر الجيروسكوب المحور X وزر الجيروسكوب المحور Y).",
+    "LumenRequiresRayTracing": "تقنية تتبع الأشعة غير مدعومة على هذه المنصة.",
     "AnnualRefundTokenRequests_Name": "المشتريات الحديثة",
     "TSRRecommended": "مُوصى به",
     "ReplayRecordingCreativeMode_Name": "تسجيل عمليات الإعادة الإبداعية",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "المنطقة الآمنة",
     "AutoMulchCollection_Name": "أنقِذ العالم - إعادة تدوير تلقائي / إنهاء",
+    "PeopleXPCollection_Name": "أنقِذ العالم - تطبيق نقاط الخبرة تلقائيًا",
     "CombatTweakZone_Scope": "النطاق",
     "GyroActiveMode_Scope": "المنظار فقط",
     "MouseScopedMultiplier_Name": "حساسية النطاق",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "يجب ضبط إعدادات \"نمط العرض\" على \"DirectX 12\" من أجل تمكين لومن.",
     "NaniteRequiresD3D12": "يجب ضبط إعدادات \"نمط العرض\" على \"DirectX 12\" من أجل تمكين نانايت.",
     "FilterMatureLanguage_Warning": "إن لغة البالغين مفعّلة دائمًا للاعبين الذين تقل أعمارهم عن 13 عامًا.",
+    "ButtonHoldTime_Description": "مقدار الوقت (بالثواني) الذي يؤدي فيه الضغط باستمرار على زر إلى تحديده عند استخدام شاشة تعمل باللمس. ينطبق فقط على التجارب المُصممة في UEFN",
     "KeyboardMovementBackwardDiagonal_Description": "زاوية الركض عند دخول وضع مائل خلفي بلوحة المفاتيح.",
     "KeyboardMovementForwardDiagonal_Description": "زاوية الركض عند دخول وضع مائل أمامي بلوحة المفاتيح.",
     "KeyboardMovementStrafeDiagonal_Description": "زاوية الركض عند القصف بلوحة المفاتيح.",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0} من الثواني",
     "GyroButtonHoldTime_Display": "{0} من الثواني",
     "GyroSmoothWindowTime": "{0} من الثواني",
+    "LongPressTime_FormattedLabelText": "{0} من الثواني",
     "LookBoostAccelerationTimeAds_Format": "{0} من الثواني",
     "LookBoostAccelerationTime_Fortmat": "{0} من الثواني",
     "LookEaseTime_Format": "{0} ثوان",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0} من الثواني",
     "SlideButtonHoldTime": "{0} من الثواني",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0}%",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "مخصص لكل يوم",
     "SettingOff": "إيقاف",
     "SettingSameEveryDay": "الشيء نفسه كل يوم"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "تعطيل",
+    "SettingOn": "تشغيل",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "لا",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "بخاخ"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "فشل نقل البيانات من الإصدار {0} إلى {1} (العامل={2})"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "اللعبة",
     "LoadingNameKey": "الحصول على اسم",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes} من الدقائق و{Seconds} من الثواني",
     "WeeksFormatText": "{Weeks} من الأسابيع {Days} من الأيام"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "ثنائي",
-    "SubGameMode.LTMSolo": "فردي",
-    "SubGameMode.LTMSquads": "فِرق"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(مطلوب التنزيل)",
     "Message.Error": "حدث خطأ.",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "فرق مختلفة",
     "DuosTeam": "ثنائي",
     "Message.EstimatedTimeRemaining": "الوقت المتبقي المتوقع: {0}",
-    "Fill": "تعبئة",
     "TeamFill": "التعبئة",
     "Message.FindingMatchNoETA": "جارٍ البحث عن المواجهة...\nالمنقضية: {0}",
     "Message.FindingMatch": "جار البحث عن مواجهة...\nانقضى: {0}، وقت الوصول المقدر: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "خطأ في العثور على اللاعبين (#4)",
     "Message.ETANotAvailable": "غير متوفر",
     "Message.ModeNew": "يتوفر وضع جديد!",
-    "NoFill": "لا تعبئة",
     "NoTeamFill": "لا تعبئة",
     "Header.NotMatchmaking": "عدم العثور على اللاعبين",
     "Message.CanMatchmakeSoloNewStyle": "لعب",
     "Message.CanMatchmakeSolo": "العب!",
-    "Private": "خاص",
-    "Public": "عام",
     "Header.PartyError": "خطأ في المجموعة",
     "Header.Preparing": "جارٍ الإعداد...",
     "PrivateMatch": "خاص",
     "PublicMatch": "عام",
     "Message.QueueFull": "الطابور ممتلئ، يرجى الانتظار...\nانقضى: {0}",
     "Message.PlayersInQueue": "اللاعبون في قائمة الانتظار:{0}\nالوقت المنقضي: {1}",
-    "Ranked": "مُصنّف",
-    "RankedOff": "الوضع المصنف معطَّل",
-    "RankedOn": "الوضع المصنف مشغل",
     "Message.CanReJoinGame": "إعادة الانضمام",
     "Message.CanMatchmakeParty": "جاهز!",
     "PartySameTeamShort": "نفس الفريق",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "في انتظار الخادم...",
     "Message.WaitingForReadyFormat_Two": "قيد انتظار {0} و{1} للاستعداد...",
     "Message.WaitingForReadyFormat_More": "قيد انتظار {0} من المزيد من اللاعبين للاستعداد...",
-    "Message.WaitingForReadyFormat_Single": "قيد انتظار {0} للاستعداد...",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "قيد انتظار {0} للاستعداد..."
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "الأخبار"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "تم رفض طلبك للانضمام إلى اللعبة. يرجى المحاولة مرة أخرى بعد قليل.",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "{0} من البطولات"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "بناء",
+    "BuildModeTitle": "بناء / بلا بناء",
+    "TeamSize2": "الوضع الثنائي",
+    "Fill": "تعبئة",
+    "NoFill": "لا تعبئة",
+    "TeamSize8": "فريق ثماني",
+    "Off": "إيقاف",
+    "On": "تشغيل",
+    "RankedDescription": "سيؤثر الأداء في تصنيفك",
+    "UnrankedDescription": "لن يؤثر الأداء في تصنيفك",
+    "ZeroBuildModeDescription": "العب خلال تعطيل البناء",
+    "BuildModeDescription": "العب خلال تفعيل البناء",
+    "TeamSize5": "الوضع الخماسي",
+    "Ranked": "تصنيفي",
+    "TeamSize6": "فرقة سداسية",
+    "TeamSize1": "الوضع الفردي",
+    "TeamSize4": "وضع الفِرق",
+    "SquadFillTitle": "تعبئة الفريق",
+    "TeamSizeTitle": "حجم الفريق",
+    "TeamSizeDescription1": "تقتصر الفِرق على لاعب واحد",
+    "TeamSizeDescription2": "تقتصر الفِرق على لاعبين",
+    "TeamSizeDescription3": "تقتصر الفِرق على ثلاثة لاعبين",
+    "TeamSizeDescription4": "تقتصر الفِرق على أربعة لاعبين",
+    "TeamSizeDescription5": "تقتصر الفِرق على خمسة لاعبين",
+    "TeamSizeDescription6": "تقتصر الفِرق على ستة لاعبين",
+    "TeamSizeDescription8": "تقتصر الفِرق على ثمانية لاعبين",
+    "TeamSize3": "الوضع الثلاثي",
+    "Unranked": "بلا تصنيف",
+    "FillDescription": "سيتم ملء فريقك قبل بدء العثور على اللاعبين",
+    "NoFillDescription": "سيتضمن فريقك لاعبين في مجموعتك فقط",
+    "ZeroBuildMode": "بلا بناء"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "طلب خلفية غير صالح! جار الخروج."
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "عند التشغيل، ستعرض الأسلحة المعدلة التي تقف عليها، الرموز فقط بدلًا من الأوصاف."
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</> فاز باللعبة!"
+    "WinnerGameFormat": "<WinnerName>{0}</> فاز باللعبة!",
+    "SuspendKick": "تم استبعاده بسبب توقفه لفترة طويلة للغاية."
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "معطل لسبب مجهول."
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "دعوة المجموعة",
     "GroupInviteDescription": "دعاك {0} إلى مجموعة"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "نقل جميع إعدادات HLTv2 إلى واجهة مستخدم قابلة للتخصيص"
   },
   "HUD": {
     "Cancel": "إلغاء",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "مستوى القوة الخاص بك وإحصائيات فورت قد ازدادت الآن.",
     "MemberJoinedToastTitle": "{0} انضم إلى الفريق"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "تطبيق أوامر المحرر على الملابس"
-  },
   "MessageDispatcher": {
     "UnknownError": "حدث خطأ غير معروف في {MessageName} على {ChannelName}",
     "ChannelNotValid": "الخطأ: القناة لم تعد صالحة لـ \"{MessageName}\"، مما سيؤدي إلى إرجاعها إلى لا توجد قناة.",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "تعيين حقيقة",
     "SetFactTemplate": "تعيين قالب الحقيقة",
-    "SetFactText": "تعيين نص الحقيقة"
+    "FactArrayTextFormat": "حقائق {0}"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "عدم تطابق نوع الوسائط لمفوض {0} أخفى نوع الوسائط 0 وحقيقة Self. التعبير: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "تعذّر فك تشفير نوع الإرجاع {0} ({1}) إلى الحقيقة. التعبير: {2}",
     "CouldntFindFact": "لم أستطع العثور على أي حقائق باسم {0}",
     "CouldntGenerateConditionalToken": "تعذر توليد الرمز الشرطي",
+    "CouldntGenerateLoopToken": "تعذر إنشاء رمز الحلقة",
     "CouldntParseConditionalSymbol": "تعذر تحليل الرمز الشرطي",
+    "CouldntParseLoopSymbol": "تعذر تحليل رمز الحلقة",
     "InvalidDelegateObject_3": "الحقيقة المفوضة {0} لا تأتي بنوع صالح من الحقائق. التعبير: {1}",
     "InvalidDelegateObject_2": "الحقيقة المفوضة {0} غير مرتبطة باسم وظيفة صالح للكائن {1}. التعبير: {2}",
     "InvalidDelegateObject_1": "الحقيقة المفوضة {0} غير مرتبطة بكائن صالح. التعبير: {1}",
     "DelegateRecursionExceeded": "تم تجاوز الحد الأقصى لتكرار الطلب الذاتي للمفوض {0}. التعبير: {1}",
     "InfiniteDelegateRecursionDetected": "تم الكشف عن تكرار غير نهائي لطلب المفوض {0}. التعبير: {1}",
     "ExpectedQuote": "متوقع \"",
+    "ExpectedIn": "من المتوقع 'in' بعد اسم عنصر في {% for element in ...",
     "ExpectedElseIfCondition": "توقع وجود تعبير شرطي في {% else if  %}",
     "ExpectedIfCondition": "توقع وجود تعبير شرطي في {% if  %}",
+    "ExpectedElement": "اسم عنصر متوقع بعد {% for ",
+    "ExpectedForElseInnerTemplate": "قالب else متوقع بين {% else %} و{% endfor %}",
     "ExpectedElseInnerTemplate": "قالب else متوقع بين {% else %} و{% endif %}",
     "ExpectedInnerTemplate": "قالب داخلي متوقع",
     "ExpectedClosingBrace": "متوقع إغلاق تعبير الحقيقة المطابق }",
+    "ExpectedForLoop": "من المتوقع وجود تعبير نطاق في {% for  %}",
+    "ExpectedWhitespaceAfterIn": "من المتوقع وجود مسافة بعد 'in' في {% for element in ...",
     "InvalidFact_1": "حقيقة غير صالحة {0} (خطأ: {1}) مشار إليها في التعبير: {2}",
     "InvalidFact_2": "حقيقة غير صالحة {0} مشار إليها في التعبير: {1}",
     "InvalidDelegateParamCall": "طلب ذو معلمات غير صالحة لمفوّض {0} الذي لا يقبل أي وسائط. التعبير: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "تم تجاوز الحد الأقصى لتكرار الطلب الذاتي للقالب. التعبير: {0}",
     "TooManyArgs": "معلمات أكثر من اللازم في طلب {0}. التعبير: {1}",
     "UnexpectedElseAfterElse": "وحدة else غير متوقعة بعد else السابقة",
+    "UnexpectedElseAfterElseInFor": "وحدة else غير متوقعة بعد else سابقة",
     "UnexpectedElseIfAfterElse": "وحدة else if غير متوقعة بعد else السابقة",
     "EOSExpectedConditionEnd": "إنهاء بث غير متوقع. الإغلاق المتوقع \" %}\"",
+    "EOSExpectedLoopEnd": "إنهاء بث غير متوقع. الإغلاق المتوقع \" %}\"",
+    "EOSExpectedEndFor2": "إنهاء بث غير متوقع. الإغلاق المتوقع {% endfor %}",
     "EOSExpectedEndIf2": "إنهاء بث غير متوقع. الإغلاق المتوقع {% endif %}",
+    "EOSExpectedEndFor1": "إنهاء بث غير متوقع. قالب داخلي متوقع مع إغلاق {% endfor %}",
     "EOSExpectedEndIf1": "إنهاء بث غير متوقع. قالب داخلي متوقع مع إغلاق {% endif %}",
     "ExpectedOpenBrace": "رمز غير متوقع \"{0}\" @ {1}:{2} بعد الحقيقة المفوضة، في التعبير: {3}",
     "UnexpectedFactExprToken": "رمز غير متوقع \"{0}\" @ {1}:{2} في التعبير عن الحقيقة: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "نهاية تعبير غير متطابقة }"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "تجاوز مُكمل الدردشة",
-    "RunEnginePromptTooltip": "تنفيذ التوجيه باستخدام النظام الفرعي لـ*محرك* المونولوج لتقييم الاستجابة.",
-    "RunWorldPromptTooltip": "تنفيذ الطلب باستخدام نظام المونولوج الفرعي *العالمي* لتقييم الاستجابة.",
-    "RefreshPreviewTooltip": "إجبار إعادة تعيين حقائق القوالب (مثلًا لإعادة تقييم الحقائق المفوضة المتغيرة).",
-    "PromptNameLabel": "الاسم",
+    "LabelChatCompleterOverride": "تجاوز مُكمل الدردشة",
+    "TooltipChatCompleterOverride": "استخدام مكمل الدردشة من أجل توليد رد. إذا لم يتم التحديد، فسيُستخدم *مكمل الدردشة الافتراضي* لنظام محرك المونولوج الفرعي.",
+    "LabelPromptName": "الاسم",
+    "ButtonNavigateToSystemMessage": "الانتقال إلى رسالة النظام (Ctrl + Alt + سهم الأعلى)",
+    "ButtonNavigateToUserMessage": "الانتقال إلى رسالة المستخدم (Ctrl + Alt + سهم الأعلى)",
+    "ButtonNavigateToNextFact": "الانتقال إلى الحقيقة التالية (Ctrl + Alt + السهم الأيمن)",
+    "ButtonNavigateToPreviousFact": "الانتقال إلى الحقيقة السابقة (Ctrl + Alt + السهم الأيسر)",
+    "SetChatCompleterClassOverride": "تجاوز مكمل الدردشة",
     "PromptPreviewSettings": "إعدادات معاينة التوجيهات.",
     "PromptResponse": "الرد على التوجيه",
-    "SavePreviewTooltip": "حفظ إعدادات المعاينة في الأصل لتكرار الاختبار",
-    "SetMPChatCompleterOverride": "تعيين تجاوز مُكمل دردشة توجيهات المونولوج",
+    "ButtonRefreshFacts": "تحديث الحقائق، أي مسح النماذج الأساسية للمحررات.",
+    "ButtonRunPrompt": "تنفيذ التوجيه باستخدام النظام الفرعي لـ*عالم* المونولوج أو (*محرك*) لتوليد استجابة.",
+    "ButtonSavePreview": "حفظ إعدادات المعاينة في الأصل للاختبار المتكرر",
     "SetPromptName": "تعيين اسم التوجيه",
     "SetPromptPreviewSettings": "تعيين إعدادات معاينة التوجيهات",
-    "SetPromptSystemMessage": "تعيين قالب رسائل النظام التوجيهية",
-    "SetPromptUserMessage": "تعيين قالب رسائل المستخدم التوجيهية",
-    "SystemMessageLabel": "رسائل النظام",
-    "CompleterOverrideTooltip": "يمكن استخدام UChatCompleter لتأدية هذا الأمر. إن لم يتم التحديد، فسيُستخدم \"مُكمل الدردشة الافتراضي\" لنظام محرك المونولوج الفرعي.",
-    "UserMessageLabel": "رسالة المستخدم",
-    "WrapSystemMessageToolTip": "لف النص",
-    "WrapUserMessageToolTip": "لف النص"
+    "SetSystemMessageTemplate": "تعيين قالب رسالة النظام",
+    "SetUserMessageTemplate": "تعيين قالب رسالة المستخدم"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "مفوض حقائق سجل البيانات - تعذر العثور على أي حقائق باسم \"{0}\" في سجل البيانات",
     "NoDRSubsystem": "مفوض حقائق سجل البيانات - نظام سجل البيانات الفرعي غير متوافر. يُرجى التأكد من تمكين ملحق سجل البيانات.",
     "InvalidDRFactItemId": "مفوض حقائق سجل البيانات - بنية معرّفات عناصر سجل بيانات (DataRegistryItemIdString) \"{0}\" ليست معرّفات عناصر سجل بيانات صالحة",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "تمرير مكّون المونولوج U الأول غير الصالح (UMonologueComponent) إلى الأحداث المُفسرة يدويًا (MutuallyPerceivedEvents) لاسترداد تفاصيل الحدث منها!",
     "FirstPersonName_My": "الخاص بي",
     "NameNoSubject": "لم يتم مرور واجهة موضوع المونولوج I (IMonologueSubjectInterface) إلى الموضوع لاسترداد الاسم!",
     "ObservedNameNoSubject": "لم يتم مرور واجهة موضوع المونولوج I (IMonologueSubjectInterface) إلى الموضوع لاسترداد الاسم!",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "{0}"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "تم تمرير ارتفاع بحث (SearchHeight) غير صالح إلى موضوع قريب (NearbySubject). يجب أن يكون ارتفاع البحث > 0",
+    "NearbySubjectsInvalidSearchRadius": "تم تمرير نطاق البحث (SearchRadius) إلى موضوع قريب (NearbySubject). يجب أن يكون نطاق البحث > 0",
+    "NearbySubjectsNoActor": "مكّون مونولوج (MonologueComponent) تم تمريره إلى موضوع قريب (NearbySubject) ليس لديه مالك لفحص المسافة مقابله",
+    "NearbySubjectsNoSelf": "لم يتم تمرير مكّون المونولوج U ‏(UMonologueComponent) إلى موضوع قريب (NearbySubject).",
     "SmartObjectBehaviorsNoSelf": "لم يتم تمرير مكّون المونولوج U ‏(UMonologueComponent) إلى سلوكيات الكائن الذكي (SmartObjectBehaviors)",
+    "SpatialContextNoSelf": "لم يتم تمرير مكّون المونولوج U ‏(UMonologueComponent) إلى سياق المكان (SpatialContext)",
     "SmartObjectBehaviorsNoPawn": "سلوكيات الكائن الذكي - تعذر الحصول على Pawn من الموضوع",
     "SpatialContextNoPawn": "سياق المكان - تعذر الحصول على Pawn من الموضوع"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "النار",
     "SecondaryActionName": "تكبير/تصغير"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "غير مصنف"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "ابلغ المستوى {LevelRequired} لفتح مجموعة جديدة",
     "Offer_CanUnlockSet": "افتح هذه المجموعة للحصول على مكافآت"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "الفتح في {Date}"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "احصل على جميع مكافآت الصفحة {IndexPage}",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "جارٍ انتظار مفتاح سري"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "رقم الموسم {0} غير صالح. كان متوقعًا الحصول على {1} (الموسم الأخير + 1)، ولكن تم الحصول على {2}"
+    "InvalidSeasonDependencies": "تعذر العثور على تبعية عنصر الموسم المشار إليه {0}.",
+    "InvalidSeasonNumber": "رقم الموسم {0} غير صالح. كان متوقعًا الحصول على {1} (الموسم الأخير + 1)، ولكن تم الحصول على {2}",
+    "IncompatibleSeasonNumber": "هذه محاولة للتحقق من صحة تبعية {1} للموسم {0}. له نسخة إصدار ({2}) أحدث من الموسم المشار إليه ({3}).",
+    "InvalidObjectDef": "هذه محاولة للتحقق من صحة تبعية {1} للموسم {0}. كان من المفترض أن يكون UFortItemDefinition، لكنه لم يكن كذلك."
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "باقي <text size=\"18\">{0}</> {0}|plural(one=هدية, two=هدية, few=هدايا, many=هدية, other=هدية) يمكن فتحها",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "Fortnite شكرًا لك على لعب ",
     "PurchaseHeader": "تم استلام {0}|plural(zero=عنصر, one=عنصر, two=عنصر, few=عناصر, many=عنصر, other=عنصر)"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "إضافة مسار",
+    "AddTrack_ToolTip": "إنشاء مسار حركة جديد"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "حفظ",
+    "SavePrompts_ToolTip": "حفظ موفري المطالبة"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "نقل جميع إعدادات أداة تخطيط شاشة عرض المعلومات إلى واجهة مستخدم قابلة للتخصيص",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "تفتح أداة نقل HLTv2 إلى واجهة المستخدم القابلة للتخصيص لنقل جميع إعدادات HLTv2 إلى إطار عمل واجهة المستخدم القابلة للتخصيص الجديد."
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "افتح المحلل المكاني",
+    "OpenSpatialProfiler_ToolTip": "افتح تبويب المحلل المكاني"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "افتح أداة تحديث الأسلحة",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "احصل على كل مكافآت {CategoryName} للفتح",
     "CategoryStatus_LockedRewardLevelFormat": "احصل على {NumRewards} من المكافآت الإضافية أو اربح {NumLevels} من المستويات للفتح",
-    "CategoryStatus_LockedUntilLevel": "ابلغ المستوى {LevelRequired} لفتح مجموعة جديدة",
-    "Status_LockedDateLockedFormat": "يفتح في {Date}"
+    "CategoryStatus_LockedUntilLevel": "ابلغ المستوى {LevelRequired} لفتح مجموعة جديدة"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "احصل على كل مكافآت {CategoryName} للفتح",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "شغّل محوّل بيانات محدد الصوت لعناصر زينة المركبة",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "تشغيل محوّل محدد الصوت لعناصر زينة المركبة"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "قيم متعددة"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "الأصل ليس تعريفًا للعنصر",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Fort Vehicle Cosmetics Preview Actor",
     "CanCreateActorFrom_InvalidAsset": "أصل غير صالح",
     "CanCreateActorFrom_InvalidAssetClass": "فئة أصل غير صالحة"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "غير صالح",
+    "MultipleValues": "قيم متعددة"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Fort Vehicle Cosmetics Variant Token",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "تبديل المقعد",
     "SwitchToWeapon": "التبديل إلى الأسلحة"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "لا شيء"
   },
   "VkAnimNode": {
     "FADEINLEFT": "التلاشي من اليسار",
@@ -11716,6 +11846,9 @@
   },
   "VkSpeechNode": {
     "OutBoundError": "لا يمكن لهذه العقدة الاتصال بالعقد الأخرى من نفس النوع أو عقد إعادة التشغيل"
+  },
+  "VkSpeechRandomVariantNode": {
+    "OutBoundError": "لا يمكن توصيل هذه العقدة بالعقد الأخرى من النوع نفسه أو عقد إعادة التشغيل"
   },
   "VkTextCrawlNode": {
     "Format": "عدد الحروف لكل ثانية: {NUMBER}",

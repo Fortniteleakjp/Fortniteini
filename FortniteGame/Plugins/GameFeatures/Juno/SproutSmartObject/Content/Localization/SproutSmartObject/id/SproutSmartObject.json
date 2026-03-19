@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "Periksa",
     "CF6195BE44741B679B03A7970B0904F5": "Periksa",
     "B8C80B5041E5FBA2635752B2A5271479": "Berinteraksi",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "Opsi LLM ...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "Opsi LLM ...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "Opsi LLM ...",
     "AEB376F240A55432B193BC8797FF5AE9": "Opsi LLM ...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "Opsi LLM ...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Angkat Beban",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Gudangmu Penuh",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "Ringkasan singkat (1-2 kata) untuk pilihan keempat.",
+    "OptionTwo_ShortText": "Label singkat (1-2 kata) untuk pilihan pemain kedua.",
+    "OptionSix_ShortText": "Frasa pendek (1-2 kata) untuk opsi keenam dan terakhir.",
+    "OptionOne_ShortText": "Ringkasan yang sangat singkat (1-2 kata) untuk opsi pertama. Inilah yang dilihat oleh pemain di menu pilihan.",
+    "OptionFive_ShortText": "Label UI (1-2 kata) untuk opsi dialog kelima.",
+    "OptionTwo_FullText": "Kalimat lengkap yang diucapkan pemain saat memilih 'OptionTwo'.",
+    "OptionFour_FullText": "Kalimat dialog lengkap yang diucapkan oleh pemain untuk 'OptionFour'.",
+    "OptionOne_FullText": "Kalimat dialog lengkap yang diucapkan oleh pemain untuk 'OptionOne', yang merupakan pengembangan dari teks pendeknya.",
+    "OptionSix_FullText": "Dialog lengkap yang diucapkan oleh pemain ketika memilih 'OptionSix'.",
+    "OptionThree_FullText": "Dialog lengkap yang diucapkan oleh karakter pemain untuk 'OptionThree'.",
+    "OptionFive_FullText": "Kalimat lengkap yang diucapkan oleh pemain jika mereka memilih 'OptionFive'.",
+    "OptionThree_ShortText": "Teks tampilan pendek (1-2 kata) untuk opsi ketiga."
   }
 }

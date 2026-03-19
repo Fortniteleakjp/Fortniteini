@@ -166,9 +166,6 @@
   "GenericPlatform": {
     "FileManagerName": "Gestionnaire de fichiers"
   },
-  "GpuProfiler": {
-    "GpuProfileVsyncEnabledWarning": "AVERTISSEMENT : ce profil de carte graphique a été capturé avec la synchronisation verticale activée. Le délai d'attente de la synchronisation verticale peut fausser les données de ce profil. Veuillez capturer un profil en désactivant la synchronisation verticale pour obtenir les données les plus précises."
-  },
   "InputKeys": {
     "Acceleration": "Accélération",
     "Ampersand": "Esperluette",

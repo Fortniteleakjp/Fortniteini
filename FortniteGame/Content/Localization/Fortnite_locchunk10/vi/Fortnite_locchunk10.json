@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "Xu Hoàn Thành Thành Tựu",
     "48008F3445314E50326D9FB086B9189F": "Xu Hoàn Thành Thành Tựu",
     "FC7458584E93A2CCE3222B9CB21FFF51": "Xu Hoàn Thành Thành Tựu",
+    "647B590E4A6D893A4E58DB921F805840": "Hoạt Động",
     "9FEF179645D8A343518563AEFE302A2A": "Hoạt Động",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "Nhiệm vụ bổ sung cho Kẻ Xuyên Không.",
     "C0AD274548543104E8F3ABB507431A91": "Nhiệm vụ Bổ sung cho Gói Nhiệm Vụ Hộ Vệ Goldenbane",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "Tạo một plugin trống cho dự án Juno.",
     "E806A3B84B22DDCF92AAF2B4C829173": "Tạo một plugin tính năng trò chơi, cho FNE, để lưu trữ một MôTảVậtPhẩm. FNE sẽ tự động được thêm vào, vì vậy chỉ cần đặt tên theo tên mã cho nó là xong. Ví dụ: FooBar sẽ trở thành FNEFooBar!",
     "37C405BC468E03254AB82CB18FD5CF98": "Tạo một Plugin Cảnh Juno CAMP mới",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "Tạo một plugin Sinh Vật mới cho dự án Juno.",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "Tạo một thiết bị mới cho Chế Độ Sáng Tạo Vô Biên",
     "9E0FC24F423F8F20BB5934B8F479E56B": "Tạo Thiết Bị Fabric mới cho Chế Độ FNE.",
     "5E0375C044B7B6205FA5AABD6B429116": "Tạo Plugin Tính Năng Trò Chơi Fortnite Mới Bằng Mã (Cần chỉnh sửa thêm các tệp mã trước khi có thể sử dụng mà không gặp lỗi).",
     "633C71E243C17F5070573DB8EA470FBD": "Tạo một Plugin Tính Năng Trò Chơi Fortnite Mới Bằng Mã + Mô-đun UI (Cần chỉnh sửa thêm các tập tin mã hóa trước khi có thể sử dụng mà không gặp lỗi).",
     "D5255BA645C1DCF04D17019E061BAB8A": "Tạo một Plugin Tính Năng Trò Chơi Fortnite Mới với nội dung cơ bản.",
+    "A4A0F4E74285005A28C88FBBB31AD140": "Tạo một plugin Lối Chơi mới cho dự án Curiobox.",
     "92B3DC974E94F5CA36482B9DB3343CF2": "Tạo một plugin Lối Chơi mới cho dự án Juno.",
-    "A4A0F4E74285005A28C88FBBB31AD140": "Tạo một plugin Lối Chơi mới cho dự án Sprout.",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "Tạo một Plugin Cảnh Juno CAMP mới",
     "D5255BA645C1DCF04D17019E061BAB7A": "Tạo một Plugin Tính Năng Trò Chơi Gốc mới",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "Tạo một Plugin Tính Năng Trò Chơi Fortnite mới và trống. Chỉ chứa nội dung GameFeatureData.",
     "D4034010418FF429289586AC5F972D77": "Tạo một plugin trống cho một nội dung UI mới của Tính Năng Lối Chơi BR",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "Du Hành Cướp Biển",
     "54743E7F439EF3489ADB5689670DEFFE": "Thử Thách Chiến Dịch Crossmark",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "Thử Thách Thỏ Con Âu Yếm",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "Mẫu Plugin Lối Chơi Curiobox",
     "EF9405A043B0E869255F438176090428": "Xu Hoàn Thành Thẻ Đục Lỗ Hàng Ngày",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "Hỗ Trợ Nhảy",
     "FEA5CDF84F86CFEEDCFFD69726390294": "Gây <Emphasized>thêm sát thương</> khi ở <Emphasized>HP thấp</>.",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Súng Trường Xung Kích Tăng Cường  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Súng SMG Tinh Gọn Cường Hóa",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Shotgun Drum Cải Tiến",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Súng Phóng Lao Tăng Cường",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Súng Shotgun Chiến Thuật Cường Hóa",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "Vào Súng Thần Công",
     "E6F1B9FF470A284E11AF6F891FE7D098": "Vào Súng Thần Công",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "Súng Tầm Xa Súng Lục ĐạnNặng BánTựĐộng",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Súng Tầm Xa Súng Lục ĐạnNặng BánTựĐộng",
     "2D37E97E43724ABA040D5DB07530962F": "Súng Tầm Xa SúngLục BánTựĐộng",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Súng Lục Tầm Xa Bán Tự Động",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Súng Tầm Xa SúngLục BánTựĐộng",
     "9EA74A7A4C987B0D9D927EB133619716": "Súng Tầm Xa SúngLục BánTựĐộng",
     "BF1FF2F14FDC8846B569E7966543F17B": "Súng Tầm Xa SúngLục BánTựĐộng",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "Súng Trường Săn",
     "D29EE9294C3C6ACC03577885D6B34262": "Súng Trường Săn",
     "DFD2853F433A8DA06177BFAAF22D0CED": "Súng Trường Săn",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "Ném một quả lựu đạn làm đẩy lùi tất cả người chơi xung quanh khi nó phát nổ.",
     "88E97DAD4C1AB681AF821394106303DF": "Ném một quả lựu đạn dính vào người chơi đối địch hoặc môi trường xung quanh.",
     "9F773C444680E58D8F932EA37E5F0581": "Ném một quả lựu đạn dính vào người chơi đối địch hoặc môi trường xung quanh.",
     "90F8ED68488FD4B3343C46A4B7131E87": "Ném một quả lựu đạn tạo ra một đám mây độc hại, gây sát thương cho kẻ địch bên trong. Tốt hơn hết là dọn sạch!",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "Cải thiện <Emphasized>tốc độ nạp lại</> trên tất cả các kỹ thuật",
     "842064DD4CCAF532392128861286DD02": "Cải thiện <Emphasized>độ chính xác</> khi bắn không ngắm cho tất cả vũ khí",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "Lựu Đạn Xung Kích",
+    "CFEA70984FEAE95DC388B0AC8B919432": "Lựu Đạn Xung Lực",
     "FB4BDD7B494F39753C6778979CD662CC": "Trên Không: Nhảy Tới Mục Tiêu",
     "80D8948A44365AE1A9D3DB9925A43A2B": "Tăng <Emphasized>tốc độ dù lượn</>",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "Tăng <Emphasized>sát thương bắn vào đầu</>, nhưng giảm <Emphasized>sát thương lên thân</>",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "Đệm Nhảy (Hướng Dẫn)",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "Đệm Nhảy (Lên)",
     "251E3DE8412479479C227D821FAAC425": "Plugin Juno Trống",
-    "38DE538C495F59868887E890EC3FD597": "Cảnh Juno CAMP",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "Mẫu Plugin Sinh Vật Juno",
     "105342A546779B970DC46E80183052FE": "Mẫu Plugin Lối Chơi Juno",
     "EF22E85B49A871DF9C133DA1F84B3900": "JunoTG (Trò Chơi Chủ Đề)",
     "FDA97C5F4842CB9AE5195393C8759F84": "JunoTG (Tối Giản Chủ Đề)",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "Kingsman có thể <Emphasized>chặn nhiều</> sát thương tới hơn",
     "330D995D4F99BB677CE5FF8643A9B17A": "Shotgun Xạ Thủ của Kit",
     "A01D19E14ACA958C292350B0BDD893E8": "Lựu Đạn Xung Kích Vật Phẩm Tiện Ích",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "Lựu Đạn Xung Kích Vật Phẩm Tiện Ích",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "Bộ Sưu Tập Tài Nguyên LEGO Metaverse",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "Thành Phần Tài Nguyên LEGO Metaverse",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} Swimming{swimming} Montage{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "Người chơi",
     "291AD5F7469E20890EFCD288976C3A9B": "Token Đủ Điều Kiện Khảo Sát Người Chơi",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "Người chơi Pawn Athena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "Đã Nhận XP Thời Gian Chơi!",
     "14164C9D434D02CF6E737F8644740969": "Đã Nhận XP Thời Gian Chơi!",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "Mìn Tiệm Cận",
     "FE97DA514506C8282ACCE59BFD3A562C": "Mìn Tiệm Cận",
     "EB7FCBAD49E466CA687372AC079CF68B": "Mìn Tiệm Cận +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Kéo kẻ địch về phía bạn và gây sát thương.",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "Shotgun Bơm Đạn",
     "EF0917D448D388C00D296F8E62FF2DC4": "Shotgun Bơm Đạn +",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "Shotgun Bơm Đạn với <Emphasized>sát thương bắn trúng đầu được cải thiện</>",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "Dập ngọn lửa đó đi!",
     "4253CE934E3EFF13CA95C787B6D46641": "Hãy vỗ tay vì Erisa, Nhà Vô Địch Giải Tennis Mùa Hè Hòn Đảo mới của chúng ta!",
     "43088BA143F2B6BCAEE378847172BE8C": "Xe Ủi",
+    "CC13E7A44B19B6541560D085C426791D": "Xe Ủi",
     "24034CD84B1D10C83560F8902AF33DC2": "Nhiệm Vụ",
     "280019E146742BEA12E9E897FA18D7D4": "Nhiệm Vụ",
     "31F60738447C00A236E84A89CEB3B03A": "Nhiệm Vụ",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "Tiêu hao gỗ để bắt đầu một đống lửa trại ấm cúng và hồi máu!",
     "654EA602493B038AED40358E6100A5F7": "Tiêu hao gỗ để bắt đầu một đống lửa trại ấm cúng và hồi máu!",
     "CD5B0A744223502F67BABD81B1230D5D": "Hình Xịt",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "Mẫu Plugin Lối Chơi Sprout",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (Trò Chơi Chủ Đề)",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "Yêu Cầu Biệt Đội",
     "459B35F94D969E08A4D1109E18B98C2F": "Trang bị tiêu chuẩn <Emphasized>tầm gần</> vũ khí",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "Tập trung vào mục tiêu",
     "TiltAngleIndicator": "Nghiêng {0} Độ"
   },
+  "AIActionSequence": {
+    "AppLabel": "Chuỗi Hành Động AI",
+    "AIActionSequenceTab": "ChuỗiHànhĐộngAI",
+    "AddTrack": "Thêm Theo Dõi AI",
+    "DeleteAction": "Xóa Hành Động AI",
+    "DeleteTrack": "Xóa Theo Dõi AI"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "Mở trong Trình Chỉnh Sửa Chuỗi Hành Động AI",
+    "OpenAIActionSequencesEditor_Tooltip": "Mở tài sản này trong Trình Chỉnh Sửa Chuỗi Hành Động AI."
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "Mở Công Cụ Trình Chỉnh Sửa Lệnh",
+    "PromptEditorTool": "Công Cụ Trình Chỉnh Sửa Lệnh",
+    "PromptEditorToolTabTitle": "Công Cụ Trình Chỉnh Sửa Lệnh"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "Ít nhất một thành viên trong đội của bạn đã chọn từ bỏ trận đấu do thiếu người chơi.",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0} {1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "Chuỗi Hành Động AI",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0} m",
     "LongestKillDistanceText": "{0} m"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "Hôm Nay",
-    "NumberOfDays": "{NumDays} Ngày"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "Đặt Trụ Đánh Dấu",
     "PlaceDangerMarkerDoubleTap": "Đặt Đánh Dấu Nguy Hiểm (Nhấn Đúp)",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "tổng thời gian GPU: {GPUTimeMS} ms",
     "DrawCalls": "tổng lượt gọi rút : {DrawCalls}",
     "NumPrimitives": "tổng hình khối đã vẽ : {NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nMức Sử Dụng Bộ Nhớ : {1}/{2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\nMức Sử Dụng Bộ Nhớ : {1}/{2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\nMức Sử Dụng Bộ Nhớ : {1} / {2}Mb"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "Đã Bị Hạ Gục"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "Sẵn sàng cho trận tới",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "Sẵn Sàng!",
     "KeepPlayingTogether.ReadyUpNewTeamText": "Sẵn sàng với đội mới.",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "Đấu Lại",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "Đấu Lại Với Đội",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "Báo Cáo Người Chơi",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "Quay Về Sảnh",
     "KeepPlayingTogether.PartyMemberOptedOutText": "Một số thành viên phe không bỏ phiếu ở lại với đội",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "{0} người quan sát đang nghe"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "Bạn có các tài sản LEGO® bị trùng lặp trong dự án của mình. Điều này vi phạm các nguyên tắc của LEGO®. Tất cả các trùng lặp cần được giải quyết; nếu không, dự án của bạn có nguy cơ không vượt qua kiểm duyệt.\nĐối tượng {0} đang trùng với các đối tượng {1} khác:",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}Đối tượng {1} đang trùng với các đối tượng {2} khác:"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "Không tạo được trình phân giải gói nội dung",
     "InvalidStateRequested": "Lỗi tín hiệu nội dung bên trong \n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "Tham gia thất bại",
+    "ServicesUnavailable": "Dịch vụ của chúng tôi hiện đang chịu tải cao.  Vui lòng thử lại sau giây lát.\n {ShortErrorCode}",
     "PackageResolveFlowCancelled": "Luồng điều khiển trình phân giải gói đã bị hủy vì lý do không xác định.",
     "ProjectDuplicationErrorTitle": "Lỗi Trùng Lặp Dự Án",
     "RequestInvalid": "Yêu cầu bị định dạng sai {RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "Máy chủ tắt đột ngột. Vui lòng thử lại\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "Máy chủ đã tắt đột ngột. Vui lòng thử lại\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "Trình Chỉnh Sửa Chuỗi Hành Động AI"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "HLTv2ToCustomizableUI Plugin",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "Máy Phân Tích Không Gian",
     "WeaponModernizationEditorCommands": "Công Cụ Cải Tiến Vũ Khí"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "Người chơi chia màn hình không thể khởi động, hãy đăng nhập với tư cách là người chơi chính để thay đổi cài đặt chơi đa nền tảng"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "Kích Thước",
+    "CopyOfCustomLayoutProfile": "{0} Sao Chép",
+    "CopyOfLayoutPreset": "{0} Sao Chép"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0 Phút",
     "AllowedTimeNoLimit": "Không Giới Hạn",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "Hạ Gục AI Ở Gần",
     "DebugCommand_EndGame_DisplayName": "Kết Thúc Trận",
     "DebugCommand_EndRound_DisplayName": "Kết Thúc Vòng Đấu",
+    "DebugCommand_Flight_DisplayName": "Chế Độ Bay",
     "DebugCommand_GiveGold_DisplayName": "Tăng Tài Nguyên Vàng",
     "DebugCommand_AddPlayerScore_DisplayName": "Tăng Điểm",
     "DebugCommand_PauseRound_DisplayName": "Dừng Bộ Đếm Giờ Vòng Đấu",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "Ba Lô",
     "Badge": "Huy hiệu",
     "Badge_Plural": "Các Huy Hiệu",
+    "SparksBass": "Guitar Bass",
+    "SparksBass_Plural": "Guitar Bass",
     "Buff": "Tăng Cường",
     "BuffCredit": "Tăng Cường",
     "BuffCredit_Plural": "Các Hiệu Ứng Tăng Cường",
     "Buff_Plural": "Các Hiệu Ứng Tăng Cường",
+    "JunoBuildingSet": "Xây Dựng",
     "BuildingPiece": "Mảnh Xây Dựng",
     "BuildingPiece_Plural": "Mảnh Xây Dựng",
+    "JunoBuildingSet_Plural": "Bộ Lắp Ráp",
     "ItemCache": "Bộ Nhớ",
     "ItemCache_Plural": "Các Bộ Nhớ",
     "CodeToken": "Mã Thông Báo",
@@ -3506,12 +3548,16 @@
     "Currency": "Xu Giao Dịch",
     "DailyRewardScheduleToken": "Phần Thưởng Hàng Ngày",
     "DailyRewardScheduleToken_Plural": "Các Phần Thưởng Hàng Ngày",
+    "JunoBuildingProp": "Trang Trí",
     "Deco": "Vật Trang Trí",
     "Deco_Plural": "Vật Trang Trí",
+    "JunoBuildingProp_Plural": "Trang Trí",
     "Defender": "Thủ Vệ",
     "Defender_Plural": "Thủ Vệ",
     "DeployableBaseCloudSave": "Căn Cứ Triển Khai",
     "DeployableBaseCloudSave_Plural": "Các Căn Cứ Triển Khai",
+    "SparksDrums": "Dàn Trống",
+    "SparksDrums_Plural": "Dàn Trống",
     "EditTool": "Công Cụ Chỉnh Sửa",
     "EditTool_Plural": "Các Công Cụ Chỉnh Sửa",
     "Emote": "Động Tác",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "Các Sửa Đổi Lối Chơi",
     "Glider": "Dù Lượn",
     "Glider_Plural": "Dù Lượn",
+    "SparksGuitar": "Đàn Guitar",
+    "SparksGuitar_Plural": "Đàn Guitar",
     "Hero": "Anh Hùng",
     "Hero_Plural": "Anh Hùng",
     "HomebaseBannerIcon": "Cờ Hiệu Căn cứ Chính",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "Các Cờ Hiệu Căn Cứ Chính",
     "Ingredient": "Nguyên Liệu",
     "Ingredient_Plural": "Các Nguyên Liệu",
+    "SparksKeyboard": "Đàn Keytar",
+    "SparksKeyboard_Plural": "Đàn Keytar",
     "CosmeticShoes": "Giày",
     "CosmeticShoes_Plural": "Giày",
     "LoadingScreen": "Màn Hình Chờ",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "Chiến Lợi Phẩm",
     "WeaponMelee": "Vũ Khí Cận Chiến",
     "WeaponMelee_Plural": "Các Vũ Khí Cận Chiến",
+    "SparksMicrophone": "Micro",
+    "SparksMicrophone_Plural": "Micro",
     "MissionItem": "Vật Phẩm Nhiệm Vụ",
     "MissionItem_Plural": "Vật Phẩm Nhiệm Vụ",
     "Music": "Âm Nhạc",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "Nhắc Tôi Sau",
     "EmoteConfirmDesc": "Động Tác Điệu Nhảy Boogie Down sẽ vào tài khoản của bạn trong 24 giờ tới!"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "Quản Lý Đợt",
-    "InitialWave": "Đợt [0] - Đợt Đầu"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "Cấu Hình Cài Đặt Trình Chỉnh Sửa Plugin Tương Tác.",
-    "EngagementsEditorProjectSettingsName": "Trình Chỉnh Sửa Tương Tác"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "Không Thể Tương Tác",
     "InteractionMessage": "Tương Tác"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "Trình Chỉnh Sửa CTA",
     "ConditionalTransitionEditorTabTooltip": "Mở Trình Chỉnh Sửa Đối Tượng Chuyển Tiếp Có Điều Kiện"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "Đang Kiểm Tra Các Plugin",
+    "CustomizableUI": "Giao Diện Người Dùng Tùy Chỉnh",
+    "HLTv2ToCustomizableUIMigratorTool": "Chuyển Toàn Bộ thiết lập Công Cụ HLTv2 sang Giao Diện Người Dùng Tùy Chỉnh",
+    "FailedToWriteDescriptor": "Không tìm thấy Plugin '{0}'"
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "Cúi Người Khi Xây (Nhấn)/Trượt (Giữ)",
     "CrouchWhileEditing": "Cúi Người Khi Chỉnh Sửa (Nhấn)/Trượt (Giữ)",
     "ToggleCursorMode": "Chế Độ Con Trỏ",
-    "Custom1(Fire)": "Tùy Chỉnh Đầu Vào 1 (Bắn)",
     "CustomInput10(Right)": "Tùy Chỉnh Đầu Vào 10 (Phải)",
     "CustomInput11(PreviousItem)": "Tùy Chỉnh Đầu Vào 11 (Vật Phẩm Trước Đó)",
     "CustomInput12(NextItem)": "Tùy Chỉnh Đầu Vào 12 (Vật Phẩm Tiếp Theo)",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "Tùy Chỉnh Đầu Vào 16 (Chuyển Đổi Kho)",
     "CustomInput17(SquadRequests)": "Đầu vào tùy chỉnh 17 (Yêu Cầu Biệt Đội)",
     "CustomInput18(Emote)": "Tùy Chỉnh Đầu Vào 18 (Động Tác)",
-    "CustomInput2(Target)": "Tùy Chỉnh Đầu Vào 2 (Ngắm)",
-    "CustomInput3(Crouch)": "Tùy Chỉnh Đầu Vào 3 (Cúi Người)",
-    "CustomInput4(Jump)": "Tùy Chỉnh Đầu Vào 4 (Nhảy)",
-    "CustomInput5(Sprint)": "Tùy Chỉnh Đầu Vào 5 (Chạy Nhanh)",
     "CustomInput6(Interact)": "Tùy Chỉnh Đầu Vào 6 (Tương Tác)",
     "CustomInput7(Forward)": "Tùy Chỉnh Đầu Vào 7 (Trước)",
     "CustomInput8(Backwards)": "Tùy Chỉnh Đầu Vào 8 (Sau)",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "Truy Cập Sớm",
-    "MapRotationMessage": "Bản Đồ Kế Tiếp: {0}",
     "Ranked_Feral_ModeName": "Đường Đạn Nghẹt Thở Xếp Hạng",
     "Ranked_Figment_ModeName": "Di Sản Fortnite Xếp Hạng",
     "Ranked_LTM_ModeName": "Chế Độ Hạn Giờ Xếp Hạng",
     "Ranked_DelMar_SeasonNameOverride": "Đua Xe Xếp Hạng",
     "Ranked_BlastBerry_ModeName": "Tái Chiến Thần Tốc Xếp Hạng",
     "Ranked_BattleRoyale_ModeName": "Xếp Hạng {0}",
-    "ReJoinMessage": "Tham Gia Lại một trận đấu đang diễn ra để tránh bị {0} Hạn Chế Ghép Trận",
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "Mùa 0",
     "Ranked_BlastBerry_SeasonNameOverride": "Mùa 0",
     "Ranked_Figment_SeasonNameOverride": "Mùa 0",
-    "BlackoutTimeCountdownFormat": "Không khả dụng trong {0}",
     "Ranked_Matchmaking_ReadyUpWelcome": "Chào mừng đến {0}"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "Tài Nguyên Ẩn",
     "MemoryTestResults_Summary_HighestMemoryLocation": "Vị Trí Bộ Nhớ Cao Nhất: ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "Mức Sử Dụng Bộ Nhớ Cao Nhất: {MemoryValue}/{MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "Mức Sử Dụng Bộ Nhớ Cao Nhất: {MemoryValue} / {MemoryThreshold}Mb",
     "MemoryTestResults_Summary_Header": "Tóm Tắt Kết Quả Tính Toán Bộ Nhớ",
     "MemoryTestResults_Summary_NumLocationsSampled": "Số lượng địa điểm được lấy mẫu: {0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "Đang xử lý {0} chuỗi tham chiếu",
     "MemoryTestResults_Summary_Result": "Kết Quả {0}",
     "MemoryTestResults_Summary_Result_Success": "THÀNH CÔNG",
     "MemoryTestResults_TopTotalExclActors_Header": "Các chủ thể hàng đầu xếp theo Tổng Kích thước Tiêu Tốn",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "Nghề {0}",
     "Game": "Game",
     "TeamScoreboardNameFormat": "Đội {0}",
-    "JoinInProgressTooLate": "Trò chơi bạn đang cố tham gia đã kết thúc.",
-    "UnableToFindSpawnPoint": "Không tìm thấy điểm tạo ra"
+    "JoinInProgressTooLate": "Trò chơi bạn đang cố tham gia đã kết thúc."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "PHẦN THƯỞNG:",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "Thêm {0}% *"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "(tương đương với {0}*)",
-    "RealPriceFormat_AdditionalText": "(tương đương với {0}**)",
+    "RealPriceFormat": "(tương đương đến mức {0}*)",
+    "RealPriceFormat_AdditionalText": "(tương đương đến mức {0}**)",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "** Để mua đúng {0} V-Buck tại nơi có bán, bạn cần phải thanh toán {1}. Nền tảng này không hỗ trợ mua theo số lượng tùy chọn.",
     "RealPriceLegalFormat_AdditionalText": "** Để mua đúng {0} V-Buck, bạn cần phải thanh toán {1}.",
-    "ExactPackLegalText": "*Tỷ lệ phần trăm V-Buck nhận thêm được hiển thị dựa trên so sánh với mức phí của gói 1.000 V-Buck.",
+    "BonusAmountLegalFormat_Amount": "*Lượng V-Buck nhận thêm được hiển thị dựa trên so sánh với mức phí của gói {0}.",
+    "BonusAmountLegalFormat_PercentageAndAmount": "*Tỷ lệ phần trăm và lượng V-Buck nhận thêm được hiển thị dựa trên so sánh với mức phí của gói {0}.",
+    "BonusAmountLegalFormat_PercentageLegacy": "*Tỷ lệ phần trăm V-Buck nhận thêm được hiển thị dựa trên so sánh với mức phí của gói {0} V-Buck.",
+    "BonusAmountLegalFormat_Percentage": "*Tỷ lệ phần trăm V-Buck nhận thêm được hiển thị dựa trên so sánh với mức phí của gói {0}.",
     "RealPriceLegalFormat_NoExactAmount": "*Để mua đúng {0} V-Buck tại nơi có bán, bạn cần phải thanh toán {1}. Nền tảng này không hỗ trợ mua theo số lượng tùy chọn.",
     "RealPriceLegalFormat": "* Để mua đúng {0} V-Buck, bạn cần phải thanh toán {1}.",
+    "ExactAmountOfferTitleText": "Ưu Đãi Lượng Chuẩn Xác",
+    "NonRefundableVBucksLegalText": "Các gói V-Buck không được hoàn tiền.",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "Tải Cài Đặt Giám Sát thất bại.",
     "QueryKeychainFailedMsg": "Không tải được tài sản keychain",
     "GuestLoginNotAllowed": "Tài khoản khách không thể chơi Fortnite. Vui lòng đăng nhập vào một tài khoản mạng Xbox riêng để tiếp tục.",
-    "WorkspaceManagerInitFailed": "Khởi Tạo Trình Quản Lý Không Gian Làm Việc Thất Bại",
     "InitializingEpicParty": "Đang Khởi Tạo Tổ Đội Epic…",
     "RegisterUsabilityExperiment": "Đang khởi tạo cài đặt khả năng sử dụng...",
     "LeavingParty": "Đang rời phe...",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "Đội {0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} - {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>TẠO LỊCH TRÌNH</>",
+    "PlayScheduleTitle": "<Strong>PHÁT LỊCH TRÌNH</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "Hàng ngày",
     "PlaytimeScheduleFriday": "Thứ Sáu",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "Khoảng Thời Gian",
     "TuesdayPlaytimeCollection_Name": "Thứ Ba",
     "PlaytimeReports_Description": "Xem tổng thời gian con của bạn đã dành cho Fortnite và Unreal Editor cho Fortnite (UEFN) mỗi tuần.\n\nNếu bạn Bật chế độ này, bạn cũng có thể chọn nhận email hàng tuần có chứa thông tin này.",
-    "WednesdayPlaytimeCollection_Name": "Thứ Tư"
+    "WednesdayPlaytimeCollection_Name": "Thứ Tư",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName} (Giữ)"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "Tự Động Ẩn Nguyên Liệu Xây dựng",
     "AutoSetQuality_Action": "Tự Động Cài Đặt",
     "AutoSetQuality_Name": "Chất Lượng Tự Động Cài Đặt",
+    "AutomaticallyApplyXP_Name": "Áp Dụng Tự Động - XP Nhân Lực",
     "DynamicResolution_Description": "Tự động điều chỉnh độ phân giải 3D dựa trên mức tải của GPU. Khi mức sử dụng GPU thấp, độ phân giải sẽ tăng lên tối đa đến độ phân giải gốc. Khi mức sử dụng GPU cao, độ phân giải sẽ giảm xuống cài đặt Độ Phân Giải 3D Tối Thiểu.",
     "AutoSetQuality_Description": "Tự động cấu hình tùy chọn chất lượng đồ họa dựa trên benchmark của phần cứng.",
     "EditConfirmOnRelease_Description_Switch": "Tự động xác nhận hành động chỉnh sửa khi nhả Nút.",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "Tự động xác nhận hành động đặt lại chỉnh sửa khi nhả Nút.",
     "ResetConfirmOnRelease_Description_PS4_PS5": "Tự động xác nhận hành động đặt lại chỉnh sửa khi nhả nút.",
     "ResetConfirmOnRelease_Description": "Tự động xác nhận hành động chỉnh sửa hoặc đặt lại khi thả phím đầu vào.",
+    "AutomaticallyApplyXP_Description": "Tự động tăng cấp cho Anh Hùng và Đội Phòng Thủ trong bộ Trang Bị Anh Hùng đang sử dụng và những Người Sống Sót trong các Biệt Đội, bằng XP Nhân Lực hiện có của bạn",
     "AutoMulchMode_Traps_Description": "Tự động tái chế các sơ đồ Bẫy từ độ hiếm này trở xuống.",
     "AutoMulchMode_Weapons_Description": "Tự động tái chế các sơ đồ Vũ Khí từ độ hiếm này trở xuống.",
     "AutoMulchMode_Defenders_Description": "Tự động loại bỏ Thủ Vệ từ độ hiếm này trở xuống.",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "Nhóm Nút",
     "QuickWeaponButtonGroup_Name_XB1": "Nhóm Nút",
     "QuickWeaponButtonGroup_Name_XSX": "Nhóm Nút",
+    "ButtonHoldTime_Name": "Thời Gian Giữ Nút",
     "ControllerButtonMappingCollection_Name": "Đặt Nút",
     "TouchButtonPulseAnimation_Name": "Hoạt Ảnh Xung Nút",
     "GyroCalibrationContext_Name": "Hiệu Chuẩn",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "Không Gian Hồi Chuyển Chế Độ Cầm Tay",
     "MobileVibration_Name": "Phản Hồi Xúc Giác",
     "ControllerHardwareCollection_Name": "Phần Cứng",
-    "EnableHardwareRayTracing_Name": "Dò Tia Phần Cứng",
-    "EnableHardwareRayTracing_Description": "Dò Tia Phần Cứng cho phép Quang Thông chiếu sáng và phản xạ chung có chất lượng cao hơn, nhưng có thể giảm hiệu suất.",
     "GyroTighteningThreshold_Description": "Giúp bạn giữ cú ngắm ổn định bằng cách giảm tốc độ ngắm hồi chuyển khi tay cầm của bạn xoay rất chậm. Ngưỡng này là tốc độ mà tay cầm cần xoay để vô hiệu hóa hiệu ứng kéo sát này (tốc độ là độ mỗi giây), và hiệu ứng này có thể được tắt hoàn toàn bằng cách đặt ngưỡng là 0. Vùng Chết Hồi Chuyển được thêm vào ngưỡng này để nếu cả hai được bật, Kéo Sát sẽ đem lại sự chuyển đổi trơn tru ra khỏi vùng chết.",
     "AutoMulchMode_Heroes_Name": "Anh Hùng",
     "HiddenMatchmakingDelay_Name": "Độ Trễ Ghép Trận Ẩn",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "Chế Độ Độ Trễ Đầu Vào Thấp",
     "GlobalIlluminationEpic": "Quang Thông Sử Thi",
     "ReflectionsEpic": "Quang Thông Sử Thi",
-    "Lumen is disabled": "Chiếu Sáng hoặc Phản Xạ Quang Thông phải được bật.",
     "GlobalIlluminationHigh": "Quang Thông Cao",
     "ReflectionsHigh": "Quang Thông Cao",
     "LumenUnavailableInGameMode": "Quang Thông không khả dụng trong chế độ chơi này",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "Vũ Khí Nhanh",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "Thả R2",
     "GyroTrackballDecay_Description": "Tốc độ làm chậm cho bi lăn hồi chuyển (chỉ tác động đến hành vi của tùy chọn BI LĂN đối với Nút Trục X Hồi Chuyển và Nút Trục Y Hồi Chuyển).",
+    "LumenRequiresRayTracing": "Nền tảng này không hỗ trợ Dò Tia.",
     "AnnualRefundTokenRequests_Name": "Giao Dịch Gần Đây",
     "TSRRecommended": "Đề Xuất",
     "ReplayRecordingCreativeMode_Name": "Ghi Hình Phát Lại Sáng Tạo",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA (Khử Răng Cưa Hình Thái Điểm Ảnh Phụ)",
     "SafeZone_Name": "Vùng An Toàn",
     "AutoMulchCollection_Name": "Giải Cứu Thế Giới - Tự Động Tái Chế/Loại Bỏ",
+    "PeopleXPCollection_Name": "Giải Cứu Thế Giới - Tự Động Sử Dụng XP",
     "CombatTweakZone_Scope": "Ống Ngắm",
     "GyroActiveMode_Scope": "Chỉ Ống Ngắm",
     "MouseScopedMultiplier_Name": "Độ Nhạy Ống Ngắm",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "Cài đặt 'Chế Độ Kết Xuất' phải được đăt là 'DirectX 12' để bật Quang Thông.",
     "NaniteRequiresD3D12": "Cài đặt 'Chế Độ Kết Xuất' phải được đăt là 'DirectX 12' để bật Nanite.",
     "FilterMatureLanguage_Warning": "Bộ lọc Ngôn Ngữ Người Lớn sẽ luôn bật cho người chơi dưới 13 tuổi.",
+    "ButtonHoldTime_Description": "Khoảng thời gian (theo giây) cần giữ nút để chọn được nút đó khi sử dụng màn hình cảm ứng. Chỉ áp dụng cho những chế độ chơi được tạo trong UEFN",
     "KeyboardMovementBackwardDiagonal_Description": "Góc cần chạy khi bước vào đường chéo lùi với bàn phím.",
     "KeyboardMovementForwardDiagonal_Description": "Góc cần chạy khi bước vào đường chéo tiến với bàn phím.",
     "KeyboardMovementStrafeDiagonal_Description": "Góc cần chạy khi bắn phá từ trên cao bằng bàn phím.",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0} Giây",
     "GyroButtonHoldTime_Display": "{0} Giây",
     "GyroSmoothWindowTime": "{0} Giây",
+    "LongPressTime_FormattedLabelText": "{0} Giây",
     "LookBoostAccelerationTimeAds_Format": "{0} Giây",
     "LookBoostAccelerationTime_Fortmat": "{0} Giây",
     "LookEaseTime_Format": "{0} Giây",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0} Giây",
     "SlideButtonHoldTime": "{0} Giây",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0}%",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "TÙY CHỈNH MỖI NGÀY",
     "SettingOff": "TẮT",
     "SettingSameEveryDay": "TƯƠNG TỰ MỖI NGÀY"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "TẮT",
+    "SettingOn": "BẬT",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "KHÔNG",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "Hình Xịt"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "Chuyển dữ liệu từ phiên bản {0} sang {1} thất bại (Đối Tượng ={2})"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "Game",
     "LoadingNameKey": "Lấy tên",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes}M {Seconds}S",
     "WeeksFormatText": "{Weeks}Tuần {Days}Ngày"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "2v2",
-    "SubGameMode.LTMSolo": "ĐƠN",
-    "SubGameMode.LTMSquads": "BIỆT ĐỘI"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "(Cần Phải Tải Xuống)",
     "Message.Error": "Đã xảy ra lỗi.",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "Đội Khác",
     "DuosTeam": "2v2",
     "Message.EstimatedTimeRemaining": "Thời Gian Ước Tính Còn Lại: {0}",
-    "Fill": "LẤP ĐẦY",
     "TeamFill": "Lấp Đầy",
     "Message.FindingMatchNoETA": "Đang tìm trận đấu...\nĐã trôi qua: {0}",
     "Message.FindingMatch": "Đang tìm trận đấu...\nĐã trôi qua: {0}, Thời gian ước tính còn lại: {1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "Lỗi ghép trận (#4)",
     "Message.ETANotAvailable": "N/A",
     "Message.ModeNew": "ĐÃ CÓ CHẾ ĐỘ MỚI!",
-    "NoFill": "KHÔNG LẤP ĐẦY",
     "NoTeamFill": "Không Lấp Đầy",
     "Header.NotMatchmaking": "Không Ghép Trận",
     "Message.CanMatchmakeSoloNewStyle": "CHƠI",
     "Message.CanMatchmakeSolo": "CHƠI!",
-    "Private": "RIÊNG TƯ",
-    "Public": "CÔNG KHAI",
     "Header.PartyError": "Lỗi Phe",
     "Header.Preparing": "Đang chuẩn bị...",
     "PrivateMatch": "Riêng Tư",
     "PublicMatch": "Công Khai",
     "Message.QueueFull": "Hàng chờ đã đầy, vui lòng đợi...\nĐã trôi qua: {0}",
     "Message.PlayersInQueue": "Số người chơi ở hàng chờ: {0}\nĐã trôi qua: {1}",
-    "Ranked": "XẾP HẠNG",
-    "RankedOff": "XẾP HẠNG: TẮT",
-    "RankedOn": "XẾP HẠNG: BẬT",
     "Message.CanReJoinGame": "THAM GIA LẠI",
     "Message.CanMatchmakeParty": "SẴN SÀNG!",
     "PartySameTeamShort": "Cùng Đội",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "Đang chờ máy chủ...",
     "Message.WaitingForReadyFormat_Two": "Đang chờ {0} và {1} sẵn sàng...",
     "Message.WaitingForReadyFormat_More": "Đang chờ {0} người chơi nữa sẵn sàng...",
-    "Message.WaitingForReadyFormat_Single": "Đang chờ {0} sẵn sàng...",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "Đang chờ {0} sẵn sàng..."
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "Tin Tức"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "Yêu cầu tham gia ván chơi của bạn đã bị từ chối. Vui lòng thử lại sau giây lát.",
     "ServiceErrorTemplate": "{0}\n({1})",
     "Message.RegionTournament": "{0} Giải đấu"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "Xây Dựng",
+    "BuildModeTitle": "Xây Dựng/Đọ Súng Thuần Chất",
+    "TeamSize2": "Đấu Đôi",
+    "Fill": "Ngẫu Nhiên",
+    "NoFill": "Không Tự Thêm Người",
+    "TeamSize8": "Đội 8 Người",
+    "Off": "Tắt",
+    "On": "Bật",
+    "RankedDescription": "Thành tích sẽ ảnh hưởng đến thứ hạng của bạn",
+    "UnrankedDescription": "Thành tích sẽ không ảnh hưởng đến thứ hạng của bạn",
+    "ZeroBuildModeDescription": "Chơi và tắt tính năng xây dựng",
+    "BuildModeDescription": "Chơi và bật tính năng xây dựng",
+    "TeamSize5": "5v5",
+    "Ranked": "Xếp Hạng",
+    "TeamSize6": "Đội Sáu",
+    "TeamSize1": "Đấu Đơn",
+    "TeamSize4": "Biệt Đội",
+    "SquadFillTitle": "Đội Ngẫu Nhiên",
+    "TeamSizeTitle": "Quy Mô Đội",
+    "TeamSizeDescription1": "Đội dành cho 1 người chơi",
+    "TeamSizeDescription2": "Đội dành cho 2 người chơi",
+    "TeamSizeDescription3": "Đội dành cho 3 người chơi",
+    "TeamSizeDescription4": "Đội dành cho 4 người chơi",
+    "TeamSizeDescription5": "Đội dành cho 5 người chơi",
+    "TeamSizeDescription6": "Đội dành cho 6 người chơi",
+    "TeamSizeDescription8": "Đội dành cho 8 người chơi",
+    "TeamSize3": "Tam Tấu",
+    "Unranked": "Không Xếp Hạng",
+    "FillDescription": "Đội của bạn sẽ được lấp đầy trước khi bắt đầu ghép trận",
+    "NoFillDescription": "Đội của bạn sẽ chỉ bao gồm những người chơi trong tổ đội của bạn",
+    "ZeroBuildMode": "Đọ Súng Thuần Chất"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "Yêu cầu backend không hợp lệ! Đang thoát."
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "Khi bật, các vũ khí được chỉnh sửa chỉ hiển thị biểu tượng thay vì mô tả."
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</> đã chiến thắng ván chơi!"
+    "WinnerGameFormat": "<WinnerName>{0}</> đã chiến thắng ván chơi!",
+    "SuspendKick": "Bị loại do bị tạm ngưng quá lâu."
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "Đã vô hiệu hóa vì Lí Do Không Rõ."
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "Lời mời nhóm",
     "GroupInviteDescription": "{0} đã mời bạn vào nhóm"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "Chuyển toàn bộ thiết lập Công Cụ HLTv2 sang Giao Diện Người Dùng Tùy Chỉnh"
   },
   "HUD": {
     "Cancel": "Hủy",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "Cấp Độ Sức Mạnh và chỉ số FORT của bạn đã tăng lên.",
     "MemberJoinedToastTitle": " {0} đã tham gia đội"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "Đã chạy lệnh chỉnh sửa trên Trang Phục."
-  },
   "MessageDispatcher": {
     "UnknownError": "Lỗi không xác định với {MessageName} trên {ChannelName}",
     "ChannelNotValid": "LỖI: Kênh không còn hợp lệ cho \"{MessageName}\", đang chuyển về Không Có Kênh.",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "Thiết Lập Dữ Kiện",
     "SetFactTemplate": "Thiết Lập Mẫu Dữ Kiện",
-    "SetFactText": "Đặt Văn Bản Dữ Kiện"
+    "FactArrayTextFormat": "{0} Thực Tế"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "Kiểu đối số không khớp với ủy nhiệm {0} ngụ ý đối số 0 và dữ kiện Bản thân. Biểu thức: {1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "Không thể giải mã {0} kiểu trả về ({1}) thành dữ kiện. Biểu thức: {2}",
     "CouldntFindFact": "Không tìm thấy bất kỳ dữ kiện nào được đặt tên là {0}",
     "CouldntGenerateConditionalToken": "Không thể khởi tạo token có điều kiện",
+    "CouldntGenerateLoopToken": "Không thể khởi tạo token lặp lại",
     "CouldntParseConditionalSymbol": "Không thể xử lý biểu tượng có điều kiện",
+    "CouldntParseLoopSymbol": "Không thể xử lý biểu tượng lặp lại",
     "InvalidDelegateObject_3": "Dữ kiện ủy nhiệm {0} không hoàn trả một loại dữ kiện hợp lệ. Biểu thức: {1}",
     "InvalidDelegateObject_2": "Dữ kiện ủy nhiệm {0} không được ràng buộc với một tên hàm hợp lệ cho đối tượng {1}. Biểu thức: {2}",
     "InvalidDelegateObject_1": "Dữ kiện ủy nhiệm {0} không được ràng buộc với một đối tượng hợp lệ. Biểu thức: {1}",
     "DelegateRecursionExceeded": "Độ sâu đệ quy của ủy nhiệm {0} đã vượt quá. Biểu thức: {1}",
     "InfiniteDelegateRecursionDetected": "Phát hiện đệ quy ủy nhiệm vô hạn trong ủy nhiệm {0}. Biểu thức: {1}",
     "ExpectedQuote": "Như mong muốn \"",
+    "ExpectedIn": "‘in’ dự kiến sau tên thành tố trong {% cho thành tố trong ...",
     "ExpectedElseIfCondition": "Biểu thức điều kiện như mong đợi trong {% else if  %}",
     "ExpectedIfCondition": "Biểu thức điều kiện như mong đợi trong {% if  %}",
+    "ExpectedElement": "Tên thành tố dự kiến sau {% cho ",
+    "ExpectedForElseInnerTemplate": "Mẫu bên trong như mong đợi giữa {% else %} và {% endfor %}",
     "ExpectedElseInnerTemplate": "Mẫu bên trong như mong đợi giữa {% else %} và {% endif %}",
     "ExpectedInnerTemplate": "Mẫu bên trong như mong đợi",
     "ExpectedClosingBrace": "Biểu thức dữ kiện khớp như mong đợi đang đóng }",
+    "ExpectedForLoop": "Biểu thức phạm vi như mong đợi trong {% for  %}",
+    "ExpectedWhitespaceAfterIn": "Khoảng trắng dự kiến sau 'in' trong {% cho thành tố trong ...",
     "InvalidFact_1": "Dữ Kiện không hợp lệ {0} (Lỗi: {1}) được tham chiếu trong biểu thức: {2}",
     "InvalidFact_2": "Dữ Kiện không hợp lệ {0} được tham chiếu trong biểu thức: {1}",
     "InvalidDelegateParamCall": "Cuộc gọi tham số không hợp lệ tới ủy nhiệm {0} không chấp nhận đối số. Biểu thức: {1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "Độ sâu đệ quy của mẫu đã vượt quá. Biểu thức: {0}",
     "TooManyArgs": "Quá nhiều tham số khi gọi tới {0}. Biểu thức: {1}",
     "UnexpectedElseAfterElse": "Khối else bất ngờ sau khối else trước đó",
+    "UnexpectedElseAfterElseInFor": "Khối else bất ngờ sau khối else trước đó",
     "UnexpectedElseIfAfterElse": "Khối else if bất ngờ sau khối else trước đó",
     "EOSExpectedConditionEnd": "Kết thúc luồng một cách bất ngờ. Đóng như mong muốn ' %}'",
+    "EOSExpectedLoopEnd": "Kết thúc luồng một cách bất ngờ. Dự kiến đóng ' %}'",
+    "EOSExpectedEndFor2": "Kết thúc luồng một cách bất ngờ. Dự kiến đóng {% endfor %}",
     "EOSExpectedEndIf2": "Kết thúc luồng một cách bất ngờ. Đóng {% endif %} như mong đợi",
+    "EOSExpectedEndFor1": "Kết thúc luồng một cách bất ngờ. Mẫu bên trong và dự kiến đóng {% endfor %}",
     "EOSExpectedEndIf1": "Kết thúc luồng một cách bất ngờ. Mẫu bên trong và {% endif %} đóng như mong đợi",
     "ExpectedOpenBrace": "Token không mong muốn \"{0}\" @ {1}:{2} sau khi ủy nhiệm dữ kiện, trong biểu thức: {3}",
     "UnexpectedFactExprToken": "Token không mong muốn \"{0}\" @ {1}:{2} trong biểu thức dữ kiện: {3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "Biểu thức không khớp đang đóng }"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "Ghi Đè Bộ Hoàn Thiện Trò Chuyện",
-    "RunEnginePromptTooltip": "Thực hiện lời nhắc bằng cách sử dụng Hệ thống con *Bộ Máy* Độc Thoại để đánh giá phản hồi",
-    "RunWorldPromptTooltip": "Thực hiện lời nhắc bằng cách sử dụng Hệ thống con *Thế Giới* Độc Thoại để đánh giá phản hồi",
-    "RefreshPreviewTooltip": "Buộc tái hiện các mẫu (ví dụ: để đánh giá lại các dữ liệu ủy nhiệm động)",
-    "PromptNameLabel": "Tên",
+    "LabelChatCompleterOverride": "Ghi Đè Bộ Hoàn Thiện Trò Chuyện",
+    "TooltipChatCompleterOverride": "Bộ Hoàn Thiện Trò Chuyện dùng để tạo phản hồi. Nếu không được chỉ định, *bộ hoàn thiện trò chuyện mặc định* từ Hệ Thống Con \"Bộ Máy Độc Thoại\" - Monologue Engine sẽ được sử dụng.",
+    "LabelPromptName": "Tên",
+    "ButtonNavigateToSystemMessage": "Điều hướng đến Tin Nhắn Hệ Thống (Ctrl + Alt + Mũi Tên Lên)",
+    "ButtonNavigateToUserMessage": "Điều hướng đến Tin Nhắn Người Dùng (Ctrl + Alt + Mũi Tên Lên)",
+    "ButtonNavigateToNextFact": "Điều hướng đến Dữ Kiện tiếp theo (Ctrl + Alt + Mũi Tên Phải)",
+    "ButtonNavigateToPreviousFact": "Điều hướng đến Dữ Kiện trước đó (Ctrl + Alt + Mũi Tên Trái)",
+    "SetChatCompleterClassOverride": "Ghi Đè Bộ Hoàn Thiện Trò Chuyện",
     "PromptPreviewSettings": "Cài Đặt Xem Trước Nhanh",
     "PromptResponse": "Phản Hồi Nhanh",
-    "SavePreviewTooltip": "Lưu cài đặt xem trước vào tài sản để kiểm tra lại",
-    "SetMPChatCompleterOverride": "Thiết Lập Ghi Đè MonologuePrompt ChatCompleter",
+    "ButtonRefreshFacts": "Làm mới Dữ Kiện, tức là xóa các mô hình đang chạy ngầm trong Trình Chỉnh Sửa.",
+    "ButtonRunPrompt": "Chạy câu lệnh bằng hệ thống phụ *Thế Giới* hoặc (*Bộ Xử Lý*) Độc Thoại để tạo phản hồi",
+    "ButtonSavePreview": "Lưu cài đặt xem trước vào tài sản để phục vụ việc kiểm thử lặp lại",
     "SetPromptName": "Đặt Tên Nhắc Nhở",
     "SetPromptPreviewSettings": "Thiết Lập Cài Đặt Xem Trước Lời Nhắc",
-    "SetPromptSystemMessage": "Thiết Lập Mẫu Tin Nhắn Hệ Thống Nhắc Nhở",
-    "SetPromptUserMessage": "Đặt Mẫu Tin Nhắn Nhắc Nhở Người Dùng",
-    "SystemMessageLabel": "Tin Nhắn Hệ Thống",
-    "CompleterOverrideTooltip": "UChatCompleter được sử dụng cho yêu cầu này. Nếu không được chỉ định, 'bộ hoàn thiện trò chuyện mặc định' từ Hệ Thống Con \"Bộ Máy Độc Thoại\" - Monologue Engine sẽ được sử dụng.",
-    "UserMessageLabel": "Tin Nhắn Người Dùng",
-    "WrapSystemMessageToolTip": "Tự Động Xuống Dòng",
-    "WrapUserMessageToolTip": "Tự Động Xuống Dòng"
+    "SetSystemMessageTemplate": "Thiết Lập Mẫu Tin Nhắn Hệ Thống",
+    "SetUserMessageTemplate": "Thiết Lập Mẫu Tin Nhắn Người Dùng"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "Ủy Nhiệm Dữ Kiện Cơ Sở Đăng Ký Dữ Liệu - Không tìm thấy bất kỳ sự kiện nào có tên \"{0}\" trong Cơ Sở Đăng Ký Dữ Liệu",
     "NoDRSubsystem": "Ủy Nhiệm Dữ Kiện Cơ Sở Đăng Ký Dữ Liệu - Hệ thống con Cơ Sở Đăng Ký Dữ Liệu không khả dụng, vui lòng đảm bảo plugin Cơ Sở Đăng Ký Dữ Liệu được bật.",
     "InvalidDRFactItemId": "Ủy Nhiệm Dữ Kiện Cơ Sở Đăng Ký Dữ Liệu - DataRegistryItemIdString \"{0}\" không phải là một id mục đăng ký dữ liệu hợp lệ",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "UMonologueComponent đầu tiên không hợp lệ được truyền vào MutuallyPerceivedEvents để truy xuất chi tiết sự kiện!",
     "FirstPersonName_My": "Của Tôi",
     "NameNoSubject": "Không có IMonologueSubjectInterface nào được truyền cho Chủ Thể để lấy tên!",
     "ObservedNameNoSubject": "Không có IMonologueSubjectInterface nào được truyền cho Chủ Thể để lấy tên!",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "Của {0}"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "SearchHeight không hợp lệ được chuyển đến NearbySubject. SearchHeight phải > 0",
+    "NearbySubjectsInvalidSearchRadius": "SearchRadius không hợp lệ được chuyển đến NearbySubject. SearchRadius phải > 0",
+    "NearbySubjectsNoActor": "MonologueComponent được truyền tới NearbySubject không có Chủ Sở Hữu để kiểm tra khoảng cách",
+    "NearbySubjectsNoSelf": "Không có UMonologueComponent nào được chuyển đến NearbySubject",
     "SmartObjectBehaviorsNoSelf": "Không có UMonologueComponent nào được truyền vào SmartObjectBehaviors",
+    "SpatialContextNoSelf": "Không có UMonologueComponent được truyền vào SpatialContext",
     "SmartObjectBehaviorsNoPawn": "SmartObjectBehaviors - Không thể lấy được Nhân Vật từ chủ thể",
     "SpatialContextNoPawn": "SpatialContext - Không thể lấy được Nhân Vật từ chủ thể"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "Bắn",
     "SecondaryActionName": "Thu Phóng"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "Không xếp hạng"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription} ({QuestProgress}/{QuestGoal})"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "Đạt cấp độ {LevelRequired} để mở khóa bộ vật phẩm mới",
     "Offer_CanUnlockSet": "Mở khóa bộ vật phẩm này để bắt đầu nhận phần thưởng"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "Mở khóa vào {Date}"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "Nhận tất cả phần thưởng từ Trang {IndexPage}",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "Đang chờ mã bí mật"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "Mùa {0} có số mùa không hợp lệ. Đã mong đợi {1} (mùa trước + 1), nhận được {2}"
+    "InvalidSeasonDependencies": "Tài nguyên thuộc Mùa {0} không thể tìm thấy dữ liệu phụ thuộc của nó.",
+    "InvalidSeasonNumber": "Mùa {0} có số mùa không hợp lệ. Đã mong đợi {1} (mùa trước + 1), nhận được {2}",
+    "IncompatibleSeasonNumber": "Mùa {0} đang cố xác thực phần phụ thuộc {1}. Hiện có Phiên Bản Phát Hành ({2}) cao hơn mùa tham chiếu đến nó ({3}).",
+    "InvalidObjectDef": "Mùa {0} đang cố xác thực phần phụ thuộc {1}. Lẽ ra đây phải là một UFortItemDefinition, nhưng thực tế thì không."
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "Còn <text size=\"18\">{0}</> {0}|plural(one=Món Quà,other=Món Quà) Chưa Mở",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "Cám ơn bạn vì đã chơi Fortnite!",
     "PurchaseHeader": "Đã nhận được {0}|plural(one=Vật Phẩm,other=Vật Phẩm)"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "Thêm Theo Dõi",
+    "AddTrack_ToolTip": "Tạo theo dõi hành động mới"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "Lưu",
+    "SavePrompts_ToolTip": "Lưu Trình Cung Cấp Lệnh"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "Chuyển toàn bộ thiết lập Công Cụ Bố Cục HUD sang Giao Diện Người Dùng Tùy Chỉnh",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Mở Công Cụ Chuyển HLTv2 sang Giao Diện Người Dùng Tùy Chỉnh để chuyển toàn bộ thiết lập HLTv2 sang khung Giao Diện Người Dùng tùy chỉnh mới."
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "Mở Máy Phân Tích Không Gian",
+    "OpenSpatialProfiler_ToolTip": "Mở Tab Máy Phân Tích Không Gian"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "Mở Công Cụ Cải Tiến Vũ Khí",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "Nhận tất cả phần thưởng {CategoryName} để mở khóa",
     "CategoryStatus_LockedRewardLevelFormat": "Nhận thêm {NumRewards} phần thưởng nữa HOẶC đạt thêm {NumLevels} cấp độ để mở khóa",
-    "CategoryStatus_LockedUntilLevel": "Đạt cấp độ {LevelRequired} để mở khóa bộ này",
-    "Status_LockedDateLockedFormat": "Mở khóa vào {Date}"
+    "CategoryStatus_LockedUntilLevel": "Đạt cấp độ {LevelRequired} để mở khóa bộ này"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "Nhận tất cả phần thưởng {CategoryName} để mở khóa",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "Chạy Trình Chuyển Đổi Lựa Chọn Dữ Liệu Trang Trí Âm Thanh Phương Tiện",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "Chạy Trình Chuyển Đổi Lựa Chọn Âm Thanh Định Nghĩa Vật Phẩm Trang Trí Phương Tiện"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "Nhiều Giá Trị"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "Tài nguyên không phải là định nghĩa vật phẩm.",
     "FortVehicleCosmeticsActorFactoryDisplayName": "Chủ Thể Hiển Thị Xem Trước Trang Trí Phương Tiện Pháo Đài",
     "CanCreateActorFrom_InvalidAsset": "Tài nguyên không hợp lệ",
     "CanCreateActorFrom_InvalidAssetClass": "Loại tài nguyên không hợp lệ"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "Không Hợp Lệ",
+    "MultipleValues": "Nhiều Giá Trị"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "Token Biến Thể Trang Trí Phương Tiện Pháo Đài",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "Đổi Ghế",
     "SwitchToWeapon": "Đổi Vũ Khí"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "Không"
   },
   "VkAnimNode": {
     "FADEINLEFT": "Mờ Dần Xuất Hiện Từ Trái",
@@ -11716,6 +11846,9 @@
   },
   "VkSpeechNode": {
     "OutBoundError": "Nút này không thể kết nối với các nút cùng loại hoặc nút Khởi Động Lại."
+  },
+  "VkSpeechRandomVariantNode": {
+    "OutBoundError": "Nút này không thể kết nối với các nút cùng loại hoặc nút Khởi Động Lại"
   },
   "VkTextCrawlNode": {
     "Format": "Nhân Vật Mỗi Giây: {NUMBER}",

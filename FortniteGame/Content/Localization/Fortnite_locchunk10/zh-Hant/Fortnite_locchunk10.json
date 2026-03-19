@@ -85,6 +85,7 @@
     "1B43FA80406F16576B8669B5ACE6DEA2": "成就完成代幣",
     "48008F3445314E50326D9FB086B9189F": "成就完成代幣",
     "FC7458584E93A2CCE3222B9CB21FFF51": "成就完成代幣",
+    "647B590E4A6D893A4E58DB921F805840": "活動",
     "9FEF179645D8A343518563AEFE302A2A": "活動",
     "1D013DBE46F3ED9DB75A63B9A80CA751": "飄遊者的額外任務。",
     "C0AD274548543104E8F3ABB507431A91": "金龍守護者任務包的額外任務。",
@@ -608,14 +609,14 @@
     "FCF99EE5470E8ECD1DB22FA576AEB981": "為朱諾計畫建立一個空白外掛。",
     "E806A3B84B22DDCF92AAF2B4C829173": "建立一個在 FNE 中用來承載物品定義的遊戲功能外掛。名稱會自動加上 FNE，直接用代碼命名即可。範例：FooBar 會變成 FNEFooBar！",
     "37C405BC468E03254AB82CB18FD5CF98": "建立一個新的CAMP場景插件",
+    "D7558F4F4BF1B00087DEFE9F3C94D652": "為朱諾項目建立一個新的生物外掛。",
     "E806A3B84B22DDCF92AAF2B4C90F14ED": "為《創意模式》建立新裝置",
     "9E0FC24F423F8F20BB5934B8F479E56B": "為FNE模式建立新的布料裝置。",
     "5E0375C044B7B6205FA5AABD6B429116": "建立新的Fortnite遊戲功能外掛附程式碼（需要額外修改程式碼檔案，才能無錯誤地使用）。",
     "633C71E243C17F5070573DB8EA470FBD": "建立新的 Fortnite 遊戲功能外掛附程式碼和使用者介面模組（需要額外修改程式碼檔案，才能無錯誤地使用）。",
     "D5255BA645C1DCF04D17019E061BAB8A": "建立具有基本內容的新Fortnite遊戲功能外掛。",
+    "A4A0F4E74285005A28C88FBBB31AD140": "為多寶格計劃建立一個新的遊戲玩法外掛。",
     "92B3DC974E94F5CA36482B9DB3343CF2": "為朱諾項目建立一個新的遊戲玩法外掛。",
-    "A4A0F4E74285005A28C88FBBB31AD140": "為萌芽計畫建立一個新的遊戲玩法外掛。",
-    "93089AE04A53C6F307B3D3A5FF9632E0": "建立一個新的朱諾營地場景外掛",
     "D5255BA645C1DCF04D17019E061BAB7A": "建立一個新的根遊戲功能外掛。",
     "E806A3B84B22DDCF92AAF2B4C90F13ED": "建立新的空白 Fortnite 遊戲功能外掛。僅包含 GameFeatureData 素材。",
     "D4034010418FF429289586AC5F972D77": "為新的《大逃殺》遊戲使用者介面內容建立一個空白外掛。",
@@ -648,6 +649,7 @@
     "8A9ECB304D8013DA6152CC95DD1BB5C3": "海盜骷髏航行者",
     "54743E7F439EF3489ADB5689670DEFFE": "十字標間諜挑戰",
     "DAD753E84E8CEBCC3B63A29395CBABF5": "抱抱肉包挑戰",
+    "019DB95946D0672E7BDEFA8EBCDA9652": "多寶格遊戲玩法外掛模板",
     "EF9405A043B0E869255F438176090428": "每日集點卡完成代幣",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "跳舞支援",
     "FEA5CDF84F86CFEEDCFFD69726390294": "<Emphasized>低生命值</>時造成更多<Emphasized>傷害</>。",
@@ -744,6 +746,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "強化突擊步槍  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "強化戰鬥衝鋒槍",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "強化鼓式霰彈槍",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "強化魚叉槍",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "強化戰術霰彈槍",
     "AF18DDE54541D1EEBA7FA382FBC137E0": "推入加農砲",
     "E6F1B9FF470A284E11AF6F891FE7D098": "推入加農砲",
@@ -949,6 +952,7 @@
     "29331DDE4F2D1A3B0A4BE7AB7C312BB2": "槍械、遠程、手槍、重型子彈、半自動",
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "槍械、遠程、手槍、重型子彈、半自動",
     "2D37E97E43724ABA040D5DB07530962F": "槍械、遠程、手槍、半自動",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "槍械、遠程、手槍、半自動",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "槍械、遠程、手槍、半自動",
     "9EA74A7A4C987B0D9D927EB133619716": "槍械、遠程、手槍、半自動",
     "BF1FF2F14FDC8846B569E7966543F17B": "槍械、遠程、手槍、半自動",
@@ -1037,6 +1041,7 @@
     "D1031344410A9E091F83799294FACA13": "獵槍",
     "D29EE9294C3C6ACC03577885D6B34262": "獵槍",
     "DFD2853F433A8DA06177BFAAF22D0CED": "獵槍",
+    "ED3070544F1AC9C6CA3F348B19D83B7F": "投出一顆手榴彈，爆炸時擊退附近所有玩家。",
     "88E97DAD4C1AB681AF821394106303DF": "抛出一顆榴彈，會吸附在敵方玩家身上或環境中。",
     "9F773C444680E58D8F932EA37E5F0581": "抛出一顆榴彈，會吸附在敵方玩家身上或環境中。",
     "90F8ED68488FD4B3343C46A4B7131E87": "抛出一顆釋出毒氣的榴彈，傷害在毒氣中的敵人。最好清除掉！",
@@ -1075,6 +1080,7 @@
     "DE2A32384917F9B886EF7384EBC57AEC": "強化所有科技的<Emphasized>充能率</>",
     "842064DD4CCAF532392128861286DD02": "提高所有武器的腰射<Emphasized>準確度</>",
     "1663A2EE4A4504CAE80EE7B13FFFB346": "衝擊榴彈",
+    "CFEA70984FEAE95DC388B0AC8B919432": "衝擊榴彈",
     "FB4BDD7B494F39753C6778979CD662CC": "空中：跳向目標",
     "80D8948A44365AE1A9D3DB9925A43A2B": "加快<Emphasized>滑翔翼速度</>",
     "7BD0C80B462CE7BD0EB5DC8B50B2DAD8": "提高<Emphasized>爆頭傷害</>，但降低<Emphasized>身體傷害</>",
@@ -1132,7 +1138,7 @@
     "9B40604B4DCD118FA9B964BA7F787C94": "跳墊（定向）",
     "F1CF58284915A6FF84FB4BA4A1AF888E": "跳墊（向上）",
     "251E3DE8412479479C227D821FAAC425": "朱諾空白外掛",
-    "38DE538C495F59868887E890EC3FD597": "朱諾營地場景",
+    "35158E6E43B44AF70B2CA7AE379A8C76": "朱諾生物外掛模板",
     "105342A546779B970DC46E80183052FE": "朱諾遊戲玩法外掛模板",
     "EF22E85B49A871DF9C133DA1F84B3900": "朱諾TG（主題遊戲）",
     "FDA97C5F4842CB9AE5195393C8759F84": "朱諾TM（主題極簡）",
@@ -1141,6 +1147,7 @@
     "AEA550724B83BFD509D7BB8AB7649FF6": "晶仕曼傘可以<Emphasized>格擋更多</>來襲傷害。",
     "330D995D4F99BB677CE5FF8643A9B17A": "機甲貓的充能霰彈槍",
     "A01D19E14ACA958C292350B0BDD893E8": "擊退榴彈、實用物品、榴彈",
+    "EF25D00545A41FDBE8672F9034B7F3EA": "擊退手榴彈、實用物品、手榴彈",
     "586C8B8742F62A2B5139ABB4D39BCDCB": "L",
     "5FA09E37434E8B8FA4B4FH98ASDKF08": "LEGO 元宇宙素材收藏",
     "5FA09E37434E8B8FA4B4D494EBDAHJ2": "LEGO 元宇宙素材組合",
@@ -1426,6 +1433,7 @@
     "1DE180094B22275C9812948B8DD3F76C": "PlayLocalAnimMontage IsDBNO{is} WasDBNO{was} Swimming{swimming} Montage{montage}",
     "4FDD4669440B5A988DE710903B3AF2F8": "玩家",
     "291AD5F7469E20890EFCD288976C3A9B": "玩家調查資格代幣",
+    "A8D8ABD44B7C828D09326A9F1FB5204E": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
     "0DD52B0B466C006A5B38E6AB78A93A98": "已獲得遊玩時間經驗值！",
     "14164C9D434D02CF6E737F8644740969": "已獲得遊玩時間經驗值！",
@@ -1469,6 +1477,7 @@
     "633AE08B4107DC69777F44B3036A5020": "感應地雷",
     "FE97DA514506C8282ACCE59BFD3A562C": "感應地雷",
     "EB7FCBAD49E466CA687372AC079CF68B": "感應地雷+",
+    "31127BE846D8E9589A9E6BA80983EEB7": "將敵人拉向你並對其造成傷害。",
     "1A594C2F49C7C8FE14F5F7AEFA719543": "泵動式霰彈槍",
     "EF0917D448D388C00D296F8E62FF2DC4": "泵動式霰彈槍+",
     "BD2116C34CE9B8F993E02B97B7FFE4BF": "這種泵動式霰彈槍具備<Emphasized>改良的爆頭傷害</>",
@@ -1490,6 +1499,7 @@
     "3B2F170F40934B3A5C46F1B55E412D4A": "撲滅那場火！",
     "4253CE934E3EFF13CA95C787B6D46641": "請大家給予艾莉莎熱烈掌聲，歡迎我們最新出爐的島嶼夏季網球錦標賽冠軍！",
     "43088BA143F2B6BCAEE378847172BE8C": "四輪粉碎者",
+    "CC13E7A44B19B6541560D085C426791D": "四輪粉碎者",
     "24034CD84B1D10C83560F8902AF33DC2": "任務",
     "280019E146742BEA12E9E897FA18D7D4": "任務",
     "31F60738447C00A236E84A89CEB3B03A": "任務",
@@ -1736,7 +1746,6 @@
     "3D0DF3484ED13D437A73388F5EB9128E": "花費木材點燃舒適的營火，開始治療！",
     "654EA602493B038AED40358E6100A5F7": "花費木材點燃舒適的營火，開始治療！",
     "CD5B0A744223502F67BABD81B1230D5D": "噴畫",
-    "019DB95946D0672E7BDEFA8EBCDA9652": "萌芽遊戲玩法外掛模板",
     "CD3076B64ADB97607D7AF4A750656533": "萌芽TG（主題遊戲）",
     "D4E2E1844AC9508E7C218A8FA70A5CC5": "小隊請求",
     "459B35F94D969E08A4D1109E18B98C2F": "標準配備的<Emphasized>近距離</>武器",
@@ -2278,8 +2287,24 @@
     "CameraFocusActor": "聚焦於目標",
     "TiltAngleIndicator": "傾斜 {0} 度"
   },
+  "AIActionSequence": {
+    "AppLabel": "AI 行為序列",
+    "AIActionSequenceTab": "AI 行為序列",
+    "AddTrack": "新增 AI 賽道",
+    "DeleteAction": "刪除 AI 動作",
+    "DeleteTrack": "刪除 AI 賽道"
+  },
+  "AIActionSequencer": {
+    "OpenAIActionSequencesEditor": "在 AI 行為序列編輯器中開啟",
+    "OpenAIActionSequencesEditor_Tooltip": "在 AI 行為序列編輯器中開啟此素材。"
+  },
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
+  },
+  "AIPromptEditorModule": {
+    "PromptEditorToolTabTooltip": "開啟提示編輯器工具",
+    "PromptEditorTool": "提示編輯器工具",
+    "PromptEditorToolTabTitle": "提示編輯器工具"
   },
   "AbandonMatchSystem": {
     "MatchAbandonedLeft": "由於缺少玩家，你的隊伍至少有一名成員選擇放棄比賽。",
@@ -2307,6 +2332,7 @@
     "ArrayPropertyIndexText": "{0}，{1}"
   },
   "AssetTypeActions": {
+    "AIActionSequence": "AI 行為序列",
     "UJunoAssetListAssetFactory": "Asset List"
   },
   "Athena": {
@@ -2502,10 +2528,6 @@
     "CircleRadiusText": "{0}公尺",
     "LongestKillDistanceText": "{0} 公尺"
   },
-  "AthenaFeatTimelineListEntry": {
-    "Today": "今天",
-    "NumberOfDays": "{NumDays} {0}|plural(one=天,other=天)"
-  },
   "AthenaFullScreenMapBrowsingControlsWidget": {
     "PlaceMapMarker": "放置標記",
     "PlaceDangerMarkerDoubleTap": "放置危險標記（雙擊）",
@@ -2591,7 +2613,8 @@
     "GPUTimeMS": "總GPU時間：{GPUTimeMS}",
     "DrawCalls": "總抽取呼叫：{DrawCalls}",
     "NumPrimitives": "總抽取原素：{NumPrimitives}",
-    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\n記憶體使用量：{1}/ {2}"
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_Desc": "{0}!\n\n記憶體使用量：{1}/ {2}",
+    "ValkyriePerformanceHUDBase_MemorySamplerCompleted_DescUnitsMb": "{0}!\n\n記憶體使用量：{1}/{2} MB"
   },
   "AthenaHUDContext": {
     "HiredNPCEliminated": "已淘汰"
@@ -2683,6 +2706,8 @@
     "AthenaMatchXPScreenWidget.MenuItem.Spectate.ReadyUpOngoingMatch": "準備加入下一場對戰",
     "AthenaMatchXPScreenWidget.MenuItem.ReadyUp": "準備就緒！",
     "KeepPlayingTogether.ReadyUpNewTeamText": "與新隊伍準備就緒。",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematch": "再比一場",
+    "AthenaMatchXPScreenWidget.MenuItem.ReadyRematchTeam": "與隊伍再比一場",
     "AthenaMatchXPScreenWidget.MenuItem.ReportPlayer": "檢舉玩家",
     "AthenaMatchXPScreenWidget.MenuItem.ReturnToLobby": "返回大廳",
     "KeepPlayingTogether.PartyMemberOptedOutText": "部分組隊成員未投票選擇留在組隊中",
@@ -2751,8 +2776,9 @@
     "Watchers Listening Notify": "{0} 名觀眾正在聆聽"
   },
   "AtomActorValidator_Overlap": {
-    "AddingOverlappingActors": "你的專案中有重疊的 LEGO® 素材。這違反了 LEGO® 的指導方針。所有重疊部分都應解決，否則你的專案將面臨審核失敗的風險。\n演員 {0} 與其他 {1} 位演員重疊：",
-    "AddingOverlappingActorsHitActor": "{0}\n{1}"
+    "DetailedCollisionOverlappingActors": "{0}",
+    "AddingOverlappingActorsHitActor": "{0}\n{1}",
+    "AddingOverlappingActors": "{0}演員 {1} 與其他 {2} 位演員重疊："
   },
   "Augments": {
     "AugmentsRerollContext": "/{0}"
@@ -2998,6 +3024,7 @@
     "FailedToCreateContentPackageResolver": "無法建立內容包解析器",
     "InvalidStateRequested": "內部內容信標錯誤\n{ShortErrorCode}",
     "ServerRestartedErrorTitle": "加入錯誤",
+    "ServicesUnavailable": "目前服務負載過重。請稍後再試。\n{ShortErrorCode}",
     "PackageResolveFlowCancelled": "由於未知原因，資料包解析器控制流程被取消。",
     "ProjectDuplicationErrorTitle": "專案重複錯誤",
     "RequestInvalid": "請求的格式有錯誤{RequestDescription}\n{ShortErrorCode}",
@@ -3037,8 +3064,13 @@
     "ServerRestarted": "伺服器意外關閉。請再試一次\n{InnerErrorMessage}",
     "ServerRestartedShortErrCd": "伺服器意外關閉。請再試一次\n{ShortErrorCode}"
   },
+  "Context": {
+    "AIActionSequenceEditor": "AI 行為序列編輯器"
+  },
   "Contexts": {
+    "HLTv2ToCustomizableUI": "HLTv2 轉移至可自訂使用者介面外掛",
     "JunoViewportToolsCommands": "Juno Tools",
+    "SpatialMetricProfiler": "空間分析器",
     "WeaponModernizationEditorCommands": "武器現代化工具"
   },
   "ConversationTask_SellItem": {
@@ -3352,6 +3384,11 @@
   "CrossplayReadyUp": {
     "SplitscreenPlayerCantReadyUp_Crossplay_Setting": "使用子母畫面的玩家無法準備，請以主要玩家登入變更跨平台設定"
   },
+  "CustomizableUI": {
+    "SizePropertyName": "尺寸",
+    "CopyOfCustomLayoutProfile": "{0}複製",
+    "CopyOfLayoutPreset": "{0}複製"
+  },
   "DailyTime": {
     "AllowedTimeOff": "0 分鐘",
     "AllowedTimeNoLimit": "無限制",
@@ -3372,6 +3409,7 @@
     "DebugCommand_EliminateAI_DisplayName": "殲滅附近 AI",
     "DebugCommand_EndGame_DisplayName": "結束遊戲",
     "DebugCommand_EndRound_DisplayName": "結束回合",
+    "DebugCommand_Flight_DisplayName": "飛行",
     "DebugCommand_GiveGold_DisplayName": "提高黃金資源",
     "DebugCommand_AddPlayerScore_DisplayName": "提升分數",
     "DebugCommand_PauseRound_DisplayName": "暫停回合計時器",
@@ -3473,12 +3511,16 @@
     "BackpackPickup_Plural": "背包",
     "Badge": "徽章",
     "Badge_Plural": "徽章",
+    "SparksBass": "貝斯",
+    "SparksBass_Plural": "貝斯",
     "Buff": "加成",
     "BuffCredit": "加成",
     "BuffCredit_Plural": "加成",
     "Buff_Plural": "加成",
+    "JunoBuildingSet": "建造",
     "BuildingPiece": "建築素材",
     "BuildingPiece_Plural": "建築素材",
+    "JunoBuildingSet_Plural": "建物",
     "ItemCache": "快取",
     "ItemCache_Plural": "快取",
     "CodeToken": "代碼代幣",
@@ -3506,12 +3548,16 @@
     "Currency": "貨幣",
     "DailyRewardScheduleToken": "每日獎勵",
     "DailyRewardScheduleToken_Plural": "每日獎勵",
+    "JunoBuildingProp": "裝飾",
     "Deco": "裝飾物品",
     "Deco_Plural": "裝飾物品",
+    "JunoBuildingProp_Plural": "裝飾",
     "Defender": "防衛者",
     "Defender_Plural": "防衛者",
     "DeployableBaseCloudSave": "可部署基地",
     "DeployableBaseCloudSave_Plural": "可部署基地",
+    "SparksDrums": "爵士鼓",
+    "SparksDrums_Plural": "爵士鼓",
     "EditTool": "編輯工具",
     "EditTool_Plural": "編輯工具",
     "Emote": "表情動作",
@@ -3532,6 +3578,8 @@
     "GameplayModifier_Plural": "玩法調整器",
     "Glider": "滑翔翼",
     "Glider_Plural": "滑翔翼",
+    "SparksGuitar": "吉他",
+    "SparksGuitar_Plural": "吉他",
     "Hero": "英雄",
     "Hero_Plural": "英雄",
     "HomebaseBannerIcon": "基地旗幟",
@@ -3540,6 +3588,8 @@
     "HomebaseBannerIcon_Plural": "基地旗幟",
     "Ingredient": "材料",
     "Ingredient_Plural": "材料",
+    "SparksKeyboard": "鍵盤吉他",
+    "SparksKeyboard_Plural": "鍵盤吉他",
     "CosmeticShoes": "鞋款",
     "CosmeticShoes_Plural": "鞋款",
     "LoadingScreen": "載入畫面",
@@ -3550,6 +3600,8 @@
     "CardPack_Plural": "戰利品",
     "WeaponMelee": "近戰武器",
     "WeaponMelee_Plural": "近戰武器",
+    "SparksMicrophone": "麥克風",
+    "SparksMicrophone_Plural": "麥克風",
     "MissionItem": "任務物品",
     "MissionItem_Plural": "任務物品",
     "Music": "音樂",
@@ -3666,14 +3718,6 @@
     "ModalMFARemindMeButton": "稍後提醒我",
     "EmoteConfirmDesc": "瘋狂搖擺表情動作將在24小時內送達你的帳號！"
   },
-  "EngagementDefinitionEditorDetails": {
-    "bStateTreeManagesWaves": "管理揮手",
-    "InitialWave": "揮手 [ 0 ] - 初始揮手"
-  },
-  "EngagementsEditorSettings": {
-    "EngagementsEditorProjectSettingsDescription": "調整戰鬥外掛編輯器設定。",
-    "EngagementsEditorProjectSettingsName": "戰鬥編輯器"
-  },
   "EntityInteractProxyActor": {
     "CannotInteractionMessage": "無法互動",
     "InteractionMessage": "互動"
@@ -3731,6 +3775,12 @@
   "FConditionalTransitionsEditorModule": {
     "ConditionalTransitionEditorTabTitle": "CTA 編輯器",
     "ConditionalTransitionEditorTabTooltip": "開啟條件過渡物件編輯器"
+  },
+  "FHLTv2ToCustomizableUIMigratorModule": {
+    "CheckOutPlugin": "正在檢查外掛",
+    "CustomizableUI": "可自訂使用者介面",
+    "HLTv2ToCustomizableUIMigratorTool": "將所有 HLTv2 的設定轉移至可自訂使用者介面",
+    "FailedToWriteDescriptor": "找不到「{0}」外掛"
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
@@ -4167,7 +4217,6 @@
     "CrouchWhileBuilding": "蹲伏建造（輕觸）/滑行（長按）",
     "CrouchWhileEditing": "蹲伏編輯（輕觸）/滑行（長按）",
     "ToggleCursorMode": "游標模式",
-    "Custom1(Fire)": "自訂輸入1（射擊）",
     "CustomInput10(Right)": "自訂輸入10（右）",
     "CustomInput11(PreviousItem)": "自訂輸入11（上一物品）",
     "CustomInput12(NextItem)": "自訂輸入12（下一物品）",
@@ -4177,10 +4226,6 @@
     "CustomInput16(ToggleInventory)": "自訂輸入16（切換物品欄）",
     "CustomInput17(SquadRequests)": "自訂輸入17（SquadRequests）",
     "CustomInput18(Emote)": "自訂輸入18（表情動作）",
-    "CustomInput2(Target)": "自訂輸入2（瞄準）",
-    "CustomInput3(Crouch)": "自訂輸入3（蹲伏）",
-    "CustomInput4(Jump)": "自訂輸入4（跳躍）",
-    "CustomInput5(Sprint)": "自訂輸入5（衝刺）",
     "CustomInput6(Interact)": "自訂輸入6（互動）",
     "CustomInput7(Forward)": "自訂輸入7（前進）",
     "CustomInput8(Backwards)": "自訂輸入8（後退）",
@@ -4742,19 +4787,16 @@
   },
   "FortAthenaMatchmakingWidget": {
     "Ranked_Feral_SeasonNameOverride": "搶先體驗",
-    "MapRotationMessage": "下一張地圖：{0}",
     "Ranked_Feral_ModeName": "《槍火盛宴》積分賽",
     "Ranked_Figment_ModeName": "Fortnite《懷舊》積分賽",
     "Ranked_LTM_ModeName": "積分賽限時模式",
     "Ranked_DelMar_SeasonNameOverride": "積分賽：Racing",
     "Ranked_BlastBerry_ModeName": "《火力全開》積分賽",
     "Ranked_BattleRoyale_ModeName": "積分賽：{0}",
-    "ReJoinMessage": "重新加入進行中的比賽以避免{0}配對限制",
     "Ranked_DelMar_HeaderName": "Rocket Racing",
     "Ranked_BattleRoyale_SeasonNameOverride": "第0賽季",
     "Ranked_BlastBerry_SeasonNameOverride": "第0賽季",
     "Ranked_Figment_SeasonNameOverride": "第0賽季",
-    "BlackoutTimeCountdownFormat": "{0}中不可用",
     "Ranked_Matchmaking_ReadyUpWelcome": "歡迎來到{0}"
   },
   "FortAthenaVehicleDashboardWidget": {
@@ -5399,8 +5441,10 @@
     "MemoryTestResults_HiddenAsset": "隱藏素材",
     "MemoryTestResults_Summary_HighestMemoryLocation": "最高記憶位置： ",
     "MemoryTestResults_Summary_HighestMemoryUsage": "最高記憶體使用量：{MemoryValue}/{MemoryThreshold}",
+    "MemoryTestResults_Summary_HighestMemoryUsageMb": "最高記憶體使用量：{MemoryValue}/{MemoryThreshold} MB",
     "MemoryTestResults_Summary_Header": "記憶體計算結果摘要",
     "MemoryTestResults_Summary_NumLocationsSampled": "採樣位置數量：{0}",
+    "PerformBatchedReferenceChainSearch_SlowTask": "正在處理 {0} 個參考鏈",
     "MemoryTestResults_Summary_Result": "結果：{0}",
     "MemoryTestResults_Summary_Result_Success": "成功",
     "MemoryTestResults_TopTotalExclActors_Header": "頂尖演員（以獨家總人數計算）",
@@ -5423,24 +5467,25 @@
     "ClassNameFormat": "職業{0}",
     "Game": "遊戲",
     "TeamScoreboardNameFormat": "隊伍{0}",
-    "JoinInProgressTooLate": "你嘗試加入的遊戲已結束。",
-    "UnableToFindSpawnPoint": "無法找到重生點"
+    "JoinInProgressTooLate": "你嘗試加入的遊戲已結束。"
   },
   "FortMissionPopupWidget": {
     "REWARD:": "獎勵：",
     "BluGloReward": "x{0}"
   },
-  "FortMtxStoreOfferVM": {
-    "BonusMtxPercentFormat": "額外 {0}%*"
-  },
   "FortMtxStoreVM": {
-    "RealPriceFormat": "（等同{0}*）",
-    "RealPriceFormat_AdditionalText": "（等同{0}**）",
+    "RealPriceFormat": "（等同 {0} *）",
+    "RealPriceFormat_AdditionalText": "（等同 {0} **）",
     "RealPriceLegalFormat_NoExactAmount_AdditionalText": "**欲在此平台購買 {0} V-Buck，需支付 {1}。 此平台不支援購買該數量。",
     "RealPriceLegalFormat_AdditionalText": "**欲購買 {0} V-Buck，需支付{1}。",
-    "ExactPackLegalText": "* 顯示的額外 V-Buck 比例，是根據 1,000 V-Buck 包的價格作為對照基準。",
+    "BonusAmountLegalFormat_Amount": "* 顯示的額外 V-Buck 獎勵，是根據 {0} 包的價格作為對照基準。",
+    "BonusAmountLegalFormat_PercentageAndAmount": "* 顯示的額外 V-Buck 比例與獎勵，是根據 {0} 包的價格作為對照基準。",
+    "BonusAmountLegalFormat_PercentageLegacy": "* 顯示的額外 V-Buck 比例，是根據 {0} V-Buck 包的價格作為對照基準。",
+    "BonusAmountLegalFormat_Percentage": "* 顯示的額外 V-Buck 比例，是根據 {0} 包的價格作為對照基準。",
     "RealPriceLegalFormat_NoExactAmount": "*欲在此平台購買 {0} V-Buck，需支付 {1}。此平台不支援購買該數量。",
     "RealPriceLegalFormat": "*欲購買 {0} V-Buck，需支付{1}。",
+    "ExactAmountOfferTitleText": "精確數量優惠",
+    "NonRefundableVBucksLegalText": "V-Buck 組合包不可退款。",
     "LegalTextNewLineAppendFormat": "{0}\n{1}"
   },
   "FortNevadaVehicle": {
@@ -5489,7 +5534,6 @@
     "SupervisedSettingsDownloadFailedMsg": "監控設定下載失敗。",
     "QueryKeychainFailedMsg": "無法下載資產鑰匙圈",
     "GuestLoginNotAllowed": "訪客帳號可能無法玩 Fortnite。請登入其他 Xbox network 帳號以繼續。",
-    "WorkspaceManagerInitFailed": "初始化工作空間管理器失敗",
     "InitializingEpicParty": "正在初始化 Epic 派對……",
     "RegisterUsabilityExperiment": "正在初始化可用性設定……",
     "LeavingParty": "離開派對……",
@@ -5887,6 +5931,10 @@
     "UPlaylistUserOptionTeamIndex.DisplayPattern": "隊伍{0}",
     "UPlaylistUserOptionConfigIntRange.PrefixFmt": "{0} {1}"
   },
+  "FortPlaytimeManagementScreen": {
+    "CreateScheduleTitle": "<Strong>建立時間表</>",
+    "PlayScheduleTitle": "<Strong>遊玩時間表</>"
+  },
   "FortPlaytimeSchedule": {
     "PlaytimeScheduleEveryDay": "每天",
     "PlaytimeScheduleFriday": "星期五",
@@ -5958,7 +6006,16 @@
     "WednesdayTimeWindow_Name": "特定時間範圍",
     "TuesdayPlaytimeCollection_Name": "星期二",
     "PlaytimeReports_Description": "查看你的孩子每週在 Fortnite 和 Unreal Editor for Fortnite (UEFN) 中花費的時間。\n\n如果你開啟此設定，你也可以選擇接收包含此資訊的每週電子郵件。",
-    "WednesdayPlaytimeCollection_Name": "星期三"
+    "WednesdayPlaytimeCollection_Name": "星期三",
+    "ThymeSetting2Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3Collection_Name": "[PH] Collection Name",
+    "ThymeSetting3DailyTimeWindow_Description": "[PH] Daily Time Window Description",
+    "ThymeSetting2DailyTimeWindow_Description": "[PH] DailyTimeWindow_Description.",
+    "ThymeSetting3MinutesAllowed_Description": "[PH] Minutes Allowed Description",
+    "ThymeSetting2MinutesAllowed_Description": "[PH] MinutesAllowed_Description.",
+    "ThymeSetting2Setting_Description": "[PH] Setting Description",
+    "ThymeSetting3LimitsEnabled_Description": "[PH] Setting Description",
+    "ThymeSetting1_Name": "[PH] Setting Name"
   },
   "FortPostGameMenuEntry": {
     "UFortPostGameMenuEntry.HoldActionText": "{ButtonName}（長按）"
@@ -6425,6 +6482,7 @@
     "AutoHideBuildingMaterials_Name": "自動隱藏建築材料",
     "AutoSetQuality_Action": "自動設定",
     "AutoSetQuality_Name": "自動設定品質",
+    "AutomaticallyApplyXP_Name": "自動套用 - 人員經驗值",
     "DynamicResolution_Description": "依據 GPU 負載自動調整 3D 解析度。GPU 使用率偏低時，解析度會提升至原生解析度。GPU 使用率偏高時，解析度會降低至最低 3D 解析度的設定值。",
     "AutoSetQuality_Description": "根據硬體基準自動調整圖形品質選項。",
     "EditConfirmOnRelease_Description_Switch": "在放開鍵後自動確認編輯操作。",
@@ -6433,6 +6491,7 @@
     "ResetConfirmOnRelease_Description_Switch": "在放開鍵後自動確認編輯重設操作。",
     "ResetConfirmOnRelease_Description_PS4_PS5": "在按鈕放開後自動確認編輯重設操作。",
     "ResetConfirmOnRelease_Description": "放開輸入後自動確認編輯重設操作。",
+    "AutomaticallyApplyXP_Description": "自動消耗現有的人員經驗值，提升目前英雄配置中的英雄與防衛者等級，以及小隊中的生存者等級",
     "AutoMulchMode_Traps_Description": "自動回收低於此稀有度的陷阱圖紙。",
     "AutoMulchMode_Weapons_Description": "自動回收低於此稀有度的武器圖紙。",
     "AutoMulchMode_Defenders_Description": "自動汰除低於此稀有度的防衛者。",
@@ -6469,6 +6528,7 @@
     "QuickWeaponButtonGroup_Name_Switch2": "按鈕群組",
     "QuickWeaponButtonGroup_Name_XB1": "按鈕群組",
     "QuickWeaponButtonGroup_Name_XSX": "按鈕群組",
+    "ButtonHoldTime_Name": "按鈕長按時間",
     "ControllerButtonMappingCollection_Name": "鍵配置",
     "TouchButtonPulseAnimation_Name": "鍵脈動動畫",
     "GyroCalibrationContext_Name": "校準",
@@ -6855,8 +6915,6 @@
     "GyroV2SpaceAttached_Name": "手提模式陀螺儀感應器空間",
     "MobileVibration_Name": "觸覺回饋",
     "ControllerHardwareCollection_Name": "硬體",
-    "EnableHardwareRayTracing_Name": "硬體光線追蹤",
-    "EnableHardwareRayTracing_Description": "硬體光線追蹤可提供更高品質的 Lumen 全域照明和反射，但可能會降低效能。",
     "GyroTighteningThreshold_Description": "透過在控制器轉動非常慢時降低陀螺儀感應器瞄準速度來幫助保持瞄準穩定。閾值是需要控制器轉動多快才能停用此緊縮效果（每秒角度），將閾值設為 0 可完全停用此效果。陀螺儀感應器無反應區會加到此閾值上，這樣如果兩者都啟用，緊縮會提供從無反應區的平滑過渡。",
     "AutoMulchMode_Heroes_Name": "英雄",
     "HiddenMatchmakingDelay_Name": "隱藏配對延遲",
@@ -7099,7 +7157,6 @@
     "LowInputLatencyMode_Name": "低輸入延遲模式",
     "GlobalIlluminationEpic": "Lumen 史詩",
     "ReflectionsEpic": "Lumen 史詩",
-    "Lumen is disabled": "必須啟用 Lumen GI 或反射。",
     "GlobalIlluminationHigh": "Lumen 高",
     "ReflectionsHigh": "Lumen 高",
     "LumenUnavailableInGameMode": "此遊戲模式中無法使用 Lumen",
@@ -7309,6 +7366,7 @@
     "QuickWeaponToggle_Name_XSX": "快速武器",
     "RightTriggerDynamicReleaseThreshold_Name_PS4_PS5": "放開 R2",
     "GyroTrackballDecay_Description": "陀螺儀感應器軌跡球衰減率（只影響陀螺儀感應器鍵 X 軸和 Y 軸的軌跡球行為選項）。",
+    "LumenRequiresRayTracing": "此平台不支援光線追蹤。",
     "AnnualRefundTokenRequests_Name": "近期購買",
     "TSRRecommended": "建議",
     "ReplayRecordingCreativeMode_Name": "錄製《創意模式》重播",
@@ -7386,6 +7444,7 @@
     "AntiAliasingMethodSMAA": "SMAA",
     "SafeZone_Name": "安全區域",
     "AutoMulchCollection_Name": "《末世守衛》——自動回收/汰除",
+    "PeopleXPCollection_Name": "末世守衛 - 自動套用經驗值",
     "CombatTweakZone_Scope": "瞄準鏡",
     "GyroActiveMode_Scope": "僅瞄準鏡",
     "MouseScopedMultiplier_Name": "瞄準鏡靈敏度",
@@ -7582,6 +7641,7 @@
     "LumenRequiresD3D12": "必須將「渲染模式」設定設為「DirectX 12」才能啟用 Lumen。",
     "NaniteRequiresD3D12": "必須將「渲染模式」設定設為「DirectX 12」才能啟用 Nanite。",
     "FilterMatureLanguage_Warning": "13 歲以下玩家始終開啟成人用語過濾器。",
+    "ButtonHoldTime_Description": "使用觸控螢幕時，長按按鈕觸發選取所需的時間（秒）。僅適用於使用 UEFN 製作的體驗",
     "KeyboardMovementBackwardDiagonal_Description": "使用鍵盤時向後對角移動的角度。",
     "KeyboardMovementForwardDiagonal_Description": "使用鍵盤時向前對角移動的角度。",
     "KeyboardMovementStrafeDiagonal_Description": "使用鍵盤時橫向移動的角度。",
@@ -7920,6 +7980,7 @@
     "FlickTime_Display": "{0}秒",
     "GyroButtonHoldTime_Display": "{0}秒",
     "GyroSmoothWindowTime": "{0} 秒",
+    "LongPressTime_FormattedLabelText": "{0} 秒",
     "LookBoostAccelerationTimeAds_Format": "{0} 秒",
     "LookBoostAccelerationTime_Fortmat": "{0}秒",
     "LookEaseTime_Format": "{0}秒",
@@ -7928,6 +7989,7 @@
     "SimpleEditButtonHoldTime": "{0}秒",
     "SlideButtonHoldTime": "{0} 秒",
     "BrightnessFormat": "{0}%",
+    "PercentFormat": "{0} %",
     "ResolutionScalePercent": "{0}%",
     "ContrastMultiplier": "{0}x",
     "FPSMultiplierController_Format": "{0}x",
@@ -8007,6 +8069,12 @@
     "SettingByDayOfTheWeek": "每天自訂",
     "SettingOff": "關",
     "SettingSameEveryDay": "每天相同"
+  },
+  "FortSettingValueDiscreteThymeToggle": {
+    "SettingOff": "關",
+    "SettingOn": "開",
+    "SettingOption1": "[PH] Option 1",
+    "SettingOption2": "[PH] Option 2"
   },
   "FortSettingValueDiscrete_AllowCrossplay": {
     "NO": "否",
@@ -8654,6 +8722,9 @@
   "FortVariantSprayCustomizer": {
     "SpraySectionTitle": "噴畫"
   },
+  "FortVehicleCosmeticsLevelPreviewActor": {
+    "FailedToMigrateData": "無法將資料從版本 {0} 遷移至 {1}（對象 = {2}）"
+  },
   "FortVoiceChannelSpeakerWidget": {
     "GameChannelName": "遊戲",
     "LoadingNameKey": "取得名稱",
@@ -8715,11 +8786,6 @@
     "MinutesAndSecondsFormatText": "{Minutes} 分鐘 {Seconds} 秒",
     "WeeksFormatText": "{Weeks} 週 {Days} 天"
   },
-  "Fortnite.FortAthenaMatchmakingTile": {
-    "SubGameMode.LTMDuos": "雙人",
-    "SubGameMode.LTMSolo": "單人",
-    "SubGameMode.LTMSquads": "小隊"
-  },
   "Fortnite.FortAthenaMatchmakingWidget": {
     "Message.DownloadRequired": "（需要下載）",
     "Message.Error": "發生錯誤。",
@@ -8734,7 +8800,6 @@
     "PartySplitUpShort": "不同隊伍",
     "DuosTeam": "雙人",
     "Message.EstimatedTimeRemaining": "預計剩餘時間：{0}",
-    "Fill": "補位",
     "TeamFill": "補位",
     "Message.FindingMatchNoETA": "尋找比賽中……\n已用時間：{0}",
     "Message.FindingMatch": "尋找比賽中……\n已用時間：{0}，預計時間：{1}",
@@ -8755,22 +8820,16 @@
     "Header.PartyError.Number": "配對錯誤（#4）",
     "Message.ETANotAvailable": "不適用",
     "Message.ModeNew": "新模式可用！",
-    "NoFill": "不補位",
     "NoTeamFill": "不補位",
     "Header.NotMatchmaking": "未配對",
     "Message.CanMatchmakeSoloNewStyle": "開始",
     "Message.CanMatchmakeSolo": "開始！",
-    "Private": "私人",
-    "Public": "公開",
     "Header.PartyError": "派對錯誤",
     "Header.Preparing": "準備中……",
     "PrivateMatch": "私人",
     "PublicMatch": "公開",
     "Message.QueueFull": "隊列已滿，請等待……\n已用時間：{0}",
     "Message.PlayersInQueue": "排隊玩家：{0}\n已用時間：{1}",
-    "Ranked": "積分賽",
-    "RankedOff": "積分賽：關閉",
-    "RankedOn": "積分賽：開啟",
     "Message.CanReJoinGame": "重新加入",
     "Message.CanMatchmakeParty": "準備就緒！",
     "PartySameTeamShort": "相同隊伍",
@@ -8792,9 +8851,7 @@
     "Message.WaitingForServer": "等待伺服器……",
     "Message.WaitingForReadyFormat_Two": "等待{0}和{1}準備就緒……",
     "Message.WaitingForReadyFormat_More": "等待{0}名玩家準備就緒……",
-    "Message.WaitingForReadyFormat_Single": "等待{0}準備就緒……",
-    "MatchmakingSettingsButtonText": "{0} - {1}",
-    "ContentDownloadInstallPercent": "{0}%"
+    "Message.WaitingForReadyFormat_Single": "等待{0}準備就緒……"
   },
   "Fortnite.FortCampaignNews": {
     "DefaultAthenaNewsHeader": "新聞"
@@ -8998,6 +9055,39 @@
     "JIPRejected": "你的加入遊戲請求已被拒絕。請稍後再試。",
     "ServiceErrorTemplate": "{0}\n（{1}）",
     "Message.RegionTournament": "{0}錦標賽"
+  },
+  "Fortnite.MatchmakingV3Texts": {
+    "BuildMode": "建造",
+    "BuildModeTitle": "建造模式/零建造",
+    "TeamSize2": "雙人",
+    "Fill": "補位",
+    "NoFill": "不補位",
+    "TeamSize8": "八人",
+    "Off": "關",
+    "On": "開",
+    "RankedDescription": "表現會影響你的階位",
+    "UnrankedDescription": "表現不會影響你的階位",
+    "ZeroBuildModeDescription": "遊玩時停用建造模式",
+    "BuildModeDescription": "遊玩時啟用建造模式",
+    "TeamSize5": "五人",
+    "Ranked": "積分賽",
+    "TeamSize6": "六人",
+    "TeamSize1": "單人",
+    "TeamSize4": "小隊",
+    "SquadFillTitle": "隊伍補位",
+    "TeamSizeTitle": "隊伍規模",
+    "TeamSizeDescription1": "隊伍人數上限為 1 人",
+    "TeamSizeDescription2": "隊伍人數上限為 2 人",
+    "TeamSizeDescription3": "隊伍人數上限為 3 人",
+    "TeamSizeDescription4": "隊伍人數上限為 4 人",
+    "TeamSizeDescription5": "隊伍人數上限為 5 人",
+    "TeamSizeDescription6": "隊伍人數上限為 6 人",
+    "TeamSizeDescription8": "隊伍人數上限為 8 人",
+    "TeamSize3": "三人",
+    "Unranked": "無階位",
+    "FillDescription": "你的隊伍會在配對開始前補位",
+    "NoFillDescription": "你的隊伍只包含你的組隊成員",
+    "ZeroBuildMode": "零建造"
   },
   "Fortnite.McpConfig": {
     "InvalidMcpConfigExit": "請求的後端無效！正在退出。"
@@ -9210,7 +9300,8 @@
     "CollapseWeaponModsInteractView_Description": "開啟時，浮選的改裝武器將不會顯示說明，而改為顯示圖示。"
   },
   "GameStateAthena": {
-    "WinnerGameFormat": "<WinnerName>{0}</>贏得了遊戲！"
+    "WinnerGameFormat": "<WinnerName>{0}</>贏得了遊戲！",
+    "SuspendKick": "因暫時遭封鎖過久而被踢出。"
   },
   "GameplayMessageComponentBase": {
     "DisabledReasonUnknown": "由於未知原因已停用。"
@@ -9242,6 +9333,9 @@
   "GroupInviteToastMessage": {
     "GroupInviteTitle": "群組邀請",
     "GroupInviteDescription": "{0} 邀請你加入群組"
+  },
+  "HLTv2ToCustomizableUIMigrator": {
+    "MigrateAllHLTv2SetupsToCustomizableUI": "將所有 HLTv2 的設定轉移至可自訂使用者介面"
   },
   "HUD": {
     "Cancel": "取消",
@@ -10260,9 +10354,6 @@
     "MemberJoinedToastDescription": "你的力量等級和堡壘屬性數據現已增加。",
     "MemberJoinedToastTitle": "{0}加入了隊伍"
   },
-  "MeshCosmetics_Editor_Apparel": {
-    "ApparelItemDef_Commands": "在服裝上執行編輯器命令"
-  },
   "MessageDispatcher": {
     "UnknownError": "{ChannelName}上{MessageName}發生未知錯誤",
     "ChannelNotValid": "錯誤：頻道對於「{MessageName}」不再有效，恢復為無頻道。",
@@ -10333,8 +10424,9 @@
     "ObjectLineFormat": "* {0} - {1}"
   },
   "MonologueFactCustomization": {
+    "SetFact": "設定事實",
     "SetFactTemplate": "設定事實範本",
-    "SetFactText": "設定事實文字"
+    "FactArrayTextFormat": "{0} 個事實"
   },
   "MonologueFacts": {
     "ImpliedArgTypeMismatch_2": "委派{0}的參數類型不符：第 0 個推論參數為，但「Self」事實不符合類型要求。表達式：{1}",
@@ -10343,18 +10435,25 @@
     "CouldntDecodeReturn": "無法將{0}的回傳類型（{1}）解碼為事實值。表達式：{2}",
     "CouldntFindFact": "找不到名稱為{0}的事實資料",
     "CouldntGenerateConditionalToken": "無法產生條件代幣",
+    "CouldntGenerateLoopToken": "無法產生循環代幣",
     "CouldntParseConditionalSymbol": "無法解析條件符號",
+    "CouldntParseLoopSymbol": "無法解析循環符號",
     "InvalidDelegateObject_3": "呼叫委派{0}未回傳有效事實類型。表達式：{1}",
     "InvalidDelegateObject_2": "委派事實{0}未綁定至有效物件{1}。表達式：{2}",
     "InvalidDelegateObject_1": "委派事實{0}未綁定至有效物件。表達式：{1}",
     "DelegateRecursionExceeded": "委派{0}遞迴深度超過限制。表達式：{1}",
     "InfiniteDelegateRecursionDetected": "偵測到委派{0}發生無限遞迴。表達式：{1}",
     "ExpectedQuote": "預期的 \"",
+    "ExpectedIn": "在「{% for element in」之後應為「in」關鍵字",
     "ExpectedElseIfCondition": "{% else if  %} 內的預期條件表達式",
     "ExpectedIfCondition": "{% if  %} 內的預期條件表達式",
+    "ExpectedElement": "在「{% for」之後應為元素名稱 ",
+    "ExpectedForElseInnerTemplate": "{% else %}和{% endfor %}之間的預期模板",
     "ExpectedElseInnerTemplate": "{% else %} 和 {% endif %} 之間的預期模板",
     "ExpectedInnerTemplate": "預期的內部模板",
     "ExpectedClosingBrace": "缺少對應的事實表達式結尾 }",
+    "ExpectedForLoop": "{% for  %} 內的預期範圍表達式",
+    "ExpectedWhitespaceAfterIn": "在「{% for element in」之後應為空格",
     "InvalidFact_1": "表達式中引用了無效的事實{0}（錯誤：{1}）：{2}",
     "InvalidFact_2": "中引用了無效的事實{0}：{1}",
     "InvalidDelegateParamCall": "無效的參數呼叫：委派{0}不接受任何參數。表達式：{1}",
@@ -10363,9 +10462,13 @@
     "ExpressionRecursionExceeded": "範本遞迴深度超過限制。表達式：{0}",
     "TooManyArgs": "呼叫委派{0}時參數過多。表達式：{1}",
     "UnexpectedElseAfterElse": "前一個 else 之後出現意外的 else 區塊",
+    "UnexpectedElseAfterElseInFor": "前一個 else 之後出現意外的 else 區塊",
     "UnexpectedElseIfAfterElse": "前一個 else 之後出現意外的 else if 區塊",
     "EOSExpectedConditionEnd": "串流意外結束。預期的結尾「%}」",
+    "EOSExpectedLoopEnd": "串流意外結束。預期的結尾「%」",
+    "EOSExpectedEndFor2": "串流意外結束。預期的結尾{% endfor %}",
     "EOSExpectedEndIf2": "串流意外結束。預期的結尾{% endif %}",
+    "EOSExpectedEndFor1": "串流意外結束。預期的內部模板和結尾{% endfor %}",
     "EOSExpectedEndIf1": "串流意外結束。預期的內部模板和結尾{% endif %}",
     "ExpectedOpenBrace": "委派事實後表達式中出現未預期的語法符號 \"{0}\" @ {1}:{2} ：{3}",
     "UnexpectedFactExprToken": "事實表達式中出現未預期的語法符號 \"{0}\"@ {1}：{2}：{3}",
@@ -10374,30 +10477,30 @@
     "UnexpectedExpressionClose": "未配對的表達式結尾 }"
   },
   "MonologuePromptEditor": {
-    "CompleterOverrideLabel": "聊天補全器覆寫",
-    "RunEnginePromptTooltip": "使用獨白*引擎*子系統執行提示以評估回應",
-    "RunWorldPromptTooltip": "使用獨白*世界*子系統執行提示以評估回應",
-    "RefreshPreviewTooltip": "強制重新事實化範本（例如重新評估動態委派事實）",
-    "PromptNameLabel": "名稱",
+    "LabelChatCompleterOverride": "聊天補全器覆寫",
+    "TooltipChatCompleterOverride": "用於生成回應的聊天補全器。若未指定，將使用獨白引擎子系統的「預設聊天補全器」。",
+    "LabelPromptName": "名稱",
+    "ButtonNavigateToSystemMessage": "移至系統訊息（Ctrl + Alt + 向上箭頭）",
+    "ButtonNavigateToUserMessage": "移至使用者訊息（Ctrl + Alt + 向上箭頭）",
+    "ButtonNavigateToNextFact": "移至下一個事實（Ctrl + Alt + 向右箭頭）",
+    "ButtonNavigateToPreviousFact": "移至上一個事實（Ctrl + Alt + 向左箭頭）",
+    "SetChatCompleterClassOverride": "覆寫聊天補全器",
     "PromptPreviewSettings": "提示預覽設定",
     "PromptResponse": "提示回應",
-    "SavePreviewTooltip": "將預覽設定儲存至素材以便重複測試",
-    "SetMPChatCompleterOverride": "設定 MonologuePrompt ChatCompleter 覆寫",
+    "ButtonRefreshFacts": "重新整理事實，即清除編輯器的底層模型。",
+    "ButtonRunPrompt": "使用獨白「世界」或（「引擎」）子系統執行提示以生成回應",
+    "ButtonSavePreview": "將預覽設定儲存至素材以便重複測試",
     "SetPromptName": "設定提示名稱",
     "SetPromptPreviewSettings": "設定提示預覽設定",
-    "SetPromptSystemMessage": "設定提示系統訊息範本",
-    "SetPromptUserMessage": "設定提示使用者訊息範本",
-    "SystemMessageLabel": "系統訊息",
-    "CompleterOverrideTooltip": "此次請求所使用的 UChatCompleter若未指定，將使用獨白引擎子系統的「預設聊天補全器」。",
-    "UserMessageLabel": "使用者訊息",
-    "WrapSystemMessageToolTip": "包裝文字",
-    "WrapUserMessageToolTip": "包裝文字"
+    "SetSystemMessageTemplate": "設定系統訊息範本",
+    "SetUserMessageTemplate": "設定使用者訊息範本"
   },
   "MonologueSubsystem": {
     "CouldntFindDRFact": "DataRegistry Fact 委派錯誤 - 在資料註冊庫中找不到名稱為「{0}」的事實資料",
     "NoDRSubsystem": "DataRegistry Fact 委派錯誤 - 無法使用 Data Registry 子系統，請確認 DataRegistry 外掛已啟用。",
     "InvalidDRFactItemId": "DataRegistry Fact 委派錯誤 - DataRegistryItemIdString「{0}」不是有效的資料註冊項目 ID",
     "FirstPersonName": "I",
+    "MutuallyPerceivedEventsNoObserver": "第一個 UMonologueComponent 無效，無法從 MutuallyPerceivedEvents 取得事件細節！",
     "FirstPersonName_My": "我的",
     "NameNoSubject": "未傳入 IMonologueSubjectInterface，因此無法從 Subject 取得名稱！",
     "ObservedNameNoSubject": "未傳入 IMonologueSubjectInterface，因此無法從 Subject 取得名稱！",
@@ -10413,7 +10516,12 @@
     "ThisPersonPossessiveFormat": "{0}的"
   },
   "MonologueWorldSubsystem": {
+    "NearbySubjectsInvalidSearchHeight": "傳至 NearbySubject 的 SearchHeight 為無效值。SearchHeight 必須大於 0",
+    "NearbySubjectsInvalidSearchRadius": "傳入 NearbySubject 的 SearchRadius 為無效值。SearchRadius 必須大於 0",
+    "NearbySubjectsNoActor": "傳入 NearbySubject 的 MonologueComponent 沒有可供距離檢查的擁有者",
+    "NearbySubjectsNoSelf": "未傳入 UMonologueComponent 至 NearbySubject",
     "SmartObjectBehaviorsNoSelf": "未傳入 UMonologueComponent 至 SmartObjectBehaviors",
+    "SpatialContextNoSelf": "未傳入 UMonologueComponent 至 SpatialContext",
     "SmartObjectBehaviorsNoPawn": "SmartObjectBehaviors：無法從主體取得 Pawn",
     "SpatialContextNoPawn": "SpatialContext：無法從主體取得 Pawn"
   },
@@ -10995,9 +11103,6 @@
     "PrimaryActionName": "射擊",
     "SecondaryActionName": "縮放"
   },
-  "Ranked": {
-    "Ranked_UnrankedText": "無階位"
-  },
   "RankedMatchmakingSettings": {
     "LockedByQuestMessageFormat": "{QuestDescription}（{QuestProgress}/{QuestGoal}）"
   },
@@ -11081,6 +11186,9 @@
   "SeasonPassRequirement_Offer": {
     "Offer_LockedUntilLevel": "達到 {LevelRequired} 級即可解鎖新套裝",
     "Offer_CanUnlockSet": "解鎖此套裝以開始領取獎勵"
+  },
+  "SeasonPassRequirement_Timed": {
+    "Status_LockedDateLockedFormat": "於 {Date} 解鎖"
   },
   "SeasonPassRewardVM": {
     "Status_LockedByAllRewardsInTrack": "領取所有第 {IndexPage} 頁的獎勵",
@@ -11452,7 +11560,10 @@
     "WaitingForPlaylistPlugin": "等待密鑰"
   },
   "UFortValidator_SeasonPassData": {
-    "InvalidSeasonNumber": "第 {0} 賽季為無效賽季編號。預期為 {1}（上個賽季 + 1），實際為 {2}"
+    "InvalidSeasonDependencies": "賽季引用素材 {0} 無法取得其相依項目。",
+    "InvalidSeasonNumber": "第 {0} 賽季為無效賽季編號。預期為 {1}（上個賽季 + 1），實際為 {2}",
+    "IncompatibleSeasonNumber": "第 {0} 賽季正在嘗試驗證相依項目 {1}。其發行版本（{2}）高於引用它的賽季版本（{3}）。",
+    "InvalidObjectDef": "第 {0} 賽季正在嘗試驗證相依項目 {1}。該項目應為 UFortItemDefinition 類型，但實際並非如此。"
   },
   "UFortWinterfestPresentCounter": {
     "RewardsRemaining": "還剩 <text size=\"18\">{0}</> 個可開啟的禮物",
@@ -11468,9 +11579,25 @@
     "PurchaseBody": "感謝遊玩Fortnite！",
     "PurchaseHeader": "已獲得{0}|plural(one=物品,other=物品)"
   },
+  "UICommands.AIActionSequenceAssetEditor": {
+    "AddTrack": "新增賽道",
+    "AddTrack_ToolTip": "建立新的動作賽道"
+  },
+  "UICommands.AIPromptEditorModule": {
+    "SavePrompts": "儲存",
+    "SavePrompts_ToolTip": "儲存提示提供者"
+  },
+  "UICommands.FHUDLayoutSaveToolCommands": {
+    "OpenHLTv2ToCustomizableUIMigrator": "將所有 HUD 配置工具的設定轉移至可自訂使用者介面",
+    "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "開啟 HLTv2 並使用可自訂使用者介面轉移工具，以將所有 HLTv2 設定轉移至新的可自訂使用者介面框架。"
+  },
   "UICommands.JunoViewportToolsCommands": {
     "BeginConfigurePrefabTool": "Configure Prefab",
     "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+  },
+  "UICommands.SpatialMetricsProfiler": {
+    "OpenSpatialProfiler": "開啟空間分析器",
+    "OpenSpatialProfiler_ToolTip": "開啟空間分析器頁面"
   },
   "UICommands.WeaponModernizationEditorCommands": {
     "OpenWeaponModernizationTool_ToolTip": "開啟武器現代化工具",
@@ -11561,8 +11688,7 @@
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "領取全部{CategoryName}獎勵以解鎖",
     "CategoryStatus_LockedRewardLevelFormat": "再領取{NumRewards}份獎勵或等級再升{NumLevels}級以解鎖",
-    "CategoryStatus_LockedUntilLevel": "達到 {LevelRequired} 級即可解鎖此套裝",
-    "Status_LockedDateLockedFormat": "於 {Date}解鎖"
+    "CategoryStatus_LockedUntilLevel": "達到 {LevelRequired} 級即可解鎖此套裝"
   },
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "領取全部{CategoryName}獎勵以解鎖",
@@ -11624,14 +11750,15 @@
     "VehicleAudioCosmeticsDataChooserConverter_Label": "執行載具音訊飾品資料選擇器轉換器",
     "VehicleCosmeticsItemDefAudioChooserConverter_Label": "執行載具飾品物品定義音訊選擇器轉換器"
   },
-  "VehicleCosmeticsEditor": {
-    "MultipleValues": "多個值"
-  },
   "VehicleCosmeticsPreviewActorFactory": {
     "CanCreateActorFrom_NotItemDefinition": "素材不是物品定義",
     "FortVehicleCosmeticsActorFactoryDisplayName": "堡壘、載具、飾品、預覽、對象",
     "CanCreateActorFrom_InvalidAsset": "素材無效",
     "CanCreateActorFrom_InvalidAssetClass": "素材分類"
+  },
+  "VehicleCosmeticsPreviewEditor": {
+    "Invalid": "無效",
+    "MultipleValues": "多個值"
   },
   "VehicleCosmeticsVariantTokenFactory": {
     "FortVehicleCosmeticsVariantTokenFactoryDisplayName": "堡壘、載具、飾品、變體、代幣",
@@ -11641,6 +11768,9 @@
   "VehicleModComponent": {
     "SwitchSeat": "換座位",
     "SwitchToWeapon": "切換至武器"
+  },
+  "VerseModuleLevelInstanceCustomization": {
+    "None": "無"
   },
   "VkAnimNode": {
     "FADEINLEFT": "左側淡入",
@@ -11715,6 +11845,9 @@
     "OutBoundError": "重啟對話不允許有下一個任務"
   },
   "VkSpeechNode": {
+    "OutBoundError": "此節點無法連接到其他同類型的節點或重啟節點"
+  },
+  "VkSpeechRandomVariantNode": {
     "OutBoundError": "此節點無法連接到其他同類型的節點或重啟節點"
   },
   "VkTextCrawlNode": {

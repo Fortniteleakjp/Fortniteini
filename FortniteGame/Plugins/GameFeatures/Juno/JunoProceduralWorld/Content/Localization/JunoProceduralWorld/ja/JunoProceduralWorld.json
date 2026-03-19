@@ -17,6 +17,8 @@
   "PCGJunoGenerateLanscapeTexturesElement": {
     "HeightTextureInitFailed": "高所テクスチャのデータを取得できず、初期化が失敗しました。",
     "TextureInitFailed": "このテクスチャのデータを取得できず、初期化が失敗しました。",
+    "FailExtractGrassTypeOverrides": "草タイプのオーバーライドを抽出できませんでした。",
+    "MissingGrassName": "草タイプの名前が指定されていなかったため、データをラベル付けできません。景観素材の草タイプ全てに、必ずアセットを関連付けてください。",
     "LandscapeComponentLost": "景観コンポーネントをひとつ以上参照できなかったため、草地マップは生成されません。"
   }
 }

@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "İncele",
     "CF6195BE44741B679B03A7970B0904F5": "İncele",
     "B8C80B5041E5FBA2635752B2A5271479": "Etkileşime Geç",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "Büyük Dil Modeli Seçenekleri...",
     "21E869E04BA5F2AA7735959B3A3A57D0": "Büyük Dil Modeli Seçenekleri...",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "Büyük Dil Modeli Seçenekleri...",
     "AEB376F240A55432B193BC8797FF5AE9": "Büyük Dil Modeli Seçenekleri...",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "Büyük Dil Modeli Seçenekleri...",
     "9D19804447678A4A92E82F9AC04AEAA8": "Kaldır",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "Depon Dolu",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}: {EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "Dördüncü muhtemel seçenek için kısa bir özet (1-2 kelime).",
+    "OptionTwo_ShortText": "Oyuncunun ikinci seçeneği için kısa bir etiket (1-2 kelime).",
+    "OptionSix_ShortText": "Altıncı ve son seçenek için kısa bir cümle (1-2 kelime).",
+    "OptionOne_ShortText": "Birinci seçeneğin çok kısa bir özeti (1-2 kelime). Oyuncu, seçenek menüsünde bunu görür.",
+    "OptionFive_ShortText": "Beşinci diyalog seçeneği için kullanıcı arayüzü etiketi (1-2 kelime).",
+    "OptionTwo_FullText": "\"İkinci Seçenek\" seçildiğinde oyuncu tarafından söylenen cümlenin tamamı.",
+    "OptionFour_FullText": "\"Dördüncü Seçenek\" seçildiğinde oyuncu tarafından söylenen diyalog satırının tamamı.",
+    "OptionOne_FullText": "Oyuncunun \"Birinci Seçenek\" için söylediği tam diyalog satırı, kısa metnin genişletilmiş hali olmalıdır.",
+    "OptionSix_FullText": "\"Altıncı Seçenek\"i seçtiklerinde oyuncu tarafından söylenen tam diyalog.",
+    "OptionThree_FullText": "\"Üçüncü Seçenek\" seçildiğinde oyuncu karakteri tarafından söylenen tam diyalog.",
+    "OptionFive_FullText": "\"Beşinci Seçenek\" seçilirse oyuncu tarafından söylenen cümlenin tamamı.",
+    "OptionThree_ShortText": "Üçüncü seçenek için kısa bir metin (1-2 kelime)."
   }
 }

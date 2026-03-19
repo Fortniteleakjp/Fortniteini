@@ -83,7 +83,9 @@
     "CDC8C17049304302FE64D9985BD60FD5": "检视",
     "CF6195BE44741B679B03A7970B0904F5": "检视",
     "B8C80B5041E5FBA2635752B2A5271479": "互动",
+    "18A0FF714DE0128BF0D1A7ADEB10D15F": "LLM选项……",
     "21E869E04BA5F2AA7735959B3A3A57D0": "LLM选项……",
+    "75F623B342AAEEC9922D0F9A70B5DB32": "LLM选项……",
     "AEB376F240A55432B193BC8797FF5AE9": "LLM选项……",
     "C3ABB7EE4B14E76BDA28D9A62B342393": "LLM选项……",
     "9D19804447678A4A92E82F9AC04AEAA8": "举起",
@@ -344,5 +346,19 @@
     "7EEF3E504C615B143594CD9BDFEFC36B": "仓库已满",
     "EEEABC48470B4342D45ADB9DCDCA03B2": "{SubjectName}：{EventPrompt}",
     "27DD781148CA11C26DDB7EBB25C1A8A7": "{prompt}"
+  },
+  "FNRedwoodDynamicOptions": {
+    "OptionFour_ShortText": "第四个选项的简短概述（1–2个词）。",
+    "OptionTwo_ShortText": "第二个玩家选项的简短标签（1–2个词）。",
+    "OptionSix_ShortText": "第六个、也是最后一个选项的简短语句（1–2个词）。",
+    "OptionOne_ShortText": "第一个选项的简短概述（1–2个词）。 这是玩家在选项菜单中看到的内容。",
+    "OptionFive_ShortText": "第五个对话选项的用户界面标签（1–2个词）。",
+    "OptionTwo_FullText": "玩家选择“选项二”时说出的完整句子。",
+    "OptionFour_FullText": "玩家选择“选项四”时说出的完整台词。",
+    "OptionOne_FullText": "玩家选择“选项一”时说出的完整台词，应是简短文本的扩展。",
+    "OptionSix_FullText": "玩家选择“选项六”时说出的完整对话。",
+    "OptionThree_FullText": "玩家角色选择“选项三”时说出的完整对话。",
+    "OptionFive_FullText": "玩家选择“选项五”时说出的完整句子。",
+    "OptionThree_ShortText": "第三个玩家选项的简短显示文本（1–2个词）。"
   }
 }
