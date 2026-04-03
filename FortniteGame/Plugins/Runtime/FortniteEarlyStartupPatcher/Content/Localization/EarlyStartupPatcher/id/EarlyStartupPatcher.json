@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Perbarui Ukuran: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "Kami akan mengirim pemberitahuan saat kamu harus kembali dan menyelesaikan penginstalan.\n\nSelain itu, dapatkan notifikasi untuk undangan kelompok, pembaruan game, dan lainnya.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "Kami akan mengirim pemberitahuan saat kamu harus kembali dan menyelesaikan penginstalan.\n\nSelain itu, dapatkan notifikasi untuk undangan kelompok, pembaruan game, dan lainnya.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Kamu bisa meninggalkan aplikasi saat mengunduh, dan kami akan mengirim pemberitahuan jika sudah waktunya untuk kembali.\n\nLalu, kamu perlu memastikan Fortnite tetap terbuka pada layar kamu untuk menginstal setelah selesai mengunduh."
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Kamu bisa meninggalkan aplikasi saat mengunduh, dan kami akan mengirim pemberitahuan jika sudah waktunya untuk kembali."
   }
 }

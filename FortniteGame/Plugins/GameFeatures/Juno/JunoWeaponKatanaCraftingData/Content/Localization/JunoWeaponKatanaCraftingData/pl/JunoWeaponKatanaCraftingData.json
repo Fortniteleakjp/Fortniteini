@@ -1,0 +1,40 @@
+{
+  "": {
+    "D837A7FB43833A16C3339DA7B0899F69": "Ostrze",
+    "2A8B44134E9CE00BDB0FF0B931C6C14E": "Epicki dwuręczny miecz. Może parować ataki wrogów.",
+    "CB7586A1441FAF3EE6F9938F0235FC7D": "Rękojeść",
+    "1F6BDD4F416D2E40EEB19B884A8E2506": "Katana",
+    "2B16B1B4426DF95A11425CA53BCB3CB2": "Katana",
+    "9013F8F6485C8EE17AC0449DDAF8D4D8": "Katana",
+    "BB48ABE249229DE6B8D0F4863EF19F6C": "Katana",
+    "78931DD8460CD735081F9B9DD067FAF0": "Naucz się w zakładce Mistrzostwa ninji.",
+    "7C7A8953486056388300368E2042919E": "Naucz się w zakładce Mistrzostwa ninji.",
+    "BD37CD914CD6819CC6BC279B732BC48A": "Naucz się w zakładce Mistrzostwa ninji.",
+    "F4383B7C4517828CC15AD98B5976D656": "Naucz się w zakładce Mistrzostwa ninji.",
+    "CCAD27B84AA3CD8C9A5223AC465239D3": "Legendarny dwuręczny miecz. Może parować ataki wrogów.",
+    "9318DAF946907B468C0F998884B60725": "Tak paruje, że kopara opada.",
+    "C96534C045DDFA82E0DAC6A3E4E80434": "Paruje jak dobra herbatka.",
+    "2DAEBDF549C941223735588077723D68": "Rzadki dwuręczny miecz. Może parować ataki wrogów.",
+    "708849A84743EC461815458383EAB097": "Co dwie ręce, to nie jedna.",
+    "58EA135943EB06195D390B88D8BD2776": "Dwie ręce, brak litości.",
+    "D16125344AA038EEC675F39296DD0AEE": "Niepospolity dwuręczny miecz. Może parować ataki wrogów."
+  },
+  "Juno_BoostedItemNames_Shuriken": {
+    "97302C7C439FD53E6F54AB961DC31BF9": "Bambusowa katana",
+    "F33B0A0D48C1B7369DB9278D357C5425": "Bambusowa katana",
+    "F79B0DC44DAC21F019B405B3D1808283": "Bambusowa katana",
+    "FE86886D4D9327D74AC53BB4838E8140": "Bambusowa katana",
+    "08DEEE0946F1C7757A4273A9CF7B2E97": "Smokoopalowa katana",
+    "4D8FFA524E2D45C42A635D836D1F4B9F": "Smokoopalowa katana",
+    "434C64484BF6A903EC6D99A9D4EBE9D6": "Kozukamienna katana",
+    "44F765F3462CD5E2A486D7818676D622": "Kozukamienna katana",
+    "72E5AFCB4DDB634168E86EA381BB7CE1": "Kozukamienna katana",
+    "A51EE45E442F197A0DB5F3A0C46E15D7": "Kozukamienna katana",
+    "74260CA84698BBF32D947F90AA27DA7F": "Stalowa katana",
+    "D91D999B400ED0775CDE9087949ACBF7": "Stalowa katana",
+    "E5CACFE043642FA549CE559B80F40BE0": "Stalowa katana"
+  },
+  "Juno_CBCFormulas_Katana": {
+    "Katana_DisplayName": "Katana"
+  }
+}

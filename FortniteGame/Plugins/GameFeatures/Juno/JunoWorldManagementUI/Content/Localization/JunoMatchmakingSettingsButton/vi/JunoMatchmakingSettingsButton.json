@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "Không thể khôi phục thế giới khi đang có hành động khác diễn ra.",
     "1F610AF744DF12212C1D37ADF585915E": "Những thế giới mà bạn có thể khám phá khi chủ sở hữu đã rời khỏi game",
     "EB6660594C96764ED931CF9F8D399C8D": "Bạn sắp Khôi Phục một Trạng Thái trước đó của Thế Giới. Thay đổi này là vĩnh viễn, bạn chắc chắn muốn tiếp tục chứ? Sau khi Khôi Phục, một số lỗi nhất định có thể vẫn tồn tại. Để biết thông tin về các sự cố hiện tại, hãy kiểm tra các tài khoản mạng xã hội chính thức để xem cập nhật trạng thái của Fortnite.",
-    "913437B34C52F65029B9638209702DD4": "Bạn không thể Khôi Phục Trạng Thái Thế Giới nhiều hơn một lần trong vòng 24 giờ.\n\nCó thể khôi phục sau: {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "Bạn không thể Khôi Phục Trạng Thái Thế Giới nhiều hơn một lần trong vòng 24 giờ.\n\nCó thể khôi phục sau: {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "Bạn đã bị hạ gục ở thế giới này.\n{NumSurvivingKeyholders}|plural(one=Có,other=Có) {NumSurvivingKeyholders} {NumSurvivingKeyholders}|plural(one=người giữ khóa,other=người giữ khóa) còn sống sót để tiếp tục cuộc phiêu lưu.",
     "17F917FD42B58AFD06FED8B7368BA06C": "Bạn đã bị hạ gục trong thế giới này.\nBạn không thể tham gia cuộc phiêu lưu này nữa.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "Hiện tại, bạn chưa trở thành\n<text color=\"CCF2FF\">người giữ khóa</> của bất kỳ thế giới nào.",

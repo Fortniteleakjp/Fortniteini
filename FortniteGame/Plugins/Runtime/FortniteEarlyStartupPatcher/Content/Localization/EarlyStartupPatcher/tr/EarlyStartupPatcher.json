@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Güncelleme Boyutu: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "Geri dönüp indirmeyi tamamlama zamanı geldiğinde sana haber vereceğiz.\n\nAyrıca grup davetleri, oyun güncellemeleri ve daha fazlası hakkında bildirim alabilirsin.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "Geri dönüp indirmeyi tamamlama zamanı geldiğinde sana haber vereceğiz.\n\nAyrıca grup davetleri, oyun güncellemeleri ve daha fazlası hakkında bildirim alabilirsin.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "İndirme yapılırken uygulamadan ayrılabilirsin, geri gelmen gerektiğinde sana haber vereceğiz.\n\nİndirme tamamlandıktan sonra yükleme için Fortnite'ı ekranında açık tutman gerekecek."
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "İndirme yapılırken uygulamadan ayrılabilirsin, geri gelmen gerektiğinde sana haber vereceğiz."
   }
 }

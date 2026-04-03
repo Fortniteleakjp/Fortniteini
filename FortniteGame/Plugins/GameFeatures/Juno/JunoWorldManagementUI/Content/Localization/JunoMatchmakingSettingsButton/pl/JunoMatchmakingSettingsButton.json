@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "Nie można przywrócić świata, gdy trwa wykonywanie innej akcji.",
     "1F610AF744DF12212C1D37ADF585915E": "Światy, do których masz dostęp, gdy ich właściciel jest offline",
     "EB6660594C96764ED931CF9F8D399C8D": "Zaraz przywrócisz poprzedni stan świata. Ta zmiana jest trwała. Czy na pewno chcesz kontynuować? Niektóre błędy mogą się utrzymać po przywróceniu. Aby sprawdzić bieżące problemy na serwerach, zajrzyj na oficjalne konta społecznościowe Fortnite, gdzie publikujemy aktualizacje statusu gry.",
-    "913437B34C52F65029B9638209702DD4": "Nie można przywrócić stanu świata częściej niż raz na 24 godziny.\n\nPrzywrócenie dostępne za: {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "Nie można przywrócić stanu świata częściej niż raz na 24 godziny.\n\nPrzywrócenie dostępne za: {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "Zlikwidowano cię w tym świecie.\nTę przygodę {NumSurvivingKeyholders}|plural(one=może,few=mogą,many=może) kontynuować {NumSurvivingKeyholders} {NumSurvivingKeyholders}|plural(one=klucznik,few=klucznicy,many=kluczników).",
     "17F917FD42B58AFD06FED8B7368BA06C": "Zlikwidowano cię w tym świecie.\nNie możesz już brać udziału w tej przygodzie.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "Obecnie nie jesteś \n<text color=\"CCF2FF\">klucznikiem</> w żadnym świecie.",

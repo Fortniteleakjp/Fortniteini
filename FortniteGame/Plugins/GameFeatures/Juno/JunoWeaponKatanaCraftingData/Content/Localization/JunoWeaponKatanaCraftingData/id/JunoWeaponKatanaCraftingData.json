@@ -1,0 +1,40 @@
+{
+  "": {
+    "D837A7FB43833A16C3339DA7B0899F69": "Mata Pedang",
+    "2A8B44134E9CE00BDB0FF0B931C6C14E": "Pedang dua-tangan Epic. Bisa menangkis serangan musuh.",
+    "CB7586A1441FAF3EE6F9938F0235FC7D": "Handel",
+    "1F6BDD4F416D2E40EEB19B884A8E2506": "Katana",
+    "2B16B1B4426DF95A11425CA53BCB3CB2": "Katana",
+    "9013F8F6485C8EE17AC0449DDAF8D4D8": "Katana",
+    "BB48ABE249229DE6B8D0F4863EF19F6C": "Katana",
+    "78931DD8460CD735081F9B9DD067FAF0": "Pelajari di Tab Penguasaan Ninja.",
+    "7C7A8953486056388300368E2042919E": "Pelajari di Tab Penguasaan Ninja.",
+    "BD37CD914CD6819CC6BC279B732BC48A": "Pelajari di Tab Penguasaan Ninja.",
+    "F4383B7C4517828CC15AD98B5976D656": "Pelajari di Tab Penguasaan Ninja.",
+    "CCAD27B84AA3CD8C9A5223AC465239D3": "Pedang dua-tangan Legendaris. Bisa menangkis serangan musuh.",
+    "9318DAF946907B468C0F998884B60725": "Bagus untuk menangkis.",
+    "C96534C045DDFA82E0DAC6A3E4E80434": "Kurang lebih, tangkis dulu pikiran itu.",
+    "2DAEBDF549C941223735588077723D68": "Pedang dua-tangan Langka. Bisa menangkis serangan musuh.",
+    "708849A84743EC461815458383EAB097": "Dua tangan lebih baik daripada satu.",
+    "58EA135943EB06195D390B88D8BD2776": "Dua tangan, tanpa ampun.",
+    "D16125344AA038EEC675F39296DD0AEE": "Pedang dua-tangan Tidak Biasa. Bisa menangkis serangan musuh."
+  },
+  "Juno_BoostedItemNames_Shuriken": {
+    "97302C7C439FD53E6F54AB961DC31BF9": "Katana Bambu",
+    "F33B0A0D48C1B7369DB9278D357C5425": "Katana Bambu",
+    "F79B0DC44DAC21F019B405B3D1808283": "Katana Bambu",
+    "FE86886D4D9327D74AC53BB4838E8140": "Katana Bambu",
+    "08DEEE0946F1C7757A4273A9CF7B2E97": "Katana Opal Naga",
+    "4D8FFA524E2D45C42A635D836D1F4B9F": "Katana Opal Naga",
+    "434C64484BF6A903EC6D99A9D4EBE9D6": "Katana Batu Kozu",
+    "44F765F3462CD5E2A486D7818676D622": "Katana Batu Kozu",
+    "72E5AFCB4DDB634168E86EA381BB7CE1": "Katana Batu Kozu",
+    "A51EE45E442F197A0DB5F3A0C46E15D7": "Katana Batu Kozu",
+    "74260CA84698BBF32D947F90AA27DA7F": "Katana Baja",
+    "D91D999B400ED0775CDE9087949ACBF7": "Katana Baja",
+    "E5CACFE043642FA549CE559B80F40BE0": "Katana Baja"
+  },
+  "Juno_CBCFormulas_Katana": {
+    "Katana_DisplayName": "Katana"
+  }
+}

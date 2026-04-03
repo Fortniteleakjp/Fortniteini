@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "アップデートサイズ: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "インストール完了のための操作が必要になったらお知らせいたします。\n\nまた、パーティーの招待やゲームのアップデートなどの通知も届きます。",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "インストール完了のための操作が必要になったらお知らせいたします。\n\nまた、パーティーの招待やゲームのアップデートなどの通知も届きます。",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "ダウンロード中はアプリを開いたままにしておく必要はありません。次に進む準備ができたら通知されます。\n\nその際にはフォートナイトを開いたままにして、ダウンロード完了後のインストールを行う必要があります。"
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "ダウンロード中はアプリを開いたままにしておく必要はありません。次に進む準備ができたら通知されます。"
   }
 }

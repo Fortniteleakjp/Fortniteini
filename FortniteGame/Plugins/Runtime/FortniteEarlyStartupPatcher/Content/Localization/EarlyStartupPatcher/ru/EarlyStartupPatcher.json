@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Размер обновления: {PatchSizeEstimate}.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "Мы сообщим вам, когда нужно будет вернуться и завершить установку.\n\nВы также будете получать уведомления о приглашениях в группу, доступных обновлениях и не только.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "Мы сообщим вам, когда нужно будет вернуться и завершить установку.\n\nВы также будете получать уведомления о приглашениях в группу, доступных обновлениях и не только.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Вы можете выйти из приложения на время загрузки. Мы сообщим вам, когда нужно будет вернуться.\n\nПосле окончания загрузки вам понадобится открыть Fortnite и дождаться завершения установки."
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Вы можете выйти из приложения на время загрузки. Мы сообщим вам, когда нужно будет вернуться."
   }
 }

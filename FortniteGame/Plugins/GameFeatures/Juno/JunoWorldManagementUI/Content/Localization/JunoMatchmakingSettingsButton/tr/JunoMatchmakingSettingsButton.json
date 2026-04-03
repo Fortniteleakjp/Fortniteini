@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "Mevcut bir işlem devam ederken dünya geri yükleme kullanılamaz.",
     "1F610AF744DF12212C1D37ADF585915E": "Sahibi çevrimdışıyken erişim iznine sahip olduğun dünyalar",
     "EB6660594C96764ED931CF9F8D399C8D": "Önceki bir dünya durumunu geri yüklemek üzeresin. Bu değişiklik kalıcıdır, devam etmek istediğine emin misin? Geri yükledikten sonra bazı hatalar devam edebilir. Devam eden mevcut sorunlarla ilgili bilgi almak için Fortnite durum güncellemelerine resmi sosyal medya hesaplarından göz atabilirsin.",
-    "913437B34C52F65029B9638209702DD4": "24 saat içerisinde dünya durumunu birden fazla kez geri yükleyemezsin.\n\nGeri yüklemenin kullanılabilir olmasına: {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "24 saat içerisinde dünya durumunu birden fazla kez geri yükleyemezsin.\n\nGeri yüklemenin kullanılabilir olmasına: {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "Bu dünyada avlandın.\nBu maceraya devam etmek için hayatta kalan {NumSurvivingKeyholders} {NumSurvivingKeyholders}|plural(one=anahtar sahibi,other=anahtar sahibi) {NumSurvivingKeyholders}|plural(one=var,other=var).",
     "17F917FD42B58AFD06FED8B7368BA06C": "Bu dünyada avlandın.\nArtık bu maceraya katılamazsın.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "Şu anda herhangi bir dünyanın\n<text color=\"CCF2FF\">anahtarına sahip</> değilsin.",

@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "ขนาดอัปเดต: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "เราจะแจ้งบอกให้คุณกลับมาติดตั้งให้เสร็จเมื่อถึงเวลา\n\nและยังจะแจ้งเตือนเมื่อมีคนชวนเข้าปาร์ตี้ อัปเดตเกม และอื่น ๆ อีกเพียบ",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "เราจะแจ้งบอกให้คุณกลับมาติดตั้งให้เสร็จเมื่อถึงเวลา\n\nและยังจะแจ้งเตือนเมื่อมีคนชวนเข้าปาร์ตี้ อัปเดตเกม และอื่น ๆ อีกเพียบ",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "คุณสามารถปล่อยแอปทิ้งไว้ได้ขณะกำลังดาวน์โหลด แล้วเราจะแจ้งให้คุณทราบเมื่อถึงเวลาต้องกลับมาตรวจสอบ\n\nจากนั้นคุณจะต้องเปิด Fortnite ค้างไว้บนหน้าจอเพื่อทำการติดตั้งหลังจากดาวน์โหลดเสร็จสิ้น"
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "คุณสามารถปล่อยแอปทิ้งไว้ได้ขณะกำลังดาวน์โหลด แล้วเราจะแจ้งให้คุณทราบเมื่อถึงเวลาต้องกลับมาตรวจสอบ"
   }
 }

@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Kích Thước Cập Nhật: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "Chúng tôi sẽ báo cho bạn khi nào bạn cần quay lại và hoàn thành cài đặt.\n\nNgoài ra, bạn còn nhận được thông báo về những lời mời tổ đội, cập nhật trò chơi và hơn thế nữa.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "Chúng tôi sẽ báo cho bạn khi nào bạn cần quay lại và hoàn thành cài đặt.\n\nNgoài ra, bạn còn nhận được thông báo về những lời mời tổ đội, cập nhật trò chơi và hơn thế nữa.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Bạn có thể tạm thoát ứng dụng trong khi chờ tải xuống, chúng tôi sẽ thông báo cho bạn khi cần quay lại và hoàn tất cài đặt.\n\nBạn sẽ cần giữ Fortnite hiển thị trên màn hình để cài đặt sau khi hoàn tất tải xuống."
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Bạn có thể tạm thoát ứng dụng trong khi chờ tải xuống, chúng tôi sẽ thông báo cho bạn khi cần quay lại và hoàn tất cài đặt."
   }
 }

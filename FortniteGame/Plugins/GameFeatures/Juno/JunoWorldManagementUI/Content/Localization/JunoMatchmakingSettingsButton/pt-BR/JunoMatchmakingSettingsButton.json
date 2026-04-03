@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "A restauração de mundo não está disponível enquanto uma ação existente estiver em andamento.",
     "1F610AF744DF12212C1D37ADF585915E": "Mundos que você pode acessar enquanto a pessoa proprietária estiver off-line.",
     "EB6660594C96764ED931CF9F8D399C8D": "Você está prestes a Restaurar um Estado de Mundo anterior. Esta mudança é permanente. Tem certeza de que deseja prosseguir? Alguns erros podem continuar após a restauração. Para mais informações sobre problemas atuais, confira as contas oficiais nas redes sociais para atualizações de status do Fortnite.",
-    "913437B34C52F65029B9638209702DD4": "Você não pode Restaurar um Estado de Mundo mais de uma vez a cada período de 24 horas.\n\nRestauração disponível em: {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "Você não pode Restaurar um Estado de Mundo mais de uma vez a cada período de 24 horas.\n\nRestauração disponível em: {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "Seu personagem foi eliminado neste mundo.\n{NumSurvivingKeyholders}Há {NumSurvivingKeyholders} |plural(one=sobrevivente,other=sobreviventes) {NumSurvivingKeyholders}com chave de acesso para continuar esta aventura.",
     "17F917FD42B58AFD06FED8B7368BA06C": "Seu personagem foi eliminado neste mundo.\nVocê não pode mais participar desta aventura.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "Você não tem a <text color=\"CCF2FF\">chave de acesso</>\nde nenhum mundo no momento.",

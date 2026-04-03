@@ -25,6 +25,8 @@
     "5A23004B4E60012AC25115820A8CDEDA": "Questo <Research>effetto passivo</> si applica a ogni <Research>arma {Theme}</> che equipaggi (qualunque rarità).",
     "28988A8049879442C9F30EBDAD228E26": "Requisiti di sblocco:",
     "73C4C01F44D1CD89BA3C2C9B834E3D0F": "Sblocca la possibilità di creare <ItemName>{ItemName}</>.",
+    "CD309D634E062F53423AD4A64D6995BB": "Sblocca la possibilità di creare <ItemName>{ItemName}.</>",
+    "1E3A76864B65941D345C7DA32EF09952": "Sblocca la possibilità di creare <ItemName>{ItemName} {num}<img id=\"Tier\"/>.</>",
     "3F95333544CE1E9B8F7B5C86225E2168": "Armi",
     "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
     "E94F82024EF41828E5066E94805EFC16": "Disponibili: {Num}",

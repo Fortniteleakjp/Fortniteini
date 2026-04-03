@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "更新檔案大小：{PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "需要你回來完成安裝時，我們會再通知你。\n\n另外，還會收到組隊邀請、遊戲更新等各種通知。",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "需要你回來完成安裝時，我們會再通知你。\n\n另外，還會收到組隊邀請、遊戲更新等各種通知。",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "你可以在應用程式下載時離開，我們會在下載完成時通知你。\n\n下載完成後，請保持 Fortnite 在畫面上開啟，以便完成安裝。"
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "你可以在下載期間離開應用程式，我們會在下載完成時通知你。"
   }
 }

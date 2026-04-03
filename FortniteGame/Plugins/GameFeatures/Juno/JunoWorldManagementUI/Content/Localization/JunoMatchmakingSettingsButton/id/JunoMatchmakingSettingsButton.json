@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "Pemulihan dunia tidak tersedia saat ada aksi yang sedang berlangsung.",
     "1F610AF744DF12212C1D37ADF585915E": "Dunia yang bisa kamu akses saat pemiliknya sedang offline",
     "EB6660594C96764ED931CF9F8D399C8D": "Kamu akan Memulihkan Status Dunia sebelumnya. Perubahan ini permanen, yakin ingin melanjutkan? Bug tertentu mungkin masih ada setelah Pemulihan. Untuk info tentang kendala live saat ini, cek akun media sosial resmi untuk pembaruan status Fortnite.",
-    "913437B34C52F65029B9638209702DD4": "Kamu tidak bisa Memulihkan Status Dunia lebih dari 1 kali per periode 24 jam.\n\nPemulihan tersedia dalam: {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "Kamu tidak bisa Memulihkan Status Dunia lebih dari 1 kali per periode 24 jam.\n\nPemulihan tersedia dalam: {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "Kamu telah tereliminasi di dunia ini.\n{NumSurvivingKeyholders}|plural(one=Ada,other=Ada) {NumSurvivingKeyholders} {NumSurvivingKeyholders}|plural(one=pemegang kunci,other=pemegang kunci) yang masih bertahan hidup untuk melanjutkan petualangan ini.",
     "17F917FD42B58AFD06FED8B7368BA06C": "Kamu telah tereliminasi di dunia ini.\nKamu tidak bisa lagi ikut serta dalam petualangan ini.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "Saat ini, kamu belum dijadikan\n<text color=\"CCF2FF\">pemegang kunci</> dunia mana pun.",

@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Update Size: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "سنُعلمك عندما تحتاج إلى العودة وإنهاء التثبيت.\n\nبالإضافة إلى ذلك، تلقَ إشعارات بشأن دعوات المجموعة وتحديثات اللعبة وأكثر.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "سنُعلمك عندما تحتاج إلى العودة وإنهاء التثبيت.\n\nبالإضافة إلى ذلك، تلقَ إشعارات بشأن دعوات المجموعة وتحديثات اللعبة وأكثر.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "يمكنك ترك التطبيق في أثناء التنزيل وسنعلمك عندما يحين الوقت لأن تعود إليه.\n\nعليك حينئذ إبقاء Fortnite مفتوحة على شاشتك للتثبيت بعد اكتمال التنزيل."
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "يمكنك ترك التطبيق في أثناء التنزيل وسنعلمك عندما يحين الوقت لأن تعود إليه.\n\n"
   }
 }

@@ -25,6 +25,8 @@
     "5A23004B4E60012AC25115820A8CDEDA": "装备的<Research>{Theme}武器</>不论稀有度为何，均可享受此<Research>被动效果</>。",
     "28988A8049879442C9F30EBDAD228E26": "解锁要求：",
     "73C4C01F44D1CD89BA3C2C9B834E3D0F": "解锁能力以制作<ItemName>{ItemName}。</>",
+    "CD309D634E062F53423AD4A64D6995BB": "解锁能力以制作<ItemName>{ItemName}。</>",
+    "1E3A76864B65941D345C7DA32EF09952": "解锁能力以制作{num}<img id=\"Tier\"/><ItemName>{ItemName}。</>",
     "3F95333544CE1E9B8F7B5C86225E2168": "武器",
     "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
     "E94F82024EF41828E5066E94805EFC16": "{Num}可用",

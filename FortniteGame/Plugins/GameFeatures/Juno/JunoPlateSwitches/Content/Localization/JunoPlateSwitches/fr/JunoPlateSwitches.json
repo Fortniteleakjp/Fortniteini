@@ -1,18 +1,27 @@
 {
   "": {
     "4D29A50144D006462961578BC1311E34": "Dalle de pression",
-    "53154EE74D5D376B3B686BB88086E6C1": "Dalle de déclenchement"
+    "53154EE74D5D376B3B686BB88086E6C1": "Dalle de déclenchement",
+    "FD01F0614B9F16BEF3C2FE9F13D1727A": "Dalle de déclenchement"
   },
   "Juno_UpdateItemData": {
+    "AD9CB7A24FF4AF962C6AE48C40AB34AC": "Un bouton sur lequel vous pouvez marcher pour activer des canaux. Le bouton doit rester enfoncé pour que ça fonctionne ! Peut être connecté à un canal pour l'activer et le désactiver.",
     "EEABEF0C45391DA995B7CE9DC6D40758": "Un bouton sur lequel vous pouvez marcher pour activer des canaux. Ce bouton doit rester enfoncé pour fonctionner ! Peut être connecté à un canal pour l'activer et le désactiver.",
     "5105BE2640EF2F340BFDACBBD992B887": "Un bouton sur lequel vous pouvez marcher pour activer des canaux. À l'inverse de la dalle de pression, ce bouton n'a pas besoin de rester enfoncé.",
+    "5E1B61B9490F9CD9176908959B346839": "Un bouton sur lequel vous pouvez marcher pour activer des canaux. À l'inverse de la dalle de pression, ce bouton n'a pas besoin de rester enfoncé.",
+    "3D07BF9F4C95D537B347ABA78B1F42CF": "Vous pouvez vous tenir derrière cet interrupteur... ou dessus !",
     "3EE5611646661AE4DCB8A286F3C86C08": "Vous pouvez vous tenir derrière cet interrupteur... ou dessus !",
+    "29CE65504C1669FB529B2784AE999828": "Dalle de pression",
     "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Dalle de pression",
     "72407BB74A3BB4361BC8138E65BE9602": "Dalle de\ndéclenchement",
+    "EB2E70B04468B8DBFEAB659C97A31626": "Dalle de déclenchement",
+    "298D10774A35082AE95ED7B6CF215975": "Cette dalle travaille mieux sous pression !",
     "B007D95344C458E23652D897346A66AE": "Cette dalle travaille mieux sous pression !"
   },
   "PP_CraftingFormulas_KlomboPhysics": {
     "PressurePlate_DisplayName": "Dalle de pression",
-    "TriggerPlate_DisplayName": "Dalle de déclenchement"
+    "670410B748AA5143FB03E093FD70F86E": "Dalle de pression CG",
+    "TriggerPlate_DisplayName": "Dalle de déclenchement",
+    "2E94DCD446F72B8C5355FC8FBEEC74E9": "Dalle de déclenchement CG"
   }
 }

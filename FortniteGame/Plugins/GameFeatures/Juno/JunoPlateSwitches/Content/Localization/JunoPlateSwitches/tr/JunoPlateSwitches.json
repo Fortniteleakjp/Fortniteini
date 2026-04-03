@@ -1,18 +1,27 @@
 {
   "": {
     "4D29A50144D006462961578BC1311E34": "Basınç Karesi",
-    "53154EE74D5D376B3B686BB88086E6C1": "Tetik Karesi"
+    "53154EE74D5D376B3B686BB88086E6C1": "Tetik Karesi",
+    "FD01F0614B9F16BEF3C2FE9F13D1727A": "Tetik Karesi"
   },
   "Juno_UpdateItemData": {
+    "AD9CB7A24FF4AF962C6AE48C40AB34AC": "Üzerinde durarak kanalları açabildiğin bir buton. Butonun çalışması için basılı kalması gerekiyor! Açıp kapatmayı tetiklemek için bir kanala bağlanabilir.",
     "EEABEF0C45391DA995B7CE9DC6D40758": "Üzerinde durarak kanalları açabildiğin bir buton. Butonun çalışması için basılı kalması gerekiyor! Açıp kapatmayı tetiklemek için bir kanala bağlanabilir.",
     "5105BE2640EF2F340BFDACBBD992B887": "Üzerinde durarak kanalları açabildiğin bir buton. Basınç Karesi'nin aksine bu butonun basılı kalması gerekmiyor.",
+    "5E1B61B9490F9CD9176908959B346839": "Üzerinde durarak kanalları açabildiğin bir buton. Basınç Karesi'nin aksine bu butonun basılı kalması gerekmiyor.",
+    "3D07BF9F4C95D537B347ABA78B1F42CF": "Üzerine gönül rahatlığıyla basabileceğin bir anahtar!",
     "3EE5611646661AE4DCB8A286F3C86C08": "Üzerine gönül rahatlığıyla basabileceğin bir anahtar!",
+    "29CE65504C1669FB529B2784AE999828": "Basınç Karesi",
     "91FC191742FE2B6DB6D1C19C5DEBBA3C": "Basınç Karesi",
     "72407BB74A3BB4361BC8138E65BE9602": "Tetik Karesi",
+    "EB2E70B04468B8DBFEAB659C97A31626": "Tetik Karesi",
+    "298D10774A35082AE95ED7B6CF215975": "Baskı altında daha iyi çalışır.",
     "B007D95344C458E23652D897346A66AE": "Baskı altında daha iyi çalışır."
   },
   "PP_CraftingFormulas_KlomboPhysics": {
     "PressurePlate_DisplayName": "Basınç Karesi",
-    "TriggerPlate_DisplayName": "Tetik Karesi"
+    "670410B748AA5143FB03E093FD70F86E": "Basınç Karesi KŞ",
+    "TriggerPlate_DisplayName": "Tetik Karesi",
+    "2E94DCD446F72B8C5355FC8FBEEC74E9": "Tetik Karesi KŞ"
   }
 }

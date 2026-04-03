@@ -25,6 +25,8 @@
     "5A23004B4E60012AC25115820A8CDEDA": "이 <Research>지속 효과</>는 모든 등급의 <Research>{Theme} 무기</> 장착 시 적용됩니다.",
     "28988A8049879442C9F30EBDAD228E26": "잠금 해제 요건:",
     "73C4C01F44D1CD89BA3C2C9B834E3D0F": "<ItemName>{ItemName}</> 제작 능력을 잠금 해제합니다.",
+    "CD309D634E062F53423AD4A64D6995BB": "<ItemName>{ItemName}</> 제작 능력을 잠금 해제합니다.",
+    "1E3A76864B65941D345C7DA32EF09952": "{num}<img id=\"Tier\"/> <ItemName>{ItemName} 제작 능력을 잠금 해제합니다.</>",
     "3F95333544CE1E9B8F7B5C86225E2168": "무기",
     "4AD840EE4593DD48D4366283315D1411": "[PH] Heroes",
     "E94F82024EF41828E5066E94805EFC16": "{Num}개 이용 가능",

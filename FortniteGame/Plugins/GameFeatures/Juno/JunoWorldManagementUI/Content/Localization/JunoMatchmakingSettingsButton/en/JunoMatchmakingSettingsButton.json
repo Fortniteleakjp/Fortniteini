@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "World restore is not available while an existing action is in progress.",
     "1F610AF744DF12212C1D37ADF585915E": "Worlds that you have access to when the owner is offline",
     "EB6660594C96764ED931CF9F8D399C8D": "You are about to Restore a previous World State. This change is permanent, are you sure you’d like to proceed? Certain bugs may persist after a Restore. For information on current live issues, check official social media accounts for Fortnite status updates.",
-    "913437B34C52F65029B9638209702DD4": "You cannot Restore a World State more than once per 24 hours period.\r\n\r\nRestore available in: {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "You cannot Restore a World State more than once per 24 hours period.\r\n\r\nRestore available in: {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "You have been eliminated in this world.\r\nThere {NumSurvivingKeyholders}|plural(one=is,other=are) {NumSurvivingKeyholders} surviving {NumSurvivingKeyholders}|plural(one=keyholder,other=keyholders) to continue this adventure.",
     "17F917FD42B58AFD06FED8B7368BA06C": "You have been eliminated in this world.\r\nYou can no longer join this adventure.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "You have not currently been made a\r\n<text color=\"CCF2FF\">key holder</> to any worlds.",

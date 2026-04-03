@@ -47,7 +47,7 @@
   },
   "JunoStorageChest": {
     "Open": "Otwórz",
-    "Search": "Szukaj"
+    "Search": "Przeszukaj"
   },
   "JunoUI": {
     "JunoUI_CampNameFormat": "{PlayerName}: Wioska {VillageCount}"

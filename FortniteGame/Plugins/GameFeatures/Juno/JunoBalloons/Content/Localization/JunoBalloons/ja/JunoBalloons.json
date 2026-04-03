@@ -18,6 +18,7 @@
   "PP_CraftingFormulas_BalloonPlacer": {
     "ActivatedBalloon_DisplayName": "起動済みバルーン",
     "ActivatedBalloonLarge_DisplayName": "起動済みバルーン - 大",
+    "EC1F18A64018D8AAE4B03588D65B1F00": "浮力バルーン",
     "BalloonLarge_DisplayName": "バルーン(大)",
     "Balloon_DisplayName": "バルーン(小)"
   }

@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "La restauración del mundo no está disponible mientras haya una acción en curso.",
     "1F610AF744DF12212C1D37ADF585915E": "Mundos a los que puedes acceder aunque el propietario no esté conectado.",
     "EB6660594C96764ED931CF9F8D399C8D": "Vas a restaurar un estado anterior del mundo. Este cambio es permanente. ¿Seguro que quieres continuar? Algunos errores pueden persistir después de una restauración. Para obtener información sobre incidencias activas, consulta las cuentas oficiales de Fortnite en redes sociales y revisa las actualizaciones del estado del juego.",
-    "913437B34C52F65029B9638209702DD4": "Solo puedes restaurar un estado del mundo una vez cada 24 horas.\n\nRestauración disponible en: {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "Solo puedes restaurar un estado del mundo una vez cada 24 horas.\n\nRestauración disponible en: {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "Te han eliminado en este mundo.\n{NumSurvivingKeyholders}|plural(one=Hay,other=Hay) {NumSurvivingKeyholders} {NumSurvivingKeyholders}|plural(one=superviviente,other=supervivientes) con acceso para continuar con esta aventura.",
     "17F917FD42B58AFD06FED8B7368BA06C": "Te han eliminado en este mundo.\nYa no puedes unirte a la aventura.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "No te han dado <text color=\"CCF2FF\">acceso</>\r\na ningún mundo",

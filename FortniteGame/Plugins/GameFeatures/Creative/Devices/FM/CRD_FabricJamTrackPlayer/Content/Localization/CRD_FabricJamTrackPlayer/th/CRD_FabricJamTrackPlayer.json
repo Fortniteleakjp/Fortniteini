@@ -5,11 +5,11 @@
     "0DA4B4944871142C1C3B068A6B906DA8": "8",
     "99007AE1471C2C7F0AF2AE865D1DFF99": "อนุญาตให้เล่นเพลงจากคลังแจมแทร็กที่ซิงค์กับ Patchwork Audio",
     "C8AD8139413467B14C0C61A5D0EC788C": "อนุญาตให้เล่นเพลงจากคลังแจมแทร็กที่ซิงค์กับ Patchwork Audio",
-    "71A1DFAA499DE9A553FC7180B22BDADB": "ไม่สามารถใช้ได้เมื่อมีเครื่องเล่นแจมแทร็ก",
+    "71A1DFAA499DE9A553FC7180B22BDADB": "ไม่สามารถใช้ได้เมื่อมีตัวเล่นแจมแทร็ก",
     "666C594A4027331AF69B9E9AC019C7FF": "กำลังเลือกแทร็ก...",
-    "3052D0004A65D0025F28168D9DF5EADB": "เครื่องเล่นแจมแทร็ก Patchwork",
-    "7EA4EB3D411A76676A309FAE9E19FE0F": "เครื่องเล่นแจมแทร็ก Patchwork",
-    "9FC416544C36F484DC9050B8C2EBBB2B": "เครื่องเล่นแจมแทร็ก Patchwork",
+    "3052D0004A65D0025F28168D9DF5EADB": "ตัวเล่นแจมแทร็ก Patchwork",
+    "7EA4EB3D411A76676A309FAE9E19FE0F": "ตัวเล่นแจมแทร็ก Patchwork",
+    "9FC416544C36F484DC9050B8C2EBBB2B": "ตัวเล่นแจมแทร็ก Patchwork",
     "664AC797429F63EBCE93718E959F6DB8": "SampleArtistNameText - SampleTrackNameText",
     "DD0570EF41B21A081EEAA69A436B3DBF": "เลือกแทร็กเพลง",
     "D2A111A840B1C3EB026DD7A0A928172D": "ความดังเสียง",
@@ -18,7 +18,7 @@
   },
   "FabricJamTrackPlayerDeviceComponent": {
     "FabricJamTrackPlayerDeviceComponent_JTPUseage_Desc": "โปรดทราบว่าการใช้อุปกรณ์เสียงสตรีมมิ่งแบบผสมผสานควรใช้เฉพาะเพื่อสร้างประสบการณ์การเล่นเกมดนตรีเท่านั้น ตามนโยบายที่ระบุไว้ในกฎครีเอเตอร์เกาะของ Fortnite Island การละเมิดข้อตกลงของ Epic อาจส่งผลให้เกาะของคุณไม่ได้รับการเผยแพร่",
-    "FabricJamTrackPlayerDeviceComponent_JTPUseage_Title": "การใช้เครื่องเล่นแจมแทร็ก"
+    "FabricJamTrackPlayerDeviceComponent_JTPUseage_Title": "การใช้ตัวเล่นแจมแทร็ก"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "ป้าย"

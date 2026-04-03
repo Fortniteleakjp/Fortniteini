@@ -123,6 +123,6 @@
     "FortniteEarlyStartupPatcher.UpdateSizeEstimate": "Update-Größe: {PatchSizeEstimate}",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.Alt": "Wir sagen dir Bescheid, wenn du zurückkommen musst, um die Installation abzuschließen.\n\nDu wirst außerdem über Gruppeneinladungen, Spiel-Updates und mehr benachrichtigt.",
     "EarlyStartupPatcher.NotificationsPermissionModalBody.iOS": "Wir sagen dir Bescheid, wenn du zurückkommen musst, um die Installation abzuschließen.\n\nDu wirst außerdem über Gruppeneinladungen, Spiel-Updates und mehr benachrichtigt.",
-    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Du kannst die App während des Downloads verlassen. Wir geben dir Bescheid, wenn du wieder zurückkommen kannst.\n\nNach Abschluss des Downloads musst du Fortnite auf dem Bildschirm geöffnet lassen, damit die Installation durchgeführt wird."
+    "FortniteEarlyStartupPatcher.AppCanBeMinimized": "Du kannst die App während des Downloads verlassen. Wir geben dir Bescheid, wenn du wieder zurückkommen kannst."
   }
 }

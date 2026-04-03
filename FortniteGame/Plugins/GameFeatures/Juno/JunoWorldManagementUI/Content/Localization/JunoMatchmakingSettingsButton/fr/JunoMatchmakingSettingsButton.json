@@ -113,7 +113,7 @@
     "B00278A34B60B05EA32FEEAC3A4B78C8": "La restauration du monde n'est pas disponible tant qu'une action existante est en cours.",
     "1F610AF744DF12212C1D37ADF585915E": "Mondes auxquels vous avez accès quand le propriétaire est hors ligne",
     "EB6660594C96764ED931CF9F8D399C8D": "Vous êtes sur le point de restaurer un état de monde précédent. Cette modification est permanente, voulez-vous vraiment continuer ? Certains bugs peuvent persister après une restauration. Pour connaître l'état des problèmes en cours, consultez les comptes officiels de Fortnite sur les réseaux sociaux.",
-    "913437B34C52F65029B9638209702DD4": "Vous ne pouvez restaurer un état de monde qu'une fois toutes les 24 heures.\n\nRestauration disponible dans : {h}:{m}:{s}",
+    "913437B34C52F65029B9638209702DD4": "Vous ne pouvez restaurer un état de monde qu'une fois toutes les 24 heures.\n\nRestauration disponible dans : {0}:{1}:{2}",
     "CF9470F14DA22B9FA50660A734938CD0": "Vous avez péri dans ce monde.\r\nPersonnes détentrices d'une clé et toujours en vie : {NumSurvivingKeyholders}",
     "17F917FD42B58AFD06FED8B7368BA06C": "Vous avez péri dans ce monde.\r\nVous ne pouvez plus participer à cette aventure.",
     "BC41D2334E5D08A802CDC1A1BB9643E5": "Vous ne possédez actuellement aucune \n<text color=\"CCF2FF\">clé de monde</>.",

@@ -11890,7 +11890,6 @@
     "B03C1AAF489252FFEF052EBB5FABFB39": "Selesaikan 1 misi di Zona Petualangan [UIRating]+ Level Daya",
     "F4EB4012466545DD58E012A84F7C0F36": "Selesaikan 1 misi di Zona Petualangan [UIRating]+ Level Daya",
     "47461B664386F9E92AD25E98BD6241E6": "Selesaikan 1 misi di zona Petualangan Gumuk Pasir Nirguna.",
-    "7AB96BAE4699C2EF65FA648918070DC8": "Selesaikan 1 misi di zona [UIRating]+",
     "F45DAC6A41B85CC69B9F0FA5F0E18349": "Selesaikan 1 misi di zona [UIRating]+",
     "0DFA25004187AE2302A046A17C25DB8E": "Selesaikan satu misi di Dungeon Kuburan.",
     "B5C174724844670EF31B42B70F3CC752": "Selesaikan satu misi di Dungeon Kuburan.",
@@ -35335,6 +35334,8 @@
     "8D79868F4A426768EC8D4EA197E09648": "Keluar dari Taman Bermain?",
     "017E83DB4276F7F2089DFAA528B43BCA": "Keluar dari Selamatkan Dunia",
     "3BFFB9674A144EA9F3B6B491B606227A": "Keluar dari Selamatkan Dunia",
+    "B61629D94B551751ADBC34A156856087": "Keluar dari Selamatkan Dunia dan kembali ke Menu Utama?",
+    "99F69FDF4A5400FB181286A1A2BC6F90": "Keluar dari Selamatkan Dunia?",
     "84B3374A4F0047D085B3CC81A97E5129": "Tinggalkan Perisai Badai",
     "4B2B15C642C9CAAF6F10ACB4ABE87CE8": "Keluar dari Perisai Badai?",
     "6C333EC74113FDEBE31C5FA61B785262": "Keluar dari Perisai Badai?",
@@ -58440,7 +58441,7 @@
     "E3F04CAC4D9047709E4279826CF6BC78": "Para penyintas berlindung di Selter! Mereka perlu bantuanmu!",
     "6D935B654402E319D36A4F9ABDF0B469": "Penyintas dalam bahaya. Selesaikan misi Selamatkan Penyintas.",
     "89DB599D4C71DD6D508F5CADE379390A": "Para penyintas dalam bahaya serius!",
-    "410E64DF4DC98B380859BDB9757CA4CC": "Para Penyintas butuh bantuan! Selesaikan misi dan bawa mereka pulang.",
+    "410E64DF4DC98B380859BDB9757CA4CC": "Para Penyintas butuh bantuan! Bawa mereka pulang.",
     "E703B06C41AFD8BE50ABE89255748D9A": "Para Penyintas butuh bantuan! Selamatkan sebanyak mungkin!",
     "12351A5640A7E61FB7303DAFC387E09D": "Para Penyintas butuh bantuan, Komandan. Mereka mengandalkanmu! Selamatkan sebanyak mungkin.",
     "2A28F055457D54B314C084844920932F": "Para Penyintas butuh bantuan, Komandan. Mereka mengandalkanmu! Selamatkan sebanyak mungkin.",
@@ -67689,7 +67690,6 @@
     "924ABF854CFCF71B352386A88EFDA86F": "[Skema] {name}",
     "81500BB64374F6515C790EA37051A206": "[Nama Simulasi]",
     "79E5CB3248B9843646C4B78B5D7A51B6": "[TutorialIntroLoopWidgetSlotWrapper]  {context} | Ditautkan ke event klik {child}",
-    "5F19E30942FEDF2334A913B83CBCCD3A": "[TutorialIntroLoopWidgetSlotWrapper] Tab {tab} dipilih.",
     "7FB1DB8D4F064069D9D627B029573729": "[X]",
     "06C5F92A421A2E379DF3A483925A8724": "[punya/maks]",
     "2B84951F4154E4A509B691AD76E96CB3": "[punya/maks]",
@@ -69107,7 +69107,7 @@
     "CharacterShortDescription": "Kostum"
   },
   "CollectionBookDisplayNameFormat": {
-    "CollectionBookDisplayNameFormatWithoutPrefix": "{Quality} {Name}"
+    "CollectionBookDisplayNameFormatWithoutPrefix": "{Name} {Quality}"
   },
   "CollectionBookSlotSources": {
     "starterpack_lars_Description": "Diperoleh dengan membeli Starter Pack Lars.",
@@ -74439,7 +74439,7 @@
     "25C9D7024D89D13C91699791423BFB05_DB7CBEBD00000000": "Tutup sebelum kita ketahuan. ",
     "2D9919324967789D7C0B7D92DFAE90E6_06FC410400000000": "Tutup matamu. Bernapaslah. Dan beri tahu aku apa yang kau lihat. ",
     "1990A1DC468B3BA6F297789C30563487_9801E98900000000": "Tutup. Menurutku kau benar-benar terpikat pria di poster Wol Baja itu",
-    "D3ABB94741F45D990D2058BA40401835_06FC410400000000": "Tutup. Coba lagi. ",
+    "D3ABB94741F45D990D2058BA40401835_06FC410400000000": "Nyaris saja. Coba lagi. ",
     "F57D088A43DAAA08735D17A85587D62F_94F2B66F00000000": "Lemari berhasil diamankan!",
     "4FC423B04CE499C0BA5A0F83B28627DF_1D2FE88200000000": "Tradisi klub, kau mengerti, 'kan?",
     "A02627644F2E2FC143D2B1A7B313C69C_97A9259300000000": "Kelapa ...",
