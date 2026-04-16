@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Orientation de la barre de raccourcis personnalisée",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Marge de la barre de raccourcis personnalisée",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Définit si les nombres des dégâts sont affichés.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Définit si les messages d'ATH de l'appareil de message d'ATH sont visibles sur l'ATH du joueur.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Définit si les ressources de fabrication sont visibles dans l'ATH.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Définit si les ressources en or sont affichées dans l'ATH.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Définit si les commandes d'interaction sont visibles.",

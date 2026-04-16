@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Orientasi Bilah Cepat Kustom",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Jarak Bilah Cepat Kustom",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Menentukan apakah Jumlah Damage akan muncul.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Menentukan apakah Pesan HUD dari Perangkat Pesan HUD terlihat di HUD pemain.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Menentukan apakah sumber daya perakitan akan terlihat pada HUD.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Menentukan apakah sumber daya emas akan ditampilkan pada HUD.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Menentukan apakah petunjuk interaksi akan terlihat.",

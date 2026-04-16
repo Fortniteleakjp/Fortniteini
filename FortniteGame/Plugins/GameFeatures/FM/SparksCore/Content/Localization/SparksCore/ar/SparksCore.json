@@ -28,12 +28,12 @@
     "setlist_desc_3": "وصف مختارات Festival!",
     "setlist_desc_Fortnitemares": "كوابيس Fortnite",
     "setlist_title_Fortnitemares": "كوابيس Fortnite",
-    "setlist_2_title": "قائمة أغانٍ مميزة",
-    "setlist_title_2": "قائمة أغانٍ مميزة",
-    "spotlight_1_title": "قائمة أغانٍ مميزة",
-    "setlist_2_desc": "وصف قائمة الأغاني المميزة!",
-    "setlist_desc_2": "وصف قائمة الأغاني المميزة!",
-    "spotlight_1_desc": "وصف قائمة الأغاني المميزة!"
+    "setlist_2_title": "قائمة أغانٍ تحت الأضواء",
+    "setlist_title_2": "قائمة أغانٍ تحت الأضواء",
+    "spotlight_1_title": "قائمة أغانٍ تحت الأضواء",
+    "setlist_2_desc": "وصف قائمة الأغاني تحت الأضواء!",
+    "setlist_desc_2": "وصف قائمة الأغاني تحت الأضواء!",
+    "spotlight_1_desc": "وصف قائمة الأغاني تحت الأضواء!"
   },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "قائمة أغاني مخصصة",
@@ -43,9 +43,9 @@
     "Festival_1_Title": "مختارات Festival",
     "Festival_1_Desc": "وصف مختارات Festival من الجدول",
     "Default_Title": "قائمة أغاني Festival",
-    "ProductMode_DisplayName_Setlist3": "قائمة أغانٍ مميزة",
-    "Spotlight_1_Title": "قائمة أغانٍ مميزة",
-    "Spotlight_1_Desc": "وصف قائمة الأغاني المميزة من الجدول",
+    "ProductMode_DisplayName_Setlist3": "قائمة أغانٍ تحت الأضواء",
+    "Spotlight_1_Title": "قائمة أغانٍ تحت الأضواء",
+    "Spotlight_1_Desc": "وصف قائمة الأغاني تحت الأضواء من الجدول",
     "Default_Desc": "هذا الوصف الافتراضي لقائمة الأغاني!",
     "ProductMode_DisplayName_Setlist2": "قائمة الأغاني الأسبوعية"
   },

@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Объекты",
     "MultipleValues": "Несколько значений",
     "NoComponent": "Нет",
-    "ConvertSelectedActorsToIAsText": "[Juno] Превратить {0} в подгружаемые объекты"
+    "RefreshPreviewISMCsTooltip": "Повторно применяет переопределения материалов из текущих настроек к предпросмотру ISMC в редакторе для выбранных диспетчеров разбитых на разделы экземпляров акторов.",
+    "ConvertSelectedIAsToActorsText": "[Juno] Превратить {0} экз. обратно в акторов.",
+    "ConvertSelectedActorsToIAsText": "[Juno] Превратить {0} в подгружаемые объекты",
+    "RefreshPreviewISMCsText": "[Juno] Обновить материалы предпросмотра {0}"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Атрибуты готового пути актора «{0}», имя готового пути «{1}» и/или представление «{2}» конфликтуют с другими именами атрибутов",

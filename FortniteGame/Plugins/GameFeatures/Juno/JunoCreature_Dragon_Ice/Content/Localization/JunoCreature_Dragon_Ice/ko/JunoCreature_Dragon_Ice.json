@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "\"불이 얼음을 만나면 어떤 보물도 충분치 않으리라.\"- 고대 스핀짓주 속담",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "\"얼음이 불을 만나면 더 많은 부가 쌓이리라.\" - 고대 스핀짓주 속담",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "강력하고 튼튼한 재료입니다. <emphasis>의식용 제단</>에서 <emphasis>파이어 드래곤 비늘</>과 <emphasis>아이스 드래곤 비늘</>로 단조했습니다.",
+    "917424D9487B1B3F80F93C9941D7FF08": "임페리움의 얼어붙은 황무지에 사는 고대 드래곤 일족의 후예로, 위험하고 사나운 적입니다. 원래는 온순하지만, 무엇인가가 이 드래곤들을 공격적으로 만들었습니다.",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "<img id=\"IcoNinja\"/><emphA>닌자고 섬</>에서 하늘을 나는 사납고 얼어붙은 적을 쓰러트리세요.",
+    "36F3FE8C449242F1C8756BBA13939964": "<img id=\"IcoNinja\"/><emphA>닌자고 섬</>에서 하늘을 나는 불타는 적 하나와 얼어붙은 적 하나를 쓰러트리세요.",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "드래곤의 보물 상자",
+    "58D8A402465DB328895F19832C28FE08": "<img id=\"IcoNinja\"/> <emphA>닌자고 섬</>에서 발견됩니다.",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "<img id=\"IcoNinja\"/><emphA>닌자고 섬</>에서 발견됩니다.",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "<img id=\"IcoNinja\"/><emphA>닌자고 섬</>에서 발견됩니다.",
+    "F740FB2444681252370FB581ED402D82": "<img id=\"IcoNinja\"/><emphA>닌자고 섬</>에서 발견됩니다.",
+    "D91422F746667E1161B804853875ED9E": "기능성 도구 유틸리티아이템 M80 수류탄",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "초대형 상자",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "초대형 상자",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "아이스 드래곤",
+    "773758EE4A71034E32D6F688A1C3209C": "아이스 드래곤 비늘",
+    "33D2225C433B474DC991768B4E33F2E7": "곱하기",
+    "7AB4D9C446B2FCE62196A88D3094230D": "오프셋",
+    "9B56BC5D405D11BE41208496705126E1": "파워",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "아이스 드래곤을 물리치고 회수했습니다.",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "스타터 판잣집",
+    "B2A1B88646EC9125A006C2A780B7CA55": "스타터 판잣집",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "김이 나는 제련 비늘",
+    "8757485D4C9EE9E6D1CFB988289670B7": "최대 25개의 아이템을 안전하게 보관합니다.",
+    "70FF98714A4B77D36F6B5EB21468B431": "최대 49개의 아이템을 안전하게 보관합니다.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "초대형 드래곤의 보물 상자",
+    "66B1A84F47FB08122A0E16816273E703": "제작 자원",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "제작 자원"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "드래곤의 보물 상자 대형",
+    "DragonStorageChest_M_DisplayName": "드래곤의 보물 상자 중형",
+    "SteamedDragonScale_DisplayName": "김이 나는 드래곤 비늘"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "얼어붙은 비늘입니다.",
+    "88888A5F4BE754A43335AFA8175AF3F4": "불이 얼음을 만난다고? 오, 그거 좋은데요."
+  }
+}

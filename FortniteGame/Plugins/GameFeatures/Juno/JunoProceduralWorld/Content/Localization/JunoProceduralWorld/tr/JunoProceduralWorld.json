@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Aktörler",
     "MultipleValues": "Çoklu Değerler",
     "NoComponent": "Yok",
-    "ConvertSelectedActorsToIAsText": "[Juno] {0} Öğesini Ölçekli Aktörlere dönüştür"
+    "RefreshPreviewISMCsTooltip": "Seçili Örneklenmiş Aktör Yöneticileri'nin editör ön izleme ISMC'lerine, mevcut ayarlardaki malzeme geçersiz kılmalarını yeniden uygular.",
+    "ConvertSelectedIAsToActorsText": "[Juno] {0} örneği tekrar aktörlere dönüştür.",
+    "ConvertSelectedActorsToIAsText": "[Juno] {0} Öğesini Ölçekli Aktörlere dönüştür",
+    "RefreshPreviewISMCsText": "[Juno] Yenile {0} Malzeme Önizlemesi"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Bulunan aktör yolunun özellikleri '{0}', bulunan satır adı '{1}' ve/veya temsili '{2}' başka özellik adlarıyla çakışıyor",

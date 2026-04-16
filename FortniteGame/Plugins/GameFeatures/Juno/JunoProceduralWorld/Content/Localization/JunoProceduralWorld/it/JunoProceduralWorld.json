@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Attori",
     "MultipleValues": "Valori multipli",
     "NoComponent": "Nessuno",
-    "ConvertSelectedActorsToIAsText": "[Juno] Converti {0} in attori a istanza"
+    "RefreshPreviewISMCsTooltip": "Applica nuovamente override materiali dalle impostazioni attuali nell'anteprima ISMC delle Instanced Actor Managers.",
+    "ConvertSelectedIAsToActorsText": "[Juno] Converti {0} istanze di nuovo in attori.",
+    "ConvertSelectedActorsToIAsText": "[Juno] Converti {0} in attori a istanza",
+    "RefreshPreviewISMCsText": "[Juno] Aggiorna {0} materiali anteprima"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Gli attributi per il percorso attore '{0}', il nome riga '{1}' e/o la rappresentazione '{2}' sono in conflitto con altri nomi dell'attributo",

@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "„{0}”",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Aktorzy",
     "MultipleValues": "Wiele wartości",
     "NoComponent": "Brak",
-    "ConvertSelectedActorsToIAsText": "[Juno] Konwertuj {0} do instancyjnych aktorów"
+    "RefreshPreviewISMCsTooltip": "Ponownie stosuje nadpisania materiałów z bieżących ustawień do podglądowych ISMC w edytorze dla wybranych menedżerów aktorów instancyjnych.",
+    "ConvertSelectedIAsToActorsText": "[Juno] Konwertuj {0} instancji z powrotem na aktorów.",
+    "ConvertSelectedActorsToIAsText": "[Juno] Konwertuj {0} do instancyjnych aktorów",
+    "RefreshPreviewISMCsText": "[Juno] Odśwież materiały podglądu: {0}"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Występuje konflikt atrybutów dla ustalonej ścieżki aktora „{0}”, ustalonej nazwy wiersza „{1}” i/lub reprezentacji „{2}” z innymi nazwami atrybutów",

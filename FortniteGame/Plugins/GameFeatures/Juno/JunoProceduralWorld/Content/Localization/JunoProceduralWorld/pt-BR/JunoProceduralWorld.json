@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Agentes",
     "MultipleValues": "Valores Múltiplos",
     "NoComponent": "Nada",
-    "ConvertSelectedActorsToIAsText": "[Juno] Converter {0} para Agentes de Instância"
+    "RefreshPreviewISMCsTooltip": "Reaplica substituições de Material das configurações atuais aos ISMCs de pré-visualização do editor nos Gerenciadores de Agentes Instanciados selecionados.",
+    "ConvertSelectedIAsToActorsText": "[Juno] Converter {0} instâncias de volta para agentes.",
+    "ConvertSelectedActorsToIAsText": "[Juno] Converter {0} para Agentes de Instância",
+    "RefreshPreviewISMCsText": "[Juno] Atualizar materiais de pré-visualização {0}"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Atributos para o path do agente escolhido \"{0}\", nome da fileira escolhida \"{1}\" e/ou a representação \"{2}\" conflitam com os nomes de outros atributos",

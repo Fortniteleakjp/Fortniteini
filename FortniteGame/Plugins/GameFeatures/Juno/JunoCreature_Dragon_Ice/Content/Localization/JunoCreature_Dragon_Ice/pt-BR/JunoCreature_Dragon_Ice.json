@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "\"Quando FOGO encontra GELO, nenhum tesouro trará sossego.\" - Antigo Ditado do Spinjitzu",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "\"Quando o GELO encontra o FOGO, sua riqueza crescerá de novo.\" - Antigo Ditado do Spinjitzu",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "Um material incrivelmente resistente. Forjado a partir de uma <emphasis>Escama de Dragão do FOGO</> e uma <emphasis>Escama de Dragão do GELO</> em um <emphasis>Altar de Ritual</>.",
+    "917424D9487B1B3F80F93C9941D7FF08": "Perigosos inimigos cruéis, descendentes de um antigo clã de Dragões nas terras geladas de Imperium. Esses dragões são normalmente benevolentes, mas algo os tornou agressivos.",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "Derrote um inimigo feroz, voador e congelado na <emphA>Ilha Ninjago</> <img id=\"IcoNinja\"/>.",
+    "36F3FE8C449242F1C8756BBA13939964": "Derrote um inimigo voador flamejante e um inimigo voador congelante na <emphA>Ilha Ninjago</> <img id=\"IcoNinja\"/>.",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "Baú de Tesouro dos Dragões",
+    "58D8A402465DB328895F19832C28FE08": "É possível encontrar na <emphA>Ilha Ninjago</> <img id=\"IcoNinja\"/>.",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "É possível encontrar na <emphA>Ilha Ninjago</> <img id=\"IcoNinja\"/>.",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "É possível encontrar na <emphA>Ilha Ninjago</> <img id=\"IcoNinja\"/>.",
+    "F740FB2444681252370FB581ED402D82": "É possível encontrar na <emphA>Ilha Ninjago</> <img id=\"IcoNinja\"/>.",
+    "D91422F746667E1161B804853875ED9E": "Apetrecho Item Utilitário M80 Granada",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "Baú Grande",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "Baú Grande",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "Dragão do GELO",
+    "773758EE4A71034E32D6F688A1C3209C": "Escama de Dragão de GELO",
+    "33D2225C433B474DC991768B4E33F2E7": "Multiplicar",
+    "7AB4D9C446B2FCE62196A88D3094230D": "Deslocamento",
+    "9B56BC5D405D11BE41208496705126E1": "Potência",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "Recuperado dos Dragões de GELO derrotados.",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "Casebres Iniciais",
+    "B2A1B88646EC9125A006C2A780B7CA55": "Casebres Iniciais",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "Escama Fortalecida com Vapor",
+    "8757485D4C9EE9E6D1CFB988289670B7": "Armazene até 25 itens para mantê-los em segurança.",
+    "70FF98714A4B77D36F6B5EB21468B431": "Armazene até 49 itens para mantê-los em segurança.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "Baú de Tesouro dos Dragões Vasto",
+    "66B1A84F47FB08122A0E16816273E703": "recurso de criação",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "recurso de criação"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "Baú de Tesouro dos Dragões Grande",
+    "DragonStorageChest_M_DisplayName": "Baú de Tesouro dos Dragões Médio",
+    "SteamedDragonScale_DisplayName": "Escama de Dragão no Vapor"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "Uma escama congelada.",
+    "88888A5F4BE754A43335AFA8175AF3F4": "E quando o FOGO encontra o GELO? Aah, que desvelo."
+  }
+}

@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Actores",
     "MultipleValues": "Valores múltiples",
     "NoComponent": "Ninguno",
-    "ConvertSelectedActorsToIAsText": "[Juno] Convertir {0} en actores mencionados"
+    "RefreshPreviewISMCsTooltip": "Vuelve a aplicar las anulaciones de material de los ajustes actuales a los ISMC de vista previa del editor de los administradores de actores mencionados seleccionados.",
+    "ConvertSelectedIAsToActorsText": "[Juno] Convierte {0} instancias de vuelta en actores.",
+    "ConvertSelectedActorsToIAsText": "[Juno] Convertir {0} en actores mencionados",
+    "RefreshPreviewISMCsText": "[Juno] Actualizar {0} materiales de previsualización"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Atributos para la ruta de actor resuelta '{0}', nombre de fila resuelto '{1}' y/o representación '{2}' interfieren con otros nombres de atributos",

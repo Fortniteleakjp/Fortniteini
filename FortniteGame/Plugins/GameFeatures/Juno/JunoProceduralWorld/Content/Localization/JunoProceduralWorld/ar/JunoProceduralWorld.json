@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "العوامل",
     "MultipleValues": "قيم متعددة",
     "NoComponent": "لا يوجد",
-    "ConvertSelectedActorsToIAsText": "[Juno] تحويل {0} إلى العوامل المُوضحة"
+    "RefreshPreviewISMCsTooltip": "يُعيد تطبيق تجاوزات المواد من الإعدادات الحالية على مكونات الشبكة الثابتة الموضحة لمعاينة المحرر الخاصة بمديري الممثلين المُثبَّتين المحددين.",
+    "ConvertSelectedIAsToActorsText": "[Juno] إعادة تحويل {0} من النسخ إلى عناصر.",
+    "ConvertSelectedActorsToIAsText": "[Juno] تحويل {0} إلى العوامل المُوضحة",
+    "RefreshPreviewISMCsText": "[Juno] تحديث {0} مواد المعاينة"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "تتعارض سمات مسار الممثل المختار\"{0}\"، واسم الصف الذي تم حله \"{1}\" و/أو التمثيل \"{2}\" مع أسماء السمات الأخرى",

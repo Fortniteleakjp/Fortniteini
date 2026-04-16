@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Actors",
     "MultipleValues": "Multiple Values",
     "NoComponent": "None",
-    "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors"
+    "RefreshPreviewISMCsTooltip": "Re-applies material overrides from current settings to the editor preview ISMCs of the selected Instanced Actor Managers.",
+    "ConvertSelectedIAsToActorsText": "[Juno] Convert {0} instances back to actors.",
+    "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors",
+    "RefreshPreviewISMCsText": "[Juno] Refresh {0} Preview Materials"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",

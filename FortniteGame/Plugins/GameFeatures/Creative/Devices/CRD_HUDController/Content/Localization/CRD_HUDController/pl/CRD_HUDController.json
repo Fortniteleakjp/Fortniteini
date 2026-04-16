@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Orientacja własnego paska szybkiego dostępu",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Odstęp na własnym pasku szybkiego dostępu",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Określa, czy liczby pokazujące obrażenia mają być wyświetlane.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Określa, czy wiadomości interfejsu z urządzenia komunikatów w interfejsie są widoczne w interfejsie gracza.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Określa, czy w interfejsie będą wyświetlane zasoby do tworzenia.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Określa, czy w interfejsie będą wyświetlane zasoby złota.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Określa, czy komunikaty użycia będą widoczne.",

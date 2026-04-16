@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "اتجاه الشريط السريع المخصص",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "تبطين الشريط السريع المخصص",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "لتحديد ما إذا كانت قيم الضرر ستظهر.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "يحدد ما إذا كانت رسائل شاشة عرض المعلومات من جهاز شاشة رسائل عرض المعلومات مرئية على شاشة عرض المعلومات الخاصة باللاعب.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "لتحديد ما إذا كانت موارد التصنيع مرئية على شاشة عرض المعلومات.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "لتحديد ما إذا كانت موارد الذهب مرئية على شاشة عرض المعلومات.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "يحدد إذا كانت تعليمات التفاعل ستظهر.",

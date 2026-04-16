@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "「{0}」",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "對象",
     "MultipleValues": "多個值",
     "NoComponent": "無",
-    "ConvertSelectedActorsToIAsText": "[Juno] 轉換{0}為實例化對象"
+    "RefreshPreviewISMCsTooltip": "將目前設定中的材質覆寫重新套用至所選 Instanced 對象管理器的編輯器預覽 ISMC。",
+    "ConvertSelectedIAsToActorsText": "[Juno] 將 {0} 個實例轉換回對象。",
+    "ConvertSelectedActorsToIAsText": "[Juno] 轉換{0}為實例化對象",
+    "RefreshPreviewISMCsText": "[Juno] 重新整理 {0} 預覽材料"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "已處理對象路徑的特性'{0}'、已處理列名稱'{1}'及/或代表'{2}'與其他特性名稱發生衝突",

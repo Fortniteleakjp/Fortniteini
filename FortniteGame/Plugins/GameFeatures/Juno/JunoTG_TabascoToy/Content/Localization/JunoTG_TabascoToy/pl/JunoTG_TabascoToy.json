@@ -1,0 +1,16 @@
+{
+  "": {
+    "228CE2B940041E7F7F511891B79D2126": "Dynamitowa bumbeczka",
+    "909B95C04352195F426935AB4E932A1C": "Dynamitowa bumbeczka",
+    "9143A3964524C921135DDB9F8FA0ED0D": "Fajerwerkowa bumbeczka",
+    "EF8F49884263659392663EA38D2DE233": "Fajerwerkowa bumbeczka"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "23E3C1B4478B3953004D79AFF3203290": "Sprawia, że rzeczy robią BUM!",
+    "75E4AE864CB47CF5631F3F871912232D": "Sprawia, że rzeczy robią BUM!"
+  },
+  "Juno_UpdateItemData": {
+    "931699A44C4247381960CABCDBDFB0CC": "Gdy inne metody zawiodły, pora wysadzić coś w powietrze!",
+    "C4ABC3034D89ABE70F70389FB93F74FF": "Gdy inne metody zawiodły, pora wysadzić coś w powietrze!"
+  }
+}

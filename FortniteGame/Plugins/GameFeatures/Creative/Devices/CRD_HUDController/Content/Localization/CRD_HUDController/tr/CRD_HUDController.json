@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Özel Kısayol Çubuğu Yerleşimi",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Özel Kısayol Çubuğu Boşluğu",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Hasar sayılarının görünüp görünmeyeceğini belirler.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Gösterge Paneli Mesajı Cihazı'ndan gelen Gösterge Paneli Mesajlarının oyuncu gösterge panelinde görünür olup olmadığını belirler.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Üretim malzemelerinin gösterge panelinde görünüp görünmeyeceğini belirler.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Altın kaynaklarının gösterge panelinde gösterilip gösterilmeyeceğini belirler.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Etkileşim yazılarının görünüp görünmeyeceğini belirler.",

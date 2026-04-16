@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Slot-Anordnung bei benutzerdefinierter Schnellleiste",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Abstand in der benutzerdefinierten Schnellleiste",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Bestimmt, ob Schadenszahlen angezeigt werden",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Bestimmt, ob HUD-Nachrichten des HUD-Nachrichtenübermittlers auf dem Spieler-HUD angezeigt werden.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Bestimmt, ob die Handwerksressourcen auf dem HUD angezeigt werden.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Bestimmt, ob Goldressourcen im HUD angezeigt werden.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Bestimmt, ob Eingabeaufrufe bei Interaktionen sichtbar sind.",

@@ -130,8 +130,8 @@
     "43F1EB574C8DF7D00AF91B98174EFAC9": "ProtoDP_2x8x12",
     "19B6C2C940623E341CE1D89BC8BE0FB5": "ProtoDP_8x16x2",
     "29767EFE488EB784C3AC2DA18626617C": "ProtoDP_8x20x2",
-    "3B1FF69D43E9D1F9331FAC99EAAA59A9": "Remove",
     "7BC41462435FD780E26C00AFFA134619": "Remove",
+    "F7C200C746B75BCC4A11C4BEE9867D2E": "Remove",
     "78491F1B2A165BB6DE446281C7CA42CF": "Right Fender",
     "78491F1B2A165BB6DE446281CEAF2645": "Right Fender",
     "01F254228546A3ACDE446281F50DD9B2": "Rugged Rollers",
@@ -246,6 +246,7 @@
   },
   "PP_CraftingFormulas_StarterVehicle": {
     "JBID_Vehicle_Light_Bar_02x02x01_01_A_DisplayName": "Angled Light Bar",
+    "3201458F4AEE09322E9669BDF43ABC4C": "Ballast Brick",
     "JBID_Vehicle_Cabin_Rear_02x08x06_01_A_DisplayName": "Enclosed Cabin Rear",
     "JBID_Vehicle_Engine_Bay_10x06x06_01_A_DisplayName": "Engine Bay",
     "JBID_Vehicle_Light_Bar_02x02x01_01_B_DisplayName": "Flat Light Bar",

@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "วัตถุ",
     "MultipleValues": "ค่าหลายค่า",
     "NoComponent": "ไม่มี",
-    "ConvertSelectedActorsToIAsText": "[Juno] แปลง {0} เป็นวัตถุอินสแตนซ์"
+    "RefreshPreviewISMCsTooltip": "ปรับใช้การเขียนทับวัสดุจากการตั้งค่าปัจจุบันซ้ำอีกครั้งให้กับตัวอย่างแก้ไข ISMC ของ Instanced Actor Managers ที่เลือก",
+    "ConvertSelectedIAsToActorsText": "[จูโน่] แปลงอินสแตนซ์ {0} กลับเป็นวัตถุ",
+    "ConvertSelectedActorsToIAsText": "[Juno] แปลง {0} เป็นวัตถุอินสแตนซ์",
+    "RefreshPreviewISMCsText": "[จูโน่] รีเฟรชวัสดุตัวอย่าง {0} รายการ"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "แอตทริบิวต์สำหรับ actor path '{0}', ชื่อแถวที่แก้ไขแล้ว '{1}'และ/หรือการเป็นตัวแทน '{2}' ขัดแย้งกับชื่อแอตทริบิวต์อื่น ๆ",

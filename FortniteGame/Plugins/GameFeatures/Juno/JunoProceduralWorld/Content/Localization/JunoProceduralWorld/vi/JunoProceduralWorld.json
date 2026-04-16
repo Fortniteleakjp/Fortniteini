@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "\"{0}\"",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Đối Tượng",
     "MultipleValues": "Nhiều Giá Trị",
     "NoComponent": "Không",
-    "ConvertSelectedActorsToIAsText": "[Juno] Chuyển đổi {0} thành Chủ Thể Phiên Bản Hóa"
+    "RefreshPreviewISMCsTooltip": "Áp dụng lại các ghi đè vật liệu từ cài đặt hiện tại lên các ISMC xem trước trong trình chỉnh sửa của các Instanced Actor Managers đã chọn.",
+    "ConvertSelectedIAsToActorsText": "[Juno] Chuyển đổi {0} phó bản trở lại thành đối tượng.",
+    "ConvertSelectedActorsToIAsText": "[Juno] Chuyển đổi {0} thành Chủ Thể Phiên Bản Hóa",
+    "RefreshPreviewISMCsText": "[Juno] Làm Mới {0} Xem Trước Nguyên Liệu"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Thuộc tính cho đường dẫn chủ thể đã giải quyết '{0}', tên hàng đã giải quyết '{1}' và/hoặc biểu thị '{2}' đang xung đột với các tên thuộc tính khác",

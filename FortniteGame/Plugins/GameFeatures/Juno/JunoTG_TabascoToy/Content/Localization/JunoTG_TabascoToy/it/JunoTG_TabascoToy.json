@@ -1,0 +1,16 @@
+{
+  "": {
+    "228CE2B940041E7F7F511891B79D2126": "Botte esplosiva dinamite",
+    "909B95C04352195F426935AB4E932A1C": "Botte esplosiva dinamite",
+    "9143A3964524C921135DDB9F8FA0ED0D": "Botte esplosiva fuochi d'artificio",
+    "EF8F49884263659392663EA38D2DE233": "Botte esplosiva fuochi d'artificio"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "23E3C1B4478B3953004D79AFF3203290": "Serve a far fare BUM!",
+    "75E4AE864CB47CF5631F3F871912232D": "Serve a far fare BUM!"
+  },
+  "Juno_UpdateItemData": {
+    "931699A44C4247381960CABCDBDFB0CC": "Quando il resto non basta, fai scoppiare tutto!",
+    "C4ABC3034D89ABE70F70389FB93F74FF": "Quando il resto non basta, fai scoppiare tutto!"
+  }
+}

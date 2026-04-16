@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "自訂快捷欄方向",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "自訂快捷欄間隔",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "決定是否顯示傷害數字。",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "決定是否在玩家的 HUD 顯示來自 HUD 訊息裝置的 HUD 訊息。",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "決定製作用資源是否要在 HUD 上可見。",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "決定是否在 HUD 中顯示黃金資源。",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "決定互動提示是否可見。",

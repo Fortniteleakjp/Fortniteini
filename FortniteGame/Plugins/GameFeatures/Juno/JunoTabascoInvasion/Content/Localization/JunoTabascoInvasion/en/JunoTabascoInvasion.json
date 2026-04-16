@@ -1,5 +1,27 @@
 {
   "": {
-    "3AB18FAE4740B9F689D4E69CFFF1DE66": "Toss Chaos Embers into the Portal"
+    "6C09B000404A48BC4ACE7FB2721F1801": "Close Portals",
+    "A754942E44AA498AEA3FCBB43FD4C7B4": "Defeat an ICE Dragon",
+    "1F5881BC4C4C4C44B3F1F9B896D0F8CB": "Found in Daily chests and can be found in Chests out in the world",
+    "B450CC92471DCDCF65A93486DB169BAC": "Found in Daily chests and can be found in Chests out in the world",
+    "11B101F94BCDEAB9C761AE92F09E8954": "Massive Neon Marketplace",
+    "F004E0D2428910C7311A17859D78A391": "Oni Outpost",
+    "F299D4F444077FDF8D0101A7A59436D1": "Oni Outpost",
+    "5D7384E8440B959CBE357E8C6033D4DB": "Plunder from the Oni",
+    "D0607F6F45480D2290F22CBA11EA985B": "Plunder from the Oni",
+    "D0A38DBF4D7E085150637E8958780309": "Tech City Marketplace",
+    "338309A64DE92E11D59CB4AC3D98218A": "Toss Chaos Embers into the Portal",
+    "379FD9764BDEB0F6189840B30EFBAD5E": "Toss Chaos Embers into the Portal",
+    "3AB18FAE4740B9F689D4E69CFFF1DE66": "Toss Chaos Embers into the Portal",
+    "49FEBFF54F1FE6D33ED661A48DA0BEAB": "Toss Chaos Embers into the Portal",
+    "80A0E2EE497290133407AE9667F1A556": "Toss Chaos Embers into the Portal"
+  },
+  "Juno_UpdateItemData": {
+    "D1F8F6FA45391E5ED7296FBAD9A7AC99": "Equip and read to get a guided build for an Oni Building.",
+    "CBFAE0B947CB4FC4A82A579AD481C18F": "Equip and read to get several pieces of Oni Decor.",
+    "F01A76C74F177528317D79A0A6F3DAF6": "It's Oni Prop-er",
+    "39CA2FB84C479F54516F5EB72CFB73A8": "It's Oni the beginning",
+    "03727D744AD21144BA0165BCE40A7322": "Oni Building Tome",
+    "A353A876492D695F903DF08859108765": "Oni Decor Tome"
   }
 }

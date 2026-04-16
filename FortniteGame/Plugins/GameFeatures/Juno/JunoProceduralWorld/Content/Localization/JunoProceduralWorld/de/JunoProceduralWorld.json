@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "„{0}“",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "Actors",
     "MultipleValues": "Mehrfache Werte",
     "NoComponent": "-",
-    "ConvertSelectedActorsToIAsText": "[JUNO] {0} umwandeln in Instanced Actors"
+    "RefreshPreviewISMCsTooltip": "Wendet die überschriebenen Materialien aus den aktuellen Einstellungen auf die Editor-Vorschau-ISCMs der gewählten instanzierten Actor-Manager an.",
+    "ConvertSelectedIAsToActorsText": "[JUNO] {0} Instanzen zurück in Actors umwandeln.",
+    "ConvertSelectedActorsToIAsText": "[JUNO] {0} umwandeln in Instanced Actors",
+    "RefreshPreviewISMCsText": "[Juno] {0} Vorschaumaterialien aktualisieren"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Attribute für aufgelösten Actor-Pfad '{0}', aufgelöster Reihenname '{1}' und/oder Repräsentation '{2}' in Konflikt mit anderen Attributnamen",

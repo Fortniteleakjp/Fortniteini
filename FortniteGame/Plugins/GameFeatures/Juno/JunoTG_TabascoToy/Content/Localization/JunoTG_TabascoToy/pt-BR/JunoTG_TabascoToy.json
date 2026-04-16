@@ -1,0 +1,16 @@
+{
+  "": {
+    "228CE2B940041E7F7F511891B79D2126": "Barril Cabum de Dinamite",
+    "909B95C04352195F426935AB4E932A1C": "Barril Cabum de Dinamite",
+    "9143A3964524C921135DDB9F8FA0ED0D": "Barril Cabum de Fogos de Artifício",
+    "EF8F49884263659392663EA38D2DE233": "Barril Cabum de Fogos de Artifício"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "23E3C1B4478B3953004D79AFF3203290": "Use quando quiser ver algo fazendo CABUM!",
+    "75E4AE864CB47CF5631F3F871912232D": "Use quando quiser ver algo fazendo CABUM!"
+  },
+  "Juno_UpdateItemData": {
+    "931699A44C4247381960CABCDBDFB0CC": "Se todas as alternativas falharem, mande tudo pelos ares!",
+    "C4ABC3034D89ABE70F70389FB93F74FF": "Se todas as alternativas falharem, mande tudo pelos ares!"
+  }
+}

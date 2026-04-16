@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Ориентация пользовательской панели быстрого доступа",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Отступ в пользовательской панели быстрого доступа",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Определяет, отображаются ли числа количества урона.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Определяет, видны ли сообщения от устройства для вывода сообщений в интерфейсе на интерфейсе игрока.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Определяет, видны ли на панели ресурсы для изготовления.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Определяет, отображается ли в интерфейсе количество золота.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Определяет, отображаются ли подсказки о взаимодействии.",

@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Custom Quickbar Orientation",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Custom Quickbar Padding",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Determines if Damage Numbers appear.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Determines if HUD Messages from the HUD Message Device are visible on the player HUD.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Determines if crafting resources are visible on the HUD.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Determines if gold resources are displayed in the HUD.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Determines if interaction prompts are visible.",

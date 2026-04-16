@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Orientamento barra rapida personalizzata",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Spazio interno barra rapida personalizzata",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Determina se il numero dei danni debba apparire o meno.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Determina se i messaggio interfaccia dal dispositivo messaggio interfaccia sono visibili sull'interfaccia giocatore.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Determina se le risorse per la creazione sono visibili sull'interfaccia.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Determina se le risorse d'oro sono visibili nell'interfaccia.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Determina se i prompt di interazione sono visibili.",

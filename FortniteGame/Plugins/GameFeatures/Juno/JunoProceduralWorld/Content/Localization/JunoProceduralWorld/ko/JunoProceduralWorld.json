@@ -1,9 +1,14 @@
 {
   "FJunoProceduralWorldEditorModule": {
+    "ActorNameSingular": "'{0}'",
     "MultipleValuesText": "<multiple values>",
+    "ActorNamePlural": "액터",
     "MultipleValues": "다중 값",
     "NoComponent": "없음",
-    "ConvertSelectedActorsToIAsText": "[Juno] {0}을(를) 인스턴스 액터로 변환"
+    "RefreshPreviewISMCsTooltip": "현재 설정의 머티리얼 오버라이드를 선택한 인스턴스화 액터 매니저의 에디터 프리뷰 ISMC에 다시 적용합니다.",
+    "ConvertSelectedIAsToActorsText": "[Juno] 인스턴스 {0}개를 액터로 다시 변환합니다.",
+    "ConvertSelectedActorsToIAsText": "[Juno] {0}을(를) 인스턴스 액터로 변환",
+    "RefreshPreviewISMCsText": "[Juno] 프리뷰 머티리얼 {0} 새로고침"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "확인된 액터 경로 '{0}'의 속성, 확인된 열 이름 '{1}' 및/또는 다른 속성 이름과 충돌하는 대표 '{2}'",

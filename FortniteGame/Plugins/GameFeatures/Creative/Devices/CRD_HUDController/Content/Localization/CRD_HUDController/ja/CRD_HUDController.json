@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "カスタムクイックバーの向き",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "カスタムクイックバーのパディング",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "ダメージ値が表示されるかどうかを決定する。",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "HUDメッセージの仕掛けからのHUDメッセージを、プレイヤーHUDに表示するかどうかを決定する。",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "HUDにクラフト用の素材が表示されるかを決定する。",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "HUDに素材のゴールドが表示されるかを決定する。",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "インタラクトのメッセージが表示されるかの設定。",

@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "커스텀 퀵바 방향",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "커스텀 퀵바 패딩",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "피해량 숫자를 표시할지 설정합니다.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "HUD 메시지 장치의 HUD 메시지를 플레이어 HUD에 표시할지를 설정합니다.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "제작 자원을 HUD에 표시할지 설정합니다.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "골드 자원을 HUD에 표시할지 설정합니다.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "상호작용 메시지를 표시할지 설정합니다.",

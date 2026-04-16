@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "“烈火遇寒冰，宝贝数不清。”——古代幻影旋转术谚语",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "“寒冰遇烈火，财来无处躲。”——古代幻影旋转术谚语",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "一种极其稳固的材料。在<emphasis>仪式祭坛</>使用一片<emphasis>喷火龙鳞</>和一片<emphasis>寒冰猛龙鳞</>锻造而成。",
+    "917424D9487B1B3F80F93C9941D7FF08": "危险而凶残的强敌，源自远古龙族，栖身于帝国冻原。龙本性温和，如今凶残好斗必有原因。",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "在<img id=\"IcoNinja\"/><emphA>幻影忍者岛</>上击败一个会飞的凶残霜冻敌人。",
+    "36F3FE8C449242F1C8756BBA13939964": "在<img id=\"IcoNinja\"/><emphA>幻影忍者岛</>上击败一个会飞的火焰敌人和一个会飞的霜冻敌人。",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "龙之至宝宝箱",
+    "58D8A402465DB328895F19832C28FE08": "可以在<img id=\"IcoNinja\"/><emphA>幻影忍者岛</>上找到。",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "可以在<img id=\"IcoNinja\"/><emphA>幻影忍者岛</>上找到。",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "可以在<img id=\"IcoNinja\"/><emphA>幻影忍者岛</>上找到。",
+    "F740FB2444681252370FB581ED402D82": "可以在<img id=\"IcoNinja\"/><emphA>幻影忍者岛</>上找到。",
+    "D91422F746667E1161B804853875ED9E": "配件 实用物品 M80手雷",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "巨型宝箱",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "巨型宝箱",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "寒冰猛龙",
+    "773758EE4A71034E32D6F688A1C3209C": "寒冰猛龙鳞",
+    "33D2225C433B474DC991768B4E33F2E7": "乘",
+    "7AB4D9C446B2FCE62196A88D3094230D": "偏移量",
+    "9B56BC5D405D11BE41208496705126E1": "电力",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "击败寒冰猛龙后获得。",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "初始简棚",
+    "B2A1B88646EC9125A006C2A780B7CA55": "初始简棚",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "蒸制回火龙鳞",
+    "8757485D4C9EE9E6D1CFB988289670B7": "最多可以安全存放25件物品。",
+    "70FF98714A4B77D36F6B5EB21468B431": "最多可以安全存放49件物品。",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "龙之至宝巨型宝箱",
+    "66B1A84F47FB08122A0E16816273E703": "制作资源",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "制作资源"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "龙之至宝大型宝箱",
+    "DragonStorageChest_M_DisplayName": "龙之至宝中型宝箱",
+    "SteamedDragonScale_DisplayName": "蒸制龙鳞"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "一片冻结的鳞片。",
+    "88888A5F4BE754A43335AFA8175AF3F4": "烈火遇寒冰？噢，那叫一个顶。"
+  }
+}

@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "Chiều Xoay Thanh Tắt Tùy Chỉnh",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "Khoảng Đệm Thanh Tắt Tùy Chỉnh",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "Xác định xem có xuất hiện Chỉ Số Sát Thương không.",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "Xác định xem có hiển thị Thông Báo HUD từ Thiết Bị Thông Báo HUD trên HUD của người chơi hay không.",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "Xác định xem có hiển thị tài nguyên chế tạo trên HUD không.",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "Xác định xem có hiển thị tài nguyên vàng trên HUD không.",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "Xác định xem có hiển thị câu lệnh tương tác không.",

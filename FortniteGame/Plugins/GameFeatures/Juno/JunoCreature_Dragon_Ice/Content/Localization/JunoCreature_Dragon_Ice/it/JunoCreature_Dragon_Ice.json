@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "\"Quando il FUOCO incontra il GHIACCIO, nessun tesoro è sufficiente.\" Antico proverbio Spinjitzu",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "\"Quando il GHIACCIO incontra il FUOCO, le tue ricchezze aumentano.\" - Antico proverbio Spinjitzu",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "Un materiale straordinariamente resistente. Forgiato da una <emphasis>scaglia di drago del FUOCO</> e una <emphasis>scaglia di drago del GHIACCIO</> presso un <emphasis>altare rituale</>.",
+    "917424D9487B1B3F80F93C9941D7FF08": "Nemici pericolosi e feroci, discendenti di un antico clan di draghi delle distese ghiacciate di Imperium. Normalmente questi draghi sono di indole benevola, ma qualcosa ha scatenato la loro aggressività.",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "Sconfiggi un feroce nemico volante ghiacciato sull'<img id=\"IcoNinja\"/><emphA>isola di Ninjago</>.",
+    "36F3FE8C449242F1C8756BBA13939964": "Sconfiggi un nemico volante infuocato e un nemico volante ghiacciato sull'<img id=\"IcoNinja\"/><emphA>isola di Ninjago</>.",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "Forziere del tesoro del drago",
+    "58D8A402465DB328895F19832C28FE08": "Si trova sull'<img id=\"IcoNinja\"/> <emphA>isola di Ninjago</>.",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "Si trova sull'<img id=\"IcoNinja\"/><emphA>isola di Ninjago</>.",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "Si trova sull'<img id=\"IcoNinja\"/><emphA>isola di Ninjago</>.",
+    "F740FB2444681252370FB581ED402D82": "Si trova sull'<img id=\"IcoNinja\"/><emphA>isola di Ninjago</>.",
+    "D91422F746667E1161B804853875ED9E": "Gadget UtilityItem Granata M80",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "Forziere enorme",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "Forziere enorme",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "Drago del ghiaccio",
+    "773758EE4A71034E32D6F688A1C3209C": "Scaglia di drago del ghiaccio",
+    "33D2225C433B474DC991768B4E33F2E7": "Moltiplica",
+    "7AB4D9C446B2FCE62196A88D3094230D": "Sfalsamento",
+    "9B56BC5D405D11BE41208496705126E1": "Potenza",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "Sottratta ai draghi del GHIACCIO sconfitti.",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "Capanni iniziali",
+    "B2A1B88646EC9125A006C2A780B7CA55": "Capanni iniziali",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "Scaglia temperata al vapore",
+    "8757485D4C9EE9E6D1CFB988289670B7": "Deposita fino a 25 oggetti all'interno per custodirli.",
+    "70FF98714A4B77D36F6B5EB21468B431": "Deposita fino a 49 oggetti all'interno per custodirli.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "Forziere immenso del tesoro del drago",
+    "66B1A84F47FB08122A0E16816273E703": "risorsa per creazione",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "risorsa per creazione"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "Forziere grande del tesoro del drago",
+    "DragonStorageChest_M_DisplayName": "Forziere medio del tesoro del drago",
+    "SteamedDragonScale_DisplayName": "Scaglia di drago al vapore"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "Una scaglia congelata.",
+    "88888A5F4BE754A43335AFA8175AF3F4": "Quando il FUOCO incontra il GHIACCIO? Oh, non male."
+  }
+}

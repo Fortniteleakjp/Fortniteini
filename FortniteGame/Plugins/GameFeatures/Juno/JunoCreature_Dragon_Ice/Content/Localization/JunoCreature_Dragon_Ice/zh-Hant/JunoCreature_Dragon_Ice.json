@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "「火與冰相遇之時，世間珍寶皆黯然失色。」——古老旋風忍術箴言",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "「冰與火相遇之時，即是財寶翻倍之日。」——古老旋風忍術箴言",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "一種極其堅固的材料。在<emphasis>儀式祭壇</>使用<emphasis>火龍鱗片</>和<emphasis>冰龍鱗片</>鍛造而成。",
+    "917424D9487B1B3F80F93C9941D7FF08": "這群危險且殘暴的敵人，是來自帝國的冰封荒原中，一個古老巨龍氏族的後裔。這些巨龍本性溫和，但有某樣東西導致牠們變得異常暴躁。",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "在<img id=\"IcoNinja\"/><emphA>旋風忍者島</>擊敗兇猛、會飛的冰霜系敵人。",
+    "36F3FE8C449242F1C8756BBA13939964": "在<img id=\"IcoNinja\"/><emphA>旋風忍者島</>擊敗一個會飛的火焰系敵人和一個會飛的冰霜系敵人。",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "龍之寶藏寶箱",
+    "58D8A402465DB328895F19832C28FE08": "發現於 <img id=\"IcoNinja\"/><emphA>旋風忍者島</>。",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "發現於 <img id=\"IcoNinja\"/><emphA>旋風忍者島</>。",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "發現於 <img id=\"IcoNinja\"/><emphA>旋風忍者島</>。",
+    "F740FB2444681252370FB581ED402D82": "發現於 <img id=\"IcoNinja\"/><emphA>旋風忍者島</>。",
+    "D91422F746667E1161B804853875ED9E": "器具、實用物品、M80 榴彈",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "豪華寶箱",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "豪華寶箱",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "冰龍",
+    "773758EE4A71034E32D6F688A1C3209C": "冰龍鱗片",
+    "33D2225C433B474DC991768B4E33F2E7": "相乘",
+    "7AB4D9C446B2FCE62196A88D3094230D": "偏移",
+    "9B56BC5D405D11BE41208496705126E1": "強度",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "從被擊敗的冰龍身上獲得。",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "新手棚屋",
+    "B2A1B88646EC9125A006C2A780B7CA55": "新手棚屋",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "蒸騰淬火鱗片",
+    "8757485D4C9EE9E6D1CFB988289670B7": "最多可以儲藏 25 個物品。",
+    "70FF98714A4B77D36F6B5EB21468B431": "最多可以儲藏 49 個物品。",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "巨大龍之寶藏寶箱",
+    "66B1A84F47FB08122A0E16816273E703": "製作用資源",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "製作用資源"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "龍之寶藏大型寶箱",
+    "DragonStorageChest_M_DisplayName": "龍之寶藏中型寶箱",
+    "SteamedDragonScale_DisplayName": "清蒸龍鱗"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "被冰凍的鱗片。",
+    "88888A5F4BE754A43335AFA8175AF3F4": "火與冰相遇之時？喔喔，這可真棒。"
+  }
+}

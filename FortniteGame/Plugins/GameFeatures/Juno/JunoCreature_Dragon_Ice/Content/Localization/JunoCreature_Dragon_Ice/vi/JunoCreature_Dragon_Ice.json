@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "\"Khi LỬA gặp BĂNG, không kho báu nào là đủ cả.\"- Tục Ngữ Thuật Xoáy Lốc Cổ",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "\"Khi BĂNG gặp LỬA, bạn sẽ giàu lên như diều gặp gió\". - Tục Ngữ Thuật Xoáy Lốc Cổ",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "Một nguyên liệu cực kỳ chắc chắn. Được rèn từ một <emphasis>Vảy Rồng LỬA</> và một <emphasis>Vảy Rồng BĂNG</> tại một <emphasis>Bàn Thờ Nghi Thức</>.",
+    "917424D9487B1B3F80F93C9941D7FF08": "Những kẻ thù nguy hiểm và tàn bạo, là hậu duệ của một gia tộc Rồng cổ xưa ở vùng đất hoang băng giá của cõi Imperium. Thường chúng rất ôn hòa, phải có thứ gì đó khiến những con rồng này hung hăng đến thế.",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "Đánh bại một đối thủ hệ băng hung tợn và biết bay lượn trên <img id=\"IcoNinja\"/><emphA>Đảo Ninjago</>.",
+    "36F3FE8C449242F1C8756BBA13939964": "Đánh bại một đối thủ hệ hỏa biết bay và một đối thủ hệ băng biết bay trên <img id=\"IcoNinja\"/><emphA>Đảo Ninjago</>.",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "Rương Kho Báu Của Rồng",
+    "58D8A402465DB328895F19832C28FE08": "Được tìm thấy trên <img id=\"IcoNinja\"/> <emphA>Đảo Ninjago</>.",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "Được tìm thấy trên <img id=\"IcoNinja\"/><emphA>Đảo Ninjago</>.",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "Được tìm thấy trên <img id=\"IcoNinja\"/><emphA>Đảo Ninjago</>.",
+    "F740FB2444681252370FB581ED402D82": "Được tìm thấy trên <img id=\"IcoNinja\"/><emphA>Đảo Ninjago</>.",
+    "D91422F746667E1161B804853875ED9E": "Thiết Bị Vật Phẩm Tiện Ích Lựu Đạn M80",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "Rương Siêu Lớn",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "Rương Siêu Lớn",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "Rồng BĂNG",
+    "773758EE4A71034E32D6F688A1C3209C": "Vảy Rồng BĂNG",
+    "33D2225C433B474DC991768B4E33F2E7": "Nhân Bản",
+    "7AB4D9C446B2FCE62196A88D3094230D": "Offset",
+    "9B56BC5D405D11BE41208496705126E1": "Sức Mạnh",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "Thu được sau khi đánh bại Rồng BĂNG.",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "Lán Khởi Đầu",
+    "B2A1B88646EC9125A006C2A780B7CA55": "Lán Khởi Đầu",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "Cân Tôi Luyện Hơi Nước",
+    "8757485D4C9EE9E6D1CFB988289670B7": "Có thể chứa tối đa 25 vật phẩm bên trong để lưu trữ an toàn.",
+    "70FF98714A4B77D36F6B5EB21468B431": "Có thể chứa tối đa 49 vật phẩm bên trong để lưu trữ an toàn.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "Rương Kho Báu Của Rồng Cực Lớn",
+    "66B1A84F47FB08122A0E16816273E703": "tài nguyên chế tạo",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "tài nguyên chế tạo"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "Rương Kho Báu Của Rồng Lớn",
+    "DragonStorageChest_M_DisplayName": "Rương Kho Báu Của Rồng Vừa",
+    "SteamedDragonScale_DisplayName": "Vảy Rồng Giận Dữ"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "Một chiếc vảy lạnh giá.",
+    "88888A5F4BE754A43335AFA8175AF3F4": "Khi LỬA gặp BĂNG hả? Ồ, TUYỆT đó."
+  }
+}

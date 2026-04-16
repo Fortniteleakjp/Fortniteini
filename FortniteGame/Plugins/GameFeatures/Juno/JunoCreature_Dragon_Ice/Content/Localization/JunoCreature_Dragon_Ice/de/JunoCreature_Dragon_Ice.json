@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "„Trifft FEUER auf EIS, hast du Platz für deinen Preis.“ – Altes Spinjitzu-Sprichwort",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "„Trifft EIS auf FEUER, ist dir nichts mehr zu teuer.“ – Altes Spinjitzu-Sprichwort",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "Ein extrem robustes Material. An einem <emphasis>Ritualaltar</> aus einer <emphasis>Feuerdrachenschuppe</> und einer <emphasis>Eisdrachenschuppe</> gefertigt.",
+    "917424D9487B1B3F80F93C9941D7FF08": "Gefährliche, bösartige Feinde, die von einem uralten Drachenclan abstammen und aus den gefrorenen Weiten von Imperium kamen. Normalerweise sind diese Drachen freundlich gesinnt, doch irgendetwas hat sie aggressiv gemacht.",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "Besiege einen wilden, fliegenden, eisigen Gegner auf der <img id=\"IcoNinja\"/><emphA>Ninjago-Insel</>.",
+    "36F3FE8C449242F1C8756BBA13939964": "Besiege einen fliegenden feurigen Gegner und einen fliegenden eisigen Gegner auf der <img id=\"IcoNinja\"/><emphA>Ninjago-Insel</>.",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "Drachenhort-Truhe",
+    "58D8A402465DB328895F19832C28FE08": "Auffindbar auf der <img id=\"IcoNinja\"/> <emphA>Ninjago-Insel</>.",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "Auffindbar auf der <img id=\"IcoNinja\"/><emphA>Ninjago-Insel</>.",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "Auffindbar auf der <img id=\"IcoNinja\"/><emphA>Ninjago-Insel</>.",
+    "F740FB2444681252370FB581ED402D82": "Auffindbar auf der <img id=\"IcoNinja\"/><emphA>Ninjago-Insel</>.",
+    "D91422F746667E1161B804853875ED9E": "Gadget GeräteGegenstand M80 Granate",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "Riesige Truhe",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "Riesige Truhe",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "Eisdrache",
+    "773758EE4A71034E32D6F688A1C3209C": "Eisdrachenschuppe",
+    "33D2225C433B474DC991768B4E33F2E7": "Multiply",
+    "7AB4D9C446B2FCE62196A88D3094230D": "Offset",
+    "9B56BC5D405D11BE41208496705126E1": "Power",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "Von besiegten EISDRACHEN erhalten.",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "Einstiegshütten",
+    "B2A1B88646EC9125A006C2A780B7CA55": "Einstiegshütten",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "Dampfende gehärtete Schuppe",
+    "8757485D4C9EE9E6D1CFB988289670B7": "Platziere bis zu 25 Gegenstände darin, um sie sicher aufzubewahren.",
+    "70FF98714A4B77D36F6B5EB21468B431": "Platziere bis zu 49 Gegenstände darin, um sie sicher aufzubewahren.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "Geräumige Drachenhort-Truhe",
+    "66B1A84F47FB08122A0E16816273E703": "Handwerksressource",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "Handwerksressource"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "Drachenschatztruhe – Groß",
+    "DragonStorageChest_M_DisplayName": "Drachenschatztruhe – Mittelgroß",
+    "SteamedDragonScale_DisplayName": "Dampfende Drachenschuppe"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "Eine gefrorene Schuppe.",
+    "88888A5F4BE754A43335AFA8175AF3F4": "Trifft FEUER auf EIS, hast du eine Schuppe kalt und heiß."
+  }
+}

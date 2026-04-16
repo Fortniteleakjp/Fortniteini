@@ -1,0 +1,16 @@
+{
+  "": {
+    "228CE2B940041E7F7F511891B79D2126": "Baril explosif de dynamite",
+    "909B95C04352195F426935AB4E932A1C": "Baril explosif de dynamite",
+    "9143A3964524C921135DDB9F8FA0ED0D": "Baril explosif d'artifice",
+    "EF8F49884263659392663EA38D2DE233": "Baril explosif d'artifice"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "23E3C1B4478B3953004D79AFF3203290": "À utiliser pour que les choses fassent BOUM !",
+    "75E4AE864CB47CF5631F3F871912232D": "À utiliser pour que les choses fassent BOUM !"
+  },
+  "Juno_UpdateItemData": {
+    "931699A44C4247381960CABCDBDFB0CC": "Si rien ne marche, faites tout péter !",
+    "C4ABC3034D89ABE70F70389FB93F74FF": "Si rien ne marche, faites tout péter !"
+  }
+}

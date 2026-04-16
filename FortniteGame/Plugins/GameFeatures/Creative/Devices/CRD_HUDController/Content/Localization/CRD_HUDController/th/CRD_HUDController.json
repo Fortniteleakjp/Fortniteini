@@ -306,6 +306,7 @@
     "Device_HUDController_V2_C.Custom Quickbar Orientation.DisplayName": "การจัดวางควิกบาร์แบบกำหนดเอง",
     "Device_HUDController_V2_C.CustomQuickbarPadding.DisplayName": "ระยะห่างควิกบาร์แบบกำหนดเอง",
     "Device_HUDController_V2_C.ShowDamageNumbers.Description": "กำหนดว่าตัวเลขความเสียหายจะปรากฏหรือไม่",
+    "Device_HUDController_V2_C.ShowHUDMessages.Description": "กำหนดว่าข้อความ HUD จากอุปกรณ์ HUD Message จะปรากฏบน HUD ของผู้เล่นหรือไม่",
     "Device_HUDController_V2_C.ShowCraftingResources.Description": "กำหนดว่าจะแสดงทรัพยากรในการคราฟต์ให้เห็นบน HUD หรือไม่",
     "Device_HUDController_V2_C.ShowGoldResource.Description": "กำหนดว่าจะแสดงทรัพยากรทองให้เห็นใน HUD หรือไม่",
     "Device_HUDController_V2_C.ShowInteractionPrompts.Description": "กำหนดว่าจะแสดงพรอมต์การโต้ตอบให้เห็นหรือไม่",

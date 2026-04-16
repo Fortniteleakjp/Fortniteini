@@ -1,0 +1,45 @@
+{
+  "": {
+    "E1FD5DAD4A458E153380D1B3C2DD1DD6": "\"Quand le FEU rencontrera la GLACE, aucun trésor ne fera le poids face à la menace.\" - Ancien proverbe du Spinjitzu",
+    "0ACA9FDC40AF6FD00C47ADB4740ED7ED": "\"Quand la GLACE rencontrera le FEU, vos richesses feront des envieux.\" - Ancien proverbe du Spinjitzu",
+    "ADFA138147675BDD8F5DB3964E0A6F01": "Un matériau extrêmement résistant. Forgée à partir d'une <emphasis>écaille de dragon de FEU</> et d'une <emphasis>écaille de dragon de GLACE</> à un <emphasis>autel rituel</>.",
+    "917424D9487B1B3F80F93C9941D7FF08": "Des adversaires dangereux et cruels issus d'un clan de dragons ancestral habitant les étendues gelées d'Imperium. Habituellement de nature bienveillante, quelque chose a rendu ces dragons agressifs.",
+    "DBB05E7C4C5D39BB262B029CA7E91BA1": "Terrassez un redoutable ennemi volant de glace sur l'<img id=\"IcoNinja\"/><emphA>île Ninjago</>.",
+    "36F3FE8C449242F1C8756BBA13939964": "Terrassez un ennemi volant de feu et un ennemi volant de glace sur l'<img id=\"IcoNinja\"/><emphA>île Ninjago</>.",
+    "41CE561B4B07A038A1ECA1A8BCE1A4F2": "Coffre de provisions de dragon",
+    "58D8A402465DB328895F19832C28FE08": "Se trouve sur <img id=\"IcoNinja\"/> <emphA>l'île Ninjago</>.",
+    "446E9F394A8F0FA86BAFA1A8AB3447D2": "Se trouve sur <img id=\"IcoNinja\"/><emphA>l'île Ninjago</>.",
+    "D9D30ECC437442B0906DB3AE486E6ED8": "Se trouve sur <img id=\"IcoNinja\"/><emphA>l'île Ninjago</>.",
+    "F740FB2444681252370FB581ED402D82": "Se trouve sur <img id=\"IcoNinja\"/><emphA> l'île Ninjago</>.",
+    "D91422F746667E1161B804853875ED9E": "Gadget Utilitaire Grenade M80",
+    "37FDD87E404A0E02E81F7A8FD6A5FC00": "Grand coffre",
+    "D3E2FE0847EB6E61DD2249B4A4BF4DBF": "Grand coffre",
+    "E5BDE9DC42A17405E2D0769EA5F713F5": "Dragon de GLACE",
+    "773758EE4A71034E32D6F688A1C3209C": "Écaille de dragon de GLACE",
+    "33D2225C433B474DC991768B4E33F2E7": "Multiplier",
+    "7AB4D9C446B2FCE62196A88D3094230D": "Décalé",
+    "9B56BC5D405D11BE41208496705126E1": "Puissance",
+    "CB584BD445C06CA79476DAB41B2FFF5F": "Récupérée sur des dragons de GLACE vaincus.",
+    "49CD9F86476BD9A688C0BDB24FFB27CA": "Cabanon de fortune",
+    "B2A1B88646EC9125A006C2A780B7CA55": "Cabanon de fortune",
+    "8F6AA75E44C3562A3CCC969581DE64F1": "Écaille trempée à la vapeur",
+    "8757485D4C9EE9E6D1CFB988289670B7": "Permet de ranger jusqu'à 25 objets en lieu sûr.",
+    "70FF98714A4B77D36F6B5EB21468B431": "Permet de ranger jusqu'à 49 objets en lieu sûr.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "D806ECE749995EA39D0D2F88999838D3": "Coffre de provisions de dragon (XL)",
+    "66B1A84F47FB08122A0E16816273E703": "ressource de fabrication",
+    "A226A2B5411BFB644B75EAA92D70CCC8": "ressource de fabrication"
+  },
+  "Juno_GameplayItemCraftingFormulas_DragonIce": {
+    "DragonStorageChest_L_DisplayName": "Coffre de provisions de dragon (L)",
+    "DragonStorageChest_M_DisplayName": "Coffre de provisions de dragon (M)",
+    "SteamedDragonScale_DisplayName": "Écailles de dragon vapeur"
+  },
+  "Juno_UpdateItemData": {
+    "4DC75EA343E0E3F5D71450A789231889": "Une écaille gelée.",
+    "88888A5F4BE754A43335AFA8175AF3F4": "Le FEU et la GLACE entrent fusion ? Comme c'est bEAU !"
+  }
+}

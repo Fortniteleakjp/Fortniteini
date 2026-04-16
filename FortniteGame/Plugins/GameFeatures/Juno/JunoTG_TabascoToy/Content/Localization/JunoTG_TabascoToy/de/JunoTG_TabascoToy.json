@@ -1,0 +1,16 @@
+{
+  "": {
+    "228CE2B940041E7F7F511891B79D2126": "Dynamit-Sprengfass",
+    "909B95C04352195F426935AB4E932A1C": "Dynamit-Sprengfass",
+    "9143A3964524C921135DDB9F8FA0ED0D": "Feuerwerk-Sprengfass",
+    "EF8F49884263659392663EA38D2DE233": "Feuerwerk-Sprengfass"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "23E3C1B4478B3953004D79AFF3203290": "Kann benutzt werden, damit es „KABUMM“ macht!",
+    "75E4AE864CB47CF5631F3F871912232D": "Kann benutzt werden, damit es „KABUMM“ macht!"
+  },
+  "Juno_UpdateItemData": {
+    "931699A44C4247381960CABCDBDFB0CC": "Wenn man nicht mehr weiter weiß, sprengt man einfach etwas in die Luft!",
+    "C4ABC3034D89ABE70F70389FB93F74FF": "Wenn man nicht mehr weiter weiß, sprengt man einfach etwas in die Luft!"
+  }
+}

@@ -130,8 +130,8 @@
     "43F1EB574C8DF7D00AF91B98174EFAC9": "ProtoDP_2x8x12",
     "19B6C2C940623E341CE1D89BC8BE0FB5": "ProtoDP_8x16x2",
     "29767EFE488EB784C3AC2DA18626617C": "ProtoDP_8x20x2",
-    "3B1FF69D43E9D1F9331FAC99EAAA59A9": "삭제",
     "7BC41462435FD780E26C00AFFA134619": "삭제",
+    "F7C200C746B75BCC4A11C4BEE9867D2E": "삭제",
     "78491F1B2A165BB6DE446281C7CA42CF": "우측 펜더",
     "78491F1B2A165BB6DE446281CEAF2645": "우측 펜더",
     "01F254228546A3ACDE446281F50DD9B2": "튼튼한 차량",
@@ -246,6 +246,7 @@
   },
   "PP_CraftingFormulas_StarterVehicle": {
     "JBID_Vehicle_Light_Bar_02x02x01_01_A_DisplayName": "사선 차량등",
+    "3201458F4AEE09322E9669BDF43ABC4C": "바닥짐 브릭",
     "JBID_Vehicle_Cabin_Rear_02x08x06_01_A_DisplayName": "폐쇄형 캐빈 뒤쪽",
     "JBID_Vehicle_Engine_Bay_10x06x06_01_A_DisplayName": "엔진 격납실",
     "JBID_Vehicle_Light_Bar_02x02x01_01_B_DisplayName": "수평 차량등",

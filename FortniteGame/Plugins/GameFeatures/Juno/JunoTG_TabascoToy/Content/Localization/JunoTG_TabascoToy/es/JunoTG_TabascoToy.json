@@ -1,0 +1,16 @@
+{
+  "": {
+    "228CE2B940041E7F7F511891B79D2126": "Barril detonante de dinamita",
+    "909B95C04352195F426935AB4E932A1C": "Barril detonante de dinamita",
+    "9143A3964524C921135DDB9F8FA0ED0D": "Barril detonante de fuegos artificiales",
+    "EF8F49884263659392663EA38D2DE233": "Barril detonante de fuegos artificiales"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "23E3C1B4478B3953004D79AFF3203290": "Úsalo para que las cosas hagan catapum.",
+    "75E4AE864CB47CF5631F3F871912232D": "Úsalo para que las cosas hagan catapum."
+  },
+  "Juno_UpdateItemData": {
+    "931699A44C4247381960CABCDBDFB0CC": "¡Si todo lo demás falla, vuela cosas por los aires!",
+    "C4ABC3034D89ABE70F70389FB93F74FF": "¡Si todo lo demás falla, vuela cosas por los aires!"
+  }
+}
