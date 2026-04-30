@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Permet d'ajuster le volume de l'audio Patchwork avant qu'il ne soit envoyé à un autre appareil Patchwork. Lorsque vous mélangez plusieurs sources audio, le gain peut vous aider à équilibrer le volume de chaque entrée dans le rendu final.",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "Permet d'ajuster le volume de l'audio Patchwork avant qu'il ne soit envoyé à un autre appareil Patchwork. Lorsque vous mélangez plusieurs sources audio, le gain peut vous aider à équilibrer le volume de chaque entrée dans le rendu final.",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "Permet d'ajuster le volume de l'audio Patchwork avant qu'il ne soit envoyé à un autre appareil Patchwork. Lorsque vous mélangez plusieurs sources audio, le gain peut vous aider à équilibrer le volume de chaque entrée dans le rendu final.",
     "43690F0542ED4B273A4C72B2627C2936": "Multiplie le volume de l'audio par la valeur sélectionnée. Si la valeur est réglée sur 0, l'audio est rendu muet. Si la valeur est réglée sur 2, l'audio est deux fois plus fort.",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Effet de gain Patchwork",
-    "8A62F091464769AD6A2A51B1CECCED46": "Effet de gain Patchwork",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Effet de gain Patchwork"
+    "5595D0E241D0236725A1FDAA071F349D": "Effet de gain Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Effet de gain Patchwork",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Effet de gain Patchwork"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Étiquette"

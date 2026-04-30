@@ -144,6 +144,7 @@
     "Unbound": "ยกเลิก"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "เปิดใช้งานโอเวอร์ไดรฟ์โดยการร้องเพลงในช่วงโอเวอร์ไดรฟ์",
     "ProVocalsMicOffsetMs_Description": "ปรับค่าชดเชยเวลา (หน่วยเป็นมิลลิวินาที) ที่ใช้กับอินพุตไมโครโฟนระหว่างการเล่นในโหมด {0} เพิ่มค่านี้ หากคุณรู้สึกว่าการรับเสียงถูกตรวจจับช้า\n\nหากคุณปรับค่า \"ความหน่วงเสียง\" ด้วยตนเอง หรือทำการปรับจูนใหม่ คุณอาจต้องปรับค่านี้อีกครั้ง",
     "AlwaysShowProInstrumentTrackSelection_Name": "แสดงส่วนโปรเสมอ",
     "AlwaysShowProInstrumentTrackSelection_Description": "แสดงส่วนโปรในตัวเลือกส่วนของเทศกาลเสมอ แม้จะไม่พบเครื่องดนตรีก็ตาม",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "ใช้สีแบบโปรสำหรับทุกส่วน",
     "EnableVibrationForHittingNotes_Name": "สั่นเมื่อกดโน้ตตรงจังหวะ",
     "VideoLatency_Name": "ความหน่วงของวิดีโอ",
+    "VoiceActivatedOverdrive_Name": "โอเวอร์ไดรฟ์แบบใช้เสียง",
     "ProVocalsInputDevice_Name": "อุปกรณ์อินพุต {0}",
     "ProVocalsMicOffsetMs_Name": "ออฟเซ็ตไมโครโฟน {0}",
     "ProVocalsMicSensitivity_Name": "ความไวรับเสียงไมโครโฟน {0}",

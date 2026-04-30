@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Sesuaikan volume input audio Patchwork sebelum mengirimnya ke perangkat audio Patchwork lainnya. Saat kamu memiliki paduan dengan beberapa input audio, menerapkan Gain ke sebagian darinya dapat membantu menyeimbangkan setiap volume input dari keseluruhan paduan.",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "Sesuaikan volume input audio Patchwork sebelum mengirimnya ke perangkat audio Patchwork lainnya. Saat kamu memiliki paduan dengan beberapa input audio, menerapkan Gain ke sebagian darinya dapat membantu menyeimbangkan setiap volume input dari keseluruhan paduan.",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "Sesuaikan volume input audio Patchwork sebelum mengirimnya ke perangkat audio Patchwork lainnya. Saat kamu memiliki paduan dengan beberapa input audio, menerapkan Gain ke sebagian darinya dapat membantu menyeimbangkan setiap volume input dari keseluruhan paduan.",
     "43690F0542ED4B273A4C72B2627C2936": "Menggandakan volume input audio dengan nilai yang dipilih. Nilai 0 akan membisukan audio. Nilai 2 akan menggandakan volume audio sebanyak dua kali lipat.",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Efek Gain Patchwork",
-    "8A62F091464769AD6A2A51B1CECCED46": "Efek Gain Patchwork",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Efek Gain Patchwork"
+    "5595D0E241D0236725A1FDAA071F349D": "Efek Gain Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Efek Gain Patchwork",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Efek Gain Patchwork"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"

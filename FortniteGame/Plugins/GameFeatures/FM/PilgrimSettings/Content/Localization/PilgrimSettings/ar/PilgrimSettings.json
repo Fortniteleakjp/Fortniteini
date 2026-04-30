@@ -144,6 +144,7 @@
     "Unbound": "غير مقيد"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "فعِّل التسارع بالغناء خلال التسارع.",
     "ProVocalsMicOffsetMs_Description": "ضبط إزاحة التوقيت (بالمللي ثانية) المطبقة على إدخال الميكروفون خلال أسلوب لعب {0}. زِد هذه القيمة إذا شعرت بأن اللعبة تستقبل صوتك متأخرًا.\n\nإذا غيّرت إعداد \"استجابة الصوت\" يدويًا أو أعدت إجراء عملية الضبط، فقد تحتاج إلى ضبط هذه القيمة مجددًا.",
     "AlwaysShowProInstrumentTrackSelection_Name": "عرض الآلات الاحترافية دائمًا",
     "AlwaysShowProInstrumentTrackSelection_Description": "إظهار الآلات الاحترافية دائمًا في محدد الآلات في Festival، حتى في حالة عدم رصد أي أداة.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "استخدم الألوان الاحترافية لجميع الأجزاء",
     "EnableVibrationForHittingNotes_Name": "الاهتزاز عند عزف النغمات",
     "VideoLatency_Name": "استجابة الفيديو",
+    "VoiceActivatedOverdrive_Name": "التسارع المُفعَّل بالصوت",
     "ProVocalsInputDevice_Name": "{0} جهاز الإدخال",
     "ProVocalsMicOffsetMs_Name": "إزاحة ميكروفون {0}",
     "ProVocalsMicSensitivity_Name": "حساسية الميكروفون {0}",

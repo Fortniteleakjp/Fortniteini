@@ -389,7 +389,6 @@
     "IdleKick": "Вы исключены за длительное бездействие.",
     "SuspendKick": "Вы исключены из-за длительного бездействия.",
     "PlayspaceNoLevelTags": "Ошибка карты",
-    "PostRace_MatchmakingCancelled": "Подбор игроков отменён. Reason={0}",
     "NotEnoughPlayersJoined": "Недостаточное количество игроков.",
     "ReplaceInChain_Title": "Убрать контрольную точку",
     "PostRaceTimeout": "Время ожидания подбора игроков истекло.",

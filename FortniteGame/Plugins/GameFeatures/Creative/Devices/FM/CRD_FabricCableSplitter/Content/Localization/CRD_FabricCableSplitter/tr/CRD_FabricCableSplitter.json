@@ -1,10 +1,10 @@
 {
   "": {
-    "3C8FE52B491EDF35FA687E9869D4CBBE": "Patchwork Kablo Dağıtıcı",
-    "B9C0CD804806F0FFB9ED4FAB1D917C64": "Patchwork Kablo Dağıtıcı",
+    "103669F14CB6BAB68A76F3A8D46B75EB": "Patchwork Kablo Dağıtıcı",
+    "A6A2D10E4122384AB5DE398DFCCA7228": "Patchwork Kablo Dağıtıcı",
     "E2373C114617CEF91075F2A105964500": "Patchwork Kablo Dağıtıcı",
     "4A80C0494024B8CBB4E74F8B08854E02": "Patchwork kablolarını birden fazla çıktı halinde dağıtır.",
-    "F3B9AA9D445F6650FA04C6993BC53E7D": "Patchwork kablolarını birden fazla çıktı halinde dağıtır."
+    "CD761C7C43A234A1BC1E0EB442692F8F": "Patchwork kablolarını birden fazla çıktı halinde dağıtır."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiket"

@@ -389,7 +389,6 @@
     "IdleKick": "静止状態が長すぎたため退場になりました。",
     "SuspendKick": "中断状態が長すぎたため退場になりました。",
     "PlayspaceNoLevelTags": "マップエラー",
-    "PostRace_MatchmakingCancelled": "マッチメイキングがキャンセルされました。Reason={0}",
     "NotEnoughPlayersJoined": "十分な数のプレイヤーが参加しませんでした。",
     "ReplaceInChain_Title": "連鎖するチェックポイントを置き換える",
     "PostRaceTimeout": "マッチメイキングの試行中にタイムアウトが発生しました。",

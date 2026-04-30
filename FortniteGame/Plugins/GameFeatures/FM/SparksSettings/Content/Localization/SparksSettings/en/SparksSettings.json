@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Synchronize My Dance Emotes to Jam Tracks",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "This settings changes what happens to your Dance Emotes while a Jam Track is playing."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Bass",
+    "Drums": "Drums",
+    "Lead": "Lead",
+    "ProVocals": "Mic Vocals",
+    "ProBass": "Pro Bass",
+    "ProDrums": "Pro Drums",
+    "ProDrumsCymbals": "Pro Drums + Cymbals",
+    "ProLead": "Pro Lead",
+    "Vocals": "Tap Vocals"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Adjusts the volume of gameplay music in Festival.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Music - Festival"

@@ -389,7 +389,6 @@
     "IdleKick": "Uzun süre boşta beklediğin için atıldın.",
     "SuspendKick": "Uzun süre boşta beklediğin için atıldın.",
     "PlayspaceNoLevelTags": "Harita Hatası",
-    "PostRace_MatchmakingCancelled": "Eşleştirme Başarısız, Reason={0}",
     "NotEnoughPlayersJoined": "Yeterli sayıda oyuncu katılmadı.",
     "ReplaceInChain_Title": "Zincirde Kontrol Noktasını Değiştir",
     "PostRaceTimeout": "Eşleştirme yapılırken zaman aşımına uğradı.",

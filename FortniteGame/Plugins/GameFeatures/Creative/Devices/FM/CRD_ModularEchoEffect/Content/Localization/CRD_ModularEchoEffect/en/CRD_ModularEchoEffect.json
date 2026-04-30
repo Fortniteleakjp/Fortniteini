@@ -9,11 +9,11 @@
     "F54118A746850FE875523EB3F2506F13": "1/8 Note",
     "7C92B03C436FE7D5D56CD1970B4ABDBC": "2 Bars",
     "A112EC524CE4ECA57F7BBBB17323D0BA": "4 Bars",
+    "29B4BF6A4694E4F84952CCB3354B215F": "Apply an echo effect to input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker.",
     "61B45D3D48BA63DE75B0B5A3EE573FD5": "Apply an echo effect to input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker.",
-    "8AA60CAB4DE8E925AFC76E927B197D34": "Apply an echo effect to input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker.",
-    "799D6A2A42305ABB4653CBAD0EC70E2E": "Patchwork Audio Effect",
+    "EB5BD0194043C7A6FBEC869C6395A17F": "Patchwork Audio Effect",
     "09F01F834F96541459C3DDA6AE3B0519": "Patchwork Echo Effect",
-    "D7EECD8A4AA0FFE46347D9B7E83F7A1B": "Patchwork Echo Effect"
+    "A84913B04BE289E1708EE0A13BAC03B2": "Patchwork Echo Effect"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"

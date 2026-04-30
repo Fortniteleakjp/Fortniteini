@@ -1,13 +1,13 @@
 {
   "": {
-    "2DE2A546402813A0085ADF915DE434CF": "Aplica um efeito de distorção na entrada vinda de um gerador de áudio Patchwork antes de enviá-lo para uma saída, como o Alto-falante do Patchwork.",
+    "5F8C356446F9F920426DE0A6DD944EE6": "Aplica um efeito de distorção na entrada vinda de um gerador de áudio Patchwork antes de enviá-lo para uma saída, como o Alto-falante do Patchwork.",
     "81EBF7AD4CDF702CE639C5899E3BEA04": "Aplica um efeito de distorção na entrada vinda de um gerador de áudio Patchwork antes de enviá-lo para uma saída, como o Alto-falante do Patchwork.",
     "6C085DBF452D9A356B2B1E95D175C38F": "Assimétrico",
     "B618F0494D08EA5B2DA458AF5229A11B": "Clipe",
     "6F04BAF14664CC20B3C21CA60B94C544": "Distorção",
-    "00A95A4340A3D67F11C732A068F08D80": "Efeito Sonoro do Patchwork",
+    "E4AC38CB46A86DD061061D9E1FEAF53B": "Efeito Sonoro do Patchwork",
+    "C61BF94840FEC2D5E0EE6D8C861423DA": "Efeito de Distorção do Patchwork",
     "CDB3250C489DD6736701DFA0092CF54E": "Efeito de Distorção do Patchwork",
-    "D2EC6BE644DECAEB929A5DA670A62533": "Efeito de Distorção do Patchwork",
     "18D3748945F8C88CD3776EB4573508DE": "Aquecimento"
   },
   "Fort.Actor.Building.Defaults": {

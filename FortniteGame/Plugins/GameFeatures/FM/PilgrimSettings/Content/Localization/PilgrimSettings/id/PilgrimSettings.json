@@ -144,6 +144,7 @@
     "Unbound": "Tidak Tertaut"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Aktifkan Overdrive dengan bernyanyi selama frasa Overdrive.",
     "ProVocalsMicOffsetMs_Description": "Menyesuaikan offset waktu (dalam milidetik) yang diterapkan pada input mikrofon selama gameplay {0}. Tingkatkan nilai ini jika kamu merasa input suara kamu terdeteksi terlambat.\n\nJika kamu mengubah pengaturan \"Latensi Audio\" secara manual, atau menjalankan ulang proses Penyetelan, kamu mungkin perlu menyesuaikan nilai ini lagi.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Selalu Tampilkan Bagian Pro",
     "AlwaysShowProInstrumentTrackSelection_Description": "Selalu menampilkan Pro di Pilihan Posisi, meskipun tidak ada alat musik yang terdeteksi.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Gunakan Warna Pro untuk Semua Bagian",
     "EnableVibrationForHittingNotes_Name": "Getaran Saat Mengenai Not",
     "VideoLatency_Name": "Latensi Video",
+    "VoiceActivatedOverdrive_Name": "Overdrive yang Diaktifkan dengan Suara",
     "ProVocalsInputDevice_Name": "Perangkat Input {0}",
     "ProVocalsMicOffsetMs_Name": "Offset Mikrofon {0}",
     "ProVocalsMicSensitivity_Name": "Sensitivitas Mikrofon {0}",

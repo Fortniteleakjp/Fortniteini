@@ -1,21 +1,21 @@
 {
   "": {
-    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
-    "2526E3264410B707308E20B8534279DB": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
-    "31A9F48344282DCF8F65FE8B306F22C8": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
-    "A0E91B49404BEF991ACE78A035FB9FA5": "Completa l'incarico <emphA>Perfetto!</> di <emphA>Jones vendicativo</> per sbloccare la ricetta di creazione. ",
-    "0BF1727A4D90DCAEE14B258CC4212DE3": "Pistole al plasma epiche. Disintegra la struttura atomica dei nemici facendoli esplodere!",
-    "BAAFC86C4534ACB06CC80994621448C0": "Pistole al plasma leggendarie. Disintegra la struttura atomica dei nemici facendoli esplodere!",
-    "44C70BA449A264B9703BCEABB9D340A3": "Ambarabà ciccì BUM BUM!",
-    "422220DB4E40F60B63AEEFAE27DEA53E": "Fucile a distanza",
-    "599752D6488B6EC23EC0C68BED53ED65": "Fucile a distanza",
-    "62257ECA477347F53A1A868296689A18": "Fucile a distanza",
-    "EA747D1E453DCB0F43A86580E4B5C092": "Fucile a distanza",
-    "BF1756B943F369BD9986D993E258750C": "Pistole al plasma rare. Disintegra la struttura atomica dei nemici facendoli esplodere!",
-    "ADCCA19C4060AFD909BE87A5893C2CE0": "Pistole al plasma non comuni. Disintegra la struttura atomica dei nemici facendoli esplodere!",
-    "46AA227040F5CC18B31C5CB3B87F2B93": "Brrrrr ZIP-BUM!",
-    "0CD3C87C459B141BAA857593CCFE8EF6": "BRRRR-ZAP!",
-    "EFE2F67D4FE0515AF526C1898CC016BD": "Zzzzz-BAM!"
+    "482740404D727DFF6F2450A9D611275A": "Pistole al plasma epiche. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "9548B2FC474F44077873C988C55B445A": "Pistole al plasma leggendarie. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "E989D9E044378BE0931550B05C3A7982": "Ambarabà ciccì BUM BUM!",
+    "0A42DA4746BC93BCD62E5D954E7A18F5": "Fucile a distanza",
+    "27C931334904DA0381400480778C1D82": "Fucile a distanza",
+    "A3185F3147788C2BBCD309A1CBE3F096": "Fucile a distanza",
+    "E6D9FE0447D60E8ECAEEA199F69AE0DE": "Fucile a distanza",
+    "93F9046E4B5146546E8238A0C910BB10": "Pistole al plasma rare. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "4C4897A54154F4D1A49B62A0F9D4AEB1": "Pistole al plasma non comuni. Disintegra la struttura atomica dei nemici facendoli esplodere!",
+    "869665F249C391F1BD2ADB96DA1B6C1F": "Potenzia le <EmphA>pistole al plasma epiche</> con il potere dei <EmphA>cristalli di fenditura</>.",
+    "A0528C1141463E049E9B6795172DAFFF": "Potenzia le <EmphA>pistole al plasma epiche</> con il potere dei <EmphA>cristalli di fenditura</>.",
+    "E55D4C714E9800673467B8B2C8778172": "Potenzia le <EmphA>pistole al plasma epiche</> con il potere dei <EmphA>cristalli di fenditura</>.",
+    "F6BD4DD7463362A183DF7A8BACA75E8D": "Potenzia le <EmphA>pistole al plasma epiche</> con il potere dei <EmphA>cristalli di fenditura</>.",
+    "31F493F843F10834092590888EC16112": "Brrrrr ZIP-BUM!",
+    "88B638C54A471114856437802B7B27F7": "BRRRR-ZAP!",
+    "3B9D9842477C9FFD9BA8FE9B3D28E623": "Zzzzz-BAM!"
   },
   "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
     "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "Pistole al plasma di bambù",
@@ -33,9 +33,9 @@
     "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "Pistole al plasma d'acciaio"
   },
   "Juno_UpdateItemData": {
-    "154D52A747D30B2EAFA712A289645F6D": "Pistole al plasma",
-    "61FD372A4CB97B18D20D6FA5761F7026": "Pistole al plasma",
-    "7B04D8D34F9407730A1CDB9CE3F62067": "Pistole al plasma",
-    "E4EF40D34E94A918540D478454F8A407": "Pistole al plasma"
+    "479B3611472C483255DEC7A63E3C4658": "Pistole al plasma",
+    "9CFB75D84A1E697824D5F6BA11F37F2B": "Pistole al plasma",
+    "DDF6F2B54712A995487A1FB66B41919C": "Pistole al plasma",
+    "F041E0854ADE30072E8754A331E71F9F": "Pistole al plasma"
   }
 }

@@ -144,6 +144,7 @@
     "Unbound": "Sin vincular"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Activa la sobrecarga al cantar durante un verso de sobrecarga.",
     "ProVocalsMicOffsetMs_Description": "Ajusta el desfase de tiempo (en milisegundos) que se aplica a la entrada del micrófono en el modo de {0}. Aumenta este valor si notas que tu voz llega con retraso.\n\nSi cambias manualmente la configuración de \"Latencia de sonido\" o vuelves a ejecutar el proceso de calibración, es posible que tengas que ajustar este valor de nuevo.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Mostrar siempre partes profesionales",
     "AlwaysShowProInstrumentTrackSelection_Description": "Mostrar siempre las partes profesionales en el selector de partes de Festival, incluso cuando no se detecten instrumentos.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Usar colores de instrumento profesional para todo",
     "EnableVibrationForHittingNotes_Name": "Vibración al acertar notas",
     "VideoLatency_Name": "Latencia de vídeo",
+    "VoiceActivatedOverdrive_Name": "Sobrecarga activada por voz",
     "ProVocalsInputDevice_Name": "Dispositivo de entrada {0}",
     "ProVocalsMicOffsetMs_Name": "Compensación del micro: {0}",
     "ProVocalsMicSensitivity_Name": "Sensibilidad del micro: {0}",

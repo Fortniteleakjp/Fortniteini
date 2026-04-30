@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Meine Tanz-Emotes mit Jam-Songs synchronisieren",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Diese Einstellung bestimmt, was mit deinen Tanz-Emotes passiert, während ein Jam-Song abgespielt wird."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Bass",
+    "Drums": "Schlagzeug",
+    "Lead": "Hauptinstrument",
+    "ProVocals": "Mikrofon-Gesang",
+    "ProBass": "Profi-Bass",
+    "ProDrums": "Profi-Schlagzeug",
+    "ProDrumsCymbals": "Profi-Schlagzeug + Becken",
+    "ProLead": "Profi-Hauptinstrument",
+    "Vocals": "Tipp-Gesang"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Passt die Lautstärke der Gameplay-Musik in Festival an.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Musik – Festival"

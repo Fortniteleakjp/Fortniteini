@@ -144,6 +144,7 @@
     "Unbound": "Atanmamış"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Coşku Modu ifadesi sırasında şarkı söyleyerek Coşku Modu'nu etkinleştir.",
     "ProVocalsMicOffsetMs_Description": "{0} oynanışı sırasında mikrofondan gelen girdiye uygulanan zaman kaydırmasını (milisaniye cinsinden) ayarlar. Ses girdinin geç algılandığını hissediyorsan bu değeri arttır.\n\n\"Ses Gecikmesi\" ayarını manüel olarak değiştirirsen veya ayarlama sürecini yeniden çalıştırırsan bu değeri tekrar ayarlaman gerekebilir.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Pro Şarkı Kısımlarını Her Zaman Görüntüle",
     "AlwaysShowProInstrumentTrackSelection_Description": "Festival'in Şarkı Kısmı Seçicisi'nde enstrüman bulunmadığında bile her zaman Pro şarkı kısımlarını görüntüler.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Tüm Enstrümanlar İçin Pro Renkleri Kullan",
     "EnableVibrationForHittingNotes_Name": "Notalara Basmak İçin Titreşim",
     "VideoLatency_Name": "Video Gecikmesi",
+    "VoiceActivatedOverdrive_Name": "Sesle Etkinleştirilen Coşku Modu",
     "ProVocalsInputDevice_Name": "{0} Giriş Cihazı",
     "ProVocalsMicOffsetMs_Name": "{0} Mikrofon Kaydırması",
     "ProVocalsMicSensitivity_Name": "{0} Mikrofon Hassasiyeti",

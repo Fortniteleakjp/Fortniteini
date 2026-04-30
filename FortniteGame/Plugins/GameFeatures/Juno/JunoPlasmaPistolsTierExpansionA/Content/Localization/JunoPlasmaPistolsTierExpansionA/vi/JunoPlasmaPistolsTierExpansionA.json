@@ -1,21 +1,21 @@
 {
   "": {
-    "00F5C70F47DF251FB4DD6E87D3FE3FC8": "Hoàn thành nhiệm vụ <emphA>Chuẩn Không Cần Chỉnh</> của <emphA>Jones Báo Thù</> để mở khóa công thức chế tạo. ",
-    "2526E3264410B707308E20B8534279DB": "Hoàn thành nhiệm vụ <emphA>Chuẩn Không Cần Chỉnh</> của <emphA>Jones Báo Thù</> để mở khóa công thức chế tạo. ",
-    "31A9F48344282DCF8F65FE8B306F22C8": "Hoàn thành nhiệm vụ <emphA>Chuẩn Không Cần Chỉnh</> của <emphA>Jones Báo Thù</> để mở khóa công thức chế tạo. ",
-    "A0E91B49404BEF991ACE78A035FB9FA5": "Hoàn thành nhiệm vụ <emphA>Chuẩn Không Cần Chỉnh</> của <emphA>Jones Báo Thù</> để mở khóa công thức chế tạo. ",
-    "0BF1727A4D90DCAEE14B258CC4212DE3": "Cặp Súng Lục Plasma Sử Thi. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
-    "BAAFC86C4534ACB06CC80994621448C0": "Cặp Súng Lục Plasma Huyền Thoại. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
-    "44C70BA449A264B9703BCEABB9D340A3": "Peter Piper nhặt một bao Súng Lục Plasma.",
-    "422220DB4E40F60B63AEEFAE27DEA53E": "Súng Tầm Xa",
-    "599752D6488B6EC23EC0C68BED53ED65": "Súng Tầm Xa",
-    "62257ECA477347F53A1A868296689A18": "Súng Tầm Xa",
-    "EA747D1E453DCB0F43A86580E4B5C092": "Súng Tầm Xa",
-    "BF1756B943F369BD9986D993E258750C": "Cặp Súng Lục Plasma Hiếm. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
-    "ADCCA19C4060AFD909BE87A5893C2CE0": "Cặp Súng Lục Plasma Lạ. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
-    "46AA227040F5CC18B31C5CB3B87F2B93": "Vrrrrr ZIP-Cà Bùm!",
-    "0CD3C87C459B141BAA857593CCFE8EF6": "WRRRR-Bùm!",
-    "EFE2F67D4FE0515AF526C1898CC016BD": "Zzzzz-Bằng!"
+    "482740404D727DFF6F2450A9D611275A": "Cặp Súng Lục Plasma Sử Thi. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
+    "9548B2FC474F44077873C988C55B445A": "Cặp Súng Lục Plasma Huyền Thoại. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
+    "E989D9E044378BE0931550B05C3A7982": "Peter Piper nhặt một bao Súng Lục Plasma.",
+    "0A42DA4746BC93BCD62E5D954E7A18F5": "Súng Tầm Xa",
+    "27C931334904DA0381400480778C1D82": "Súng Tầm Xa",
+    "A3185F3147788C2BBCD309A1CBE3F096": "Súng Tầm Xa",
+    "E6D9FE0447D60E8ECAEEA199F69AE0DE": "Súng Tầm Xa",
+    "93F9046E4B5146546E8238A0C910BB10": "Cặp Súng Lục Plasma Hiếm. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
+    "4C4897A54154F4D1A49B62A0F9D4AEB1": "Cặp Súng Lục Plasma Lạ. Có thể phá vỡ cấu trúc nguyên tử của kẻ địch bằng cách cho chúng nổ bay!",
+    "869665F249C391F1BD2ADB96DA1B6C1F": "Nâng cấp <EmphA>Súng Lục Plasma Sử Thi</> với sức mạnh của <EmphA>Pha Lê Khe Nứt</>.",
+    "A0528C1141463E049E9B6795172DAFFF": "Nâng cấp <EmphA>Súng Lục Plasma Sử Thi</> với sức mạnh của <EmphA>Pha Lê Khe Nứt</>.",
+    "E55D4C714E9800673467B8B2C8778172": "Nâng cấp <EmphA>Súng Lục Plasma Sử Thi</> với sức mạnh của <EmphA>Pha Lê Khe Nứt</>.",
+    "F6BD4DD7463362A183DF7A8BACA75E8D": "Nâng cấp <EmphA>Súng Lục Plasma Sử Thi</> với sức mạnh của <EmphA>Pha Lê Khe Nứt</>.",
+    "31F493F843F10834092590888EC16112": "Vrrrrr ZIP-Cà Bùm!",
+    "88B638C54A471114856437802B7B27F7": "WRRRR-Bùm!",
+    "3B9D9842477C9FFD9BA8FE9B3D28E623": "Zzzzz-Bằng!"
   },
   "Juno_BoostedItemNames_PlasmaPistolsTierExpansionA": {
     "Plasma_Pistols_T5_T5_Honed_Bamboo_DisplayName": "Súng Lục Plasma Tre",
@@ -33,9 +33,9 @@
     "Plasma_Pistols_T8_T8_Honed_Steel_DisplayName": "Cặp Súng Lục Plasma Thép"
   },
   "Juno_UpdateItemData": {
-    "154D52A747D30B2EAFA712A289645F6D": "Cặp Súng Lục Plasma",
-    "61FD372A4CB97B18D20D6FA5761F7026": "Cặp Súng Lục Plasma",
-    "7B04D8D34F9407730A1CDB9CE3F62067": "Cặp Súng Lục Plasma",
-    "E4EF40D34E94A918540D478454F8A407": "Cặp Súng Lục Plasma"
+    "479B3611472C483255DEC7A63E3C4658": "Cặp Súng Lục Plasma",
+    "9CFB75D84A1E697824D5F6BA11F37F2B": "Cặp Súng Lục Plasma",
+    "DDF6F2B54712A995487A1FB66B41919C": "Cặp Súng Lục Plasma",
+    "F041E0854ADE30072E8754A331E71F9F": "Cặp Súng Lục Plasma"
   }
 }

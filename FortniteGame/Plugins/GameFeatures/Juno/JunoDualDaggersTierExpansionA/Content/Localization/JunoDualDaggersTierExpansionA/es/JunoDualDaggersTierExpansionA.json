@@ -1,13 +1,13 @@
 {
   "": {
-    "23EB52264CC9FAA4A54FED8840F95FBA": "Completa la misión <emphA>¡Lo has clavado!</> de <emphA>Jones vengativo</> para desbloquear la receta de fabricación. ",
-    "504B7AD24749F2016C2C75A22F5DAE71": "Completa la misión <emphA>¡Lo has clavado!</> de <emphA>Jones vengativo</> para desbloquear la receta de fabricación. ",
-    "96B092324CE0D9CFC7E8DF8046DF7694": "Completa la misión <emphA>¡Lo has clavado!</> de <emphA>Jones vengativo</> para desbloquear la receta de fabricación. ",
-    "CD83E785455D54AE5321CBBD10A8F9C2": "Completa la misión <emphA>¡Lo has clavado!</> de <emphA>Jones vengativo</> para desbloquear la receta de fabricación. ",
-    "E04C12AB4AA93099FEE9CC9BA7AB46C9": "Doble diversión.",
-    "00A05D24493018D8ABB05A8C669D9C47": "Márcate un doblete.",
-    "251EE9AD461FAC50BD50F28F2D2FE948": "Que no te dobleguen.",
-    "9730B9624AA9DCA6B9E9CABF00A1A63E": "La dualidad de la vida."
+    "91CC6F5E4F71BD35A02F3E9D6D75B0A5": "Doble diversión.",
+    "F6BB7307468814F9577929A531990BF3": "Márcate un doblete.",
+    "556F8FDF4549639AC35B13AA13C6CF77": "Que no te dobleguen.",
+    "6B3B568244D8AF8345EB90BBD0189EFC": "La dualidad de la vida.",
+    "3D5CBA134C79FE364B1883A7E4686D35": "Mejora <EmphA>dagas dobles épicas</> con el poder de los <EmphA>cristales de grieta</>.",
+    "4C560BF94588E94B4CCD319246FA528D": "Mejora <EmphA>dagas dobles épicas</> con el poder de los <EmphA>cristales de grieta</>.",
+    "C5E59E1E48AA094452D50B9448FCED9F": "Mejora <EmphA>dagas dobles épicas</> con el poder de los <EmphA>cristales de grieta</>.",
+    "CBEB579241568DA8E6AD07802D16F7F9": "Mejora <EmphA>dagas dobles épicas</> con el poder de los <EmphA>cristales de grieta</>."
   },
   "Juno_BoostedItemNames_DualDaggersTierExpansionA": {
     "Dual_Daggers_T5_T5_Honed_Bamboo_DisplayName": "Dagas dobles de bambú",
@@ -25,13 +25,13 @@
     "Dual_Daggers_T8_T8_Honed_Steel_DisplayName": "Dagas dobles de acero"
   },
   "Juno_UpdateItemData": {
-    "45AE3E4A4C085DB4599940B5FBC003E0": "Dagas dobles",
-    "779C67D0434E0397A946168BF909ECF7": "Dagas dobles",
-    "AA5D678249A43D54B1E94CB2F825DC6E": "Dagas dobles",
-    "D7B32EE24FAA36A48748CABC6CC5EEF6": "Dagas dobles",
-    "B39267E14B538A83B97E84B438102B96": "Dagas dobles épicas. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro.",
-    "192E8D314AAA6D28A5C40FBD1802FE7A": "Unas dagas dobles legendarias. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro.",
-    "299CEFC842466335350396904C9891AC": "Dagas dobles raras. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro.",
-    "5BE47184402C96A5226C7991B4F78A38": "Dagas dobles poco comunes. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro."
+    "2F78CDAD43244FA2160ACFAE3E5A9978": "Dagas dobles",
+    "386BF24448ED4E548909D6A6293C75AD": "Dagas dobles",
+    "89B7AEC441CEBF70C42E2485C456E920": "Dagas dobles",
+    "E7023B6F48F252BED0AAD98F8EDB7A55": "Dagas dobles",
+    "A6FEB11F4DCED11C68EA10BBE8F03D24": "Dagas dobles épicas. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro.",
+    "289776AA400085BDD05DBB990524BA01": "Unas dagas dobles legendarias. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro.",
+    "5126BA6D4746043CF7EFC7A6CB9C8DA4": "Dagas dobles raras. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro.",
+    "1144CA504119C779D8B0958ECCB56847": "Dagas dobles poco comunes. Permiten atacar rápido y cargar un ataque que te ayuda a lanzarte de lleno hacia el peligro."
   }
 }

@@ -144,6 +144,7 @@
     "Unbound": "Non attribué"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Activez Surcharge en chantant pendant une phrase de Surcharge.",
     "ProVocalsMicOffsetMs_Description": "Ajuste le décalage temporel (en millisecondes) appliqué à l'entrée micro pendant : {0}. Augmentez cette valeur si vous avez l'impression que votre voix est détectée en retard.\n\nSi vous modifiez manuellement le paramètre \"Latence audio\" ou que vous relancez le processus de réglage, vous devrez peut-être ajuster à nouveau cette valeur.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Toujours afficher les instruments pro",
     "AlwaysShowProInstrumentTrackSelection_Description": "Les instruments pro sont proposés lors de la sélection d'instrument de Fortnite Festival même lorsqu'aucune manette instrument n'est détectée.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Utiliser les couleurs pro sur tous les instruments",
     "EnableVibrationForHittingNotes_Name": "Vibrations en jouant une note",
     "VideoLatency_Name": "Latence vidéo",
+    "VoiceActivatedOverdrive_Name": "Surcharge activée par la voix",
     "ProVocalsInputDevice_Name": "Dispositif d'entrée ({0})",
     "ProVocalsMicOffsetMs_Name": "Décalage micro ({0})",
     "ProVocalsMicSensitivity_Name": "Sensibilité du micro ({0})",

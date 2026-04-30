@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Sincronizar meus Gestos de Dança com Músicas",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Esta configuração altera o que acontece com seus Gestos de Dança quando uma Música estiver tocando."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Baixo",
+    "Drums": "Bateria",
+    "Lead": "Base",
+    "ProVocals": "Vocal (Voz)",
+    "ProBass": "Baixo (Pro)",
+    "ProDrums": "Bateria (Pro)",
+    "ProDrumsCymbals": "Bateria (Pro) + Pratos",
+    "ProLead": "Base (Pro)",
+    "Vocals": "Vocal (Botões)"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Ajusta o volume da música no Festival.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Música - Festival"

@@ -9,11 +9,11 @@
     "F54118A746850FE875523EB3F2506F13": "1/8 音符",
     "7C92B03C436FE7D5D56CD1970B4ABDBC": "2 小节",
     "A112EC524CE4ECA57F7BBBB17323D0BA": "4 小节",
+    "29B4BF6A4694E4F84952CCB3354B215F": "发送Patchwork音频生成器的输入信号到包括Patchwork扬声器在内的输出前，对其采用回声效果。",
     "61B45D3D48BA63DE75B0B5A3EE573FD5": "发送 Patchwork 音频生成器输出到包括 Patchwork 扬声器在内的输出前，对其采用回声效果。",
-    "8AA60CAB4DE8E925AFC76E927B197D34": "发送 Patchwork 音频生成器输出到包括 Patchwork 扬声器在内的输出前，对其采用回声效果。",
-    "799D6A2A42305ABB4653CBAD0EC70E2E": "Patchwork 音效",
+    "EB5BD0194043C7A6FBEC869C6395A17F": "Patchwork音效",
     "09F01F834F96541459C3DDA6AE3B0519": "Patchwork 回声效果",
-    "D7EECD8A4AA0FFE46347D9B7E83F7A1B": "Patchwork 回声效果"
+    "A84913B04BE289E1708EE0A13BAC03B2": "Patchwork回声效果"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "标签"

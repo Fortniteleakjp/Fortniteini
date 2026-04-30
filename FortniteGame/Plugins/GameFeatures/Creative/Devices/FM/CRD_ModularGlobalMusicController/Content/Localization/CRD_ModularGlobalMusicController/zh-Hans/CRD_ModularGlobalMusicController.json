@@ -1,12 +1,12 @@
 {
   "": {
     "DDEE012947E31A3917662580FB922519": "0",
-    "1744D258490B03D8038DFCB3E5169D04": "为所有 Patchwork 设备定义节奏和音调等共享设置。每个岛屿只能放置一个音乐管理器。",
+    "DA762C1E498FAEEED9C89A91A8215157": "为所有Patchwork设备定义节奏和音调等共享设置。每个岛屿只能放置一个音乐管理器。",
     "FBFF03364804673303F1AA8E8E8B092B": "为所有 Patchwork 设备定义节奏和音调等共享设置。每个岛屿只能放置一个音乐管理器。",
     "CFDDBA7D4135D72047B95C8CF99EF755": "示例设备",
-    "A36FF126492541D5CF9921A673A90B63": "Patchwork 全局",
+    "416DF86E40AAAC5BE2BDABAD145FEE1E": "Patchwork全局",
     "9C0417B64497D18FCBCF56910FEE6B94": "Patchwork 音乐管理器",
-    "A1327E1641EF0C9D2FFE9EB7E6270B24": "Patchwork 音乐管理器",
+    "C63C29394EB031FBFA48D1AB11F213AD": "Patchwork音乐管理器",
     "708C8B6C44CB965ECF3C80A308C0A427": "时间签名：",
     "6CFD94D04ADAFBC4B058B48B9E8C0223": "禁用时，回放从 0 节拍开始。启用时，其他设备仍可作为互动对象并被变更，但功能将受限。"
   },

@@ -1,11 +1,11 @@
 {
   "": {
     "E3622AE347AF63C79AFC06AF86708F9F": "全部音符",
-    "DCAFBBAF45B332C75F71FF9257B2207B": "Patchwork 音符效果",
+    "91C766254F4133B733BE3EACB71BE854": "Patchwork 音符效果",
+    "71D0AB09490991DD37BE37B8E099A5FA": "Patchwork 音符觸發器",
     "97D8F24F4D8EB51F9AA47DA911BDCA6E": "Patchwork 音符觸發器",
-    "EDB539014CB92AE5AA90BDAF12AFE230": "Patchwork 音符觸發器",
+    "784E609046E9269985767D98BDD683C1": "使用此裝置根據來自 Patchwork 音符序列器或其他 Patchwork 音符生成器的特定音符輸入，觸發事件並傳送給 Fortnite 中的其他裝置。 ",
     "BB70B1C94DC28944E84066A4CB3B9835": "使用此裝置根據來自 Patchwork 音符序列器或其他 Patchwork 音符生成器的特定音符輸入，觸發事件並傳送給 Fortnite 中的其他裝置。 ",
-    "EA31498D475A95DD44BA52B6A67DD4A5": "使用此裝置根據來自 Patchwork 音符序列器或其他 Patchwork 音符生成器的特定音符輸入，觸發事件並傳送給 Fortnite 中的其他裝置。 ",
     "886C491245B76C83F7951081B8FFA387": "接收音符時傳輸",
     "497A708F400C8E9A24E40DA392685B75": "停用時不傳送任何事件。但音符資料仍會照原樣傳送，不會被修改。 ",
     "1C62674E48F09FC6CBC1D59CBD84C6F1": "當此裝置接收到選定的 MIDI 音符時，選定頻道會傳送訊號。"

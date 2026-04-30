@@ -9,11 +9,11 @@
     "F54118A746850FE875523EB3F2506F13": "1/8 Nốt",
     "7C92B03C436FE7D5D56CD1970B4ABDBC": "2 Thanh Nhịp",
     "A112EC524CE4ECA57F7BBBB17323D0BA": "4 Thanh Nhịp",
+    "29B4BF6A4694E4F84952CCB3354B215F": "Áp dụng một hiệu ứng âm vang cho tín hiệu đầu vào từ trình tạo âm thanh Ghép Nối trước khi gửi âm thanh này tới một thiết bị đầu ra như Loa Ghép Nối.",
     "61B45D3D48BA63DE75B0B5A3EE573FD5": "Áp dụng một hiệu ứng âm vang cho tín hiệu đầu vào từ trình tạo âm thanh Ghép Nối trước khi gửi âm thanh này tới một đầu ra như Loa Ghép Nối.",
-    "8AA60CAB4DE8E925AFC76E927B197D34": "Áp dụng một hiệu ứng âm vang cho tín hiệu đầu vào từ trình tạo âm thanh Ghép Nối trước khi gửi âm thanh này tới một đầu ra như Loa Ghép Nối.",
-    "799D6A2A42305ABB4653CBAD0EC70E2E": "Hiệu Ứng Âm Thanh Ghép Nối",
+    "EB5BD0194043C7A6FBEC869C6395A17F": "Hiệu Ứng Âm Thanh Ghép Nối",
     "09F01F834F96541459C3DDA6AE3B0519": "Hiệu Ứng Âm Vang Ghép Nối",
-    "D7EECD8A4AA0FFE46347D9B7E83F7A1B": "Hiệu Ứng Âm Vang Ghép Nối"
+    "A84913B04BE289E1708EE0A13BAC03B2": "Hiệu Ứng Âm Vang Ghép Nối"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nhãn"

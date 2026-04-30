@@ -13,8 +13,8 @@
     "59EFAB3745356E62F57E5CB32A568812": "清除",
     "3447D21A488F2B6DA99205968176C8A2": "將目前網格內容複製到下一個可用的空白分頁。若無空白分頁可用，此鍵將被停用。",
     "C19DCFCA41D75A35AB252295753CE2F5": "複製分頁",
-    "2DB8013C4C77B8517139FAB6EBC6B42A": "Patchwork 音符生成器",
-    "44BF56A34667FCB28163A495ECC11C3B": "Patchwork 音符序列器",
+    "2A88062748A2B928FB74A2AAE2D578B5": "Patchwork 音符生成器",
+    "01D67D28406F75B2B12BAC8AB68B7EF7": "Patchwork 音符序列器",
     "D92705A64B48859A71057A8F7FEC4C74": "Patchwork 音符序列器",
     "70580ABA43EB40BB97B7039B9C0CC58C": "在目前分頁隨機放置音符。",
     "0203DE694A6A13E55D81E78721702CD2": "在目前分頁隨機放置音符。這樣會替換分頁上的所有網格內容。",
@@ -22,7 +22,7 @@
     "CB13F7F542F6940519D20C9B178AB6D3": "隨機",
     "E0369FA346F82B7573053E8BC80CE960": "清除目前分頁網格上的所有音符。",
     "1D7B470146CC63B3138A299E59C3945A": "設定可輸出至 Patchwork 樂器演奏器、歐米茄合成器或其他 Patchwork 裝置的旋律模式。這個裝置通常是一系列 Patchwork 裝置中的起始。",
-    "49E7BB764AB4B33CA7B2A9BFABFF4A96": "設定可輸出至 Patchwork 樂器演奏器、歐米茄合成器或其他 Patchwork 裝置的旋律模式。這個裝置通常是一系列 Patchwork 裝置中的起始。"
+    "C328A9F244F2F75634623694F8896D03": "設定可輸出至 Patchwork 樂器演奏器、歐米茄合成器或其他 Patchwork 裝置的旋律模式。這個裝置通常是一系列 Patchwork 裝置中的起始。"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "標籤"

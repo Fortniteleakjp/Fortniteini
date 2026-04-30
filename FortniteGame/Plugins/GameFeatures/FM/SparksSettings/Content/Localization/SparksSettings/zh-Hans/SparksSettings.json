@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "将我的舞蹈姿势同步至即兴曲目",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "该设置会更改播放即兴曲目时，你的舞蹈姿势。"
   },
+  "ST_InstrumentNames": {
+    "Bass": "贝斯",
+    "Drums": "架子鼓",
+    "Lead": "主音吉他",
+    "ProVocals": "麦克风主唱",
+    "ProBass": "专业贝斯",
+    "ProDrums": "专业架子鼓",
+    "ProDrumsCymbals": "专业架子鼓+镲片",
+    "ProLead": "专业主音吉他",
+    "Vocals": "触屏主唱"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "调整音乐节中的游戏音乐音量。",
     "6BD3D4EC474B9CAAAA42E193124261C7": "音乐 - 音乐节"

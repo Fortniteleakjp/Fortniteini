@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Passt die Lautstärke des Patchwork-Audioeingangs an, bevor es an ein anderes Patchwork-Audiogerät gesendet wird. Wenn du einen Mix mit mehreren Audioeingängen hast, kann mit Gain bei einigen von ihnen die Lautstärke jedes Eingangs geändert und an den Mix insgesamt angepasst werden.",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "Passt die Lautstärke des Patchwork-Audioeingangs an, bevor es an ein anderes Patchwork-Audiogerät gesendet wird. Wenn du einen Mix mit mehreren Audioeingängen hast, kann mit Gain bei einigen von ihnen die Lautstärke jedes Eingangs geändert und an den Mix insgesamt angepasst werden.",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "Passt die Lautstärke des Patchwork-Audioeingangs an, bevor es an ein anderes Patchwork-Audiogerät gesendet wird. Wenn du einen Mix mit mehreren Audioeingängen hast, kann mit Gain bei einigen von ihnen die Lautstärke jedes Eingangs geändert und an den Mix insgesamt angepasst werden.",
     "43690F0542ED4B273A4C72B2627C2936": "Multipliziere die Lautstärke des Audioeingangs mit dem gewählten Wert. Ein Wert von 0 stellt das Audio stumm. Ein Wert von 2 verdoppelt die Lautstärke des Audios.",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork-Gain-Effekt",
-    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork-Gain-Effekt",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork-Gain-Effekt"
+    "5595D0E241D0236725A1FDAA071F349D": "Patchwork-Gain-Effekt",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork-Gain-Effekt",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Patchwork-Gain-Effekt"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Titel"

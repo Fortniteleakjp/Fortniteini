@@ -1,30 +1,30 @@
 {
   "": {
-    "168A9930481DCA6CFE6E8286B391F4EC": "Ukończ zadanie <emphA>Powrót zawziętości</> <emphA>Jonesa Zawziętego,</> aby odblokować schemat tworzenia.",
     "3BCBC819415A467EF647E993AD44E80D": "Ukończ zadanie <emphA>Powrót zawziętości</> <emphA>Jonesa Zawziętego,</> aby odblokować schemat tworzenia.",
-    "45224ACF474D7CC001B23F81BB89A512": "Ukończ zadanie <emphA>Powrót zawziętości</> <emphA>Jonesa Zawziętego,</> aby odblokować schemat tworzenia.",
-    "667311A4437208B95CEA11A852CBC791": "Ukończ zadanie <emphA>Powrót zawziętości</> <emphA>Jonesa Zawziętego,</> aby odblokować schemat tworzenia.",
     "9AA201FA46CBC66B1CE52883B2B90C50": "Ukończ zadanie <emphA>Powrót zawziętości</> <emphA>Jonesa Zawziętego,</> aby odblokować schemat tworzenia.",
-    "D37D8ADD4B57F647E7F26D919988D055": "Ukończ zadanie <emphA>Powrót zawziętości</> <emphA>Jonesa Zawziętego,</> aby odblokować schemat tworzenia.",
-    "2EAFA99E42D51BC274380AAA5036D5AA": "Przywal wszystkim młotkom.",
-    "71C8663E4B40DEC6643552B2BECF1135": "Przywal wszystkim młotkom.",
     "9332D3B74BB95B8FAB5F0C8795B78CDE": "Przywal wszystkim młotkom.",
-    "94F865F64B2080551E7F03A71FBE0D93": "Przywal wszystkim młotkom.",
     "B41434DF41865634B14F55AE3E287A2C": "Przywal wszystkim młotkom.",
-    "E95434D744FEA0E09B6ED58C2B5910D1": "Przywal wszystkim młotkom."
+    "34FE5C3A4B545E21875705BE3626EAF0": "Zbierz zwycięstwo.",
+    "372CE5CC40D3E37240FB5B97D389441B": "Nauczysz się tego w zakładce Mistrzostwa ninji ",
+    "57C5E0594F5066F0B2A3D09D15AE826D": "Nauczysz się tego w zakładce Mistrzostwa ninji ",
+    "FCBA6F56416309832D673A9A20C0899E": "Nauczysz się tego w zakładce Mistrzostwa ninji ",
+    "C02EBDF44B84DD6E3076A18DF5574E91": "Prawdziwe rolnobicie.",
+    "DA3AB04E4E5D8D354EEB498755EC0572": "Poszukaj Mistrza ŻYWIOŁU ZIEMI i ucz się w zakładce Mistrzostwa ninji ",
+    "1517B018433070D13715CDB3AA95CD94": "Niezły sierpowy, ziomuś.",
+    "8F756F4D4C6256A7017FAFA0F6F65873": "Siej obrażenia, zbieraj nagrody."
   },
   "Juno_UpdateItemData": {
     "DF888CF346C2CBFBDA11CCB5FAC0E1D2": "Zwykła kosa. Pokonaj przeciwników tą potężną bronią.",
-    "A83356AE4B3053983B182494D72FE998": "Epicka kosa. Pokonaj przeciwników tą potężną bronią.",
-    "A0781E634CA6AF001EF3BA9D03D70453": "Legendarna kosa. Pokonaj przeciwników tą potężną bronią.",
-    "45B4B00F4C26CDD7FCDDEBA579BE2B38": "Rzadka kosa. Pokonaj przeciwników tą potężną bronią.",
-    "23CCE2DE4CEC1BE2552E058BB7D0F853": "Kosa",
-    "51E0460B4D6AC69B63C5D4B82DB5276C": "Kosa",
-    "586BE8B9432F506C517C4B9FDDECCFF5": "Kosa",
+    "C100B24643371C58B102818D62B1D266": "Epicka dwuręczna kosa. Broń do kontroli tłumu o szerokim łuku ataku.",
+    "C20CFBF44A72227EB5643798EBDA66C0": "Legendarna dwuręczna kosa. Broń do kontroli tłumu o szerokim łuku ataku.",
+    "8E17896B4E9FE80A6DCE5898F1A8CF38": "Rzadka dwuręczna kosa. Broń do kontroli tłumu o szerokim łuku ataku.",
+    "96E54AED46F5CCFB85A47D9948FBC1CA": "Kosa",
     "9F2BA22E4B83355D1CFF42BB69BEFC12": "Kosa",
-    "C7AAAF334CB402AC70AA868AB516381D": "Kosa",
+    "A5C16438493A0A3AECC4919F254122B1": "Kosa",
+    "A70A12DE4EE937A5676A699279623A53": "Kosa",
+    "CA0C99424C8F635BFA3989AA0E631A6F": "Kosa",
     "1B64AB7F44F6D7BE157FCDAA8076258D": "Kamienna kosa",
-    "0341978B4FF993F1A1402389AC1447F7": "Niepospolita kosa. Pokonaj przeciwników tą potężną bronią.",
-    "F0AA9C6145FCD67C2845388CC9981D92": "Niepospolita kosa. Pokonaj przeciwników tą potężną bronią."
+    "F0AA9C6145FCD67C2845388CC9981D92": "Niepospolita kosa. Pokonaj przeciwników tą potężną bronią.",
+    "12009D5E4F7F87D6D03D739FB5312A0A": "Niepospolita dwuręczna kosa. Broń do kontroli tłumu o szerokim łuku ataku."
   }
 }

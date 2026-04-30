@@ -1,11 +1,11 @@
 {
   "": {
     "E3622AE347AF63C79AFC06AF86708F9F": "TẤT CẢ",
-    "DCAFBBAF45B332C75F71FF9257B2207B": "Hiệu Ứng Chi Chú Ghép Nối",
+    "91C766254F4133B733BE3EACB71BE854": "Hiệu Ứng Ghi Chú Ghép Nối",
+    "71D0AB09490991DD37BE37B8E099A5FA": "Kích Hoạt Nốt Ghép Nối",
     "97D8F24F4D8EB51F9AA47DA911BDCA6E": "Kích Hoạt Nốt Ghép Nối",
-    "EDB539014CB92AE5AA90BDAF12AFE230": "Kích Hoạt Nốt Ghép Nối",
+    "784E609046E9269985767D98BDD683C1": "Dùng thiết bị này để gửi các sự kiện đến các thiết bị khác trong Fortnite dựa trên các tín hiệu nốt đầu vào cụ thể từ Bộ Trình Tự Nốt Ghép Nối hoặc các bộ tạo nốt Ghép Nối khác. ",
     "BB70B1C94DC28944E84066A4CB3B9835": "Dùng thiết bị này để gửi các sự kiện đến các thiết bị khác trong Fortnite dựa trên các đầu vào nốt cụ thể từ Bộ Trình Tự Nốt Ghép Nối hoặc các bộ tạo nốt Ghép Nối khác. ",
-    "EA31498D475A95DD44BA52B6A67DD4A5": "Dùng thiết bị này để gửi các sự kiện đến các thiết bị khác trong Fortnite dựa trên các đầu vào nốt cụ thể từ Bộ Trình Tự Nốt Ghép Nối hoặc các bộ tạo nốt Ghép Nối khác. ",
     "886C491245B76C83F7951081B8FFA387": "Phát Tín Hiệu Khi Nhận Được Nốt",
     "497A708F400C8E9A24E40DA392685B75": "Khi tắt, không sự kiện nào được gửi. Dữ liệu nốt luôn thông qua thiết bị này mà không bị thay đổi. ",
     "1C62674E48F09FC6CBC1D59CBD84C6F1": "Khi thiết bị này nhận được nốt midi đã chọn, phát tín hiệu trên kênh đã chọn."

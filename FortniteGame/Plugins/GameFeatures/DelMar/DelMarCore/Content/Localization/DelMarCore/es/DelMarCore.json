@@ -389,7 +389,6 @@
     "IdleKick": "Expulsado por inactividad prolongada.",
     "SuspendKick": "Expulsado por inactividad prolongada.",
     "PlayspaceNoLevelTags": "Error del mapa",
-    "PostRace_MatchmakingCancelled": "Emparejamiento cancelado. Reason={0}",
     "NotEnoughPlayersJoined": "No se han unido suficientes jugadores.",
     "ReplaceInChain_Title": "Reemplazar punto de control de la secuencia",
     "PostRaceTimeout": "Se ha agotado el tiempo al intentar realizar el emparejamiento.",

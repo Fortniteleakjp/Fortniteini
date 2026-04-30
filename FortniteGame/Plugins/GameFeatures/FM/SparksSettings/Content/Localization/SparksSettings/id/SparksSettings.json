@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Sinkronisasikan Emot Dansaku dengan Lagu Jamming",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Pengaturan ini mengubah apa yang terjadi pada Emot Dansa kamu ketika Lagu Jamming sedang diputar."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Bas",
+    "Drums": "Drum",
+    "Lead": "Lead",
+    "ProVocals": "Vokal Mikrofon",
+    "ProBass": "Bas Pro",
+    "ProDrums": "Drum Pro",
+    "ProDrumsCymbals": "Drum Pro + Simbal",
+    "ProLead": "Lead Pro",
+    "Vocals": "Vokal Standar"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Menyesuaikan volume musik gameplay dalam Festival.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Festival - Musik"

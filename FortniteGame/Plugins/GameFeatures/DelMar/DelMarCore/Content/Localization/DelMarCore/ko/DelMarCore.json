@@ -389,7 +389,6 @@
     "IdleKick": "너무 오랫동안 가만히 있어 추방되었습니다.",
     "SuspendKick": "너무 오랫동안 정지 상태로 있어 추방되었습니다.",
     "PlayspaceNoLevelTags": "맵 오류",
-    "PostRace_MatchmakingCancelled": "매치메이킹 취소, Reason={0}",
     "NotEnoughPlayersJoined": "참가 플레이어가 부족합니다.",
     "ReplaceInChain_Title": "체인 체크포인트 교체",
     "PostRaceTimeout": "매치메이킹 시도 중 시간이 초과되었습니다.",

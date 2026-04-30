@@ -389,7 +389,6 @@
     "IdleKick": "Expulsão por ficar muito tempo em ociosidade.",
     "SuspendKick": "Expulsão por ficar muito tempo em inatividade.",
     "PlayspaceNoLevelTags": "Erro de mapa",
-    "PostRace_MatchmakingCancelled": "Pareamento cancelado, Reason={0}",
     "NotEnoughPlayersJoined": "Número insuficiente de jogadores.",
     "ReplaceInChain_Title": "Substituir ponto de controle na corrente",
     "PostRaceTimeout": "Tempo limite para tentativa de pareamento atingido.",

@@ -389,7 +389,6 @@
     "IdleKick": "ถูกเตะออกเพราะนิ่งเฉยเป็นเวลานาน",
     "SuspendKick": "ถูกเตะออกเพราะถูกระงับชั่วคราวเป็นเวลานาน",
     "PlayspaceNoLevelTags": "เกิดข้อผิดพลาดกับแผนที่",
-    "PostRace_MatchmakingCancelled": "ยกเลิกการจับคู่ผู้เล่นในแมตช์แล้ว เหตุผล={0}",
     "NotEnoughPlayersJoined": "ผู้เล่นเข้าร่วมไม่เพียงพอ",
     "ReplaceInChain_Title": "เปลี่ยนจุดเช็คพอยต์ในเชน",
     "PostRaceTimeout": "หมดเวลาการพยายามจับคู่ผู้เล่น",

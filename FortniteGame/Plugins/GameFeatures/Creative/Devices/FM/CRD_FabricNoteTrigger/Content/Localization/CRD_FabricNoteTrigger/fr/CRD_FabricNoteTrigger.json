@@ -1,11 +1,11 @@
 {
   "": {
     "E3622AE347AF63C79AFC06AF86708F9F": "TOUT",
-    "DCAFBBAF45B332C75F71FF9257B2207B": "Effet de note Patchwork",
+    "91C766254F4133B733BE3EACB71BE854": "Effet de note Patchwork",
+    "71D0AB09490991DD37BE37B8E099A5FA": "Déclencheur par notes Patchwork",
     "97D8F24F4D8EB51F9AA47DA911BDCA6E": "Déclencheur par notes Patchwork",
-    "EDB539014CB92AE5AA90BDAF12AFE230": "Déclencheur par notes Patchwork",
+    "784E609046E9269985767D98BDD683C1": "Utilisez cet appareil pour envoyer des événements à d'autres appareils dans Fortnite en se basant sur les notes saisies dans le séquenceur de notes Patchwork ou d'autres générateurs de notes Patchwork. ",
     "BB70B1C94DC28944E84066A4CB3B9835": "Utilisez cet appareil pour envoyer des événements à d'autres appareils dans Fortnite en se basant sur les notes saisies dans le séquenceur de notes Patchwork ou d'autres générateurs de notes Patchwork. ",
-    "EA31498D475A95DD44BA52B6A67DD4A5": "Utilisez cet appareil pour envoyer des événements à d'autres appareils dans Fortnite en se basant sur les notes saisies dans le séquenceur de notes Patchwork ou d'autres générateurs de notes Patchwork. ",
     "886C491245B76C83F7951081B8FFA387": "Quand la note est reçue, transmettre sur",
     "497A708F400C8E9A24E40DA392685B75": "Si désactivé, aucun événement n'est envoyé. Les données de notes sont toujours transmises par cet appareil sans changement. ",
     "1C62674E48F09FC6CBC1D59CBD84C6F1": "Quand l'appareil reçoit la note MIDI sélectionnée, transmet un signal sur le canal sélectionné."

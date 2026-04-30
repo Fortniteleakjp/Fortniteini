@@ -1,11 +1,11 @@
 {
   "": {
     "E3622AE347AF63C79AFC06AF86708F9F": "TUTTO",
-    "DCAFBBAF45B332C75F71FF9257B2207B": "Effetto nota Patchwork",
+    "91C766254F4133B733BE3EACB71BE854": "Effetto nota Patchwork",
+    "71D0AB09490991DD37BE37B8E099A5FA": "Attivatore nota Patchwork",
     "97D8F24F4D8EB51F9AA47DA911BDCA6E": "Attivatore nota Patchwork",
-    "EDB539014CB92AE5AA90BDAF12AFE230": "Attivatore nota Patchwork",
+    "784E609046E9269985767D98BDD683C1": "Usa questo dispositivo per inviare eventi ad altri dispositivi in Fortnite in base a input di note specifiche dal Sequencer note Patchwork o da altri generatori di note Patchwork. ",
     "BB70B1C94DC28944E84066A4CB3B9835": "Usa questo dispositivo per inviare eventi ad altri dispositivi in Fortnite in base a input di note specifiche dal Sequencer note Patchwork o da altri generatori di note Patchwork. ",
-    "EA31498D475A95DD44BA52B6A67DD4A5": "Usa questo dispositivo per inviare eventi ad altri dispositivi in Fortnite in base a input di note specifiche dal Sequencer note Patchwork o da altri generatori di note Patchwork. ",
     "886C491245B76C83F7951081B8FFA387": "Alla ricezione della nota trasmetti su",
     "497A708F400C8E9A24E40DA392685B75": "Quando è disabilitato, non viene inviato nessun evento. I dati delle note attraversano sempre questo dispositivo senza subire modifiche. ",
     "1C62674E48F09FC6CBC1D59CBD84C6F1": "Quando questo dispositivo riceve la nota MIDI selezionata, trasmette un segnale sul canale selezionato."

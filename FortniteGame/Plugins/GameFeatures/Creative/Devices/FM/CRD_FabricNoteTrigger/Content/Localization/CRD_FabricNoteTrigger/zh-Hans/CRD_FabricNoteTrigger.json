@@ -1,11 +1,11 @@
 {
   "": {
     "E3622AE347AF63C79AFC06AF86708F9F": "所有",
-    "DCAFBBAF45B332C75F71FF9257B2207B": "Patchwork 音符效果",
+    "91C766254F4133B733BE3EACB71BE854": "Patchwork音符效果",
+    "71D0AB09490991DD37BE37B8E099A5FA": "Patchwork音符触发器",
     "97D8F24F4D8EB51F9AA47DA911BDCA6E": "Patchwork 音符触发",
-    "EDB539014CB92AE5AA90BDAF12AFE230": "Patchwork 音符触发",
+    "784E609046E9269985767D98BDD683C1": "根据Patchwork音符音序器或其他Patchwork音符生成器的特定音符输入，使用此设备发送事件到其他Fortnite设备。 ",
     "BB70B1C94DC28944E84066A4CB3B9835": "根据 Patchwork 音符音序器或其他 Patchwork 音符生成器的特定音符输入，使用此设备发送事件到其他 Fortnite 设备。 ",
-    "EA31498D475A95DD44BA52B6A67DD4A5": "根据 Patchwork 音符音序器或其他 Patchwork 音符生成器的特定音符输入，使用此设备发送事件到其他 Fortnite 设备。 ",
     "886C491245B76C83F7951081B8FFA387": "接收音符时，在选定频道上发送信号",
     "497A708F400C8E9A24E40DA392685B75": "禁用后不发送事件。通过此设备的符号数据不会保持不变。 ",
     "1C62674E48F09FC6CBC1D59CBD84C6F1": "此设备接收选定 Midi 音符时，在选定频道上发送信号。"

@@ -9,11 +9,11 @@
     "F54118A746850FE875523EB3F2506F13": "1/8 Nota",
     "7C92B03C436FE7D5D56CD1970B4ABDBC": "2 Barras",
     "A112EC524CE4ECA57F7BBBB17323D0BA": "4 Barras",
+    "29B4BF6A4694E4F84952CCB3354B215F": "Aplica um efeito de eco na entrada vinda de um gerador de áudio Patchwork antes de enviá-lo para uma saída, como o Alto-falante do Patchwork.",
     "61B45D3D48BA63DE75B0B5A3EE573FD5": "Aplica um efeito de eco na entrada vinda de um gerador de áudio Patchwork antes de enviá-lo para uma saída, como o Alto-falante do Patchwork.",
-    "8AA60CAB4DE8E925AFC76E927B197D34": "Aplica um efeito de eco na entrada vinda de um gerador de áudio Patchwork antes de enviá-lo para uma saída, como o Alto-falante do Patchwork.",
-    "799D6A2A42305ABB4653CBAD0EC70E2E": "Efeito Sonoro do Patchwork",
+    "EB5BD0194043C7A6FBEC869C6395A17F": "Efeito Sonoro do Patchwork",
     "09F01F834F96541459C3DDA6AE3B0519": "Efeito de Eco do Patchwork",
-    "D7EECD8A4AA0FFE46347D9B7E83F7A1B": "Efeito de Eco do Patchwork"
+    "A84913B04BE289E1708EE0A13BAC03B2": "Efeito de Eco do Patchwork"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Rótulo"

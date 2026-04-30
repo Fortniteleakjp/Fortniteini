@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Regola il volume dell'input audio Patchwork prima di inviarlo a un altro dispositivo audio Patchwork. Quando hai un mix con vari input audio, applicare il gain ad alcuni di essi può aiutare a bilanciare il volume di ciascun input nel mix generale.",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "Regola il volume dell'input audio Patchwork prima di inviarlo a un altro dispositivo audio Patchwork. Quando hai un mix con vari input audio, applicare il gain ad alcuni di essi può aiutare a bilanciare il volume di ciascun input nel mix generale.",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "Regola il volume dell'input audio Patchwork prima di inviarlo a un altro dispositivo audio Patchwork. Quando hai un mix con vari input audio, applicare il gain ad alcuni di essi può aiutare a bilanciare il volume di ciascun input nel mix generale.",
     "43690F0542ED4B273A4C72B2627C2936": "Moltiplica il volume dell'input audio per il valore selezionato. Un valore di 0 silenzierà l'audio. Un valore di 2 raddoppierà il volume dell'audio.",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Effetto gain Patchwork",
-    "8A62F091464769AD6A2A51B1CECCED46": "Effetto gain Patchwork",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Effetto gain Patchwork"
+    "5595D0E241D0236725A1FDAA071F349D": "Effetto gain Patchwork",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Effetto gain Patchwork",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Effetto gain Patchwork"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etichetta"

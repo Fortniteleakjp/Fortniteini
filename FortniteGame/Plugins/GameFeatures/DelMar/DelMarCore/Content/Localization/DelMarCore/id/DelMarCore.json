@@ -389,7 +389,6 @@
     "IdleKick": "Dikeluarkan karena diam terlalu lama.",
     "SuspendKick": "Dikeluarkan karena ditangguhkan terlalu lama.",
     "PlayspaceNoLevelTags": "Kesalahan Peta",
-    "PostRace_MatchmakingCancelled": "Pencarian Lawan Dibatalkan, Alasan={0}",
     "NotEnoughPlayersJoined": "Pemain yang bergabung kurang.",
     "ReplaceInChain_Title": "Ganti Checkpoint di Rangkaian",
     "PostRaceTimeout": "Waktu habis saat mencoba mencari lawan.",

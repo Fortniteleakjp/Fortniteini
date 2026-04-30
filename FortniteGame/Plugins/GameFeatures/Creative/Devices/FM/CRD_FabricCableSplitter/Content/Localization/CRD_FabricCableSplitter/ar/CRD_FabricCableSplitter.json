@@ -1,10 +1,10 @@
 {
   "": {
-    "3C8FE52B491EDF35FA687E9869D4CBBE": "مقسم كابلات الرُقع",
-    "B9C0CD804806F0FFB9ED4FAB1D917C64": "مقسم كابلات الرُقع",
+    "103669F14CB6BAB68A76F3A8D46B75EB": "موزع كابلات Patchwork",
+    "A6A2D10E4122384AB5DE398DFCCA7228": "موزع كابلات Patchwork",
     "E2373C114617CEF91075F2A105964500": "مقسم كابلات الرُقع",
     "4A80C0494024B8CBB4E74F8B08854E02": "تقسيم أي كابل الرُقع إلى مخارج متعددة.",
-    "F3B9AA9D445F6650FA04C6993BC53E7D": "تقسيم أي كابل الرُقع إلى مخارج متعددة."
+    "CD761C7C43A234A1BC1E0EB442692F8F": "يوزع أي كابل Patchwork على مخارج متعددة."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "ملصق"

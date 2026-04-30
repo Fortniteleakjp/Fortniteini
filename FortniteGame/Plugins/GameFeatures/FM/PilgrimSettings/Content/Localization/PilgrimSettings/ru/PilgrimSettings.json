@@ -144,6 +144,7 @@
     "Unbound": "Нет привязки"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Активируйте овердрайв с помощью голоса.",
     "ProVocalsMicOffsetMs_Description": "Определяет, какая задержка (в миллисекундах) должна учитываться при получении сигнала от микрофона во время игры с {0}. Увеличьте это значение, если вам кажется, что ваш голос распознаётся с задержкой.\n\nЕсли вы вручную измените параметр «Задержка звука» или повторно запустите процесс настройки, возможно, вам потребуется снова изменить это значение.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Всегда отображать партии внешних устройств",
     "AlwaysShowProInstrumentTrackSelection_Description": "Всегда отображать партии внешних устройств в меню выбора партий Fortnite Festival, когда не определён инструмент.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Использовать продвинутые цвета для всех партий",
     "EnableVibrationForHittingNotes_Name": "Вибрация при попадании в ноты",
     "VideoLatency_Name": "Задержка изображения",
+    "VoiceActivatedOverdrive_Name": "Активация овердрайва голосом",
     "ProVocalsInputDevice_Name": "Устройство ввода {0}",
     "ProVocalsMicOffsetMs_Name": "Смещение тайминга микрофона {0}",
     "ProVocalsMicSensitivity_Name": "Чувствительность микрофона {0}",

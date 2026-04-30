@@ -144,6 +144,7 @@
     "Unbound": "未绑定"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "在过载乐句中唱歌即可激活过载。",
     "ProVocalsMicOffsetMs_Description": "调整{0}玩法中应用于麦克风输入的时间偏移（以毫秒为单位）。如果你觉得语音输入检测时间太晚，可以提高此数值。\n\n如果你手动更改“音频延迟”设置，或重新运行调音流程，可能需要再次调整此数值。",
     "AlwaysShowProInstrumentTrackSelection_Name": "始终显示专业声部",
     "AlwaysShowProInstrumentTrackSelection_Description": "即使没有检测到乐器，也始终在音乐节部分选择器中显示专业声部。",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "为所有声部使用专业色彩",
     "EnableVibrationForHittingNotes_Name": "击中音符振动",
     "VideoLatency_Name": "视频延迟",
+    "VoiceActivatedOverdrive_Name": "语音激活过载",
     "ProVocalsInputDevice_Name": "{0}输入设备",
     "ProVocalsMicOffsetMs_Name": "{0}麦克风偏移",
     "ProVocalsMicSensitivity_Name": "{0}麦克风灵敏度",

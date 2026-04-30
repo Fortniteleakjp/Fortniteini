@@ -144,6 +144,7 @@
     "Unbound": "Scollegato"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Attiva overdrive cantando durante una frase overdrive.",
     "ProVocalsMicOffsetMs_Description": "Regola lo sfalsamento della tempistica (in millisecondi) applicato all'input del microfono durante {0}. Aumenta questo valore se ti sembra che il tuo input voce venga individuato in ritardo.\n\nSe cambi manualmente le impostazioni \"latenza audio\" o esegui nuovamente il processo di messa a punto, potresti dover aggiustare di nuovo questo valore.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Mostra sempre parti Pro",
     "AlwaysShowProInstrumentTrackSelection_Description": "Mostra sempre le parti Pro nel Selettore parti di Festival, anche quando non sono stati rilevati strumenti.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Usa colori professionali per tutte le parti",
     "EnableVibrationForHittingNotes_Name": "Vibrazione quando centri le note",
     "VideoLatency_Name": "Latenza video",
+    "VoiceActivatedOverdrive_Name": "Overdrive attivato dalla voce",
     "ProVocalsInputDevice_Name": "Dispositivo di input {0}",
     "ProVocalsMicOffsetMs_Name": "Sfalsamento microfono {0}",
     "ProVocalsMicSensitivity_Name": "Sensibilità microfono {0}",

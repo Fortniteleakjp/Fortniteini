@@ -1,13 +1,13 @@
 {
   "": {
     "E9473385464B668C23F014861732DCE7": "Band-Pass",
-    "92C7C6A14DE488D2BAF6C894E1D497EC": "Filter input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker. You can choose a Filter Type on this device to determine which audio frequencies will be output.",
+    "42E2D67C43EFCED2D201A8B2F396BC43": "Filter input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker. You can choose a Filter Type on this device to determine which audio frequencies will be output.",
     "B3ADEFE1411225A3ECBA2A8B9A77CF07": "Filter input from a Patchwork audio generator before sending it to an output such as the Patchwork Speaker. You can choose a Filter Type on this device to determine which audio frequencies will be output.",
     "512FE5C04F38E5F87C4F569F1572F0A0": "High-Pass",
     "37991D66438A0778EC1256965977F701": "Low-Pass",
     "5CE4557C4375438089A8649ED82C3409": "Notch",
-    "5438C9824C7B960BDD99FBA842BBB174": "Patchwork Filter Effect",
-    "A1F3F9934DB11AF6B72E7285AB9B2684": "Patchwork Filter Effect",
+    "15C60A9A4C396CC1B3C86BBE56C785BB": "Patchwork Filter Effect",
+    "79FDE3004C1EC5ECFC9D33A6AE432B94": "Patchwork Filter Effect",
     "F256467B44AE94D1D160E8A8C30A5AFF": "Patchwork Filter Effect"
   },
   "Fort.Actor.Building.Defaults": {

@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "在将 Patchwork 音频输入发送到另一 Patchwork 音频设备前调整音量。拥有多个音频输出的混音时，对其中一些采用增益有助于平衡各个输入在总混音中的音量平衡。",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "在将 Patchwork 音频输入发送到另一 Patchwork 音频设备前调整音量。拥有多个音频输出的混音时，对其中一些采用增益有助于平衡各个输入在总混音中的音量平衡。",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "在将Patchwork音频输入信号发送到另一Patchwork音频设备前调整音量。拥有多个音频输入信号的混音时，对其中一些信号采用增益有助于平衡各个输入信号在总混音中的音量。",
     "43690F0542ED4B273A4C72B2627C2936": "音频输出音量与选定数值相乘。数值为 0，则静音。数值为 2，则音频音量翻倍。",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork 增益效果",
-    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork 增益效果",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork 增益效果"
+    "5595D0E241D0236725A1FDAA071F349D": "Patchwork增益效果",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork 增益效果",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Patchwork增益效果"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "标签"

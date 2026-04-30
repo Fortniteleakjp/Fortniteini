@@ -1,13 +1,13 @@
 {
   "": {
-    "23EB52264CC9FAA4A54FED8840F95FBA": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
-    "504B7AD24749F2016C2C75A22F5DAE71": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
-    "96B092324CE0D9CFC7E8DF8046DF7694": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
-    "CD83E785455D54AE5321CBBD10A8F9C2": "Conclua a tarefa do <emphA>Jones Vingativo</>, <emphA>Martelo Batido!</>, para desbloquear a receita de criação. ",
-    "E04C12AB4AA93099FEE9CC9BA7AB46C9": "Risco em dobro.",
-    "00A05D24493018D8ABB05A8C669D9C47": "Adagar e duelar.",
-    "251EE9AD461FAC50BD50F28F2D2FE948": "Em dupla é sempre mais divertido.",
-    "9730B9624AA9DCA6B9E9CABF00A1A63E": "Len-dupla-rias."
+    "91CC6F5E4F71BD35A02F3E9D6D75B0A5": "Risco em dobro.",
+    "F6BB7307468814F9577929A531990BF3": "Adagar e duelar.",
+    "556F8FDF4549639AC35B13AA13C6CF77": "Em dupla é sempre mais divertido.",
+    "6B3B568244D8AF8345EB90BBD0189EFC": "Len-dupla-rias.",
+    "3D5CBA134C79FE364B1883A7E4686D35": "Aprimore <EmphA>Adagas Duplas Épicas</> com o poder de <EmphA>Cristais de Fenda</>.",
+    "4C560BF94588E94B4CCD319246FA528D": "Aprimore <EmphA>Adagas Duplas Épicas</> com o poder de <EmphA>Cristais de Fenda</>.",
+    "C5E59E1E48AA094452D50B9448FCED9F": "Aprimore <EmphA>Adagas Duplas Épicas</> com o poder de <EmphA>Cristais de Fenda</>.",
+    "CBEB579241568DA8E6AD07802D16F7F9": "Aprimore <EmphA>Adagas Duplas Épicas</> com o poder de <EmphA>Cristais de Fenda</>."
   },
   "Juno_BoostedItemNames_DualDaggersTierExpansionA": {
     "Dual_Daggers_T5_T5_Honed_Bamboo_DisplayName": "Adagas Duplas de Bambu",
@@ -25,13 +25,13 @@
     "Dual_Daggers_T8_T8_Honed_Steel_DisplayName": "Adagas Duplas de Aço"
   },
   "Juno_UpdateItemData": {
-    "45AE3E4A4C085DB4599940B5FBC003E0": "Adagas Duplas",
-    "779C67D0434E0397A946168BF909ECF7": "Adagas Duplas",
-    "AA5D678249A43D54B1E94CB2F825DC6E": "Adagas Duplas",
-    "D7B32EE24FAA36A48748CABC6CC5EEF6": "Adagas Duplas",
-    "B39267E14B538A83B97E84B438102B96": "Adagas Duplas Épicas. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo.",
-    "192E8D314AAA6D28A5C40FBD1802FE7A": "Adagas Duplas Lendárias. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo.",
-    "299CEFC842466335350396904C9891AC": "Adagas Duplas Raras. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo.",
-    "5BE47184402C96A5226C7991B4F78A38": "Adagas Duplas Incomuns. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo."
+    "2F78CDAD43244FA2160ACFAE3E5A9978": "Adagas Duplas",
+    "386BF24448ED4E548909D6A6293C75AD": "Adagas Duplas",
+    "89B7AEC441CEBF70C42E2485C456E920": "Adagas Duplas",
+    "E7023B6F48F252BED0AAD98F8EDB7A55": "Adagas Duplas",
+    "A6FEB11F4DCED11C68EA10BBE8F03D24": "Adagas Duplas Épicas. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo.",
+    "289776AA400085BDD05DBB990524BA01": "Adagas Duplas Lendárias. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo.",
+    "5126BA6D4746043CF7EFC7A6CB9C8DA4": "Adagas Duplas Raras. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo.",
+    "1144CA504119C779D8B0958ECCB56847": "Adagas Duplas Incomuns. Golpeie rapidamente e carregue um ataque que permite correr na direção do perigo."
   }
 }

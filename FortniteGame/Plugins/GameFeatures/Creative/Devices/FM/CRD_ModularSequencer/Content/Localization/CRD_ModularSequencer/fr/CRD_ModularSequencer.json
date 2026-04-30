@@ -13,8 +13,8 @@
     "59EFAB3745356E62F57E5CB32A568812": "Effacer",
     "3447D21A488F2B6DA99205968176C8A2": "Copie le contenu de la grille actuelle sur la prochaine page vide disponible. Si aucune page n'est vide, ce bouton est désactivé.",
     "C19DCFCA41D75A35AB252295753CE2F5": "Dupliquer la page",
-    "2DB8013C4C77B8517139FAB6EBC6B42A": "Générateur de notes Patchwork",
-    "44BF56A34667FCB28163A495ECC11C3B": "Séquenceur de notes Patchwork",
+    "2A88062748A2B928FB74A2AAE2D578B5": "Générateur de notes Patchwork",
+    "01D67D28406F75B2B12BAC8AB68B7EF7": "Séquenceur de notes Patchwork",
     "D92705A64B48859A71057A8F7FEC4C74": "Séquenceur de notes Patchwork",
     "70580ABA43EB40BB97B7039B9C0CC58C": "Place des notes aléatoirement sur la page actuelle.",
     "0203DE694A6A13E55D81E78721702CD2": "Place des notes aléatoirement sur la page actuelle. Cela remplace tous les contenus sur la grille de la page.",
@@ -22,7 +22,7 @@
     "CB13F7F542F6940519D20C9B178AB6D3": "Remplir aléatoirement",
     "E0369FA346F82B7573053E8BC80CE960": "Retire toutes les notes sur la grille de la page actuelle.",
     "1D7B470146CC63B3138A299E59C3945A": "Définit des motifs mélodiques que vous pouvez émettre vers le lecteur d'instrument Patchwork, le synthétiseur oméga ou d'autres appareils Patchwork. Ceci est généralement le premier élément d'une chaîne d'appareils Patchwork.",
-    "49E7BB764AB4B33CA7B2A9BFABFF4A96": "Définit des motifs mélodiques que vous pouvez émettre vers le lecteur d'instrument Patchwork, le synthétiseur oméga ou d'autres appareils Patchwork. Ceci est généralement le premier élément d'une chaîne d'appareils Patchwork."
+    "C328A9F244F2F75634623694F8896D03": "Définit des motifs mélodiques que vous pouvez émettre vers le lecteur d'instrument Patchwork, le synthétiseur oméga ou d'autres appareils Patchwork. Ceci est généralement le premier élément d'une chaîne d'appareils Patchwork."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Étiquette"

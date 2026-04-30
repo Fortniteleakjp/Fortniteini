@@ -14,6 +14,7 @@
     "77BDBCC7F398202C53E0C058CEAF2645": "Costilla de cabina de acorazado",
     "735498C55B252E5E53E0C058C7CA42CF": "Cañón de acorazado",
     "735498C55B252E5E53E0C058CEAF2645": "Cañón de acorazado",
+    "632F0875480FB8092DF1CAAE02D7E2F6": "Dirigible de acorazado",
     "0640C58F66C7D3D453E0C058C7CA42CF": "Motor de acorazado",
     "0640C58F66C7D3D453E0C058CEAF2645": "Motor de acorazado",
     "4229580C49B4E57CA20E7C8770F8D9A8": "Propulsor colosal de acorazado",
@@ -39,7 +40,6 @@
     "F963DEDF159EB39D53E0C058C7CA42CF": "Vela de ala de acorazado (babor)",
     "F963DEDF159EB39D53E0C058CEAF2645": "Vela de ala de acorazado (babor)",
     "159C6DDC7CFA84F253E0C058C7CA42CF": "Vela de ala de acorazado (estribor)",
-    "159C6DDC7CFA84F253E0C058CEAF2645": "Vela de ala de acorazado (estribor)",
-    "632F0875480FB8092DF1CAAE02D7E2F6": "JBID_VCU_GB_Airship_Leviathan_Static"
+    "159C6DDC7CFA84F253E0C058CEAF2645": "Vela de ala de acorazado (estribor)"
   }
 }

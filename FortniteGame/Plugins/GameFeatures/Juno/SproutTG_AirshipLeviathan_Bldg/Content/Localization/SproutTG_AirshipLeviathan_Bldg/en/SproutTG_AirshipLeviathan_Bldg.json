@@ -14,6 +14,7 @@
     "77BDBCC7F398202C53E0C058CEAF2645": "Dreadnought Cabin Rib",
     "735498C55B252E5E53E0C058C7CA42CF": "Dreadnought Cannon",
     "735498C55B252E5E53E0C058CEAF2645": "Dreadnought Cannon",
+    "632F0875480FB8092DF1CAAE02D7E2F6": "Dreadnought Dirigible",
     "0640C58F66C7D3D453E0C058C7CA42CF": "Dreadnought Engine",
     "0640C58F66C7D3D453E0C058CEAF2645": "Dreadnought Engine",
     "4229580C49B4E57CA20E7C8770F8D9A8": "Dreadnought Jumbo Thruster",
@@ -39,7 +40,6 @@
     "F963DEDF159EB39D53E0C058C7CA42CF": "Dreadnought Wingsail - Port",
     "F963DEDF159EB39D53E0C058CEAF2645": "Dreadnought Wingsail - Port",
     "159C6DDC7CFA84F253E0C058C7CA42CF": "Dreadnought Wingsail - Starboard",
-    "159C6DDC7CFA84F253E0C058CEAF2645": "Dreadnought Wingsail - Starboard",
-    "632F0875480FB8092DF1CAAE02D7E2F6": "JBID_VCU_GB_Airship_Leviathan_Static"
+    "159C6DDC7CFA84F253E0C058CEAF2645": "Dreadnought Wingsail - Starboard"
   }
 }

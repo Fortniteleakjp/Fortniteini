@@ -1,0 +1,21 @@
+{
+  "": {
+    "46EF8CF543C2E71D7FFF2FA768665CD8": "CHAOS Dragon Scale",
+    "2AD3722B4AA8277D2B616EA3B2FF3964": "Found in the <empha>Land of Monsters</>. Beware! You can only travel there through a Portal in the <img id=\"IcoNinja\"/><empha>Monastery of Spinjitzu</>.",
+    "48DFF74E4C71FC232197B0ABB73FE0E7": "Found on <img id=\"IcoNinja\"/><emphA>Ninjago Island</>.",
+    "71B4D1CE45A9972DEF6C109F8D0A33CB": "Gadget UtilityItem M80 Grenade",
+    "6A4A58C64A4BAA79018884856B64A987": "Recovered from defeated CHAOS Dragon.",
+    "CD985E374803BE34426D3781F4025424": "Seek the ... on <img id=\"IcoNinja\"/><emphA>Ninjago Island</>.",
+    "7503823E4213AB9FD2FA23AD5A0F4DBB": "Shatter Spawn",
+    "E4F4D948453F0702F575FABBB0E8B479": "These descendants of the Thunderfang are legion and use the power of Chaos to switch between ELEMENTS in battle. But their Chaotic nature means only one can appear in the Land of Monsters at a time.",
+    "70EB058942B3B9AE472B2885C8BCC065": "Travel through a Portal in the land where <img id=\"IcoNinja\"/>Ninja spin.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "F1F2643042C9519881E6FF9B3CB18CBB": "crafting resource"
+  },
+  "Juno_UpdateItemData": {
+    "6DB84AE44D3A0B46BC6B30AA5BA4A093": "An evil scale."
+  }
+}

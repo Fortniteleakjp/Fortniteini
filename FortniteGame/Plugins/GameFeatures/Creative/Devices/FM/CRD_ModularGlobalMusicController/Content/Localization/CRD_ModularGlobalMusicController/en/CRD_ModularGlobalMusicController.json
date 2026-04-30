@@ -1,12 +1,12 @@
 {
   "": {
     "DDEE012947E31A3917662580FB922519": "0",
-    "1744D258490B03D8038DFCB3E5169D04": "Define shared settings like tempo and key for all Patchwork devices. Only one Music Manager can be placed per island.",
+    "DA762C1E498FAEEED9C89A91A8215157": "Define shared settings like tempo and key for all Patchwork devices. Only one Music Manager can be placed per island.",
     "FBFF03364804673303F1AA8E8E8B092B": "Define shared settings like tempo and key for all Patchwork devices. Only one Music Manager can be placed per island.",
     "CFDDBA7D4135D72047B95C8CF99EF755": "Example Device",
-    "A36FF126492541D5CF9921A673A90B63": "Patchwork Global",
+    "416DF86E40AAAC5BE2BDABAD145FEE1E": "Patchwork Global",
     "9C0417B64497D18FCBCF56910FEE6B94": "Patchwork Music Manager",
-    "A1327E1641EF0C9D2FFE9EB7E6270B24": "Patchwork Music Manager",
+    "C63C29394EB031FBFA48D1AB11F213AD": "Patchwork Music Manager",
     "708C8B6C44CB965ECF3C80A308C0A427": "Time Signature:",
     "6CFD94D04ADAFBC4B058B48B9E8C0223": "When enabled, playback begins from beat 0. When disabled, other devices can still be interacted with and modified, but their functionality will be limited."
   },

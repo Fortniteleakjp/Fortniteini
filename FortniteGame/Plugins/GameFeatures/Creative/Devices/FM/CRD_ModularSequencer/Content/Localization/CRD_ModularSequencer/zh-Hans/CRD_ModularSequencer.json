@@ -13,8 +13,8 @@
     "59EFAB3745356E62F57E5CB32A568812": "清空",
     "3447D21A488F2B6DA99205968176C8A2": "复制当前网格内容到下一可用空白页上。如没有空白页，则禁用按钮。",
     "C19DCFCA41D75A35AB252295753CE2F5": "复制页面",
-    "2DB8013C4C77B8517139FAB6EBC6B42A": "Patchwork 音符生成器",
-    "44BF56A34667FCB28163A495ECC11C3B": "Patchwork 音符音序器",
+    "2A88062748A2B928FB74A2AAE2D578B5": "Patchwork音符生成器",
+    "01D67D28406F75B2B12BAC8AB68B7EF7": "Patchwork音符音序器",
     "D92705A64B48859A71057A8F7FEC4C74": "Patchwork 音符音序器",
     "70580ABA43EB40BB97B7039B9C0CC58C": "在当前页面上随机放置音符。",
     "0203DE694A6A13E55D81E78721702CD2": "在当前页面上随机放置音符。将替换页面上所有网格内容。",
@@ -22,7 +22,7 @@
     "CB13F7F542F6940519D20C9B178AB6D3": "随机化",
     "E0369FA346F82B7573053E8BC80CE960": "移除当前页面网格上所有音符。",
     "1D7B470146CC63B3138A299E59C3945A": "设置可输出到 Patchwork 乐器播放器、Omega 合成器或其他 Patchwork 设备的旋律模式。这通常为 Patchwork 设备链。",
-    "49E7BB764AB4B33CA7B2A9BFABFF4A96": "设置可输出到 Patchwork 乐器播放器、Omega 合成器或其他 Patchwork 设备的旋律模式。这通常为 Patchwork 设备链。"
+    "C328A9F244F2F75634623694F8896D03": "设置可输出到Patchwork乐器播放器、Omega合成器或其他Patchwork设备的旋律模式。这通常为Patchwork设备链的首个设备。"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "标签"

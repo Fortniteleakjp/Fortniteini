@@ -1,13 +1,13 @@
 {
   "": {
-    "23EB52264CC9FAA4A54FED8840F95FBA": "Terminez la quête <emphA>Dans le mille</> de <emphA>Jones vengeur</> pour déverrouiller le schéma de fabrication. ",
-    "504B7AD24749F2016C2C75A22F5DAE71": "Terminez la quête <emphA>Dans le mille</> de <emphA>Jones vengeur</> pour déverrouiller le schéma de fabrication. ",
-    "96B092324CE0D9CFC7E8DF8046DF7694": "Terminez la quête <emphA>Dans le mille</> de <emphA>Jones vengeur</> pour déverrouiller le schéma de fabrication. ",
-    "CD83E785455D54AE5321CBBD10A8F9C2": "Terminez la quête <emphA>Dans le mille</> de <emphA>Jones vengeur</> pour déverrouiller le schéma de fabrication. ",
-    "E04C12AB4AA93099FEE9CC9BA7AB46C9": "Deux fois plus d'ennuis.",
-    "00A05D24493018D8ABB05A8C669D9C47": "Arme à double tranchant.",
-    "251EE9AD461FAC50BD50F28F2D2FE948": "Deux tiens valent mieux qu'un tu l'auras.",
-    "9730B9624AA9DCA6B9E9CABF00A1A63E": "Le duo de légende."
+    "91CC6F5E4F71BD35A02F3E9D6D75B0A5": "Deux fois plus d'ennuis.",
+    "F6BB7307468814F9577929A531990BF3": "Arme à double tranchant.",
+    "556F8FDF4549639AC35B13AA13C6CF77": "Deux tiens valent mieux qu'un tu l'auras.",
+    "6B3B568244D8AF8345EB90BBD0189EFC": "Le duo de légende.",
+    "3D5CBA134C79FE364B1883A7E4686D35": "Améliorez des <EmphA>doubles dagues épiques</> grâce à la puissance des <EmphA>cristaux de la faille</>.",
+    "4C560BF94588E94B4CCD319246FA528D": "Améliorez des <EmphA>doubles dagues épiques</> grâce à la puissance des <EmphA>cristaux de la faille</>.",
+    "C5E59E1E48AA094452D50B9448FCED9F": "Améliorez des <EmphA>doubles dagues épiques</> grâce à la puissance des <EmphA>cristaux de la faille</>.",
+    "CBEB579241568DA8E6AD07802D16F7F9": "Améliorez des <EmphA>doubles dagues épiques</> grâce à la puissance des <EmphA>cristaux de la faille</>."
   },
   "Juno_BoostedItemNames_DualDaggersTierExpansionA": {
     "Dual_Daggers_T5_T5_Honed_Bamboo_DisplayName": "Doubles dagues en bambou",
@@ -25,13 +25,13 @@
     "Dual_Daggers_T8_T8_Honed_Steel_DisplayName": "Doubles dagues en acier"
   },
   "Juno_UpdateItemData": {
-    "45AE3E4A4C085DB4599940B5FBC003E0": "Doubles dagues",
-    "779C67D0434E0397A946168BF909ECF7": "Doubles dagues",
-    "AA5D678249A43D54B1E94CB2F825DC6E": "Doubles dagues",
-    "D7B32EE24FAA36A48748CABC6CC5EEF6": "Doubles dagues",
-    "B39267E14B538A83B97E84B438102B96": "Des doubles dagues épiques. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger.",
-    "192E8D314AAA6D28A5C40FBD1802FE7A": "Des doubles dagues légendaires. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger.",
-    "299CEFC842466335350396904C9891AC": "Des doubles dagues rares. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger.",
-    "5BE47184402C96A5226C7991B4F78A38": "Des doubles dagues atypiques. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger."
+    "2F78CDAD43244FA2160ACFAE3E5A9978": "Doubles dagues",
+    "386BF24448ED4E548909D6A6293C75AD": "Doubles dagues",
+    "89B7AEC441CEBF70C42E2485C456E920": "Doubles dagues",
+    "E7023B6F48F252BED0AAD98F8EDB7A55": "Doubles dagues",
+    "A6FEB11F4DCED11C68EA10BBE8F03D24": "Des doubles dagues épiques. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger.",
+    "289776AA400085BDD05DBB990524BA01": "Des doubles dagues légendaires. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger.",
+    "5126BA6D4746043CF7EFC7A6CB9C8DA4": "Des doubles dagues rares. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger.",
+    "1144CA504119C779D8B0958ECCB56847": "Des doubles dagues atypiques. Frappez à toute vitesse et chargez une attaque qui vous permet de foncer au cœur du danger."
   }
 }

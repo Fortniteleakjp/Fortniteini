@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Đồng bộ hóa Động Tác Nhảy của tôi với Bản Nhạc Biến Tấu",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Cài đặt này thay đổi Động Tác Nhảy của bạn khi Bản Nhạc Biến Tấu đang phát."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Guitar Bass",
+    "Drums": "Dàn Trống",
+    "Lead": "Guitar Chính",
+    "ProVocals": "Hòa Ca Trên Mic",
+    "ProBass": "Guitar Bass Chuyên Nghiệp",
+    "ProDrums": "Dàn Trống Chuyên Nghiệp",
+    "ProDrumsCymbals": "Dàn Trống Chuyên Nghiệp + Xanh Pan",
+    "ProLead": "Guitar Chính Chuyên Nghiệp",
+    "Vocals": "Hòa Ca Bằng Phím Nhấn"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Điều chỉnh âm lượng nhạc nền trò chơi trong Lễ Hội.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Nhạc Nền - Lễ Hội"

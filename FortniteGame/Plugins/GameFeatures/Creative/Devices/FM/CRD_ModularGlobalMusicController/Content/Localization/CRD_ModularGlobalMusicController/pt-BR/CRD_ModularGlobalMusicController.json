@@ -1,12 +1,12 @@
 {
   "": {
     "DDEE012947E31A3917662580FB922519": "0",
-    "1744D258490B03D8038DFCB3E5169D04": "Determina as configurações compartilhadas, como compasso e nota fundamental, para todos os dispositivos Patchwork. Apenas um Gerenciador de Música pode ser colocado por Ilha.",
+    "DA762C1E498FAEEED9C89A91A8215157": "Determina as configurações compartilhadas, como compasso e nota fundamental, para todos os dispositivos Patchwork. Apenas um Gerenciador de Música pode ser colocado por Ilha.",
     "FBFF03364804673303F1AA8E8E8B092B": "Determina as configurações compartilhadas, como compasso e nota fundamental, para todos os dispositivos Patchwork. Apenas um Gerenciador de Música pode ser colocado por Ilha.",
     "CFDDBA7D4135D72047B95C8CF99EF755": "Exemplo de dispositivo",
-    "A36FF126492541D5CF9921A673A90B63": "Composição Global",
+    "416DF86E40AAAC5BE2BDABAD145FEE1E": "Composição Global",
     "9C0417B64497D18FCBCF56910FEE6B94": "Gerenciador de Música do Patchwork",
-    "A1327E1641EF0C9D2FFE9EB7E6270B24": "Gerenciador de Música do Patchwork",
+    "C63C29394EB031FBFA48D1AB11F213AD": "Gerenciador de Música do Patchwork",
     "708C8B6C44CB965ECF3C80A308C0A427": "Tempo Rítmico:",
     "6CFD94D04ADAFBC4B058B48B9E8C0223": "Quando habilitado, a reprodução da batida começa em 0. Quando desabilitado, ainda é possível interagir e modificar outros dispositivos, mas a funcionalidade deles será limitada."
   },

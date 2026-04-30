@@ -13,8 +13,8 @@
     "59EFAB3745356E62F57E5CB32A568812": "Cancella",
     "3447D21A488F2B6DA99205968176C8A2": "Copia il contenuto dello spartito attuale sulla pagina vuota successiva disponibile. Se non ci sono pagine vuote, questo pulsante è disabilitato.",
     "C19DCFCA41D75A35AB252295753CE2F5": "Duplica pagina",
-    "2DB8013C4C77B8517139FAB6EBC6B42A": "Generatore di note Patchwork",
-    "44BF56A34667FCB28163A495ECC11C3B": "Sequencer note Patchwork",
+    "2A88062748A2B928FB74A2AAE2D578B5": "Generatore di note patchwork",
+    "01D67D28406F75B2B12BAC8AB68B7EF7": "Sequencer note Patchwork",
     "D92705A64B48859A71057A8F7FEC4C74": "Sequencer note Patchwork",
     "70580ABA43EB40BB97B7039B9C0CC58C": "Posiziona le note in maniera casuale nella pagina attuale.",
     "0203DE694A6A13E55D81E78721702CD2": "Posiziona le note in maniera casuale nella pagina attuale. Questo sostituirà tutto il contenuto della griglia nella pagina.",
@@ -22,7 +22,7 @@
     "CB13F7F542F6940519D20C9B178AB6D3": "Casuale",
     "E0369FA346F82B7573053E8BC80CE960": "Rimuove tutte le note dalla griglia nella pagina attuale.",
     "1D7B470146CC63B3138A299E59C3945A": "Imposta sequenze melodiche che puoi inviare al Riproduttore strumenti Patchwork, all'Omega Synth o ad altri dispositivi Patchwork. Di solito è il primo dispositivo in una catena di dispositivi Patchwork.",
-    "49E7BB764AB4B33CA7B2A9BFABFF4A96": "Imposta sequenze melodiche che puoi inviare al Riproduttore strumenti Patchwork, all'Omega Synth o ad altri dispositivi Patchwork. Di solito è il primo dispositivo in una catena di dispositivi Patchwork."
+    "C328A9F244F2F75634623694F8896D03": "Imposta sequenze melodiche che puoi inviare al Riproduttore strumenti Patchwork, all'Omega Synth o ad altri dispositivi Patchwork. Di solito è il primo dispositivo in una catena di dispositivi Patchwork."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etichetta"

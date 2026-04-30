@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "잼 트랙에 내 댄스 이모트 동기화",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "이 설정은 잼 트랙 재생 중 댄스 이모트의 작동 방식을 변경합니다."
   },
+  "ST_InstrumentNames": {
+    "Bass": "베이스",
+    "Drums": "드럼",
+    "Lead": "리드 기타",
+    "ProVocals": "마이크 보컬",
+    "ProBass": "프로 베이스",
+    "ProDrums": "프로 드럼",
+    "ProDrumsCymbals": "프로 드럼 + 심벌즈",
+    "ProLead": "프로 리드 기타",
+    "Vocals": "탭 보컬"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "페스티벌 게임플레이 음악의 볼륨을 조절합니다.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "음악 - 페스티벌"

@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Bir başka Patchwork ses cihazına yollamadan önce Patchwork ses girdisinin ses düzeyini ayarlar. Mix'lerde birden çok ses girdisi varsa bunlardan bazılarına Gain efekti uygulayarak mix'in bütününde her bir ses girdisinin ses düzeyini dengeleyebilirsin.",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "Bir başka Patchwork ses cihazına yollamadan önce Patchwork ses girdisinin ses düzeyini ayarlar. Mix'lerde birden çok ses girdisi varsa bunlardan bazılarına Gain efekti uygulayarak mix'in bütününde her bir ses girdisinin ses düzeyini dengeleyebilirsin.",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "Bir başka Patchwork ses cihazına yollamadan önce Patchwork ses girdisinin ses düzeyini ayarlar. Mix'lerde birden çok ses girdisi varsa bunlardan bazılarına Gain efekti uygulayarak mix'in bütününde her bir ses girdisinin ses düzeyini dengeleyebilirsin.",
     "43690F0542ED4B273A4C72B2627C2936": "Ses girdisinin ses düzeyini seçilen değerle çarpar. 0 değeri sesi tamamen kısar. 2 değeri ses düzeyini ikiye katlar.",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork Gain Efekti",
-    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork Gain Efekti",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork Gain Efekti"
+    "5595D0E241D0236725A1FDAA071F349D": "Patchwork Gain Efekti",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork Gain Efekti",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Patchwork Gain Efekti"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiket"

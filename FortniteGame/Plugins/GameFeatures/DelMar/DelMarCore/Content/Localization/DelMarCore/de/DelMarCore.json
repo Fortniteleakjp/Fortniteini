@@ -389,7 +389,6 @@
     "IdleKick": "Wegen Inaktivität entfernt.",
     "SuspendKick": "Wegen Inaktivität entfernt.",
     "PlayspaceNoLevelTags": "Kartenfehler",
-    "PostRace_MatchmakingCancelled": "Spielersuche fehlgeschlagen, Reason={0}",
     "NotEnoughPlayersJoined": "Es sind nicht genug Spieler beigetreten.",
     "ReplaceInChain_Title": "Checkpoint in der Reihe ersetzen",
     "PostRaceTimeout": "Die Gegnersuche hat zu lange gedauert.",

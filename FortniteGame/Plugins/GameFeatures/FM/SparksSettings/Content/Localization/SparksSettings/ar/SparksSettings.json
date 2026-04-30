@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "مزامنة رقصاتي مع مقطوعات العزف",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "تغير هذه الإعدادات ما يحدث لرقصاتك عند تشغيل مقطوعة عزف."
   },
+  "ST_InstrumentNames": {
+    "Bass": "الباس",
+    "Drums": "الطبول",
+    "Lead": "النغمات الرئيسية",
+    "ProVocals": "الصوتيات (الميكروفون)",
+    "ProBass": "الباس الاحترافي",
+    "ProDrums": "الطبول الاحترافية",
+    "ProDrumsCymbals": "الطبول الاحترافية + الصنج",
+    "ProLead": "النغمات الرئيسية الاحترافية",
+    "Vocals": "الصوتيات (الأزرار)"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "لضبط مستوى صوت موسيقى اللعب في Festival.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "موسيقى - Festival"

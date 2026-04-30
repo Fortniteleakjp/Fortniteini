@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Synchroniser mes emotes de danse avec les pistes musicales",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Ces paramètres permettent de modifier le comportement de vos emotes de danse pendant la lecture d'une piste musicale."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Basse",
+    "Drums": "Batterie",
+    "Lead": "Instrument principal",
+    "ProVocals": "Chant (micro)",
+    "ProBass": "Basse pro",
+    "ProDrums": "Batterie pro",
+    "ProDrumsCymbals": "Batterie pro + cymbales",
+    "ProLead": "Instrument principal pro",
+    "Vocals": "Chant (classique)"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Ajuste le volume des musiques en jeu dans Fortnite Festival.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Musique - Fortnite Festival"

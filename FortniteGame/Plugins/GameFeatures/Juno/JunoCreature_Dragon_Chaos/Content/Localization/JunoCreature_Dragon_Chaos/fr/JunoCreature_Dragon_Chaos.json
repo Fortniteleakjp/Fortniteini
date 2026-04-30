@@ -1,0 +1,21 @@
+{
+  "": {
+    "46EF8CF543C2E71D7FFF2FA768665CD8": "Écaille de dragon du CHAOS",
+    "2AD3722B4AA8277D2B616EA3B2FF3964": "Se trouve sur la <empha>terre des Monstres</>. Attention ! Vous ne pouvez vous y rendre qu'en passant par un portail au <img id=\"IcoNinja\"/><empha>monastère du Spinjitzu</>.",
+    "48DFF74E4C71FC232197B0ABB73FE0E7": "Se trouve sur <img id=\"IcoNinja\"/><emphA>l'île Ninjago</>.",
+    "71B4D1CE45A9972DEF6C109F8D0A33CB": "Gadget Utilitaire Grenade M80",
+    "6A4A58C64A4BAA79018884856B64A987": "Récupérée sur des dragons du CHAOS vaincus.",
+    "CD985E374803BE34426D3781F4025424": "Cherchez ... sur <img id=\"IcoNinja\"/><emphA>l'île Ninjago</>.",
+    "7503823E4213AB9FD2FA23AD5A0F4DBB": "Invocateur du chaos",
+    "E4F4D948453F0702F575FABBB0E8B479": "Ces descendants du Croc-de-tonnerre sont légion et ils utilisent le pouvoir du chaos pour passer d'un ÉLÉMENT à l'autre en combat. Mais en raison de leur nature chaotique, il ne peut en apparaître qu'un seul à la fois sur la terre des Monstres.",
+    "70EB058942B3B9AE472B2885C8BCC065": "Empruntez un portail à l'endroit où <img id=\"IcoNinja\"/>tourbillonnent les ninjas.",
+    "738F94C04A3DE31E12060F9B5382D542": "UPan",
+    "5555B9E84F5BE421AD43A3A67C55A669": "UScale",
+    "5C4EBBC64BF07FA4C14908A38A8A1D24": "VPan",
+    "0BF8B142420F7020DF7348BDB3CC88E1": "VScale",
+    "F1F2643042C9519881E6FF9B3CB18CBB": "ressource de fabrication"
+  },
+  "Juno_UpdateItemData": {
+    "6DB84AE44D3A0B46BC6B30AA5BA4A093": "Une écaille maléfique."
+  }
+}

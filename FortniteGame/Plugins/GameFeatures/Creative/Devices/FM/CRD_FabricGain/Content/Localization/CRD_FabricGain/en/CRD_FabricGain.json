@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Adjust the volume of Patchwork audio input before sending it to another Patchwork audio device. When you have a mix with multiple audio inputs, applying Gain to some of them can help balance the volume of each input in the overall mix.",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "Adjust the volume of Patchwork audio input before sending it to another Patchwork audio device. When you have a mix with multiple audio inputs, applying Gain to some of them can help balance the volume of each input in the overall mix.",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "Adjust the volume of Patchwork audio input before sending it to another Patchwork audio device. When you have a mix with multiple audio inputs, applying Gain to some of them can help balance the volume of each input in the overall mix.",
     "43690F0542ED4B273A4C72B2627C2936": "Multiplies the volume of the audio input by the selected value. A value of 0 will mute the audio. A value of 2 will double the volume of the audio.",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork Gain Effect",
-    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork Gain Effect",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork Gain Effect"
+    "5595D0E241D0236725A1FDAA071F349D": "Patchwork Gain Effect",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork Gain Effect",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Patchwork Gain Effect"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"

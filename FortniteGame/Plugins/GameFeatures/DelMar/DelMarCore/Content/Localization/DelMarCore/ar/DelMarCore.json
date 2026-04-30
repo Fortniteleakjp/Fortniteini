@@ -389,7 +389,6 @@
     "IdleKick": "تم استبعادك لبقائك في وضع السكون لفترة طويلة للغاية.",
     "SuspendKick": "تم استبعاده بسبب إيقافه لفترة طويلة للغاية.",
     "PlayspaceNoLevelTags": "خطأ في الخريطة",
-    "PostRace_MatchmakingCancelled": "تم إلغاء العثور على اللاعبين، Reason={0}",
     "NotEnoughPlayersJoined": "لم ينضم ما يكفي من اللاعبين.",
     "ReplaceInChain_Title": "استبدال نقطة الحفظ في السلسلة",
     "PostRaceTimeout": "انتهت مهلة البحث عن اللاعبين.",

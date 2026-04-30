@@ -1,30 +1,30 @@
 {
   "": {
-    "168A9930481DCA6CFE6E8286B391F4EC": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Die Vergeltung kehrt zurück</> ab, um das Rezept freizuschalten.",
     "3BCBC819415A467EF647E993AD44E80D": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Die Vergeltung kehrt zurück</> ab, um das Rezept freizuschalten.",
-    "45224ACF474D7CC001B23F81BB89A512": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Die Vergeltung kehrt zurück</> ab, um das Rezept freizuschalten.",
-    "667311A4437208B95CEA11A852CBC791": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Die Vergeltung kehrt zurück</> ab, um das Rezept freizuschalten.",
     "9AA201FA46CBC66B1CE52883B2B90C50": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Die Vergeltung kehrt zurück</> ab, um das Rezept freizuschalten.",
-    "D37D8ADD4B57F647E7F26D919988D055": "Schließe <emphA>Vergeltung-Jones’</> Auftrag <emphA>Die Vergeltung kehrt zurück</> ab, um das Rezept freizuschalten.",
-    "2EAFA99E42D51BC274380AAA5036D5AA": "Hau die Gegner platt!",
-    "71C8663E4B40DEC6643552B2BECF1135": "Hau die Gegner platt!",
     "9332D3B74BB95B8FAB5F0C8795B78CDE": "Hau die Gegner platt!",
-    "94F865F64B2080551E7F03A71FBE0D93": "Hau die Gegner platt!",
     "B41434DF41865634B14F55AE3E287A2C": "Hau die Gegner platt!",
-    "E95434D744FEA0E09B6ED58C2B5910D1": "Hau die Gegner platt!"
+    "34FE5C3A4B545E21875705BE3626EAF0": "Ernte den Sieg.",
+    "372CE5CC40D3E37240FB5B97D389441B": "Erlernbar im Ninja-Beherrschung-Tab ",
+    "57C5E0594F5066F0B2A3D09D15AE826D": "Erlernbar im Ninja-Beherrschung-Tab ",
+    "FCBA6F56416309832D673A9A20C0899E": "Erlernbar im Ninja-Beherrschung-Tab ",
+    "C02EBDF44B84DD6E3076A18DF5574E91": "Mach die Agrikultur zur Aggro-Kultur.",
+    "DA3AB04E4E5D8D354EEB498755EC0572": "Suche den ELEMENTARMEISTER der ERDE auf und lerne im Ninja-Beherrschung-Tab ",
+    "1517B018433070D13715CDB3AA95CD94": "Gleich ist Sense, Alter.",
+    "8F756F4D4C6256A7017FAFA0F6F65873": "Säe Schaden, ernte Belohnungen."
   },
   "Juno_UpdateItemData": {
     "DF888CF346C2CBFBDA11CCB5FAC0E1D2": "Gewöhnliche Sense.Bezwinge deine Gegner mit dieser mächtigen Waffe.",
-    "A83356AE4B3053983B182494D72FE998": "Epische Sense.Bezwinge deine Gegner mit dieser mächtigen Waffe.",
-    "A0781E634CA6AF001EF3BA9D03D70453": "Legendäre Sense.Bezwinge deine Gegner mit dieser mächtigen Waffe.",
-    "45B4B00F4C26CDD7FCDDEBA579BE2B38": "Seltene Sense.Bezwinge deine Gegner mit dieser mächtigen Waffe.",
-    "23CCE2DE4CEC1BE2552E058BB7D0F853": "Sense",
-    "51E0460B4D6AC69B63C5D4B82DB5276C": "Sense",
-    "586BE8B9432F506C517C4B9FDDECCFF5": "Sense",
+    "C100B24643371C58B102818D62B1D266": "Epische Zweihandsense. Eine weitreichende Waffe zur Massenkontrolle.",
+    "C20CFBF44A72227EB5643798EBDA66C0": "Legendäre Zweihandsense. Eine weitreichende Waffe zur Massenkontrolle.",
+    "8E17896B4E9FE80A6DCE5898F1A8CF38": "Seltene Zweihandsense. Eine weitreichende Waffe zur Massenkontrolle.",
+    "96E54AED46F5CCFB85A47D9948FBC1CA": "Sense",
     "9F2BA22E4B83355D1CFF42BB69BEFC12": "Sense",
-    "C7AAAF334CB402AC70AA868AB516381D": "Sense",
+    "A5C16438493A0A3AECC4919F254122B1": "Sense",
+    "A70A12DE4EE937A5676A699279623A53": "Sense",
+    "CA0C99424C8F635BFA3989AA0E631A6F": "Sense",
     "1B64AB7F44F6D7BE157FCDAA8076258D": "Steinsense",
-    "0341978B4FF993F1A1402389AC1447F7": "Ungewöhnliche Sense.Bezwinge deine Gegner mit dieser mächtigen Waffe.",
-    "F0AA9C6145FCD67C2845388CC9981D92": "Ungewöhnliche Sense. Bezwinge deine Gegner mit dieser mächtigen Waffe."
+    "F0AA9C6145FCD67C2845388CC9981D92": "Ungewöhnliche Sense. Bezwinge deine Gegner mit dieser mächtigen Waffe.",
+    "12009D5E4F7F87D6D03D739FB5312A0A": "Ungewöhnliche Zweihandsense Eine weitreichende Waffe zur Massenkontrolle."
   }
 }

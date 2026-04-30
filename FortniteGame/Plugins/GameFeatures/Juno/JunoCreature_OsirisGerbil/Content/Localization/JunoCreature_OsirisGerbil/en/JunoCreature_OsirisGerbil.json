@@ -1,1 +1,32 @@
-{}
+{
+  "": {
+    "4E6AC3DE46ECFEE37EC01FB35AA6D54D": "Find this creature on an island <Yel>far, far away</>.",
+    "A66D36F34DA05390C04AF5A69F94B523": "Find this creature on an island <Yel>far, far away</>.",
+    "89F41F2642D217B353EBD896354404FB": "Found on an island <Yel>far, far away</>.",
+    "B422EB7341DE0F5057036B8B46EF6C91": "Found on an island <Yel>far, far away</>.",
+    "B02FAC01464200B6FE1184B932D79123": "Frog",
+    "62005B8748D374D31C6F728CF61F9813": "Gadget UtilityItem M80 Grenade",
+    "819CA39B4036FF6ADB43C7A43887C975": "Originally cliff-dwelling birds from Ahch-To, Porgs are known to drop <emphasis>Fervent Eggs</> after being pet or enjoying a snack. Depending on what they're fed, Porgs assigned to a <emphasis>Barn</> will produce even more items. A Porg that's eliminated may yield <emphasis>Feathers</>, <emphasis>Robust Meat</> ...or a guilty conscience.",
+    "E125597C4F2415111EF2BF8646D00B7B": "Originally cliff-dwelling birds from Ahch-To, Porgs are known to drop <emphasis>Fervent Eggs</> after being pet or enjoying a snack. Depending on what they're fed, Porgs assigned to a <emphasis>Barn</> will produce even more items. A Porg that's eliminated may yield <emphasis>Feathers</>, <emphasis>Robust Meat</> ...or a guilty conscience.",
+    "2079BD6A480BD944847660948E1DE760": "PLACEHOLDER GERBIL DESCRIPTION",
+    "10817670423484E575EC6D9C226ED064": "Porg",
+    "33597A23412BCFB4C724EFBFA9F9A947": "Porg"
+  },
+  "Juno_AnimalRandomNames": {
+    "3777CD284E9CCD2291CD59B0A53D9F09": "Bail Porgana",
+    "9A98DD034363468E44205FBD3A83BF57": "Bess",
+    "6C2B89CF4060C56DDD9CA1ABE6CE3744": "Darth Porgus",
+    "B2D84CA24D56879228FF9BB35EBEA394": "Egg-soka",
+    "F74897FF447ECC28399313885A035B64": "Grand Puff Snarkin",
+    "8F98410145BFDEBC7EE6BD8837281DB6": "Leia Porgana",
+    "59D5AEE14DCBB2D8F329269B8044B810": "Lunt",
+    "443C20744E9186D4C73F0BB98D5C7285": "Porg-Katan",
+    "16CB6C0A42279BE6373F52A2E1066DCA": "Porgdawan",
+    "EDEE76B946273CD3FC5988BD75750C19": "Porgle the Lesser",
+    "C4CCC5EB4FF78504FDE9A6A6EC4D96B2": "Porgmé",
+    "76019A0A4C726AB29D5C80B9FC72E98C": "Princess Lay-Egg",
+    "44021A464596E81D9C9E0CAA94B3B23A": "Puffy",
+    "B3BE2DF440B55578042B71A51B1408CC": "Roastie",
+    "04294F6241038A7D06BC48AF9FA3EB00": "Terbus"
+  }
+}

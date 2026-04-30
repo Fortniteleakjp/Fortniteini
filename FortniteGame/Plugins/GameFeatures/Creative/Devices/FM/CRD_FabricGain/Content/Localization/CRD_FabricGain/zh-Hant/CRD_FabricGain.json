@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "在將 Patchwork 音訊傳送到其他 Patchwork 裝置前，先調整其音訊輸入音量。當你的混音中有多個音訊來源時，對其中部分輸入套用「增益」可以幫助平衡整體音量。",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "在將 Patchwork 音訊傳送到其他 Patchwork 裝置前，先調整其音訊輸入音量。當你的混音中有多個音訊來源時，對其中部分輸入套用「增益」可以幫助平衡整體音量。",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "在將 Patchwork 音訊傳送到其他 Patchwork 裝置前，先調整其音訊輸入音量。當你的混音中有多個音訊來源時，對其中部分輸入套用「增益」可以幫助平衡整體音量。",
     "43690F0542ED4B273A4C72B2627C2936": "將輸入的音訊音量乘以所選數值。值設為 0 時會將音訊靜音。值設為 2 時則會將音訊音量放大兩倍。",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Patchwork 增益效果",
-    "8A62F091464769AD6A2A51B1CECCED46": "Patchwork 增益效果",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork 增益效果"
+    "5595D0E241D0236725A1FDAA071F349D": "Patchwork 增益效果",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Patchwork 增益效果",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Patchwork 增益效果"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "標籤"

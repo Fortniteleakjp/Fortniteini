@@ -13,8 +13,8 @@
     "59EFAB3745356E62F57E5CB32A568812": "Hapus",
     "3447D21A488F2B6DA99205968176C8A2": "Menyalin konten grid saat ini ke halaman kosong yang tersedia berikutnya. Jika tidak ada halaman yang kosong, tombol ini dinonaktifkan.",
     "C19DCFCA41D75A35AB252295753CE2F5": "Halaman Duplikat",
-    "2DB8013C4C77B8517139FAB6EBC6B42A": "Generator Notasi Patchwork",
-    "44BF56A34667FCB28163A495ECC11C3B": "Sequencer Not Patchwork",
+    "2A88062748A2B928FB74A2AAE2D578B5": "Generator Not Patchwork",
+    "01D67D28406F75B2B12BAC8AB68B7EF7": "Sequencer Not Patchwork",
     "D92705A64B48859A71057A8F7FEC4C74": "Sequencer Not Patchwork",
     "70580ABA43EB40BB97B7039B9C0CC58C": "Menempatkan not secara acak pada halaman yang sedang dibuka.",
     "0203DE694A6A13E55D81E78721702CD2": "Menempatkan not secara acak pada halaman yang sedang dibuka. Opsi ini akan mengganti semua konten garis pada halaman tersebut.",
@@ -22,7 +22,7 @@
     "CB13F7F542F6940519D20C9B178AB6D3": "Acak",
     "E0369FA346F82B7573053E8BC80CE960": "Menghapus semua not dari grid di halaman saat ini.",
     "1D7B470146CC63B3138A299E59C3945A": "Mengatur pola melodi yang bisa kamu keluarkan ke Pemutar Instrumen Patchwork, Omega Synthesizer, atau perangkat Patchwork lainnya. Biasanya, ini hal pertama di rantai perangkat Patchwork.",
-    "49E7BB764AB4B33CA7B2A9BFABFF4A96": "Mengatur pola melodi yang bisa kamu keluarkan ke Pemutar Instrumen Patchwork, Omega Synthesizer, atau perangkat Patchwork lainnya. Biasanya, ini hal pertama di rantai perangkat Patchwork."
+    "C328A9F244F2F75634623694F8896D03": "Mengatur pola melodi yang bisa kamu keluarkan ke Pemutar Instrumen Patchwork, Omega Synthesizer, atau perangkat Patchwork lainnya. Biasanya, ini adalah hal pertama di rantai perangkat Patchwork."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"

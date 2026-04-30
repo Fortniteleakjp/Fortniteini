@@ -144,6 +144,7 @@
     "Unbound": "Desvinculado"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Ative a Sobrecarga cantando durante uma frase de Sobrecarga.",
     "ProVocalsMicOffsetMs_Description": "Ajusta o deslocamento de tempo (em ms) aplicado à entrada do microfone durante o jogo para {0}. Aumente este valor se sentir que a entrada de voz está sendo detectada com atraso.\n\nSe você alterar manualmente a configuração \"Latência de Áudio\" ou executar novamente o processo de Calibragem, talvez seja necessário ajustar este valor de novo.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Sempre Exibir Trechos Pro",
     "AlwaysShowProInstrumentTrackSelection_Description": "Sempre exibe trechos Pro na Seleção de Trechos do Festival, mesmo que nenhum instrumento tenha sido detectado.",
@@ -223,10 +224,10 @@
     "GuitarModeEditCondition_Description": "Esta configuração está desabilitada porque a opção \"Modo Guitarra\" foi habilitada!",
     "TrackSpeed_Name": "Velocidade da Faixa",
     "CalibrationProfile_Name": "Perfil de Calibragem",
-    "ProDrumsEnableBlueCymbals_Description": "Habilitar esta configuração mostrará címbalos azuis durante o jogo.",
+    "ProDrumsEnableBlueCymbals_Description": "Habilitar esta configuração mostrará pratos azuis durante o jogo.",
     "ProDrumsEnableGreenCymbals_Description": "Habilitar esta configuração mostrará pratos verdes durante o jogo se Inverter para Canhoto estiver DESLIGADO.",
     "ProDrumsEnableRedCymbals_Description": "Habilitar esta configuração mostrará pratos vermelhos durante o jogo se o Inverter para Canhoto estiver LIGADO.",
-    "ProDrumsEnableYellowCymbals_Description": "Habilitar esta configuração mostrará címbalos amarelos durante o jogo.",
+    "ProDrumsEnableYellowCymbals_Description": "Habilitar esta configuração mostrará pratos amarelos durante o jogo.",
     "EnableVibrationForHittingNotes_Description": "Habilita/desabilita o recurso de vibração do controle ao acertar notas.",
     "UseAlternative5LaneTouchLayout_Description": "Liga/desliga o uso de um layout alternativo de toque com 5 pistas. Com a opção ligada, o lado esquerdo da tela fica com 3 (três) botões em vez de 2 (dois) quando o jogador toca uma música de 5 pistas. O botão para a terceira pista ficará disponível dos dois lados da tela. Com a opção desligada, o lado esquerdo da tela fica com 2 (dois) botões quando o jogador toca uma música de 5 pistas.",
     "EnableMobileExpandedTrack_Description": "Liga/desliga o uso de faixa expandida. Quando ligado, mais Músicas do Festival serão usadas sem a exibição de botões na tela, e as entradas por toque serão feitas diretamente em cada faixa. Quando desligado, os botões de toque na tela serão usados em menos Músicas do Festival.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Usar Cores do Modo Pro em Todos os Trechos",
     "EnableVibrationForHittingNotes_Name": "Vibração ao Acertar Notas",
     "VideoLatency_Name": "Latência de Vídeo",
+    "VoiceActivatedOverdrive_Name": "Sobrecarga Ativada por Voz",
     "ProVocalsInputDevice_Name": "Dispositivo de Entrada {0}",
     "ProVocalsMicOffsetMs_Name": "Deslocamento do Microfone {0}",
     "ProVocalsMicSensitivity_Name": "Sensibilidade do Microfone {0}",

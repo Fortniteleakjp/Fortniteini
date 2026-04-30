@@ -14,6 +14,7 @@
     "77BDBCC7F398202C53E0C058CEAF2645": "Costola cabina Corazzata",
     "735498C55B252E5E53E0C058C7CA42CF": "Cannone Corazzata",
     "735498C55B252E5E53E0C058CEAF2645": "Cannone Corazzata",
+    "632F0875480FB8092DF1CAAE02D7E2F6": "Dirigibile Corazzata",
     "0640C58F66C7D3D453E0C058C7CA42CF": "Motore Corazzata",
     "0640C58F66C7D3D453E0C058CEAF2645": "Motore Corazzata",
     "4229580C49B4E57CA20E7C8770F8D9A8": "Propulsore jumbo Corazzata",
@@ -39,7 +40,6 @@
     "F963DEDF159EB39D53E0C058C7CA42CF": "Vela alare Corazzata - Babordo",
     "F963DEDF159EB39D53E0C058CEAF2645": "Vela alare Corazzata - Babordo",
     "159C6DDC7CFA84F253E0C058C7CA42CF": "Vela alare Corazzata - Tribordo",
-    "159C6DDC7CFA84F253E0C058CEAF2645": "Vela alare Corazzata - Tribordo",
-    "632F0875480FB8092DF1CAAE02D7E2F6": "JBID_VCU_GB_Airship_Leviathan_Static"
+    "159C6DDC7CFA84F253E0C058CEAF2645": "Vela alare Corazzata - Tribordo"
   }
 }

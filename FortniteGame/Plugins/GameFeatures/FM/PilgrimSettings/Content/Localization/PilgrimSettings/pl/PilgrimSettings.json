@@ -144,6 +144,7 @@
     "Unbound": "Nieprzypisany"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Aktywuj przester, śpiewając podczas frazy przesteru.",
     "ProVocalsMicOffsetMs_Description": "Dostosowuje przesunięcie czasowe (w ms) wejścia mikrofonu podczas rozgrywki: {0}. Zwiększ tę wartość, jeśli masz wrażenie, że głos jest wykrywany z opóźnieniem.\n\nMoże być konieczne ponowne dostosowanie tej wartości po ręcznej zmianie ustawienia „Opóźnienie dźwięku” lub ponownym strojeniu.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Zawsze wyświetlaj partie profesjonalne",
     "AlwaysShowProInstrumentTrackSelection_Description": "Zawsze wyświetlaj partie profesjonalne w menu partii Fortnite Festival, nawet jeśli nie wykryto żadnego instrumentu.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Użyj profesjonalnych kolorów dla wszystkich partii",
     "EnableVibrationForHittingNotes_Name": "Wibracja przy trafianiu nut",
     "VideoLatency_Name": "Opóźnienie obrazu",
+    "VoiceActivatedOverdrive_Name": "Przester aktywowany głosem",
     "ProVocalsInputDevice_Name": "Urządzenie wejściowe: {0}",
     "ProVocalsMicOffsetMs_Name": "Przesunięcie mikrofonu: {0}",
     "ProVocalsMicSensitivity_Name": "Czułość mikrofonu: {0}",

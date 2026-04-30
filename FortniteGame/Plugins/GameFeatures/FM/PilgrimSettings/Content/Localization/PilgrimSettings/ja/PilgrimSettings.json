@@ -144,6 +144,7 @@
     "Unbound": "割り当てなし"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "オーバードライブフレーズ中に歌うと、オーバードライブが発動する。",
     "ProVocalsMicOffsetMs_Description": "{0}のゲームプレイ中にマイク入力に適用されるタイミングのオフセット(ミリ秒単位)を調整します。ボイス入力の検知が遅れていると感じる場合は、この値を増やしてください。「音声のレイテンシー」の設定を手動で変更するか、「チューンナップ」をやり直した場合は、この値の再調整が必要なことがあります。",
     "AlwaysShowProInstrumentTrackSelection_Name": "プロのパートを常に表示",
     "AlwaysShowProInstrumentTrackSelection_Description": "楽器を検出していない場合でも、Festivalのパート選択でプロのパートを常に表示します。",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "全てのパートでプロ用カラーを使用",
     "EnableVibrationForHittingNotes_Name": "ノートHITでの振動",
     "VideoLatency_Name": "映像のレイテンシー",
+    "VoiceActivatedOverdrive_Name": "ボイス起動オーバードライブ",
     "ProVocalsInputDevice_Name": "{0}の入力デバイス",
     "ProVocalsMicOffsetMs_Name": "{0}のマイクオフセット",
     "ProVocalsMicSensitivity_Name": "{0}のマイク感度",

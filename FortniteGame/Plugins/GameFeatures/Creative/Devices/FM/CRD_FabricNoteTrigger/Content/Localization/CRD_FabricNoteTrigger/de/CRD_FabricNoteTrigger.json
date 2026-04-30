@@ -1,11 +1,11 @@
 {
   "": {
     "E3622AE347AF63C79AFC06AF86708F9F": "ALLE",
-    "DCAFBBAF45B332C75F71FF9257B2207B": "Patchwork-Noteneffekt",
+    "91C766254F4133B733BE3EACB71BE854": "Patchwork-Noteneffekt",
+    "71D0AB09490991DD37BE37B8E099A5FA": "Patchwork-Notenauslöser",
     "97D8F24F4D8EB51F9AA47DA911BDCA6E": "Patchwork-Notenauslöser",
-    "EDB539014CB92AE5AA90BDAF12AFE230": "Patchwork-Notenauslöser",
+    "784E609046E9269985767D98BDD683C1": "Verwende dieses Gerät, um in Fortnite basierend auf spezifischen Noteneingaben vom Patchwork-Notensequenzer oder anderen Patchwork-Notengeneratoren Events an andere Geräte zu senden. ",
     "BB70B1C94DC28944E84066A4CB3B9835": "Verwende dieses Gerät, um in Fortnite basierend auf spezifischen Noteneingaben vom Patchwork-Notensequenzer oder anderen Patchwork-Notengeneratoren Events an andere Geräte zu senden. ",
-    "EA31498D475A95DD44BA52B6A67DD4A5": "Verwende dieses Gerät, um in Fortnite basierend auf spezifischen Noteneingaben vom Patchwork-Notensequenzer oder anderen Patchwork-Notengeneratoren Events an andere Geräte zu senden. ",
     "886C491245B76C83F7951081B8FFA387": "Wenn Note empfangen, Senden an",
     "497A708F400C8E9A24E40DA392685B75": "Ist dies ausgeschaltet, werden keine Events gesendet. Notendaten werden durch dieses Gerät immer unverändert weitergeleitet. ",
     "1C62674E48F09FC6CBC1D59CBD84C6F1": "Sendet ein Signal auf dem festgelegten Kanal, wenn dieses Gerät die ausgewählte Midi-Note empfängt."

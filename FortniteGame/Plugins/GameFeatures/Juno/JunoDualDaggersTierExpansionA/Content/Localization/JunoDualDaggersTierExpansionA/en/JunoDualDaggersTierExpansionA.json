@@ -1,13 +1,13 @@
 {
   "": {
-    "23EB52264CC9FAA4A54FED8840F95FBA": "Complete <emphA>Vengeance Jones'</> <emphA>Nailed it!</> quest to unlock crafting recipe. ",
-    "504B7AD24749F2016C2C75A22F5DAE71": "Complete <emphA>Vengeance Jones'</> <emphA>Nailed it!</> quest to unlock crafting recipe. ",
-    "96B092324CE0D9CFC7E8DF8046DF7694": "Complete <emphA>Vengeance Jones'</> <emphA>Nailed it!</> quest to unlock crafting recipe. ",
-    "CD83E785455D54AE5321CBBD10A8F9C2": "Complete <emphA>Vengeance Jones'</> <emphA>Nailed it!</> quest to unlock crafting recipe. ",
-    "E04C12AB4AA93099FEE9CC9BA7AB46C9": "Double trouble.",
-    "00A05D24493018D8ABB05A8C669D9C47": "Duel with dual.",
-    "251EE9AD461FAC50BD50F28F2D2FE948": "Just dual it.",
-    "9730B9624AA9DCA6B9E9CABF00A1A63E": "Legen-dual-y."
+    "91CC6F5E4F71BD35A02F3E9D6D75B0A5": "Double trouble.",
+    "F6BB7307468814F9577929A531990BF3": "Duel with dual.",
+    "556F8FDF4549639AC35B13AA13C6CF77": "Just dual it.",
+    "6B3B568244D8AF8345EB90BBD0189EFC": "Legen-dual-y.",
+    "3D5CBA134C79FE364B1883A7E4686D35": "Upgrade <EmphA>Epic Dual Daggers</> with the power of <EmphA>Rift Crystals</>.",
+    "4C560BF94588E94B4CCD319246FA528D": "Upgrade <EmphA>Epic Dual Daggers</> with the power of <EmphA>Rift Crystals</>.",
+    "C5E59E1E48AA094452D50B9448FCED9F": "Upgrade <EmphA>Epic Dual Daggers</> with the power of <EmphA>Rift Crystals</>.",
+    "CBEB579241568DA8E6AD07802D16F7F9": "Upgrade <EmphA>Epic Dual Daggers</> with the power of <EmphA>Rift Crystals</>."
   },
   "Juno_BoostedItemNames_DualDaggersTierExpansionA": {
     "Dual_Daggers_T5_T5_Honed_Bamboo_DisplayName": "Bamboo Dual Daggers",
@@ -25,13 +25,13 @@
     "Dual_Daggers_T8_T8_Honed_Steel_DisplayName": "Steel Dual Daggers"
   },
   "Juno_UpdateItemData": {
-    "45AE3E4A4C085DB4599940B5FBC003E0": "Dual Daggers",
-    "779C67D0434E0397A946168BF909ECF7": "Dual Daggers",
-    "AA5D678249A43D54B1E94CB2F825DC6E": "Dual Daggers",
-    "D7B32EE24FAA36A48748CABC6CC5EEF6": "Dual Daggers",
-    "B39267E14B538A83B97E84B438102B96": "Epic Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger.",
-    "192E8D314AAA6D28A5C40FBD1802FE7A": "Legendary Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger.",
-    "299CEFC842466335350396904C9891AC": "Rare Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger.",
-    "5BE47184402C96A5226C7991B4F78A38": "Uncommon Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger."
+    "2F78CDAD43244FA2160ACFAE3E5A9978": "Dual Daggers",
+    "386BF24448ED4E548909D6A6293C75AD": "Dual Daggers",
+    "89B7AEC441CEBF70C42E2485C456E920": "Dual Daggers",
+    "E7023B6F48F252BED0AAD98F8EDB7A55": "Dual Daggers",
+    "A6FEB11F4DCED11C68EA10BBE8F03D24": "Epic Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger.",
+    "289776AA400085BDD05DBB990524BA01": "Legendary Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger.",
+    "5126BA6D4746043CF7EFC7A6CB9C8DA4": "Rare Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger.",
+    "1144CA504119C779D8B0958ECCB56847": "Uncommon Dual Daggers. Strike swiftly and charge an attack that lets you rush towards danger."
   }
 }

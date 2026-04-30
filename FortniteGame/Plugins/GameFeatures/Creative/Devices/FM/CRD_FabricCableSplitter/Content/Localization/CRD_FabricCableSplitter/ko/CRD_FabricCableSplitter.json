@@ -1,10 +1,10 @@
 {
   "": {
-    "3C8FE52B491EDF35FA687E9869D4CBBE": "패치워크 케이블 스플리터",
-    "B9C0CD804806F0FFB9ED4FAB1D917C64": "패치워크 케이블 스플리터",
+    "103669F14CB6BAB68A76F3A8D46B75EB": "패치워크 케이블 스플리터",
+    "A6A2D10E4122384AB5DE398DFCCA7228": "패치워크 케이블 스플리터",
     "E2373C114617CEF91075F2A105964500": "패치워크 케이블 스플리터",
     "4A80C0494024B8CBB4E74F8B08854E02": "여러 출력으로 패치워크 케이블을 나눕니다.",
-    "F3B9AA9D445F6650FA04C6993BC53E7D": "여러 출력으로 패치워크 케이블을 나눕니다."
+    "CD761C7C43A234A1BC1E0EB442692F8F": "여러 출력으로 패치워크 케이블을 나눕니다."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "라벨"

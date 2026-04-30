@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Synchronizuj moje emotki taneczne ze ścieżkami jamowymi",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "To ustawienie zmienia zachowanie emotek tanecznych, gdy odtwarzana jest ścieżka jamowa."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Bas",
+    "Drums": "Perkusja",
+    "Lead": "Instrument prowadzący",
+    "ProVocals": "Wokal na mikrofonie",
+    "ProBass": "Profesjonalny bas",
+    "ProDrums": "Profesjonalna perkusja",
+    "ProDrumsCymbals": "Profesjonalna perkusja + talerze",
+    "ProLead": "Profesjonalny instrument prowadzący",
+    "Vocals": "Wokal dotykowy"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Zmienia głośność muzyki w rozgrywce Fortnite Festival.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Muzyka – Festival"

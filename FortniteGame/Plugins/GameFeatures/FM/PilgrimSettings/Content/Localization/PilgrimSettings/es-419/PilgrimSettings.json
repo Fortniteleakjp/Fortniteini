@@ -144,6 +144,7 @@
     "Unbound": "Sin configurar"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Activa la sobrecarga al cantar durante una frase de sobrecarga.",
     "ProVocalsMicOffsetMs_Description": "Ajusta la compensación de tiempo (en milisegundos) aplicada a la entrada del micrófono durante el juego en {0}. Aumenta este valor si sientes que la entrada de tu voz se detecta con retraso.\n\nSi cambias manualmente la configuración de \"latencia de sonido\" o vuelves a ejecutar el proceso de afinación, es posible que tengas que ajustar este valor otra vez.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Mostrar siempre las partes pro",
     "AlwaysShowProInstrumentTrackSelection_Description": "Mostrar siempre las partes pro en el selector de partes de Festival, incluso si no se detecta ningún instrumento.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Usar colores pro para todas las partes",
     "EnableVibrationForHittingNotes_Name": "Vibrar al tocar notas",
     "VideoLatency_Name": "Latencia de video",
+    "VoiceActivatedOverdrive_Name": "Sobrecarga activada por voz",
     "ProVocalsInputDevice_Name": "{0} Dispositivo de entrada MIDI",
     "ProVocalsMicOffsetMs_Name": "Compensación del micrófono {0}",
     "ProVocalsMicSensitivity_Name": "Sensibilidad de micrófono {0}",

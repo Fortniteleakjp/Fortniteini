@@ -1,11 +1,11 @@
 {
   "": {
     "E3622AE347AF63C79AFC06AF86708F9F": "TODO",
-    "DCAFBBAF45B332C75F71FF9257B2207B": "Efecto de nota de Patchwork",
+    "91C766254F4133B733BE3EACB71BE854": "Efecto de nota de Patchwork",
+    "71D0AB09490991DD37BE37B8E099A5FA": "Activador de notas de Patchwork",
     "97D8F24F4D8EB51F9AA47DA911BDCA6E": "Activador de notas de Patchwork",
-    "EDB539014CB92AE5AA90BDAF12AFE230": "Activador de notas de Patchwork",
+    "784E609046E9269985767D98BDD683C1": "Utiliza este dispositivo para enviar eventos a otros dispositivos en Fortnite cuando se reciban notas específicas desde el secuenciador de notas de Patchwork o desde otros generadores de notas de Patchwork. ",
     "BB70B1C94DC28944E84066A4CB3B9835": "Utiliza este dispositivo para enviar eventos a otros dispositivos en Fortnite cuando se reciban notas específicas desde el secuenciador de notas de Patchwork o desde otros generadores de notas de Patchwork. ",
-    "EA31498D475A95DD44BA52B6A67DD4A5": "Utiliza este dispositivo para enviar eventos a otros dispositivos en Fortnite cuando se reciban notas específicas desde el secuenciador de notas de Patchwork o desde otros generadores de notas de Patchwork. ",
     "886C491245B76C83F7951081B8FFA387": "Al recibir nota, transmitir en",
     "497A708F400C8E9A24E40DA392685B75": "Cuando se deshabilita, no se envían eventos. Los datos de notas siempre pasan a través de este dispositivo sin ningún cambio. ",
     "1C62674E48F09FC6CBC1D59CBD84C6F1": "Cuando este dispositivo reciba la nota midi seleccionada, transmitirá una señal en el canal seleccionado."

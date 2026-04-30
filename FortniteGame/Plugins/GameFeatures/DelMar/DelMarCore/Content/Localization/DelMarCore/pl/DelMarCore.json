@@ -389,7 +389,6 @@
     "IdleKick": "Wyrzucono za zbyt długi okres bezczynności.",
     "SuspendKick": "Wyrzucono za zbyt długi okres bezczynności.",
     "PlayspaceNoLevelTags": "Błąd mapy",
-    "PostRace_MatchmakingCancelled": "Anulowano dobieranie graczy, Reason={0}",
     "NotEnoughPlayersJoined": "Dołączyło zbyt mało graczy.",
     "ReplaceInChain_Title": "Zastąp punkt kontrolny w ciągu",
     "PostRaceTimeout": "Upłynął limit czasu podczas dobierania graczy.",

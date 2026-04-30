@@ -1,13 +1,13 @@
 {
   "": {
-    "23EB52264CC9FAA4A54FED8840F95FBA": "Üretim tarifini açmak için <emphA>İntikamcı Jonesy</>'nin <emphA>Çivi Çiviyi Söker!</> görevini tamamla. ",
-    "504B7AD24749F2016C2C75A22F5DAE71": "Üretim tarifini açmak için <emphA>İntikamcı Jonesy</>'nin <emphA>Çivi Çiviyi Söker!</> görevini tamamla. ",
-    "96B092324CE0D9CFC7E8DF8046DF7694": "Üretim tarifini açmak için <emphA>İntikamcı Jonesy</>'nin <emphA>Çivi Çiviyi Söker!</> görevini tamamla. ",
-    "CD83E785455D54AE5321CBBD10A8F9C2": "Üretim tarifini açmak için <emphA>İntikamcı Jonesy</>'nin <emphA>Çivi Çiviyi Söker!</> görevini tamamla. ",
-    "E04C12AB4AA93099FEE9CC9BA7AB46C9": "Çifte bela.",
-    "00A05D24493018D8ABB05A8C669D9C47": "Saldırılarını çifter çifter yap.",
-    "251EE9AD461FAC50BD50F28F2D2FE948": "İki elin sesi var.",
-    "9730B9624AA9DCA6B9E9CABF00A1A63E": "Çifte efsane."
+    "91CC6F5E4F71BD35A02F3E9D6D75B0A5": "Çifte bela.",
+    "F6BB7307468814F9577929A531990BF3": "Saldırılarını çifter çifter yap.",
+    "556F8FDF4549639AC35B13AA13C6CF77": "İki elin sesi var.",
+    "6B3B568244D8AF8345EB90BBD0189EFC": "Çifte efsane.",
+    "3D5CBA134C79FE364B1883A7E4686D35": "<EmphA>Yırtık Kristallerinin</> gücüyle bir <EmphA>Destansı Çifte Hançerler</>'i yükselt.",
+    "4C560BF94588E94B4CCD319246FA528D": "<EmphA>Yırtık Kristallerinin</> gücüyle bir <EmphA>Destansı Çifte Hançerler</>'i yükselt.",
+    "C5E59E1E48AA094452D50B9448FCED9F": "<EmphA>Yırtık Kristallerinin</> gücüyle bir <EmphA>Destansı Çifte Hançerler</>'i yükselt.",
+    "CBEB579241568DA8E6AD07802D16F7F9": "<EmphA>Yırtık Kristallerinin</> gücüyle bir <EmphA>Destansı Çifte Hançerler</>'i yükselt."
   },
   "Juno_BoostedItemNames_DualDaggersTierExpansionA": {
     "Dual_Daggers_T5_T5_Honed_Bamboo_DisplayName": "Bambu Çifte Hançerler",
@@ -25,13 +25,13 @@
     "Dual_Daggers_T8_T8_Honed_Steel_DisplayName": "Çelik Çifte Hançerler"
   },
   "Juno_UpdateItemData": {
-    "45AE3E4A4C085DB4599940B5FBC003E0": "Çifte Hançerler",
-    "779C67D0434E0397A946168BF909ECF7": "Çifte Hançerler",
-    "AA5D678249A43D54B1E94CB2F825DC6E": "Çifte Hançerler",
-    "D7B32EE24FAA36A48748CABC6CC5EEF6": "Çifte Hançerler",
-    "B39267E14B538A83B97E84B438102B96": "Destansı Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur.",
-    "192E8D314AAA6D28A5C40FBD1802FE7A": "Efsanevi Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur.",
-    "299CEFC842466335350396904C9891AC": "Nadir Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur.",
-    "5BE47184402C96A5226C7991B4F78A38": "Sıradışı Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur."
+    "2F78CDAD43244FA2160ACFAE3E5A9978": "Çifte Hançerler",
+    "386BF24448ED4E548909D6A6293C75AD": "Çifte Hançerler",
+    "89B7AEC441CEBF70C42E2485C456E920": "Çifte Hançerler",
+    "E7023B6F48F252BED0AAD98F8EDB7A55": "Çifte Hançerler",
+    "A6FEB11F4DCED11C68EA10BBE8F03D24": "Destansı Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur.",
+    "289776AA400085BDD05DBB990524BA01": "Efsanevi Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur.",
+    "5126BA6D4746043CF7EFC7A6CB9C8DA4": "Nadir Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur.",
+    "1144CA504119C779D8B0958ECCB56847": "Sıradışı Çifte Hançerler. Hızla hamle yap ve tehlikeye atılmana imkân veren bir saldırı doldur."
   }
 }

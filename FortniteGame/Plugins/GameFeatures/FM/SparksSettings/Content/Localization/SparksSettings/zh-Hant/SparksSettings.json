@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "同步舞蹈表情動作與即興曲目",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "此設定將變更播放即興曲目時，舞蹈表情動作的運作方式。"
   },
+  "ST_InstrumentNames": {
+    "Bass": "貝斯",
+    "Drums": "爵士鼓",
+    "Lead": "主奏",
+    "ProVocals": "持麥主唱",
+    "ProBass": "專業貝斯",
+    "ProDrums": "專業爵士鼓",
+    "ProDrumsCymbals": "專業爵士鼓 + 鈸",
+    "ProLead": "專業主奏",
+    "Vocals": "擊鍵主唱"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "調整 Festival 中遊戲音樂的音量。",
     "6BD3D4EC474B9CAAAA42E193124261C7": "音樂 - 節慶"

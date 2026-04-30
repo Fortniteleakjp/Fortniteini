@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "ซิงค์อีโมตเต้นของฉันกับแจมแทร็ก",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "การตั้งค่านี้จะใช้ควบคุมอีโมตเต้นของคุณขณะเล่นแจมแทร็ก"
   },
+  "ST_InstrumentNames": {
+    "Bass": "เบส",
+    "Drums": "กลอง",
+    "Lead": "กีตาร์ลีด",
+    "ProVocals": "นักร้องไมค์",
+    "ProBass": "โปรเบส",
+    "ProDrums": "โปรกลอง",
+    "ProDrumsCymbals": "โปรกลอง + ฉาบ",
+    "ProLead": "โปรลีด",
+    "Vocals": "นักร้องเคาะจังหวะ"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "ปรับระดับเสียงเพลงเกมเพลย์ในเฟสติวัล",
     "6BD3D4EC474B9CAAAA42E193124261C7": "มิวสิค - เฟสติวัล"

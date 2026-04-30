@@ -389,7 +389,6 @@
     "IdleKick": "因閒置時間過長而被踢出。",
     "SuspendKick": "因暫時遭封鎖過久而被踢出。",
     "PlayspaceNoLevelTags": "地圖錯誤",
-    "PostRace_MatchmakingCancelled": "配對取消，原因={0}",
     "NotEnoughPlayersJoined": "玩家數量不足。",
     "ReplaceInChain_Title": "替換檢查點連接",
     "PostRaceTimeout": "配對超時。",

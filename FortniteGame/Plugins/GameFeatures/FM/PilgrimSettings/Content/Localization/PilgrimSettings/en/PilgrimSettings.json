@@ -144,6 +144,7 @@
     "Unbound": "Unbound"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Activate Overdrive by singing during an Overdrive phrase.",
     "ProVocalsMicOffsetMs_Description": "Adjusts the timing offset (in milliseconds) applied to microphone input during {0} gameplay. Increase this value if you feel like your voice input is being detected late.\n\nIf you manually change your \"Audio Latency\" setting, or re-run the Tune-Up process, you may need to adjust this value again.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Always Display Pro Parts",
     "AlwaysShowProInstrumentTrackSelection_Description": "Always show Pro parts in Festival's Part Selector, even when no instrument has been detected.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Use Pro Colors for All Parts",
     "EnableVibrationForHittingNotes_Name": "Vibration for Hitting Notes",
     "VideoLatency_Name": "Video Latency",
+    "VoiceActivatedOverdrive_Name": "Voice Activated Overdrive",
     "ProVocalsInputDevice_Name": "{0} Input Device",
     "ProVocalsMicOffsetMs_Name": "{0} Mic Offset",
     "ProVocalsMicSensitivity_Name": "{0} Mic Sensitivity",

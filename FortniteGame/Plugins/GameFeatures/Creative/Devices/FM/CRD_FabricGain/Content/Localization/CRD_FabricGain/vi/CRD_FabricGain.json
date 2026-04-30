@@ -1,11 +1,11 @@
 {
   "": {
     "15DB27EA4FDA0251CB7F5DB8FE9994E3": "Điều chỉnh âm lượng đầu vào âm thanh Ghép Nối trước khi gửi nó cho thiết bị âm thanh Ghép Nối khác. Khi bạn có một bản phối âm với nhiều đầu vào âm thanh, áp dụng Tăng Cường cho một vài trong số chúng có thể giúp cân bằng âm lượng của từng tín hiệu đầu vào trong tổng thể bản phối âm.",
-    "EBE12DCE4FC5BFE59827F9988983FC11": "Điều chỉnh âm lượng đầu vào âm thanh Ghép Nối trước khi gửi nó cho thiết bị âm thanh Ghép Nối khác. Khi bạn có một bản phối âm với nhiều đầu vào âm thanh, áp dụng Tăng Cường cho một vài trong số chúng có thể giúp cân bằng âm lượng của từng tín hiệu đầu vào trong tổng thể bản phối âm.",
+    "BEA1CDB14E5CDA3AB5135E9DD9E45541": "Điều chỉnh âm lượng tín hiệu đầu vào âm thanh Ghép Nối trước khi gửi tín hiệu cho thiết bị âm thanh Ghép Nối khác. Khi bạn có một bản phối âm với nhiều tín hiệu âm thanh đầu vào, việc áp dụng Tăng Cường cho một vài tín hiệu trong số chúng có thể giúp cân bằng âm lượng của từng tín hiệu đầu vào trong tổng thể bản phối âm.",
     "43690F0542ED4B273A4C72B2627C2936": "Nhân âm lượng của tín hiệu đầu vào âm thanh với giá trị đã chọn. Giá trị 0 sẽ tắt âm thanh. Giá trị 2 sẽ tăng gấp đôi âm lượng.",
-    "2B31F3AD48FA2C4C533FE69FB91C904E": "Hiệu Ứng Tăng Cường Ghép Nối",
-    "8A62F091464769AD6A2A51B1CECCED46": "Hiệu Ứng Tăng Cường Ghép Nối",
-    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Hiệu Ứng Tăng Cường Ghép Nối"
+    "5595D0E241D0236725A1FDAA071F349D": "Hiệu Ứng Tăng Cường Ghép Nối",
+    "B2DEE7D64C49FCDE9AC9D38B69B9C78C": "Hiệu Ứng Tăng Cường Ghép Nối",
+    "D20DA79F486EB26C6D6EA8ABB2A27D03": "Hiệu Ứng Tăng Cường Ghép Nối"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nhãn"

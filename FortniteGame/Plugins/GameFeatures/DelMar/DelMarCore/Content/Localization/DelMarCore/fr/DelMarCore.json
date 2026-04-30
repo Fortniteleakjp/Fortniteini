@@ -389,7 +389,6 @@
     "IdleKick": "Éjecté pour avoir été inactif trop longtemps.",
     "SuspendKick": "Éjecté pour avoir été inactif trop longtemps.",
     "PlayspaceNoLevelTags": "Erreur de carte",
-    "PostRace_MatchmakingCancelled": "Annulation de la recherche de partie. Reason={0}",
     "NotEnoughPlayersJoined": "Nombre de joueurs participants insuffisant.",
     "ReplaceInChain_Title": "Remplacer un point de passage dans la chaîne",
     "PostRaceTimeout": "Expiration du délai de recherche de partie.",

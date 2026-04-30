@@ -10,6 +10,17 @@
     "SynchronizeMyDanceEmotesToJamTracks_Name": "Sincronizar mis gestos de baile con las pistas de improvisación",
     "SynchronizeMyDanceEmotesToJamTracks_General_Description": "Estos ajustes cambian lo que sucede con tus gestos de baile mientras suena una pista de improvisación."
   },
+  "ST_InstrumentNames": {
+    "Bass": "Bajo",
+    "Drums": "Batería",
+    "Lead": "Instrumento principal",
+    "ProVocals": "Voz (micro)",
+    "ProBass": "Bajo pro",
+    "ProDrums": "Batería pro",
+    "ProDrumsCymbals": "Batería pro + platillos",
+    "ProLead": "Instrumento principal pro",
+    "Vocals": "Voz (estándar)"
+  },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Ajusta el volumen de la música del juego en Festival.",
     "6BD3D4EC474B9CAAAA42E193124261C7": "Música de Festival"

@@ -144,6 +144,7 @@
     "Unbound": "Nicht belegt"
   },
   "PilgrimSetting": {
+    "VoiceActivatedOverdrive_Description": "Aktiviere die Glanzleistung, indem du während einer Glanzleistung-Phrase singst.",
     "ProVocalsMicOffsetMs_Description": "Passt das Timing-Offset (in Millisekunden) an, das beim {0}-Gameplay auf die Mikrofon-Eingabe angewendet wird. Erhöhe diesen Wert, wenn du das Gefühl hast, dass deine Stimmeingabe zu spät erkannt wird.\n\nWenn du die Einstellung „Audio-Latenz“ manuell änderst oder den Kalibrierungsprozess erneut ausführst, musst du diesen Wert möglicherweise wieder anpassen.",
     "AlwaysShowProInstrumentTrackSelection_Name": "Songteile der Profi-Instrumente immer anzeigen",
     "AlwaysShowProInstrumentTrackSelection_Description": "Bei der Auswahl der Songteile in Fortnite Festival werden immer die Songteile der Profi-Instrumente angezeigt, selbst wenn kein Instrument erkannt wurde.",
@@ -235,6 +236,7 @@
     "UseProColorsForAllParts_Name": "Profi-Farben bei allen Rollen anzeigen",
     "EnableVibrationForHittingNotes_Name": "Vibrationsfunktion bei Notentreffern",
     "VideoLatency_Name": "Video-Latenz",
+    "VoiceActivatedOverdrive_Name": "Sprachaktivierte Glanzleistung",
     "ProVocalsInputDevice_Name": "{0} Aufnahmegerät",
     "ProVocalsMicOffsetMs_Name": "{0}-Mikrofonverzögerung",
     "ProVocalsMicSensitivity_Name": "Mikrofon-Empfindlichkeit für {0}",

@@ -13,8 +13,8 @@
     "59EFAB3745356E62F57E5CB32A568812": "Clear",
     "3447D21A488F2B6DA99205968176C8A2": "Copies current grid contents onto the next available blank page. If no pages are blank, this button is disabled.",
     "C19DCFCA41D75A35AB252295753CE2F5": "Duplicate Page",
-    "2DB8013C4C77B8517139FAB6EBC6B42A": "Patchwork Note Generator",
-    "44BF56A34667FCB28163A495ECC11C3B": "Patchwork Note Sequencer",
+    "2A88062748A2B928FB74A2AAE2D578B5": "Patchwork Note Generator",
+    "01D67D28406F75B2B12BAC8AB68B7EF7": "Patchwork Note Sequencer",
     "D92705A64B48859A71057A8F7FEC4C74": "Patchwork Note Sequencer",
     "70580ABA43EB40BB97B7039B9C0CC58C": "Places notes randomly on the current page.",
     "0203DE694A6A13E55D81E78721702CD2": "Places notes randomly on the current page. This will replace all grid content on the page.",
@@ -22,7 +22,7 @@
     "CB13F7F542F6940519D20C9B178AB6D3": "Randomize",
     "E0369FA346F82B7573053E8BC80CE960": "Removes all notes from the grid on the current page.",
     "1D7B470146CC63B3138A299E59C3945A": "Set up melodic patterns that you can output to the Patchwork Instrument Player, Omega Synthesizer, or other Patchwork devices. This is usually first in a Patchwork device chain.",
-    "49E7BB764AB4B33CA7B2A9BFABFF4A96": "Set up melodic patterns that you can output to the Patchwork Instrument Player, Omega Synthesizer, or other Patchwork devices. This is usually first in a Patchwork device chain."
+    "C328A9F244F2F75634623694F8896D03": "Set up melodic patterns that you can output to the Patchwork Instrument Player, Omega Synthesizer, or other Patchwork devices. This is usually first in a Patchwork device chain."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"
