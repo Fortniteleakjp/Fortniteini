@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nhãn"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "Sử Dụng Đầu Mút Sau",
+    "Use Front Endcap": "Sử Dụng Đầu Mút Trước",
+    "Use Stable Roll": "Sử Dụng Lăn Bánh Ổn Định"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "Thiết Bị",
+    "DeviceProperties": "Thuộc Tính Thiết Bị",
+    "EditDevice": "Chỉnh sửa Thiết Bị",
+    "EditTrack": "Chỉnh Sửa Đường Đua",
+    "Looping Track": "Đường Đua Vòng Lặp",
+    "None": "Không",
+    "RoadStyle": "Phong Cách Tuyến Đường",
+    "SelectSplinePoints": "Chọn Điểm Trục Đường",
+    "SelectedPoints": "Điểm Được Chọn",
+    "Theme": "Chủ Đề",
+    "Track": "Đường Đua"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "Nâng Cao",
+    "AttachToEnd": "Gắn Vào Điểm Cuối",
+    "AttachToStart": "Gắn Vào Điểm Đầu",
+    "Attaching": "Đang Gắn",
+    "FortDelMarTrack": "Đường Đua Pháo Đài DelMar",
+    "PrintAttachableActors": "Hiển Thị Đối Tượng Có Thể Gắn",
+    "FortDelMarStyleEditor": "Trình Chỉnh Sửa Phong Cách Đường Đua"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Pháo Đài Del Mar",
+    "FortDelMarSplineComponentVisualizer": "Công Cụ Trực Quan Hóa Thành Phần Trục Đường Pháo Đài DelMar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "Con Đường Ven Sông",
+    "Change Road Shape": "Thay Đổi Hình Dạng Con Đường",
+    "FlatRoad": "Con Đường Bằng Phẳng",
+    "HalfPipe": "Máng Dốc Chữ U",
+    "Pipe": "Đường Ống Dẫn",
+    "RoadShape": "Hình Dạng Con Đường",
+    "Tunnel": "Đường Hầm"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Thêm điểm trục đường tiếp theo vào lựa chọn hiện tại.",
+    "SelectAddPrevSplinePointToolTip": "Thêm điểm trục đường trước đó vào lựa chọn hiện tại.",
+    "DeleteMultipleNodeConfirmation": "Xóa Nhiều Nút Cùng Lúc?",
+    "SelectDeleteSplinePointToolTip": "Xóa điểm ở lựa chọn hiện tại.",
+    "SelectAllSplinePointToolTip": "Chọn tất cả điểm trục đường.",
+    "SelectFirstSplinePointToolTip": "Chọn điểm trục đường đầu tiên.",
+    "SelectLastSplinePointToolTip": "Chọn điểm trục đường cuối cùng.",
+    "SelectNextSplinePointToolTip": "Chọn điểm trục đường tiếp theo.",
+    "SelectPrevSplinePointToolTip": "Chọn điểm trục đường trước đó.",
+    "SplitNodeConfirmation": "Phân Tách Tại Nút Được Chọn?",
+    "SelectSplitSplinePointToolTip": "Phân chia các nút ở Chỉ Mục Đã Chọn."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Chuyển đổi các điểm trục đường được chọn sang cờ UseStableRoll",
+    "ToggleUseStableRoll": "Sử Dụng Lăn Bánh Ổn Định"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "Tắt",
+    "BoolMetaData.TrueDisplayName": "Bật",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "Hiển Thị Số Điểm Đường Dẫn"
+  }
+}

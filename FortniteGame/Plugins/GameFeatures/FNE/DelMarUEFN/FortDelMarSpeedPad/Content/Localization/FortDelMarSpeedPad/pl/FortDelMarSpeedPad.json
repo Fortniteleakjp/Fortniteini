@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "Platforma przyśpieszająca, zwiększająca prędkość przejeżdżających po niej pojazdów Rocket Racing.",
+    "9E29733642DB80268BFF658E82F9E424": "Nie",
+    "16327D03430DE42CFCCC2AB918D91DF5": "Platforma przyśpieszająca RR",
+    "1D8716B047C72FCFD8D295A1901234DB": "Tak"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "Określa, czy to urządzenie jest domyślnie włączone. Po włączeniu zwiększa prędkość przejeżdżających po nim pojazdów Rocket Racing.",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "Wyłącz",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "Wyłącza urządzenie. Gdy wyłączone, nie wpływa na przejeżdżające po nim pojazdy Rocket Racing.",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Włącz",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Włącza urządzenie. Po włączeniu zwiększa prędkość przejeżdżających po nim pojazdów Rocket Racing.",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Włączono od początku gry",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "ID grupy przyśpieszenia",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Określa, które platformy przyśpieszające mogą tworzyć kumulacje bonusu prędkości.Jeśli pojazd ma aktywną kumulację bonusu prędkości z innej platformy przyśpieszającej o tym samym ID grupy, pojazd nie otrzyma kolejnego bonusu w kumulacji, gdy przejedzie przez tę platformę przyśpieszającą.Wartość poniżej 0 oznacza, że ta platforma przyśpieszająca zawsze tworzy kumulację bonusu prędkości."
+  }
+}

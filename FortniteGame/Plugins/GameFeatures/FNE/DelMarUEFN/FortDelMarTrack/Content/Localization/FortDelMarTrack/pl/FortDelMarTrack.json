@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Nazwa"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "Użyj tylnej nakładki",
+    "Use Front Endcap": "Użyj przedniej nakładki",
+    "Use Stable Roll": "Użyj stabilnego przechyłu bocznego"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "Urządzenie",
+    "DeviceProperties": "Właściwości urządzenia",
+    "EditDevice": "Edytuj urządzenie",
+    "EditTrack": "Edytuj trasę",
+    "Looping Track": "Tor zapętlony",
+    "None": "Brak",
+    "RoadStyle": "Rodzaj drogi",
+    "SelectSplinePoints": "Wybierz krzywe sklejane",
+    "SelectedPoints": "Wybrane połączenia",
+    "Theme": "Motyw",
+    "Track": "Trasa"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "Dla zaawansowanych",
+    "AttachToEnd": "Zamocuj do końcówki",
+    "AttachToStart": "Zamocuj na początku",
+    "Attaching": "Mocowanie",
+    "FortDelMarTrack": "Tor FortDelMar",
+    "PrintAttachableActors": "Wydrukuj elementy do zamocowania",
+    "FortDelMarStyleEditor": "Edytor stylów toru"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Fort Del Mar",
+    "FortDelMarSplineComponentVisualizer": "Wizualizator komponentów krzywej FortDelMar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "Droga z krawężnikami",
+    "Change Road Shape": "Zmień kształt drogi",
+    "FlatRoad": "Droga płaska",
+    "HalfPipe": "Rampa",
+    "Pipe": "Rura",
+    "RoadShape": "Kształt drogi",
+    "Tunnel": "Tunel"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Dodaj następną krzywą sklejaną do bieżącego zaznaczenia.",
+    "SelectAddPrevSplinePointToolTip": "Dodaj poprzednią krzywą sklejaną do bieżącego zaznaczenia.",
+    "DeleteMultipleNodeConfirmation": "Usunąć wiele węzłów?",
+    "SelectDeleteSplinePointToolTip": "Usuń połączenie w bieżącym zaznaczeniu.",
+    "SelectAllSplinePointToolTip": "Wybierz wszystkie krzywe sklejane.",
+    "SelectFirstSplinePointToolTip": "Wybierz pierwszą krzywą sklejaną.",
+    "SelectLastSplinePointToolTip": "Wybierz ostatnią krzywą sklejaną.",
+    "SelectNextSplinePointToolTip": "Wybierz następną krzywą sklejaną.",
+    "SelectPrevSplinePointToolTip": "Wybierz poprzednią krzywą sklejaną.",
+    "SplitNodeConfirmation": "Podzielić wybrany węzeł?",
+    "SelectSplitSplinePointToolTip": "Podziel węzły na wybranych indeksach."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Przełącz wybraną krzywą sklejaną na flagę UseStableRoll",
+    "ToggleUseStableRoll": "Użyj stabilnego przechyłu bocznego"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "Wył.",
+    "BoolMetaData.TrueDisplayName": "Wł.",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "Pokaż liczby krzywej sklejanej"
+  }
+}

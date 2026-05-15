@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} 秒"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "必须指定有效 NPC 角色定义或 Verse AI 行为。",
+    "CanCreateActor.NoAIBehavior": "必须指定有效的NPC角色定义、Verse AI行为或角色物品定义。",
     "FactoryDisplayName": "NPC 角色生成器装置"
   },
   "AssetDefinition": {

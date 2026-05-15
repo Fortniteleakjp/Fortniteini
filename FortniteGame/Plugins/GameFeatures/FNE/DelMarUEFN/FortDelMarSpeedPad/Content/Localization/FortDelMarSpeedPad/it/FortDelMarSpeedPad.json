@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "Una pedana di propulsione che aumenta la velocità dei veicoli di Rocket Racing che ci passano sopra.",
+    "9E29733642DB80268BFF658E82F9E424": "Falso",
+    "16327D03430DE42CFCCC2AB918D91DF5": "Pedana di propulsione RR",
+    "1D8716B047C72FCFD8D295A1901234DB": "Vero"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "Determina se il dispositivo è abilitato per impostazione predefinita. Quando è abilitato, aumenta la velocità dei veicoli di Rocket Racing che ci passano sopra.",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "Disabilita",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "Disabilita il dispositivo. Quando è disabilitato, non influisce sui veicoli di Rocket Racing che ci passano sopra.",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Abilita",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Abilita il dispositivo. Quando è abilitato, aumenta la velocità dei veicoli di Rocket Racing che ci passano sopra.",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Abilitato all'avvio del gioco",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "Velocità ID gruppo",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Usato per controllare quali pedane di propulsione possono essere accumulate. Se il veicolo ha una serie di velocità bonus accumulate da un'altra pedana di propulsione con lo stesso ID gruppo, non otterrà un'altra serie passando sopra questa pedana di propulsione. Se il valore è inferiore a 0, questa pedana di propulsione fornirà sempre una serie di velocità bonus."
+  }
+}

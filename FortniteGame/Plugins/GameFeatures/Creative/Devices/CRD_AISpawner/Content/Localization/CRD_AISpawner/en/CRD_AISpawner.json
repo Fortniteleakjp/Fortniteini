@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "A valid NPC Character Definition or Verse AI Behavior class must be specified.",
+    "CanCreateActor.NoAIBehavior": "A valid NPC Character Definition, Verse AI Behavior, or Character Item Definition must be specified.",
     "FactoryDisplayName": "NPC Character Spawner Device"
   },
   "AssetDefinition": {

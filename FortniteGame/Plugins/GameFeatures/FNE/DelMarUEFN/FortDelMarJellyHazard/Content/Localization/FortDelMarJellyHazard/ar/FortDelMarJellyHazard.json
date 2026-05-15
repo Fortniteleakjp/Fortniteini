@@ -1,0 +1,33 @@
+{
+  "": {
+    "8768B3DC4C0100FF843996B46B556BCD": "خطر حيز نبضات كهرومغناطيسية قابل للتهيئة يبطئ مركبات Rocket Racing.",
+    "C88DE03E4FF2BBC9B9FF58AD7B095C58": "كبسولة",
+    "85EE9B574555E282EED2F5ACF89FD5E2": "المكعب",
+    "4A81D3E5491CD3B67F660D8B91CA2C36": "الأسطوانة",
+    "A0FE6B564D176554663E2EB36350673A": "خطأ",
+    "76E51ABE4EBD987F8E6A81BDA2FF0D03": "خطر حيز النبضات الكهرومغناطيسية لـ RR",
+    "1ED899AD40245BC4CEC34D9C22D33212": "المجال",
+    "5A923A3F4827BBEC388A06AA8C54398F": "الشكل التصادمي لخطر حيز النبضات الكهرومغناطيسية.",
+    "C3E2D6F047E06C0D83C71E89D3F54B94": "يبدأ تشغيل القناة المحددة عند تنشيط الهلام.",
+    "D4A941A44FE40A8AF68A28B83EF82F64": "صحيح",
+    "5532704D471D7BA874D5A3A571609D3F": "تشغيل الإرسال عند تنشيط الهلام"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "UserOptionDefinition": {
+    "E_ObstacleCollisionType.Capsule.DisplayName": "كبسولة",
+    "E_ObstacleCollisionType.Cube.DisplayName": "المكعب",
+    "E_ObstacleCollisionType.Cylinder.DisplayName": "الأسطوانة",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.Description": "يحدد ما إذا كان هذا الجهاز يتم تفعيله بشكل افتراضي. عند التمكين، يؤدي هذا إلى إبطاء مركبات Rocket Racing. عند التعطيل، يكون الجهاز غير مرئي في أثناء اللعب ومرئيًا جزئيًا في أثناء التعديل.",
+    "FortDelMar_Jelly_BP_C.Disable.DisplayName": "تعطيل",
+    "FortDelMar_Jelly_BP_C.Disable.Description": "تعطيل هذا الجهاز. عند التعطيل، ليس له تأثير.",
+    "FortDelMar_Jelly_BP_C.Enable.DisplayName": "تفعيل",
+    "FortDelMar_Jelly_BP_C.Enable.Description": "تمكين هذا الجهاز. عند التمكين، يؤدي هذا إلى إبطاء مركبات Rocket Racing.",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.DisplayName": "تفعيل عند بدء اللعبة",
+    "FortDelMar_Jelly_BP_C.OnEMPHazardTriggered.Description": "يُطلق عند تشغيل مركبة Rocket Racing لهذا الجهاز.",
+    "4066091D434CC104B2BCCAA984D10747": "عند التشغيل",
+    "FortDelMar_Jelly_BP_C.Shape.DisplayName": "الشكل",
+    "E_ObstacleCollisionType.Sphere.DisplayName": "المجال"
+  }
+}

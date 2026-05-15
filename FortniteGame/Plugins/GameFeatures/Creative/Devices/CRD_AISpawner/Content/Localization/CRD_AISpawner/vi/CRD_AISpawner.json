@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} giây"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "Cần chỉ định một Định Nghĩa Nhân Vật NPC hợp lệ hoặc một hệ Hành Vi AI Verse hợp lệ.",
+    "CanCreateActor.NoAIBehavior": "Phải chỉ định Định Nghĩa Nhân Vật NPC, Hành Vi AI Verse hoặc Định Nghĩa Vật Phẩm Nhân Vật hợp lệ.",
     "FactoryDisplayName": "Thiết Bị Máy Tạo Nhân Vật NPC"
   },
   "AssetDefinition": {

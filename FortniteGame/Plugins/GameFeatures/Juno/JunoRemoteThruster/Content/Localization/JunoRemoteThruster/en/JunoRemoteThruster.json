@@ -10,7 +10,7 @@
     "5E9A371D43E076126910D39AF338F4B5": "Small Thruster"
   },
   "PP_CraftingFormulas_RemoteThrusterPlacer": {
-    "RemoteThrusterLarge_DisplayName": "Large Thruster",
-    "RemoteThruster_DisplayName": "Small Thruster"
+    "8D875AFF4462C00749F100AD55FE62DF": "Large Thruster",
+    "CC2D115E43466E26689E82A35CB15301": "Small Thruster"
   }
 }

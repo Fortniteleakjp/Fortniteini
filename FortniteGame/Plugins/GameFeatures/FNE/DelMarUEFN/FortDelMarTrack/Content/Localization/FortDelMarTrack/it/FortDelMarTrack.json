@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etichetta"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "Usa Endcap posteriore",
+    "Use Front Endcap": "Usa Endcap anteriore",
+    "Use Stable Roll": "Usa Rollio stabile"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "Dispositivo",
+    "DeviceProperties": "Proprietà dispositivo",
+    "EditDevice": "Modifica dispositivo",
+    "EditTrack": "Modifica pista",
+    "Looping Track": "Pista in loop",
+    "None": "Nessuno",
+    "RoadStyle": "Stile strada",
+    "SelectSplinePoints": "Seleziona punti Spline",
+    "SelectedPoints": "Punti selezionati",
+    "Theme": "Tema",
+    "Track": "Pista"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "Avanzata",
+    "AttachToEnd": "Fissa sulla fine",
+    "AttachToStart": "Fissa sull'inizio",
+    "Attaching": "Fissaggio in corso",
+    "FortDelMarTrack": "Pista Fort Del Mar",
+    "PrintAttachableActors": "Stampa attori fissabili",
+    "FortDelMarStyleEditor": "Editor stile pista"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Fort Del Mar",
+    "FortDelMarSplineComponentVisualizer": "Visualizzatore componenti Spline FortDelMar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "Strada parabolica",
+    "Change Road Shape": "Cambia forma strada",
+    "FlatRoad": "Strada pianeggiante",
+    "HalfPipe": "Half-pipe",
+    "Pipe": "Condotto",
+    "RoadShape": "Forma strada",
+    "Tunnel": "Tunnel"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Aggiungi il punto Spline successivo alla selezione attuale.",
+    "SelectAddPrevSplinePointToolTip": "Aggiungi il punto Spline precedente alla selezione attuale.",
+    "DeleteMultipleNodeConfirmation": "Vuoi eliminare più nodi?",
+    "SelectDeleteSplinePointToolTip": "Elimina il punto della selezione attuale.",
+    "SelectAllSplinePointToolTip": "Seleziona tutti i punti Spline.",
+    "SelectFirstSplinePointToolTip": "Seleziona il primo punto Spline.",
+    "SelectLastSplinePointToolTip": "Seleziona l'ultimo punto Spline.",
+    "SelectNextSplinePointToolTip": "Seleziona il prossimo punto Spline.",
+    "SelectPrevSplinePointToolTip": "Seleziona il punto Spline precedente.",
+    "SplitNodeConfirmation": "Vuoi suddividere al nodo selezionato?",
+    "SelectSplitSplinePointToolTip": "Suddividi i nodi agli indici selezionati."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Attiva/disattiva i punti Spline selezionati all'indicatore UseStableRoll",
+    "ToggleUseStableRoll": "Usa Rollio stabile"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sì",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "Mostra i numeri del punto Spline"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ملصق"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "استخدام السد الخلفي",
+    "Use Front Endcap": "استخدام السد الأمامي",
+    "Use Stable Roll": "استخدام الالتفاف المستقر"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "جهاز",
+    "DeviceProperties": "خصائص الجهاز",
+    "EditDevice": "تعديل الجهاز",
+    "EditTrack": "تعديل المضمار",
+    "Looping Track": "مضمار على شكل حلقي",
+    "None": "لا شيء",
+    "RoadStyle": "نمط الطريق",
+    "SelectSplinePoints": "تحديد نقاط المنحنى",
+    "SelectedPoints": "النقاط المحددة",
+    "Theme": "النسق",
+    "Track": "المضمار"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "متقدم",
+    "AttachToEnd": "الإلحاق بالنهاية",
+    "AttachToStart": "الإلحاق بالبداية",
+    "Attaching": "إلحاق",
+    "FortDelMarTrack": "مضمار حصن Del Mar",
+    "PrintAttachableActors": "طباعة العناصر القابلة للإلحاق",
+    "FortDelMarStyleEditor": "محرر أسلوب المضمار"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "حصن Del Mar",
+    "FortDelMarSplineComponentVisualizer": "مصور مكونات منحنى حصن Del Mar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "طريق على الضفاف",
+    "Change Road Shape": "تغيير شكل الطريق",
+    "FlatRoad": "طريق مسطح",
+    "HalfPipe": "نصف أنبوب",
+    "Pipe": "أنبوب",
+    "RoadShape": "شكل الطريق",
+    "Tunnel": "نفق"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "أضف نقطة المنحنى التالية إلى التحديد الحالي.",
+    "SelectAddPrevSplinePointToolTip": "أضف نقطة المنحنى السابقة إلى التحديد الحالي.",
+    "DeleteMultipleNodeConfirmation": "هل تريد حذف النقاط المتعددة؟",
+    "SelectDeleteSplinePointToolTip": "احذف نقطة في التحديد الحالي.",
+    "SelectAllSplinePointToolTip": "حدد جميع نقاط المنحنى.",
+    "SelectFirstSplinePointToolTip": "حدد نقطة المنحنى الأولى.",
+    "SelectLastSplinePointToolTip": "حدد نقطة المنحنى الأخيرة.",
+    "SelectNextSplinePointToolTip": "حدد نقطة المنحنى التالية.",
+    "SelectPrevSplinePointToolTip": "حدد نقطة المنحنى السابقة.",
+    "SplitNodeConfirmation": "هل تريد التقسيم عند النقطة المحددة؟",
+    "SelectSplitSplinePointToolTip": "تقسيم العُقد في الفهارس المحددة."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "تبديل نقاط المنحنى المحددة إلى علامة UseStableRoll",
+    "ToggleUseStableRoll": "استخدام الالتفاف المستقر"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "إيقاف",
+    "BoolMetaData.TrueDisplayName": "تشغيل",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "إظهار أرقام نقاط المنحنى"
+  }
+}

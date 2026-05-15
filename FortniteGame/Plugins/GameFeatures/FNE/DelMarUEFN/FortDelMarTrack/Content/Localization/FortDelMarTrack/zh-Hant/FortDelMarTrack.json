@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "使用後方展示端",
+    "Use Front Endcap": "使用前方展示端",
+    "Use Stable Roll": "使用穩定滾動"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "裝置",
+    "DeviceProperties": "裝置屬性",
+    "EditDevice": "編輯裝置",
+    "EditTrack": "編輯賽道",
+    "Looping Track": "循環賽道",
+    "None": "無",
+    "RoadStyle": "道路樣式",
+    "SelectSplinePoints": "選定樣條曲線點",
+    "SelectedPoints": "選定點",
+    "Theme": "主題",
+    "Track": "賽道"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "進階",
+    "AttachToEnd": "附加到尾部",
+    "AttachToStart": "附加到前端",
+    "Attaching": "附加中",
+    "FortDelMarTrack": "DelMar 堡壘賽道",
+    "PrintAttachableActors": "可附加印花對象",
+    "FortDelMarStyleEditor": "賽道樣式編輯器"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "DelMar 堡壘",
+    "FortDelMarSplineComponentVisualizer": "DelMar 曲線組件視覺化效果器"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "彎曲道路",
+    "Change Road Shape": "變更道路形狀",
+    "FlatRoad": "平坦道路",
+    "HalfPipe": "U 型",
+    "Pipe": "管子",
+    "RoadShape": "道路形狀",
+    "Tunnel": "隧道"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "將下一個樣條曲線點加入目前選擇。",
+    "SelectAddPrevSplinePointToolTip": "將前一個樣條曲線點加入目前選擇。",
+    "DeleteMultipleNodeConfirmation": "刪除多個節點？",
+    "SelectDeleteSplinePointToolTip": "刪除目前選擇的點。",
+    "SelectAllSplinePointToolTip": "選擇所有樣條曲線點。",
+    "SelectFirstSplinePointToolTip": "選擇第一個樣條曲線點。",
+    "SelectLastSplinePointToolTip": "選擇最後一個樣條曲線點。",
+    "SelectNextSplinePointToolTip": "選擇下一個樣條曲線點。",
+    "SelectPrevSplinePointToolTip": "選擇前一個樣條曲線點。",
+    "SplitNodeConfirmation": "在選定節點處拆分？",
+    "SelectSplitSplinePointToolTip": "在選定指標處拆分？"
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "將選定之樣條曲線點切換至 UseStableRoll 標誌",
+    "ToggleUseStableRoll": "使用穩定滾動"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "關",
+    "BoolMetaData.TrueDisplayName": "開",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "顯示曲線點數字"
+  }
+}

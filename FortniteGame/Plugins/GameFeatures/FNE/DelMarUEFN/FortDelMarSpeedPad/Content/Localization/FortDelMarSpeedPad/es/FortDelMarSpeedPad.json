@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "Una plataforma de aceleración que aumenta la velocidad de los vehículos de Rocket Racing que pasan por encima.",
+    "9E29733642DB80268BFF658E82F9E424": "No",
+    "16327D03430DE42CFCCC2AB918D91DF5": "Plataforma de aceleración de RR",
+    "1D8716B047C72FCFD8D295A1901234DB": "Sí"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "Establece si este dispositivo está habilitado por defecto. Cuando está habilitado, aumenta la velocidad de los vehículos de Rocket Racing que pasan por encima.",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "Deshabilitar",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "Deshabilita el dispositivo. Cuando está deshabilitado, no afecta a los vehículos de Rocket Racing que pasan por encima.",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Habilitar",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Habilita el dispositivo. Cuando está habilitado, aumenta la velocidad de los vehículos de Rocket Racing que pasan por encima.",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Habilitado al inicio de la partida",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "ID de grupo de velocidad",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Se usa para controlar la acumulación de velocidad adicional de las plataformas de aceleración.Si el vehículo ya está aprovechando una ganancia de velocidad adicional de otra plataforma de aceleración con el mismo ID de grupo, no podrá obtener velocidad adicional al pasar sobre esta plataforma de aceleración.Si el valor establecido es menor a 0, esta plataforma de aceleración siempre concederá una ganancia de velocidad adicional."
+  }
+}

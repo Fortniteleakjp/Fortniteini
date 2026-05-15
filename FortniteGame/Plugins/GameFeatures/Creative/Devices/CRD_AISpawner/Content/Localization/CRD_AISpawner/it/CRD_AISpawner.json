@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "È necessario specificare una definizione personaggio PNG valida o un comportamento dell'IA Verse valido.",
+    "CanCreateActor.NoAIBehavior": "È necessario specificare una definizione personaggio PNG, un comportamento dell'IA Verse o una definizione oggetto personaggio validi.",
     "FactoryDisplayName": "Dispositivo generatore di personaggi PNG"
   },
   "AssetDefinition": {

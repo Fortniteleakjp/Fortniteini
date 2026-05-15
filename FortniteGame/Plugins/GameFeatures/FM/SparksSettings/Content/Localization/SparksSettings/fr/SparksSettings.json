@@ -13,8 +13,8 @@
   "ST_InstrumentNames": {
     "Bass": "Basse",
     "Drums": "Batterie",
+    "ProVocals": "Karaoké",
     "Lead": "Instrument principal",
-    "ProVocals": "Chant (micro)",
     "ProBass": "Basse pro",
     "ProDrums": "Batterie pro",
     "ProDrumsCymbals": "Batterie pro + cymbales",

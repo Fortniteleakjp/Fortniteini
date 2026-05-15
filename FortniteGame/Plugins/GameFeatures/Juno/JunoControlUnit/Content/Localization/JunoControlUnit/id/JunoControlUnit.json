@@ -13,6 +13,7 @@
     "90C797C6400B1294EC5CFEA24638A7FD": "Balikkan",
     "5730E8684135A208A913959277A7216B": "Kanan",
     "047B56814FE243B3B28023A16A3BB1AE": "Duduk",
+    "15833C0445C7A72F5CF1B9A8948FE65F": "Duduk",
     "2B141CDD4064D06189CBB3A00634A241": "Duduk",
     "898A0F4649647E0ACC9E42A44E7DE045": "Duduk",
     "B1F4A52C4896A8B9EA77D388BE515294": "Duduk",
@@ -21,13 +22,12 @@
     "8E2A6EE0493C0FA56A234986B87D2703": "Setir Kanan",
     "7FCF3F11433DBE65231B9F8E358CC2FD": "Putar ke Kiri",
     "97CBE0374C9EE59143140DA0E7CBBE15": "Putar ke Kanan",
-    "FE8AC0BF4DE52A7488D3D79D03AD42D2": "Gunakan hingga <EmphA>empat saluran terpisah</> untuk mengalirkan daya dari sakelar ke pendorong, roda, dan berbagai mainan lain agar masing-masing bisa diaktifkan.",
     "9CE3966D4DC5991040547E98AECE8078": "VCU",
     "AF5BDB7D4D5F99444504F090BE04BD28": "VCU",
     "B3A685654359E63155446599B709643B": "VCU",
     "C4CE2DAA4C135B8204EBE2893C5BA75A": "VCU",
     "E030E6764B0D0BD98948AD8C33880444": "VCU",
-    "493B2E3F414C4F4BFD43D3AE27C8494D": "Kamu butuh <EmphA>Penggergajian Kayu</> dan <EmphA>Roda Pemutar</>."
+    "025C208A4C910732C143FAB3A29CC7A3": "Kamu butuh <EmphA>Penggergajian Kayu</> dan <EmphA>Roda Pemutar</>."
   },
   "Juno_GameplayItemToTagMapping": {
     "404B070F44C946E47B10B19B17A28302": "Gunakan untuk MELEDAKKAN berbagai benda!",
@@ -35,7 +35,6 @@
     "E25497C64BD0A565C79640A9438BC9F5": "Gunakan untuk MELEDAKKAN berbagai benda!"
   },
   "Juno_UpdateItemData": {
-    "70A04275472D5AB4193BA7A11846F74B": "Alat yang digunakan untuk memodifikasi mainan.",
     "20F85E784A59F8D364C2348203CD46F4": "Memungkinkan pemain untuk mengontrol Mainan yang Bisa Diputar, Bertenaga, dan yang Bisa Diaktifkan.",
     "50B29F1C46F072E2F78A60A9449F0A12": "Memungkinkan pemain untuk mengontrol Mainan yang Bisa Diputar, Bertenaga, dan yang Bisa Diaktifkan.",
     "AA037ED04B134D9A6BB2B68917A2B38A": "Memungkinkan pemain untuk mengontrol Mainan yang Bisa Diputar, Bertenaga, dan yang Bisa Diaktifkan.",
@@ -45,16 +44,17 @@
     "BC893032414DA18543B2F8AC5BEA1AD7": "Kursi Pengemudi Besar",
     "B0F686E0461C557522339D9F9933B079": "Kursi Pengemudi Medium",
     "D14504FC462A4C1D1D0BD2A4D506D40A": "Kursi Pengemudi Kecil",
-    "D32BEC724B168752E4D1DBBC414A6521": "Perlu dirakit sedikit.",
+    "8462075D4409843D3C3F5AA4F8A1CFEA": "Perlu dirakit sedikit.",
+    "CFAD1C3D4559321909406EA95DED4FF8": "Gunakan <keybind touch_tag=\"MobileHUD.Button.Juno.MainHand\">Fire</> saat memegang Kunci Pas untuk mengubah cara Kursi Pengemudi dan Sakelar mengendalikan perangkat.",
     "338EFFD7442DCDE778187E951BA7EE03": "Saat segala cara gagal, ledakkan sesuatu saja!",
     "5DDC8C1646DFAA9F454393B010EE222A": "Saat segala cara gagal, ledakkan sesuatu saja!",
     "B783059F4FC8DE01229ADCA0CB5B738F": "Saat segala cara gagal, ledakkan sesuatu saja!",
-    "303B45A14571A1B8C78221A9633EEAEA": "Kunci Pas"
+    "26B0657F4F2CA34568B6FA9F8481C04E": "Kunci Pas"
   },
   "PP_CraftingFormulas_ControlUnit": {
-    "BF5CFB7E41D0F2AD0B5ED68258E8B95B": "Kursi Pengemudi Besar",
-    "845B2EEE4D230DF282E1378A0B68E8C7": "Kursi Pengemudi Medium",
-    "DBE81B704E0A35E1DBFCEFB21F65378B": "Kursi Pengemudi Kecil",
-    "8CBDA2034D006E79A0815FBA8D3792D7": "Kunci Pas"
+    "0420942E4E8740CD8FD1E3A97A79D6E4": "Kursi Pengemudi Besar",
+    "9F5853C54E86DBC58CD5B1AB0291FA5F": "Kursi Pengemudi Medium",
+    "0D0531DC46E3604027C80CBBFF7CABCD": "Kursi Pengemudi Kecil",
+    "81B756DD41DB24C834364D9B101E65C1": "Kunci Pas"
   }
 }

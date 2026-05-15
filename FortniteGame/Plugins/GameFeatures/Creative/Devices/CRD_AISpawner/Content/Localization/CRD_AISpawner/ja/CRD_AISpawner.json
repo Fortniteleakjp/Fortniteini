@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0}秒"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "有効なNPCキャラクター定義かVerse AI行動クラスを指定する必要があります。",
+    "CanCreateActor.NoAIBehavior": "有効なNPCキャラクター定義、Verse AI行動、またはキャラクターアイテム定義を指定する必要があります。",
     "FactoryDisplayName": "NPCキャラクタースポナーの仕掛け"
   },
   "AssetDefinition": {

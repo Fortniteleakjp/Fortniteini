@@ -13,13 +13,13 @@
   "ST_InstrumentNames": {
     "Bass": "Bas",
     "Drums": "Bateri",
+    "ProVocals": "Karaoke",
     "Lead": "Lead",
-    "ProVocals": "Mikrofon Vokali",
     "ProBass": "Pro Bas",
     "ProDrums": "Pro Bateri",
     "ProDrumsCymbals": "Pro Bateri + Ziller",
     "ProLead": "Pro Lead",
-    "Vocals": "Basmalı Vokal"
+    "Vocals": "Tuşlu Vokal"
   },
   "SparksSetting": {
     "332501D14C2052DD4743AC95B5460C4C": "Festival'de oynanış müziğinin ses düzeyini ayarla.",

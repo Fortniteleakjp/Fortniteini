@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} dtk"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "Kelas Definisi Karakter NPC atau Perilaku AI Verse yang valid harus ditentukan.",
+    "CanCreateActor.NoAIBehavior": "Definisi Karakter NPC, Perilaku AI Verse, atau Definisi Item Karakter yang valid harus ditentukan.",
     "FactoryDisplayName": "Perangkat Spawner Karakter NPC"
   },
   "AssetDefinition": {

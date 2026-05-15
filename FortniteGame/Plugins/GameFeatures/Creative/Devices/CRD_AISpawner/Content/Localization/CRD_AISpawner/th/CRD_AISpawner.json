@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} วินาที"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "จะต้องกำหนดลักษณะของตัวละคร NPC หรือคลาสของพฤติกรรม Verse AI ที่ถูกต้อง",
+    "CanCreateActor.NoAIBehavior": "จะต้องกำหนดลักษณะของตัวละคร NPC, พฤติกรรม AI ของ Verse หรือข้อมูลไอเทมตัวละครที่ถูกต้อง",
     "FactoryDisplayName": "อุปกรณ์จุดเกิดตัวละคร NPC"
   },
   "AssetDefinition": {

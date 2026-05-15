@@ -1,0 +1,33 @@
+{
+  "": {
+    "8768B3DC4C0100FF843996B46B556BCD": "Un volume d'impulsion électromagnétique configurable qui ralentit les véhicules de Rocket Racing.",
+    "C88DE03E4FF2BBC9B9FF58AD7B095C58": "Capsule",
+    "85EE9B574555E282EED2F5ACF89FD5E2": "Cube",
+    "4A81D3E5491CD3B67F660D8B91CA2C36": "Cylindre",
+    "A0FE6B564D176554663E2EB36350673A": "False",
+    "76E51ABE4EBD987F8E6A81BDA2FF0D03": "Volume d'impulsion électromagnétique RR",
+    "1ED899AD40245BC4CEC34D9C22D33212": "Sphère",
+    "5A923A3F4827BBEC388A06AA8C54398F": "La forme de collision du volume d'impulsion électromagnétique.",
+    "C3E2D6F047E06C0D83C71E89D3F54B94": "Active la chaîne spécifiée lorsque la gelée est activée.",
+    "D4A941A44FE40A8AF68A28B83EF82F64": "Oui",
+    "5532704D471D7BA874D5A3A571609D3F": "Quand la transmission de la gelée est activée"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "E_ObstacleCollisionType.Capsule.DisplayName": "Capsule",
+    "E_ObstacleCollisionType.Cube.DisplayName": "Cube",
+    "E_ObstacleCollisionType.Cylinder.DisplayName": "Cylindre",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.Description": "Définit si cet appareil est activé par défaut. Quand cette option est activée, les véhicules de Rocket Racing sont ralentis. Quand elle est désactivée, l'appareil est invisible pendant une partie et partiellement visible pendant la modification.",
+    "FortDelMar_Jelly_BP_C.Disable.DisplayName": "Désactiver",
+    "FortDelMar_Jelly_BP_C.Disable.Description": "Désactive l'appareil. Si désactivé, il n'y a aucun effet.",
+    "FortDelMar_Jelly_BP_C.Enable.DisplayName": "Activer",
+    "FortDelMar_Jelly_BP_C.Enable.Description": "Active cet appareil. Quand cette option est activée, les véhicules de Rocket Racing sont ralentis.",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.DisplayName": "Activé au démarrage du jeu",
+    "FortDelMar_Jelly_BP_C.OnEMPHazardTriggered.Description": "Tire quand un véhicule Rocket Racing déclenche cet appareil.",
+    "4066091D434CC104B2BCCAA984D10747": "Au déclenchement",
+    "FortDelMar_Jelly_BP_C.Shape.DisplayName": "Forme",
+    "E_ObstacleCollisionType.Sphere.DisplayName": "Sphère"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "": {
+    "8768B3DC4C0100FF843996B46B556BCD": "Un obstáculo de volumen PEM configurable que ralentiza a los vehículos de Rocket Racing.",
+    "C88DE03E4FF2BBC9B9FF58AD7B095C58": "Cápsula",
+    "85EE9B574555E282EED2F5ACF89FD5E2": "Cubo",
+    "4A81D3E5491CD3B67F660D8B91CA2C36": "Cilindro",
+    "A0FE6B564D176554663E2EB36350673A": "No",
+    "76E51ABE4EBD987F8E6A81BDA2FF0D03": "Obstáculo de volumen de PEM de RR",
+    "1ED899AD40245BC4CEC34D9C22D33212": "Esfera",
+    "5A923A3F4827BBEC388A06AA8C54398F": "La forma de colisión del obstáculo de volumen de PEM.",
+    "C3E2D6F047E06C0D83C71E89D3F54B94": "Activa el canal especificado cuando se activa la gelatina.",
+    "D4A941A44FE40A8AF68A28B83EF82F64": "Sí",
+    "5532704D471D7BA874D5A3A571609D3F": "Cuando se activa la gelatina, transmitir"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "UserOptionDefinition": {
+    "E_ObstacleCollisionType.Capsule.DisplayName": "Cápsula",
+    "E_ObstacleCollisionType.Cube.DisplayName": "Cubo",
+    "E_ObstacleCollisionType.Cylinder.DisplayName": "Cilindro",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.Description": "Establece si este dispositivo está habilitado por defecto. Cuando está habilitado, ralentiza los vehículos de Rocket Racing. Cuando está deshabilitado, el dispositivo es invisible durante una partida y parcialmente visible al editar.",
+    "FortDelMar_Jelly_BP_C.Disable.DisplayName": "Deshabilitar",
+    "FortDelMar_Jelly_BP_C.Disable.Description": "Deshabilita el dispositivo. Cuando está deshabilitado, el dispositivo no tiene ningún efecto.",
+    "FortDelMar_Jelly_BP_C.Enable.DisplayName": "Habilitar",
+    "FortDelMar_Jelly_BP_C.Enable.Description": "Habilita el dispositivo. Cuando está habilitado, ralentiza los vehículos de Rocket Racing.",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.DisplayName": "Habilitado al inicio de la partida",
+    "FortDelMar_Jelly_BP_C.OnEMPHazardTriggered.Description": "Se inicia cuando un vehículo de Rocket Racing activa este dispositivo.",
+    "4066091D434CC104B2BCCAA984D10747": "Al activarse",
+    "FortDelMar_Jelly_BP_C.Shape.DisplayName": "Forma",
+    "E_ObstacleCollisionType.Sphere.DisplayName": "Esfera"
+  }
+}

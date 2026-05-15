@@ -1,0 +1,23 @@
+{
+  "": {
+    "7DAA7C6648C0B3529C6E57B2CBB1EC3A": "({Display Name}) 오류:{Error} 거리:{Distance} 필터링된 Z축 속도:{FilteredZVel} XY축 속도:{XYVel} 항력:{Drag}",
+    "3CC94F8F45297974E1C35D9685815A54": "({Display Name}) 오류:{Error} 거리:{Distance} Z축 속도:{ZVell} 필터링된 Z축 속도:{FilteredZVel} XY축 속도:{XYVel} 항력:{Drag}\n\n스프링 항:{SpringTerm} 감쇠 항:{DampingTerm} 중력 보상:{GravityComp} 강도 배수@비율:{NonLinearMult} 반중력 배수@비율:{AntiGravMult} MVC 가중치:{MVCWeight} 기본 강도:{BaseStrength} 기본 감쇠:{BaseDamp} 힘:{Force}",
+    "206C90534C20352AFDBD7D9F0B750EEB": "활성",
+    "324DE0984B2B296AF61C8FA4C0FE0809": "호버 브릭",
+    "6E55EE474066CA53B893919614ED8813": "끄기",
+    "AB741086499C6245881F09941E804BD4": "켜기",
+    "C82F1F784841D92DC159CDA539241DB8": "분투",
+    "80B6F1A241AB20F40B747F877293A2B0": "회전판",
+    "9AD17A8F487AF67CC7EA62A5CC10CF56": "{Display Name}\n속도: {Velocity}\n질량: {Mass} 각속도:{AngularVelocity}"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "D095B3FA4C165F12EECB24A19641961E": "탈것 빌드 무게를 지탱할 수 있는 기동성 좋은 부유 브릭입니다. 기본적으로 꺼져 있습니다. 운전석 또는 스위치에서 채널 컨트롤을 통해 호버 브릭을 켜야 합니다",
+    "971BEFAB4DCB2CDB90DF5098102214F9": "호버 브릭",
+    "ABA3E2A648E1A5C18FB78789D3528719": "안정형 호버 브릭",
+    "7CD80ADD46BF61A165E1449DF3D87D60": "큰 무게를 지탱하지만 기동성 낮은 이 호버 브릭은 부유 건설 플랫폼으로 사용하기에 완벽합니다."
+  },
+  "PP_CraftingFormulas_GravityBeam": {
+    "BDC31F6444C73AE8E2B6769EF31D2BD6": "중량형 호버 브릭",
+    "DB3DC89C4644243EC713729E5F432047": "경량형 호버 브릭"
+  }
+}

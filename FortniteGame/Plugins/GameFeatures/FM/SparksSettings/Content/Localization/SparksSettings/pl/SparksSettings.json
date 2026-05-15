@@ -13,8 +13,8 @@
   "ST_InstrumentNames": {
     "Bass": "Bas",
     "Drums": "Perkusja",
+    "ProVocals": "Karaoke",
     "Lead": "Instrument prowadzący",
-    "ProVocals": "Wokal na mikrofonie",
     "ProBass": "Profesjonalny bas",
     "ProDrums": "Profesjonalna perkusja",
     "ProDrumsCymbals": "Profesjonalna perkusja + talerze",

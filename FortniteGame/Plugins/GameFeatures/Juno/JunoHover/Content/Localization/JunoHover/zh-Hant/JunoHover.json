@@ -1,0 +1,23 @@
+{
+  "": {
+    "7DAA7C6648C0B3529C6E57B2CBB1EC3A": "({Display Name}) 錯誤：{Error} 距離： {Distance} 過濾Z軸速度：{FilteredZVel} XY軸速度：{XYVel} 阻力：{Drag}",
+    "3CC94F8F45297974E1C35D9685815A54": "({Display Name}) 錯誤：{Error} 距離：{Distance} Z軸速度：{ZVell} 過濾Z軸速度：{FilteredZVel} XY軸速度：{XYVel} 阻力：{Drag}\n\n彈簧項：{SpringTerm} 阻尼項：{DampingTerm} 重力補償：{GravityComp} 強度倍率@比例：{NonLinearMult} 反重力倍率@比例：{AntiGravMult} MVC權重：{MVCWeight} 基礎強度：{BaseStrength} 基礎阻尼：{BaseDamp} 力道：{Force}",
+    "206C90534C20352AFDBD7D9F0B750EEB": "啟用中",
+    "324DE0984B2B296AF61C8FA4C0FE0809": "懸浮積木",
+    "6E55EE474066CA53B893919614ED8813": "解除",
+    "AB741086499C6245881F09941E804BD4": "開",
+    "C82F1F784841D92DC159CDA539241DB8": "掙扎",
+    "80B6F1A241AB20F40B747F877293A2B0": "SwivelPlate",
+    "9AD17A8F487AF67CC7EA62A5CC10CF56": "{Display Name}\n速度：{Velocity}\n質量：{Mass}\n角動量：{AngularVelocity}"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "D095B3FA4C165F12EECB24A19641961E": "具有優異機動性的漂浮積木，能夠支撐載具拼砌的重量。預設為關閉，懸浮積木必須透過駕駛座或開關上的頻道控制功能開啟。",
+    "971BEFAB4DCB2CDB90DF5098102214F9": "懸浮積木",
+    "ABA3E2A648E1A5C18FB78789D3528719": "穩定懸浮積木",
+    "7CD80ADD46BF61A165E1449DF3D87D60": "這款懸浮積木擁有高承重力，但機動性較低，非常適合用來打造漂浮建築平台。"
+  },
+  "PP_CraftingFormulas_GravityBeam": {
+    "BDC31F6444C73AE8E2B6769EF31D2BD6": "重型懸浮積木",
+    "DB3DC89C4644243EC713729E5F432047": "輕型懸浮積木"
+  }
+}

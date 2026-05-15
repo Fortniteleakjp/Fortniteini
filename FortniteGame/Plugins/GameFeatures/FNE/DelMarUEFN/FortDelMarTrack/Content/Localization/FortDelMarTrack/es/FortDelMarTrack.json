@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Etiqueta"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "Usar fragmento de malla de terminación trasero",
+    "Use Front Endcap": "Usar fragmento de malla de terminación delantero",
+    "Use Stable Roll": "Usar alabeo estable"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "Dispositivo",
+    "DeviceProperties": "Propiedades del dispositivo",
+    "EditDevice": "Editar dispositivo",
+    "EditTrack": "Editar circuito",
+    "Looping Track": "Circuito en bucle",
+    "None": "Ninguno",
+    "RoadStyle": "Estilo de carretera",
+    "SelectSplinePoints": "Seleccionar puntos de spline",
+    "SelectedPoints": "Puntos seleccionados",
+    "Theme": "Tema",
+    "Track": "Circuito"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "Avanzado",
+    "AttachToEnd": "Vincular al final",
+    "AttachToStart": "Vincular al inicio",
+    "Attaching": "Vinculación",
+    "FortDelMarTrack": "Circuito Fuerte Del Mar",
+    "PrintAttachableActors": "Imprimir actores vinculables",
+    "FortDelMarStyleEditor": "Editor de estilo de circuito"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Fuerte Del Mar",
+    "FortDelMarSplineComponentVisualizer": "Visualizador de componentes de spline de Fuerte Del Mar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "Carretera peraltada",
+    "Change Road Shape": "Cambiar la forma de la carretera",
+    "FlatRoad": "Carretera llana",
+    "HalfPipe": "Medio tubo",
+    "Pipe": "Tubo",
+    "RoadShape": "Forma de la carretera",
+    "Tunnel": "Túnel"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Añade el siguiente punto de spline a la selección actual.",
+    "SelectAddPrevSplinePointToolTip": "Añade el anterior punto de spline a la selección actual.",
+    "DeleteMultipleNodeConfirmation": "¿Eliminar varios nodos?",
+    "SelectDeleteSplinePointToolTip": "Elimina el punto de la selección actual.",
+    "SelectAllSplinePointToolTip": "Selecciona todos los puntos de spline.",
+    "SelectFirstSplinePointToolTip": "Selecciona el primer punto de spline.",
+    "SelectLastSplinePointToolTip": "Selecciona el último punto de spline.",
+    "SelectNextSplinePointToolTip": "Selecciona el siguiente punto de spline.",
+    "SelectPrevSplinePointToolTip": "Selecciona el anterior punto de spline.",
+    "SplitNodeConfirmation": "¿Dividir en el nodo seleccionado?",
+    "SelectSplitSplinePointToolTip": "Divide nodos en los índices seleccionados."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Activar/desactivar los puntos de spline seleccionados para el indicador UseStableRoll",
+    "ToggleUseStableRoll": "Usar alabeo estable"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "No",
+    "BoolMetaData.TrueDisplayName": "Sí",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "Mostrar cifras de puntos de spline"
+  }
+}

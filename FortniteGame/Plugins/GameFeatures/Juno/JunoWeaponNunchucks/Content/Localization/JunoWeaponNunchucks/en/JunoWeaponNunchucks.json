@@ -1,22 +1,23 @@
 {
   "": {
-    "232F904440BC3A033E6337B5E384F2B2": "Chuck it out.",
-    "FB3BEC4C4A482936DC56C4A7228B3876": "Common Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
-    "0B3F3BB441C766F5706B0AA7A8140ABE": "Complete the first quest on <img id=\"IcoNinja\"/>Ninjago Island",
-    "4CF5389B41A649CD8B0F918DAEB91E19": "Complete the first quest on <img id=\"IcoNinja\"/>Ninjago Island",
-    "B20C6C8243CFAC9DFA03DBA43883B1DA": "Complete the first quest on <img id=\"IcoNinja\"/>Ninjago Island",
-    "B74E7099443434ADC72C36AC120AFEEA": "Complete the first quest on <img id=\"IcoNinja\"/>Ninjago Island",
-    "E27A5B174002E4206237A1A1D3C8EAD5": "Complete the first quest on <img id=\"IcoNinja\"/>Ninjago Island",
-    "E1FCA581470D5785BCA1A787D04E70E5": "Epic Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
-    "D3D9014F439FF82E3B9D6095C155C21D": "Feeling chucky.",
-    "BE121C264FE8A591F65ED6ADBE534E1D": "Handles",
-    "12315A064273B463455A56BC9B5D45B4": "How much chuck could a nunchuck chuck if a nunchuck could chuck chuck?",
-    "8DE8D2DC4E9F619F338D6A80F8676FE5": "Legendary Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
-    "A92E48D24F6D8211BBA2588305AB7B07": "Links",
-    "BE6CD11241F70A4BBA989194FB806CA4": "Not for chuckle heads.",
-    "C7F9EB0241CEA5E50B4764B30A77E097": "Nun of their business.",
-    "34D71B9F4AD521BD53EDC9B1835D9237": "Rare Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
-    "487CA54E4CFBE4FE72035988E1535154": "Uncommon Nunchucks. Whack enemies into submission with this speedy Ninja weapon."
+    "03CBFD0C4902292B2F9F1FBDFE6BEDE4": "Chuck it out.",
+    "996435BC4E5B529B75DD408236D96360": "Common Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "205E82764575940792A6049142AA6323": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "2B110F8B4645C774497FBCACD308FB84": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "6CF6F91B4035E559DBEEA0A568F2BCB6": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "78A452A34F4EF441A702209085446BB2": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "FCEB6A76418B6BA13DD1189300FC0890": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "AE9EAF5B4C9173285CAD7780AC39771C": "Epic Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "5B4FD27B47E5CCBB8B80088C6289BE73": "Feeling chucky.",
+    "DC87079443939BCB355546883EC1E55E": "Handles",
+    "481F9EDF4C56EBFB49B35B832BAC5BEB": "How much chuck could a nunchuck chuck if a nunchuck could chuck chuck?",
+    "38227F46470E1862060CAA9000BD23D3": "Legendary Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "CF94751C4D494428435043ACF95B8D7A": "Links",
+    "438FB2C24957FE7802C7A6A062FA8B3B": "Not for chuckle heads.",
+    "EE5404704CAAC0406A3084961B376059": "Nun of their business.",
+    "7420BC1443E02BF0B4208F8AFC0466A3": "Rare Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "A8D121EF46BFD2525115BF899B10C24F": "Relic",
+    "C80DE5C44A1E672FFE5F5B91E6C54C51": "Uncommon Nunchucks. Whack enemies into submission with this speedy Ninja weapon."
   },
   "Juno_BoostedItemNames_Nunchucks": {
     "Nunchucks_T4_T4_Bamboo_DisplayName": "Bamboo Nunchucks",
@@ -38,10 +39,10 @@
     "Nunchucks_DisplayName": "Nunchucks"
   },
   "Juno_UpdateItemData": {
-    "0F0118FD49D31B09DE4FECAF9E4B85F6": "Nunchucks",
-    "5EAC5DBC431F97B93C078582EAB05E32": "Nunchucks",
-    "79735EDA4A054667CB447C817F531CB8": "Nunchucks",
-    "7BFBDFE44B5AC7190EE6B890E98ABFCA": "Nunchucks",
-    "DF515FAC4948E32D784589A6F952EED3": "Nunchucks"
+    "0B8A62EF4FEDC0D30250C2993774014D": "Nunchucks",
+    "113AEF804ACD11B2D0C01181BEAC326C": "Nunchucks",
+    "514006DD49A771D632D5E19DB96EA3B2": "Nunchucks",
+    "724F09BA4D997457C28069B3D4FA03FF": "Nunchucks",
+    "984C361B44A5386CDB9FB19696F41C13": "Nunchucks"
   }
 }

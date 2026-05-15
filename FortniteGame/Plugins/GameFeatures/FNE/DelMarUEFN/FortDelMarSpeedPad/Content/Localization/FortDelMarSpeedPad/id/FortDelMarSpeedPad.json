@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "Landasan boost yang membuat kendaraan Rocket Racing yang melewatinya makin cepat.",
+    "9E29733642DB80268BFF658E82F9E424": "False",
+    "16327D03430DE42CFCCC2AB918D91DF5": "Landasan Kecepatan RR",
+    "1D8716B047C72FCFD8D295A1901234DB": "True"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "Menentukan apakah perangkat ini diaktifkan secara default. Saat diaktifkan, ini membuat Kendaraan Rocket Racing yang melintasinya makin cepat.",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "Nonaktifkan",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "Menonaktifkan perangkat ini. Saat dinonaktifkan, ini tidak akan memengaruhi Kendaraan Rocket Racing yang melaju di atasnya.",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Aktifkan",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Aktifkan perangkat ini. Saat diaktifkan, ini membuat Kendaraan Rocket Racing yang melintasinya makin cepat.",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Diaktifkan pada Awal Game",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "ID Grup Kecepatan",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Digunakan untuk mengatur landasan kecepatan mana yang bisa saling menumpuk. Jika kendaraan memiliki tumpukan kecepatan bonus yang sedang aktif dari landasan kecepatan lain dengan ID grup yang sama, kendaraan tidak akan mendapatkan tumpukan tambahan saat melewati landasan kecepatan ini. Jika nilai lebih kecil dari 0, landasan kecepatan ini akan selalu memberikan satu tumpuk kecepatan tambahan."
+  }
+}

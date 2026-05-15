@@ -1,0 +1,33 @@
+{
+  "": {
+    "8768B3DC4C0100FF843996B46B556BCD": "A configurable EMP Volume Hazard that slows Rocket Racing Vehicles.",
+    "C88DE03E4FF2BBC9B9FF58AD7B095C58": "Capsule",
+    "85EE9B574555E282EED2F5ACF89FD5E2": "Cube",
+    "4A81D3E5491CD3B67F660D8B91CA2C36": "Cylinder",
+    "A0FE6B564D176554663E2EB36350673A": "False",
+    "76E51ABE4EBD987F8E6A81BDA2FF0D03": "RR EMP Volume Hazard",
+    "1ED899AD40245BC4CEC34D9C22D33212": "Sphere",
+    "5A923A3F4827BBEC388A06AA8C54398F": "The collision shape of the EMP Volume Hazard.",
+    "C3E2D6F047E06C0D83C71E89D3F54B94": "Triggers the specified channel when the jelly is triggered.",
+    "D4A941A44FE40A8AF68A28B83EF82F64": "True",
+    "5532704D471D7BA874D5A3A571609D3F": "When Jelly Triggered Transmit On"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "E_ObstacleCollisionType.Capsule.DisplayName": "Capsule",
+    "E_ObstacleCollisionType.Cube.DisplayName": "Cube",
+    "E_ObstacleCollisionType.Cylinder.DisplayName": "Cylinder",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.Description": "Determines if this device is enabled by default. While enabled, this slows Rocket Racing Vehicles. While disabled, the device is invisible during a game, and partially visible while editing.",
+    "FortDelMar_Jelly_BP_C.Disable.DisplayName": "Disable",
+    "FortDelMar_Jelly_BP_C.Disable.Description": "Disable this device. While disabled, this has no effect.",
+    "FortDelMar_Jelly_BP_C.Enable.DisplayName": "Enable",
+    "FortDelMar_Jelly_BP_C.Enable.Description": "Enable this device. While enabled, this slows Rocket Racing Vehicles.",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.DisplayName": "Enabled at Game Start",
+    "FortDelMar_Jelly_BP_C.OnEMPHazardTriggered.Description": "Fires when a Rocket Racing Vehicle triggers this device.",
+    "4066091D434CC104B2BCCAA984D10747": "On Triggered",
+    "FortDelMar_Jelly_BP_C.Shape.DisplayName": "Shape",
+    "E_ObstacleCollisionType.Sphere.DisplayName": "Sphere"
+  }
+}

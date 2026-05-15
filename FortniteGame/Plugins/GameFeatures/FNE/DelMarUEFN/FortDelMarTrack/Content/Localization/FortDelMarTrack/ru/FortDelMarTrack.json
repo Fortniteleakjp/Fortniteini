@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "Использовать задний закрывающий элемент",
+    "Use Front Endcap": "Использовать передний закрывающий элемент",
+    "Use Stable Roll": "Использовать стабильное качение"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "Устройство",
+    "DeviceProperties": "Параметры устройства",
+    "EditDevice": "Редактирование устройства",
+    "EditTrack": "Редактирование трассы",
+    "Looping Track": "Зацикленная трасса",
+    "None": "Нет",
+    "RoadStyle": "Стиль дороги",
+    "SelectSplinePoints": "Выбранные точки на сплайне",
+    "SelectedPoints": "Выбранные точки",
+    "Theme": "Тема",
+    "Track": "Трасса"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "Продвинутый",
+    "AttachToEnd": "Прикрепить к концу",
+    "AttachToStart": "Прикрепить к началу",
+    "Attaching": "Прикрепление",
+    "FortDelMarTrack": "Трасса Fort Del Mar",
+    "PrintAttachableActors": "Отобразить прикрепляемые объекты",
+    "FortDelMarStyleEditor": "Редактор стиля трассы"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Fort Del Mar",
+    "FortDelMarSplineComponentVisualizer": "Визуализатор компонентов сплайнов Fort Del Mar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "Дорога с уклоном",
+    "Change Road Shape": "Изменить форму дороги",
+    "FlatRoad": "Плоская дорога",
+    "HalfPipe": "Половина трубы",
+    "Pipe": "Труба",
+    "RoadShape": "Форма дороги",
+    "Tunnel": "Туннель"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Добавить следующую точку на сплайне к текущему выбору.",
+    "SelectAddPrevSplinePointToolTip": "Добавить предыдущую точку на сплайне к текущему выбору.",
+    "DeleteMultipleNodeConfirmation": "Удалить несколько точек?",
+    "SelectDeleteSplinePointToolTip": "Удалить точку в текущем выборе.",
+    "SelectAllSplinePointToolTip": "Выбрать все точки на сплайне.",
+    "SelectFirstSplinePointToolTip": "Выбрать первую точку на сплайне.",
+    "SelectLastSplinePointToolTip": "Выбрать последнюю точку на сплайне.",
+    "SelectNextSplinePointToolTip": "Выбрать следующую точку на сплайне.",
+    "SelectPrevSplinePointToolTip": "Выбрать предыдущую точку на сплайне.",
+    "SplitNodeConfirmation": "Разделить у выбранной точки?",
+    "SelectSplitSplinePointToolTip": "Разделить узлы по индексам."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Переключить флаг UseStableRoll (Использовать стабильное качение) для выбранной точки на сплайне.",
+    "ToggleUseStableRoll": "Использовать стабильное качение"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "Откл.",
+    "BoolMetaData.TrueDisplayName": "Вкл.",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "Показать значения точек на сплайне"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "": {
+    "7DAA7C6648C0B3529C6E57B2CBB1EC3A": "（{Display Name}）错误：{Error}距离：{Distance}滤波Z轴速度：{FilteredZVel}XY水平面速度：{XYVel}阻力：{Drag}",
+    "3CC94F8F45297974E1C35D9685815A54": "（{Display Name}）错误：{Error}距离：{Distance}Z轴速度：{ZVell}滤波Z轴速度：{FilteredZVel}XY水平面速度：{XYVel}阻力：{Drag}\n\n弹簧项：{SpringTerm}阻尼项：{DampingTerm}重力补偿：{GravityComp}强度乘数@比率：{NonLinearMult}反重力乘数@比率：{AntiGravMult}MVC权重：{MVCWeight}基础强度：{BaseStrength}基础阻尼：{BaseDamp}力：{Force}",
+    "206C90534C20352AFDBD7D9F0B750EEB": "激活",
+    "324DE0984B2B296AF61C8FA4C0FE0809": "悬浮积木",
+    "6E55EE474066CA53B893919614ED8813": "取消",
+    "AB741086499C6245881F09941E804BD4": "开启",
+    "C82F1F784841D92DC159CDA539241DB8": "挣扎",
+    "80B6F1A241AB20F40B747F877293A2B0": "旋转底板",
+    "9AD17A8F487AF67CC7EA62A5CC10CF56": "{Display Name}\n速度：{Velocity}\n质量：{Mass}角速度：{AngularVelocity}"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "D095B3FA4C165F12EECB24A19641961E": "一种高机动性的漂浮积木，足以支撑载具建造的重量。默认关闭，必须通过驾驶座或开关的频道控制来开启悬浮积木",
+    "971BEFAB4DCB2CDB90DF5098102214F9": "悬浮积木",
+    "ABA3E2A648E1A5C18FB78789D3528719": "稳定悬浮积木",
+    "7CD80ADD46BF61A165E1449DF3D87D60": "这种悬浮积木载重力高，但机动性较低，适合用作漂浮建造平台。"
+  },
+  "PP_CraftingFormulas_GravityBeam": {
+    "BDC31F6444C73AE8E2B6769EF31D2BD6": "重型悬浮积木",
+    "DB3DC89C4644243EC713729E5F432047": "轻型悬浮积木"
+  }
+}

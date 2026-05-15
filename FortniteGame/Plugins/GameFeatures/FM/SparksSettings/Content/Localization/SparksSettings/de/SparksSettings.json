@@ -13,8 +13,8 @@
   "ST_InstrumentNames": {
     "Bass": "Bass",
     "Drums": "Schlagzeug",
+    "ProVocals": "Karaoke",
     "Lead": "Hauptinstrument",
-    "ProVocals": "Mikrofon-Gesang",
     "ProBass": "Profi-Bass",
     "ProDrums": "Profi-Schlagzeug",
     "ProDrumsCymbals": "Profi-Schlagzeug + Becken",

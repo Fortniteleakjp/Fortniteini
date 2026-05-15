@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "Geçerli bir Karakter Açıklaması veya Verse yapay zekâ davranışı sınıfı belirtilmeli.",
+    "CanCreateActor.NoAIBehavior": "Geçerli bir NPC Karakter Tanımı, Verse Yapay Zekâ Davranışı veya Karakter Eşyası Tanımı belirtilmelidir.",
     "FactoryDisplayName": "Karakter Çıkma Yeri Cihazı"
   },
   "AssetDefinition": {

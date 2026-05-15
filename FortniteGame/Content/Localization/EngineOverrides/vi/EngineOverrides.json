@@ -151,7 +151,7 @@
     "NodeRuntimeDescription": "{0} [{1}]{2}"
   },
   "ConversationInstance": {
-    "ConversationInstance_DefaultText": "Tiếp Tục"
+    "ConversationInstance_DefaultText": "Tiếp tục"
   },
   "DynamicRHI": {
     "NullDrvFailure": "Lỗi NullDrv?"

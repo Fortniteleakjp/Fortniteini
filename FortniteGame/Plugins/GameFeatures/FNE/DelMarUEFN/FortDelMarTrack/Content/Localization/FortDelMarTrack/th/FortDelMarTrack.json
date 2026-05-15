@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ป้าย"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "ใช้ Back Endcap",
+    "Use Front Endcap": "ใช้ Front Endcap",
+    "Use Stable Roll": "ใช้การม้วนแบบมั่นคง"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "อุปกรณ์",
+    "DeviceProperties": "คุณสมบัติอุปกรณ์",
+    "EditDevice": "แก้ไขอุปกรณ์",
+    "EditTrack": "แก้ไขแทร็ก",
+    "Looping Track": "แทร็กวนลูป",
+    "None": "ไม่มี",
+    "RoadStyle": "สไตล์ถนน",
+    "SelectSplinePoints": "เลือกจุดสไปลน์",
+    "SelectedPoints": "จุดที่เลือก",
+    "Theme": "ธีม",
+    "Track": "แทร็ก"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "ขั้นสูง",
+    "AttachToEnd": "แนบไปที่จุดสิ้นสุด",
+    "AttachToStart": "แนบไปที่จุดเริ่มต้น",
+    "Attaching": "กำลังแนบ",
+    "FortDelMarTrack": "แทร็ก Fort DelMar",
+    "PrintAttachableActors": "พิมพ์ตัวแสดงที่แนบได้",
+    "FortDelMarStyleEditor": "ตัวแก้ไขสไตล์แทร็ก"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Fort Del Mar",
+    "FortDelMarSplineComponentVisualizer": "ตัวแสดงภาพคอมโพเนนต์สปลายน์ FortDelMar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "ถนนลาดเอียง",
+    "Change Road Shape": "เปลี่ยนรูปร่างถนน",
+    "FlatRoad": "ถนนเรียบ",
+    "HalfPipe": "ครึ่งท่อ",
+    "Pipe": "ท่อ",
+    "RoadShape": "รูปร่างถนน",
+    "Tunnel": "อุโมงค์"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "เพิ่มจุดสไปลน์ถัดไปไปยังการเลือกปัจจุบัน",
+    "SelectAddPrevSplinePointToolTip": "เพิ่มจุดสไปลน์ก่อนหน้าไปยังการเลือกปัจจุบัน",
+    "DeleteMultipleNodeConfirmation": "ลบโหนดหลายโหนดหรือไม่?",
+    "SelectDeleteSplinePointToolTip": "ลบจุดที่เลือกปัจจุบัน",
+    "SelectAllSplinePointToolTip": "เลือกจุดสไปลน์ทั้งหมด",
+    "SelectFirstSplinePointToolTip": "เลือกจุดสไปลน์แรก",
+    "SelectLastSplinePointToolTip": "เลือกจุดสไปลน์สุดท้าย",
+    "SelectNextSplinePointToolTip": "เลือกจุดสไปลน์ถัดไป",
+    "SelectPrevSplinePointToolTip": "เลือกจุดสไปลน์ก่อนหน้า",
+    "SplitNodeConfirmation": "แยกที่โหนดที่เลือกอยู่หรือไม่?",
+    "SelectSplitSplinePointToolTip": "แยกโหนดที่ดัชนีที่เลือก"
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "สลับจุดสไปลน์ที่เลือกเป็นธงใช้การม้วนเสถียร",
+    "ToggleUseStableRoll": "ใช้การม้วนแบบมั่นคง"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "ปิด",
+    "BoolMetaData.TrueDisplayName": "เปิด",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "แสดงจำนวนจุดสไปลน์"
+  }
+}

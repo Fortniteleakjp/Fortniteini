@@ -13,6 +13,7 @@
     "90C797C6400B1294EC5CFEA24638A7FD": "Reverse",
     "5730E8684135A208A913959277A7216B": "Right",
     "047B56814FE243B3B28023A16A3BB1AE": "Sit",
+    "15833C0445C7A72F5CF1B9A8948FE65F": "Sit",
     "2B141CDD4064D06189CBB3A00634A241": "Sit",
     "898A0F4649647E0ACC9E42A44E7DE045": "Sit",
     "B1F4A52C4896A8B9EA77D388BE515294": "Sit",
@@ -21,13 +22,12 @@
     "8E2A6EE0493C0FA56A234986B87D2703": "Steer Right",
     "7FCF3F11433DBE65231B9F8E358CC2FD": "Swivel Left",
     "97CBE0374C9EE59143140DA0E7CBBE15": "Swivel Right",
-    "FE8AC0BF4DE52A7488D3D79D03AD42D2": "Use up to <EmphA>four separate channels</> to drive power from switches to thrusters, wheels, and other toys, allowing them to be activated individually.",
     "9CE3966D4DC5991040547E98AECE8078": "VCU",
     "AF5BDB7D4D5F99444504F090BE04BD28": "VCU",
     "B3A685654359E63155446599B709643B": "VCU",
     "C4CE2DAA4C135B8204EBE2893C5BA75A": "VCU",
     "E030E6764B0D0BD98948AD8C33880444": "VCU",
-    "493B2E3F414C4F4BFD43D3AE27C8494D": "You'll need a <EmphA>Lumber Mill</> and <EmphA>Spinning Wheel</>."
+    "025C208A4C910732C143FAB3A29CC7A3": "You'll need a <EmphA>Lumber Mill</> and <EmphA>Spinning Wheel</>."
   },
   "Juno_GameplayItemToTagMapping": {
     "404B070F44C946E47B10B19B17A28302": "Use this to make things go BOOM!",
@@ -35,7 +35,6 @@
     "E25497C64BD0A565C79640A9438BC9F5": "Use this to make things go BOOM!"
   },
   "Juno_UpdateItemData": {
-    "70A04275472D5AB4193BA7A11846F74B": "A tool used to modify toys.",
     "20F85E784A59F8D364C2348203CD46F4": "Allows players to control Turnable, Powered, and Activatable Toys.",
     "50B29F1C46F072E2F78A60A9449F0A12": "Allows players to control Turnable, Powered, and Activatable Toys.",
     "AA037ED04B134D9A6BB2B68917A2B38A": "Allows players to control Turnable, Powered, and Activatable Toys.",
@@ -45,16 +44,17 @@
     "BC893032414DA18543B2F8AC5BEA1AD7": "Large Driver's Seat",
     "B0F686E0461C557522339D9F9933B079": "Medium Driver's Seat",
     "D14504FC462A4C1D1D0BD2A4D506D40A": "Small Driver's Seat",
-    "D32BEC724B168752E4D1DBBC414A6521": "Some assembly required.",
+    "8462075D4409843D3C3F5AA4F8A1CFEA": "Some assembly required.",
+    "CFAD1C3D4559321909406EA95DED4FF8": "Use <keybind touch_tag=\"MobileHUD.Button.Juno.MainHand\">Fire</> while holding the Wrench to change how Driver's Seats and Switches control contraptions.",
     "338EFFD7442DCDE778187E951BA7EE03": "When all else fails, blow something up!",
     "5DDC8C1646DFAA9F454393B010EE222A": "When all else fails, blow something up!",
     "B783059F4FC8DE01229ADCA0CB5B738F": "When all else fails, blow something up!",
-    "303B45A14571A1B8C78221A9633EEAEA": "Wrench"
+    "26B0657F4F2CA34568B6FA9F8481C04E": "Wrench"
   },
   "PP_CraftingFormulas_ControlUnit": {
-    "BF5CFB7E41D0F2AD0B5ED68258E8B95B": "Large Driver's Seat",
-    "845B2EEE4D230DF282E1378A0B68E8C7": "Medium Driver's Seat",
-    "DBE81B704E0A35E1DBFCEFB21F65378B": "Small Driver's Seat",
-    "8CBDA2034D006E79A0815FBA8D3792D7": "Wrench"
+    "0420942E4E8740CD8FD1E3A97A79D6E4": "Large Driver's Seat",
+    "9F5853C54E86DBC58CD5B1AB0291FA5F": "Medium Driver's Seat",
+    "0D0531DC46E3604027C80CBBFF7CABCD": "Small Driver's Seat",
+    "81B756DD41DB24C834364D9B101E65C1": "Wrench"
   }
 }

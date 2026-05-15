@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "Arka Ucu Kullan",
+    "Use Front Endcap": "Ön Ucu Kullan",
+    "Use Stable Roll": "Sabit Yuvarlanma Kullan"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "Cihaz",
+    "DeviceProperties": "Cihaz Özellikleri",
+    "EditDevice": "Cihazı Düzenle",
+    "EditTrack": "Pisti Düzenle",
+    "Looping Track": "Döngülü Pist",
+    "None": "Yok",
+    "RoadStyle": "Yol Stili",
+    "SelectSplinePoints": "Eğri Noktalarını Seç",
+    "SelectedPoints": "Seçili Noktalar",
+    "Theme": "Tema",
+    "Track": "Pist"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "Gelişmiş",
+    "AttachToEnd": "Sona Bağla",
+    "AttachToStart": "Başlangıca Bağla",
+    "Attaching": "Bağlanıyor",
+    "FortDelMarTrack": "Del Mar Kalesi Pisti",
+    "PrintAttachableActors": "Bağlanabilir Nesneleri Yazdır",
+    "FortDelMarStyleEditor": "Pist Stil Editörü"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Del Mar Kalesi",
+    "FortDelMarSplineComponentVisualizer": "Del Mar Kalesi Eğri Bileşeni Görüntüleyici"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "Eğimli Yol",
+    "Change Road Shape": "Yol Şeklini Değiştir",
+    "FlatRoad": "Düz Yol",
+    "HalfPipe": "Üstü Açık Boru",
+    "Pipe": "Boru",
+    "RoadShape": "Yol Şekli",
+    "Tunnel": "Tünel"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Sonraki eğri noktasını mevcut seçime ekler.",
+    "SelectAddPrevSplinePointToolTip": "Önceki eğri noktasını mevcut seçime ekler.",
+    "DeleteMultipleNodeConfirmation": "Noktalar silinsin mi?",
+    "SelectDeleteSplinePointToolTip": "Mevcut seçimdeki noktayı siler.",
+    "SelectAllSplinePointToolTip": "Tüm eğri noktalarını seçer.",
+    "SelectFirstSplinePointToolTip": "İlk eğri noktasını seçer.",
+    "SelectLastSplinePointToolTip": "Son eğri noktasını seçer.",
+    "SelectNextSplinePointToolTip": "Bir sonraki eğri noktasını seçer.",
+    "SelectPrevSplinePointToolTip": "Önceki eğri noktasını seçer.",
+    "SplitNodeConfirmation": "Seçili noktadan ayrılsın mı?",
+    "SelectSplitSplinePointToolTip": "Seçili dizinlerde noktaları ayır."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Seçili eğri noktalarını UseStableRoll flag'ine ayarlar",
+    "ToggleUseStableRoll": "Sabit Yuvarlanma Kullan"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "Kapalı",
+    "BoolMetaData.TrueDisplayName": "Açık",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "Eğri Noktası Numaralarını Göster"
+  }
+}

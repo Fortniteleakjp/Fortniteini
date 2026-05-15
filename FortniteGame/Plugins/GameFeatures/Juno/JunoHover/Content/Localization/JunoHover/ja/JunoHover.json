@@ -1,0 +1,23 @@
+{
+  "": {
+    "7DAA7C6648C0B3529C6E57B2CBB1EC3A": "({Display Name}) エラー: {Error} 距離: {Distance} フィルター済みZ速度: {FilteredZVel} XY速度: {XYVel} 抗力: {Drag}",
+    "3CC94F8F45297974E1C35D9685815A54": "({Display Name}) エラー:{Error} 距離: {Distance} Z速度: {ZVell} フィルタリング済みZ速度: {FilteredZVel} XY速度: {XYVel} 抗力: {Drag}\n\nバネ項: {SpringTerm} 減衰項: {DampingTerm} 重力補正: {GravityComp} 強度倍率@比率: {NonLinearMult} 反重力倍率@比率: {AntiGravMult} MVCウェイト: {MVCWeight} ベース強度: {BaseStrength} ベース減衰: {BaseDamp} 力: {Force}",
+    "206C90534C20352AFDBD7D9F0B750EEB": "アクティブ",
+    "324DE0984B2B296AF61C8FA4C0FE0809": "ホバーブロック",
+    "6E55EE474066CA53B893919614ED8813": "オフ",
+    "AB741086499C6245881F09941E804BD4": "オン",
+    "C82F1F784841D92DC159CDA539241DB8": "戦い",
+    "80B6F1A241AB20F40B747F877293A2B0": "回転プレート",
+    "9AD17A8F487AF67CC7EA62A5CC10CF56": "{Display Name}\n速度: {Velocity}\n質量: {Mass} 角速度: {AngularVelocity}"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "D095B3FA4C165F12EECB24A19641961E": "機動性に優れた浮かぶレンガ。乗り物の重量を支えることができる。ホバーブロックはデフォルトでオフになっているため、運転席かスイッチのチャンネル操作でオンにする必要がある。",
+    "971BEFAB4DCB2CDB90DF5098102214F9": "ホバーブロック",
+    "ABA3E2A648E1A5C18FB78789D3528719": "ホバーブロック(安定)",
+    "7CD80ADD46BF61A165E1449DF3D87D60": "積載能力は高いものの、機動性の低いこのホバーブロックは浮遊建築物の足場にピッタリだ。"
+  },
+  "PP_CraftingFormulas_GravityBeam": {
+    "BDC31F6444C73AE8E2B6769EF31D2BD6": "ホバーブロック(重)",
+    "DB3DC89C4644243EC713729E5F432047": "ホバーブロック(軽)"
+  }
+}

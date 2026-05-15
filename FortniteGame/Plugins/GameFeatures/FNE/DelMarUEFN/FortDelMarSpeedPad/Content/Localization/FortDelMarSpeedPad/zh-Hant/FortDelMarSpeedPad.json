@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "加速板，能為經過上面的 Rocket Racing 載具提高速度。",
+    "9E29733642DB80268BFF658E82F9E424": "False",
+    "16327D03430DE42CFCCC2AB918D91DF5": "Rocket Racing 速度墊",
+    "1D8716B047C72FCFD8D295A1901234DB": "True"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "標籤"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "決定此裝置是否預設啟用。啟用時，能為經過上面的 Rocket Racing 載具提高速度。",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "停用",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "停用此裝置。停用時，此項將不會影響經過上面的 Rocket Racing 載具。",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "啟用",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "啟用此裝置。啟用時，能為經過上面的 Rocket Racing 載具提高速度。",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "遊戲開始時啟用",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "速度組 ID",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "用於控制哪些速度墊可以相互堆疊。如果載已具備來自相同群組 ID 加速板的額外速度疊加，則載具在經過此速度墊時不會再獲得疊加效果。小於 0 的值使此速度板始終提供速度疊加效果。"
+  }
+}

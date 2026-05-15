@@ -1,0 +1,33 @@
+{
+  "": {
+    "8768B3DC4C0100FF843996B46B556BCD": "Rocket Racingの乗り物のスピードを落とす設定可能なEMPボリュームハザード。",
+    "C88DE03E4FF2BBC9B9FF58AD7B095C58": "カプセル",
+    "85EE9B574555E282EED2F5ACF89FD5E2": "キューブ",
+    "4A81D3E5491CD3B67F660D8B91CA2C36": "シリンダー",
+    "A0FE6B564D176554663E2EB36350673A": "オフ",
+    "76E51ABE4EBD987F8E6A81BDA2FF0D03": "RR EMPボリュームハザード",
+    "1ED899AD40245BC4CEC34D9C22D33212": "スフィア",
+    "5A923A3F4827BBEC388A06AA8C54398F": "EMPボリュームハザードのコリジョンの形状。",
+    "C3E2D6F047E06C0D83C71E89D3F54B94": "ジェリーを起動すると、特定のチャンネルを起動する。",
+    "D4A941A44FE40A8AF68A28B83EF82F64": "TRUE",
+    "5532704D471D7BA874D5A3A571609D3F": "ジェリーが起動した時に送信"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "ラベル"
+  },
+  "UserOptionDefinition": {
+    "E_ObstacleCollisionType.Capsule.DisplayName": "カプセル",
+    "E_ObstacleCollisionType.Cube.DisplayName": "キューブ",
+    "E_ObstacleCollisionType.Cylinder.DisplayName": "シリンダー",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.Description": "この仕掛けがデフォルトで有効になるかを決定する。有効にすると、Rocket Racingの乗り物の速度が低下する。無効にすると、仕掛けはゲーム中は表示されず、編集中は部分的に表示されるようになる。",
+    "FortDelMar_Jelly_BP_C.Disable.DisplayName": "無効化",
+    "FortDelMar_Jelly_BP_C.Disable.Description": "仕掛けを無効化する。無効になっている間は、効果がない。",
+    "FortDelMar_Jelly_BP_C.Enable.DisplayName": "有効化",
+    "FortDelMar_Jelly_BP_C.Enable.Description": "この仕掛けを有効化する。有効にすると、Rocket Racingの乗り物の速度が低下する。",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.DisplayName": "ゲーム開始時に有効化",
+    "FortDelMar_Jelly_BP_C.OnEMPHazardTriggered.Description": "Rocket Racingの乗り物がこの仕掛けを作動すると発射する。",
+    "4066091D434CC104B2BCCAA984D10747": "起動時",
+    "FortDelMar_Jelly_BP_C.Shape.DisplayName": "形状",
+    "E_ObstacleCollisionType.Sphere.DisplayName": "スフィア"
+  }
+}

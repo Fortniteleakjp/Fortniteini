@@ -1,9 +1,9 @@
 {
   "": {
-    "02D507F542501C32987007BB40B310CF": "Você precisará de uma <EmphA>Serraria</>.",
-    "46465B3F47396715F622C8B9C8D00E02": "Você precisará de uma <EmphA>Serraria</>.",
-    "7DA1447E47D8D89073ACF0AAA1A2864B": "Você precisará de uma <EmphA>Serraria</>.",
-    "A681DC5345D98537642259976B7D96FD": "Você precisará de uma <EmphA>Serraria</>."
+    "1F7AE9C24D614954CEDEF980036DC9C1": "Você precisará de uma <EmphA>Serraria</>.",
+    "3DE7600941A4AF168D2463A7A3E92BC1": "Você precisará de uma <EmphA>Serraria</>.",
+    "7D24E18A43B80AE7116A5F8DB81E4149": "Você precisará de uma <EmphA>Serraria</>.",
+    "B0890CBC4160D63549669A984E3F4DDD": "Você precisará de uma <EmphA>Serraria</>."
   },
   "Juno_BoostedItemNames_SpearTierExpansionA": {
     "Spear_T5_T5_Honed_Bamboo_DisplayName": "Lança de Bambu",
@@ -21,17 +21,17 @@
     "Spear_T8_T8_Honed_Steel_DisplayName": "Lança de Aço"
   },
   "Juno_UpdateItemData": {
-    "311316ED4D182EEA2FA46DAA81FD15E5": "Lança Lendária para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
-    "B25A2F324DB535390E4B73930870E49A": "Lança Rara para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
-    "9586F8E1415780F4E24C91BC3AF6173F": "Uma lança incomparável.",
-    "3D7692F9440542E88EC2D0BE65D1A7D0": "Lança Épica para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
-    "9FE27A4249F4F9C0F7527782A3B1C0F8": "Lança Incomum para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
-    "D94E848A42A304BA80384AB51A03A759": "Um lançamento perfeito.",
-    "1F54FBF84AFFB2CCD540CD80D88B83BC": "Lança",
-    "2EA3F9C34873AAA9DAA84885A9BCD37B": "Lança",
-    "52E93B624E1B24175BB6F6811B0B3856": "Lança",
-    "824F02E94ED416162B699D95ED1A1A60": "Lança",
-    "C3ED5020413D4F9AC37D7B828F778F0A": "É assim que se lança.",
-    "888AAE0B4DA62E8ED2440D80116B1BD1": "Lança e balança."
+    "EC72B97F4FD411EEC2A56C8364A99248": "Lança Lendária para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
+    "6CA858A14D305499189F469E11C9994E": "Lança Rara para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
+    "562458CA4C5A06E97B751A8E8E5557E0": "Uma lança incomparável.",
+    "E8D100994A2640E6963739B8E396070A": "Lança Épica para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
+    "BF9D76EE4E1EE2C7EB59429045127716": "Lança Incomum para o combate corpo a corpo ou a distância. Pressione para atacar. Segure para arremessar.",
+    "93F74F814E8F0F922A0FC2B5CB6F97E6": "Um lançamento perfeito.",
+    "337731254BC07CF49E1CEC91DFE42601": "Lança",
+    "3F1F06E549D73280BE4080B35D465594": "Lança",
+    "A1DAA66B4E16395CC493679DFE260426": "Lança",
+    "E8B4CAC7433CAD87138D4FA0CDD671FB": "Lança",
+    "14A02E3941B09C14821AFA8ACEE415D0": "É assim que se lança.",
+    "ACA8BD204FBCF4161BB1778DB70BCE96": "Lança e balança."
   }
 }

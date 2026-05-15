@@ -81,7 +81,7 @@
     "6CFABB6B428BA11BF24FFF98F245E291": "Ziel",
     "88E1A4214D8DBA29C6B8B0BE7046F1EB": "Spitzhacke an/aus",
     "C0C757414028565A2E493FA86D809E37": "Inventar an/aus",
-    "A76D159D4AC5429E3DB314B4569CDBEF": "{input} Min."
+    "A76D159D4AC5429E3DB314B4569CDBEF": "{input}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Titel"

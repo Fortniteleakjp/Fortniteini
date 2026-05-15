@@ -1,0 +1,33 @@
+{
+  "": {
+    "8768B3DC4C0100FF843996B46B556BCD": "Настраиваемое препятствие с электромагнитным импульсом Rocket Racing, замедляющее болиды Rocket Racing.",
+    "C88DE03E4FF2BBC9B9FF58AD7B095C58": "Капсула",
+    "85EE9B574555E282EED2F5ACF89FD5E2": "Куб",
+    "4A81D3E5491CD3B67F660D8B91CA2C36": "Цилиндр",
+    "A0FE6B564D176554663E2EB36350673A": "Ложь",
+    "76E51ABE4EBD987F8E6A81BDA2FF0D03": "Препятствие с электромагнитным импульсом RR",
+    "1ED899AD40245BC4CEC34D9C22D33212": "Сфера",
+    "5A923A3F4827BBEC388A06AA8C54398F": "Форма столкновения препятствия с электромагнитным импульсом.",
+    "C3E2D6F047E06C0D83C71E89D3F54B94": "Отправляет сигнал по определённому каналу, когда появляется препятствие-желе.",
+    "D4A941A44FE40A8AF68A28B83EF82F64": "Истина",
+    "5532704D471D7BA874D5A3A571609D3F": "Включение передачи при появлении препятствия-желе"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Метка"
+  },
+  "UserOptionDefinition": {
+    "E_ObstacleCollisionType.Capsule.DisplayName": "Капсула",
+    "E_ObstacleCollisionType.Cube.DisplayName": "Куб",
+    "E_ObstacleCollisionType.Cylinder.DisplayName": "Цилиндр",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.Description": "Определяет, включено ли это устройство по умолчанию. Если включено, замедляет болиды Rocket Racing. Если отключено, невидимо во время игры и частично видимо при редактировании.",
+    "FortDelMar_Jelly_BP_C.Disable.DisplayName": "Отключить",
+    "FortDelMar_Jelly_BP_C.Disable.Description": "Отключает это устройство. Когда отключено, нет эффекта.",
+    "FortDelMar_Jelly_BP_C.Enable.DisplayName": "Включить",
+    "FortDelMar_Jelly_BP_C.Enable.Description": "Включает это устройство. Когда включено, замедляет болиды Rocket Racing.",
+    "FortDelMar_Jelly_BP_C.bEnabledAtGameStart.DisplayName": "Включение в начале игры",
+    "FortDelMar_Jelly_BP_C.OnEMPHazardTriggered.Description": "Срабатывает, когда болид Rocket Racing активирует это устройство.",
+    "4066091D434CC104B2BCCAA984D10747": "При активации",
+    "FortDelMar_Jelly_BP_C.Shape.DisplayName": "Форма",
+    "E_ObstacleCollisionType.Sphere.DisplayName": "Сфера"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "Gunakan Penutup Belakang",
+    "Use Front Endcap": "Gunakan Penutup Depan",
+    "Use Stable Roll": "Gunakan Roll Stabil"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "Perangkat",
+    "DeviceProperties": "Properti Perangkat",
+    "EditDevice": "Edit Perangkat",
+    "EditTrack": "Edit Trek",
+    "Looping Track": "Trek Ber-Loop",
+    "None": "Tidak Ada",
+    "RoadStyle": "Gaya Jalan",
+    "SelectSplinePoints": "Titik Spline Pilihan",
+    "SelectedPoints": "Titik Pilihan",
+    "Theme": "Tema",
+    "Track": "Trek"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "Lanjutan",
+    "AttachToEnd": "Pasang ke Akhir",
+    "AttachToStart": "Pasang ke Awal",
+    "Attaching": "Memasang",
+    "FortDelMarTrack": "Trek Fort DelMar",
+    "PrintAttachableActors": "Cetak Aktor yang Bisa Ditempel",
+    "FortDelMarStyleEditor": "Editor Gaya Trek"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "Fort Del Mar",
+    "FortDelMarSplineComponentVisualizer": "Visualizer Komponen Spline FortDelMar"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "Jalanan Miring",
+    "Change Road Shape": "Ganti Bentuk Jalan",
+    "FlatRoad": "Jalanan Datar",
+    "HalfPipe": "Setengah Pipa",
+    "Pipe": "Pipa",
+    "RoadShape": "Bentuk Jalan",
+    "Tunnel": "Terowongan"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "Tambahkan titik spline selanjutnya ke pilihan saat ini.",
+    "SelectAddPrevSplinePointToolTip": "Tambahkan titik spline sebelumnya ke pilihan saat ini.",
+    "DeleteMultipleNodeConfirmation": "Hapus Beberapa Simpul?",
+    "SelectDeleteSplinePointToolTip": "Hapus titik pada pilihan saat ini.",
+    "SelectAllSplinePointToolTip": "Pilih semua titik spline.",
+    "SelectFirstSplinePointToolTip": "Pilih titik spline pertama.",
+    "SelectLastSplinePointToolTip": "Pilih titik spline terakhir.",
+    "SelectNextSplinePointToolTip": "Pilih titik spline selanjutnya.",
+    "SelectPrevSplinePointToolTip": "Pilih titik spline sebelumnya.",
+    "SplitNodeConfirmation": "Pisah di Simpul Pilihan?",
+    "SelectSplitSplinePointToolTip": "Pisah simpul di Indeks yang Terpilih."
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "Alihkan poin spline pilihan ke bendera UseStableRoll",
+    "ToggleUseStableRoll": "Gunakan Roll Stabil"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "Nonaktif",
+    "BoolMetaData.TrueDisplayName": "Aktif",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "Tampilkan Jumlah Poin Spline"
+  }
+}

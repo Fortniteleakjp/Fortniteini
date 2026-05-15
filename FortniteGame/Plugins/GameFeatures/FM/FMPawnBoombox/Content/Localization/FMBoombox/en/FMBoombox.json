@@ -14,6 +14,8 @@
     "FMBoomboxEmoteWheelPlayMusic": "Choose Song",
     "5869D8964BB26B94A5D754B3951EFAC5": "Listen",
     "FMBoomboxDisplayName": "Play",
+    "0DFBF76E4DA8048162D7ABBE54B730D4": "Play Featured Jam Tracks",
+    "32A80F76492509079A1647BBAD2BFB29": "Stop Song",
     "FMBoomboxEmoteWheelStopMusic": "Stop Song",
     "BoomboxSourceTextFormat": "{0}'s Jam Track"
   }

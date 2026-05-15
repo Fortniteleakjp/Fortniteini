@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0}초"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "유효한 NPC 캐릭터 정의 또는 벌스 AI 행동 클래스를 지정해야 합니다.",
+    "CanCreateActor.NoAIBehavior": "유효한 NPC 캐릭터 정의, Verse AI 비헤이비어 또는 캐릭터 아이템 정의를 지정해야 합니다.",
     "FactoryDisplayName": "NPC 캐릭터 생성 장치"
   },
   "AssetDefinition": {

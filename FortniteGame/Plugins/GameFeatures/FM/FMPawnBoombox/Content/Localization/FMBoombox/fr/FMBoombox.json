@@ -14,6 +14,8 @@
     "FMBoomboxEmoteWheelPlayMusic": "Choisir la chanson",
     "5869D8964BB26B94A5D754B3951EFAC5": "Écouter",
     "FMBoomboxDisplayName": "Jouer",
+    "0DFBF76E4DA8048162D7ABBE54B730D4": "Jouer les pistes musicales à la une",
+    "32A80F76492509079A1647BBAD2BFB29": "Arrêter la chanson",
     "FMBoomboxEmoteWheelStopMusic": "Arrêter la chanson",
     "BoomboxSourceTextFormat": "Piste musicale de {0}"
   }

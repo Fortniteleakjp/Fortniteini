@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "위를 지나가는 로켓 레이싱 차량에 속도를 더해주는 부스트 패드입니다.",
+    "9E29733642DB80268BFF658E82F9E424": "끄기",
+    "16327D03430DE42CFCCC2AB918D91DF5": "로켓 레이싱 속도 패드",
+    "1D8716B047C72FCFD8D295A1901234DB": "켜기"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "이 장치가 기본적으로 사용되도록 설정되어 있는지를 결정합니다. 사용 시 위를 지나가는 로켓 레이싱 차량에 속도를 더해줍니다.",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "사용 안 함",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "이 장치를 사용하지 않습니다. 사용 안 함 설정 시 위를 지나가는 로켓 레이싱 차량에 영향을 주지 않습니다.",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "사용",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "이 장치를 사용합니다. 사용 시 위를 지나가는 로켓 레이싱 차량에 속도를 더해줍니다.",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "게임 시작 시 사용",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "속도 그룹 ID",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "어떤 부스트 패드가 서로 스택될 수 있는지 제어하는 데 사용됩니다. 차량이 동일한 그룹 ID의 다른 부스트 패드에서 보너스 속도 스택을 활성화한 경우에는 차량이 이 부스트 패드를 넘어갈 때 또 다른 스택을 얻지 못합니다. 값이 0 미만이면 이 부스트 패드가 항상 보너스 속도 스택을 줍니다."
+  }
+}

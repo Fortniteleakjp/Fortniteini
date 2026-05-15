@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "Une plaque de boost qui fait accélérer les véhicules de Rocket Racing roulant dessus.",
+    "9E29733642DB80268BFF658E82F9E424": "False",
+    "16327D03430DE42CFCCC2AB918D91DF5": "Plaque de boost RR",
+    "1D8716B047C72FCFD8D295A1901234DB": "Oui"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Étiquette"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "Définit si cet appareil est activé par défaut. Quand il est activé, cet appareil fait accélérer les véhicules de Rocket Racing qui roulent dessus.",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "Désactiver",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "Désactive l'appareil. Une fois désactivé, il n'affecte pas les véhicules de Rocket Racing qui roulent dessus.",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Activer",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Active cet appareil. Quand il est activé, cet appareil fait accélérer les véhicules de Rocket Racing qui roulent dessus.",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Activé au démarrage du jeu",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "ID de groupe de vitesse",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Permet de contrôler les plaques de boost pouvant être cumulées. Si le véhicule bénéficie d'une accélération bonus d'une autre plaque de boost partageant le même ID de groupe, le véhicule ne recevra pas de nouvelle accélération en passant sur cette plaque de boost. Une valeur inférieure à zéro fait que cette plaque de boost donne toujours un cumul d'accélération bonus."
+  }
+}

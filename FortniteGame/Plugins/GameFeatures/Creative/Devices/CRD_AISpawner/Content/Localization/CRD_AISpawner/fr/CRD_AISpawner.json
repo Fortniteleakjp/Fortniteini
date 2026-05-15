@@ -26,7 +26,7 @@
     "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
   },
   "ActorFactoryAISpawner": {
-    "CanCreateActor.NoAIBehavior": "Une définition de PNJ ou une classe de comportement d'IA Verse valide doit être spécifiée.",
+    "CanCreateActor.NoAIBehavior": "Une définition de PNJ, un comportement d'IA Verse ou une définition d'objet de personnage valide doit être spécifiée.",
     "FactoryDisplayName": "Générateur de PNJ"
   },
   "AssetDefinition": {

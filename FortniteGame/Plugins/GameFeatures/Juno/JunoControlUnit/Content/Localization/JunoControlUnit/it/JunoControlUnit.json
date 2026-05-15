@@ -13,6 +13,7 @@
     "90C797C6400B1294EC5CFEA24638A7FD": "Retromarcia",
     "5730E8684135A208A913959277A7216B": "Destra",
     "047B56814FE243B3B28023A16A3BB1AE": "Siediti",
+    "15833C0445C7A72F5CF1B9A8948FE65F": "Siediti",
     "2B141CDD4064D06189CBB3A00634A241": "Siediti",
     "898A0F4649647E0ACC9E42A44E7DE045": "Siediti",
     "B1F4A52C4896A8B9EA77D388BE515294": "Siediti",
@@ -21,13 +22,12 @@
     "8E2A6EE0493C0FA56A234986B87D2703": "Sterzata a destra",
     "7FCF3F11433DBE65231B9F8E358CC2FD": "Ruota a sinistra",
     "97CBE0374C9EE59143140DA0E7CBBE15": "Ruota a destra",
-    "FE8AC0BF4DE52A7488D3D79D03AD42D2": "Usa fino a <EmphA>quattro canali separati</> per trasmettere energia dagli interruttori ai propulsori, alle ruote e ad altri giocattoli, consentendo di attivarli singolarmente.",
     "9CE3966D4DC5991040547E98AECE8078": "VCU",
     "AF5BDB7D4D5F99444504F090BE04BD28": "VCU",
     "B3A685654359E63155446599B709643B": "VCU",
     "C4CE2DAA4C135B8204EBE2893C5BA75A": "VCU",
     "E030E6764B0D0BD98948AD8C33880444": "VCU",
-    "493B2E3F414C4F4BFD43D3AE27C8494D": "Ti serviranno una <EmphA>segheria</> e un <EmphA>arcolaio</>."
+    "025C208A4C910732C143FAB3A29CC7A3": "Ti serviranno una <EmphA>segheria</> e un <EmphA>arcolaio</>."
   },
   "Juno_GameplayItemToTagMapping": {
     "404B070F44C946E47B10B19B17A28302": "Serve a far fare BUM!",
@@ -35,7 +35,6 @@
     "E25497C64BD0A565C79640A9438BC9F5": "Serve a far fare BUM!"
   },
   "Juno_UpdateItemData": {
-    "70A04275472D5AB4193BA7A11846F74B": "Uno strumento che si usa per modificare i giocattoli.",
     "20F85E784A59F8D364C2348203CD46F4": "Consente ai giocatori di controllare i giocattoli girevoli, alimentati e attivabili.",
     "50B29F1C46F072E2F78A60A9449F0A12": "Consente ai giocatori di controllare i giocattoli girevoli, alimentati e attivabili.",
     "AA037ED04B134D9A6BB2B68917A2B38A": "Consente ai giocatori di controllare i giocattoli girevoli, alimentati e attivabili.",
@@ -45,16 +44,17 @@
     "BC893032414DA18543B2F8AC5BEA1AD7": "Sedile del guidatore grande",
     "B0F686E0461C557522339D9F9933B079": "Sedile del guidatore medio",
     "D14504FC462A4C1D1D0BD2A4D506D40A": "Sedile del guidatore piccolo",
-    "D32BEC724B168752E4D1DBBC414A6521": "Richiede montaggio.",
+    "8462075D4409843D3C3F5AA4F8A1CFEA": "Richiede montaggio.",
+    "CFAD1C3D4559321909406EA95DED4FF8": "Usa <keybind touch_tag=\"MobileHUD.Button.Juno.MainHand\">Fire</> mentre tieni in mano la chiave inglese per cambiare il modo in cui i sedili di guida e gli interruttori controllano i congegni.",
     "338EFFD7442DCDE778187E951BA7EE03": "Quando il resto non basta, fai scoppiare tutto!",
     "5DDC8C1646DFAA9F454393B010EE222A": "Quando il resto non basta, fai scoppiare tutto!",
     "B783059F4FC8DE01229ADCA0CB5B738F": "Quando il resto non basta, fai scoppiare tutto!",
-    "303B45A14571A1B8C78221A9633EEAEA": "Chiave inglese"
+    "26B0657F4F2CA34568B6FA9F8481C04E": "Chiave inglese"
   },
   "PP_CraftingFormulas_ControlUnit": {
-    "BF5CFB7E41D0F2AD0B5ED68258E8B95B": "Sedile del guidatore grande",
-    "845B2EEE4D230DF282E1378A0B68E8C7": "Sedile del guidatore medio",
-    "DBE81B704E0A35E1DBFCEFB21F65378B": "Sedile del guidatore piccolo",
-    "8CBDA2034D006E79A0815FBA8D3792D7": "Chiave inglese"
+    "0420942E4E8740CD8FD1E3A97A79D6E4": "Sedile del guidatore grande",
+    "9F5853C54E86DBC58CD5B1AB0291FA5F": "Sedile del guidatore medio",
+    "0D0531DC46E3604027C80CBBFF7CABCD": "Sedile del guidatore piccolo",
+    "81B756DD41DB24C834364D9B101E65C1": "Chiave inglese"
   }
 }

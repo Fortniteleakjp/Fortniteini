@@ -1,0 +1,21 @@
+{
+  "": {
+    "B1A223AC492F891F620896BB4282B93D": "Üzerinden geçen Rocket Racing araçlarına hız kazandıran bir destek levhası.",
+    "9E29733642DB80268BFF658E82F9E424": "Hayır",
+    "16327D03430DE42CFCCC2AB918D91DF5": "RR Destek Levhası",
+    "1D8716B047C72FCFD8D295A1901234DB": "Evet"
+  },
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "Label"
+  },
+  "UserOptionDefinition": {
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.Description": "Bu cihazın varsayılan olarak etkin olup olmayacağını belirler. Etkinleştirildiğinde, üzerinden geçen Rocket Racing araçlarını hızlandırır.",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.DisplayName": "Devre Dışı Bırak",
+    "FortDelMar_SpeedUpPad_BP_C.Disable.Description": "Bu cihazı devre dışı bırakır. Devre dışı bırakıldığında, üzerinden geçen Rocket Racing araçlarını etkilemez.",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Etkinleştir",
+    "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Bu cihazı etkinleştirir. Etkinleştirildiğinde, üzerinden geçen Rocket Racing araçlarını hızlandırır.",
+    "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Oyun Başlangıcında Etkin",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "Hız Grup Kimliği",
+    "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Hangi destek levhalarının bonuslarının birlikte kullanılabileceğini kontrol etmek için kullanılır. Araç, aynı grup kimliğine sahip başka bir destek levhasından alınmış etkin bonus hıza sahipse bu destek levhasının üzerinden geçtiğinde bonus almaz. Değer 0'dan düşüğe ayarlandığında bu destek levhası her zaman bonus hız verir."
+  }
+}

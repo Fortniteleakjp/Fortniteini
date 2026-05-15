@@ -1,0 +1,67 @@
+{
+  "Fort.Actor.Building.Defaults": {
+    "OptionDefinitionContainer.LabelOverride": "라벨"
+  },
+  "FortDelMarMetaDataWidget": {
+    "Use Back Endcap": "후방 엔드캡 사용",
+    "Use Front Endcap": "전방 엔드캡 사용",
+    "Use Stable Roll": "스테이블 롤 사용"
+  },
+  "FortDelMarStyleEditorWidget": {
+    "Device": "장치",
+    "DeviceProperties": "장치 속성",
+    "EditDevice": "장치 편집",
+    "EditTrack": "트랙 편집",
+    "Looping Track": "루프 트랙",
+    "None": "없음",
+    "RoadStyle": "도로 스타일",
+    "SelectSplinePoints": "선택된 스플라인 포인트",
+    "SelectedPoints": "선택된 포인트",
+    "Theme": "테마",
+    "Track": "트랙"
+  },
+  "FortDelMarTrackEditor": {
+    "Advanced": "상급자",
+    "AttachToEnd": "끝에 연결",
+    "AttachToStart": "시작에 연결",
+    "Attaching": "붙이기",
+    "FortDelMarTrack": "포트 DelMar 트랙",
+    "PrintAttachableActors": "연결 가능 액터 출력",
+    "FortDelMarStyleEditor": "트랙 스타일 에디터"
+  },
+  "FortDelMarTrackSplineComponentVisualizer": {
+    "FortDelMar": "포트 Del Mar",
+    "FortDelMarSplineComponentVisualizer": "FortDelMar 스플라인 컴포넌트 비주얼라이저"
+  },
+  "SFortDelMarRoadShapeWidget": {
+    "BankedRoad": "뱅크드 로드",
+    "Change Road Shape": "도로 모양 변경",
+    "FlatRoad": "플랫 로드",
+    "HalfPipe": "하프 파이프",
+    "Pipe": "파이프",
+    "RoadShape": "도로 모양",
+    "Tunnel": "터널"
+  },
+  "SFortDelMarSelectedPointsToolbar": {
+    "SelectAddNextSplinePointToolTip": "다음 스플라인 포인트를 현재 선택 목록에 추가합니다.",
+    "SelectAddPrevSplinePointToolTip": "이전 스플라인 포인트를 현재 선택 목록에 추가합니다.",
+    "DeleteMultipleNodeConfirmation": "여러 지점을 삭제할까요?",
+    "SelectDeleteSplinePointToolTip": "현재 선택 목록에 있는 포인트를 삭제합니다.",
+    "SelectAllSplinePointToolTip": "모든 스플라인 포인트를 선택합니다.",
+    "SelectFirstSplinePointToolTip": "첫 스플라인 포인트를 선택합니다.",
+    "SelectLastSplinePointToolTip": "마지막 스플라인 포인트를 선택합니다.",
+    "SelectNextSplinePointToolTip": "다음 스플라인 포인트를 선택합니다.",
+    "SelectPrevSplinePointToolTip": "이전 스플라인 포인트를 선택합니다.",
+    "SplitNodeConfirmation": "선택된 지점에서 분할할까요?",
+    "SelectSplitSplinePointToolTip": "선택한 인덱스에서 노드를 분할합니다.인덱스"
+  },
+  "UICommands.FortDelMarTrackSplineComponentVisualizer": {
+    "ToggleUseStableRoll_ToolTip": "선택된 스플라인 포인트를 UseStableRoll 플래그로 토글",
+    "ToggleUseStableRoll": "스테이블 롤 사용"
+  },
+  "UserOptionDefinition": {
+    "BoolMetaData.FalseDisplayName": "끄기",
+    "BoolMetaData.TrueDisplayName": "켜기",
+    "BP_FortDelMarTrack_C.ShowSplinePointNumbers.DisplayName": "스플라인 포인트 개수 표시"
+  }
+}
