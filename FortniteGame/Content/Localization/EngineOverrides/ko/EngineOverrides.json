@@ -96,7 +96,7 @@
     "PinConnectReplace": "연결 교체",
     "PinRerouteOutputOverride": "경로 변경 노드 출력 링크 1개로 제한",
     "StepsBackLabelFmt": "되돌릴 단계: {0}",
-    "SaveAssetDialogTitle": "다른 이름으로 애셋 저장",
+    "SaveAssetDialogTitle": "다른 이름으로 에셋 저장",
     "EditMenu_SearchHeading": "검색",
     "DefaultConnectionNotAllowed": "이 노드들의 연결이 허용되지 않습니다",
     "TreeViewMode": "트리 보기",

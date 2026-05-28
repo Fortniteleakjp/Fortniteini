@@ -190,7 +190,7 @@
     "BP_Device_ClassicBouncer_C.OnBouncedTrigger.Description": "\"Zıplatıldığında\" ayarının sinyal aktarmasına nelerin sebep olacağını belirler. SADECE OYUNCULAR - Sadece oyuncular zıplatıldığında aktarır. ZIPLATILAN HER ŞEY - Herhangi bir şey zıplatıldığında aktarır.",
     "BP_Device_HopFlower_C.OnBouncedTrigger.Description": "\"Zıplatıldığında\" ayarının sinyal aktarmasına nelerin sebep olacağını belirler. SADECE OYUNCULAR - Sadece oyuncular zıplatıldığında aktarır. ZIPLATILAN HER ŞEY - Herhangi bir şey zıplatıldığında aktarır.",
     "BP_Device_MushroomBouncer_C.OnBouncedTrigger.Description": "\"Zıplatıldığında\" ayarının sinyal aktarmasına nelerin sebep olacağını belirler. SADECE OYUNCULAR - Sadece oyuncular zıplatıldığında aktarır. ZIPLATILAN HER ŞEY - Herhangi bir şey zıplatıldığında aktarır.",
-    "BP_Device_HopFlower_C.MaintainedMomentum.Description": "Gelen ivmenin yüzde kaçının korunacağını belirleyerek oyuncuların aynı yönde hareket etmeye devam etmesini sağlar. %0 olarak ayarlandığında gelen ivme yoksayılır.",
+    "BP_Device_HopFlower_C.MaintainedMomentum.Description": "Gelen ivmenin yüzde kaçının korunacağını belirleyerek oyuncuların aynı yönde hareket etmeye devam etmesini sağlar. %0 olarak ayarlandığında gelen ivme yok sayılır.",
     "BP_Device_Bouncer_C.AllowCreatures.Description": "Yaratıkların cihazı etkinleştirip etkinleştiremeyeceğini belirler.",
     "BP_Device_Bouncer_TireParent_C.AllowCreatures.Description": "Yaratıkların cihazı etkinleştirip etkinleştiremeyeceğini belirler.",
     "BP_Device_ClassicBouncer_C.AllowCreatures.Description": "Yaratıkların cihazı etkinleştirip etkinleştiremeyeceğini belirler.",

@@ -1339,7 +1339,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Vol de bouclier",
     "4F611C954A5378BFC1804C96BB3981FE": "Synergie du bouclier",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Lancer de bouclier",
-    "6FE5EF624909BEBF19A4F7A143733F40": "Canon de bateau",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Canon de bateau",
     "85A285654B56001B52E9ABBC806822EB": "Gadget Ondes de choc",
     "8E57565847BBBCA8EE6AD38208D056E1": "Grenade à onde de choc +",
@@ -2570,7 +2569,7 @@
     "LeftPartyDialogDescription": "Vous avez quitté votre groupe car vous n'avez pas terminé le didacticiel."
   },
   "CilantroText": {
-    "CilantroNewTitle": "MANCHE PRESQUE TERMINÉE !",
+    "CilantroNewTitle": "TEMPS PRESQUE ÉCOULÉ !",
     "CilantroTotalTimeMin": "Il vous reste {0} min.",
     "CilantroTotalTimeSec": "Il vous reste {0} s.",
     "CilantroActivityCreateMin": "Il vous reste {0} minutes de temps de création",

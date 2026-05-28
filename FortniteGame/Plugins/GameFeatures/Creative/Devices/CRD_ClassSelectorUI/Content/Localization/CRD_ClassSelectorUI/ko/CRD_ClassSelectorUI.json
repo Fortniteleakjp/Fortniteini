@@ -108,7 +108,7 @@
     "FBF1EEA941CA2C288A6F3E96B43B9D29": "클래스를 선택하거나 닫기 버튼을 눌러서 팝업 UI가 닫혔을 때 트리거됩니다. 플레이어 메뉴 버전 UI가 닫혔을 때는 트리거되지 않습니다.",
     "93ADB5BB4DDFC91F9A7C789EC38DF64E": "팝업 UI를 열 때 트리거됩니다.",
     "30219A69402C1B83AFE6FE8A962A7079": "아무 클래스로 50레벨에 도달하면 잠금 해제됩니다.",
-    "A1B45DC2495FFE2E87AB9CAEF63444E1": "사용하지 않음! 이 애셋이 계속해서 Device_ClassSelectorUI의 SingularLabelsLookupTable에 업데이트를 지시합니다. 복수형 목록이 업데이트되면 꼭 업데이트하세요.",
+    "A1B45DC2495FFE2E87AB9CAEF63444E1": "사용하지 않음! 이 에셋이 계속해서 Device_ClassSelectorUI의 SingularLabelsLookupTable에 업데이트를 지시합니다. 복수형 목록이 업데이트되면 꼭 업데이트하세요.",
     "3DE37AB24DEDFD49EE6987969007A7D9": "사용하지 않음. 이 목록이 변경될 경우 이넘 파일(EClassSelectorUI_LabelsPlural) 복수 목록을 업데이트하세요.",
     "66EEC94E4FBE2D4454086AB9D1A6863D": "표시",
     "845A8BF844600B77215C1F9A0C5E018A": "전사",
