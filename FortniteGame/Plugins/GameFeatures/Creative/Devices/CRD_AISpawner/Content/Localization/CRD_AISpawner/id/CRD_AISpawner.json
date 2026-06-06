@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "NPC yang bisa dijinakkan atau ditunggangi tidak dapat digunakan secara berurutan. Atur opsi \"bisa ditunggangi\" dan \"bisa dijinakkan\" ke posisi False atau hapus pengubah sequencer.",
     "B960D2C04399F88479AD648505B7D6FF": "Pengubah Karakter NPC Tambahan",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "Spawner AI Dasar",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "Kelas Spawner AI Dasar, Tidak Seharusnya Digunakan Secara Langsung di Tempat Lain",
+    "4304459B4DC7A36E5D293191EA4A2B19": "Spawner AI Dasar",
+    "B75E7DC749264CE581DEE6BA98BD334F": "Kelas Spawner AI Dasar, Tidak Seharusnya Digunakan Secara Langsung di Tempat Lain",
     "9E9744D3405E545FE1BED882658E614C": "Tidak ada aset Cetak Biru Karakter untuk melakukan penargetan ulang!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "Tidak ada aset Penarget Ulang untuk melakukan penargetan ulang!",
     "E48FFE554DF62BB14204249459CFA281": "Tidak ada Penarget Ulang untuk menargetkan ulang Cetak Biru Karakter di Mesh Kerangka Margasatwa.",
-    "038A358943E1DA393768418A630091E0": "TIDAK",
-    "4C1B8388435AC19888E85AA03B20640F": "TIDAK",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "TIDAK",
+    "A521461240CE088B5475E59B6D7906BA": "TIDAK",
     "ECF833FD4F55F3986302D5BC44F5F236": "Definisi Karakter NPC",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Spawner NPC",
     "9F9D969F42C631D33B38889AFE826051": "Spawner NPC",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "Spawn NPC dengan opsi yang bisa disesuaikan.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Spawn karakter non-pemain dengan opsi yang bisa disesuaikan.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "JINAKKAN",
-    "9715818A494770CE4AC8BFA604B16B77": "YA",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "YA",
-    "19CB358841188B53AF27729674F2DB98": "{0} m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} dtk"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "YA",
+    "9134CFD84B97240E799723A73DBBD800": "YA",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} dtk"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Definisi Karakter NPC, Perilaku AI Verse, atau Definisi Item Karakter yang valid harus ditentukan.",
     "FactoryDisplayName": "Perangkat Spawner Karakter NPC"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "NPC",
     "AssetDefinition_NPCCharacterDefinition": "Definisi Karakter NPC"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "Jumlah",
     "RemoveItem": "Hapus Item"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "Mengubah ukuran karakter mungkin mengurangi kualitas animasi gerakan dan menyebabkan kesalahan navigasi. Uji dengan saksama sebelum menerbitkan."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Izinkan Spawn Tanpa Batas",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Despawn",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "Despawn AI Saat Dinonaktifkan",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Despawn AI Saat Dinonaktifkan",
     "Device_AISpawner_Base_C.Despawn.Description": "Despawn setiap AI yang sudah ada di perangkat ini",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Menentukan apakah radius spawn perlu ditampilkan atau tidak.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Menentukan apakah AI di-spawn berdasarkan hitung mundur Timer Spawn, atau spawn berdasarkan event.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Tampilkan Radius Spawn",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Spawn",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Jumlah Spawn",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "Spawn Sesuai Timer",
+    "6F19C1DE4967DC35BDD369912183D5BE": "Spawn Sesuai Timer",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Radius Spawn",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Spawn Melalui Dinding",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Timer Spawn",

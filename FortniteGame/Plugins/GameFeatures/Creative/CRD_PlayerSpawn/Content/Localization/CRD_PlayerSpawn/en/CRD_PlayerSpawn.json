@@ -1,25 +1,25 @@
 {
   "": {
-    "705EA9DD49E481FF114CE59B62660EFC": "Any",
-    "947081164D3E3971A16E6791C0F10D2F": "No",
-    "8E3AC05D41E654A83874899286DAFC7D": "None",
+    "6101548B4514911675B0698786B033CF": "Any",
+    "1D5A13A7436A1F9AA0B06B894FD0837F": "No",
+    "6F1661CA4F9CB1A4BAF094B95B3B5E06": "None",
     "0F049795423C3ADE844EA895E2CEB9B7": "Off",
     "002EC31F4AC8B64F0382ADB859BFE86C": "On",
-    "0085F1FA4D8F8191E69206A75208A726": "Player Spawn Pad",
-    "1913523A422E4C7D4D90BEA312698B1D": "Player Spawner",
+    "723CDC0B4E20AAFA887561A4342219D1": "Player Spawn Pad",
     "2D8133D54037DA81BE035E9FCC6C65D3": "Player Spawner",
     "2F227AC846BD48FD31B3678A1183DCC0": "Player Spawner",
+    "B9A71FC244055710EE41ECB4CCDEEF69": "Player Spawner",
     "411BB8E942EF6071F5FE3B9C2A954561": "Spawns the Player at any location on their Island",
     "FE059CF140716B098CD13183AA45C682": "Spawns the Player at any location on their Island",
     "5AB9208C4F7A35C62116A9A5E9251365": "Spawns the Player at any location on their Island.",
     "CB5CA726472B0322E01555A60383E525": "Spawns the Player at any location on their Island.",
-    "C218ECE44B26C9ED7456C4B6371E9812": "Spawns the Player at any location on their island",
-    "D235B27C47D647AF2D539B9540AB20D1": "Spawns the Player at any location on their island",
-    "FA6733FE4BE017C4B5E0ABB07D775D51": "Transmits a signal on the selected channel when a player spawns in this plate",
+    "111209DA487D5A7E842E638A162EED8F": "Spawns the Player at any location on their island",
+    "C70ED883459CAE9B722305814BFCAA97": "Spawns the Player at any location on their island",
+    "685E6B114FA8E646E26EFEA02E9E07DB": "Transmits a signal on the selected channel when a player spawns in this plate",
     "8EAC432842ECAC48577BAB98B70C9ADA": "When Near",
-    "251C08684D975603AD8F9FBE557390DB": "When Player Spawned Transmit On",
-    "FA00CBB04E4DE8D00A7F268399497505": "Yes",
-    "749FCDDB4528686E2E42A587A52916EA": "{0} {1}|plural(one=meter, other=meters)"
+    "31BAB17F41C3937FE5DC1E9C934EB7FB": "When Player Spawned Transmit On",
+    "870FBA12429BC6D790DD499065F7EED4": "Yes",
+    "5C32F3A54E793C415D02BCAAE5DBDF4E": "{0} {1}|plural(one=meter, other=meters)"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"

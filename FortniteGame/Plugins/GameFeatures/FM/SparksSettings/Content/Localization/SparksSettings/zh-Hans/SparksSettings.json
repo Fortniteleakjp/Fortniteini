@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "贝斯",
     "Drums": "架子鼓",
+    "SettingsGroupProVocals": "音乐节（卡拉OK）",
+    "SettingsGroupProDrums": "音乐节（专业架子鼓）",
+    "SettingsGroupProLeadProBass": "音乐节（专业主音吉他、专业贝斯）",
     "ProVocals": "卡拉OK",
     "Lead": "主音吉他",
     "ProBass": "专业贝斯",

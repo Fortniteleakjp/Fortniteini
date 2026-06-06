@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 được chọn nhưng Mac sẽ cần có OS 15 hỗ trợ SM6",
     "MetalMissingTargetError": "Không có RHI Mục Tiêu được cài đặt cho dự án này, đặt mặc định là SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "InputActionDataTable UI Thông Thường",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Bảng Dữ Liệu"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Cấu Trúc Hàng: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "InputActionDataTable UI Thông Thường",
-    "DataTable_MissingRowStructTitle": "Tiếp tục?",
     "AssetTypeActions_ConversationDatabase": "Ngân Hàng Hội Thoại",
     "NamelessConversationDiff": "Khác Biệt Hội Thoại",
-    "DataTable_MissingRowStructMsg": "Các Bảng Dữ Liệu sau đây thiếu kiến trúc hàng và sẽ không thể chỉnh sửa.\n\n{0}\n\nBạn có muốn mở những bảng dữ liệu này không?",
     "Conversation Diff": "{0} - Khác Biệt Hội Thoại"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Không đủ dung lượng đĩa trống. Vui lòng giải phóng dung lượng đĩa và thử lại.",
     "BuildPatchInstallShortError_ApplicationError": "Dịch vụ vá lỗi không thể khởi động. Vui lòng liên hệ bộ phận hỗ trợ.",
     "BuildPatchInstallShortError_ApplicationClosing": "Ứng dụng đang đóng.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "Đã xảy ra lỗi khi gỡ cài đặt ứng dụng. Vui lòng liên hệ với bộ phận hỗ trợ.",
     "MissingStageDirectory": "Không thể tạo thư mục sau.\n{0}",
     "MissingInstallDirectory": "Không thể tạo thư mục cài đặt.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "Thao tác cài đặt này bị lỗi. Vui lòng liên hệ bộ phận hỗ trợ.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "Chiến dịch đã thành công.",
     "InstallDirectoryDiskSpace": "Không có đủ dung lượng trống trong {Location}\n{RequiredBytes} được yêu cầu.\nHiện có {AvailableBytes} khả dụng.\nBạn cần thêm {SpaceAdditional} để thực hiện cài đặt này.",
     "InstallDirectoryDiskSpaceDevice": "Thiết bị của bạn hiện không có đủ dung lượng trống.\nCần {RequiredBytes} dung lượng trống để cài đặt.\nHiện có {AvailableBytes} khả dụng.\nBạn cần thêm {SpaceAdditional} để thực hiện cài đặt này.",
+    "MissingEncryptionKeyForNonPreload": "Không thể tiếp tục việc cài đặt vì dữ liệu giải mã cần thiết bị thiếu. Vui lòng liên hệ với bộ phận hỗ trợ.",
+    "InvalidEncryptionKeyForNonPreload": "Không thể tiếp tục việc cài đặt vì dữ liệu giải mã cần thiết không hợp lệ. Vui lòng liên hệ với bộ phận hỗ trợ.",
+    "EmptyCloudDirectories": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ với bộ phận hỗ trợ.",
     "InvalidInstallTags": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ bộ phận hỗ trợ.",
     "InvalidInstallToMemory": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ với bộ phận hỗ trợ.",
     "InvalidMemoryConstructionConfig": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ với bộ phận hỗ trợ.",
+    "VerifyOnlyActionMixed": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ với bộ phận hỗ trợ.",
     "MissingPrereqForPrereqOnlyInstall": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình tiên quyết. Vui lòng liên hệ bộ phận hỗ trợ.",
     "BuildPatchInstallShortError_UserCanceled": "Người dùng đã hủy."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Nút Chuột Trái",
     "LeftParantheses": "Dấu Ngoặc Đơn Trái",
     "LeftShift": "Shift Trái",
+    "Gesture_LongPress": "Nhấn Giữ",
     "MiddleMouseButton": "Nút Chuột Giữa",
     "MixedReality_Left_Grip_Click": "Tay Cầm Thực Tế Hỗn Hợp (L)",
     "MixedReality_Left_Menu_Click": "Menu Thực Tế Hỗn Hợp (L)",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Chạm Nút Bắn Oculus Touch (R)",
     "PageDown": "Page Down",
     "PageUp": "Page Up",
+    "Gesture_Pan": "Di Chuyển",
     "Pause": "Tạm Dừng",
     "Period": "Dấu Chấm",
     "PageDownShort": "PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Chạm 2 Steam",
     "Steam_Touch_3": "Chạm 3 Steam",
     "Tab": "Tab",
+    "Gesture_Tap": "Chạm",
     "ThumbMouseButton": "Nút Chuột Ngón Cái",
     "ThumbMouseButton2": "Nút Chuột Ngón Cái 2",
     "Tilt": "Nghiêng",

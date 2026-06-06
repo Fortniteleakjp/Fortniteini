@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno地形自定义材料"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "启用朱诺地形材质表现"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "禁用Juno地形",
+    "EnableJunoLandscape_Label": "启用Juno地形",
+    "EnableJunoLandscapeMaterialExpressions_Label": "启用朱诺地形材质表现",
+    "JunoLandscapeContextSectionName": "Juno地形",
+    "MultipleValues": "多个值",
+    "NoComponent": "无"
   },
   "JunoLandscape": {
     "Juno": "朱诺"

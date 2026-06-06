@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Acteurs",
-    "MultipleValues": "Valeurs multiples",
-    "NoComponent": "Rien",
     "RefreshPreviewISMCsTooltip": "Réapplique les remplacements de matériau des paramètres actuels aux ISMC d'aperçu dans l'éditeur des gestionnaires d'acteurs instanciés sélectionnés.",
     "ConvertSelectedIAsToActorsText": "[Juno] Convertir {0} instances en acteurs.",
     "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors",
     "RefreshPreviewISMCsText": "[Juno] Actualiser les matériaux de prévisualisation {0}"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Modifier la propriété JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Modifier les métadonnées des points de spline",
+    "EndFalloffFraction": "Fraction de déclinaison (fin)",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Détails supplémentaires",
+    "HalfWidth": "Demi-largeur",
+    "LayerSideFalloffScale": "Échelle de couche de déclinaison du côté",
+    "LayerWidthScale": "Échelle de largeur de couche",
+    "Multiple": "Plusieurs",
+    "SideFalloffWidth": "Largeur d'atténuation latérale",
+    "StartFalloffFraction": "Fraction de déclinaison (début)"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributs pour le chemin résolu de l'acteur '{0}', nom de la rangée du chemin résolu '{1}' et/ou représentation '{2}' entre en conflit avec le nom d'autres attributs.",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Impossible de récupérer les données du point depuis le dispositif d'entrée.",
     "UnableToGetSpatialData": "Impossible de récupérer les données spatiales depuis le dispositif d'entrée."
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Les données n'ont pas pu être récupérées pour la texture de hauteur ; l'initialisation a échoué.",
-    "TextureInitFailed": "Les données n'ont pas pu être récupérées pour cette texture ; l'initialisation a échoué.",
-    "FailExtractGrassTypeOverrides": "Échec d'extraction des remplacements de type d'herbe.",
-    "MissingGrassName": "Le nom du type d'herbe est manquant ; échec de l'étiquetage des données. Assurez-vous que tous les GrassTypes de votre matériau de paysage sont associés à une ressource.",
-    "LandscapeComponentLost": "Référence à un ou plusieurs composants de paysage perdu(s) ; les mappages d'herbe ne seront pas générés."
+    "FailExtractGrassTypeOverrides": "Échec d'extraction des remplacements de type d'herbe."
   }
 }

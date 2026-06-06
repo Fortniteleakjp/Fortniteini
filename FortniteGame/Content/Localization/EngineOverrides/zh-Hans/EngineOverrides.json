@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "已选定-sm6，但Mac需要OS 15才能支持SM6",
     "MetalMissingTargetError": "未为此项目设置目标RHI，默认为SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "通用UI输入操作数据表",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "数据表"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0}（行结构：{1}）",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "通用UI输入操作数据表",
-    "DataTable_MissingRowStructTitle": "继续？",
     "AssetTypeActions_ConversationDatabase": "会话库",
     "NamelessConversationDiff": "会话差异",
-    "DataTable_MissingRowStructMsg": "以下数据表缺少行结构，无法编辑。\n\n{0}\n\n确定打开这些数据表吗？",
     "Conversation Diff": "{0}-会话差异"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "可用磁盘空间不足。请释放磁盘空间后重试。",
     "BuildPatchInstallShortError_ApplicationError": "补丁服务无法启动。请联系客服。",
     "BuildPatchInstallShortError_ApplicationClosing": "应用程序正在关闭。",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "该应用的卸载操作执行失败。请联系客服。",
     "MissingStageDirectory": "无法创建以下目录。\n{0}",
     "MissingInstallDirectory": "无法创建安装目录。\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "安装已损坏。请联系客服。",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "操作成功。",
     "InstallDirectoryDiskSpace": "{Location}空间不足。\n需要{RequiredBytes}。\n当前可用空间为{AvailableBytes}。\n安装还需要{SpaceAdditional}。",
     "InstallDirectoryDiskSpaceDevice": "设备空间不足。\n需要{RequiredBytes}。\n当前可用空间为{AvailableBytes}。\n需要额外{SpaceAdditional}以执行安装。",
+    "MissingEncryptionKeyForNonPreload": "缺少所需的解密数据，安装无法继续。请联系客服。",
+    "InvalidEncryptionKeyForNonPreload": "所需的解密数据无效，安装无法继续。请联系客服。",
+    "EmptyCloudDirectories": "由于配置问题，安装无法继续。请联系客服。",
     "InvalidInstallTags": "由于配置问题，安装无法继续。请联系客服。",
     "InvalidInstallToMemory": "由于配置问题，安装无法继续。请联系客服。",
     "InvalidMemoryConstructionConfig": "由于配置问题，安装无法继续。请联系客服。",
+    "VerifyOnlyActionMixed": "由于配置问题，安装无法继续。请联系客服。",
     "MissingPrereqForPrereqOnlyInstall": "由于前置文件配置问题，安装无法继续。请联系客服。",
     "BuildPatchInstallShortError_UserCanceled": "用户已取消。"
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "鼠标左键",
     "LeftParantheses": "左小括号键 (",
     "LeftShift": "左Shift",
+    "Gesture_LongPress": "长按",
     "MiddleMouseButton": "鼠标中键",
     "MixedReality_Left_Grip_Click": "Mixed Reality（左）握把",
     "MixedReality_Left_Menu_Click": "Mixed Reality（左）菜单键",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch（右）扳机轻触",
     "PageDown": "向下翻页",
     "PageUp": "向上翻页",
+    "Gesture_Pan": "平移",
     "Pause": "暂停",
     "Period": "句号键 。",
     "PageDownShort": "PgDn键",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam触控2",
     "Steam_Touch_3": "Steam触控3",
     "Tab": "Tab 键",
+    "Gesture_Tap": "点击",
     "ThumbMouseButton": "鼠标侧键",
     "ThumbMouseButton2": "鼠标侧键2",
     "Tilt": "倾斜",

@@ -158,14 +158,13 @@
     "85DC0F9C4240C8492FC2F8A0E2D5C665": "valueLimit",
     "2EADE41D4E2D7764A471EF874A1960D9": "{0}-{1}",
     "E364D60A4289BF5135E95681FB952243": "{0}-{1}",
-    "1384FF6541C2BC16512992B278DAB587": "{Artist}",
     "A1E8172444008B064ABD57AC2545ACCC": "{BaseMessage} {Privacy}",
     "180A6E1E426AE867610F44806E3B6787": "{CurrPlayer}",
     "1F4AF13A4A9F5B7CDFF2A887950F6A30": "{Key}",
     "8D9837DB46469A5F8A6451B955117097": "{Key} {Mode}",
     "BC5E4D1D4F503E30699CDDBC4A8DF675": "{Key} {Mode}",
     "F1EA968346EC1D73D4A3B9811C51BA2D": "{Option}",
-    "032AB7F14CA3AD6EF3B28E878A75FAC0": "{SongTitle}",
+    "6855B1D44AA86F9BFF258082EAA50534": "{Song Title}",
     "1982348844A1B57007C5C19A76DF56E9": "{SongTitle}",
     "8EC915CA4A345A12B9D3D7B20DF24E4E": "{Text}",
     "E8B206B64A603938ED15189F6502F862": "{Text}",
@@ -181,6 +180,7 @@
     "JamLoopsDisplayName": "Jam",
     "EnableJamQuantization_Off": "Off",
     "EnableJamQuantization_Name": "Start Jam Loops at Optimal Times",
-    "EnableJamQuantization_Description": "When should a new Jam Loop start."
+    "EnableJamQuantization_Description": "When should a new Jam Loop start.",
+    "KeySongAndTitleCombined": "{0}   {1}"
   }
 }

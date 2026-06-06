@@ -1,23 +1,23 @@
 {
   "": {
-    "03CBFD0C4902292B2F9F1FBDFE6BEDE4": "Chuck it out.",
-    "996435BC4E5B529B75DD408236D96360": "Common Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
-    "205E82764575940792A6049142AA6323": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
-    "2B110F8B4645C774497FBCACD308FB84": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
-    "6CF6F91B4035E559DBEEA0A568F2BCB6": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
-    "78A452A34F4EF441A702209085446BB2": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
-    "FCEB6A76418B6BA13DD1189300FC0890": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
-    "AE9EAF5B4C9173285CAD7780AC39771C": "Epic Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
-    "5B4FD27B47E5CCBB8B80088C6289BE73": "Feeling chucky.",
+    "32E3A7844029FE3080165AB802C31387": "Chuck it out.",
+    "FDE4360945D0124FC757C7A0C35738C6": "Common Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "B44F681847AC0FC37DDA03B6DCF3E2CE": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "EF1DD5AF48912E2BC9A384BC89CBAF3C": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "F97CDC434335286A6866EC9B1661E24E": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "F9E3AE124A38FE23F0BAFE841BCBA66C": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "FE9DA4ED4927246806254DB76AFDD574": "Complete <emphA>Lloyd's</> quest <emphA>A Mission from Lloyd</> at the <emphA>Monastery of Spinjitzu</> on <img id=\"IcoNinja\"/>Ninjago Island</>",
+    "B5C8CB524A5036AD965BE0A84D1D64AE": "Epic Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "3E5602D4427ED79E2DE45688C21D0777": "Feeling chucky.",
     "DC87079443939BCB355546883EC1E55E": "Handles",
-    "481F9EDF4C56EBFB49B35B832BAC5BEB": "How much chuck could a nunchuck chuck if a nunchuck could chuck chuck?",
-    "38227F46470E1862060CAA9000BD23D3": "Legendary Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "419F78F04A9BC08FF3F279A35DA5D20D": "How much chuck could a nunchuck chuck if a nunchuck could chuck chuck?",
+    "07C4BDF5475CD7900AD523BDE60EB835": "Legendary Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
     "CF94751C4D494428435043ACF95B8D7A": "Links",
-    "438FB2C24957FE7802C7A6A062FA8B3B": "Not for chuckle heads.",
-    "EE5404704CAAC0406A3084961B376059": "Nun of their business.",
-    "7420BC1443E02BF0B4208F8AFC0466A3": "Rare Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
+    "DD551EEA4E3F0D642D738B9DF08396BE": "Not for chuckle heads.",
+    "104CC9314A4DA6D589AC46A5ABF0CC84": "Nun of their business.",
+    "1690FE5147BD72252DCB4DB91AF21144": "Rare Nunchucks. Whack enemies into submission with this speedy Ninja weapon.",
     "A8D121EF46BFD2525115BF899B10C24F": "Relic",
-    "C80DE5C44A1E672FFE5F5B91E6C54C51": "Uncommon Nunchucks. Whack enemies into submission with this speedy Ninja weapon."
+    "5BB48E8A4C750D3B637D3AB1989CCBDF": "Uncommon Nunchucks. Whack enemies into submission with this speedy Ninja weapon."
   },
   "Juno_BoostedItemNames_Nunchucks": {
     "Nunchucks_T4_T4_Bamboo_DisplayName": "Bamboo Nunchucks",
@@ -39,10 +39,10 @@
     "Nunchucks_DisplayName": "Nunchucks"
   },
   "Juno_UpdateItemData": {
-    "0B8A62EF4FEDC0D30250C2993774014D": "Nunchucks",
-    "113AEF804ACD11B2D0C01181BEAC326C": "Nunchucks",
-    "514006DD49A771D632D5E19DB96EA3B2": "Nunchucks",
-    "724F09BA4D997457C28069B3D4FA03FF": "Nunchucks",
-    "984C361B44A5386CDB9FB19696F41C13": "Nunchucks"
+    "3E3BE05446EC98701F59CE8EFD7EDF52": "Nunchucks",
+    "442EB4CE415207770972808FFCAA03DC": "Nunchucks",
+    "7A311C794E7BF6A62CA9DF9D9714F3B3": "Nunchucks",
+    "91C6D94E45481614ED3A10AAFFABD3EB": "Nunchucks",
+    "FE66E1F64CDB27A807240897F2BDE0D9": "Nunchucks"
   }
 }

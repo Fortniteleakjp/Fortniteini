@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Odłączono cię od hosta z powodu zbyt długiej bezczynności.",
-    "SpawnedWhenPermanentlyDead": "Temu klientowi zabrakło żyć."
+    "SpawnedWhenPermanentlyDead": "Temu klientowi zabrakło żyć.",
+    "ArbitratedWorldOwnerBannedUser": "Masz w tym świecie bana. Wybierz inny świat, do którego chcesz dołączyć."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Przejdź do trybu budowania według schematu"

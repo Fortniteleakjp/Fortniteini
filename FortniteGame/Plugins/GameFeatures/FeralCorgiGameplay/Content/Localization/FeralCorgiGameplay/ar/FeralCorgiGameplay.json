@@ -13,7 +13,7 @@
     "688D2BA6440F11557C3DE699A2F8058C": "نطاق الرؤية 4x",
     "985F55FA4F674DF1F3B71EA14DF532DF": "نطاق الرؤية 4x",
     "B2C8720F440DEF2B2D951FAD5DF783E6": "نطاق الرؤية 4x",
-    "155FA5E1419168B163C5FCA851D92B55": "تصويب",
+    "155FA5E1419168B163C5FCA851D92B55": "استهداف",
     "1565F00349D96DAE4BDF7E8F70BD6824": "تصويب",
     "3249D8404E503E0E89F36DAC6BB902A1": "تصويب",
     "32768F794D27A6E076098899318D7C44": "تصويب",
@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "تعديل سلاح",
     "324967EA4E1C1AC287BB93A8C83F114D": "مقبض، تعديل سلاح، مقبض بزاوية",
     "828BF7714BB5A101CDB95485C9D57045": "مقبض، تعديل سلاح، مقبض عمودي"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 هرتز",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 هرتز",
+    "EFortServerTickRate.Twenty.DisplayName": "20 هرتز",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 هرتز",
+    "EFortServerTickRate.Thirty.DisplayName": "30 هرتز",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 هرتز",
+    "EFortServerTickRate.Sixty.DisplayName": "60 هرتز",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "افتراضي (30 هرتز)",
+    "EFortServerTickRate.UseDefault.DisplayName": "افتراضي (30 هرتز)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "معدل التجدد المطلوب للأغراض الفيزيائية",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "معدل التجدد المطلوب",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "معدل التجدد المطلوب للأغراض الفيزيائية للعميل/ برنامج اللعبة.",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "معدل التجدد المطلوب للخادم"
   }
 }

@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "ถูกเตะออกเนื่องจากนิ่งเฉย การเชื่อมต่อของคุณกับโฮสต์ถูกตัดขาด\nเนื่องจากคุณนิ่งเฉยนานเกินไป",
-    "SpawnedWhenPermanentlyDead": "ไคลเอนต์นี้ชีวิตหมดแล้ว"
+    "SpawnedWhenPermanentlyDead": "ไคลเอนต์นี้ชีวิตหมดแล้ว",
+    "ArbitratedWorldOwnerBannedUser": "คุณถูกแบนจากโลกนี้ โปรดเลือกโลกอื่นเพื่อเข้าร่วม"
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "เข้าคู่มือสร้าง"

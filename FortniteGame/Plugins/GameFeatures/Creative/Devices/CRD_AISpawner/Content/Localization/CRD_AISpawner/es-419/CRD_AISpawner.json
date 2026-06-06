@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "No puede usarse un PNJ que puede domarse o montarse en una secuencia. Establece la capacidad de montar o domar en No o elimina el modificador de secuenciador.",
     "B960D2C04399F88479AD648505B7D6FF": "Modificadores de personaje PNJ adicionales",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "Generador de IA base",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "La clase del generador de IA base, no se debe usar en otros lugares.",
+    "4304459B4DC7A36E5D293191EA4A2B19": "Generador de IA base",
+    "B75E7DC749264CE581DEE6BA98BD334F": "La clase del generador de IA base, no se debe usar en otros lugares.",
     "9E9744D3405E545FE1BED882658E614C": "¡Falta un recurso de esquema de personaje para reorientar!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "¡Falta un recurso de reorientador para reorientar!",
     "E48FFE554DF62BB14204249459CFA281": "Falta un reorientador para cambiar el objetivo del esquema de personaje en la malla esquelética de animal salvaje.",
-    "038A358943E1DA393768418A630091E0": "NO",
-    "4C1B8388435AC19888E85AA03B20640F": "NO",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "NO",
+    "A521461240CE088B5475E59B6D7906BA": "NO",
     "ECF833FD4F55F3986302D5BC44F5F236": "Definición del PNJ",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Generador de PNJ",
     "9F9D969F42C631D33B38889AFE826051": "Generador de PNJ",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "Genera PNJ con opciones personalizables.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Genera personajes no jugables con opciones personalizables.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "DOMAR",
-    "9715818A494770CE4AC8BFA604B16B77": "SÍ",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "SÍ",
-    "19CB358841188B53AF27729674F2DB98": "{0} m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "SÍ",
+    "9134CFD84B97240E799723A73DBBD800": "SÍ",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} s"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Debe especificarse una definición de personaje de PNJ, una clase de comportamiento de IA de Verse o una definición de objeto del personaje válidas.",
     "FactoryDisplayName": "Dispositivo de aparición de PNJ"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "PNJ",
     "AssetDefinition_NPCCharacterDefinition": "Definición del PNJ"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "Cantidad",
     "RemoveItem": "Eliminar objeto"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "Ajustar la escala de los personajes puede reducir la calidad de la animación de movimiento y provocar errores de navegación. Pruébalo a fondo antes de publicar."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiqueta"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Permitir generación infinita",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Desaparecer",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "Desaparecer IA al deshabilitarse",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Desaparecer IA al deshabilitarse",
     "Device_AISpawner_Base_C.Despawn.Description": "Hace desaparecer a cualquier IA que pertenezca a este dispositivo.",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Determina si es necesario mostrar el radio de aparición.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Determina si la IA aparece según la cuenta regresiva del cronómetro de aparición o si aparece cuando ocurren eventos.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Mostrar radio de aparición",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Generar",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Conteo de apariciones",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "Generar con el cronómetro",
+    "6F19C1DE4967DC35BDD369912183D5BE": "Generar con el cronómetro",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Radio de aparición",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Aparición a través de las paredes",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Cronómetro de aparición",

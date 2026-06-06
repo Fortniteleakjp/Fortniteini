@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "無操作によってキックされました。無操作状態が続いたため、ホストから切断されました。",
-    "SpawnedWhenPermanentlyDead": "このクライアントはもう復活できません。"
+    "SpawnedWhenPermanentlyDead": "このクライアントはもう復活できません。",
+    "ArbitratedWorldOwnerBannedUser": "このワールドから追放されました。参加する他のワールドを選択してください。"
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "ガイド付き建築を開始"

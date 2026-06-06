@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "手なずけ可能なNPCや騎乗可能なNPCはシーケンス内で使用できません。騎乗可能と手なずけ可能の設定をオフにするか、シーケンサーのモディファイアを削除してください。",
     "B960D2C04399F88479AD648505B7D6FF": "追加のNPCキャラクター補正",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "ベースAIスポナー",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "ベースとなるAIスポナークラス、他の場所で直接使用するためのものではない",
+    "4304459B4DC7A36E5D293191EA4A2B19": "ベースAIスポナー",
+    "B75E7DC749264CE581DEE6BA98BD334F": "ベースとなるAIスポナークラス、他の場所で直接使用するためのものではない",
     "9E9744D3405E545FE1BED882658E614C": "再ターゲットするためのキャラクター図がありません！",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "再ターゲット用のRetargeterがありません！",
     "E48FFE554DF62BB14204249459CFA281": "野生動物スケルタルメッシュ上のキャラクター図を再ターゲットするためのRetargeterがありません。",
-    "038A358943E1DA393768418A630091E0": "いいえ",
-    "4C1B8388435AC19888E85AA03B20640F": "いいえ",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "いいえ",
+    "A521461240CE088B5475E59B6D7906BA": "いいえ",
     "ECF833FD4F55F3986302D5BC44F5F236": "NPCキャラクター定義",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "NPCスポナー",
     "9F9D969F42C631D33B38889AFE826051": "NPCスポナー",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "カスタマイズ可能なオプションのあるNPCをスポーンさせる。",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "カスタマイズ可能なオプションのある非プレイヤーキャラクターをスポーンさせる。",
     "EF26C08F4E22BEF782257EB5CF496F7B": "手なずける",
-    "9715818A494770CE4AC8BFA604B16B77": "はい",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "はい",
-    "19CB358841188B53AF27729674F2DB98": "{0}m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0}秒"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "はい",
+    "9134CFD84B97240E799723A73DBBD800": "はい",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0}m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0}秒"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "有効なNPCキャラクター定義、Verse AI行動、またはキャラクターアイテム定義を指定する必要があります。",
     "FactoryDisplayName": "NPCキャラクタースポナーの仕掛け"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "NPC",
     "AssetDefinition_NPCCharacterDefinition": "NPCキャラクター定義"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "個数",
     "RemoveItem": "アイテムを削除"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "キャラクターのスケーリングを変更すると、移動アニメーションの品質が低下し、ナビゲーションエラーが発生する可能性があります。公開する前に、徹底的にテストしてください。"
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "ラベル"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "無限スポーンを許可",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "デスポーンする",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "無効時にAIをデスポーンする",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "無効時にAIをデスポーンする",
     "Device_AISpawner_Base_C.Despawn.Description": "この仕掛けに属する全ての既存のAIをデスポーンさせる。",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "スポーン範囲を表示する必要があるかどうかを決定する。",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "AIをスポーンタイマーのカウントダウンでスポーンさせるか、イベントでスポーンさせるかを決定する。",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "スポーン範囲を表示",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "スポーン",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "スポーン回数",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "タイマーでスポーン",
+    "6F19C1DE4967DC35BDD369912183D5BE": "タイマーでスポーン",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "スポーン範囲",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "壁越しにスポーン",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "スポーンタイマー",

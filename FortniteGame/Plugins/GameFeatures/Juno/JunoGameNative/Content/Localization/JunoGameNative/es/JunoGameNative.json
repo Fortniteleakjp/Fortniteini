@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Te han expulsado por inactividad. Tu conexión con el servidor se ha perdido tras un periodo largo de inactividad.",
-    "SpawnedWhenPermanentlyDead": "A este cliente no le quedan vidas."
+    "SpawnedWhenPermanentlyDead": "A este cliente no le quedan vidas.",
+    "ArbitratedWorldOwnerBannedUser": "Te han suspendido en este mundo. Elige otro mundo al que quieras unirte."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Construcción guiada"

@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "วัตถุ",
-    "MultipleValues": "ค่าหลายค่า",
-    "NoComponent": "ไม่มี",
     "RefreshPreviewISMCsTooltip": "ปรับใช้การเขียนทับวัสดุจากการตั้งค่าปัจจุบันซ้ำอีกครั้งให้กับตัวอย่างแก้ไข ISMC ของ Instanced Actor Managers ที่เลือก",
     "ConvertSelectedIAsToActorsText": "[จูโน่] แปลงอินสแตนซ์ {0} กลับเป็นวัตถุ",
     "ConvertSelectedActorsToIAsText": "[Juno] แปลง {0} เป็นวัตถุอินสแตนซ์",
     "RefreshPreviewISMCsText": "[จูโน่] รีเฟรชวัสดุตัวอย่าง {0} รายการ"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "แก้ไขคุณสมบัติ JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "แก้ไขข้อมูลเมตาจุดสไปลน์",
+    "EndFalloffFraction": "อัตราส่วนการจางหายสิ้นสุด",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "รายละเอียดเพิ่มเติม",
+    "HalfWidth": "ครึ่งความกว้าง",
+    "LayerSideFalloffScale": "ระดับการจางหายด้านข้างของเลเยอร์",
+    "LayerWidthScale": "มาตราส่วนความกว้างของเลเยอร์",
+    "Multiple": "หลายอย่าง",
+    "SideFalloffWidth": "ความกว้างการจางหายด้านข้าง",
+    "StartFalloffFraction": "สัดส่วนการจางหายเริ่มต้น"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "แอตทริบิวต์สำหรับ actor path '{0}', ชื่อแถวที่แก้ไขแล้ว '{1}'และ/หรือการเป็นตัวแทน '{2}' ขัดแย้งกับชื่อแอตทริบิวต์อื่น ๆ",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "ไม่สามารถรับข้อมูลจุดจากอินพุตได้",
     "UnableToGetSpatialData": "ไม่สามารถรับข้อมูลภูมิสารสนเทศจากอินพุตได้"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "ไม่สามารถดึงข้อมูลสำหรับพื้นผิวความสูงได้ การเริ่มต้นล้มเหลว",
-    "TextureInitFailed": "ไม่สามารถดึงข้อมูลสำหรับพื้นผิวนี้ได้ การเริ่มต้นล้มเหลว",
-    "FailExtractGrassTypeOverrides": "ไม่สามารถดึงข้อมูลการตั้งค่าทับซ้อนของประเภทหญ้าได้",
-    "MissingGrassName": "ไม่พบชื่อประเภทหญ้า จึงไม่สามารถระบุข้อมูลได้ ตรวจสอบให้แน่ใจว่าทุกประเภทหญ้าในวัสดุภูมิทัศน์ของคุณมีแอสเซ็ตที่เชื่อมโยงอยู่",
-    "LandscapeComponentLost": "ค่าที่ใช้เอาต์พุตให้องค์ประกอบของภูมิทัศน์บางส่วนสูญหาย ไม่สามารถสร้างแผนที่หญ้าได้"
+    "FailExtractGrassTypeOverrides": "ไม่สามารถดึงข้อมูลการตั้งค่าทับซ้อนของประเภทหญ้าได้"
   }
 }

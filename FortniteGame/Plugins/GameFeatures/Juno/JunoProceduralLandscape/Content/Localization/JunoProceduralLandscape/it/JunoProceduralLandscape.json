@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Materiali personalizzati paesaggio Juno"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "Abilita le espressioni dei materiali per il paesaggio di Juno"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "Disabilita paesaggio Juno",
+    "EnableJunoLandscape_Label": "Abilita paesaggio Juno",
+    "EnableJunoLandscapeMaterialExpressions_Label": "Abilita le espressioni dei materiali per il paesaggio di Juno",
+    "JunoLandscapeContextSectionName": "Paesaggio Juno",
+    "MultipleValues": "Valori multipli",
+    "NoComponent": "Nulla"
   },
   "JunoLandscape": {
     "Juno": "Juno"

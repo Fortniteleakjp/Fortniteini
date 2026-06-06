@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Không thấy động tĩnh gì, game đành \"nghỉ xả hơi\". Kết nối của bạn với máy chủ đã bị mất vì bạn không hoạt động quá lâu.",
-    "SpawnedWhenPermanentlyDead": "Người chơi này đã hết mạng."
+    "SpawnedWhenPermanentlyDead": "Người chơi này đã hết mạng.",
+    "ArbitratedWorldOwnerBannedUser": "Bạn đã bị cấm khỏi thế giới này. Vui lòng chọn thế giới khác để tham gia."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Vào Chế Độ Lắp Ráp Theo Hướng Dẫn"

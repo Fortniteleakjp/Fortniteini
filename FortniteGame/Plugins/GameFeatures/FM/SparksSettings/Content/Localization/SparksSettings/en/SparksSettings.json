@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "Bass",
     "Drums": "Drums",
+    "SettingsGroupProVocals": "Festival (Karaoke)",
+    "SettingsGroupProDrums": "Festival (Pro Drums)",
+    "SettingsGroupProLeadProBass": "Festival (Pro Lead, Pro Bass)",
     "ProVocals": "Karaoke",
     "Lead": "Lead",
     "ProBass": "Pro Bass",

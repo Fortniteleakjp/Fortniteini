@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "مواد مخصصة لتضاريس Juno"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "تفعيل معادلات مواد تضاريس Juno"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "تعطيل تضاريس Juno",
+    "EnableJunoLandscape_Label": "تفعيل تضاريس Juno",
+    "EnableJunoLandscapeMaterialExpressions_Label": "تفعيل معادلات مواد تضاريس Juno",
+    "JunoLandscapeContextSectionName": "تضاريس Juno",
+    "MultipleValues": "قيم متعددة",
+    "NoComponent": "لا شيء"
   },
   "JunoLandscape": {
     "Juno": "Juno"

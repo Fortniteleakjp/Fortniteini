@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "Silah Modifikasyonu",
     "324967EA4E1C1AC287BB93A8C83F114D": "tutacak, silahmodifikasyonu, açılıtutacak",
     "828BF7714BB5A101CDB95485C9D57045": "tutacak, silahmodifikasyonu, diktutacak"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20 hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30 hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60 hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "Varsayılan (30hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "Varsayılan (30hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "İstenilen Fizik İşlemi Hızı",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "İstenilen İşlem Hızı",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "İstemci/sunucudan talep edilen fizik yenileme aralığı",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "Sunucunun istenilen işlem hızı"
   }
 }

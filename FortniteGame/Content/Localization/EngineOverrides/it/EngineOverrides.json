@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 selezionato ma Mac richiede OS 15 per supportare SM6",
     "MetalMissingTargetError": "Nessun RHI obiettivo è impostato per il progetto, SM5 selezionato per impostazione predefinita"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "InputActionDataTable IU comune",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Tabella di dati"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Struttura righe: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "InputActionDataTable IU comune",
-    "DataTable_MissingRowStructTitle": "Continuare?",
     "AssetTypeActions_ConversationDatabase": "Archivio conversazioni",
     "NamelessConversationDiff": "Diff conversazioni",
-    "DataTable_MissingRowStructMsg": "Le seguenti Tabelle dati non presentano la struttura delle righe e non saranno modificabili.\n\n{0}\n\nVuoi aprire queste tabelle dati?",
     "Conversation Diff": "{0} - Diff conversazioni"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Spazio su disco insufficiente. Liberare spazio su disco e riprovare.",
     "BuildPatchInstallShortError_ApplicationError": "Il servizio di patch non può essere avviato. Contattare l'assistenza.",
     "BuildPatchInstallShortError_ApplicationClosing": "L'applicazione si sta chiudendo.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "L'operazione di disinstallazione dell'applicazione non è stata eseguita correttamente. Contattare l'assistenza.",
     "MissingStageDirectory": "La seguente cartella non può essere creata.\n{0}",
     "MissingInstallDirectory": "La cartella di installazione non può essere creata.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "Si è verificato un problema durante l'installazione. Contattare l'assistenza.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "L'operazione è andata a buon fine.",
     "InstallDirectoryDiskSpace": "È necessario uno spazio su disco in {Location}\npari a {RequiredBytes}.\nSono disponibili {AvailableBytes}.\nHai bisogno di altri {SpaceAdditional} per eseguire l'installazione.",
     "InstallDirectoryDiskSpaceDevice": "È necessario uno spazio sul tuo dispositivo\npari a {RequiredBytes}.\nSono disponibili {AvailableBytes}.\nHai bisogno di altri {SpaceAdditional} per eseguire l'installazione.",
+    "MissingEncryptionKeyForNonPreload": "Non è stato possibile proseguire con l'installazione poiché non sono presenti i dati di decrittografia richiesti. Contattare l'assistenza.",
+    "InvalidEncryptionKeyForNonPreload": "Non è stato possibile proseguire con l'installazione poiché i dati di decrittografia richiesti non sono validi. Contattare l'assistenza.",
+    "EmptyCloudDirectories": "L'installazione non può procedere a causa di un problema di configurazione. Contattare l'assistenza.",
     "InvalidInstallTags": "L'installazione non può procedere a causa di un problema di configurazione. Contattare l'assistenza.",
     "InvalidInstallToMemory": "L'installazione non può procedere a causa di un problema di configurazione. Contattare l'assistenza.",
     "InvalidMemoryConstructionConfig": "L'installazione non può procedere a causa di un problema di configurazione. Contattare l'assistenza.",
+    "VerifyOnlyActionMixed": "L'installazione non può procedere a causa di un problema di configurazione. Contattare l'assistenza.",
     "MissingPrereqForPrereqOnlyInstall": "L'installazione non può procedere a causa di un problema di configurazione prerequisito. Contattare l'assistenza.",
     "BuildPatchInstallShortError_UserCanceled": "Utente annullato."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Pulsante sinistro del mouse",
     "LeftParantheses": "Parentesi aperta",
     "LeftShift": "Shift sx",
+    "Gesture_LongPress": "Pressione lunga",
     "MiddleMouseButton": "Pulsante centrale del mouse",
     "MixedReality_Left_Grip_Click": "Mixed Reality (L) Impugnatura",
     "MixedReality_Left_Menu_Click": "Mixed Reality (L) Menu",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (R) Tocco attivatore",
     "PageDown": "PgGiù",
     "PageUp": "PgSu",
+    "Gesture_Pan": "Muovi",
     "Pause": "Pausa",
     "Period": "Punto",
     "PageDownShort": "PgGiù",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Touch 2 Steam",
     "Steam_Touch_3": "Touch 3 Steam",
     "Tab": "Tab",
+    "Gesture_Tap": "Premi",
     "ThumbMouseButton": "Pulsante pollice mouse",
     "ThumbMouseButton2": "Pulsante pollice 2 mouse",
     "Tilt": "Inclinazione",

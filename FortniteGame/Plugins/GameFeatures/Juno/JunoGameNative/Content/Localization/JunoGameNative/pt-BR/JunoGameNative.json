@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Desconectado por inatividade. Sua conexão foi perdida porque você ficou muito tempo inativo.",
-    "SpawnedWhenPermanentlyDead": "Este cliente está sem vidas."
+    "SpawnedWhenPermanentlyDead": "Este cliente está sem vidas.",
+    "ArbitratedWorldOwnerBannedUser": "Você recebeu banimento neste mundo. Escolha outro mundo para entrar."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Entrar na Construção Guiada"

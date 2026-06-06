@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Attori",
-    "MultipleValues": "Valori multipli",
-    "NoComponent": "Nessuno",
     "RefreshPreviewISMCsTooltip": "Applica nuovamente override materiali dalle impostazioni attuali nell'anteprima ISMC delle Instanced Actor Managers.",
     "ConvertSelectedIAsToActorsText": "[Juno] Converti {0} istanze di nuovo in attori.",
     "ConvertSelectedActorsToIAsText": "[Juno] Converti {0} in attori a istanza",
     "RefreshPreviewISMCsText": "[Juno] Aggiorna {0} materiali anteprima"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Modifica proprietà JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Modifica metadati punto spline",
+    "EndFalloffFraction": "Frazione diminuzione finale",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Dettagli extra",
+    "HalfWidth": "Mezza larghezza",
+    "LayerSideFalloffScale": "Fattore diminuzione lato livello",
+    "LayerWidthScale": "Scala larghezza livello",
+    "Multiple": "Multiplo",
+    "SideFalloffWidth": "Larghezza diminuzione laterale",
+    "StartFalloffFraction": "Frazione diminuzione iniziale"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Gli attributi per il percorso attore '{0}', il nome riga '{1}' e/o la rappresentazione '{2}' sono in conflitto con altri nomi dell'attributo",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Impossibile ottenere dati di punto da input",
     "UnableToGetSpatialData": "Impossibile ottenere dati di spazio da input"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Impossibile recuperare i dati per la texture d'altezza, inizializzazione fallita.",
-    "TextureInitFailed": "Impossibile recuperare i dati per questa texture, inizializzazione fallita.",
-    "FailExtractGrassTypeOverrides": "Estrazione degli override del tipo erba fallita.",
-    "MissingGrassName": "Il nome del tipo erba non è stato trovato, i dati non sono stati etichettati. Assicurati che tutti i tipi erba nel tuo materiale del paesaggio abbiano un asset associato.",
-    "LandscapeComponentLost": "Impossibile generare le mappe dell'erba a causa della perdita di riferimento a uno o più componenti del paesaggio."
+    "FailExtractGrassTypeOverrides": "Estrazione degli override del tipo erba fallita."
   }
 }

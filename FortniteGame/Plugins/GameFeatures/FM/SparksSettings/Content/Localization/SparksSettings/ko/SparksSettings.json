@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "베이스",
     "Drums": "드럼",
+    "SettingsGroupProVocals": "페스티벌 (노래방)",
+    "SettingsGroupProDrums": "페스티벌 (프로 드럼)",
+    "SettingsGroupProLeadProBass": "페스티벌 (프로 리드 기타, 프로 베이스)",
     "ProVocals": "노래방",
     "Lead": "리드 기타",
     "ProBass": "프로 베이스",

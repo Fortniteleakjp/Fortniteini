@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno: Landschaft – angepasstes Material"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "LEGO Landschaftmaterial-Ausdrücke einschalten"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "Juno-Landschaft ausschalten",
+    "EnableJunoLandscape_Label": "Juno-Landschaft einschalten",
+    "EnableJunoLandscapeMaterialExpressions_Label": "LEGO Landschaftmaterial-Ausdrücke einschalten",
+    "JunoLandscapeContextSectionName": "Juno-Landschaft",
+    "MultipleValues": "Mehrfache Werte",
+    "NoComponent": "-"
   },
   "JunoLandscape": {
     "Juno": "Juno"

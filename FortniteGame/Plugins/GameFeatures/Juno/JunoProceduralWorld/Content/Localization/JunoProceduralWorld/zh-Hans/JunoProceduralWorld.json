@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "角色",
-    "MultipleValues": "多个值",
-    "NoComponent": "无",
     "RefreshPreviewISMCsTooltip": "将当前设置中的材料覆盖重新应用到所选实例化角色管理器的编辑器预览ISMC上。",
     "ConvertSelectedIAsToActorsText": "[Juno]将{0}个实例转化回角色。",
     "ConvertSelectedActorsToIAsText": "[Juno]转化{0}成实例角色",
     "RefreshPreviewISMCsText": "[Juno]刷新{0}预览材料"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "编辑JunoTerrainLandscapeSpline属性",
+    "EditSplinePointsMetadata": "编辑样条线点元数据",
+    "EndFalloffFraction": "终点衰减比例",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "额外细节",
+    "HalfWidth": "半宽度",
+    "LayerSideFalloffScale": "图层侧面衰减缩放",
+    "LayerWidthScale": "图层宽度缩放",
+    "Multiple": "多个",
+    "SideFalloffWidth": "侧面衰减宽度",
+    "StartFalloffFraction": "起点衰减比例"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "无法读取输入的指向数据",
     "UnableToGetSpatialData": "无法读取输入的空间数据"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "无法获取高度纹理数据，初始化失败。",
-    "TextureInitFailed": "无法获取此纹理数据，初始化失败。",
-    "FailExtractGrassTypeOverrides": "无法提取草地类型覆盖。",
-    "MissingGrassName": "缺少草地类型名称，无法标注数据。请确保你的地形材质中所有草地类型都关联了资源。",
-    "LandscapeComponentLost": "一个或多个地形组件的引用已丢失，将不会生成草地地图。"
+    "FailExtractGrassTypeOverrides": "无法提取草地类型覆盖。"
   }
 }

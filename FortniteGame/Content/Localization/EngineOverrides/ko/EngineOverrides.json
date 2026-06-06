@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6를 선택했으나 Mac의 경우 SM6 지원에 OS 15 필요",
     "MetalMissingTargetError": "이 프로젝트에 타기팅된 RHI가 설정되지 않아 SM5를 기본값으로 설정합니다."
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "일반 UI InputActionDataTable",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "데이터 테이블"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (행 구조: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "일반 UI InputActionDataTable",
-    "DataTable_MissingRowStructTitle": "계속하시겠습니까?",
     "AssetTypeActions_ConversationDatabase": "대화 모음",
     "NamelessConversationDiff": "대화 차이",
-    "DataTable_MissingRowStructMsg": "다음 데이터 테이블에는 행 구조가 없으므로 편집할 수 없습니다.\n\n{0}\n\n이 데이터 테이블을 여시겠습니까?",
     "Conversation Diff": "{0} - 대화 차이"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "사용할 수 있는 디스크 공간이 부족합니다. 디스크 공간을 확보한 다음 다시 시도해보세요.",
     "BuildPatchInstallShortError_ApplicationError": "패치 서비스를 시작할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "BuildPatchInstallShortError_ApplicationClosing": "앱을 종료합니다.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "애플리케이션 제거 작업을 실행하지 못했습니다. 지원센터에 문의하시기 바랍니다.",
     "MissingStageDirectory": "다음 디렉터리를 생성할 수 없습니다.\n{0}",
     "MissingInstallDirectory": "설치 디렉터리를 생성할 수 없습니다.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "설치 파일이 손상되었습니다. 지원센터에 문의하시기 바랍니다.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "작업이 성공적으로 완료되었습니다.",
     "InstallDirectoryDiskSpace": "{Location}에 공간이 부족합니다.\n{RequiredBytes}의 여유 공간이 필요합니다.\n{AvailableBytes}의 공간이 현재 남아있습니다.\n설치를 진행하려면 {SpaceAdditional}의 공간을 추가로 확보해야 합니다.",
     "InstallDirectoryDiskSpaceDevice": "기기에 공간이 부족합니다.\n{RequiredBytes}의 여유 공간이 필요합니다.\n{AvailableBytes}의 공간이 현재 남아있습니다.\n설치를 진행하려면 {SpaceAdditional}의 공간을 추가로 확보해야 합니다.",
+    "MissingEncryptionKeyForNonPreload": "필요한 해독 데이터가 없어 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
+    "InvalidEncryptionKeyForNonPreload": "필요한 해독 데이터가 유효하지 않아 본 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
+    "EmptyCloudDirectories": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "InvalidInstallTags": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "InvalidInstallToMemory": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "InvalidMemoryConstructionConfig": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
+    "VerifyOnlyActionMixed": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "MissingPrereqForPrereqOnlyInstall": "필수 구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "BuildPatchInstallShortError_UserCanceled": "사용자가 취소했습니다."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "왼쪽 마우스 버튼",
     "LeftParantheses": "왼쪽 괄호",
     "LeftShift": "왼쪽 Shift",
+    "Gesture_LongPress": "길게 누르기",
     "MiddleMouseButton": "가운데 마우스 버튼",
     "MixedReality_Left_Grip_Click": "혼합 현실 (좌) 그립",
     "MixedReality_Left_Menu_Click": "혼합 현실 (좌) 메뉴",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (우) 트리거 터치",
     "PageDown": "Page Down",
     "PageUp": "Page Up",
+    "Gesture_Pan": "카메라 이동",
     "Pause": "Pause",
     "Period": ".",
     "PageDownShort": "PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam Touch 2",
     "Steam_Touch_3": "Steam Touch 3",
     "Tab": "Tab",
+    "Gesture_Tap": "탭",
     "ThumbMouseButton": "엄지 마우스 버튼",
     "ThumbMouseButton2": "엄지 마우스 버튼 2",
     "Tilt": "기울기",

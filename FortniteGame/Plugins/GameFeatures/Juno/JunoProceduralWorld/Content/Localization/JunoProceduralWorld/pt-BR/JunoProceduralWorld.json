@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Agentes",
-    "MultipleValues": "Valores Múltiplos",
-    "NoComponent": "Nada",
     "RefreshPreviewISMCsTooltip": "Reaplica substituições de Material das configurações atuais aos ISMCs de pré-visualização do editor nos Gerenciadores de Agentes Instanciados selecionados.",
     "ConvertSelectedIAsToActorsText": "[Juno] Converter {0} instâncias de volta para agentes.",
     "ConvertSelectedActorsToIAsText": "[Juno] Converter {0} para Agentes de Instância",
     "RefreshPreviewISMCsText": "[Juno] Atualizar materiais de pré-visualização {0}"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Editar Propriedade de JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Editar metadados de ponto de spline",
+    "EndFalloffFraction": "Fração de Final da Queda",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Detalhes Adicionais",
+    "HalfWidth": "Metade da Largura",
+    "LayerSideFalloffScale": "Escala de Queda Lateral da Camada",
+    "LayerWidthScale": "Escala de Largura da Camada",
+    "Multiple": "Múltiplas",
+    "SideFalloffWidth": "Largura de Queda Lateral",
+    "StartFalloffFraction": "Fração de Início da Queda"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Atributos para o path do agente escolhido \"{0}\", nome da fileira escolhida \"{1}\" e/ou a representação \"{2}\" conflitam com os nomes de outros atributos",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Não é possível obter dados de Ponto pela entrada",
     "UnableToGetSpatialData": "Não é possível obter dados Espaciais pela entrada"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Não foi possível recuperar os dados de altura da textura. Falha na inicialização.",
-    "TextureInitFailed": "Não foi possível recuperar os dados desta textura. Falha na inicialização.",
-    "FailExtractGrassTypeOverrides": "Falha ao extrair modificações de tipo de vegetação.",
-    "MissingGrassName": "O nome do tipo de vegetação não foi encontrado, a entrada de dados não pôde ser intitulada. Verifique se todos os GrassTypes no seu material de paisagem têm um recurso associado.",
-    "LandscapeComponentLost": "Referência a um ou mais componentes de cenários perdidos. Mapas de grama não serão gerados."
+    "FailExtractGrassTypeOverrides": "Falha ao extrair modificações de tipo de vegetação."
   }
 }

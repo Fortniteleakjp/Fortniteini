@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "Guitar Bass",
     "Drums": "Dàn Trống",
+    "SettingsGroupProVocals": "Festival (Karaoke)",
+    "SettingsGroupProDrums": "Festival (Dàn Trống Chuyên Nghiệp)",
+    "SettingsGroupProLeadProBass": "Festival (Guitar Chính Chuyên Nghiệp, Guitar Bass Chuyên Nghiệp)",
     "ProVocals": "Karaoke",
     "Lead": "Guitar Chính",
     "ProBass": "Guitar Bass Chuyên Nghiệp",

@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 seçili ama Mac'in SM6'yı desteklemesi için OS 15 gerekli",
     "MetalMissingTargetError": "Bu proje için hedef alınmış RHI bulunmuyor, varsayılan SM5'e dönülüyor"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "Yaygın Kullanıcı Arayüzü TuşVeriTablosu",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Veri Tablosu"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Satır Yapısı: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "Yaygın Kullanıcı Arayüzü TuşVeriTablosu",
-    "DataTable_MissingRowStructTitle": "Devam Edilsin Mi?",
     "AssetTypeActions_ConversationDatabase": "Konuşma Bankası",
     "NamelessConversationDiff": "Konuşma Farklılığı",
-    "DataTable_MissingRowStructMsg": "Bu veri tablolarının satır yapısı eksik olduğu için düzenlenemezler.\n\n{0}\n\nBu veri tablolarını açmak istiyor musun?",
     "Conversation Diff": "{0} - Konuşma Farklılığı"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Disk alanı yeterli değil. Lütfen diskinde yer açtıktan sonra tekrar dene.",
     "BuildPatchInstallShortError_ApplicationError": "Yama hizmeti başlatılamadı. Lütfen destek ekibi ile iletişime geç.",
     "BuildPatchInstallShortError_ApplicationClosing": "Uygulama kapanıyor.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "Uygulamayı kaldırma eylemi gerçekleştirilemedi. Lütfen destek ekibi ile iletişime geç.",
     "MissingStageDirectory": "Aşağıdaki dizin oluşturulamadı.\n{0}",
     "MissingInstallDirectory": "Yükleme dizini oluşturulamadı.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "Yükleme bozulmuş. Lütfen destek ekibi ile iletişime geç.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "İşlem başarılı oldu.",
     "InstallDirectoryDiskSpace": "{Location} yeterli alana sahip değil;\n{RequiredBytes} alan gerekli.\n{AvailableBytes} alan mevcut.\nYüklemeyi gerçekleştirebilmek için {SpaceAdditional} alana daha ihtiyacın var.",
     "InstallDirectoryDiskSpaceDevice": "Cihazın yeterli alana sahip değil.\n{RequiredBytes} alan gerekli.\n{AvailableBytes} alan mevcut.\nYüklemeyi gerçekleştirebilmek için {SpaceAdditional} alana daha ihtiyacın var.",
+    "MissingEncryptionKeyForNonPreload": "Gerekli şifre çözme verileri mevcut olmadığı için bu yükleme devam edemedi. Lütfen destek ekibi ile iletişime geç.",
+    "InvalidEncryptionKeyForNonPreload": "Gerekli şifre çözme verileri geçerli olmadığı için bu yükleme devam edemedi. Lütfen destek ekibi ile iletişime geç.",
+    "EmptyCloudDirectories": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "InvalidInstallTags": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "InvalidInstallToMemory": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "InvalidMemoryConstructionConfig": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
+    "VerifyOnlyActionMixed": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "MissingPrereqForPrereqOnlyInstall": "Bu yükleme bir ön gereksinim yapılandırma sorunu nedeniyle devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "BuildPatchInstallShortError_UserCanceled": "Kullanıcı iptal etti."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Sol Fare",
     "LeftParantheses": "Sol Parantez",
     "LeftShift": "Sol Shift",
+    "Gesture_LongPress": "Uzun Basma",
     "MiddleMouseButton": "Orta Fare",
     "MixedReality_Left_Grip_Click": "Mixed Reality (Sol) Kavrama Düğmesi",
     "MixedReality_Left_Menu_Click": "Mixed Reality (Sol) Menü Düğmesi",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (Sağ) Tetik Dokun",
     "PageDown": "Page Down",
     "PageUp": "Page Up",
+    "Gesture_Pan": "Kaydır",
     "Pause": "Pause",
     "Period": "Nokta",
     "PageDownShort": "PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam Dokunmatik 2",
     "Steam_Touch_3": "Steam Dokunmatik 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Dokun",
     "ThumbMouseButton": "Fare Başparmak",
     "ThumbMouseButton2": "Fare Başparmak 2",
     "Tilt": "Eğim",

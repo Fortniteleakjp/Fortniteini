@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno 景觀自訂素材"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "啟用 Juno 景觀素材表達式"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "停用朱諾景觀",
+    "EnableJunoLandscape_Label": "啟用朱諾景觀",
+    "EnableJunoLandscapeMaterialExpressions_Label": "啟用 Juno 景觀素材表達式",
+    "JunoLandscapeContextSectionName": "朱諾景觀",
+    "MultipleValues": "多個值",
+    "NoComponent": "無"
   },
   "JunoLandscape": {
     "Juno": "Juno"

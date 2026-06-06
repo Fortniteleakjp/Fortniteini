@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Dikeluarkan karena diam. Koneksimu ke host hilang karena diam terlalu lama.",
-    "SpawnedWhenPermanentlyDead": "Klien ini kehabisan nyawa."
+    "SpawnedWhenPermanentlyDead": "Klien ini kehabisan nyawa.",
+    "ArbitratedWorldOwnerBannedUser": "Kamu telah di-banned dari dunia ini. Silakan pilih dunia lain untuk bergabung."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Masuk ke Pembangunan Berpandu"

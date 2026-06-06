@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 selecionado, mas dispositivos Mac precisam do SO 15 para ter compatibilidade com SM6",
     "MetalMissingTargetError": "Sem RHI determinado neste projeto, usando padrão SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "Common UI InputActionDataTable",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Tabela de Dados"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Estrutura de Linha: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "Common UI InputActionDataTable",
-    "DataTable_MissingRowStructTitle": "Continuar?",
     "AssetTypeActions_ConversationDatabase": "Banco de Conversas",
     "NamelessConversationDiff": "Diferenciação de Conversas",
-    "DataTable_MissingRowStructMsg": "As tabelas de dados a seguir não têm estrutura de linha e não poderão ser editadas.\n\n{0}\n\nDeseja abrir as tabelas de dados?",
     "Conversation Diff": "{0} — Diferenciação de Conversas"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Espaço insuficiente no disco. Libere espaço no disco e tente novamente.",
     "BuildPatchInstallShortError_ApplicationError": "Não foi possível iniciar o serviço de aplicação do patch. Entre em contato com o suporte.",
     "BuildPatchInstallShortError_ApplicationClosing": "O aplicativo está sendo fechado.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "Não foi possível executar a desinstalação do aplicativo. Entre em contato com o suporte.",
     "MissingStageDirectory": "Não foi possível criar o seguinte diretório.\n{0}",
     "MissingInstallDirectory": "Não foi possível criar diretório de instalação.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "A instalação está corrompida. Entre em contato com o suporte.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "A operação foi um sucesso.",
     "InstallDirectoryDiskSpace": "Espaço insuficiente em {Location}\nNecessário: {RequiredBytes}.\nDisponível: {AvailableBytes}.\nVocê precisa de {SpaceAdditional} a mais para a instalação.",
     "InstallDirectoryDiskSpaceDevice": "Espaço insuficiente no dispositivo.\nNecessário: {RequiredBytes}.\nDisponível: {AvailableBytes}.\nVocê precisa de {SpaceAdditional} a mais para a instalação.",
+    "MissingEncryptionKeyForNonPreload": "Esta instalação não pôde continuar porque os dados de decriptografia necessários estão faltando. Entre em contato com o suporte.",
+    "InvalidEncryptionKeyForNonPreload": "A instalação não pôde continuar porque os dados de decriptografia necessários não são válidos. Entre em contato com o suporte.",
+    "EmptyCloudDirectories": "A instalação foi interrompida devido a um problema de configuração. Entre em contato com o suporte.",
     "InvalidInstallTags": "A instalação foi interrompida devido a um problema de configuração. Entre em contato com o suporte.",
     "InvalidInstallToMemory": "A instalação foi interrompida devido a um problema de configuração. Entre em contato com o suporte.",
     "InvalidMemoryConstructionConfig": "A instalação foi interrompida devido a um problema de configuração. Entre em contato com o suporte.",
+    "VerifyOnlyActionMixed": "A instalação foi interrompida devido a um problema de configuração. Entre em contato com o suporte.",
     "MissingPrereqForPrereqOnlyInstall": "A instalação foi interrompida devido a um problema de configuração de pré-requisito. Entre em contato com o suporte.",
     "BuildPatchInstallShortError_UserCanceled": "Cancelado pelo usuário."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Botão esquerdo do mouse",
     "LeftParantheses": "Parêntese Esquerdo",
     "LeftShift": "Shift Esquerdo",
+    "Gesture_LongPress": "Pressione Continuamente",
     "MiddleMouseButton": "Botão do Meio do Mouse",
     "MixedReality_Left_Grip_Click": "Mixed Reality (E) Controle",
     "MixedReality_Left_Menu_Click": "Mixed Reality (E) Menu",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (D) Gatilho (Toque)",
     "PageDown": "Page Down",
     "PageUp": "Page Up",
+    "Gesture_Pan": "Panorâmica",
     "Pause": "Pause",
     "Period": "Ponto",
     "PageDownShort": "Page Down",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam — Toque 2",
     "Steam_Touch_3": "Steam — Toque 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Toque",
     "ThumbMouseButton": "Botão Lateral do Mouse",
     "ThumbMouseButton2": "Botão Lateral do Mouse 2",
     "Tilt": "Tilt",

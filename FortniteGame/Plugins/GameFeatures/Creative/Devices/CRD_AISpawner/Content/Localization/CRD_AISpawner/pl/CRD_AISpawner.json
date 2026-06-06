@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "Postaci niezależnej, którą można oswoić lub dosiąść, nie można używać w sekwencji. Wyłącz możliwość oswajania/dosiadania lub usuń modyfikator sekwencera.",
     "B960D2C04399F88479AD648505B7D6FF": "Dodatkowe modyfikatory postaci niezależnej",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "Podstawowy Generator SI",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "Klasa Podstawowego Generatora SI – nie należy używać bezpośrednio w innych miejscach",
+    "4304459B4DC7A36E5D293191EA4A2B19": "Podstawowy Generator SI",
+    "B75E7DC749264CE581DEE6BA98BD334F": "Klasa Podstawowego Generatora SI – nie należy używać bezpośrednio w innych miejscach",
     "9E9744D3405E545FE1BED882658E614C": "Brakuje obiektu schematu postaci, by zmienić cel!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "Brakuje obiektu zmieniacza celów, by zmienić cel!",
     "E48FFE554DF62BB14204249459CFA281": "Brakuje zmieniacza celu, by zmienić cel schematu postaci w modelu szkieletowym zwierzęcia.",
-    "038A358943E1DA393768418A630091E0": "NIE",
-    "4C1B8388435AC19888E85AA03B20640F": "NIE",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "NIE",
+    "A521461240CE088B5475E59B6D7906BA": "NIE",
     "ECF833FD4F55F3986302D5BC44F5F236": "Definicja postaci niezależnej",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Generator postaci niezależnych",
     "9F9D969F42C631D33B38889AFE826051": "Generator postaci niezależnych",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "Tworzy postać niezależną o konfigurowalnych opcjach.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Tworzy postacie niezależne o konfigurowalnych opcjach.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "OSWÓJ",
-    "9715818A494770CE4AC8BFA604B16B77": "TAK",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "TAK",
-    "19CB358841188B53AF27729674F2DB98": "{0} m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "TAK",
+    "9134CFD84B97240E799723A73DBBD800": "TAK",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} s"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Należy określić prawidłową definicję postaci niezależnej, zachowanie AI Verse lub definicję przedmiotu postaci.",
     "FactoryDisplayName": "Urządzenie: generator postaci niezależnych"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "Postać niezależna",
     "AssetDefinition_NPCCharacterDefinition": "Definicja postaci niezależnej"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "Liczba",
     "RemoveItem": "Usuń przedmiot"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "Skalowanie postaci może zmniejszyć jakość animacji ruchu i powodować błędy nawigacji. Dokładnie przetestuj przed publikacją."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nazwa"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Zezwól na tworzenie bez końca",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Usuń",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "Usuń SI przy wyłączeniu",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Usuń SI przy wyłączeniu",
     "Device_AISpawner_Base_C.Despawn.Description": "Usuwa istniejące SI przypisane do tego urządzenia",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Określa, czy ma być widoczny promień tworzenia.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Określa, czy SI jest tworzona podczas odliczania przez opcję „Odstęp między tworzeniem” czy też po wystąpieniu zdarzeń.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Pokaż promień tworzenia",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Stwórz",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Liczba utworzeń",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "Twórz co określony czas",
+    "6F19C1DE4967DC35BDD369912183D5BE": "Twórz co określony czas",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Promień tworzenia",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Pojawiaj się przez ściany",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Odstęp między tworzeniem",

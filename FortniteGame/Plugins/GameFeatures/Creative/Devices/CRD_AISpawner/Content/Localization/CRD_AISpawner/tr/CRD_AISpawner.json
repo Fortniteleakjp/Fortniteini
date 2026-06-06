@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "Evcilleştirilebilir veya sürülebilir bir karakter sekansta kullanılamaz. Sürülebilir ve evcilleştirilebilir olanları kapalı olarak ayarla veya Sequencer düzenleyicisini kaldır.",
     "B960D2C04399F88479AD648505B7D6FF": "Ek Karakter Düzenleyicileri",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "Varsayılan Yapay Zekâ Çıkma Yeri",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "Varsayılan Yapay Zekâ Çıkma Yeri sınıfı, başka yerlerde doğrudan kullanılamaz.",
+    "4304459B4DC7A36E5D293191EA4A2B19": "Varsayılan Yapay Zekâ Çıkma Yeri",
+    "B75E7DC749264CE581DEE6BA98BD334F": "Varsayılan Yapay Zekâ Çıkma Yeri sınıfı, başka yerlerde doğrudan kullanılamaz.",
     "9E9744D3405E545FE1BED882658E614C": "Yeniden hedeflemek için karakter şeması öğesi eksik!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "Yeniden hedeflemek için yeniden hedefleyici öğesi eksik!",
     "E48FFE554DF62BB14204249459CFA281": "Vahşi hayvan iskelet örgüsünde karakter şemasını yeniden hedeflemek için yeniden hedefleyici kayıp.",
-    "038A358943E1DA393768418A630091E0": "HAYIR",
-    "4C1B8388435AC19888E85AA03B20640F": "HAYIR",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "HAYIR",
+    "A521461240CE088B5475E59B6D7906BA": "HAYIR",
     "ECF833FD4F55F3986302D5BC44F5F236": "Karakter Tanımı",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Karakter Çıkma Yeri",
     "9F9D969F42C631D33B38889AFE826051": "Karakter Çıkma Yeri",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "Özelleştirilebilir seçenekleri bulunan karakterler çıkarır.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Özelleştirilebilir seçenekleri bulunan oyuncu olmayan karakterler çıkarır.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "EVCİLLEŞTİR",
-    "9715818A494770CE4AC8BFA604B16B77": "EVET",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "EVET",
-    "19CB358841188B53AF27729674F2DB98": "{0} m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "EVET",
+    "9134CFD84B97240E799723A73DBBD800": "EVET",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} sn"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Geçerli bir NPC Karakter Tanımı, Verse Yapay Zekâ Davranışı veya Karakter Eşyası Tanımı belirtilmelidir.",
     "FactoryDisplayName": "Karakter Çıkma Yeri Cihazı"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "Karakter",
     "AssetDefinition_NPCCharacterDefinition": "Karakter Tanımı"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "Adet",
     "RemoveItem": "Eşyayı Kaldır"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "Karakterleri ölçeklendirmek, hareket animasyonu kalitesini düşürebilir ve gezinme hatalarına neden olabilir. Yayınlamadan önce detaylıca test et."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiket"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Sonsuz Çıkmaya İzin Ver",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Yok Et",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "Devre Dışı Bırakılınca Yapay Zekâyı Yok Et",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Devre Dışı Bırakılınca Yapay Zekâyı Yok Et",
     "Device_AISpawner_Base_C.Despawn.Description": "Bu cihazdan çıkmış olan yapay zekâların hepsini yok eder.",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Çıkma yarıçapının görünüp görünmeyeceğini belirler.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Yapay zekânın, Çıkma Süreölçerine göre mi yoksa etkinliklere göre mi çıkacağını belirler.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Çıkarma Yarıçapını Göster",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Çıkar",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Çıkma Sayısı",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "Süreyle Çıkar",
+    "6F19C1DE4967DC35BDD369912183D5BE": "Süreyle Çıkar",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Çıkarma Yarıçapı",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Duvarların Arkasında Çıkar",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Çıkma Süreölçeri",

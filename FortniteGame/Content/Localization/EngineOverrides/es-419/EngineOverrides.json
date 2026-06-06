@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "Está seleccionado -sm6 pero Mac necesita OS 15 para ser compatible con SM6",
     "MetalMissingTargetError": "No hay un RHI objetivo establecido en este proyecto. Usará SM5 de forma predeterminada."
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "Common UI InputActionDataTable",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Tabla de datos"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Estructura de sección: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "Common UI InputActionDataTable",
-    "DataTable_MissingRowStructTitle": "¿Continuar?",
     "AssetTypeActions_ConversationDatabase": "Banco de conversación",
     "NamelessConversationDiff": "Diferencia de conversación",
-    "DataTable_MissingRowStructMsg": "A las siguientes tablas de datos les falta su estructura de sección y no se podrán editar.\n\n{0}\n\n¿Quieres abrir estas tablas de datos?",
     "Conversation Diff": "{0}: diferencia de conversación"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "No hay suficiente espacio en el disco. Libera algo de espacio e inténtalo de nuevo.",
     "BuildPatchInstallShortError_ApplicationError": "No se pudo iniciar el servicio de parcheo. Ponte en contacto con asistencia al cliente.",
     "BuildPatchInstallShortError_ApplicationClosing": "La aplicación se está cerrando.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "No fue posible ejecutar la acción de desinstalar la aplicación. Ponte en contacto con asistencia al cliente.",
     "MissingStageDirectory": "No se pudo crear el siguiente directorio.\n{0}",
     "MissingInstallDirectory": "No se pudo crear el directorio de instalación.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "La instalación está dañada. Ponte en contacto con asistencia al cliente.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "La operación tuvo éxito.",
     "InstallDirectoryDiskSpace": "No hay suficiente espacio en {Location}\nSon necesarios {RequiredBytes}.\nHay {AvailableBytes} disponibles.\nNecesitas {SpaceAdditional} adicionales para poder realizar la instalación.",
     "InstallDirectoryDiskSpaceDevice": "No hay suficiente espacio en tu dispositivo.\nSon necesarios {RequiredBytes}.\nHay {AvailableBytes} disponibles.\nNecesitas {SpaceAdditional} adicionales para poder realizar la instalación.",
+    "MissingEncryptionKeyForNonPreload": "Esta instalación no pudo continuar porque faltan los datos de descifrado necesarios. Ponte en contacto con asistencia al cliente.",
+    "InvalidEncryptionKeyForNonPreload": "Esta instalación no pudo continuar porque los datos de descifrado necesarios no son válidos. Ponte en contacto con asistencia al cliente.",
+    "EmptyCloudDirectories": "La instalación no pudo continuar debido a un problema de configuración. Ponte en contacto con asistencia al cliente.",
     "InvalidInstallTags": "La instalación no pudo continuar debido a un problema de configuración. Ponte en contacto con asistencia al cliente.",
     "InvalidInstallToMemory": "La instalación no pudo continuar debido a un problema de configuración. Ponte en contacto con asistencia al cliente.",
     "InvalidMemoryConstructionConfig": "La instalación no pudo continuar debido a un problema de configuración. Ponte en contacto con asistencia al cliente.",
+    "VerifyOnlyActionMixed": "La instalación no pudo continuar debido a un problema de configuración. Ponte en contacto con asistencia al cliente.",
     "MissingPrereqForPrereqOnlyInstall": "La instalación no pudo continuar debido a un problema de configuración de un prerrequisito. Ponte en contacto con asistencia al cliente.",
     "BuildPatchInstallShortError_UserCanceled": "Cancelado por el usuario."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Botón izquierdo de mouse",
     "LeftParantheses": "Paréntesis izquierdo",
     "LeftShift": "Mayús. izquierda",
+    "Gesture_LongPress": "Presión prolongada",
     "MiddleMouseButton": "Botón central de mouse",
     "MixedReality_Left_Grip_Click": "Empuñadura (I) de Mixed Reality",
     "MixedReality_Left_Menu_Click": "Menú (I) de Mixed Reality",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Tocar el gatillo (D) de Oculus Touch",
     "PageDown": "Av Pág",
     "PageUp": "Re Pág",
+    "Gesture_Pan": "Mover cámara",
     "Pause": "Pausa",
     "Period": "Punto",
     "PageDownShort": "Re. Pág.",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam Touch 2",
     "Steam_Touch_3": "Steam Touch 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Presionar",
     "ThumbMouseButton": "Botón de mouse de pulgar",
     "ThumbMouseButton2": "Botón de mouse de pulgar 2",
     "Tilt": "Inclinar",

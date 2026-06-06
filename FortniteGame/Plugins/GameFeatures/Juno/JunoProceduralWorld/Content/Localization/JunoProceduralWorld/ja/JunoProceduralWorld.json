@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "アクタ",
-    "MultipleValues": "複数の値",
-    "NoComponent": "なし",
     "RefreshPreviewISMCsTooltip": "現在の設定のマテリアルオーバーライドを、選択したインスタンスアクタマネージャーのエディタプレビューISMCに再適用します。",
     "ConvertSelectedIAsToActorsText": "[Juno] {0}個のインスタンスをアクタに戻す。",
     "ConvertSelectedActorsToIAsText": "[Juno] {0}をインスタンスアクタに変換",
     "RefreshPreviewISMCsText": "[Juno] {0}プレビューマテリアルを更新"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSplineプロパティを編集",
+    "EditSplinePointsMetadata": "スプラインポイントのメタデータを編集",
+    "EndFalloffFraction": "終端減衰比",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "詳細",
+    "HalfWidth": "半幅",
+    "LayerSideFalloffScale": "レイヤーサイド減衰割合",
+    "LayerWidthScale": "レイヤー幅割合",
+    "Multiple": "複数",
+    "SideFalloffWidth": "サイド減衰幅",
+    "StartFalloffFraction": "始端減衰比"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "解決されたアクタパスの特性 '{0}' 、解決された行の名前 '{1}' および/またはリプレゼンテーション '{2}' が他の特性の名前と衝突しています",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "入力から地点データを取得できませんでした",
     "UnableToGetSpatialData": "入力から空間データを取得できませんでした"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "高所テクスチャのデータを取得できず、初期化が失敗しました。",
-    "TextureInitFailed": "このテクスチャのデータを取得できず、初期化が失敗しました。",
-    "FailExtractGrassTypeOverrides": "草タイプのオーバーライドを抽出できませんでした。",
-    "MissingGrassName": "草タイプの名前が指定されていなかったため、データをラベル付けできません。景観素材の草タイプ全てに、必ずアセットを関連付けてください。",
-    "LandscapeComponentLost": "景観コンポーネントをひとつ以上参照できなかったため、草地マップは生成されません。"
+    "FailExtractGrassTypeOverrides": "草タイプのオーバーライドを抽出できませんでした。"
   }
 }

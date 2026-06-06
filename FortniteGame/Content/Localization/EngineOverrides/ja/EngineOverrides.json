@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6が選択されていますが、MacでSM6を利用するにはOS 15が必要です",
     "MetalMissingTargetError": "このプロジェクトにはターゲットのRHIが設定されていません。デフォルトのSM5に設定します"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "共通UI入力アクションデータテーブル",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "データテーブル"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (列の形式: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "共通UI入力アクションデータテーブル",
-    "DataTable_MissingRowStructTitle": "続行しますか？",
     "AssetTypeActions_ConversationDatabase": "会話バンク",
     "NamelessConversationDiff": "会話の差分",
-    "DataTable_MissingRowStructMsg": "列の形式に下記のデータテーブルが含まれておらず、それらを編集することはできません。\n\n{0}\n\nこれらのデータテーブルを開きますか？",
     "Conversation Diff": "{0} - 会話の差分"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "必要なディスク空き容量が不足しています。十分なディスク空き容量を確保した上でもう一度お試しください。",
     "BuildPatchInstallShortError_ApplicationError": "パッチサービスが開始できませんでした。サポートまでご連絡ください。",
     "BuildPatchInstallShortError_ApplicationClosing": "アプリが終了中です。",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "アプリケーションのアンインストール操作の実行に失敗しました。サポートまでご連絡ください。",
     "MissingStageDirectory": "以下のディレクトリが作成できませんでした。\n{0}",
     "MissingInstallDirectory": "インストールディレクトリが作成できませんでした。\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "インストールデータが破損しています。サポートまでご連絡ください。",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "正常に実行できました。",
     "InstallDirectoryDiskSpace": "{Location}に十分な空き容量がありません。\n{RequiredBytes}が必要です。\n{AvailableBytes}利用できます。\nインストールを実行するにはあと{SpaceAdditional}必要です。",
     "InstallDirectoryDiskSpaceDevice": "デバイスに十分な空き容量がありません。\n{RequiredBytes}が必要です。\n{AvailableBytes}利用できます。\nインストールを実行するにはあと{SpaceAdditional}必要です。",
+    "MissingEncryptionKeyForNonPreload": "必要な復号データがないため、インストールを続行できませんでした。サポートまでご連絡ください。",
+    "InvalidEncryptionKeyForNonPreload": "必要な復号データが有効ではないため、このインストールを続行できませんでした。サポートまでご連絡ください。",
+    "EmptyCloudDirectories": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
     "InvalidInstallTags": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
     "InvalidInstallToMemory": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
     "InvalidMemoryConstructionConfig": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
+    "VerifyOnlyActionMixed": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
     "MissingPrereqForPrereqOnlyInstall": "必要な設定に問題が生じたためインストールを続行できませんでした。サポートまでご連絡ください。",
     "BuildPatchInstallShortError_UserCanceled": "ユーザーによるキャンセル。"
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "左マウスボタン",
     "LeftParantheses": "左丸かっこ",
     "LeftShift": "左Shift",
+    "Gesture_LongPress": "長押し",
     "MiddleMouseButton": "マウス中央ボタン",
     "MixedReality_Left_Grip_Click": "Mixed Reality(L) グリップ",
     "MixedReality_Left_Menu_Click": "Mixed Reality(L) メニュー",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch(R) トリガー タッチ",
     "PageDown": "Page Down",
     "PageUp": "Page Up",
+    "Gesture_Pan": "フライパン",
     "Pause": "Pause",
     "Period": ".",
     "PageDownShort": "PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "タッチ2(Steam)",
     "Steam_Touch_3": "タッチ3(Steam)",
     "Tab": "タブ",
+    "Gesture_Tap": "タップ",
     "ThumbMouseButton": "マウスサイドボタン",
     "ThumbMouseButton2": "マウスサイドボタン2",
     "Tilt": "ティルト",

@@ -11,7 +11,7 @@
     "9AD17A8F487AF67CC7EA62A5CC10CF56": "{Display Name}\nVận Tốc: {Velocity}\nKhối Lượng: {Mass} Vận Tốc Góc:{AngularVelocity}"
   },
   "Juno_GameplayItemToTagMapping": {
-    "D095B3FA4C165F12EECB24A19641961E": "Một khối Gạch nổi linh hoạt, có thể chịu được trọng lượng của các bộ lắp ráp phương tiện. Mặc định tắt, Gạch Lơ Lửng phải được bật thông qua điều khiển kênh từ Ghế Lái hoặc Công Tắc",
+    "D095B3FA4C165F12EECB24A19641961E": "Một khối Gạch nổi linh hoạt, có thể chịu được trọng lượng của các bộ lắp ráp phương tiện. Mặc định tắt, Gạch Lơ Lửng phải được bật thông qua điều khiển kênh từ Ghế Lái hoặc Công Tắc.",
     "971BEFAB4DCB2CDB90DF5098102214F9": "Gạch Lơ Lửng",
     "ABA3E2A648E1A5C18FB78789D3528719": "Gạch Lơ Lửng Ổn Định",
     "7CD80ADD46BF61A165E1449DF3D87D60": "Với khả năng chịu tải trọng cao và độ linh hoạt thấp, Gạch Lơ Lửng này hoàn hảo cho các nền tảng lắp ráp nổi."

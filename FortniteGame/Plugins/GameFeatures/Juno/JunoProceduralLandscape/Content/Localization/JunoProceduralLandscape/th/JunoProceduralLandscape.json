@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "วัสดุกำหนดทิวทัศน์จูโน่เอง"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "เปิดใช้งานโหนดนิพจน์วัสดุภูมิทัศน์ของ Juno"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "ปิดใช้งานภูมิทัศน์จูโน่",
+    "EnableJunoLandscape_Label": "เปิดใช้งานภูมิทัศน์จูโน่",
+    "EnableJunoLandscapeMaterialExpressions_Label": "เปิดใช้งานโหนดนิพจน์วัสดุภูมิทัศน์ของ Juno",
+    "JunoLandscapeContextSectionName": "ภูมิทัศน์จูโน่",
+    "MultipleValues": "ค่าหลายค่า",
+    "NoComponent": "ไม่เลือก"
   },
   "JunoLandscape": {
     "Juno": "จูโน่"

@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "العوامل",
-    "MultipleValues": "قيم متعددة",
-    "NoComponent": "لا يوجد",
     "RefreshPreviewISMCsTooltip": "يُعيد تطبيق تجاوزات المواد من الإعدادات الحالية على مكونات الشبكة الثابتة الموضحة لمعاينة المحرر الخاصة بمديري الممثلين المُثبَّتين المحددين.",
     "ConvertSelectedIAsToActorsText": "[Juno] إعادة تحويل {0} من النسخ إلى عناصر.",
     "ConvertSelectedActorsToIAsText": "[Juno] تحويل {0} إلى العوامل المُوضحة",
     "RefreshPreviewISMCsText": "[Juno] تحديث {0} مواد المعاينة"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "تعديل خاصية منحنى تضاريس بيئة Juno",
+    "EditSplinePointsMetadata": "تعديل بيانات نقطة المنحنى",
+    "EndFalloffFraction": "جزء نهاية الانحدار",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "تفاصيل إضافية",
+    "HalfWidth": "نصف العرض",
+    "LayerSideFalloffScale": "مقياس الانحدار الجانبي للطبقة",
+    "LayerWidthScale": "مقياس عرض الطبقة",
+    "Multiple": "متعددة",
+    "SideFalloffWidth": "عرض الانحدار الجانبي",
+    "StartFalloffFraction": "جزء بداية الانحدار"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "تتعارض سمات مسار الممثل المختار\"{0}\"، واسم الصف الذي تم حله \"{1}\" و/أو التمثيل \"{2}\" مع أسماء السمات الأخرى",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "تعذر الحصول على بيانات النقطة من المُدخل",
     "UnableToGetSpatialData": "تعذر الحصول على البيانات المكانية من المُدخل"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "تعذر استرجاع بيانات إكساء الارتفاع، وفشلت التهيئة.",
-    "TextureInitFailed": "تعذر استرجاع بيانات هذا الإكساء، وفشلت التهيئة.",
-    "FailExtractGrassTypeOverrides": "فشل استخلاص تجاوزات نوع العشب.",
-    "MissingGrassName": "اسم نوع العشب مفقود، ولا يمكن تصنيف البيانات. تأكد أن جميع أنواع العشب في مواد التضاريس لديك مرتبطة بعنصر مناسب.",
-    "LandscapeComponentLost": "هناك مرجع أو أكثر مفقود من مكونات التضاريس، فلن يتم توليد خرائط العشب."
+    "FailExtractGrassTypeOverrides": "فشل استخلاص تجاوزات نوع العشب."
   }
 }

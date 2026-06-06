@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "因处于闲置状态被踢出。由于您长时间处于闲置状态，与主机连接已中断。",
-    "SpawnedWhenPermanentlyDead": "该玩家已经体力耗尽。"
+    "SpawnedWhenPermanentlyDead": "该玩家已经体力耗尽。",
+    "ArbitratedWorldOwnerBannedUser": "你已被此世界封禁。请选择另一个世界加入。"
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "进入向导模式"

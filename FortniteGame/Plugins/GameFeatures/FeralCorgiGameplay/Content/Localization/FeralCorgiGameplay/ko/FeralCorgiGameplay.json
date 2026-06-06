@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "무기 모드",
     "324967EA4E1C1AC287BB93A8C83F114D": "전방 손잡이, 무기모드, 경사 전방 손잡이",
     "828BF7714BB5A101CDB95485C9D57045": "전방 손잡이, 무기 모드, 수직 전방 손잡이"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120Hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20Hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20Hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30Hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30Hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60Hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60Hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "기본값 (30Hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "기본값 (30Hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "희망 피직스 틱 속도",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "희망 틱 속도",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "클라이언트/서버 희망 피직스 틱 속도",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "서버 희망 틱 속도"
   }
 }

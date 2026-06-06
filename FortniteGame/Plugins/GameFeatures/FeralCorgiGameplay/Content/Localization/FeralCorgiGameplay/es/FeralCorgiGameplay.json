@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "Accesorios de arma",
     "324967EA4E1C1AC287BB93A8C83F114D": "Empuñadura, modificador de armas, empuñadura en ángulo",
     "828BF7714BB5A101CDB95485C9D57045": "Empuñadura, modificador de armas, empuñadura vertical"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 Hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 Hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20 Hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 Hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30 Hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 Hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60 Hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "Predeterminada (30 Hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "Predeterminada (30 Hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "Frecuencia de actualizaciones de física deseada",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "Frecuencia de actualizaciones deseada",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "La frecuencia de actualizaciones de físicas deseada del cliente/servidor.",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "La frecuencia de actualizaciones deseada del servidor."
   }
 }

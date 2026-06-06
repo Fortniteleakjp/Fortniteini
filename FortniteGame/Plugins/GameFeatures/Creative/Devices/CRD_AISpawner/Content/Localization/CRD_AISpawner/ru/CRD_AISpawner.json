@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "Неигрового персонажа, которого можно приручить или использовать для езды, нельзя использовать в последовательности. Установите значение false для параметров приручения и использования для езды или удалите модификатор последовательности.",
     "B960D2C04399F88479AD648505B7D6FF": "Дополнительные модификаторы неигрового персонажа",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "Базовый генератор ИИ",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "Базовый класс генератора ИИ, не предназначен для непосредственного использования в других областях",
+    "4304459B4DC7A36E5D293191EA4A2B19": "Базовый генератор ИИ",
+    "B75E7DC749264CE581DEE6BA98BD334F": "Базовый класс генератора ИИ, не предназначен для непосредственного использования в других областях",
     "9E9744D3405E545FE1BED882658E614C": "Отсутствует схема персонажа для перенаправления!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "Отсутствует перенаправитель!",
     "E48FFE554DF62BB14204249459CFA281": "На скелетной модели животного отсутствует перенаправитель цели для схемы персонажа.",
-    "038A358943E1DA393768418A630091E0": "НЕТ",
-    "4C1B8388435AC19888E85AA03B20640F": "НЕТ",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "НЕТ",
+    "A521461240CE088B5475E59B6D7906BA": "НЕТ",
     "ECF833FD4F55F3986302D5BC44F5F236": "Определение неигрового персонажа",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Генератор неигровых персонажей",
     "9F9D969F42C631D33B38889AFE826051": "Генератор неигровых персонажей",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "Создаёт неигровых персонажей (NPC) с возможностью настройки.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Создаёт неигровых персонажей с возможностью настройки.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "Приручить",
-    "9715818A494770CE4AC8BFA604B16B77": "ДА",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "ДА",
-    "19CB358841188B53AF27729674F2DB98": "{0} м",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} сек."
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "ДА",
+    "9134CFD84B97240E799723A73DBBD800": "ДА",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} м",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} сек."
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Необходимо указать действительное определение неигрового персонажа, поведение ИИ на Verse или определение предмета персонажа.",
     "FactoryDisplayName": "Устройство «Генератор неигровых персонажей»"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "Неигровой персонаж",
     "AssetDefinition_NPCCharacterDefinition": "Определение неигрового персонажа"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "Количество",
     "RemoveItem": "Удалить предмет"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "Изменение размера персонажей может ухудшить качество анимации движений и привести к ошибкам навигации. Как следует проверьте всё перед публикацией."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Метка"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Разрешить создание без ограничений",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Удалить",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "Удалить ИИ при отключении устройства",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Удалить ИИ при отключении устройства",
     "Device_AISpawner_Base_C.Despawn.Description": "Удаляет всех существующих ИИ, относящихся к этому устройству.",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Определяет, нужно ли показывать радиус появления.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Определяет, когда будет появляться ИИ: по таймеру появления или при событиях.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Показывать радиус появления",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Создать",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Создаваемое количество",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "Создавать по таймеру",
+    "6F19C1DE4967DC35BDD369912183D5BE": "Создавать по таймеру",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Радиус появления",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Появление за стенами",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Таймер появления",

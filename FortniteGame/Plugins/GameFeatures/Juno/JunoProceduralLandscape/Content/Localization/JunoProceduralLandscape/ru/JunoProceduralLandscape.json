@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Пользовательский материал ландшафта Juno"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "Включить выражения материалов ландшафта"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "Выключить ландшафт Juno",
+    "EnableJunoLandscape_Label": "Включить ландшафт Juno",
+    "EnableJunoLandscapeMaterialExpressions_Label": "Включить выражения материалов ландшафта",
+    "JunoLandscapeContextSectionName": "Ландшафт Juno",
+    "MultipleValues": "Несколько значений",
+    "NoComponent": "Нет"
   },
   "JunoLandscape": {
     "Juno": "Juno"

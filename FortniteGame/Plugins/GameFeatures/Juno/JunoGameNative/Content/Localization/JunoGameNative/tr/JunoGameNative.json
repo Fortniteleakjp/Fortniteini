@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Hareketsiz kaldığın için atıldın. Uzun süre boyunca hareketsiz kaldığın için sunucuyla bağlantın kesildi.",
-    "SpawnedWhenPermanentlyDead": "Bu istemcinin ömrü tükendi."
+    "SpawnedWhenPermanentlyDead": "Bu istemcinin ömrü tükendi.",
+    "ArbitratedWorldOwnerBannedUser": "Bu dünyadan uzaklaştırıldın. Lütfen katılmak için başka bir dünya seç."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Rehberli İnşa Seti Gir"

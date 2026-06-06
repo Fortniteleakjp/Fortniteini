@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 est sélectionné, mais Mac requiert OS 15 pour utiliser SM6",
     "MetalMissingTargetError": "Aucun RHI défini pour ce projet, utilisation de SM5 par défaut."
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "IU commun InputActionDataTable",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Tableau de données"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Structure de rangée : {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "IU commun InputActionDataTable",
-    "DataTable_MissingRowStructTitle": "Continuer ?",
     "AssetTypeActions_ConversationDatabase": "Banque de conversation",
     "NamelessConversationDiff": "Diff de conversation",
-    "DataTable_MissingRowStructMsg": "Les tables de données suivantes n'ont pas de structure de rangée et ne pourront pas être modifiées.\n\n{0}\n\nVoulez-vous ouvrir ces tables de données ?",
     "Conversation Diff": "{0} - Diff de conversation"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Espace disque insuffisant. Veuillez faire de la place sur votre disque dur et réessayer.",
     "BuildPatchInstallShortError_ApplicationError": "Le service de mise à jour n'a pas pu démarrer. Veuillez contacter l'assistance.",
     "BuildPatchInstallShortError_ApplicationClosing": "L'application va être fermée.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "L'application n'a pas pu être désinstallée. Veuillez contacter l'assistance.",
     "MissingStageDirectory": "Le répertoire suivant n'a pas pu être créé.\n{0}",
     "MissingInstallDirectory": "Le répertoire d'installation n'a pas pu être créé.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "L'installation est corrompue. Veuillez contacter l'assistance.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "L'opération a réussi.",
     "InstallDirectoryDiskSpace": "Espace insuffisant dans {Location}.\nRequis : {RequiredBytes}\nDisponible : {AvailableBytes}.\nL'installation nécessite {SpaceAdditional} de plus.",
     "InstallDirectoryDiskSpaceDevice": "Espace insuffisant sur votre appareil.\nRequis : {RequiredBytes}\nDisponible : {AvailableBytes}.\nL'installation nécessite {SpaceAdditional} de plus.",
+    "MissingEncryptionKeyForNonPreload": "Cette installation n'a pas pu continuer, car les données de déchiffrement requises sont introuvables. Veuillez contacter l'assistance.",
+    "InvalidEncryptionKeyForNonPreload": "Cette installation n'a pas pu continuer, car les données de déchiffrement requises ne sont pas valides. Veuillez contacter l'assistance.",
+    "EmptyCloudDirectories": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
     "InvalidInstallTags": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
     "InvalidInstallToMemory": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
     "InvalidMemoryConstructionConfig": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
+    "VerifyOnlyActionMixed": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
     "MissingPrereqForPrereqOnlyInstall": "Un problème de configuration requise a interrompu l'installation. Veuillez contacter l'assistance.",
     "BuildPatchInstallShortError_UserCanceled": "Utilisateur annulé."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Bouton gauche de la souris",
     "LeftParantheses": "Parenthèse gauche",
     "LeftShift": "Maj G",
+    "Gesture_LongPress": "Appui long",
     "MiddleMouseButton": "Bouton du milieu de la souris",
     "MixedReality_Left_Grip_Click": "Mixed Reality (G) : Poignée",
     "MixedReality_Left_Menu_Click": "Mixed Reality (G) : Menu",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (D) : Gâchette - Toucher",
     "PageDown": "Bas de page",
     "PageUp": "Haut de page",
+    "Gesture_Pan": "Pan",
     "Pause": "Pause",
     "Period": "Point",
     "PageDownShort": "Pg suiv",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam : Tactile 2",
     "Steam_Touch_3": "Steam : Tactile 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Appuyer",
     "ThumbMouseButton": "Bouton de la souris Pouce",
     "ThumbMouseButton2": "Bouton de la souris Pouce 2",
     "Tilt": "Inclinaison",

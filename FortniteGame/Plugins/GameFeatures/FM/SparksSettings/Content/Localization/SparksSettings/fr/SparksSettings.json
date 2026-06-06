@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "Basse",
     "Drums": "Batterie",
+    "SettingsGroupProVocals": "Festival (karaoké)",
+    "SettingsGroupProDrums": "Festival (batterie pro)",
+    "SettingsGroupProLeadProBass": "Fortnite Festival (instrument principal pro, basse pro)",
     "ProVocals": "Karaoké",
     "Lead": "Instrument principal",
     "ProBass": "Basse pro",

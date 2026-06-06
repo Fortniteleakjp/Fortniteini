@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "無法在序列中使用可馴服或可騎乘的 NPC。請將可騎乘與可馴服設為「False」，或移除序列器調整值。",
     "B960D2C04399F88479AD648505B7D6FF": "NPC 角色額外調整值",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "基礎 AI 生成器",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "基礎 AI 生成器類別，不建議直接用於其他地方",
+    "4304459B4DC7A36E5D293191EA4A2B19": "基礎 AI 生成器",
+    "B75E7DC749264CE581DEE6BA98BD334F": "基礎 AI 生成器類別，不建議直接用於其他地方",
     "9E9744D3405E545FE1BED882658E614C": "缺少角色藍圖素材，無法重定向！",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "缺少重定向工具素材，無法重定向！",
     "E48FFE554DF62BB14204249459CFA281": "缺少重定向工具，無法將角色藍圖套用到野生動物骨骼網格。",
-    "038A358943E1DA393768418A630091E0": "否",
-    "4C1B8388435AC19888E85AA03B20640F": "否",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "否",
+    "A521461240CE088B5475E59B6D7906BA": "否",
     "ECF833FD4F55F3986302D5BC44F5F236": "NPC 角色定義",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "NPC 生成器",
     "9F9D969F42C631D33B38889AFE826051": "NPC 生成器",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "依可自訂條件生成 NPC。",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "依可自訂條件生成非玩家角色 (NPC)。",
     "EF26C08F4E22BEF782257EB5CF496F7B": "馴服",
-    "9715818A494770CE4AC8BFA604B16B77": "是",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "是",
-    "19CB358841188B53AF27729674F2DB98": "{0} 公尺",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} 秒"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "是",
+    "9134CFD84B97240E799723A73DBBD800": "是",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} 公尺",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} 秒"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "必須指定有效的 NPC 角色定義、 Verse AI 行為類別或角色物品定義。",
     "FactoryDisplayName": "NPC 角色生成裝置"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "NPC",
     "AssetDefinition_NPCCharacterDefinition": "NPC 角色定義"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "數量",
     "RemoveItem": "移除項目"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "縮放角色可能會降低移動時的動畫品質並導致導航出現錯誤。在發布前徹底測試。"
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "標籤"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "允許無限生成",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "移除",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "停用時移除 AI",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "停用時移除 AI",
     "Device_AISpawner_Base_C.Despawn.Description": "移除屬於此裝置、現仍存活的 AI",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "決定是否要顯示生成半徑。",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "決定 AI 是根據生成計時器倒數時間來生成，還是根據事件生成。",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "顯示生成半徑",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "生成",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "生成數量",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "根據計時器生成",
+    "6F19C1DE4967DC35BDD369912183D5BE": "根據計時器生成",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "生成範圍",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "穿牆生成",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "生成計時器",

@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "เบส",
     "Drums": "กลอง",
+    "SettingsGroupProVocals": "เฟสติวัล (คาราโอเกะ)",
+    "SettingsGroupProDrums": "เฟสติวัล (โปรกลอง)",
+    "SettingsGroupProLeadProBass": "เฟสติวัล (โปรลีด โปรเบส)",
     "ProVocals": "คาราโอเกะ",
     "Lead": "กีตาร์ลีด",
     "ProBass": "โปรเบส",

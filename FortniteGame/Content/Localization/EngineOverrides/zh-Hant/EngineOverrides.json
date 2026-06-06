@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "已選擇 -sm6，但 Mac 需要 15 以上的作業系統才能支援 SM6",
     "MetalMissingTargetError": "此專案未設定目標 RHI，預設為 SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "常見使用者介面 InputActionDataTable",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "資料表"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0}（行列結構：{1}）",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "常見使用者介面 InputActionDataTable",
-    "DataTable_MissingRowStructTitle": "要繼續嗎？",
     "AssetTypeActions_ConversationDatabase": "對話庫",
     "NamelessConversationDiff": "對話差異",
-    "DataTable_MissingRowStructMsg": "以下資料表缺少行列結構，因此無法編輯。\n\n{0}\n\n要開啟這些資料表嗎？",
     "Conversation Diff": "{0} - 對話差異"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "可用磁碟空間不足。請釋出磁碟空間後再試一次。",
     "BuildPatchInstallShortError_ApplicationError": "無法啟動修補服務。請聯絡客服。",
     "BuildPatchInstallShortError_ApplicationClosing": "應用程式正在關閉。",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "應用程式的解除安裝動作執行失敗。請聯絡客服。",
     "MissingStageDirectory": "無法建立以下路徑。\n{0}",
     "MissingInstallDirectory": "無法建立安裝路徑。\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "安裝檔已毀損。請聯絡客服。",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "操作成功。",
     "InstallDirectoryDiskSpace": "{Location}空間不足。\n需要 {RequiredBytes}。\n現可使用 {AvailableBytes}。\n還需要 {SpaceAdditional} 才可執行安裝。",
     "InstallDirectoryDiskSpaceDevice": "裝置空間不足。\n需要{RequiredBytes}。\n現可使用 {AvailableBytes}。\n還需要 {SpaceAdditional} 才可執行安裝。",
+    "MissingEncryptionKeyForNonPreload": "因缺少所需的解碼資料，故無法繼續安裝。請聯絡客服。",
+    "InvalidEncryptionKeyForNonPreload": "因所需的解碼資料無效，故無法繼續安裝。請聯絡客服。",
+    "EmptyCloudDirectories": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
     "InvalidInstallTags": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
     "InvalidInstallToMemory": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
     "InvalidMemoryConstructionConfig": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
+    "VerifyOnlyActionMixed": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
     "MissingPrereqForPrereqOnlyInstall": "因存在配置條件問題，故無法繼續安裝。請聯絡客服。",
     "BuildPatchInstallShortError_UserCanceled": "使用者已取消"
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "滑鼠左鍵",
     "LeftParantheses": "左圓括號鍵",
     "LeftShift": "左 Shift 鍵",
+    "Gesture_LongPress": "長按",
     "MiddleMouseButton": "滑鼠中鍵",
     "MixedReality_Left_Grip_Click": "Mixed Reality（左）抓握",
     "MixedReality_Left_Menu_Click": "Mixed Reality（左）選單",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch（右）觸發觸碰",
     "PageDown": "向下翻頁鍵",
     "PageUp": "向上翻頁鍵",
+    "Gesture_Pan": "平移",
     "Pause": "暫停",
     "Period": "句號鍵",
     "PageDownShort": "PgDn 鍵",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam 觸碰 2",
     "Steam_Touch_3": "Steam 觸碰 3",
     "Tab": "Tab",
+    "Gesture_Tap": "輕觸",
     "ThumbMouseButton": "滑鼠拇指鍵",
     "ThumbMouseButton2": "滑鼠拇指鍵 2",
     "Tilt": "傾斜",

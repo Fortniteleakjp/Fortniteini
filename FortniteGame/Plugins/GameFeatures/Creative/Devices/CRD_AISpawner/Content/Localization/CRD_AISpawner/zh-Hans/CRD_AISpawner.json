@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "无法在序列中使用可驯服或可骑乘的NPC。请将ridable或tameable设为false，或移除定序器修改器。",
     "B960D2C04399F88479AD648505B7D6FF": "额外 NPC 角色修改器",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "基础 AI 生成器",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "基础 AI 生成器职业，不该直接用于其他位置",
+    "4304459B4DC7A36E5D293191EA4A2B19": "基础 AI 生成器",
+    "B75E7DC749264CE581DEE6BA98BD334F": "基础 AI 生成器职业，不该直接用于其他位置",
     "9E9744D3405E545FE1BED882658E614C": "缺少重定向所需的角色蓝图资产！",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "缺少重定向所需的重定向器！",
     "E48FFE554DF62BB14204249459CFA281": "缺少在野生动物骨骼网格体上重定向角色蓝图的重定向器。",
-    "038A358943E1DA393768418A630091E0": "否",
-    "4C1B8388435AC19888E85AA03B20640F": "否",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "否",
+    "A521461240CE088B5475E59B6D7906BA": "否",
     "ECF833FD4F55F3986302D5BC44F5F236": "NPC 角色定义",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "NPC 生成器",
     "9F9D969F42C631D33B38889AFE826051": "NPC 生成器",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "生成具有自定义选项的 NPC。",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "生成具有自定义选项的 NPC。",
     "EF26C08F4E22BEF782257EB5CF496F7B": "驯服",
-    "9715818A494770CE4AC8BFA604B16B77": "是",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "是",
-    "19CB358841188B53AF27729674F2DB98": "{0} 米",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} 秒"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "是",
+    "9134CFD84B97240E799723A73DBBD800": "是",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0}米",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0}秒"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "必须指定有效的NPC角色定义、Verse AI行为或角色物品定义。",
     "FactoryDisplayName": "NPC 角色生成器装置"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "NPC",
     "AssetDefinition_NPCCharacterDefinition": "NPC 角色定义"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "数量",
     "RemoveItem": "移除物品"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "调整角色大小可能会降低移动动画质量并导致导航错误。发布前请进行充分测试。"
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "标签"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "允许无限生成",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "消除",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "禁用时消除 AI",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "禁用时消除 AI",
     "Device_AISpawner_Base_C.Despawn.Description": "消除此设备的任何现存 AI",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "确定是否需要展示生成半径。",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "确定生成计时器冷却或接收事件时是否生成 AI。",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "显示生成半径",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "生成",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "生成数量",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "根据计时器生成",
+    "6F19C1DE4967DC35BDD369912183D5BE": "根据计时器生成",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "生成半径",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "穿墙生成",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "生成计时器",

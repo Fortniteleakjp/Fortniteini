@@ -1,23 +1,23 @@
 {
   "": {
-    "03CBFD0C4902292B2F9F1FBDFE6BEDE4": "Donde pones el ojo, pones los nunchakus.",
-    "996435BC4E5B529B75DD408236D96360": "Nunchakus comunes. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
-    "205E82764575940792A6049142AA6323": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
-    "2B110F8B4645C774497FBCACD308FB84": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
-    "6CF6F91B4035E559DBEEA0A568F2BCB6": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
-    "78A452A34F4EF441A702209085446BB2": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
-    "FCEB6A76418B6BA13DD1189300FC0890": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
-    "AE9EAF5B4C9173285CAD7780AC39771C": "Nunchakus épicos. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
-    "5B4FD27B47E5CCBB8B80088C6289BE73": "No vayas a pegarte.",
+    "32E3A7844029FE3080165AB802C31387": "Donde pones el ojo, pones los nunchakus.",
+    "FDE4360945D0124FC757C7A0C35738C6": "Nunchakus comunes. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
+    "B44F681847AC0FC37DDA03B6DCF3E2CE": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
+    "EF1DD5AF48912E2BC9A384BC89CBAF3C": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
+    "F97CDC434335286A6866EC9B1661E24E": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
+    "F9E3AE124A38FE23F0BAFE841BCBA66C": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
+    "FE9DA4ED4927246806254DB76AFDD574": "Completa la misión <emphA>Una misión de Lloyd</> de <emphA>Lloyd</> en el <emphA>Monasterio del Spinjitzu</> en la <img id=\"IcoNinja\"/>Isla Ninjago</>",
+    "B5C8CB524A5036AD965BE0A84D1D64AE": "Nunchakus épicos. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
+    "3E5602D4427ED79E2DE45688C21D0777": "No vayas a pegarte.",
     "DC87079443939BCB355546883EC1E55E": "Mangos",
-    "481F9EDF4C56EBFB49B35B832BAC5BEB": "Cuando cuentes nunchakus, cuenta cuántos nunchakus cuentas cuando cuentes nunchakus.",
-    "38227F46470E1862060CAA9000BD23D3": "Nunchakus legendarios. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
+    "419F78F04A9BC08FF3F279A35DA5D20D": "Cuando cuentes nunchakus, cuenta cuántos nunchakus cuentas cuando cuentes nunchakus.",
+    "07C4BDF5475CD7900AD523BDE60EB835": "Nunchakus legendarios. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
     "CF94751C4D494428435043ACF95B8D7A": "Eslabones",
-    "438FB2C24957FE7802C7A6A062FA8B3B": "Nunchaku te rindas.",
-    "EE5404704CAAC0406A3084961B376059": "Nunchaku salgo sin ellos.",
-    "7420BC1443E02BF0B4208F8AFC0466A3": "Nunchakus raros. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
+    "DD551EEA4E3F0D642D738B9DF08396BE": "Nunchaku te rindas.",
+    "104CC9314A4DA6D589AC46A5ABF0CC84": "Nunchaku salgo sin ellos.",
+    "1690FE5147BD72252DCB4DB91AF21144": "Nunchakus raros. Subyuga a tus enemigos a golpes con esta ágil arma ninja.",
     "A8D121EF46BFD2525115BF899B10C24F": "Reliquia",
-    "C80DE5C44A1E672FFE5F5B91E6C54C51": "Nunchakus poco comunes. Subyuga a tus enemigos a golpes con esta ágil arma ninja."
+    "5BB48E8A4C750D3B637D3AB1989CCBDF": "Nunchakus poco comunes. Subyuga a tus enemigos a golpes con esta ágil arma ninja."
   },
   "Juno_BoostedItemNames_Nunchucks": {
     "Nunchucks_T4_T4_Bamboo_DisplayName": "Nunchakus de bambú",
@@ -39,10 +39,10 @@
     "Nunchucks_DisplayName": "Nunchakus"
   },
   "Juno_UpdateItemData": {
-    "0B8A62EF4FEDC0D30250C2993774014D": "Nunchakus",
-    "113AEF804ACD11B2D0C01181BEAC326C": "Nunchakus",
-    "514006DD49A771D632D5E19DB96EA3B2": "Nunchakus",
-    "724F09BA4D997457C28069B3D4FA03FF": "Nunchakus",
-    "984C361B44A5386CDB9FB19696F41C13": "Nunchakus"
+    "3E3BE05446EC98701F59CE8EFD7EDF52": "Nunchakus",
+    "442EB4CE415207770972808FFCAA03DC": "Nunchakus",
+    "7A311C794E7BF6A62CA9DF9D9714F3B3": "Nunchakus",
+    "91C6D94E45481614ED3A10AAFFABD3EB": "Nunchakus",
+    "FE66E1F64CDB27A807240897F2BDE0D9": "Nunchakus"
   }
 }

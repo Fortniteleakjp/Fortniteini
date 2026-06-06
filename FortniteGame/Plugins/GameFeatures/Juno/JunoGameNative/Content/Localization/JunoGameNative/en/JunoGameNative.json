@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Kicked for idle. Your connection to the host was lost because you were idle for too long.",
-    "SpawnedWhenPermanentlyDead": "This client is out of lives."
+    "SpawnedWhenPermanentlyDead": "This client is out of lives.",
+    "ArbitratedWorldOwnerBannedUser": "You have been banned from this world. Please choose another world to join."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Enter Guided Build"

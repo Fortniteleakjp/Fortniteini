@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "Бас-гитара",
     "Drums": "Ударные",
+    "SettingsGroupProVocals": "Fortnite Festival (караоке)",
+    "SettingsGroupProDrums": "Festival (внешние ударные)",
+    "SettingsGroupProLeadProBass": "Festival (внешние лид-устройство и бас-гитара)",
     "ProVocals": "Караоке",
     "Lead": "Лид-гитара",
     "ProBass": "Внеш. бас-гитара",

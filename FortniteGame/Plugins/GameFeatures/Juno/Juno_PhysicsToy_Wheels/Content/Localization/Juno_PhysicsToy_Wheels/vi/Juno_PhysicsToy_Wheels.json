@@ -1,0 +1,35 @@
+{
+  "": {
+    "028F4E2D4183A2A0C63EFE9F2B196870": "Bộ Va Chạm Thay Thế Công Suất Trung Bình",
+    "C0516FE24DF340172325C99DF49E6CD4": "Bộ Va Chạm Thay Thế Dẫn Hướng Trung Bình"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "4752E2E04C2796BCE4227BB606882680": "Bánh Xe Đạp 01",
+    "B682BF5342739E6BD5431D8802E44C84": "Bộ Va Chạm Thay Thế Công Suất Trung Bình",
+    "88B3592A4D91B5D7AE5A0CB6CADE761D": "Bộ Va Chạm Thay Thế Dẫn Hướng Trung Bình",
+    "3F5C2D284250E52D371C0E8C86F56460": "Bánh Xe Đạp Trợ Lực",
+    "43134D8B4A7C446287E0B8AC1F72D230": "Bánh Xe Đạp Trợ Lực SIÊU PHÀM",
+    "30AE248E440B0363E1126AACB3771217": "Bánh xe nhỏ SIÊU công suất",
+    "EC255BD841DF99F685531CB847CBDD4D": "Bánh Xe Đạp Có Thể Lái"
+  },
+  "Juno_UpdateItemData": {
+    "1214A27740ACC124F552DCA2556B2A04": "Xoay khi nhận được một tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "460566E9489CA013E6C1569BE3E8470D": "Xoay khi nhận được một tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "5BE4F8CF45F7EAD95C4017A7CFF336C5": "Xoay khi nhận được một tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "6467159844DB5A52100E9E871DAEFA0B": "Xoay khi nhận được một tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "8E9AA23546E8C0A7169DBE8A1AFC0FD4": "Xoay khi nhận được một tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "B76F736246B712DDB276B7BB4F41E49F": "Xoay khi nhận được một tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "CF8D2F8C47E4FBED5F0394B0A9D288D6": "Xoay khi nhận được một tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng."
+  },
+  "PP_CraftingFormulas_Wheels_v2": {
+    "E96D381C41307E11EA7B67BF26D9A01E": "Bánh Xe Đạp 01",
+    "85954302492D3D67A7AE548F598C451B": "Bánh Xe Đạp 02",
+    "93DE7F684E8C60AC671B44A41487E344": "Góc Đánh Lái Lớn 2.0",
+    "E3E2FA0F43ABD041043FBABED1D167FB": "Góc Đánh Lái Vừa 2.0",
+    "00AA02D34D5EAD572FB3FB974F5DE1D3": "Bánh Xe Đạp Trợ Lực",
+    "83D3AFCE4606C1E8A5542D9A95827CC2": "Bánh Xe Đạp Trợ Lực SIÊU PHÀM",
+    "E6FAB5384D1544FBB48EBEA697385B80": "Góc Đánh Lái Nhỏ 2.0",
+    "DA50EDC140640845B58E5DA33E1C8B0A": "Bánh Xe Đạp Có Thể Lái",
+    "SuperPowerSmallWheel_DisplayName": "Bánh Xe Nhỏ Siêu Mạnh"
+  }
+}

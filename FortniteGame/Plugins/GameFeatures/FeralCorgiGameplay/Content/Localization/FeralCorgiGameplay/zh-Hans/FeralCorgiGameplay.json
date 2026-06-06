@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "武器改装",
     "324967EA4E1C1AC287BB93A8C83F114D": "前握把，武器改装，倾斜前握把",
     "828BF7714BB5A101CDB95485C9D57045": "前握把，武器改装，垂直前握把"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20赫兹",
+    "EFortServerTickRate.Twenty.DisplayName": "20赫兹",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30赫兹",
+    "EFortServerTickRate.Thirty.DisplayName": "30赫兹",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60赫兹",
+    "EFortServerTickRate.Sixty.DisplayName": "60赫兹",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "默认（30赫兹）",
+    "EFortServerTickRate.UseDefault.DisplayName": "默认（30赫兹）",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "目标物理Tick率",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "所需Tick率",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "客户端/服务器的期望物理tick率",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "所需服务器Tick率"
   }
 }

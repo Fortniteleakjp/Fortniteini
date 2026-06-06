@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "Một NPC có thể thuần hóa hoặc có thể cưỡi không thể dùng trong một trình tự. Hoặc đặt có thể cưỡi và có thể thuần hóa về 'không', hoặc loại bỏ hiệu ứng điều phối hành vi.",
     "B960D2C04399F88479AD648505B7D6FF": "Yếu Tố Biến Đổi Nhân Vật NPC Bổ Sung",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "Máy Tạo AI Cơ Bản",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "Hệ Máy Tạo AI Cơ Bản, Không Nên Dùng Trực Tiếp Ở Các Nơi Khác",
+    "4304459B4DC7A36E5D293191EA4A2B19": "Máy Tạo AI Cơ Bản",
+    "B75E7DC749264CE581DEE6BA98BD334F": "Hệ Máy Tạo AI Cơ Bản, Không Nên Dùng Trực Tiếp Ở Các Nơi Khác",
     "9E9744D3405E545FE1BED882658E614C": "Thiếu tài nguyên Bản Vẽ Nhân Vật để thực hiện chuyển đổi khung xương!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "Thiếu tài nguyên Bản Vẽ Nhân Vật để thực hiện chuyển đổi khung xương!",
     "E48FFE554DF62BB14204249459CFA281": "Thiếu Trình Chuyển Đổi để chuyển khung xương Bản Vẽ Nhân Vật trên Lưới Xương của Thú Hoang.",
-    "038A358943E1DA393768418A630091E0": "KHÔNG",
-    "4C1B8388435AC19888E85AA03B20640F": "KHÔNG",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "KHÔNG",
+    "A521461240CE088B5475E59B6D7906BA": "KHÔNG",
     "ECF833FD4F55F3986302D5BC44F5F236": "Định Nghĩa Nhân Vật NPC",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Máy Tạo NPC",
     "9F9D969F42C631D33B38889AFE826051": "Máy Tạo NPC",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "Tạo các NPC với các tùy chọn có thể tùy chỉnh.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Tạo các nhân vật không thể điều khiển với các tùy chọn có thể tùy chỉnh.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "THUẦN HÓA",
-    "9715818A494770CE4AC8BFA604B16B77": "CÓ",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "CÓ",
-    "19CB358841188B53AF27729674F2DB98": "{0} m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} giây"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "CÓ",
+    "9134CFD84B97240E799723A73DBBD800": "CÓ",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} giây"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Phải chỉ định Định Nghĩa Nhân Vật NPC, Hành Vi AI Verse hoặc Định Nghĩa Vật Phẩm Nhân Vật hợp lệ.",
     "FactoryDisplayName": "Thiết Bị Máy Tạo Nhân Vật NPC"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "NPC",
     "AssetDefinition_NPCCharacterDefinition": "Định Nghĩa Nhân Vật NPC"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "Số Lượng",
     "RemoveItem": "Gỡ Vật Phẩm"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "Việc thay đổi kích thước nhân vật có thể làm giảm chất lượng hoạt ảnh di chuyển và gây lỗi điều hướng. Hãy kiểm tra kỹ trước khi phát hành."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nhãn"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Cho Phép Tạo Ra Không Giới Hạn",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Thu Hồi",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "Thu Hồi AI Khi Bị Vô Hiệu Hoá",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Thu Hồi AI Khi Bị Vô Hiệu Hoá",
     "Device_AISpawner_Base_C.Despawn.Description": "Thu hồi toàn bộ AI hiện có thuộc về thiết bị này",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Quyết định xem có cần hiển thị bán kính tạo ra hay không.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Xác định xem AI được tạo ra khi Bộ Đếm Giờ Tạo Sinh Vật đếm ngược, hay được tạo ra khi có sự kiện.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Hiển Thị Phạm Vi Xuất Hiện",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Tạo Ra",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Số Lượng Tạo Ra",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "Tạo Ra Theo Bộ Đếm Giờ",
+    "6F19C1DE4967DC35BDD369912183D5BE": "Tạo Ra Theo Bộ Đếm Giờ",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Bán Kính Xuất Hiện",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Tạo Ở Vị Trí Xuyên Qua Bức Tường",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Bộ Đếm Giờ Tạo Mới",

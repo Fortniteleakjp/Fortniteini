@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "「{0}」",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "對象",
-    "MultipleValues": "多個值",
-    "NoComponent": "無",
     "RefreshPreviewISMCsTooltip": "將目前設定中的材質覆寫重新套用至所選 Instanced 對象管理器的編輯器預覽 ISMC。",
     "ConvertSelectedIAsToActorsText": "[Juno] 將 {0} 個實例轉換回對象。",
     "ConvertSelectedActorsToIAsText": "[Juno] 轉換{0}為實例化對象",
     "RefreshPreviewISMCsText": "[Juno] 重新整理 {0} 預覽材料"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "編輯朱諾地形景觀曲線屬性",
+    "EditSplinePointsMetadata": "編輯樣條曲線點後設資料",
+    "EndFalloffFraction": "結束衰減比例",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "額外詳細資訊",
+    "HalfWidth": "一半寬度",
+    "LayerSideFalloffScale": "圖層側邊衰減比例",
+    "LayerWidthScale": "圖層寬度比例",
+    "Multiple": "多個",
+    "SideFalloffWidth": "側邊衰減寬度",
+    "StartFalloffFraction": "開始衰減比例"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "已處理對象路徑的特性'{0}'、已處理列名稱'{1}'及/或代表'{2}'與其他特性名稱發生衝突",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "無法從輸入取得點資料",
     "UnableToGetSpatialData": "無法從輸入取得空間資料"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "無法擷取高度貼圖的資料，初始化失敗。",
-    "TextureInitFailed": "無法擷取此貼圖的資料，初始化失敗。",
-    "FailExtractGrassTypeOverrides": "擷取草地類型覆寫失敗。",
-    "MissingGrassName": "缺少草地類型名稱，無法對資料進行標記。請確保地景材質中的所有草地類型皆已與對應資產連結。",
-    "LandscapeComponentLost": "參考的一或多個地形組件遺失，草地貼圖將無法生成。"
+    "FailExtractGrassTypeOverrides": "擷取草地類型覆寫失敗。"
   }
 }

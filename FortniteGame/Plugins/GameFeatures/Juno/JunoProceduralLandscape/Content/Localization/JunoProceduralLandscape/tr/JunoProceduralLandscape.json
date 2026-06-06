@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno Manzarası Özel Malzemesi"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "Juno Arazi Malzemeleri İfadelerini Etkinleştir"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "Juno Manzarasını Devre Dışı Bırak",
+    "EnableJunoLandscape_Label": "Juno Manzarasını Etkinleştir",
+    "EnableJunoLandscapeMaterialExpressions_Label": "Juno Arazi Malzemeleri İfadelerini Etkinleştir",
+    "JunoLandscapeContextSectionName": "Juno Manzarası",
+    "MultipleValues": "Çoklu Değerler",
+    "NoComponent": "Hiçbiri"
   },
   "JunoLandscape": {
     "Juno": "Juno"

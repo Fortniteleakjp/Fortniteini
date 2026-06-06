@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "Baixo",
     "Drums": "Bateria",
+    "SettingsGroupProVocals": "Festival (Karaokê)",
+    "SettingsGroupProDrums": "Festival (Bateria Pro)",
+    "SettingsGroupProLeadProBass": "Festival (Base Pro, Baixo Pro)",
     "ProVocals": "Karaokê",
     "Lead": "Base",
     "ProBass": "Baixo (Pro)",

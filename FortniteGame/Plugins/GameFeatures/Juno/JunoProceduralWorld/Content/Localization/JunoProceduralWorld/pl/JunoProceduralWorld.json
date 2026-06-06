@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "„{0}”",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Aktorzy",
-    "MultipleValues": "Wiele wartości",
-    "NoComponent": "Brak",
     "RefreshPreviewISMCsTooltip": "Ponownie stosuje nadpisania materiałów z bieżących ustawień do podglądowych ISMC w edytorze dla wybranych menedżerów aktorów instancyjnych.",
     "ConvertSelectedIAsToActorsText": "[Juno] Konwertuj {0} instancji z powrotem na aktorów.",
     "ConvertSelectedActorsToIAsText": "[Juno] Konwertuj {0} do instancyjnych aktorów",
     "RefreshPreviewISMCsText": "[Juno] Odśwież materiały podglądu: {0}"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Edytuj właściwość JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Edytuj metadane krzywej sklejanej",
+    "EndFalloffFraction": "Końcowy ułamek spadku",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Dodatkowe szczegóły",
+    "HalfWidth": "Połowa szerokości",
+    "LayerSideFalloffScale": "Skala spadku strony warstwy",
+    "LayerWidthScale": "Skala szerokości warstwy",
+    "Multiple": "Wiele",
+    "SideFalloffWidth": "Szerokość bocznego spadku",
+    "StartFalloffFraction": "Początkowy ułamek spadku"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Występuje konflikt atrybutów dla ustalonej ścieżki aktora „{0}”, ustalonej nazwy wiersza „{1}” i/lub reprezentacji „{2}” z innymi nazwami atrybutów",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Nie można uzyskać danych punktu z wejścia",
     "UnableToGetSpatialData": "Nie można uzyskać danych przestrzennych z wejścia"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Nie można pobrać danych tekstury wysokości. Inicjalizacja nieudana.",
-    "TextureInitFailed": "Nie można pobrać danych dla tej tekstury. Inicjalizacja nieudana.",
-    "FailExtractGrassTypeOverrides": "Nie udało się pobrać zastąpienia rodzaju trawy.",
-    "MissingGrassName": "Brakuje nazwy rodzaju trawy, nie można sklasyfikować danych. Upewnij się, że wszystkie rodzaje traw GrassType w twoim materiale krajobrazu mają powiązany zasób.",
-    "LandscapeComponentLost": "Utracono odnośnik do co najmniej jednego komponentu krajobrazu. Mapy trawy nie będą generowane."
+    "FailExtractGrassTypeOverrides": "Nie udało się pobrać zastąpienia rodzaju trawy."
   }
 }

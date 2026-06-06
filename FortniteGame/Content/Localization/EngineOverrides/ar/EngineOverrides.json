@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-تم تحديد sm6 لكن يجب أن تكون نسخة نظام التشغيل Mac هي OS 15 لدعم SM6",
     "MetalMissingTargetError": "إذا لم يتم تعيين أي RHI محدد لهذا المشروع، فسيُضبط افتراضيًا على SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "جدول شائع لبيانات إجراءات إدخال واجهة المستخدم",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "جدول البيانات"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Row Structure: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "جدول شائع لبيانات إجراءات إدخال واجهة المستخدم",
-    "DataTable_MissingRowStructTitle": "هل تريد المتابعة؟",
     "AssetTypeActions_ConversationDatabase": "بنك المحادثة",
     "NamelessConversationDiff": "اختلاف المحادثة",
-    "DataTable_MissingRowStructMsg": "تفتقد جداول البيانات التالية بنية الصف الخاصة بها ولن تكون قابلة للتعديل.\n\n{0}\n\nDo you want to open these data tables?",
     "Conversation Diff": "{0} - اختلاف المحادثة"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "لا توجد مساحة قرص كافية. يُرجى تفريغ بعض المساحة على القرص وإعادة المحاولة.",
     "BuildPatchInstallShortError_ApplicationError": "تعذر بدء تشغيل خدمة التصحيح. يُرجى الاتصال بالدعم.",
     "BuildPatchInstallShortError_ApplicationClosing": "يتم غلق التطبيق.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "فشل تنفيذ إجراء إزالة تثبيت التطبيق. يُرجى الاتصال بالدعم.",
     "MissingStageDirectory": "تعذر إنشاء الدليل التالي.\n{0}",
     "MissingInstallDirectory": "تعذر إنشاء الدليل التالي.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "التثبيت غير صالح. يُرجى الاتصال بالدعم.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "تمت العملية بنجاح.",
     "InstallDirectoryDiskSpace": "لا توجد مساحة كافية على {Location}\n{RequiredBytes} مطلوبة.\n{AvailableBytes} متاحة.\nتحتاج إلى مساحة {SpaceAdditional} إضافية لإجراء هذا التثبيت.",
     "InstallDirectoryDiskSpaceDevice": "لا توجد مساحة كافية على جهازك\n{RequiredBytes} مطلوبة.\n{AvailableBytes} متاحة.\nتحتاج إلى مساحة {SpaceAdditional} إضافية لإجراء هذا التثبيت.",
+    "MissingEncryptionKeyForNonPreload": "تعذر استمرار التثبيت لأن بيانات فك التشفير المطلوبة مفقودة. يُرجى الاتصال بالدعم.",
+    "InvalidEncryptionKeyForNonPreload": "تعذر استمرار التثبيت لأن بيانات فك التشفير المطلوبة غير صالحة. يُرجى الاتصال بالدعم.",
+    "EmptyCloudDirectories": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
     "InvalidInstallTags": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
     "InvalidInstallToMemory": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
     "InvalidMemoryConstructionConfig": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
+    "VerifyOnlyActionMixed": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
     "MissingPrereqForPrereqOnlyInstall": "لم تتم عملية التثبيت نظرًا لوجود مشكلة بإعداد المكونات الأساسية. يُرجى الاتصال بالدعم.",
     "BuildPatchInstallShortError_UserCanceled": "قام المستخدم بالإلغاء."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "زر الماوس الأيسر",
     "LeftParantheses": "حاصرة يسرى",
     "LeftShift": "Left Shift",
+    "Gesture_LongPress": "الضغط المطول",
     "MiddleMouseButton": "زر الماوس الأوسط",
     "MixedReality_Left_Grip_Click": "Mixed Reality (L) مقبض",
     "MixedReality_Left_Menu_Click": "Mixed Reality (L) القائمة",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (R) لمسة التشغيل",
     "PageDown": "مفتاح Page Down",
     "PageUp": "مفتاح Page Up",
+    "Gesture_Pan": "تحريك",
     "Pause": "إيقاف مؤقت",
     "Period": "نقطة",
     "PageDownShort": "PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "لوحة لمس 2 في Steam",
     "Steam_Touch_3": "لوحة لمس 3 في Steam",
     "Tab": "Tab",
+    "Gesture_Tap": "انقر",
     "ThumbMouseButton": "زر ماوس يعمل بالإبهام",
     "ThumbMouseButton2": "زر ماوس يعمل بالإبهام 2",
     "Tilt": "الإمالة",

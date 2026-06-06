@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Đối Tượng",
-    "MultipleValues": "Nhiều Giá Trị",
-    "NoComponent": "Không",
     "RefreshPreviewISMCsTooltip": "Áp dụng lại các ghi đè vật liệu từ cài đặt hiện tại lên các ISMC xem trước trong trình chỉnh sửa của các Instanced Actor Managers đã chọn.",
     "ConvertSelectedIAsToActorsText": "[Juno] Chuyển đổi {0} phó bản trở lại thành đối tượng.",
     "ConvertSelectedActorsToIAsText": "[Juno] Chuyển đổi {0} thành Chủ Thể Phiên Bản Hóa",
     "RefreshPreviewISMCsText": "[Juno] Làm Mới {0} Xem Trước Nguyên Liệu"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Chỉnh Sửa Thuộc Tính JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Chỉnh sửa siêu dữ liệu điểm trục đường",
+    "EndFalloffFraction": "Tỷ Lệ Giảm Dần Kết Thúc",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Chi Tiết Bổ Sung",
+    "HalfWidth": "Nửa Chiều Rộng",
+    "LayerSideFalloffScale": "Tỷ Lệ Giảm Dần Bên Lớp",
+    "LayerWidthScale": "Tỷ Lệ Chiều Rộng Theo Lớp",
+    "Multiple": "Đa Người Chơi",
+    "SideFalloffWidth": "Chiều Rộng Giảm Dần Sang Bên",
+    "StartFalloffFraction": "Tỷ Lệ Giảm Dần Bắt Đầu"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Thuộc tính cho đường dẫn chủ thể đã giải quyết '{0}', tên hàng đã giải quyết '{1}' và/hoặc biểu thị '{2}' đang xung đột với các tên thuộc tính khác",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Không thể lấy dữ liệu Điểm từ đầu vào",
     "UnableToGetSpatialData": "Không thể lấy dữ liệu Không Gian từ đầu vào"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu độ cao, khởi tạo thất bại.",
-    "TextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu này, khởi tạo thất bại.",
-    "FailExtractGrassTypeOverrides": "Trích xuất ghi đè loại cỏ không thành công.",
-    "MissingGrassName": "Thiếu tên loại cỏ, không thể gắn nhãn dữ liệu. Đảm bảo rằng tất cả Loại Cỏ trong mục vật liệu cảnh quan của bạn đều có tài sản được liên ết.",
-    "LandscapeComponentLost": "Đã mất tham chiếu đến một hoặc nhiều thành phần cảnh quan, bản đồ sẽ không được tạo."
+    "FailExtractGrassTypeOverrides": "Trích xuất ghi đè loại cỏ không thành công."
   }
 }

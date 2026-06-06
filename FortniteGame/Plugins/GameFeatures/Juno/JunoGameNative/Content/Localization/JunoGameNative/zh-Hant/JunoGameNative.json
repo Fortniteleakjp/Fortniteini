@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "因閒置而被踢出。由於你閒置時間過長，與主機的連線已丟失。",
-    "SpawnedWhenPermanentlyDead": "這位顧客沒命了。"
+    "SpawnedWhenPermanentlyDead": "這位顧客沒命了。",
+    "ArbitratedWorldOwnerBannedUser": "你已被此世界封鎖。請選擇另一個世界加入。"
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "進入引導建物"

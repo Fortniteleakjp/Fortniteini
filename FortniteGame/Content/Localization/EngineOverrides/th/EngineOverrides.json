@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "เลือก SM6 แล้ว แต่ Mac ต้องใช้ OS 15 ขึ้นไปจึงจะรองรับ SM6",
     "MetalMissingTargetError": "ไม่มีเป้าหมาย RHI ที่กำหนดไว้สำหรับโปรเจ็กต์นี้ ค่าเริ่มต้นเป็น SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "ตารางข้อมูลการกระทำของ UI ทั่วไป",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "ตารางข้อมูล"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (โครงสร้างแถว: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "ตารางข้อมูลการกระทำของ UI ทั่วไป",
-    "DataTable_MissingRowStructTitle": "ดำเนินการต่อหรือไม่?",
     "AssetTypeActions_ConversationDatabase": "คลังบทสนทนา",
     "NamelessConversationDiff": "ความต่างบทสนทนา",
-    "DataTable_MissingRowStructMsg": "ตารางข้อมูลต่อไปนี้ไม่มีโครงสร้างแถวและจะไม่สามารถแก้ไขได้\n\n{0}\n\nคุณต้องการเปิดตารางข้อมูลเหล่านี้หรือไม่?",
     "Conversation Diff": "{0} - ความต่างบทสนทนา"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "พื้นที่ดิสก์ที่พร้อมให้ใช้งานไม่เพียงพอ โปรดเพิ่มพื้นที่ว่างในดิสก์แล้วลองอีกครั้ง",
     "BuildPatchInstallShortError_ApplicationError": "ไม่สามารถเริ่มบริการแพตช์ได้ โปรดติดต่อฝ่ายบริการ",
     "BuildPatchInstallShortError_ApplicationClosing": "แอปพลิเคชันกำลังปิด",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "การถอนการติดตั้งแอปพลิเคชันล้มเหลว โปรดติดต่อฝ่ายบริการ",
     "MissingStageDirectory": "ไม่สามารถสร้างไดเรกทอรีต่อไปนี้ได้\n{0}",
     "MissingInstallDirectory": "ไม่สามารถสร้างไดเรกทอรีการติดตั้งได้\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "การติดตั้งเกิดข้อผิดพลาด โปรดติดต่อฝ่ายบริการ",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "ดำเนินการสำเร็จ",
     "InstallDirectoryDiskSpace": "พื้นที่ใน {Location} ไม่เพียงพอ\nต้องใช้ {RequiredBytes}\n{AvailableBytes} พร้อมให้ใช้งานแล้ว\nคุณต้องมีพื้นที่เพิ่มเติม {SpaceAdditional} จึงจะติดตั้งได้",
     "InstallDirectoryDiskSpaceDevice": "พื้นที่ในอุปกรณ์ของคุณไม่เพียงพอ\nต้องใช้ {RequiredBytes}\n{AvailableBytes} พร้อมให้ใช้งานแล้ว\nคุณต้องมีพื้นที่เพิ่มเติม {SpaceAdditional} จึงจะติดตั้งได้",
+    "MissingEncryptionKeyForNonPreload": "การติดตั้งนี้ไม่สามารถดำเนินการต่อได้ เนื่องจากข้อมูลถอดรหัสที่จำเป็นหายไป โปรดติดต่อฝ่ายบริการ",
+    "InvalidEncryptionKeyForNonPreload": "การติดตั้งนี้ไม่สามารถดำเนินการต่อได้ เนื่องจากข้อมูลถอดรหัสที่จำเป็นไม่ถูกต้อง โปรดติดต่อฝ่ายบริการ",
+    "EmptyCloudDirectories": "ไม่สามารถติดตั้งต่อได้เนื่องจากปัญหาการกำหนดค่า โปรดติดต่อฝ่ายบริการ",
     "InvalidInstallTags": "ไม่สามารถติดตั้งต่อได้เนื่องจากปัญหาการกำหนดค่า โปรดติดต่อฝ่ายบริการ",
     "InvalidInstallToMemory": "ไม่สามารถติดตั้งต่อได้เนื่องจากปัญหาการกำหนดค่า โปรดติดต่อฝ่ายบริการ",
     "InvalidMemoryConstructionConfig": "ไม่สามารถติดตั้งต่อได้เนื่องจากปัญหาการกำหนดค่า โปรดติดต่อฝ่ายบริการ",
+    "VerifyOnlyActionMixed": "ไม่สามารถติดตั้งต่อได้เนื่องจากปัญหาการกำหนดค่า โปรดติดต่อฝ่ายบริการ",
     "MissingPrereqForPrereqOnlyInstall": "ไม่สามารถดำเนินการติดตั้งต่อได้ เนื่องจากปัญหาการกำหนดค่าซอฟต์แวร์ที่จำเป็นต้องมี โปรดติดต่อฝ่ายบริการ",
     "BuildPatchInstallShortError_UserCanceled": "ผู้ใช้ยกเลิกคำสั่ง"
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "ปุ่มเมาส์ซ้าย",
     "LeftParantheses": "เครื่องหมายวงเล็บซ้าย",
     "LeftShift": "Shift ซ้าย",
+    "Gesture_LongPress": "กดค้าง",
     "MiddleMouseButton": "ปุ่มเมาส์กลาง",
     "MixedReality_Left_Grip_Click": "Mixed Reality (ซ้าย) ปุ่มกริป",
     "MixedReality_Left_Menu_Click": "Mixed Reality (ซ้าย) เมนู",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (ขวา) สัมผัสทริกเกอร์",
     "PageDown": "ปุ่ม Page Down",
     "PageUp": "ปุ่ม Page Up",
+    "Gesture_Pan": "แพน",
     "Pause": "หยุดชั่วคราว",
     "Period": "เครื่องหมายจุด",
     "PageDownShort": "ปุ่ม PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam สัมผัส 2",
     "Steam_Touch_3": "Steam สัมผัส 3",
     "Tab": "Tab",
+    "Gesture_Tap": "กด",
     "ThumbMouseButton": "ปุ่มเมาส์ด้านข้าง",
     "ThumbMouseButton2": "ปุ่มเมาส์ด้านข้าง 2",
     "Tilt": "Tilt",

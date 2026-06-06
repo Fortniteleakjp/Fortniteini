@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "貝斯",
     "Drums": "爵士鼓",
+    "SettingsGroupProVocals": "Festival（卡拉 OK）",
+    "SettingsGroupProDrums": "Festival（專業爵士鼓）",
+    "SettingsGroupProLeadProBass": "Festival（專業主奏、專業貝斯）",
     "ProVocals": "卡拉 OK",
     "Lead": "主奏",
     "ProBass": "專業貝斯",

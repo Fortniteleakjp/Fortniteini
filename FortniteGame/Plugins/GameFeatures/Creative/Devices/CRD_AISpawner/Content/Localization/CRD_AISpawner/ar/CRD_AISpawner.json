@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "لا يمكن استخدام شخصية غير قابلة للعب قابلة للامتطاء أو الترويض بشكل متسلسل. عليك تعيين \"قابل للامتطاء والترويض\" على \"خطأ\" أو إزالة منظم التسلسل.",
     "B960D2C04399F88479AD648505B7D6FF": "معدّلات إضافية للشخصية غير القابلة للعب",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "ناشر الذكاء الاصطناعي الأساسي",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "فئة ناشر الذكاء الاصطناعي الأساسية، ليس من المفترض استخدامها مباشرة في أماكن أخرى",
+    "4304459B4DC7A36E5D293191EA4A2B19": "ناشر الذكاء الاصطناعي الأساسي",
+    "B75E7DC749264CE581DEE6BA98BD334F": "فئة ناشر الذكاء الاصطناعي الأساسية، ليس من المفترض استخدامها مباشرة في أماكن أخرى",
     "9E9744D3405E545FE1BED882658E614C": "أصل مخطط شخصية تنفيذ إعادة التوجيه مفقود!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "أصل أداة إعادة التوجيه لتنفيذ إعادة التوجيه مفقود!",
     "E48FFE554DF62BB14204249459CFA281": "أداة إعادة الاستهداف مفقودة لإعادة توجيه مخطط الشخصية على الشبكة العظمية للحياة البرية.",
-    "038A358943E1DA393768418A630091E0": "لا",
-    "4C1B8388435AC19888E85AA03B20640F": "لا",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "لا",
+    "A521461240CE088B5475E59B6D7906BA": "لا",
     "ECF833FD4F55F3986302D5BC44F5F236": "تعريف الشخصية للشخصيات غير القابلة للعب",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "ناشر الشخصيات غير قابلة للعب",
     "9F9D969F42C631D33B38889AFE826051": "ناشر الشخصيات غير قابلة للعب",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "لنشر الشخصيات غير القابلة للعب مع خيارات قابلة للتخصيص.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "لنشر شخصيات غير قابلة للعب بخيارات قابلة للتخصيص.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "ترويض",
-    "9715818A494770CE4AC8BFA604B16B77": "نعم",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "نعم",
-    "19CB358841188B53AF27729674F2DB98": "{0} د",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} ث"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "نعم",
+    "9134CFD84B97240E799723A73DBBD800": "نعم",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} م",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} من الثواني"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "يلزم تحديد تعريف شخصية صالح للشخصيات غير القابلة للعب أو فئة سلوك Verse صالحة للذكاء الاصطناعي أو تعريف لعنصر شخصية.",
     "FactoryDisplayName": "جهاز ناشر الشخصيات غير القابلة للعب"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "شخصية غير قابلة للعب",
     "AssetDefinition_NPCCharacterDefinition": "تعريف الشخصية للشخصيات غير القابلة للعب"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "الكمية",
     "RemoveItem": "إزالة عنصر"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "قد يؤدي تغيير حجم الشخصيات إلى تقليل جودة حركة الرسوم المتحركة والتسبب في أخطاء في التنقل. اختبر بدقة قبل النشر."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "ملصق"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "السماح بالنشر اللانهائي",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "إلغاء النشر",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "إلغاء نشر عناصر الذكاء الاصطناعي عند التعطيل",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "إلغاء نشر عناصر الذكاء الاصطناعي عند التعطيل",
     "Device_AISpawner_Base_C.Despawn.Description": "إزالة أي عناصر ذكاء اصطناعي حالية تخصّ هذا الجهاز",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "لتحديد ما إذا كنا بحاجة إلى إظهار نطاق النشر أم لا.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "يحدد ما إذا كان الذكاء الاصطناعي سينتشر بناءً على العد التنازلي لمؤقت الناشر أو في الأحداث.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "إظهار نطاق النشر",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "نشر",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "عدد مرات النشر",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "النشر بمؤقت",
+    "6F19C1DE4967DC35BDD369912183D5BE": "النشر بمؤقت",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "نطاق النشر",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "النشر خلال الجدران",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "مؤقت النشر",

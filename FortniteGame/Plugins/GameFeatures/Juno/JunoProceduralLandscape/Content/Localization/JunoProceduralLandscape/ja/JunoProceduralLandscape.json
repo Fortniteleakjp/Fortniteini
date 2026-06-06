@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Juno 地形カスタムマテリアル"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "Juno景観素材の表現式を有効化"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "Juno風景を無効化",
+    "EnableJunoLandscape_Label": "Juno風景を有効化",
+    "EnableJunoLandscapeMaterialExpressions_Label": "Juno景観素材の表現式を有効化",
+    "JunoLandscapeContextSectionName": "Juno風景",
+    "MultipleValues": "複数の値",
+    "NoComponent": "なし"
   },
   "JunoLandscape": {
     "Juno": "Juno"

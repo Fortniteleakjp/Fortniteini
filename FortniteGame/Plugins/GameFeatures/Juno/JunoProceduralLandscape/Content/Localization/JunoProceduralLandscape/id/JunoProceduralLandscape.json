@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Material Kustom Lanskap Juno"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "Aktifkan Ekspresi Material Lanskap Juno"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "Nonaktifkan Lanskap Juno",
+    "EnableJunoLandscape_Label": "Aktifkan Lanskap Juno",
+    "EnableJunoLandscapeMaterialExpressions_Label": "Aktifkan Ekspresi Material Lanskap Juno",
+    "JunoLandscapeContextSectionName": "Lanskap Juno",
+    "MultipleValues": "Banyak Nilai",
+    "NoComponent": "Tidak Ada"
   },
   "JunoLandscape": {
     "Juno": "Juno"

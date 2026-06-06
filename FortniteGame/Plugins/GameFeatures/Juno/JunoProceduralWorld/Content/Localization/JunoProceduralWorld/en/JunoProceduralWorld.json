@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Actors",
-    "MultipleValues": "Multiple Values",
-    "NoComponent": "None",
     "RefreshPreviewISMCsTooltip": "Re-applies material overrides from current settings to the editor preview ISMCs of the selected Instanced Actor Managers.",
     "ConvertSelectedIAsToActorsText": "[Juno] Convert {0} instances back to actors.",
     "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors",
     "RefreshPreviewISMCsText": "[Juno] Refresh {0} Preview Materials"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Edit JunoTerrainLandscapeSpline Property",
+    "EditSplinePointsMetadata": "Edit spline point metadata",
+    "EndFalloffFraction": "End Falloff Fraction",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Extra Details",
+    "HalfWidth": "Half Width",
+    "LayerSideFalloffScale": "Layer Side Falloff Scale",
+    "LayerWidthScale": "Layer Width Scale",
+    "Multiple": "Multiple",
+    "SideFalloffWidth": "Side Falloff Width",
+    "StartFalloffFraction": "Start Falloff Fraction"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Unable to get Point data from input",
     "UnableToGetSpatialData": "Unable to get Spatial data from input"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Data could not be retrieved for height texture, initialization failed.",
-    "TextureInitFailed": "Data could not be retrieved for this texture, initialization failed.",
-    "FailExtractGrassTypeOverrides": "Failed to extract grass type overrides.",
-    "MissingGrassName": "Grass type name was missing, data could not be labeled. Make sure all GrassTypes in your landscape material have an asset associated.",
-    "LandscapeComponentLost": "Reference to one or more landscape components lost, grass maps will not be generated."
+    "FailExtractGrassTypeOverrides": "Failed to extract grass type overrides."
   }
 }

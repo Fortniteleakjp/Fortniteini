@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Espulso per inattività. La connessione all'host è stata interrotta perché sei rimasto inattivo per troppo tempo.",
-    "SpawnedWhenPermanentlyDead": "Questo cliente è fuori dalle nostre vite."
+    "SpawnedWhenPermanentlyDead": "Questo cliente è fuori dalle nostre vite.",
+    "ArbitratedWorldOwnerBannedUser": "Sei stato espulso da questo mondo. Scegli un altro mondo a cui unirti."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Entra in costruzione guidata"

@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Вы исключены за бездействие. Сервер прервал соединение, потому что вы бездействовали слишком долго.",
-    "SpawnedWhenPermanentlyDead": "У этого клиента не осталось жизней."
+    "SpawnedWhenPermanentlyDead": "У этого клиента не осталось жизней.",
+    "ArbitratedWorldOwnerBannedUser": "Вам запретили посещать этот мир. Выберите другой мир, который вы хотели бы посетить."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "В режим помощи со строительством"

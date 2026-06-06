@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "ベース",
     "Drums": "ドラム",
+    "SettingsGroupProVocals": "Festival(カラオケ)",
+    "SettingsGroupProDrums": "Festival(プロドラム)",
+    "SettingsGroupProLeadProBass": "Festival (プロリード、プロベース)",
     "ProVocals": "カラオケ",
     "Lead": "リード",
     "ProBass": "プロベース",

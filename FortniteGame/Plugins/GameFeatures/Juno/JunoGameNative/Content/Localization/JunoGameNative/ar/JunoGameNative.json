@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "تم الاستبعاد لعدم النشاط. تم فقد اتصالك بالمضيف لعدم نشاطك لفترة طويلة جدًا.",
-    "SpawnedWhenPermanentlyDead": "نفدت الأرواح في برنامج اللعبة."
+    "SpawnedWhenPermanentlyDead": "نفدت الأرواح في برنامج اللعبة.",
+    "ArbitratedWorldOwnerBannedUser": "لقد تم حظرك من هذا العالم. يُرجى اختيار عالم آخر للانضمام إليه."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "دخول البناء الموجه"

@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Aktörler",
-    "MultipleValues": "Çoklu Değerler",
-    "NoComponent": "Yok",
     "RefreshPreviewISMCsTooltip": "Seçili Örneklenmiş Aktör Yöneticileri'nin editör ön izleme ISMC'lerine, mevcut ayarlardaki malzeme geçersiz kılmalarını yeniden uygular.",
     "ConvertSelectedIAsToActorsText": "[Juno] {0} örneği tekrar aktörlere dönüştür.",
     "ConvertSelectedActorsToIAsText": "[Juno] {0} Öğesini Ölçekli Aktörlere dönüştür",
     "RefreshPreviewISMCsText": "[Juno] Yenile {0} Malzeme Önizlemesi"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSpline Ayarını Düzenle",
+    "EditSplinePointsMetadata": "Eğri noktası meta verilerini düzenle",
+    "EndFalloffFraction": "Son Azalma Oranı",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "İlave Detaylar",
+    "HalfWidth": "Yarım Genişlik",
+    "LayerSideFalloffScale": "Katman Yanı Azalma Ölçeği",
+    "LayerWidthScale": "Katman Genişliği Ölçeği",
+    "Multiple": "Birden Fazla",
+    "SideFalloffWidth": "Yan Azalma Genişliği",
+    "StartFalloffFraction": "Başlangıç Azalma Oranı"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Bulunan aktör yolunun özellikleri '{0}', bulunan satır adı '{1}' ve/veya temsili '{2}' başka özellik adlarıyla çakışıyor",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Girdiden Uzamsal Nokta verisi alınamıyor.",
     "UnableToGetSpatialData": "Girdiden Uzamsal veri alınamıyor."
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Yükseklik dokusu verisi alınamadı, başlatma başarısız oldu.",
-    "TextureInitFailed": "Bu dokunun verisi alınamadı, başlatma başarısız oldu.",
-    "FailExtractGrassTypeOverrides": "Çimen türü geçersiz kılmaları alınamadı.",
-    "MissingGrassName": "Çimen türü ismi eksikti, veri etiketlenemedi. Arazi malzemelerindeki tüm çim türlerinin bir öğeyle ilişkilendirildiğinden emin ol.",
-    "LandscapeComponentLost": "Bir veya daha fazla manzara bileşeni kaybolduğunda çimen haritaları oluşturulmayacaktır."
+    "FailExtractGrassTypeOverrides": "Çimen türü geçersiz kılmaları alınamadı."
   }
 }

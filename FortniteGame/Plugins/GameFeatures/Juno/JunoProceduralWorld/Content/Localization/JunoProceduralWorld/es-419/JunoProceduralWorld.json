@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Actores",
-    "MultipleValues": "Valores múltiples",
-    "NoComponent": "Ninguno",
     "RefreshPreviewISMCsTooltip": "Vuelve a aplicar las anulaciones de material de los ajustes actuales a los ISMC de vista previa del editor de los administradores de actores mencionados seleccionados.",
     "ConvertSelectedIAsToActorsText": "[Juno] Convierte {0} instancias de vuelta en actores.",
     "ConvertSelectedActorsToIAsText": "[Juno] Convertir {0} en actores mencionados",
     "RefreshPreviewISMCsText": "[Juno] Actualizar {0} materiales de previsualización"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Editar propiedad JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Editar metadatos de punto de spline",
+    "EndFalloffFraction": "Fracción de disminución final",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Detalles adicionales",
+    "HalfWidth": "Mitad de ancho",
+    "LayerSideFalloffScale": "Escala de disminución lateral de capa",
+    "LayerWidthScale": "Escala de ancho de capa",
+    "Multiple": "Múltiple",
+    "SideFalloffWidth": "Ancho de disminución lateral",
+    "StartFalloffFraction": "Fracción de disminución inicial"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Atributos para la ruta de actor resuelta '{0}', nombre de fila resuelto '{1}' y/o representación '{2}' interfieren con otros nombres de atributos",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "No se pueden obtener datos de puntos de la entrada",
     "UnableToGetSpatialData": "No se pueden obtener datos espaciales de la entrada"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "No se pudieron recuperar los datos de la textura de altura. No se pudo inicializar.",
-    "TextureInitFailed": "No se pudieron recuperar los datos de esta textura. No se pudo inicializar.",
-    "FailExtractGrassTypeOverrides": "Error al extraer las anulaciones de tipo de césped.",
-    "MissingGrassName": "Falta el nombre del tipo de césped, no pudieron etiquetarse los datos. Asegúrate de que todos los tipos de césped del material de paisaje tengan un recurso asociado.",
-    "LandscapeComponentLost": "Consulta uno o más componentes de paisaje perdidos. No se generarán mapas de césped."
+    "FailExtractGrassTypeOverrides": "Error al extraer las anulaciones de tipo de césped."
   }
 }

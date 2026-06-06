@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 está seleccionado, pero se requiere macOS 15 para permitir SM6",
     "MetalMissingTargetError": "No hay un RHI objetivo establecido para este proyecto, por lo que se usará el SM5 predeterminado."
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "IU común InputActionDataTable",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Mesa de datos"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (estructura de filas: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "IU común InputActionDataTable",
-    "DataTable_MissingRowStructTitle": "¿Quieres continuar?",
     "AssetTypeActions_ConversationDatabase": "Banco de conversación",
     "NamelessConversationDiff": "Diff de conversación",
-    "DataTable_MissingRowStructMsg": "Las siguientes hojas de datos carecen de estructura de filas y no se pueden editar.\n\n{0}\n\n¿Quieres abrir estas hojas de datos?",
     "Conversation Diff": "{0} - Diff de conversación"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "No hay suficiente espacio disponible en el disco. Libera espacio en el disco e inténtalo de nuevo.",
     "BuildPatchInstallShortError_ApplicationError": "No se ha podido iniciar el instalador del parche. Ponte en contacto con asistencia al jugador.",
     "BuildPatchInstallShortError_ApplicationClosing": "La aplicación se está cerrando.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "No se ha podido ejecutar la acción de desinstalación de la aplicación. Ponte en contacto con asistencia al jugador.",
     "MissingStageDirectory": "No se ha podido crear el siguiente directorio.\n{0}",
     "MissingInstallDirectory": "No se ha podido crear el directorio de instalación.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "La instalación está corrupta. Ponte en contacto con asistencia al jugador.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "Se ha completado la operación con éxito.",
     "InstallDirectoryDiskSpace": "No hay suficiente espacio en {Location}\nSe necesitan {RequiredBytes}.\nDisponible: {AvailableBytes}.\nNecesitas {SpaceAdditional} más para realizar la instalación.",
     "InstallDirectoryDiskSpaceDevice": "No hay suficiente espacio en tu dispositivo.\nSe necesitan {RequiredBytes}.\nDisponible: {AvailableBytes}.\nNecesitas {SpaceAdditional} más para realizar la instalación.",
+    "MissingEncryptionKeyForNonPreload": "La instalación no ha podido continuar porque faltan los datos de descifrado necesarios. Ponte en contacto con asistencia al jugador.",
+    "InvalidEncryptionKeyForNonPreload": "La instalación no ha podido continuar porque los datos de descifrado necesarios no son válidos. Ponte en contacto con asistencia al jugador.",
+    "EmptyCloudDirectories": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
     "InvalidInstallTags": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
     "InvalidInstallToMemory": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
     "InvalidMemoryConstructionConfig": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
+    "VerifyOnlyActionMixed": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
     "MissingPrereqForPrereqOnlyInstall": "No se ha podido continuar con el proceso de instalación debido al problema de configuración de un prerrequisito. Ponte en contacto con asistencia al jugador.",
     "BuildPatchInstallShortError_UserCanceled": "Usuario cancelado."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Botón primario del ratón",
     "LeftParantheses": "Abrir paréntesis",
     "LeftShift": "Mayús izquierdo",
+    "Gesture_LongPress": "Pulsación prolongada",
     "MiddleMouseButton": "Botón central del ratón",
     "MixedReality_Left_Grip_Click": "Empuñadura (I) de Mixed Reality",
     "MixedReality_Left_Menu_Click": "Menú (I) de Mixed Reality",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Tocar gatillo (D) de Oculus Touch",
     "PageDown": "Avanzar página",
     "PageUp": "Retroceder página",
+    "Gesture_Pan": "Panorámica",
     "Pause": "Pausa",
     "Period": "Punto",
     "PageDownShort": "Av Pág",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam: Táctil 2",
     "Steam_Touch_3": "Steam: Táctil 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Pulsar",
     "ThumbMouseButton": "Botón del pulgar del ratón",
     "ThumbMouseButton2": "Botón del pulgar del ratón 2",
     "Tilt": "Inclinación",

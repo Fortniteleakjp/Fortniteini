@@ -1,0 +1,35 @@
+{
+  "": {
+    "028F4E2D4183A2A0C63EFE9F2B196870": "Mittelgroßer angetriebener Alternativ-Collider",
+    "C0516FE24DF340172325C99DF49E6CD4": "Mittelgroßer gesteuerter Alternativ-Collider"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "4752E2E04C2796BCE4227BB606882680": "Fahrrad-Rad 01",
+    "B682BF5342739E6BD5431D8802E44C84": "Mittelgroßer angetriebener Alternativ-Collider",
+    "88B3592A4D91B5D7AE5A0CB6CADE761D": "Mittelgroßer gesteuerter Alternativ-Collider",
+    "3F5C2D284250E52D371C0E8C86F56460": "Angetriebenes Fahrrad-Rad",
+    "43134D8B4A7C446287E0B8AC1F72D230": "SUPER-angetriebenes Fahrrad-Rad",
+    "30AE248E440B0363E1126AACB3771217": "Kleines SUPERKRAFT-Rad",
+    "EC255BD841DF99F685531CB847CBDD4D": "Lenkbares Fahrrad-Rad"
+  },
+  "Juno_UpdateItemData": {
+    "1214A27740ACC124F552DCA2556B2A04": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt.Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "460566E9489CA013E6C1569BE3E8470D": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt.Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "5BE4F8CF45F7EAD95C4017A7CFF336C5": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt.Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "6467159844DB5A52100E9E871DAEFA0B": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt.Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "8E9AA23546E8C0A7169DBE8A1AFC0FD4": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt. Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "B76F736246B712DDB276B7BB4F41E49F": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt.Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten.",
+    "CF8D2F8C47E4FBED5F0394B0A9D288D6": "Dreht sich, wenn es ein Signal vom Fahrersitz empfängt.Verbraucht pro Sekunde ein wenig Energie von einem Energieknoten."
+  },
+  "PP_CraftingFormulas_Wheels_v2": {
+    "E96D381C41307E11EA7B67BF26D9A01E": "Fahrrad-Rad 01",
+    "85954302492D3D67A7AE548F598C451B": "Fahrrad-Rad 02",
+    "93DE7F684E8C60AC671B44A41487E344": "Großes lenkbares Rad 2.0",
+    "E3E2FA0F43ABD041043FBABED1D167FB": "Mittleres lenkbares Rad 2.0",
+    "00AA02D34D5EAD572FB3FB974F5DE1D3": "Angetriebenes Fahrrad-Rad",
+    "83D3AFCE4606C1E8A5542D9A95827CC2": "SUPER-angetriebenes Fahrrad-Rad",
+    "E6FAB5384D1544FBB48EBEA697385B80": "Kleines lenkbares Rad 2.0",
+    "DA50EDC140640845B58E5DA33E1C8B0A": "Lenkbares Fahrrad-Rad",
+    "SuperPowerSmallWheel_DisplayName": "Kleines super-angetriebenes Rad"
+  }
+}

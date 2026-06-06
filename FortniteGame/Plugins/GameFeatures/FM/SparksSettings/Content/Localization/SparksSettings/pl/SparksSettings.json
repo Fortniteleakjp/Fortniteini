@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "Bas",
     "Drums": "Perkusja",
+    "SettingsGroupProVocals": "Festiwal (karaoke)",
+    "SettingsGroupProDrums": "Festival (Profesjonalna perkusja)",
+    "SettingsGroupProLeadProBass": "Festival (profesjonalny instrument prowadzący, profesjonalny bas)",
     "ProVocals": "Karaoke",
     "Lead": "Instrument prowadzący",
     "ProBass": "Profesjonalny bas",

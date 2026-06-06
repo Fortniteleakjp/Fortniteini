@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "Công Cụ Tùy Biến Vũ Khí",
     "324967EA4E1C1AC287BB93A8C83F114D": "foregrip, weaponmod, angledforegrip",
     "828BF7714BB5A101CDB95485C9D57045": "foregrip, weaponmod, vertforegrip"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20 hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30 hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60 hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "Mặc Định (30hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "Mặc Định (30hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "Tốc Độ Cập Nhật Vật Lý Mong Muốn",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "Tốc Độ Cập Nhật Mong Muốn",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "Tốc độ cập nhật cơ chế vật lý mong muốn Của máy khách/máy chủ",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "Tốc độ cập nhật Mong Muốn của máy chủ"
   }
 }

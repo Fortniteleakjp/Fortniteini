@@ -13,6 +13,9 @@
   "ST_InstrumentNames": {
     "Bass": "الباس",
     "Drums": "الطبول",
+    "SettingsGroupProVocals": "Festival (كاريوكي)",
+    "SettingsGroupProDrums": "Festival (الطبول الاحترافية)",
+    "SettingsGroupProLeadProBass": "Festival (النغمات الرئيسية الاحترافية والباس الاحترافي)",
     "ProVocals": "الكاريوكي",
     "Lead": "النغمات الرئيسية",
     "ProBass": "الباس الاحترافي",

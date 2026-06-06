@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "오랫동안 움직임이 없어서 퇴장당했습니다. 호스트와의 연결이 끊겼습니다.",
-    "SpawnedWhenPermanentlyDead": "이 클라이언트는 남은 목숨이 없습니다."
+    "SpawnedWhenPermanentlyDead": "이 클라이언트는 남은 목숨이 없습니다.",
+    "ArbitratedWorldOwnerBannedUser": "이 세계에서 이용정지되었습니다. 다른 세계를 선택해 참여하세요."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "안내 빌드 입장"

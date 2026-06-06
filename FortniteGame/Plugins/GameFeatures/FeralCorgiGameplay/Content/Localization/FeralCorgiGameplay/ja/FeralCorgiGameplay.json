@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "武器MOD",
     "324967EA4E1C1AC287BB93A8C83F114D": "フォアグリップ、武器MOD、アングルフォアグリップ",
     "828BF7714BB5A101CDB95485C9D57045": "フォアグリップ、武器MOD、バーティカルフォアグリップ"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120Hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "デフォルト(30hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "デフォルト(30hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "期待する物理演算のティックレート",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "期待するティックレート",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "クライアント/サーバーの期待する物理演算ティックレート",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "期待するサーバーのティックレート"
   }
 }

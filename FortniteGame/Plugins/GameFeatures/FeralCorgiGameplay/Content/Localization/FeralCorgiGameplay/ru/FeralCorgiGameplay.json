@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "Модификация оружия",
     "324967EA4E1C1AC287BB93A8C83F114D": "рукоять, модификация оружия, угловая рукоять",
     "828BF7714BB5A101CDB95485C9D57045": "рукоять, модификация оружия, вертикальная рукоять"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 Гц",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 Гц",
+    "EFortServerTickRate.Twenty.DisplayName": "20 Гц",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 Гц",
+    "EFortServerTickRate.Thirty.DisplayName": "30 Гц",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 Гц",
+    "EFortServerTickRate.Sixty.DisplayName": "60 Гц",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "По умолчанию (30 Гц)",
+    "EFortServerTickRate.UseDefault.DisplayName": "По умолчанию (30 Гц)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "Требуемая тактовая частота физики",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "Требуемая тактовая частота",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "Требуемая физическая тактовая частота клиента/сервера",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "Требуемая тактовая частота сервера"
   }
 }

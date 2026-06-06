@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 dipilih, tetapi Mac membutuhkan OS 15 untuk mendukung SM6",
     "MetalMissingTargetError": "Tidak ada RHI Target yang diatur untuk proyek ini, diatur secara default ke SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "InputActionDataTable UI Biasa",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Tabel Data"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Struktur Baris: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "InputActionDataTable UI Biasa",
-    "DataTable_MissingRowStructTitle": "Lanjut?",
     "AssetTypeActions_ConversationDatabase": "Bank Percakapan",
     "NamelessConversationDiff": "Perbedaan Percakapan",
-    "DataTable_MissingRowStructMsg": "Tabel Data berikut tidak memiliki struktur baris dan tidak akan bisa diedit.\n\n{0}\n\nApakah kamu ingin membuka tabel data ini?",
     "Conversation Diff": "{0} - Perbedaan Percakapan"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Ruang disk yang tersedia tidak cukup. Kosongkan sebagian ruang disk dan coba lagi.",
     "BuildPatchInstallShortError_ApplicationError": "Layanan patching tidak bisa dimulai. Silakan hubungi bantuan.",
     "BuildPatchInstallShortError_ApplicationClosing": "Aplikasi ditutup.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "Penghapusan instalasi aplikasi gagal dijalankan. Silakan hubungi bantuan.",
     "MissingStageDirectory": "Tidak dapat membuat direktori berikut.\n{0}",
     "MissingInstallDirectory": "Tidak dapat membuat direktori penginstalan.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "Instalasi rusak. Silakan hubungi bantuan.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "Operasi berhasil!",
     "InstallDirectoryDiskSpace": "Ruang yang diperlukan pada {Location}\n{RequiredBytes} tidak cukup.\nTersedia {AvailableBytes}.\nKamu butuh {SpaceAdditional} lagi untuk melakukan penginstalan ini.",
     "InstallDirectoryDiskSpaceDevice": "Ruang penyimpanan pada perangkatmu tidak cukup.\nButuh {RequiredBytes}.\nTersedia {AvailableBytes}.\nKamu butuh {SpaceAdditional} lagi untuk melakukan penginstalan ini.",
+    "MissingEncryptionKeyForNonPreload": "Penginstalan ini tidak dapat dilanjutkan karena data dekripsi yang diperlukan tidak ada. Silakan hubungi bantuan.",
+    "InvalidEncryptionKeyForNonPreload": "Penginstalan ini tidak dapat dilanjutkan karena data dekripsi yang diperlukan tidak valid. Silakan hubungi bantuan.",
+    "EmptyCloudDirectories": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
     "InvalidInstallTags": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
     "InvalidInstallToMemory": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
     "InvalidMemoryConstructionConfig": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
+    "VerifyOnlyActionMixed": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
     "MissingPrereqForPrereqOnlyInstall": "Penginstalan ini tidak dapat dilanjutkan karena adanya masalah konfigurasi prasyarat. Silakan hubungi bantuan.",
     "BuildPatchInstallShortError_UserCanceled": "Pengguna membatalkan."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Tombol Mouse Kiri",
     "LeftParantheses": "Tanda Kurung Kiri",
     "LeftShift": "Shift Kiri",
+    "Gesture_LongPress": "Tekan Lama",
     "MiddleMouseButton": "Tombol Mouse Tengah",
     "MixedReality_Left_Grip_Click": "Grip Realitas Campuran (L)",
     "MixedReality_Left_Menu_Click": "Menu Realitas Campuran (L)",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Pemicu Oculus Touch (R) Sentuh",
     "PageDown": "Page Down",
     "PageUp": "Page Up",
+    "Gesture_Pan": "Geser Peta",
     "Pause": "Jeda",
     "Period": "Titik",
     "PageDownShort": "PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Sentuhan Steam 2",
     "Steam_Touch_3": "Sentuhan Steam 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Ketuk",
     "ThumbMouseButton": "Tombol Mouse Jempol",
     "ThumbMouseButton2": "Tombol Mouse Jempol 2",
     "Tilt": "Tilt",

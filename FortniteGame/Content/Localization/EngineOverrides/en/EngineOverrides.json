@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 is selected but Mac requires OS 15 to support SM6",
     "MetalMissingTargetError": "No Targeted RHI is set for this project, defaulting to SM5"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "Common UI InputActionDataTable",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Data Table"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Row Structure: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "Common UI InputActionDataTable",
-    "DataTable_MissingRowStructTitle": "Continue?",
     "AssetTypeActions_ConversationDatabase": "Conversation Bank",
     "NamelessConversationDiff": "Conversation Diff",
-    "DataTable_MissingRowStructMsg": "The following Data Tables are missing their row structure and will not be editable.\n\n{0}\n\nDo you want to open these data tables?",
     "Conversation Diff": "{0} - Conversation Diff"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Not enough disk space available. Please free up some disk space and try again.",
     "BuildPatchInstallShortError_ApplicationError": "Patching service could not start. Please contact support.",
     "BuildPatchInstallShortError_ApplicationClosing": "The application is closing.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "The application's uninstall action has failed to execute. Please contact support.",
     "MissingStageDirectory": "The following directory could not be created.\n{0}",
     "MissingInstallDirectory": "The installation directory could not be created.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "The installation is corrupt. Please contact support.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "The operation was successful.",
     "InstallDirectoryDiskSpace": "There is not enough space at {Location}\n{RequiredBytes} is required.\n{AvailableBytes} is available.\nYou need an additional {SpaceAdditional} to perform the installation.",
     "InstallDirectoryDiskSpaceDevice": "There is not enough space on your device.\n{RequiredBytes} is required.\n{AvailableBytes} is available.\nYou need an additional {SpaceAdditional} to perform the installation.",
+    "MissingEncryptionKeyForNonPreload": "This installation could not continue as the required decryption data is missing. Please contact support.",
+    "InvalidEncryptionKeyForNonPreload": "This installation could not continue as the required decryption data is not valid. Please contact support.",
+    "EmptyCloudDirectories": "This installation could not continue due to a configuration issue. Please contact support.",
     "InvalidInstallTags": "This installation could not continue due to a configuration issue. Please contact support.",
     "InvalidInstallToMemory": "This installation could not continue due to a configuration issue. Please contact support.",
     "InvalidMemoryConstructionConfig": "This installation could not continue due to a configuration issue. Please contact support.",
+    "VerifyOnlyActionMixed": "This installation could not continue due to a configuration issue. Please contact support.",
     "MissingPrereqForPrereqOnlyInstall": "This installation could not continue due to a prerequisite configuration issue. Please contact support.",
     "BuildPatchInstallShortError_UserCanceled": "User cancelled."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Left Mouse Button",
     "LeftParantheses": "Left Parantheses",
     "LeftShift": "Left Shift",
+    "Gesture_LongPress": "Long Press",
     "MiddleMouseButton": "Middle Mouse Button",
     "MixedReality_Left_Grip_Click": "Mixed Reality (L) Grip",
     "MixedReality_Left_Menu_Click": "Mixed Reality (L) Menu",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (R) Trigger Touch",
     "PageDown": "Page Down",
     "PageUp": "Page Up",
+    "Gesture_Pan": "Pan",
     "Pause": "Pause",
     "Period": "Period",
     "PageDownShort": "PgDn",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam Touch 2",
     "Steam_Touch_3": "Steam Touch 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Tap",
     "ThumbMouseButton": "Thumb Mouse Button",
     "ThumbMouseButton2": "Thumb Mouse Button 2",
     "Tilt": "Tilt",

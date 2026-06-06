@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "'{0}'",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "액터",
-    "MultipleValues": "다중 값",
-    "NoComponent": "없음",
     "RefreshPreviewISMCsTooltip": "현재 설정의 머티리얼 오버라이드를 선택한 인스턴스화 액터 매니저의 에디터 프리뷰 ISMC에 다시 적용합니다.",
     "ConvertSelectedIAsToActorsText": "[Juno] 인스턴스 {0}개를 액터로 다시 변환합니다.",
     "ConvertSelectedActorsToIAsText": "[Juno] {0}을(를) 인스턴스 액터로 변환",
     "RefreshPreviewISMCsText": "[Juno] 프리뷰 머티리얼 {0} 새로고침"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSpline 속성 편집",
+    "EditSplinePointsMetadata": "스플라인 포인트 메타데이터 편집",
+    "EndFalloffFraction": "감쇠 종료 비율",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "추가 세부 정보",
+    "HalfWidth": "절반 너비",
+    "LayerSideFalloffScale": "레이어 측면 감쇠 스케일",
+    "LayerWidthScale": "레이어 너비 스케일",
+    "Multiple": "여러 개",
+    "SideFalloffWidth": "측면 감쇠 너비",
+    "StartFalloffFraction": "감쇠 시작 비율"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "확인된 액터 경로 '{0}'의 속성, 확인된 열 이름 '{1}' 및/또는 다른 속성 이름과 충돌하는 대표 '{2}'",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "입력에서 점수 데이터를 받을 수 없습니다",
     "UnableToGetSpatialData": "입력에서 공간 데이터를 받을 수 없습니다"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "높이 텍스처 데이터를 불러올 수 없어 초기화에 실패했습니다.",
-    "TextureInitFailed": "이 텍스처 데이터를 불러올 수 없어 초기화에 실패했습니다.",
-    "FailExtractGrassTypeOverrides": "잔디 유형 오버라이드를 추출하지 못했습니다.",
-    "MissingGrassName": "잔디 유형 이름이 누락되어 데이터에 라벨을 붙일 수 없습니다. 랜드스케이프 머티리얼의 모든 잔디 유형에 에셋이 연결되어 있는지 확인하세요.",
-    "LandscapeComponentLost": "하나 이상의 지형 컴포넌트에 대한 참조가 누락되어 잔디 맵을 생성할 수 없습니다."
+    "FailExtractGrassTypeOverrides": "잔디 유형 오버라이드를 추출하지 못했습니다."
   }
 }

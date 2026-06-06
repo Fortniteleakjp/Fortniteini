@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "Weapon Mod",
     "324967EA4E1C1AC287BB93A8C83F114D": "foregrip, weaponmod, angledforegrip",
     "828BF7714BB5A101CDB95485C9D57045": "foregrip, weaponmod, vertforegrip"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20 hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30 hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60 hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "Default (30hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "Default (30hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "Desired Physics Tick Rate",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "Desired Tick Rate",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "The Desired Physics tick rate of the client/server",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "The Desired tick rate of the server"
   }
 }

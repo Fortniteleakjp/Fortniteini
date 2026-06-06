@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Объекты",
-    "MultipleValues": "Несколько значений",
-    "NoComponent": "Нет",
     "RefreshPreviewISMCsTooltip": "Повторно применяет переопределения материалов из текущих настроек к предпросмотру ISMC в редакторе для выбранных диспетчеров разбитых на разделы экземпляров акторов.",
     "ConvertSelectedIAsToActorsText": "[Juno] Превратить {0} экз. обратно в акторов.",
     "ConvertSelectedActorsToIAsText": "[Juno] Превратить {0} в подгружаемые объекты",
     "RefreshPreviewISMCsText": "[Juno] Обновить материалы предпросмотра {0}"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Редактировать свойство JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Редактировать метаданные точки сплайна",
+    "EndFalloffFraction": "Доля конца смягчения",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Подробнее",
+    "HalfWidth": "Половинная ширина",
+    "LayerSideFalloffScale": "Масштаб смягчения по краю слоя",
+    "LayerWidthScale": "Масштаб ширины слоя",
+    "Multiple": "Несколько",
+    "SideFalloffWidth": "Ширина смягчения по краю",
+    "StartFalloffFraction": "Доля начала смягчения"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Атрибуты готового пути актора «{0}», имя готового пути «{1}» и/или представление «{2}» конфликтуют с другими именами атрибутов",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Не удалось получить точечные данные от элемента ввода",
     "UnableToGetSpatialData": "Не удалось получить пространственные данные от элемента ввода"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Ошибка инициализации: невозможно получить данные для текстуры высоты.",
-    "TextureInitFailed": "Ошибка инициализации: невозможно получить данные для данной текстуры.",
-    "FailExtractGrassTypeOverrides": "Не удалось извлечь приоритеты типа травы.",
-    "MissingGrassName": "Не указано название типа травы, невозможно отметить данные. Убедитесь, что в вашем материале ландшафта для всех типов травы назначен ресурс.",
-    "LandscapeComponentLost": "Отсылка к одному или более компонентам ландшафта была потеряна, карты с травой не будут сгенерированы."
+    "FailExtractGrassTypeOverrides": "Не удалось извлечь приоритеты типа травы."
   }
 }

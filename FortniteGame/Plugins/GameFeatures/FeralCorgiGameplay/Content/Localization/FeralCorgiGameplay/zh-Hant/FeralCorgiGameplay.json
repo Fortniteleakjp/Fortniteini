@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "武器改裝",
     "324967EA4E1C1AC287BB93A8C83F114D": "前握把、武器改裝、角度前握把",
     "828BF7714BB5A101CDB95485C9D57045": "前握把、武器改裝、垂直前握把"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20 hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30 hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60 hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "預設 (30hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "預設 (30hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "理想物理更新率",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "理想更新率",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "客戶端/伺服器預期的物理更新率",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "伺服器的理想更新率"
   }
 }

@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "ของแต่งอาวุธ",
     "324967EA4E1C1AC287BB93A8C83F114D": "ด้ามจับ ของแต่งอาวุธ ด้ามจับปืนแบบทำมุม",
     "828BF7714BB5A101CDB95485C9D57045": "ด้ามจับ ของแต่งอาวุธ ด้ามจับปืนแนวตั้ง"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20 hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30 hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60 hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "ค่าเริ่มต้น (30Hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "ค่าเริ่มต้น (30Hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "อัตราถี่ในการคำนวณฟิสิกส์",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "อัตราการส่งข้อมูลที่ต้องการ",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "อัตราการประมวลผลทางฟิสิกส์ที่ต้องการของไคลเอนต์/เซิร์ฟเวอร์",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "อัตราการส่งข้อมูลของเซิร์ฟเวอร์ที่ต้องการ"
   }
 }

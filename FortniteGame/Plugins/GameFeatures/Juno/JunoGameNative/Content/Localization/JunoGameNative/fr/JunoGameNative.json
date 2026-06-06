@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Déconnexion pour cause d'absence. La connexion à l'hôte a été perdue à cause d'une trop longue durée d'inactivité.",
-    "SpawnedWhenPermanentlyDead": "Ce client est hors service."
+    "SpawnedWhenPermanentlyDead": "Ce client est hors service.",
+    "ArbitratedWorldOwnerBannedUser": "Vous avez été banni(e) de ce monde. Veuillez choisir un autre monde."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Commencer la construction guidée"

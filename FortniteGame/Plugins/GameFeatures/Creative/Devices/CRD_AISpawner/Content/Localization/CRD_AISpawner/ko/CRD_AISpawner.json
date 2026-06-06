@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "시퀀스에서는 길들이거나 탈 수 있는 NPC를 사용할 수 없습니다. 탑승 가능 혹은 길들일 수 있음을 false로 설정하거나 시퀀서 모디파이어를 제거하세요.",
     "B960D2C04399F88479AD648505B7D6FF": "추가 NPC 캐릭터 보정치",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "기본 AI 생성 장치",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "기본 AI 생성 장치 클래스, 다른 곳에서 직접 사용 불가능",
+    "4304459B4DC7A36E5D293191EA4A2B19": "기본 AI 생성 장치",
+    "B75E7DC749264CE581DEE6BA98BD334F": "기본 AI 생성 장치 클래스, 다른 곳에서 직접 사용 불가능",
     "9E9744D3405E545FE1BED882658E614C": "리타겟할 캐릭터 블루프린트 에셋이 없습니다!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "리타겟할 리타겟터 에셋이 없습니다!",
     "E48FFE554DF62BB14204249459CFA281": "야생동물 스켈레탈 메시의 캐릭터 블루프린트를 리타겟할 리타겟터가 없습니다.",
-    "038A358943E1DA393768418A630091E0": "끄기",
-    "4C1B8388435AC19888E85AA03B20640F": "끄기",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "끄기",
+    "A521461240CE088B5475E59B6D7906BA": "끄기",
     "ECF833FD4F55F3986302D5BC44F5F236": "NPC 캐릭터 정의",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "NPC 생성 장치",
     "9F9D969F42C631D33B38889AFE826051": "NPC 생성 장치",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "커스터마이징 가능한 옵션이 있는 NPC를 생성합니다.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "커스터마이징 가능한 옵션이 있는 NPC 캐릭터를 생성합니다.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "길들이기",
-    "9715818A494770CE4AC8BFA604B16B77": "켜기",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "켜기",
-    "19CB358841188B53AF27729674F2DB98": "{0}m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0}초"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "예",
+    "9134CFD84B97240E799723A73DBBD800": "예",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0}m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0}초"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "유효한 NPC 캐릭터 정의, Verse AI 비헤이비어 또는 캐릭터 아이템 정의를 지정해야 합니다.",
     "FactoryDisplayName": "NPC 캐릭터 생성 장치"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "NPC",
     "AssetDefinition_NPCCharacterDefinition": "NPC 캐릭터 정의"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "수량",
     "RemoveItem": "아이템 제거"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "캐릭터 크기를 조절하면 이동 애니메이션 품질이 저하되고 내비게이션 오류가 발생할 수 있습니다. 퍼블리싱 전에 철저히 테스트해야 합니다."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "라벨"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "무한 생성 허용",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "소멸",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "사용 안 할 시 AI 소멸",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "사용 안 할 시 AI 소멸",
     "Device_AISpawner_Base_C.Despawn.Description": "이 장치에 속하는 기존 AI를 모두 소멸합니다.",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "생성 반경을 표시할지 설정합니다.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "AI가 생성 타이머 초읽기로 생성되는지 이벤트로 생성되는지 설정합니다.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "생성 반경 표시",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "생성",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "생성 수",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "타이머로 생성",
+    "6F19C1DE4967DC35BDD369912183D5BE": "타이머로 생성",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "생성 반경",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "벽 관통 생성",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "생성 타이머",

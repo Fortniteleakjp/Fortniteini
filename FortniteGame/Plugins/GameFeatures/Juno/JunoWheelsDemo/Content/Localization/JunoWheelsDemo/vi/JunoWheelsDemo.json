@@ -19,10 +19,10 @@
   "Juno_UpdateItemData": {
     "E07BA5004580C1D7181D4B97C2EE64F2": "Xoay và rẽ khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
     "5D139B9549BF88A29F75F39FC0CF4ED3": "Xoay và rẽ khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một lượng Điện Năng vừa phải mỗi giây từ một Trung Tâm Điện Năng.",
-    "2311D4DC4B5257A9588B5CA049A04E77": "Xoay và rẽ khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một lượng Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
-    "72B3B2154A806CE2EB7679AE4A5C1885": "Xoay khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng",
-    "5A7429E14FB631A613A04DBD1BD74486": "Xoay khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một lượng Điện Năng vừa phải mỗi giây từ một Trung Tâm Điện Năng",
-    "40ABDE8D4776B407C523C784E862FA58": "Xoay khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một lượng điện năng mỗi giây từ một Trung Tâm Điện Năng"
+    "2311D4DC4B5257A9588B5CA049A04E77": "Xoay và rẽ khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một chút Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "72B3B2154A806CE2EB7679AE4A5C1885": "Xoay khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một ít Điện Năng mỗi giây từ một Trung Tâm Điện Năng.",
+    "5A7429E14FB631A613A04DBD1BD74486": "Xoay khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một lượng Điện Năng vừa phải mỗi giây từ một Trung Tâm Điện Năng.",
+    "40ABDE8D4776B407C523C784E862FA58": "Xoay khi nhận tín hiệu từ Ghế Lái. Tiêu thụ một chút điện năng mỗi giây từ một Trung Tâm Điện Năng."
   },
   "PP_CraftingFormulas_WheelPlacer": {
     "WheelPowerLarge_DisplayName": "Bánh Xe Trợ Lực Lớn",

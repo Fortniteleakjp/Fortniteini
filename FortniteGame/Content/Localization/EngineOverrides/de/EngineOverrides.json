@@ -6,13 +6,13 @@
     "MetalRHIOptionsError": "-sm6 wurde ausgewählt, aber für die Unterstützung von SM6 auf Mac wird OS 15 benötigt",
     "MetalMissingTargetError": "Für dieses Projekt ist kein Targeted RHI festgelegt, weshalb auf SM5 zurückgegriffen wird"
   },
+  "AssetDefinition": {
+    "AssetDefinition_CommonGenericInputActionDataTable": "Normale InputActionDataTable der Benutzeroberfläche",
+    "AssetDefinition_CommonGenericInputActionDataTableSubMenu": "Datentabelle"
+  },
   "AssetTypeActions": {
-    "DataTable_MissingRowStructListEntry": "* {0} (Zeilenstruktur: {1})",
-    "FCommonAssetTypeActions_GenericInputActionDataTable": "Normale InputActionDataTable der Benutzeroberfläche",
-    "DataTable_MissingRowStructTitle": "Fortfahren?",
     "AssetTypeActions_ConversationDatabase": "Gesprächsdatenbank",
     "NamelessConversationDiff": "Unters. Gespräch",
-    "DataTable_MissingRowStructMsg": "Den folgenden Datentabellen fehlt die Zeilenstruktur und sie können nicht bearbeitet werden.\n\n{0}\n\nMöchtest du diese Datentabellen öffnen?",
     "Conversation Diff": "{0} – Unters. Gespräch"
   },
   "BlueprintEditor": {
@@ -28,6 +28,7 @@
     "BuildPatchInstallShortError_OutOfDiskSpace": "Es ist nicht genug Speicherplatz verfügbar. Schaffe bitte etwas Platz und versuche es erneut.",
     "BuildPatchInstallShortError_ApplicationError": "Der Update-Dienst konnte nicht gestartet werden. Wende dich bitte an den Support.",
     "BuildPatchInstallShortError_ApplicationClosing": "Die Anwendung wird geschlossen.",
+    "BuildPatchInstallShortError_UninstallCustomActionError": "Die Deinstallation dieser Anwendung konnte nicht durchgeführt werden. Wende dich bitte an den Support.",
     "MissingStageDirectory": "Das folgende Verzeichnis konnte nicht erstellt werden.\n{0}",
     "MissingInstallDirectory": "Das Installationsverzeichnis konnte nicht erstellt werden.\n{0}",
     "BuildPatchInstallShortError_BuildCorrupt": "Die Installation ist beschädigt. Wende dich bitte an den Support.",
@@ -36,9 +37,13 @@
     "BuildPatchInstallShortError_NoError": "Der Vorgang war erfolgreich.",
     "InstallDirectoryDiskSpace": "Auf {Location} ist nicht genug Speicherplatz vorhanden.\nErforderlich: {RequiredBytes}\nVerfügbar: {AvailableBytes}\nDir fehlen noch {SpaceAdditional}, um die Installation durchzuführen.",
     "InstallDirectoryDiskSpaceDevice": "Auf deinem Gerät ist nicht genug Speicherplatz vorhanden.\nErforderlich: {RequiredBytes}\nVerfügbar: {AvailableBytes}\nDir fehlen noch {SpaceAdditional}, um die Installation durchzuführen.",
+    "MissingEncryptionKeyForNonPreload": "Diese Installation konnte nicht fortgesetzt werden, da die erforderlichen Entschlüsselungsdaten fehlen. Wende dich bitte an den Support.",
+    "InvalidEncryptionKeyForNonPreload": "Diese Installation konnte nicht fortgesetzt werden, da die erforderlichen Entschlüsselungsdaten nicht gültig sind. Wende dich bitte an den Support.",
+    "EmptyCloudDirectories": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
     "InvalidInstallTags": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
     "InvalidInstallToMemory": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
     "InvalidMemoryConstructionConfig": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
+    "VerifyOnlyActionMixed": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
     "MissingPrereqForPrereqOnlyInstall": "Die Installation konnte nicht fortgesetzt werden, da eine vorausgesetzte Konfiguration fehlt. Wende dich bitte an den Support.",
     "BuildPatchInstallShortError_UserCanceled": "Abbruch durch den Benutzer."
   },
@@ -284,6 +289,7 @@
     "LeftMouseButton": "Linke Maustaste",
     "LeftParantheses": "Linke Klammer",
     "LeftShift": "Linke Umschalttaste",
+    "Gesture_LongPress": "Lang drücken",
     "MiddleMouseButton": "Mittlere Maustaste",
     "MixedReality_Left_Grip_Click": "Mixed Reality (L) Griff",
     "MixedReality_Left_Menu_Click": "Mixed Reality (L) Menü",
@@ -391,6 +397,7 @@
     "OculusTouch_Right_Trigger_Touch": "Oculus Touch (R) Trigger (berühren)",
     "PageDown": "Bild runter",
     "PageUp": "Bild hoch",
+    "Gesture_Pan": "Schwenken",
     "Pause": "Pause",
     "Period": "Punkt",
     "PageDownShort": "BildAb",
@@ -422,6 +429,7 @@
     "Steam_Touch_2": "Steam Touch 2",
     "Steam_Touch_3": "Steam Touch 3",
     "Tab": "Tab",
+    "Gesture_Tap": "Tippen",
     "ThumbMouseButton": "Maus-Daumentaste",
     "ThumbMouseButton2": "Maus-Daumentaste 2",
     "Tilt": "Tilt",

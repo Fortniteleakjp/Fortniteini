@@ -3,7 +3,13 @@
     "AssetTypeActions_JunoLandscapeCutomMaterial": "Nguyên Liệu Tùy Chỉnh Cảnh Quan Juno"
   },
   "FJunoProceduralLandscapeEditorModule": {
-    "EnableJunoLandscapeMaterialExpressions_Label": "Bật Biểu Thức Vật Liệu Cảnh Quan Juno"
+    "MultipleValuesText": "<multiple values>",
+    "DisableJunoLandscape_Label": "Vô Hiệu Hóa Chế Độ Toàn Cảnh Juno",
+    "EnableJunoLandscape_Label": "Bật Chế Độ Toàn Cảnh Juno",
+    "EnableJunoLandscapeMaterialExpressions_Label": "Bật Biểu Thức Vật Liệu Cảnh Quan Juno",
+    "JunoLandscapeContextSectionName": "Chế Độ Toàn Cảnh Juno",
+    "MultipleValues": "Nhiều Giá Trị",
+    "NoComponent": "Không"
   },
   "JunoLandscape": {
     "Juno": "Juno"

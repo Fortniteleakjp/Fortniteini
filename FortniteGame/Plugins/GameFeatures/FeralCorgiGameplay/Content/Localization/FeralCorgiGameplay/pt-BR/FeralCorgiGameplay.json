@@ -186,5 +186,20 @@
     "CB865404468D43408945FDAF14BE6C2E": "Modificador de Arma",
     "324967EA4E1C1AC287BB93A8C83F114D": "empunhadura frontal, modificador de arma, empunhadura frontal angular",
     "828BF7714BB5A101CDB95485C9D57045": "empunhadura frontal, modificador de arma, empunhadura frontal vertical"
+  },
+  "UserOptionDefinition": {
+    "EFortPhysicsTickRate.OneTwenty.DisplayName": "120 Hz",
+    "EFortPhysicsTickRate.Twenty.DisplayName": "20 Hz",
+    "EFortServerTickRate.Twenty.DisplayName": "20 Hz",
+    "EFortPhysicsTickRate.Thirty.DisplayName": "30 Hz",
+    "EFortServerTickRate.Thirty.DisplayName": "30 Hz",
+    "EFortPhysicsTickRate.Sixty.DisplayName": "60 Hz",
+    "EFortServerTickRate.Sixty.DisplayName": "60 Hz",
+    "EFortPhysicsTickRate.UseDefault.DisplayName": "Padrão (30 Hz)",
+    "EFortServerTickRate.UseDefault.DisplayName": "Padrão (30 Hz)",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.DisplayName": "Taxa de Aplicação de Física Desejada",
+    "BP_ServerConfig_Component_C.DesiredTickRate.DisplayName": "Taxa de Atualização Desejada",
+    "BP_ServerConfig_Component_C.DesiredPhysicsTickRate.Description": "A taxa de atualização de física desejada do cliente/servidor",
+    "BP_ServerConfig_Component_C.DesiredTickRate.Description": "Taxa de atualização de estado de jogo do servidor."
   }
 }

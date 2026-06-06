@@ -2,13 +2,13 @@
   "": {
     "95D9DD6B4093D56DDFF389A2B7B8BF85": "A tameable or ridable NPC cannot be used in a sequence. Either set ridable and tameable to false or remove the sequencer modifier.",
     "B960D2C04399F88479AD648505B7D6FF": "Additional NPC Character Modifiers",
-    "8E59E0FC4362E68D0D4E0196607B8BC5": "Base AI Spawner",
-    "3D45B5D24A5C28CDE69B1AB70C00E6A0": "Base AI Spawner Class, Not Supposed to Be Directly Used in Other Places",
+    "4304459B4DC7A36E5D293191EA4A2B19": "Base AI Spawner",
+    "B75E7DC749264CE581DEE6BA98BD334F": "Base AI Spawner Class, Not Supposed to Be Directly Used in Other Places",
     "9E9744D3405E545FE1BED882658E614C": "Missing Character Blueprint asset to do retargeting!",
     "C5F16B9F42FDA77F352A3BB00C1B9C7A": "Missing Retargeter asset to do retargeting!",
     "E48FFE554DF62BB14204249459CFA281": "Missing Retargeter to retarget the Character Blueprint on the WIldlife Skeletal Mesh.",
-    "038A358943E1DA393768418A630091E0": "NO",
-    "4C1B8388435AC19888E85AA03B20640F": "NO",
+    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "NO",
+    "A521461240CE088B5475E59B6D7906BA": "NO",
     "ECF833FD4F55F3986302D5BC44F5F236": "NPC Character Definition",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "NPC Spawner",
     "9F9D969F42C631D33B38889AFE826051": "NPC Spawner",
@@ -20,16 +20,17 @@
     "1A6A10864573E886B224699E7445E1D4": "Spawns NPCs with customizable options.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Spawns non-playing characters with customizable options.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "TAME",
-    "9715818A494770CE4AC8BFA604B16B77": "YES",
-    "CA5F83074B4C19E2F3EA979029B4A5AD": "YES",
-    "19CB358841188B53AF27729674F2DB98": "{0} m",
-    "F76E0BA446F46F9D23C934A19F478E4E": "{0} s"
+    "90D0CF964D5800BF0CA0C39EB4F8F234": "YES",
+    "9134CFD84B97240E799723A73DBBD800": "YES",
+    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
+    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} s"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "A valid NPC Character Definition, Verse AI Behavior, or Character Item Definition must be specified.",
     "FactoryDisplayName": "NPC Character Spawner Device"
   },
   "AssetDefinition": {
+    "AssetDefinition_NPCCharacterDefinitionSubMenu": "NPC",
     "AssetDefinition_NPCCharacterDefinition": "NPC Character Definition"
   },
   "CharacterModifierInventoryDetails": {
@@ -38,13 +39,16 @@
     "ItemQuantity": "Quantity",
     "RemoveItem": "Remove Item"
   },
+  "CharacterModifierScaleDetails": {
+    "ScaleModifierDisclaimer": "Scaling characters may reduce movement animation quality and cause navigation errors. Test thoroughly before publishing."
+  },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "UserOptionDefinition": {
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Allow Infinite Spawn",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Despawn",
-    "1D3DEEB44A4312B023AC37A5BBB0BAB8": "Despawn AIs When Disabled",
+    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Despawn AIs When Disabled",
     "Device_AISpawner_Base_C.Despawn.Description": "Despawns any existing AIs belonging to this device",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Determines if we need to show the spawn radius or not.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Determines whether the AI is spawned on the Spawm Timer countdown, or spawn on events.",
@@ -74,7 +78,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Show Spawn Radius",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Spawn",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Spawn Count",
-    "85E42F4341FC2D33DE084A8EA4A65A44": "Spawn On Timer",
+    "6F19C1DE4967DC35BDD369912183D5BE": "Spawn On Timer",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Spawn Radius",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Spawn Through Walls",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Spawn Timer",

@@ -54,7 +54,8 @@
   },
   "NetworkErrors": {
     "KickedPlayerForInactivity": "Kick wegen Inaktivität. Die Verbindung zum Host wurde unterbrochen, weil du zu lange inaktiv warst.",
-    "SpawnedWhenPermanentlyDead": "Dieser Klient hat keine Leben mehr."
+    "SpawnedWhenPermanentlyDead": "Dieser Klient hat keine Leben mehr.",
+    "ArbitratedWorldOwnerBannedUser": "Du wurdest von dieser Welt gesperrt. Bitte wähle eine andere Welt, der du beitreten möchtest."
   },
   "UJunoGuidedBuildingInteractionComponent": {
     "GetInteractionText": "Angeleitetes Bauen starten"

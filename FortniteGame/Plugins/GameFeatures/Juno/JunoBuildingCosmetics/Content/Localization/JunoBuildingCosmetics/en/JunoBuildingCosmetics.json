@@ -1,6 +1,6 @@
 {
   "": {
-    "FBB77C4F4E5E1B0E214282AEE0784933": "*These decorations are interactive ",
+    "DEEA42A64A9DBD43050FD88218774894": "*These decorations are interactive ",
     "F92837C2400FECD4BC267B86E8D0B192": "1000",
     "48E48701450662286C34E4AD5088D6D2": "A-Z",
     "6F93E85E413E5A6654A3919A7A35FE7D": "A-Z",
@@ -23,7 +23,7 @@
     "906833E049258972292CE0A5B610ECC7": "Only works in",
     "4D0F3C734947548D3840DC9D937109ED": "Placeholder item Name",
     "0613299247F4A6754F56EC94F01995A5": "Required Resources",
-    "551653B94997B163BA379A85CFA2198D": "See Required Resources",
+    "B3DA6D2B40D1209AD8F4528BC900A216": "See Required Resources",
     "3E0E2B94425064CC1D7E44AF6FB69AEC": "These kits are only usable in LEGO® Fortnite experiences. You’ll need to gather the listed resources before you can complete builds in LEGO® Fortnite Odyssey Survival Mode. Builds in Brick Life Mode are constructed instantly without gathering resources.\r\n\r\nDecor items can be placed in your world and in up to 8 friends' worlds each week in LEGO® Fortnite Odyssey.",
     "96FA02484ABF262FF7860C9FA2AE2E67": "You have no <B>BUILDS</> archived.",
     "6EC460B04F71226A5E17208B5215CC71": "You have no <B>BUILDS</>.",
@@ -41,7 +41,7 @@
     "8E2A7BF14B045B408E578CBB02EF80E6": "{Count}|plural(one=Build,other=Builds)",
     "EC86A47F47B54459495AC0A6E1B4BD3B": "{Count}|plural(one=Decor Bundle,other=Decor Bundles)",
     "66351C034886C4923379C295236D1747": "{Count}|plural(one=Decor Item,other=Decor Items)",
-    "225D8D2B460BD617C337479ABDEB67A2": "{Name} *"
+    "F6F9A3724610131C8DE39BBC0CE4ADBB": "{Name} *"
   },
   "JunoBuildingCosmetics": {
     "PartQuantityAndName": "{0} {1}"

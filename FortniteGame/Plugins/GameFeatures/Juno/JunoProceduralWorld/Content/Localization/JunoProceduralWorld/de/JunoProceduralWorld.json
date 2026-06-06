@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "„{0}“",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Actors",
-    "MultipleValues": "Mehrfache Werte",
-    "NoComponent": "-",
     "RefreshPreviewISMCsTooltip": "Wendet die überschriebenen Materialien aus den aktuellen Einstellungen auf die Editor-Vorschau-ISCMs der gewählten instanzierten Actor-Manager an.",
     "ConvertSelectedIAsToActorsText": "[JUNO] {0} Instanzen zurück in Actors umwandeln.",
     "ConvertSelectedActorsToIAsText": "[JUNO] {0} umwandeln in Instanced Actors",
     "RefreshPreviewISMCsText": "[Juno] {0} Vorschaumaterialien aktualisieren"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSpline-Eigenschaft bearbeiten",
+    "EditSplinePointsMetadata": "Spline-Punkt-Metadaten bearbeiten",
+    "EndFalloffFraction": "Falloff-Endanteil",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Zusätzliche Details",
+    "HalfWidth": "Halbe Breite",
+    "LayerSideFalloffScale": "Seitliche Ebenen-Falloff-Skalierung",
+    "LayerWidthScale": "Ebenenbreite-Skalierung",
+    "Multiple": "Mehrere",
+    "SideFalloffWidth": "Seitliche Falloff-Breite",
+    "StartFalloffFraction": "Falloff-Startanteil"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Attribute für aufgelösten Actor-Pfad '{0}', aufgelöster Reihenname '{1}' und/oder Repräsentation '{2}' in Konflikt mit anderen Attributnamen",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Punktdaten konnten nicht von der Eingabe erhalten werden",
     "UnableToGetSpatialData": "Raumdaten konnten nicht von der Eingabe erhalten werden"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Daten für Höhentextur konnten nicht beschafft werden; Initialisierung fehlgeschlagen.",
-    "TextureInitFailed": "Daten für diese Textur konnten nicht beschafft werden; Initialisierung fehlgeschlagen.",
-    "FailExtractGrassTypeOverrides": "Fehler beim Extrahieren der Überschreibungen für Gras-Typen.",
-    "MissingGrassName": "Name des Gras-Typs fehlte, Daten konnten nicht beschriftet werden. Bitte stelle sicher, dass alle Gras-Typen in deinem Landschaftmaterial ein zugehöriges Asset haben.",
-    "LandscapeComponentLost": "Referenz zu einer oder mehreren Landschaftskomponenten verloren; Graskarten werden nicht generiert."
+    "FailExtractGrassTypeOverrides": "Fehler beim Extrahieren der Überschreibungen für Gras-Typen."
   }
 }

@@ -1,14 +1,23 @@
 {
   "FJunoProceduralWorldEditorModule": {
     "ActorNameSingular": "\"{0}\"",
-    "MultipleValuesText": "<multiple values>",
     "ActorNamePlural": "Aktor",
-    "MultipleValues": "Banyak Nilai",
-    "NoComponent": "Tidak Ada",
     "RefreshPreviewISMCsTooltip": "Menerapkan ulang penimpaan material dari pengaturan saat ini ke ISMC pratinjau editor dari Instanced Actor Managers yang dipilih.",
     "ConvertSelectedIAsToActorsText": "[Juno] Ubah {0} instance kembali menjadi aktor.",
     "ConvertSelectedActorsToIAsText": "[Juno] Ubah {0} menjadi Aktor dengan Instance",
     "RefreshPreviewISMCsText": "[Juno] Refresh {0} Material Pratinjau"
+  },
+  "FJunoTerrainLandscapeSplineMetadataDetails": {
+    "EditJunoTerrainLandscapeSplineProperty": "Edit Properti JunoTerrainLandscapeSpline",
+    "EditSplinePointsMetadata": "Edit metadata titik spline",
+    "EndFalloffFraction": "Akhiri Fraksi Penurunan",
+    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Detail Ekstra",
+    "HalfWidth": "Lebar Setengah",
+    "LayerSideFalloffScale": "Skala Penurunan Samping Lapisan",
+    "LayerWidthScale": "Skala Lebar Lapisan",
+    "Multiple": "Banyak",
+    "SideFalloffWidth": "Lebar Penurunan Samping",
+    "StartFalloffFraction": "Mulai Fraksi Penurunan"
   },
   "JunoProceduralWorld": {
     "AttributeClash": "Atribut untuk jalur aktor yang sudah terselesaikan '{0}', nama baris yang sudah terselesaikan '{1}', dan/atau representasi '{2}' bertentangan dengan nama atribut lain",
@@ -19,11 +28,8 @@
     "UnableToGetPointData": "Tidak bisa mendapatkan data Poin dari input",
     "UnableToGetSpatialData": "Tidak bisa mendapatkan data Ruang dari input"
   },
-  "PCGJunoGenerateLanscapeTexturesElement": {
+  "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Data untuk tekstur ketinggian tidak dapat diambil, inisialisasi gagal.",
-    "TextureInitFailed": "Data untuk tekstur ini tidak dapat diambil, inisialisasi gagal.",
-    "FailExtractGrassTypeOverrides": "Gagal mengekstrak penggantian tipe rumput.",
-    "MissingGrassName": "Nama tipe rumput hilang, data tidak bisa diberi label. Pastikan semua TipeRumput dalam material lanskap kamu memiliki aset terkait.",
-    "LandscapeComponentLost": "Merujuk ke satu komponen lanskap yang hilang atau lebih, peta rumput tidak akan dibuat."
+    "FailExtractGrassTypeOverrides": "Gagal mengekstrak penggantian tipe rumput."
   }
 }
