@@ -67,8 +67,8 @@
     "OtherPlayerActionFormat": "[P{PlayerNum}] {ActionName}"
   },
   "CommonDateTimeTextBlock": {
-    "DaysFormatText": "{Days} {Days}|plural(one=jour,other=jours)",
-    "HoursFormatText": "{Hours} {Hours}|plural(one=heure,other=heures)"
+    "DaysFormatText": "{Days} {Days}|plural(one=jour,other=jours,many=de jours)",
+    "HoursFormatText": "{Hours} {Hours}|plural(one=heure,other=heures,many=d'heures)"
   },
   "CommonUI": {
     "WidgetPaletteCategory": "Module d'interface commun"

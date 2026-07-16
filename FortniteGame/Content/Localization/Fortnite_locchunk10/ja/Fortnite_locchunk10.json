@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "ビッグバレルDX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "バイプレーン",
     "5B5236944941BFD7DE82B8B05FE11D94": "バイプレーン",
+    "DF56207843F6244003548CA79CFAA0F4": "バイプレーン",
     "AD9DF9A2455C274907AE29971466ADBA": "ブレイド",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "ブレイド",
     "7641CC0743ADBB2B2B04ED9883DD8214": "ブリング",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "カテゴリースター",
     "50143CB943E4575C29217F8DAEEF2147": "キャティ・コーナーのカードキー",
     "5C4799E749D383FD94F01B83DF9EB80F": "キャティ・コーナーのカードキー",
+    "EE922BB945F58FB9604A58A2D82D680C": "キャットウーマンの速射式サブマシンガン",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "キャットウーマン用にカスタマイズされた速射式サブマシンガン。装弾数を増やすために精巧に作られている。",
     "D76CF3D846DE65E8BE51F39F748DAA43": "セルリアン",
     "EB4A9CD946CF1CAD986993958FEC99A7": "チャプター2 - シーズン5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "チャプター2 - シーズン7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "デイリークエストをクリアしてV-Bucksや他の報酬を手に入れよう。デイリークエストは「拠点: ストームシールド防衛3」をクリアするとアンロックされる。",
     "CE03067340AD63B7738CAC992CE20CB5": "デイリークエストをクリアしてV-Bucksや他の報酬を手に入れよう。デイリークエストは「拠点: ストームシールド防衛3」をクリアするとアンロックされる。",
     "FCF5B17B42BD4A87A0987F90AF61722D": "デイリークエストをクリアしてV-Bucksや他の報酬を手に入れよう。デイリークエストは「拠点: ストームシールド防衛3」をクリアするとアンロックされる。",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "食べると多量のシールドが付与される。",
     "7AA52F414DEC5DE1253544A8114AE9C3": "果汁1％。体力とシールドを一定時間徐々に回復させる。",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "連続での<Emphasized>速射</>が可能な武器",
     "E692743845B2413EC831FAA2B8A8E453": "コピーキャット",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "強化型アサルトライフル  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "強化型コンパクトサブマシンガン",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "エンハンスドドラムショットガン",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "強化型ハープーンガン",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "強化型タクティカルショットガン",
     "0FF80D3B493ED5932CB798A6F2A843C9": "キャノンに乗る",
     "5E374F5643803C665E367F8C5614BF3B": "キャノンに入る",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "ガジェット ユーティリティアイテム C4",
     "4953295E4BF85A50A4ED41BA66030E84": "ガジェット ユーティリティアイテム M80 グレネード",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "ガジェット ユーティリティアイテム M80 グレネード",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "ガジェット ユーティリティアイテム 医療キット 回復",
     "A01271FC4F294D00F10ECA87F84259F2": "ガジェット ユーティリティアイテム 医療キット 回復",
     "B7770CBC47F6942773A406B933CC2544": "ガジェット ユーティリティアイテム 地雷 パープルマウス",
     "5D41F88F448EBB8B613BB98578F017F1": "ガジェット ユーティリティアイテム スティッキーグレネード",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "ゴールド",
     "F92ED6D24B56EACA844D27A473619CF5": "ゴールド",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "ゴールド通貨",
+    "7B0936A2458A998274ED3484DE00BCDA": "ゴールデントリュフ",
     "9E2FC1E149997E0DDD27D29737305724": "シーズンを通して、マッチで獲得できるXPがブーストされる。",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "今シーズン、フレンドとプレイした際にマッチで獲得できるXPがブーストされる。",
     "563CC660407AD849E23975A6D0785F51": "グラップラー",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "銃 遠隔 ピストル 大口径弾 セミオート",
     "58FD4E214238EAB848585780B75ADCAC": "銃 遠距離 ピストル 小口径 セミオート",
     "2D37E97E43724ABA040D5DB07530962F": "銃 遠隔 ピストル セミオート",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "銃 遠隔 ピストル セミオート",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "銃 遠隔 ピストル セミオート",
     "9EA74A7A4C987B0D9D927EB133619716": "銃 遠隔 ピストル セミオート",
     "BF1FF2F14FDC8846B569E7966543F17B": "銃 遠隔 ピストル セミオート",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "地雷",
     "FE97DA514506C8282ACCE59BFD3A562C": "地雷",
     "EB7FCBAD49E466CA687372AC079CF68B": "地雷+",
+    "31127BE846D8E9589A9E6BA80983EEB7": "敵を自分の元へひきつけて、ダメージを与える。",
     "F155363240FFAB3D9F5F4081A228A9D6": "パルスの方向",
     "7C0756AE4401F9E70C1340901973DD78": "パルストリガー",
     "818B645048CD1AF97592E2A6B4C35D12": "パルストリガー",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "ヘッズ・アップ",
-    "BodyRetrigger": "ちなみに、AIキャラクターに感情はありません。目を休めるのも大事ですよ！",
-    "Body": "この島ではAIキャラクターが使用されているため、未成年者の利用に適さない場合があります。AI NPCには感情がありません。休憩を取りながらプレイしましょう！",
-    "TitleRetrigger": "少し休みませんか？"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Verseをエクスポート",
     "ExportVerse": "Verseをエクスポート…",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers}ティア"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "時間内にリスポーンしなかったため、マッチから除外されました。"
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "アニメーション|輪郭線",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "{0} V-Bucksを購入しましょう。V-Bucksはフォートナイトで使えるゲーム内通貨です。",
+    "ExactAmountOfferDescriptionFormat": "{0} V-Bucksを入手して購入を完了しましょう。V-Bucksはフォートナイトで使えるゲーム内通貨です！",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法に基づく表示は、ゲームのメニューに表示される「法的事項」から、または下記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Epic品質管理",
     "FailedSubmit": "送信に失敗しました",
     "FailedToSubmit_UnknownReason": "不明な理由により送信に失敗しました",
+    "ConvAIReportError_Failed": "通報の送信に失敗しました。後でもう一度お試しください。",
     "FeaturedImage": "使用されている画像",
     "RoleText_FeaturedIsland": "おすすめの島",
     "CannotCompleteObjective": "ゲームの目標が完了できない",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "通報は送信されませんでした - プレイヤーは直近に通報されています。",
     "ReportNotSent_Error": "通報は送信されませんでした - エラーが発生しました。",
     "InvalidData": "通報は送信されませんでした - 無効なデータです。",
+    "ConvAIReportError_Timeout": "通報がタイムアウトしました。後でもう一度お試しください。",
     "ReportScreenTitle": "{0}を通報",
     "HomebaseMenus_RewardsNotAppearing": "獲得した報酬が表示されない",
     "MissingRewards": "獲得した報酬が表示されない",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "武器/トラップがクラフトできない",
     "UnableToDisassemble": "武器/トラップが分解できない",
     "UnableToDrop": "武器、トラップ、またはアイテムをドロップできない",
+    "ConvAIReportError_NoPC": "プレイヤーを特定できません。後でもう一度お試しください。",
     "UnableToPickup": "武器、トラップ、またはアイテムを拾えない",
     "UnableToReload": "リロードできない",
     "UnableToRepair": "修理が行えない",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "世界を救え: {ZoneType}({Difficulty})",
     "STWLobby": "世界を救え: {ZoneType}({Difficulty})",
     "FrontendDefault": "ゲームモード選択中…",
+    "LiveSpectating": "フレンドを観戦中",
     "PvELoading": "ゲームを開始",
     "Replay": "リプレイを視聴中",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "<Username>{0}</>からのフレンド申請",
     "FriendRequestFromUserDescriptionClamOne": "フレンドは、あなたのコミュニケーション設定に沿って、あなたのオンラインステータスを確認したり、一緒にパーティーを組んだり、チャットしたりできます。",
     "FriendToastInvalidPin": "無効なペアレンタル暗証番号",
+    "EpicPartyJoinabilityInviteOnly": "招待のみ",
     "Rival1v1InviteDetailsReceived": "<Username>{0}</>からの招待",
     "FriendIsNowOnlineInvitePartyDescription": "パーティーに招待する",
     "InviteToEpicParty": "Epicパーティーに招待",
     "PartyInvite": "パーティーに招待",
     "EpicPartyJoin": "Epicパーティーに参加",
     "PartyJoin": "パーティーに参加",
+    "EpicPartyJoinabilityUnableToChangeDetails": "参加設定が{0}です、また後ほどお試しください",
+    "EpicPartyJoinabilityJoinable": "参加可能",
     "PartyJoinedDetails": "<Username>{0}</>のパーティーに参加しました",
     "EpicPartyJoined": "Epicパーティーに参加しました",
     "EpicPartyJoinedDetails": "Epicパーティーに参加しました",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "<Username>{0}</>のEpicパーティーへの参加リクエストを送りました",
     "Party1v1InviteDetailsSent": "<Username>{0}</>に送信しました",
     "FriendImportToastRequestTitle": "フレンドリストを同期しましょう！",
+    "EpicPartyJoinabilityUnableToChangeTitle": "パーティーへの参加設定を変更できません",
     "FriendInviteUnknownError": "不明なエラー",
     "RequestToJoinParty_UnknownError": "不明なエラー",
     "RequestToJoinParty_UserNotFound": "ユーザーが見つかりません",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "おすすめから削除",
     "PushToTalkInteractionEnable": "プッシュトゥトークを有効化",
     "ShowFewerOptionsInteractionDisplayName": "より少ないオプション",
-    "LfgInvite_Name": "パーティーに招待",
     "JoinMatchViaPresenceInteractionDisplayName": "ゲームに参加する",
     "JoinAndSpectateFriendsInteractionDisplayName": "パーティーに参加して観戦する",
     "KickEpicPartyMember": "Epicパーティーからキック",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "ゼロビルド",
     "TournamentTileDate.DateFormat": "{MonthText}{DayNumber}日 {DayText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "マッチメイキングのリクエストの設定中に問題が発生しました。もう一度お試しください。"
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "ゲームのアップデートが適用されました。マッチメイキングの待機列に再度入ってください。",
     "Error.TeammateRankLevelTooLow": "チームメイトが、プレイするために必要な現在のランクレベルの最低条件を満たしていません。",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "現在選択されている島でマッチメイキングを行うことはできません。選択した体験の島の詳細ページで詳細をご確認ください。",
     "UnknownError": "予期せぬエラーです。もう一度試しますか？",
     "InvalidGameData": "サポートされていないマッチオプションが提供されました",
+    "MatchmakingTimeout": "時間内にマッチに参加できませんでした。もう一度お試しください。",
     "PostTravelTimeout": "マッチへの接続を完了できませんでした。もう一度試しましょう。",
     "PreTravelTimeout": "時間内にマッチに参加できませんでした。もう一度試しましょう。",
+    "ReadyUpError": "準備ができませんでした。もう一度お試しください。",
     "UnexpectedResponse": "マッチメイキングサービスから予期せぬ反応が返ってきました。問題が続くようであれば、{CheckStatusURL}をご確認ください。",
     "FailedToConnectToContentBeacon": "コンテンツビーコンサーバーへの接続中にトラブルが発生しました。もう一度お試しください。問題が続くようであれば、{CheckStatusURL}をご確認ください。",
     "AuthenticationIssue": "マッチメーカーへの接続中にトラブルが発生しました。もう一度お試しください。問題が続くようであれば、{CheckStatusURL}をご確認ください。",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "コンテンツビーコンクライアントの作成時に問題が発生しました。もう一度お試しください。",
     "FailedToFindEncryptionKey": "有効な暗号化キーが見つかりませんでした。",
     "FailedToGenerateDownloadableContent": "この体験のコンテンツ生成時に問題が発生しました。もう一度お試しください。問題が続くようであれば、{CheckStatusURL}をご確認ください。",
+    "MMSFailedParamGeneration": "マッチメイキングのリクエストの設定中に問題が発生しました。もう一度お試しください。問題が続くようであれば、{CheckStatusURL}をご確認ください。",
     "FailedToConnectToMMS": "マッチメイキングに問題が発生しています。もう一度お試しください。問題が続くようであれば、{CheckStatusURL}をご確認ください。",
     "TravelFailure": "マッチへうまく移動できませんでした。もう一度お試しください。問題が続くようであれば、{CheckStatusURL}をご確認ください。",
     "NetworkFailure": "マッチメイキング中にネットワークエラーが発生しました。もう一度お試しください。問題が続くようであれば、{CheckStatusURL}をご確認ください。",

@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "บิ๊กบาร์เรลพิเศษ",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "เครื่องบินปีกสองชั้น",
     "5B5236944941BFD7DE82B8B05FE11D94": "เครื่องบินปีกสองชั้น",
+    "DF56207843F6244003548CA79CFAA0F4": "เครื่องบินปีกสองชั้น",
     "AD9DF9A2455C274907AE29971466ADBA": "ดาบ",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "ดาบ",
     "7641CC0743ADBB2B2B04ED9883DD8214": "กระเป๋า",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "หมวดหมู่ดาว",
     "50143CB943E4575C29217F8DAEEF2147": "คีย์การ์ดแคตตี้คอร์นเนอร์",
     "5C4799E749D383FD94F01B83DF9EB80F": "คีย์การ์ดแคตตี้คอร์นเนอร์",
+    "EE922BB945F58FB9604A58A2D82D680C": "ปืนกลมือยิงรัวของแคทวูแมน",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "ปืนกลมือยิงรัวปรับแต่งของแคทวูแมน สร้างขึ้นอย่างพิถีพิถันเพื่อเพิ่มความจุของกระสุนให้มากขึ้น",
     "D76CF3D846DE65E8BE51F39F748DAA43": "เซรูลีน",
     "EB4A9CD946CF1CAD986993958FEC99A7": "บทที่ 2 ซีซั่น 5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "บทที่ 2 ซีซั่น 7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "ทำเควสต์ประจำวันให้สำเร็จเพื่อรับวีบั๊กและรางวัลอื่นๆ เควสต์ประจำวันจะปลดล็อกหลังป้องกันโฮมเบสด้วยโล่กันพายุ 3 สำเร็จ",
     "CE03067340AD63B7738CAC992CE20CB5": "ทำเควสต์ประจำวันให้สำเร็จเพื่อรับวีบั๊กและรางวัลอื่นๆ เควสต์ประจำวันจะปลดล็อกหลังป้องกันโฮมเบสด้วยโล่กันพายุ 3 สำเร็จ",
     "FCF5B17B42BD4A87A0987F90AF61722D": "ทำเควสต์ประจำวันให้สำเร็จเพื่อรับวีบั๊กและรางวัลอื่นๆ เควสต์ประจำวันจะปลดล็อกหลังป้องกันโฮมเบสด้วยโล่กันพายุ 3 สำเร็จ",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "กินเพื่อเพิ่มเกราะปริมาณมาก",
     "7AA52F414DEC5DE1253544A8114AE9C3": "มีน้ำผลไม้ 1%มอบพลังชีวิตและเกราะเมื่อเวลาผ่านไป",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "อาวุธ<Emphasized>ยิงเร็ว</>ต่อเนื่อง",
     "E692743845B2413EC831FAA2B8A8E453": "ตัวปลอม",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "ปืนไรเฟิลจู่โจมเสริมพลัง  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "ปืนกลมือกะทัดรัดเสริมพลัง",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "ปืนลูกซองดรัมเสริมพลัง",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "ปืนฉมวกเสริมพลัง",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "ปืนลูกซองยุทธวิธีเสริมพลัง",
     "0FF80D3B493ED5932CB798A6F2A843C9": "เข้าสู่ปืนใหญ่",
     "5E374F5643803C665E367F8C5614BF3B": "เข้าสู่ปืนใหญ่",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "อุปกรณ์ ไอเทมอเนกประสงค์ C4",
     "4953295E4BF85A50A4ED41BA66030E84": "อุปกรณ์เสริม ไอเทมอเนกประสงค์ M80 ระเบิดมือ",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "อุปกรณ์เสริม ไอเทมอเนกประสงค์ M80 ระเบิดมือ",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "อุปกรณ์ ไอเทมอเนกประสงค์ กล่องยา รักษา",
     "A01271FC4F294D00F10ECA87F84259F2": "อุปกรณ์ ไอเทมอเนกประสงค์ กล่องยา รักษา",
     "B7770CBC47F6942773A406B933CC2544": "อุปกรณ์ ไอเทมอเนกประสงค์ ระเบิดระยะใกล้ เมาส์สีม่วง",
     "5D41F88F448EBB8B613BB98578F017F1": "อุปกรณ์ ไอเทมอเนกประสงค์ ระเบิดเหนียวหนึบ",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "ทอง",
     "F92ED6D24B56EACA844D27A473619CF5": "ทอง",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "สกุลเงินทองคำ",
+    "7B0936A2458A998274ED3484DE00BCDA": "ทรัฟเฟิลทองคำ",
     "9E2FC1E149997E0DDD27D29737305724": "มอบบูสต์ตามจำนวน XP แมตช์ที่คุณได้รับจากทั้งซีซั่น",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "ให้บูสต์ตามจำนวน XP แมตช์ที่คุณได้รับเมื่อเล่นกับเพื่อนๆ ในซีซั่นนี้",
     "563CC660407AD849E23975A6D0785F51": "ปืนหัวดูด",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "ปืน ระยะไกล ปืนพก กระสุนหนัก กึ่งอัตโนมัติ",
     "58FD4E214238EAB848585780B75ADCAC": "ปืน ระยะไกล ปืนพก กระสุนเบา แบบกึ่งอัตโนมัติ",
     "2D37E97E43724ABA040D5DB07530962F": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
     "9EA74A7A4C987B0D9D927EB133619716": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
     "BF1FF2F14FDC8846B569E7966543F17B": "ปืน ระยะไกล ปืนพก กึ่งอัตโนมัติ",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "กับระเบิดจับระยะ",
     "FE97DA514506C8282ACCE59BFD3A562C": "กับระเบิดจับระยะ",
     "EB7FCBAD49E466CA687372AC079CF68B": "กับระเบิดจับระยะ +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "ดึงศัตรูเข้าหาคุณและสร้างความเสียหาย",
     "F155363240FFAB3D9F5F4081A228A9D6": "ทิศทางพัลส์",
     "7C0756AE4401F9E70C1340901973DD78": "ทริกเกอร์พัลส์",
     "818B645048CD1AF97592E2A6B4C35D12": "ทริกเกอร์พัลส์",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "ยกเหนือหัว",
-    "BodyRetrigger": "ขอเตือนอีกครั้งว่าตัวละคร AI เหล่านี้ไม่มีอารมณ์ความรู้สึก และอย่าเล่นนานจนลืมพักสายตาด้วยล่ะ!",
-    "Body": "เกาะนี้มีตัวละคร AI และอาจไม่เหมาะสำหรับผู้เล่นบางวัย ตัวละคร AI เหล่านี้ไม่มีอารมณ์ความรู้สึก อย่าลืมพักสักหน่อยล่ะ!",
-    "TitleRetrigger": "พักสักหน่อยไหม?"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "ส่งออก Verse",
     "ExportVerse": "ส่งออก Verse...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} ระดับขั้น"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "คุณออกจากแมตช์แล้ว เนื่องจากเกิดใหม่ไม่ทันเวลา"
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "แอนิเมชัน|เส้นโค้ง",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "ซื้อ {0} วีบั๊ก สกุลเงินใช้จ่ายในเกม Fortnite",
+    "ExactAmountOfferDescriptionFormat": "ทำการซื้อให้เสร็จสิ้นด้วยการรับ {0} วีบั๊ก สกุลเงินใช้จ่ายในเกม Fortnite!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "ถามตอบกับ Epic",
     "FailedSubmit": "ส่งไม่สำเร็จ",
     "FailedToSubmit_UnknownReason": "ส่งไม่สำเร็จเนื่องจากเหตุผลที่ไม่ทราบ",
+    "ConvAIReportError_Failed": "ส่งรายงานไม่สำเร็จ โปรดลองอีกครั้งในภายหลัง",
     "FeaturedImage": "รูปภาพหน้าปก",
     "RoleText_FeaturedIsland": "เกาะแนะนำ",
     "CannotCompleteObjective": "ไม่สามารถทำตามเป้าหมายในเกมให้สำเร็จได้",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "ไม่ได้ส่งรายงาน - ผู้เล่นเพิ่งถูกรายงาน",
     "ReportNotSent_Error": "ไม่ได้ส่งรายงาน - เกิดข้อผิดพลาด",
     "InvalidData": "ไม่ได้ส่งรายงาน - ข้อมูลไม่ถูกต้อง",
+    "ConvAIReportError_Timeout": "หมดเวลารายงาน โปรดลองอีกครั้งในภายหลัง",
     "ReportScreenTitle": "รายงาน {0}",
     "HomebaseMenus_RewardsNotAppearing": "ระบบไม่แสดงรางวัลที่ฉันได้รับ",
     "MissingRewards": "ระบบไม่แสดงรางวัลที่ฉันได้รับ",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "ไม่สามารถคราฟต์อาวุธ/กับดักได้",
     "UnableToDisassemble": "ไม่สามารถแยกส่วนอาวุธ/กับดักได้",
     "UnableToDrop": "ไม่สามารถดร็อปอาวุธ กับดัก หรือไอเทมได้",
+    "ConvAIReportError_NoPC": "ไม่สามารถระบุผู้เล่นได้ โปรดลองอีกครั้งในภายหลัง",
     "UnableToPickup": "ไม่สามารถเก็บอาวุธ กับดัก หรือไอเทมได้",
     "UnableToReload": "ไม่สามารถรีโหลดได้",
     "UnableToRepair": "ไม่สามารถซ่อมได้",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "เซฟเดอะเวิลด์: {ZoneType} ({Difficulty})",
     "STWLobby": "เซฟเดอะเวิลด์: {ZoneType} ({Difficulty})",
     "FrontendDefault": "กำลังเลือกโหมดเกม...",
+    "LiveSpectating": "กำลังรับชมเพื่อน",
     "PvELoading": "กำลังเริ่มเกม",
     "Replay": "กำลังดูรีเพลย์",
     "LobbyPartyName": "{LobbyName}"
@@ -8618,9 +8630,9 @@
   "FortSteelSharkEventManager": {
     "LLama_Prize_1_DisplayName": "รางวัลลามะ 1",
     "LLama_Prize_2_DisplayName": "รางวัลลามะ 2",
-    "LLama_Prize_3_DisplayName": "ลามะรางวัล 3",
-    "LLama_Prize_4_DisplayName": "ลามะรางวัล 4",
-    "LLama_Prize_5_DisplayName": "ลามะรางวัล 5",
+    "LLama_Prize_3_DisplayName": "รางวัลลามะ 3",
+    "LLama_Prize_4_DisplayName": "รางวัลลามะ 4",
+    "LLama_Prize_5_DisplayName": "รางวัลลามะ 5",
     "LLama_Prize_1_Subheading": "[PH] Subheading 1",
     "LLama_Prize_2_Subheading": "[PH] Subheading 2",
     "LLama_Prize_3_Subheading": "[PH] Subheading 3",
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "คำขอเป็นเพื่อนจาก <Username>{0}</>",
     "FriendRequestFromUserDescriptionClamOne": "เพื่อนจะมองเห็นสถานะออนไลน์ของคุณ สร้างปาร์ตี้ร่วมกัน และแชทกับคุณได้ตามการตั้งค่าการสื่อสารของคุณ",
     "FriendToastInvalidPin": "รหัส PIN ผู้ปกครองไม่ถูกต้อง",
+    "EpicPartyJoinabilityInviteOnly": "เชิญเท่านั้น",
     "Rival1v1InviteDetailsReceived": "คำเชิญจาก <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "เชิญพวกเขาเข้าปาร์ตี้",
     "InviteToEpicParty": "เชิญเข้าร่วมปาร์ตี้ Epic",
     "PartyInvite": "เชิญเข้าร่วมปาร์ตี้",
     "EpicPartyJoin": "เข้าร่วมปาร์ตี้ Epic",
     "PartyJoin": "เข้าร่วมปาร์ตี้",
+    "EpicPartyJoinabilityUnableToChangeDetails": "ปาร์ตี้นี้ตั้งการอนุญาตเข้าร่วมเป็น{0} โปรดลองอีกครั้งในภายหลัง",
+    "EpicPartyJoinabilityJoinable": "เข้าร่วมได้",
     "PartyJoinedDetails": "เข้าร่วมปาร์ตี้ของ <Username>{0}</> แล้ว",
     "EpicPartyJoined": "เข้าร่วมปาร์ตี้ Epic แล้ว",
     "EpicPartyJoinedDetails": "เข้าร่วมปาร์ตี้ Epic แล้ว",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "ส่งคำขอเข้าปาร์ตี้ของ <Username>{0}</> แล้ว",
     "Party1v1InviteDetailsSent": "ส่งให้ <Username>{0}</> แล้ว",
     "FriendImportToastRequestTitle": "ซิงค์รายชื่อเพื่อนของคุณ!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "ไม่สามารถเปลี่ยนการอนุญาตเข้าร่วมปาร์ตี้ได้",
     "FriendInviteUnknownError": "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ",
     "RequestToJoinParty_UnknownError": "ข้อผิดพลาดไม่ทราบสาเหตุ",
     "RequestToJoinParty_UserNotFound": "ไม่พบผู้ใช้งาน",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "ปิดคำแนะนำ",
     "PushToTalkInteractionEnable": "เปิดใช้กดเพื่อพูด",
     "ShowFewerOptionsInteractionDisplayName": "ซ่อนตัวเลือกเพิ่มเติม",
-    "LfgInvite_Name": "เชิญเข้าร่วมปาร์ตี้",
     "JoinMatchViaPresenceInteractionDisplayName": "เข้าร่วมเกม",
     "JoinAndSpectateFriendsInteractionDisplayName": "เข้าร่วมปาร์ตี้และรับชม",
     "KickEpicPartyMember": "เตะออกจากปาร์ตี้ Epic",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "ซีโร่บิลด์",
     "TournamentTileDate.DateFormat": "{DayText}ที่ {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "พบปัญหาขณะสร้างคำขอจับคู่แมตช์ของคุณ โปรดลองอีกครั้ง"
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "ดำเนินการอัปเดตเกมแล้ว โปรดต่อคิวใหม่เพื่อจับคู่แข่งขันในแมตช์",
     "Error.TeammateRankLevelTooLow": "ระดับแรงก์ปัจจุบันของเพื่อนร่วมทีมไม่เป็นไปตามข้อกำหนดขั้นต่ำในการเล่น",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "ไม่สามารถจับคู่ไปยังเกาะที่เลือกในขณะนี้ได้ โปรดไปที่หน้ารายละเอียดเกาะของประสบการณ์ที่คุณเลือกเพื่อรับข้อมูลเพิ่มเติม",
     "UnknownError": "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ ลองอีกครั้งไหม?",
     "InvalidGameData": "ตัวเลือกแมตช์ไม่รองรับ",
+    "MatchmakingTimeout": "เราไม่สามารถค้นหาแมตช์ให้คุณได้ทันเวลา โปรดลองอีกครั้ง",
     "PostTravelTimeout": "เราเชื่อมต่อกับแมตช์ไม่สำเร็จ โปรดลองอีกครั้ง",
     "PreTravelTimeout": "เราไม่สามารถพาคุณเข้าแมตช์ได้ทันเวลา โปรดลองอีกครั้ง",
+    "ReadyUpError": "ไม่สามารถเตรียมพร้อมได้ โปรดลองอีกครั้ง",
     "UnexpectedResponse": "เราได้รับคำตอบกลับมาจากการจับคู่แข่งขันในแมตช์ที่เราไม่คาดคิด ถ้าปัญหายังดำเนินต่อไป โปรดตรวจสอบ {CheckStatusURL}",
     "FailedToConnectToContentBeacon": "เราพบปัญหาในการเชื่อมต่อกับบริการสัญญาณข้อมูล ลองดูอีกที ถ้าปัญหายังดำเนินต่อไป โปรดตรวจสอบ {CheckStatusURL}",
     "AuthenticationIssue": "เราพบปัญหาในการเชื่อมต่อกับการจับคู่แข่งขัน ลองดูอีกที แต่ถ้าปัญหายังดำเนินต่อไป โปรดตรวจสอบ {CheckStatusURL}",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "เราประสบปัญหาในการสร้างไคลเอนต์บีคอนคอนเทนต์ โปรดลองใหม่อีกครั้ง",
     "FailedToFindEncryptionKey": "เราประสบปัญหาในการตามหาคีย์เข้ารหัสที่ถูกต้อง",
     "FailedToGenerateDownloadableContent": "เราพบปัญหาในการสร้างเนื้อหาสำหรับประสบการณ์นี้ ลองดูอีกที ถ้าปัญหายังดำเนินต่อไป โปรดตรวจสอบ {CheckStatusURL}",
+    "MMSFailedParamGeneration": "พบปัญหาขณะสร้างคำขอจับคู่แมตช์ของคุณ โปรดลองอีกครั้ง หากยังพบปัญหาอยู่ โปรดตรวจสอบ {CheckStatusURL}",
     "FailedToConnectToMMS": "เราพบปัญหาในการสื่อสารการจับคู่แข่งขัน ลองดูอีกที แต่ถ้าปัญหายังดำเนินต่อไป โปรดตรวจสอบ {CheckStatusURL}",
     "TravelFailure": "เราพบปัญหาระหว่างเข้าสู่แมตช์ โปรดลองอีกครั้ง หากยังแก้ปัญหาไม่ได้ โปรดดูที่ {CheckStatusURL}",
     "NetworkFailure": "เกิดข้อผิดพลาดเครือข่ายระหว่างการจับคู่ โปรดลองอีกครั้ง หากยังแก้ปัญหาไม่ได้ โปรดดูที่ {CheckStatusURL}",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "บุตรหลานของคุณได้ใช้เวลาเล่นเกมที่จำกัดไว้ไปแล้ว {PlayTimespan} เวลาจะเริ่มนับใหม่ใน {NextPeriodStartTime} ของวันพรุ่งนี้",
     "PlaytimeAddResultWithExpiration": "บุตรหลานของคุณจะมีเวลาใช้งาน {0} จนถึง {1} {2} {3} {4}",
     "PlaytimeAddResultRegular": "บุตรหลานของคุณจะมีเวลาเล่น {NewPlayTimespan} เริ่มจากตอนนี้",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "และจะมีเวลาสร้างเพิ่มขึ้นโดยเริ่มตั้งแต่ {NextPeriodStartTime} {DayName}",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "และจะได้รับเวลาเล่นเพิ่มเติมตั้งแต่ {NextPeriodStartTime} {DayName}",
     "NextPlayPeriodAllowedTimeBothCreateDay": "และจะมีเวลาสร้างมากขึ้นตั้งแต่ {DayName}",
     "PlaytimeStaticsOnDay": "ใน {DayName}",
     "PlaytimeStaticsToday": "วันนี้",

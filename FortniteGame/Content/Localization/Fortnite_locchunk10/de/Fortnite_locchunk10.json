@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Riesenfass DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Doppeldecker",
     "5B5236944941BFD7DE82B8B05FE11D94": "Doppeldecker",
+    "DF56207843F6244003548CA79CFAA0F4": "Doppeldecker",
     "AD9DF9A2455C274907AE29971466ADBA": "Klinge",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Klinge",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Accessoire",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "Kategoriensterne",
     "50143CB943E4575C29217F8DAEEF2147": "Catty Corner-Schlüsselkarte",
     "5C4799E749D383FD94F01B83DF9EB80F": "Catty Corner-Schlüsselkarte",
+    "EE922BB945F58FB9604A58A2D82D680C": "Catwomans Schnellfeuer-Maschinenpistole",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "Catwomans angepasste Schnellfeuer-Maschinenpistole. Mit Sorgfalt gefertigt, um die Kapazität zu erhöhen.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Cölinblau",
     "EB4A9CD946CF1CAD986993958FEC99A7": "Kapitel 2 – Saison 5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "Kapitel 2 – Saison 7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "Schließe tägliche Aufträge ab, um V-Bucks und andere Belohnungen zu verdienen. Tägliche Aufträge sind verfügbar, sobald du „Sturmschild-Verteidigung 3 in Heimatbasis“ abgeschlossen hast.",
     "CE03067340AD63B7738CAC992CE20CB5": "Schließe tägliche Aufträge ab, um V-Bucks und andere Belohnungen zu verdienen. Tägliche Aufträge sind verfügbar, sobald du „Sturmschild-Verteidigung 3 in Heimatbasis“ abgeschlossen hast.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "Schließe tägliche Aufträge ab, um V-Bucks und andere Belohnungen zu verdienen. Tägliche Aufträge sind verfügbar, sobald du „Sturmschild-Verteidigung 3 in Heimatbasis“ abgeschlossen hast.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Essen, um eine große Menge Schilde zu erhalten.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "Enthält 1 % Saft. Verleiht Kondition und Schilde über Zeit.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "Waffe mit <Emphasized>schnellem</>, durchgehenden Feuer",
     "E692743845B2413EC831FAA2B8A8E453": "Nachahmer",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Verbessertes Sturmgewehr  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Verbesserte Kleinstmaschinenpistole",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Verbesserte Trommelschrotflinte",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Erweiterter Harpunierer",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Verbesserte taktische Schrotflinte",
     "0FF80D3B493ED5932CB798A6F2A843C9": "In Kanone steigen",
     "5E374F5643803C665E367F8C5614BF3B": "In Kanone steigen",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "Gadget GeräteGegenstand C4",
     "4953295E4BF85A50A4ED41BA66030E84": "Gadget GeräteGegenstand M80 Granate",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "Gadget GeräteGegenstand M80 Granate",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "Gadget GeräteGegenstand Medkit Heilung",
     "A01271FC4F294D00F10ECA87F84259F2": "Gadget GeräteGegenstand Medkit Heilung",
     "B7770CBC47F6942773A406B933CC2544": "Gadget GeräteGegenstand Näherungsmine VioletteMaus",
     "5D41F88F448EBB8B613BB98578F017F1": "Gadget GeräteGegenstand Haftgranate",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "Gold",
     "F92ED6D24B56EACA844D27A473619CF5": "Gold",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "Goldwährung",
+    "7B0936A2458A998274ED3484DE00BCDA": "Goldtrüffel",
     "9E2FC1E149997E0DDD27D29737305724": "In der gesamten Saison erhältst du zusätzliche EP für Matches.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "In der Saison erhältst du zusätzliche EP für Matches, die du mit Freunden bestreitest.",
     "563CC660407AD849E23975A6D0785F51": "Greifer",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Schusswaffen Fernkampf Pistolen SchwerePatronen Halbautomatisch",
     "58FD4E214238EAB848585780B75ADCAC": "Schusswaffen Fernkampf Pistolen LeichtePatronen Halbautomatisch",
     "2D37E97E43724ABA040D5DB07530962F": "Schusswaffen Fernkampf Pistolen Halbautomatisch",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Schusswaffen Fernkampf Pistolen Halbautomatisch",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Schusswaffen Fernkampf Pistolen Halbautomatisch",
     "9EA74A7A4C987B0D9D927EB133619716": "Schusswaffen Fernkampf Pistolen Halbautomatisch",
     "BF1FF2F14FDC8846B569E7966543F17B": "Schusswaffen Fernkampf Pistolen Halbautomatisch",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "Näherungsmine",
     "FE97DA514506C8282ACCE59BFD3A562C": "Näherungsmine",
     "EB7FCBAD49E466CA687372AC079CF68B": "Näherungsmine +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Zieht Gegner zu dir ran und fügt Schaden zu.",
     "F155363240FFAB3D9F5F4081A228A9D6": "Impulsrichtung",
     "7C0756AE4401F9E70C1340901973DD78": "Impulsauslöser",
     "818B645048CD1AF97592E2A6B4C35D12": "Impulsauslöser",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "Ganz locker",
-    "BodyRetrigger": "Nur zur Erinnerung: Diese KI-Charaktere fühlen keine Emotionen und es ist immer eine gute Idee, die Augen mal ruhen zu lassen!",
-    "Body": "Diese Insel verwendet KI-Charaktere und ist für einige Minderjährige möglicherweise nicht geeignet. Diese KI-NPCs fühlen keine Emotionen. Denk daran, eine Pause zu machen!",
-    "TitleRetrigger": "Zeit für eine Pause?"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Verse exportieren",
     "ExportVerse": "Verse wird exportiert ...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} Stufen"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "Du wurdest aus dem Match entfernt, weil du nicht rechtzeitig gerespawnt bist."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "Animation|Kurven",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "Kaufe {0} V-Bucks – die Spielwährung, die in Fortnite ausgegeben werden kann.",
+    "ExactAmountOfferDescriptionFormat": "Schließe deinen Kauf ab und erhalte {0} V-Bucks – die Spielwährung, die in Fortnite ausgegeben werden kann!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Epic-QA",
     "FailedSubmit": "Fehler beim Absenden",
     "FailedToSubmit_UnknownReason": "Senden aus unbekanntem Grund fehlgeschlagen",
+    "ConvAIReportError_Failed": "Meldung konnte nicht gesendet werden. Bitte versuche es später erneut.",
     "FeaturedImage": "Verwendetes Bild",
     "RoleText_FeaturedIsland": "Vorgestellte Insel",
     "CannotCompleteObjective": "Spielziel kann nicht erfüllt werden",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "Meldung nicht gesendet – Spieler wurde vor Kurzem gemeldet.",
     "ReportNotSent_Error": "Bericht wurde nicht abgesendet: Ein Fehler ist aufgetreten.",
     "InvalidData": "Bericht wurde nicht abgesendet: Daten sind ungültig.",
+    "ConvAIReportError_Timeout": "Zeit für Meldung wurde überschritten. Bitte versuche es später erneut.",
     "ReportScreenTitle": "{0} melden",
     "HomebaseMenus_RewardsNotAppearing": "Von mir verdiente Belohnungen erscheinen nicht auf meinem Konto",
     "MissingRewards": "Von mir verdiente Belohnungen erscheinen nicht auf meinem Konto",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "Waffe/Falle herstellen nicht möglich",
     "UnableToDisassemble": "Waffe/Falle zerlegen nicht möglich",
     "UnableToDrop": "Waffe/Falle/Gegenstand fallen lassen nicht möglich",
+    "ConvAIReportError_NoPC": "Spieler kann nicht identifiziert werden. Bitte versuche es später erneut.",
     "UnableToPickup": "Waffe/Falle/Gegenstand aufheben nicht möglich",
     "UnableToReload": "Nachladen nicht möglich",
     "UnableToRepair": "Reparieren nicht möglich",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "Rette die Welt: {ZoneType} ({Difficulty})",
     "STWLobby": "Rette die Welt: {ZoneType} ({Difficulty})",
     "FrontendDefault": "Auswahl des Spielmodus ...",
+    "LiveSpectating": "Beobachten eines Freundes",
     "PvELoading": "Spiel starten",
     "Replay": "Schaut Wiederholung",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "Anfrage von <Username>{0}</>",
     "FriendRequestFromUserDescriptionClamOne": "Freunde können deinen Online-Status sehen, zusammen Gruppen bilden und je nach deinen Kommunikationseinstellungen mit dir chatten.",
     "FriendToastInvalidPin": "Ungültige Kindersicherung-PIN",
+    "EpicPartyJoinabilityInviteOnly": "Nur mit Einladung",
     "Rival1v1InviteDetailsReceived": "Einladung von <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "Lade den Spieler in die Gruppe ein",
     "InviteToEpicParty": "In epische Gruppe einladen",
     "PartyInvite": "In Gruppe einladen",
     "EpicPartyJoin": "Epischer Gruppe beitreten",
     "PartyJoin": "Gruppe beitreten",
+    "EpicPartyJoinabilityUnableToChangeDetails": "Beitrittsmöglichkeit ist {0}, bitte versuche es später erneut",
+    "EpicPartyJoinabilityJoinable": "Beitritt möglich",
     "PartyJoinedDetails": "Der Gruppe von <Username>{0}</> beigetreten",
     "EpicPartyJoined": "Epischer Gruppe beigetreten",
     "EpicPartyJoinedDetails": "Epischer Gruppe beigetreten",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "Beitrittsanfrage verschickt für epische Gruppe von <Username>{0}</>",
     "Party1v1InviteDetailsSent": "An <Username>{0}</> gesendet",
     "FriendImportToastRequestTitle": "Synchronisiere deine Freundesliste!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "Gruppenbeitrittsmöglichkeit kann nicht geändert werden",
     "FriendInviteUnknownError": "Unbekannter Fehler",
     "RequestToJoinParty_UnknownError": "Unbekannter Fehler",
     "RequestToJoinParty_UserNotFound": "Nutzer wurde nicht gefunden",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "Empfehlung ablehnen",
     "PushToTalkInteractionEnable": "Push-to-Talk aktivieren",
     "ShowFewerOptionsInteractionDisplayName": "Weniger Optionen",
-    "LfgInvite_Name": "In Gruppe einladen",
     "JoinMatchViaPresenceInteractionDisplayName": "Spiel beitreten",
     "JoinAndSpectateFriendsInteractionDisplayName": "Gruppe beitreten und zusehen",
     "KickEpicPartyMember": "Aus epischer Gruppe entfernen",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "Null Bauen",
     "TournamentTileDate.DateFormat": "{DayText}, {DayNumber}. {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "Beim Einrichten deiner Spielersuche-Anfrage ist ein Problem aufgetreten. Versuch es noch einmal."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "Ein Spiel-Update wurde angewendet. Bitte starte die Spielersuche erneut.",
     "Error.TeammateRankLevelTooLow": "Der Rang eines Teammitglieds erfüllt nicht die aktuellen Mindestanforderungen zum Spielen.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "Die Spielersuche auf der ausgewählten Insel ist nicht möglich. Bitte besuche für mehr Informationen die Inseldetailseite deines ausgewählten Erlebnises.",
     "UnknownError": "Unbekannter Fehler. Wie wäre es mit einem Neuversuch?",
     "InvalidGameData": "Optionen des Matches werden nicht unterstützt.",
+    "MatchmakingTimeout": "Wir konnten nicht rechtzeitig ein Match für dich finden. Versuch es noch einmal.",
     "PostTravelTimeout": "Die Verbindung zum Match konnte nicht vollständig aufgebaut werden. Versuch es noch einmal.",
     "PreTravelTimeout": "Wir konnten dich nicht rechtzeitig ins Match bringen. Versuch es noch einmal.",
+    "ReadyUpError": "Bereitmachen ist fehlgeschlagen. Versuch es noch einmal.",
     "UnexpectedResponse": "Wir haben eine unerwartete Reaktion des Spielersuchedienstes erhalten. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
     "FailedToConnectToContentBeacon": "Die Verbindung zum Content-Beacon-Dienst lief nicht so gut. Wage einen weiteren Versuch. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
     "AuthenticationIssue": "Die Verbindung zur Spielersuche lief nicht so gut. Wage einen weiteren Versuch. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "Wir konnten keinen Content-Beacon-Client erstellen, bitte versuche es erneut.",
     "FailedToFindEncryptionKey": "Es konnte kein gültiger Verschlüsselungsschlüssel gefunden werden.",
     "FailedToGenerateDownloadableContent": "Es gab Probleme bei der Generierung von Inhalten für dieses Erlebnis. Wage einen weiteren Versuch. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
+    "MMSFailedParamGeneration": "Beim Einrichten deiner Spielersuche-Anfrage ist ein Problem aufgetreten. Versuch es noch einmal. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
     "FailedToConnectToMMS": "Die Kommunikation mit der Spielersuche lief nicht so gut. Wage einen weiteren Versuch. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
     "TravelFailure": "Es gab Probleme beim Transport zum Match. Wage einen weiteren Versuch. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
     "NetworkFailure": "Während der Spielersuche ist ein Netzwerkfehler aufgetreten. Wage einen weiteren Versuch. Wenn das Problem weiterhin besteht, gehe auf {CheckStatusURL}.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "Ihr Kind hat {PlayTimespan} seines Zeitlimits verbraucht. Seine Spielzeit wird planmäßig morgen um {NextPeriodStartTime} freigegeben.",
     "PlaytimeAddResultWithExpiration": "Ihr Kind wird ab jetzt {0} Zeit haben, bis {1} {2} {3}. {4}",
     "PlaytimeAddResultRegular": "Ihr Kind wird ab jetzt {NewPlayTimespan} Spielzeit haben.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "und um {NextPeriodStartTime} am {DayName} steht dir wieder mehr Erschaffen-Zeit zur Verfügung.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "und ab {NextPeriodStartTime} {DayName} steht dir wieder mehr Erschaffen-Zeit zur Verfügung.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "und ab {DayName} steht dir wieder mehr Erschaffen-Zeit zur Verfügung.",
     "PlaytimeStaticsOnDay": "am {DayName}",
     "PlaytimeStaticsToday": "heute",

@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "العجلة الدوارة دي إكس",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "الطائرة ذات الجناحين",
     "5B5236944941BFD7DE82B8B05FE11D94": "الطائرة ذات الجناحين",
+    "DF56207843F6244003548CA79CFAA0F4": "طائرة ثنائية السطح",
     "AD9DF9A2455C274907AE29971466ADBA": "نصل",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "نصل",
     "7641CC0743ADBB2B2B04ED9883DD8214": "زينة ظهر",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "نجوم الفئة",
     "50143CB943E4575C29217F8DAEEF2147": "بطاقة دخول زاوية الماكرين",
     "5C4799E749D383FD94F01B83DF9EB80F": "بطاقة دخول زاوية الماكرين",
+    "EE922BB945F58FB9604A58A2D82D680C": "رشّاش كات وومن السريع",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "رشّاش نيران كثيفة خفيف مخصص لكات وومن. صُنع بعناية لزيادة سعة الذخيرة.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "لازوردي",
     "EB4A9CD946CF1CAD986993958FEC99A7": "الفصل 2 الموسم 5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "الفصل 2 الموسم 7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "أكمل المهام اليومية للحصول على عملات V-Bucks ومكافآت أخرى. تُفتح المهام اليومية بعد إكمال دفاع درع عاصفة القاعدة الرئيسية 3.",
     "CE03067340AD63B7738CAC992CE20CB5": "أكمل المهام اليومية للحصول على عملات V-Bucks ومكافآت أخرى. تُفتح المهام اليومية بعد إكمال دفاع درع عاصفة القاعدة الرئيسية 3.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "أكمل المهام اليومية للحصول على عملات V-Bucks ومكافآت أخرى. تُفتح المهام اليومية بعد إكمال دفاع درع عاصفة القاعدة الرئيسية 3.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "استهلك للحصول على كمية كبيرة من الدرع.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "تحتوي على 1% من العصير. توفر صحة ودروعًا بمرور الوقت.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "سلاح مستمر <Emphasized>سريع الإطلاق</>",
     "E692743845B2413EC831FAA2B8A8E453": "التقليد",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "بندقية هجومية محسنة  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "رشّاش خفيف صغير محسّن",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "شوزِن محسَنة بمخزن أسطواني",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "سلاح الحربة المُحسَّن",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "شوزِن تكتيكي محسّن",
     "0FF80D3B493ED5932CB798A6F2A843C9": "دخول المدفع",
     "5E374F5643803C665E367F8C5614BF3B": "أدخل بالمدفع",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "عنصر مساعدة الأداة C4",
     "4953295E4BF85A50A4ED41BA66030E84": "عنصر أداة مساعدة قنبلة يدوية M80",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "عنصر أداة مساعدة قنبلة يدوية M80",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "أداة، عنصر مساعدة، حقيبة إسعافات، علاج",
     "A01271FC4F294D00F10ECA87F84259F2": "أداة، عنصر مساعدة، حقيبة إسعافات، علاج",
     "B7770CBC47F6942773A406B933CC2544": "Gadget UtilityItem ProximityMine PurpleMouse",
     "5D41F88F448EBB8B613BB98578F017F1": "أداة عنصر مساعدة قنبلة لاصقة",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "ذهب",
     "F92ED6D24B56EACA844D27A473619CF5": "ذهب",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "العملة الذهبية",
+    "7B0936A2458A998274ED3484DE00BCDA": "الشوكولاتة الذهبية",
     "9E2FC1E149997E0DDD27D29737305724": "يمنح معززًا لكمية نقاط خبرة المباراة التي تكتسبها طوال الموسم.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "يضمن تعزيزًا لكمية نقاط خبرة المواجهات التي تتلقاها عند اللعب مع الأصدقاء هذا الموسم",
     "563CC660407AD849E23975A6D0785F51": "الخطاف",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "مسدسات بعيدة المدى نصف آلية ذات طلقات ثقيلة",
     "58FD4E214238EAB848585780B75ADCAC": "أسلحة بعيدة المدى، مسدسات ذات طلقات خفيفة نصف آلية",
     "2D37E97E43724ABA040D5DB07530962F": "أسلحة بعيدة المدى مسدسات نصف آلية",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "مسدسات نصف آلية بعيدة المدى",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "مسدسات بعيدة المدى النصف آلية",
     "9EA74A7A4C987B0D9D927EB133619716": "أسلحة بعيدة المدى مسدسات نصف آلية",
     "BF1FF2F14FDC8846B569E7966543F17B": "مسدسات بعيدة المدى نصف آلية",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "الألغام الأرضية",
     "FE97DA514506C8282ACCE59BFD3A562C": "اللغم الأرضي",
     "EB7FCBAD49E466CA687372AC079CF68B": "اللغم الأرضي +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "لجذب الأعداء نحوك وتوجيه ضرر.",
     "F155363240FFAB3D9F5F4081A228A9D6": "اتجاه الدفعة",
     "7C0756AE4401F9E70C1340901973DD78": "مُرسل النبضات",
     "818B645048CD1AF97592E2A6B4C35D12": "مُرسل النبضات",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "خلف الرأس",
-    "BodyRetrigger": "تذكر أن شخصيات الذكاء الاصطناعي هذه لا تشعر بالعواطف، ومن الجيد دائمًا إراحة عينيك!",
-    "Body": "تستخدم هذه الجزيرة شخصيات ذكاء اصطناعي، وقد لا تكون مناسبة لبعض القاصرين. شخصيات الذكاء الاصطناعي هذه لا تشعر بالعواطف. لا تنسَ أن تأخذ استراحة!",
-    "TitleRetrigger": "هل حان وقت الاستراحة؟"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "تصدير Verse",
     "ExportVerse": "جارٍ تصدير Verse...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} من المستويات"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "تم استبعادك من المواجهة لعدم إعادة الظهور في الوقت المحدد."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "حركة/منحنيات",
@@ -4628,7 +4634,7 @@
     "LFGTest": "بحث عن مجموعة: {LFG}, حجم المجموعة: {Size}, معرّف المجموعة: {ID}",
     "ActivateFailedMissingRequiredOutfit": "الزي المطلوب مفقود",
     "AbilityFailed_Fragment": "بحاجة إلى قطعة مستكشف",
-    "AbilityFailed_Ammo": "لا توجد ذخيرة",
+    "AbilityFailed_Ammo": "لا ذخيرة",
     "ReloadFailed_NoSpareAmmo": "لا توجد ذخيرة",
     "AbilityFailed_Trap": "لا يوجد عنصر قابل لتغيير موضعه",
     "AbilityFailed_Ammo_CraftAmmoAvailable": "لا توجد ذخيرة كافية، اضغط باستمرار على إعادة التعبئة لتصنيع المزيد من الذخيرة بشكل بسرعة",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "اشترِ {0} من عملات V-Bucks، وهي عملة داخل اللعبة يمكن استخدامها في Fortnite. ",
+    "ExactAmountOfferDescriptionFormat": "أكمل عملية الشراء عن طريق الحصول على {0} من عملات V-Bucks، وهي عملة داخل اللعبة يمكن استخدامها في Fortnite! \n\n",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "ضمان جودة Epic",
     "FailedSubmit": "تعّذر الإرسال",
     "FailedToSubmit_UnknownReason": "تعطل الإرسال لسبب مجهول.",
+    "ConvAIReportError_Failed": "تعذّر الإبلاغ. يُرجى إعادة المحاولة لاحقًا.",
     "FeaturedImage": "الصورة المميزة",
     "RoleText_FeaturedIsland": "الجزيرة المتميزة",
     "CannotCompleteObjective": "لا يمكن إكمال هدف اللعبة",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "لم يتم إرسال التبليغ - لقد تم الإبلاغ عن اللاعب مؤخرًا.",
     "ReportNotSent_Error": "لم يُرسل التقرير - حدث خطأ.",
     "InvalidData": "لم يُرسل التقرير - بيانات غير صالحة.",
+    "ConvAIReportError_Timeout": "انتهت مهلة إرسال البلاغ. يُرجى إعادة المحاولة لاحقًا.",
     "ReportScreenTitle": "الإبلاغ عن {0}",
     "HomebaseMenus_RewardsNotAppearing": "المكافآت التي ربحتها لا تظهر",
     "MissingRewards": "المكافآت التي ربحتها لا تظهر",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "تعذر صناعة سلاح/فخ",
     "UnableToDisassemble": "تعذر تفكيك سلاح/فخ",
     "UnableToDrop": "تعذر إسقاط سلاح أو فخ أو عنصر",
+    "ConvAIReportError_NoPC": "تعذّر تحديد هوية اللاعب. يُرجى إعادة المحاولة لاحقًا.",
     "UnableToPickup": "تعذر التقاط سلاح أو فخ أو عنصر",
     "UnableToReload": "عدم القدرة على إعادة التلقيم",
     "UnableToRepair": "تعذر الإصلاح",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "أنقِذ العالم: {ZoneType} ({Difficulty})",
     "STWLobby": "أنقِذ العالم: {ZoneType} ({Difficulty})",
     "FrontendDefault": "جارٍ تحديد وضع اللعبة...",
+    "LiveSpectating": "مشاهدة صديق",
     "PvELoading": "بدء لعبة",
     "Replay": "مشاهدة إعادة",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "طلب صداقة من <Username>{0}</>",
     "FriendRequestFromUserDescriptionClamOne": "يمكن للأصدقاء رؤية حالة اتصالك وإنشاء مجموعات معك والدردشة معك وفقًا لإعدادات التواصل لديك.",
     "FriendToastInvalidPin": "رقم تعريف شخصي للوالدين غير صالح",
+    "EpicPartyJoinabilityInviteOnly": "دعوة فقط",
     "Rival1v1InviteDetailsReceived": "دعوة من <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "أرسل لهم دعوة للانضمام إلى المجموعة.",
     "InviteToEpicParty": "الدعوة إلى مجموعة Epic",
     "PartyInvite": "الدعوة إلى المجموعة",
     "EpicPartyJoin": "الانضمام إلى مجموعة Epic",
     "PartyJoin": "انضم إلى المجموعة",
+    "EpicPartyJoinabilityUnableToChangeDetails": "إمكانية الانضمام {0}، حاول مجددًا لاحقًا",
+    "EpicPartyJoinabilityJoinable": "يمكن الانضمام",
     "PartyJoinedDetails": "تم الانضمام إلى مجموعة <Username>{0}</>",
     "EpicPartyJoined": "انضم لمجموعة Epic",
     "EpicPartyJoinedDetails": "انضم لمجموعة Epic",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "تم إرسال طلب انضمام إلى مجموعة Epic الخاصة بـ<Username>{0}</>",
     "Party1v1InviteDetailsSent": "تم الإرسال إلى <Username>{0}</>",
     "FriendImportToastRequestTitle": "مزامنة قائمة أصدقائك!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "تعذّر تغيير إمكانية الانضمام للمجموعة",
     "FriendInviteUnknownError": "خطأ غير معروف",
     "RequestToJoinParty_UnknownError": "خطأ غير معروف",
     "RequestToJoinParty_UserNotFound": "لم يتم العثور على المستخدم",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "رفض الاقتراح",
     "PushToTalkInteractionEnable": "تمكين الضغط للتحدث",
     "ShowFewerOptionsInteractionDisplayName": "خيارات أقل",
-    "LfgInvite_Name": "الدعوة إلى المجموعة",
     "JoinMatchViaPresenceInteractionDisplayName": "الانضمام إلى اللعبة",
     "JoinAndSpectateFriendsInteractionDisplayName": "الانضمام إلى مجموعة والمشاهدة",
     "KickEpicPartyMember": "طرد من مجموعة Epic",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "بلا بناء",
     "TournamentTileDate.DateFormat": "{DayText}، {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "واجهنا مشكلة في تهيئة طلب العثور على اللاعبين لديك. حاول مرة أخرى."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "تم تطبيق تحديث على اللعبة. يرجى إعادة الدخول في قائمة الانتظار للعثور على لاعبين.",
     "Error.TeammateRankLevelTooLow": "لا يفي زميل الفريق بالحد الأدنى لمستوى التصنيف الحالي للعب.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "لا يمكن البحث عن اللاعبين في الجزيرة المحددة حاليًا، يرجى زيارة صفحة تفاصيل الجزيرة للتجربة التي حددتها لمزيد من المعلومات",
     "UnknownError": "خطأ غير معروف. ربما عليك إعادة المحاولة؟",
     "InvalidGameData": "تم تقديم خيار مطابقة غير مدعوم",
+    "MatchmakingTimeout": "لم نتمكن من العثور على مباراة في الوقت المتاح. حاول مرة أخرى.",
     "PostTravelTimeout": "لم نتمكن من إتمام الاتصال بالمواجهة. حاول مرة أخرى.",
     "PreTravelTimeout": "لم نتمكن من إدخالك إلى المواجهة في الوقت المحدد. حاول مرة أخرى.",
+    "ReadyUpError": "تعذّر تأكيد الاستعداد. حاول مرة أخرى.",
     "UnexpectedResponse": "وصلتنا استجابة من خدمة المطابقة لم نكن نتوقعها. إذا استمرت المشكة، يرجى مراجعة {CheckStatusURL}.",
     "FailedToConnectToContentBeacon": "واجهنا مشكلة في الاتصال بخدمة إشارات المحتوى التنبيهية. حاول مرة أخرى، إذا استمرت المشكلة يرجى تفقد {CheckStatusURL}.",
     "AuthenticationIssue": "واجهنا مشكلة في التصال بمنظم المواجهة. حاول مرة أخرى، ولكن إذا استمرت المشكة، يرجى مراجعة {CheckStatusURL}.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "واجهنا مشكلة في إنشاء برنامج منارة المحتوى للعبة، حاول مرة أخرى.",
     "FailedToFindEncryptionKey": "واجهنا مشكلة في العثور على مفتاح تشفير صالح.",
     "FailedToGenerateDownloadableContent": "واجهنا مشكلة في إنشاء محتوى لهذه التجربة. حاول مرة أخرى، إذا استمرت المشكلة، يُرجى تفقد {CheckStatusURL}.",
+    "MMSFailedParamGeneration": "واجهنا مشكلة في تهيئة طلب العثور على اللاعبين لديك. حاول مرة أخرى. إذا استمرت المشكلة، فيُرجى تفقّد {CheckStatusURL}.",
     "FailedToConnectToMMS": "واجهنا مشكلة في التحدث إلى منظم المواجهة. حاول مرة أخرى، ولكن إذا استمرت المشكة، يرجى مراجعة {CheckStatusURL}.",
     "TravelFailure": "واجهنا مشكلة في الانتقال إلى المواجهة. حاول مرة أخرى، إذا استمرت المشكلة، يُرجى تفقّد {CheckStatusURL}.",
     "NetworkFailure": "واجهنا خطأ في الشبكة أثناء العثور على لاعبين. حاول مرة أخرى، إذا استمرت المشكلة، يُرجى تفقّد {CheckStatusURL}.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "استخدم طفلك {PlayTimespan} من حد الوقت. من المقرر استئناف الوقت غدًا الساعة {NextPeriodStartTime}.",
     "PlaytimeAddResultWithExpiration": "سيكون لدى طفلك {0} من الوقت للاستخدام حتى {1} {2} {3}. {4}",
     "PlaytimeAddResultRegular": "سيكون لدى طفلك {NewPlayTimespan} من الوقت بدءًا من الآن.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "وستحظى بمزيد من وقت الإنشاء بدءًا من {NextPeriodStartTime} يوم {DayName}.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "وأكثر من وقت الإنشاء بدءًا من {NextPeriodStartTime} {DayName}.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "والمزيد من وقت الإنشاء بدءًا من {DayName}.",
     "PlaytimeStaticsOnDay": "في {DayName}",
     "PlaytimeStaticsToday": "اليوم",

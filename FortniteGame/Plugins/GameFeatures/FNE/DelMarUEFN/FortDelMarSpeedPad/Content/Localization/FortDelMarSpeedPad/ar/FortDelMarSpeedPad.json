@@ -2,7 +2,7 @@
   "": {
     "B1A223AC492F891F620896BB4282B93D": "وسادة تعزيز تطبق السرعة على مركبات Rocket Racing التي تسير فوقها.",
     "9E29733642DB80268BFF658E82F9E424": "خطأ",
-    "16327D03430DE42CFCCC2AB918D91DF5": "وسادات التعزيز في RR",
+    "18A9A4D64D0291A6ED9103B18E1238D0": "وسادات التعزيز في RR",
     "1D8716B047C72FCFD8D295A1901234DB": "صحيح"
   },
   "Fort.Actor.Building.Defaults": {
@@ -15,6 +15,8 @@
     "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "تفعيل",
     "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "تمكين هذا الجهاز. عند التمكين، يطبق هذا السرعة على مركبات Rocket Racing التي تسير فوقه.",
     "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "تفعيل عند بدء اللعبة",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.Description": "يُطلق عند تشغيل مركبة Rocket Racing لهذا الجهاز.",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.DisplayName": "يتم تشغيله على وسادة التعزيز",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "معرف مجموعة السرعة",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "يُستخدم للتحكم في وسادات التعزيز التي يمكن أن تُفعّل في نفس الوقت. إذا كانت السيارة تحتوي بالفعل على حزمة نشطة من السرعة الإضافية من وسادة تعزيز أخرى بنفس معرف المجموعة، فلن تحصل السيارة على حزمة أخرى عند المرور فوق وسادة التعزيز هذه. القيمة الأقل من 0 تجعل وسادة التعزيز هذه توفر دائمًا حزمة من السرعة الإضافية."
   }

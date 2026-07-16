@@ -2,7 +2,7 @@
   "": {
     "B1A223AC492F891F620896BB4282B93D": "Панель, которая придаёт ускорение болидам Rocket Racing, проезжающим по ней.",
     "9E29733642DB80268BFF658E82F9E424": "Ложь",
-    "16327D03430DE42CFCCC2AB918D91DF5": "Скоростная панель RR",
+    "18A9A4D64D0291A6ED9103B18E1238D0": "Скоростная панель RR",
     "1D8716B047C72FCFD8D295A1901234DB": "Истина"
   },
   "Fort.Actor.Building.Defaults": {
@@ -15,6 +15,8 @@
     "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "Включить",
     "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "Включает это устройство. Когда включено, придаёт ускорение болидам Rocket Racing, проезжающим по нему.",
     "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "Включение в начале игры",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.Description": "Срабатывает, когда болид Rocket Racing активирует это устройство.",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.DisplayName": "Активирована разгонная панель",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "Идентификатор скоростной группы",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "Определяет, с каких скоростных панелей суммируется бонусная скорость. Если у болида уже активна бонусная скорость от скоростной панели, прохождение панели с тем же идентификатором группы не принесёт ему дополнительный бонус скорости. При значении меньше 0 эта панель всегда будет давать бонусную скорость."
   }

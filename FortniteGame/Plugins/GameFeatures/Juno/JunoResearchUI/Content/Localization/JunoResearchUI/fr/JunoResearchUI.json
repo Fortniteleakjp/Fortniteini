@@ -15,7 +15,7 @@
     "910BF75C4FA496389A9E269518D2DFE7": "Retour",
     "D6D8A9F6462FED55799B1A9301021EA2": "Fermer",
     "AC1CC62543EB6DB85055919D0313B288": "Schéma de fabrication",
-    "00B7D9BF432BC3CE81140CA02785CD37": "Essence",
+    "00B7D9BF432BC3CE81140CA02785CD37": "Essences",
     "FEFB063C42905A6210A5C4A1614916D5": "Héros",
     "71F083C3404AB8E3A747779A7EF01671": "La maîtrise héroïque comprend des schémas de fabrication pour des <Research>armes de héros</> et des <Research>équipements à compétence</>, ainsi que des <Research>effets passifs</>.\n\nUtilisez vos essences pour apprendre le schéma d'un objet, puis remplissez les prérequis pour le déverrouiller ! Les schémas déverrouillés peuvent être fabriqués au <Research>poste héroïque</>, que vous pouvez découvrir en récupérant du granit avant de le construire depuis le <Research>menu Construction</>.\n\nUne fois déverrouillés, les <Research>effets passifs</> seront automatiquement appliqués aux armes indiquées, tant que ces dernières possèdent le niveau de rareté requis pour les effets.",
     "DEC6A2F54247305A96F4DD87AD695510": "Inventaire plein",
@@ -39,6 +39,6 @@
     "3F95333544CE1E9B8F7B5C86225E2168": "Armes",
     "C8D6BD454FEB1E9A8B320CBDB1FDCD02": "[PH] Heroes",
     "E94F82024EF41828E5066E94805EFC16": "{Num} disponible(s)",
-    "FB1530584BB53CC80CA5F7B059A572E0": "{Num} disponible(s)"
+    "FB1530584BB53CC80CA5F7B059A572E0": "{Num} {Num}|plural(one=disponible,other=disponibles)"
   }
 }

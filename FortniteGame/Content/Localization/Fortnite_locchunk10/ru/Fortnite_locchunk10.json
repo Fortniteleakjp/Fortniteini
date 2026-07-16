@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Супербольшая бочка",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Биплан",
     "5B5236944941BFD7DE82B8B05FE11D94": "Биплан",
+    "DF56207843F6244003548CA79CFAA0F4": "Биплан",
     "AD9DF9A2455C274907AE29971466ADBA": "Блэйд",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Блэйд",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Украшение",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "Звёзды категорий",
     "50143CB943E4575C29217F8DAEEF2147": "Ключ-карточка к Укромному углу",
     "5C4799E749D383FD94F01B83DF9EB80F": "Ключ-карточка к Укромному углу",
+    "EE922BB945F58FB9604A58A2D82D680C": "Скорострельный ПП Женщины-кошки",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "Модифицированный скорострельный ПП Женщины-кошки. Тщательно продуманная конструкция позволяет вмещать больше патронов.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Лазурный",
     "EB4A9CD946CF1CAD986993958FEC99A7": "Пятый сезон второй главы ",
     "5D048A7F45BDC6C054F4528378401CD0": "Седьмой сезон второй главы",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "Выполняйте ежедневные задания, чтобы получить В-баксы и другие награды. Ежедневные задания становятся доступны после выполнения миссии «Оборона щита главной базы #3».",
     "CE03067340AD63B7738CAC992CE20CB5": "Выполняйте ежедневные задания, чтобы получить В-баксы и другие награды. Ежедневные задания становятся доступны после выполнения миссии «Оборона щита главной базы #3».",
     "FCF5B17B42BD4A87A0987F90AF61722D": "Выполняйте ежедневные задания, чтобы получить В-баксы и другие награды. Ежедневные задания становятся доступны после выполнения миссии «Оборона щита главной базы #3».",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Съешьте, чтобы значительно зарядить щит.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "Содержит не менее 1% сока. Постепенно увеличивает здоровье и щит.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "<Emphasized>Скорострельное</> оружие для непрерывной стрельбы",
     "E692743845B2413EC831FAA2B8A8E453": "Равноценная замена?",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Улучшенный автомат  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Улучшенный компактный пистолет-пулемёт",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Улучшенный скорострельный дробовик",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Улучшенный гарпун",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Улучшенный тактический дробовик",
     "0FF80D3B493ED5932CB798A6F2A843C9": "Залезть в пушку",
     "5E374F5643803C665E367F8C5614BF3B": "Залезть в пушку",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "Гаджет: полезный предмет — C-4",
     "4953295E4BF85A50A4ED41BA66030E84": "Гаджет: полезный предмет — граната М-80",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "Гаджет: полезный предмет — граната М-80",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "Гаджет: полезный предмет — аптечка",
     "A01271FC4F294D00F10ECA87F84259F2": "Гаджет: полезный предмет — аптечка",
     "B7770CBC47F6942773A406B933CC2544": "Gadget UtilityItem ProximityMine PurpleMouse",
     "5D41F88F448EBB8B613BB98578F017F1": "Гаджет: полезный предмет — граната-липучка",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "Золотой",
     "F92ED6D24B56EACA844D27A473619CF5": "Золото",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "Валюта: золото",
+    "7B0936A2458A998274ED3484DE00BCDA": "Золотой трюфель",
     "9E2FC1E149997E0DDD27D29737305724": "Увеличивает опыт, получаемый вами за матчи на протяжении всего сезона.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "Увеличивает опыт, получаемый вами за матчи, в которых вы участвуете вместе с друзьями на протяжении всего сезона.",
     "563CC660407AD849E23975A6D0785F51": "Присоска",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Стрелковое оружие, пистолет, крупный калибр, полуавтоматическое",
     "58FD4E214238EAB848585780B75ADCAC": "Стрелковое оружие, пистолет, малый калибр, полуавтоматическое",
     "2D37E97E43724ABA040D5DB07530962F": "Стрелковое оружие, пистолет, полуавтоматическое",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Стрелковое оружие, пистолет, полуавтоматическое",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Стрелковое оружие, пистолет, полуавтоматическое",
     "9EA74A7A4C987B0D9D927EB133619716": "Стрелковое оружие, пистолет, полуавтоматическое",
     "BF1FF2F14FDC8846B569E7966543F17B": "Стрелковое оружие, пистолет, полуавтоматическое",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "Неконтактная мина",
     "FE97DA514506C8282ACCE59BFD3A562C": "Неконтактная мина",
     "EB7FCBAD49E466CA687372AC079CF68B": "Неконтактная мина +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Притягивает врагов к вам, нанося им урон.",
     "F155363240FFAB3D9F5F4081A228A9D6": "Направление движения импульса",
     "7C0756AE4401F9E70C1340901973DD78": "Триггер импульса",
     "818B645048CD1AF97592E2A6B4C35D12": "Триггер импульса",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "Внимание",
-    "BodyRetrigger": "Напоминаем, что эти ИИ-персонажи не испытывают эмоций, а глазам полезно отдыхать!",
-    "Body": "На этом острове используются ИИ-персонажи, и материалы могут не подходить некоторым несовершеннолетним игрокам. Эти ИИ-персонажи не испытывают эмоций. Не забывайте делать перерывы!",
-    "TitleRetrigger": "Сделаем перерыв? "
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Экспортировать Verse",
     "ExportVerse": "Экспорт Verse…",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} ур."
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "Вас исключили из матча, поскольку вы не успели вовремя возродиться."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "Анимация|Кривые",
@@ -4040,7 +4046,7 @@
   },
   "Fort.Athena.Vehicle.Defaults": {
     "OwnedCustomizedEnterText_Driver": "УПРАВЛЯТЬ МОИМ ТРАНСПОРТОМ: \n {0}",
-    "UnownedCustomizedEnterText_Driver": "УПРАВЛЯТЬ {0} (ВЛАДЕЛЕЦ: {1})",
+    "UnownedCustomizedEnterText_Driver": "УПРАВЛЯТЬ: {0} (ВЛАДЕЛЕЦ: {1})",
     "Flip": "Перевернуть",
     "Fuel": "Топливо: {0}",
     "OwnedCustomizedEnterText_Rider": "{0} (владелец: я):\n сесть",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "Купите {0} В-баксов — игровую валюту, которую можно потратить в Fortnite.",
+    "ExactAmountOfferDescriptionFormat": "Завершите покупку и приобретите {0} В-баксов — игровую валюту, которую можно потратить в Fortnite!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Отдел контроля качества Epic",
     "FailedSubmit": "Ошибка при отправке",
     "FailedToSubmit_UnknownReason": "Произошла неизвестная ошибка",
+    "ConvAIReportError_Failed": "Не удалось отправить жалобу. Повторите попытку позже.",
     "FeaturedImage": "Основное изображение",
     "RoleText_FeaturedIsland": "Рекомендуемый остров",
     "CannotCompleteObjective": "Не удаётся выполнить игровую задачу",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "Ошибка отправки жалобы: на этого игрока недавно была отправлена жалоба.",
     "ReportNotSent_Error": "Не удалось отправить жалобу: произошла ошибка.",
     "InvalidData": "Не удалось отправить жалобу: неверные данные.",
+    "ConvAIReportError_Timeout": "Время ожидания истекло. Повторите попытку позже.",
     "ReportScreenTitle": "Пожаловаться: {0}",
     "HomebaseMenus_RewardsNotAppearing": "Не появляются полученные награды",
     "MissingRewards": "Не появляются полученные награды",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "Не удаётся изготовить оружие/ловушку",
     "UnableToDisassemble": "Не удаётся разобрать оружие/ловушку",
     "UnableToDrop": "Не удаётся бросить оружие, ловушку или предмет",
+    "ConvAIReportError_NoPC": "Не удалось идентифицировать игрока. Повторите попытку позже.",
     "UnableToPickup": "Не удаётся подобрать оружие, ловушку или предмет",
     "UnableToReload": "Не удаётся перезарядить оружие",
     "UnableToRepair": "Возникают трудности при ремонте",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "Сражение с Бурей: {ZoneType} ({Difficulty})",
     "STWLobby": "Сражение с Бурей: {ZoneType} ({Difficulty})",
     "FrontendDefault": "Выбор режима игры...",
+    "LiveSpectating": "Наблюдение за другом",
     "PvELoading": "Запускает игру",
     "Replay": "Смотрит повтор",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "Игрок <Username>{0}</> хочет дружить",
     "FriendRequestFromUserDescriptionClamOne": "В зависимости от параметров общения друзья могут видеть ваш сетевой статус, приглашать вас в группы и общаться с вами.",
     "FriendToastInvalidPin": "Неверный ПИН-код родительского контроля",
+    "EpicPartyJoinabilityInviteOnly": "Только по приглашениям",
     "Rival1v1InviteDetailsReceived": "Приглашение от игрока <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "Пригласите пользователя в группу",
     "InviteToEpicParty": "Пригласить в группу Epic",
     "PartyInvite": "Пригласить в группу",
     "EpicPartyJoin": "Присоединиться к группе Epic",
     "PartyJoin": "Присоединиться к группе",
+    "EpicPartyJoinabilityUnableToChangeDetails": "Присоединение — {0}. Повторите попытку позже.",
+    "EpicPartyJoinabilityJoinable": "Можно присоединиться",
     "PartyJoinedDetails": "Присоединение к группе игрока <Username>{0}</>",
     "EpicPartyJoined": "Игрок вступил в группу Epic",
     "EpicPartyJoinedDetails": "Игрок вступил в группу Epic",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "Отправлен запрос на присоединение к группе Epic игрока <Username>{0}</>",
     "Party1v1InviteDetailsSent": "Отправлено игроку <Username>{0}</>",
     "FriendImportToastRequestTitle": "Синхронизируйте список друзей!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "Не удалось изменить настройки присоединения к группе",
     "FriendInviteUnknownError": "Неизвестная ошибка",
     "RequestToJoinParty_UnknownError": "Неизвестная ошибка",
     "RequestToJoinParty_UserNotFound": "Пользователь не найден",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "Отклонить рекомендации",
     "PushToTalkInteractionEnable": "Включить режим рации",
     "ShowFewerOptionsInteractionDisplayName": "Меньше вариантов",
-    "LfgInvite_Name": "Пригласить в группу",
     "JoinMatchViaPresenceInteractionDisplayName": "Присоединиться к игре",
     "JoinAndSpectateFriendsInteractionDisplayName": "Присоединиться и наблюдать",
     "KickEpicPartyMember": "Исключить из группы Epic",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "Нулевая высота",
     "TournamentTileDate.DateFormat": "{DayText}, {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "Не удалось обработать ваш запрос на подбор игроков. Попробуйте ещё раз."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "Игра обновлена. Попробуйте присоединиться к матчу снова.",
     "Error.TeammateRankLevelTooLow": "Текущий уровень рейтинга товарища по команде не соответствует минимальным требованиям.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "Невозможно выполнить подбор игроков для выбранного острова. Подробная информация — на странице острова для выбранного режима.",
     "UnknownError": "Неизвестная ошибка. Попробовать ещё раз?",
     "InvalidGameData": "Указанные параметры подбора не поддерживаются",
+    "MatchmakingTimeout": "Не удалось найти для вас матч в отведённое время. Повторите попытку.",
     "PostTravelTimeout": "Не удалось завершить подключение к матчу. Попробуйте ещё раз.",
     "PreTravelTimeout": "Не удалось вовремя подключить вас к матчу. Попробуйте ещё раз.",
+    "ReadyUpError": "Произошла ошибка. Попробуйте ещё раз.",
     "UnexpectedResponse": "Мы получили неожиданный ответ от службы подбора игроков. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}",
     "FailedToConnectToContentBeacon": "Нам не удалось подключиться к службе маячка контента. Попробуйте ещё раз. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}.",
     "AuthenticationIssue": "Нам не удалось подключиться к службе подбора игроков. Попробуйте ещё раз. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "Не удалось создать клиент маячка содержимого; повторите попытку.",
     "FailedToFindEncryptionKey": "Не удалось найти действительный код шифрования.",
     "FailedToGenerateDownloadableContent": "При создании материалов произошла ошибка. Попробуйте ещё раз. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}.",
+    "MMSFailedParamGeneration": "Не удалось обработать ваш запрос на подбор игроков. Попробуйте ещё раз. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}",
     "FailedToConnectToMMS": "Нам не удалось пообщаться со службой подбора игроков. Попробуйте ещё раз. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}",
     "TravelFailure": "Не удалось перенести вас в матч. Попробуйте ещё раз. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}.",
     "NetworkFailure": "При подборе игроков произошла ошибка сети. Попробуйте ещё раз. Если ошибка не исчезла, загляните на сайт {CheckStatusURL}.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "Ваш ребёнок провёл в игре {PlayTimespan}. Он вновь получит доступ к игре завтра в {NextPeriodStartTime}.",
     "PlaytimeAddResultWithExpiration": "У вашего ребёнка будет {0} до {1} {2} {3}. {4}",
     "PlaytimeAddResultRegular": "Отсчёт начат сейчас, у вашего ребёнка есть: {NewPlayTimespan}.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "а к творчеству — с {NextPeriodStartTime} {DayName}.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "а к творчеству — в {NextPeriodStartTime} {DayName}.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "а к творчеству — {DayName}.",
     "PlaytimeStaticsOnDay": "{DayName}",
     "PlaytimeStaticsToday": "сегодня",

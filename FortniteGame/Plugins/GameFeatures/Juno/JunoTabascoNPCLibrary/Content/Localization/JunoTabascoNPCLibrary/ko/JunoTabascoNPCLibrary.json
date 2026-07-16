@@ -490,7 +490,7 @@
     "AC0310AC41B90F4C9B84CE8D5B625978": "땅을 박차고 출발",
     "A62F3C344D71D487BFE557B0D61EC72C": "흠! 신입치고는 꽤 괜찮은걸요. 하지만 그냥 <b>반짝하고 끝날 번갯불</>인지, 진짜 절 <b>짜릿하게 놀라게 할 수 있는지</> 아직은 잘 모르겠어요!",
     "0AE571424F8E75E4255268A22D4D5334": "흠... <emphasis>파이어 드래곤 비늘</>이랑 <emphasis>아이스 드래곤 비늘</>을 합치면 어떻게 될까...",
-    "82478B8E4A1B7EF37F80D18741ADA6BD": "<keybind>Target</>을 길게 누른 다음 놓으면 적을 내 쪽으로 끌어당기고, <keybind touch_tag=\"MobileHUD.Button.Juno.MainHand\">Fire</>를 길게 눌렀다 놓으면 적을 더 멀리 밀어내요!",
+    "4E6CBA5946BECEEEC78E58B7DCF93386": "<keybind touch_img=\"Scythe_Ability2\">Target</>을 길게 누른 다음 놓으면 적을 내 쪽으로 끌어당기고, <keybind touch_tag=\"MobileHUD.Button.Juno.MainHand\">Fire</>를 길게 눌렀다 놓으면 적을 더 멀리 밀어내요!",
     "B735A2B34C6051C0201E0AAB8F5BFE1F": "연마 구역",
     "660013B94C9EA855F39ECAB7AB7ED376": "경지에 오른 대나무",
     "BDC7E5674026DCF5A885D4892FEF2794": "무리무리한 악몽",

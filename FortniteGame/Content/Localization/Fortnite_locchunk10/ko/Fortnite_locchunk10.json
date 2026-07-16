@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "빅배럴 DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "복엽기",
     "5B5236944941BFD7DE82B8B05FE11D94": "복엽기",
+    "DF56207843F6244003548CA79CFAA0F4": "복엽기",
     "AD9DF9A2455C274907AE29971466ADBA": "블레이드",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "블레이드",
     "7641CC0743ADBB2B2B04ED9883DD8214": "장신구",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "카테고리 스타",
     "50143CB943E4575C29217F8DAEEF2147": "캐티 코너 키카드",
     "5C4799E749D383FD94F01B83DF9EB80F": "캐티 코너 키카드",
+    "EE922BB945F58FB9604A58A2D82D680C": "캣우먼의 속사 기관단총",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "캣우먼의 맞춤 속사 기관단총입니다. 정교하게 제작되어 탄약 용량이 증가합니다.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "짙은 파란색",
     "EB4A9CD946CF1CAD986993958FEC99A7": "챕터 2 - 시즌 5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "챕터 2 시즌 7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "일일 퀘스트를 완료해 V-bucks와 기타 보상을 받으세요. 일일 퀘스트는 본부 폭풍 보호막 방어 3을 완료한 후에 해제됩니다.",
     "CE03067340AD63B7738CAC992CE20CB5": "일일 퀘스트를 완료해 V-bucks와 기타 보상을 받으세요. 일일 퀘스트는 본부 폭풍 보호막 방어 3을 완료한 후에 해제됩니다.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "일일 퀘스트를 완료해 V-bucks와 기타 보상을 받으세요. 일일 퀘스트는 본부 폭풍 보호막 방어 3을 완료한 후에 해제됩니다.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "아이템을 사용하면 대량의 보호막을 얻을 수 있습니다.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "과즙 1% 함유. 체력과 보호막을 지속적으로 생성합니다.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "연속으로 <Emphasized>빠르게 발사</>되는 무기",
     "E692743845B2413EC831FAA2B8A8E453": "따라쟁이",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "향상된 돌격소총  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "강화 소형 기관단총",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "개선된 드럼 산탄총",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "강화된 작살총",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "강화 전술 산탄총",
     "0FF80D3B493ED5932CB798A6F2A843C9": "캐넌 들어가기",
     "5E374F5643803C665E367F8C5614BF3B": "캐넌 들어가기",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "기능성도구 유틸리티아이템 C4",
     "4953295E4BF85A50A4ED41BA66030E84": "기능성 도구 유틸리티아이템 M80 수류탄",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "기능성 도구 유틸리티아이템 M80 수류탄",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "기능성도구 유틸리티아이템 구급상자 치유",
     "A01271FC4F294D00F10ECA87F84259F2": "기능성도구 유틸리티아이템 구급상자 치유",
     "B7770CBC47F6942773A406B933CC2544": "기능성도구 유틸리티아이템 근접폭발지뢰 보라색쥐",
     "5D41F88F448EBB8B613BB98578F017F1": "기능성도구 유틸리티아이템 점착수류탄",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "황금색",
     "F92ED6D24B56EACA844D27A473619CF5": "골드",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "골드 화폐",
+    "7B0936A2458A998274ED3484DE00BCDA": "황금 트러플",
     "9E2FC1E149997E0DDD27D29737305724": "시즌 내내 매치 XP 부스트를 적용합니다.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "이번 시즌 친구와 함께 플레이하면 매치 XP 부스트가 적용됩니다.",
     "563CC660407AD849E23975A6D0785F51": "그래플링 건",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "총기 원거리 권총 대형탄환 반자동",
     "58FD4E214238EAB848585780B75ADCAC": "총기 원거리 권총 소형탄환 반자동",
     "2D37E97E43724ABA040D5DB07530962F": "총기 원거리 권총 반자동",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "총기 원거리 권총 반자동",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "총기 원거리 권총 반자동",
     "9EA74A7A4C987B0D9D927EB133619716": "총기 원거리 권총 반자동",
     "BF1FF2F14FDC8846B569E7966543F17B": "총기 원거리 권총 반자동",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "근접 폭발 지뢰",
     "FE97DA514506C8282ACCE59BFD3A562C": "근접 폭발 지뢰",
     "EB7FCBAD49E466CA687372AC079CF68B": "근접 폭발 지뢰 +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "적을 끌어당겨 피해를 줍니다.",
     "F155363240FFAB3D9F5F4081A228A9D6": "파동 방향",
     "7C0756AE4401F9E70C1340901973DD78": "파동 트리거",
     "818B645048CD1AF97592E2A6B4C35D12": "파동 트리거",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "헤드 업",
-    "BodyRetrigger": "AI 캐릭터는 감정을 느끼지 않습니다. 눈을 잠깐 쉬어 주는 것은 언제나 좋은 생각이죠!",
-    "Body": "이 섬에는 AI 캐릭터가 있으며 일부 미성년자에게는 적합하지 않을 수 있습니다. AI NPC는 감정을 느끼지 않습니다. 휴식 취하는 것도 잊지 마세요!",
-    "TitleRetrigger": "잠깐 쉬시나요?"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Verse 내보내기",
     "ExportVerse": "Verse 내보내기...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers}티어"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "시간 내에 부활하지 못해 매치에서 퇴장되었습니다."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "애니메이션|커브",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "포트나이트에서 사용할 수 있는 게임 내 화폐인 {0} V-Bucks를 구매하세요.",
+    "ExactAmountOfferDescriptionFormat": "포트나이트에서 사용할 수 있는 게임 내 화폐인 {0} V-Bucks를 구매해 보세요!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "자금결제법 및 특정상거래법에 따른 표시는 게임 메뉴에 표시되는 '법적 사항'에서 또는 다음 웹사이트에서 확인하실 수 있습니다. https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "에픽 AQ",
     "FailedSubmit": "제출 실패",
     "FailedToSubmit_UnknownReason": "알 수 없는 이유로 인해 제출 실패",
+    "ConvAIReportError_Failed": "신고를 제출하지 못했습니다. 나중에 다시 시도하세요.",
     "FeaturedImage": "추천 이미지",
     "RoleText_FeaturedIsland": "추천 섬",
     "CannotCompleteObjective": "게임 목표 완료 불가",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "신고 전송 실패 - 최근에 이미 신고된 플레이어입니다.",
     "ReportNotSent_Error": "신고 전송되지 않음 - 오류 발생",
     "InvalidData": "신고 전송되지 않음 - 유요하지 않은 데이터",
+    "ConvAIReportError_Timeout": "신고 시간이 초과되었습니다. 나중에 다시 시도하세요.",
     "ReportScreenTitle": "{0} 신고",
     "HomebaseMenus_RewardsNotAppearing": "획득한 보상 표시 오류",
     "MissingRewards": "획득한 보상이 나타나지 않음",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "무기/함정 제작 불가",
     "UnableToDisassemble": "무기/함정 해체 불가",
     "UnableToDrop": "무기, 함정, 아이템 버리기 불가",
+    "ConvAIReportError_NoPC": "플레이어를 확인할 수 없습니다. 나중에 다시 시도하세요.",
     "UnableToPickup": "무기, 함정, 아이템 줍기 불가",
     "UnableToReload": "재장전 불가",
     "UnableToRepair": "수리 불가",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "세이브 더 월드: {ZoneType}({Difficulty})",
     "STWLobby": "세이브 더 월드: {ZoneType}({Difficulty})",
     "FrontendDefault": "게임 모드 선택 중...",
+    "LiveSpectating": "친구 관전 중",
     "PvELoading": "게임 시작 중",
     "Replay": "리플레이 보는 중",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "<Username>{0}</> 님의 친구 신청",
     "FriendRequestFromUserDescriptionClamOne": "친구가 내 온라인 상태를 확인하고, 함께 파티를 맺고, 내 커뮤니케이션 설정에 따라 나와 채팅할 수 있습니다.",
     "FriendToastInvalidPin": "유효하지 않은 자녀 보호 PIN",
+    "EpicPartyJoinabilityInviteOnly": "초대만",
     "Rival1v1InviteDetailsReceived": "<Username>{0}</> 님의 초대",
     "FriendIsNowOnlineInvitePartyDescription": "파티에 초대하기",
     "InviteToEpicParty": "에픽 파티에 초대",
     "PartyInvite": "파티 초대",
     "EpicPartyJoin": "에픽 파티 참가",
     "PartyJoin": "파티 참가",
+    "EpicPartyJoinabilityUnableToChangeDetails": "참가 가능 여부가 {0}입니다. 나중에 다시 시도하세요",
+    "EpicPartyJoinabilityJoinable": "참가 가능",
     "PartyJoinedDetails": "<Username>{0}</> 님의 파티에 참가했습니다",
     "EpicPartyJoined": "에픽 파티 참가 완료",
     "EpicPartyJoinedDetails": "에픽 파티 참가 완료",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "<Username>{0}</> 님의 에픽 파티 참가 요청을 보냈습니다.",
     "Party1v1InviteDetailsSent": "<Username>{0}</> 님에게 보냄",
     "FriendImportToastRequestTitle": "친구 목록을 동기화하세요!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "파티 참가 가능 여부를 변경할 수 없습니다",
     "FriendInviteUnknownError": "알 수 없는 오류",
     "RequestToJoinParty_UnknownError": "알 수 없는 오류",
     "RequestToJoinParty_UserNotFound": "사용자 찾을 수 없음",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "제안 거절",
     "PushToTalkInteractionEnable": "눌러서 말하기 활성화",
     "ShowFewerOptionsInteractionDisplayName": "옵션 숨기기",
-    "LfgInvite_Name": "파티 초대",
     "JoinMatchViaPresenceInteractionDisplayName": "게임 참가",
     "JoinAndSpectateFriendsInteractionDisplayName": "파티 참가하고 보기",
     "KickEpicPartyMember": "에픽 파티에서 추방",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "빌드 제로",
     "TournamentTileDate.DateFormat": "{MonthText} {DayNumber}일 {DayText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "매치메이킹 요청을 설정하는 중 문제가 발생했습니다. 다시 시도해 보세요."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "게임이 업데이트되었습니다. 매치메이킹을 위해 다시 대기열에 참여해 주세요.",
     "Error.TeammateRankLevelTooLow": "팀원의 현재 랭크 레벨이 플레이 최소 조건을 충족하지 않습니다.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "현재 선택한 섬에 매치메이킹하지 못했습니다. 자세한 내용은 선택한 경험에 대한 섬 세부정보 페이지를 방문하세요.",
     "UnknownError": "알 수 없는 오류가 발생했습니다. 다시 시도해 주세요.",
     "InvalidGameData": "지원하지 않는 매치 옵션 제공됨",
+    "MatchmakingTimeout": "시간 내에 매치를 찾지 못했습니다. 다시 시도해 보세요.",
     "PostTravelTimeout": "매치 접속을 마무리하지 못했습니다. 다시 시도해 보세요.",
     "PreTravelTimeout": "매치에 제때 참가하지 못했습니다. 다시 시도해 보세요.",
+    "ReadyUpError": "준비하지 못했습니다. 다시 시도해 보세요.",
     "UnexpectedResponse": "매치메이킹 서비스에서 예상치 못한 응답을 받았습니다. 문제가 계속되면 {CheckStatusURL}에서 현재 서비스 상태를 확인하세요.",
     "FailedToConnectToContentBeacon": "콘텐츠 비컨 서비스와 연결하는 데 문제가 발생했습니다. 문제가 계속되면 {CheckStatusURL}에서 현재 서비스 상태를 확인하세요.",
     "AuthenticationIssue": "매치메이킹 서버와 통신하는 데 문제가 발생했습니다. 문제가 계속되면 {CheckStatusURL}에서 현재 서비스 상태를 확인하세요.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "콘텐츠 비컨 클라이언트 생성 중 문제가 발생했습니다. 다시 시도하세요.",
     "FailedToFindEncryptionKey": "유효한 암호화 키를 찾던 중 문제가 발생했습니다.",
     "FailedToGenerateDownloadableContent": "이 경험의 콘텐츠를 생성하는 데 문제가 발생했습니다. 다시 시도해 보고 문제가 계속되면 {CheckStatusURL}에서 현재 서비스 상태를 확인하세요.",
+    "MMSFailedParamGeneration": "매치메이킹 요청을 설정하는 중 문제가 발생했습니다. 다시 시도해 보세요. 문제가 계속되면 {CheckStatusURL}에서 상태를 확인하세요.",
     "FailedToConnectToMMS": "매치메이킹 서버와 통신하는 데 문제가 발생했습니다. 문제가 계속되면 {CheckStatusURL}에서 현재 서비스 상태를 확인하세요.",
     "TravelFailure": "매치로 이동하는 데 문제가 발생했습니다. 다시 시도해 보시고, 문제가 계속 발생할 경우 {CheckStatusURL}에서 현재 서비스 상태를 확인하세요.",
     "NetworkFailure": "매치메이킹 중 네트워크 오류가 발생했습니다. 다시 시도해 보시고, 문제가 계속 발생할 경우 {CheckStatusURL}에서 현재 서비스 상태를 확인하세요.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "자녀가 설정된 시간 제한의 {PlayTimespan}만큼 사용했습니다. 시간은 내일 {NextPeriodStartTime}에 재개될 예정입니다.",
     "PlaytimeAddResultWithExpiration": "자녀가 {1} {2} {3}까지 {0}의 시간을 사용할 수 있습니다. {4}",
     "PlaytimeAddResultRegular": "지금 {NewPlayTimespan}의 시간을 추가합니다.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "그리고 {NextPeriodStartTime} {DayName}에 제작 시간이 추가됩니다.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "또한 {DayName} {NextPeriodStartTime}부터 제작 시간이 추가됩니다.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "그리고 {DayName}에 제작 시간이 추가됩니다.",
     "PlaytimeStaticsOnDay": "{DayName}",
     "PlaytimeStaticsToday": "오늘",

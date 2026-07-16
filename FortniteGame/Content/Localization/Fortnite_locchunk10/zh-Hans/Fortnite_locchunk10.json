@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "桶滚DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "双翼飞机",
     "5B5236944941BFD7DE82B8B05FE11D94": "双翼飞机",
+    "DF56207843F6244003548CA79CFAA0F4": "双翼飞机",
     "AD9DF9A2455C274907AE29971466ADBA": "[PH]基础剑刃",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "[PH]基础剑刃",
     "7641CC0743ADBB2B2B04ED9883DD8214": "闪烁",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "类别星币",
     "50143CB943E4575C29217F8DAEEF2147": "喵喵角落钥匙卡",
     "5C4799E749D383FD94F01B83DF9EB80F": "喵喵角落钥匙卡",
+    "EE922BB945F58FB9604A58A2D82D680C": "猫女的速射冲锋枪",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "猫女的定制速射冲锋枪。经过精心打造，弹药容量增加。",
     "D76CF3D846DE65E8BE51F39F748DAA43": "天蓝",
     "EB4A9CD946CF1CAD986993958FEC99A7": "第二章第五赛季 ",
     "5D048A7F45BDC6C054F4528378401CD0": "第2章第七赛季",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "完成每日挑战以获得V币和其他奖励。完成大本营风暴护盾防御3后解锁每日任务。",
     "CE03067340AD63B7738CAC992CE20CB5": "完成每日挑战以获得V币和其他奖励。完成大本营风暴护盾防御3后解锁每日任务。",
     "FCF5B17B42BD4A87A0987F90AF61722D": "完成每日挑战以获得V币和其他奖励。完成大本营风暴护盾防御3后解锁每日任务。",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "使用可获得大量护盾。",
     "7AA52F414DEC5DE1253544A8114AE9C3": "1%果汁含量。能逐渐恢复生命值和护盾。",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "持续的<Emphasized>高射速</>武器",
     "E692743845B2413EC831FAA2B8A8E453": "模仿者",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "强化突击步枪  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "强化小型冲锋枪",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "强化弹鼓霰弹枪",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "强化鱼叉枪",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "强化战术霰弹枪",
     "0FF80D3B493ED5932CB798A6F2A843C9": "进入加农炮",
     "5E374F5643803C665E367F8C5614BF3B": "进入加农炮",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "装置 实用物品 C4",
     "4953295E4BF85A50A4ED41BA66030E84": "装置 实用物品 M80手雷",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "装置 实用物品 M80手雷",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "配件 实用物品 医疗包治疗",
     "A01271FC4F294D00F10ECA87F84259F2": "配件 实用物品 医疗包治疗",
     "B7770CBC47F6942773A406B933CC2544": "小装置 实用物品 感应地雷 紫老鼠",
     "5D41F88F448EBB8B613BB98578F017F1": "装置 实用物品 黏性手雷",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "黄金",
     "F92ED6D24B56EACA844D27A473619CF5": "黄金",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "金本位货币",
+    "7B0936A2458A998274ED3484DE00BCDA": "金松露",
     "9E2FC1E149997E0DDD27D29737305724": "获得整季匹配经验加成。",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "本赛季中你与好友游玩时获得经验加成。",
     "563CC660407AD849E23975A6D0785F51": "抓钩",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "远程枪械手枪重型子弹半自动式",
     "58FD4E214238EAB848585780B75ADCAC": "远程枪械手枪轻型子弹半自动式",
     "2D37E97E43724ABA040D5DB07530962F": "枪 远距 手枪 半自动",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "枪械 远距 手枪 半自动",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "枪 远距 手枪 半自动",
     "9EA74A7A4C987B0D9D927EB133619716": "枪 远距 手枪 半自动",
     "BF1FF2F14FDC8846B569E7966543F17B": "枪 远距 手枪 半自动",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "感应地雷",
     "FE97DA514506C8282ACCE59BFD3A562C": "感应地雷",
     "EB7FCBAD49E466CA687372AC079CF68B": "感应地雷+",
+    "31127BE846D8E9589A9E6BA80983EEB7": "将敌人拉向自己并造成伤害。",
     "F155363240FFAB3D9F5F4081A228A9D6": "脉冲方向",
     "7C0756AE4401F9E70C1340901973DD78": "脉冲激活板",
     "818B645048CD1AF97592E2A6B4C35D12": "脉冲激活板",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "抬头挺胸",
-    "BodyRetrigger": "这些AI角色不会产生情绪，适当让眼睛休息一下也挺好！",
-    "Body": "此岛屿使用AI角色，可能不适合部分未成年人。这些AI NPC不会产生情绪。记得休息一下！",
-    "TitleRetrigger": "休息一下？"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "导出Verse",
     "ExportVerse": "导出Verse……",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers}阶"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "你因未能在规定时间内重生而被移出比赛。"
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "动画|曲线",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "购买{0}V币，这是一种可以在Fortnite中消费的游戏内货币。",
+    "ExactAmountOfferDescriptionFormat": "再购入{0}V币，完成购买。该游戏内货币可以在Fortnite中使用！",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Epic 质量保证",
     "FailedSubmit": "提交失败",
     "FailedToSubmit_UnknownReason": "由于位置原因提交失败",
+    "ConvAIReportError_Failed": "提交举报失败。请稍后重试。",
     "FeaturedImage": "精选图片",
     "RoleText_FeaturedIsland": "推荐岛屿",
     "CannotCompleteObjective": "游戏目标无法完成",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "举报未发送——玩家近期已被举报。",
     "ReportNotSent_Error": "报告未发送：出现错误。",
     "InvalidData": "报告未发送：数据无效。",
+    "ConvAIReportError_Timeout": "举报超时。请稍后重试。",
     "ReportScreenTitle": "举报{0}",
     "HomebaseMenus_RewardsNotAppearing": "未显示我获得的奖励",
     "MissingRewards": "未显示我获得的奖励",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "无法制作武器/陷阱",
     "UnableToDisassemble": "无法拆解武器/陷阱",
     "UnableToDrop": "无法丢弃武器、陷阱或物品",
+    "ConvAIReportError_NoPC": "无法识别玩家。请稍后重试。",
     "UnableToPickup": "无法拾取武器、陷阱或物品",
     "UnableToReload": "无法装填",
     "UnableToRepair": "无法修理",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "守护家园：{ZoneType} ({Difficulty})",
     "STWLobby": "守护家园：{ZoneType} ({Difficulty})",
     "FrontendDefault": "正在选择游戏模式……",
+    "LiveSpectating": "正在观看好友对局",
     "PvELoading": "开始游戏",
     "Replay": "正在观看回放",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "来自{0}的好友申请",
     "FriendRequestFromUserDescriptionClamOne": "根据你的“通讯设置”，好友可以看到你的在线状态，与你组队和聊天。",
     "FriendToastInvalidPin": "家长 PIN 码无效",
+    "EpicPartyJoinabilityInviteOnly": "仅限邀请",
     "Rival1v1InviteDetailsReceived": "来自<Username>{0}</>的邀请",
     "FriendIsNowOnlineInvitePartyDescription": "邀请他们加入队伍",
     "InviteToEpicParty": "邀请加入Epic团队",
     "PartyInvite": "邀请组队",
     "EpicPartyJoin": "加入Epic团队",
     "PartyJoin": "加入小队",
+    "EpicPartyJoinabilityUnableToChangeDetails": "加入状态{0}，稍后重试",
+    "EpicPartyJoinabilityJoinable": "可加入",
     "PartyJoinedDetails": "已加入<Username>{0}的</>小队",
     "EpicPartyJoined": "已加入Epic团队",
     "EpicPartyJoinedDetails": "已加入Epic团队",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "已发送请求加入<Username>{0}</>的Epic团队",
     "Party1v1InviteDetailsSent": "已发送至<Username>{0}</>",
     "FriendImportToastRequestTitle": "同步你的好友列表！",
+    "EpicPartyJoinabilityUnableToChangeTitle": "无法更改队伍加入设置",
     "FriendInviteUnknownError": "未知错误",
     "RequestToJoinParty_UnknownError": "未知错误",
     "RequestToJoinParty_UserNotFound": "未找到用户",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "驳回建议",
     "PushToTalkInteractionEnable": "启用按键说话",
     "ShowFewerOptionsInteractionDisplayName": "更少选项",
-    "LfgInvite_Name": "邀请组队",
     "JoinMatchViaPresenceInteractionDisplayName": "加入游戏",
     "JoinAndSpectateFriendsInteractionDisplayName": "加入组队并观赛",
     "KickEpicPartyMember": "从Epic团队踢出",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "零建造",
     "TournamentTileDate.DateFormat": "{MonthText} {DayNumber}日{DayText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "设置你的匹配请求时遇到了问题。请再试一次。"
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "已应用游戏更新。请重新排队匹配。",
     "Error.TeammateRankLevelTooLow": "队友不符合当前游戏要求的最低段位。",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "无法匹配至当前所选岛屿，请查看岛屿详情页了解更多信息。",
     "UnknownError": "未知错误。再试一次？",
     "InvalidGameData": "不支持提供的匹配选项",
+    "MatchmakingTimeout": "我们未能在规定时间内为你匹配到对局。请再试一次。",
     "PostTravelTimeout": "我们未能完成与比赛的连接。请再试一次。",
     "PreTravelTimeout": "我们无法让你及时进入比赛。请再试一次。",
+    "ReadyUpError": "我们无法准备就绪。请再试一次。",
     "UnexpectedResponse": "我们意外获悉匹配服务器未响应。如果问题继续，请前往{CheckStatusURL}。",
     "FailedToConnectToContentBeacon": "我们与内容信标服务的连接出现了问题。请重试一次，如果问题仍然存在，请前往{CheckStatusURL}。",
     "AuthenticationIssue": "我们与匹配服务器的连接出现了问题。重试一次，但如果问题仍然存在，请前往{CheckStatusURL}。",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "无法创建内容信标客户端，请重试服务器。",
     "FailedToFindEncryptionKey": "无法找到有效的加密密钥。",
     "FailedToGenerateDownloadableContent": "为此对局生成内容时出错。请重试一次，如果问题仍然存在，请前往{CheckStatusURL}。",
+    "MMSFailedParamGeneration": "设置你的匹配请求时遇到了问题。请再试一次。如果问题仍然存在，请查看{CheckStatusURL}。",
     "FailedToConnectToMMS": "我们与匹配服务器的会话出现了问题。重试一次，但如果仍然有问题，请查看{CheckStatusURL}。",
     "TravelFailure": "我们前往比赛时遇到了问题。请再试一次，如果问题仍然存在，请查看{CheckStatusURL}。",
     "NetworkFailure": "匹配过程中遇到网络错误。请再试一次，如果问题仍然存在，请查看{CheckStatusURL}。",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "您的孩子已经使用了{PlayTimespan}。时间将于明天{NextPeriodStartTime}恢复。",
     "PlaytimeAddResultWithExpiration": "你的孩子将拥有{0}的可用时长，截至{1}{2}{3}。{4}",
     "PlaytimeAddResultRegular": "您的孩子将从现在开始获得{NewPlayTimespan}。",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "以及更多创作时间，将从{DayName}{NextPeriodStartTime}开始。",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "以及更多创作时间，从{NextPeriodStartTime}{DayName}开始。",
     "NextPlayPeriodAllowedTimeBothCreateDay": "以及更多创作时间，从{DayName}开始。",
     "PlaytimeStaticsOnDay": "于{DayName}",
     "PlaytimeStaticsToday": "今天",

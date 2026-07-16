@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Duża beczka DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Dwupłatowiec",
     "5B5236944941BFD7DE82B8B05FE11D94": "Dwupłatowiec",
+    "DF56207843F6244003548CA79CFAA0F4": "Dwupłatowiec",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Świecidełko",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "Gwiazdy kategorii",
     "50143CB943E4575C29217F8DAEEF2147": "Karta magnetyczna Kociego Kącika",
     "5C4799E749D383FD94F01B83DF9EB80F": "Karta magnetyczna Kociego Kącika",
+    "EE922BB945F58FB9604A58A2D82D680C": "Szybkostrzelny pistolet maszynowy Kobiety Kota",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "Zmodyfikowany szybkostrzelny pistolet maszynowy Kobiety Kota. Starannie wykonany z myślą o większej pojemność magazynka.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Modry",
     "EB4A9CD946CF1CAD986993958FEC99A7": "Sezon 5 Rozdziału 2 ",
     "5D048A7F45BDC6C054F4528378401CD0": "Sezon 7 Rozdziału 2",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "Kończ zadania dnia, by zdobywać V-dolce i inne nagrody. Zadania dnia zostaną odblokowane po ukończeniu trzeciej misji obrony burzowej tarczy w bazie głównej.",
     "CE03067340AD63B7738CAC992CE20CB5": "Kończ zadania dnia, by zdobywać V-dolce i inne nagrody. Zadania dnia zostaną odblokowane po ukończeniu trzeciej misji obrony burzowej tarczy w bazie głównej.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "Kończ zadania dnia, by zdobywać V-dolce i inne nagrody. Zadania dnia zostaną odblokowane po ukończeniu trzeciej misji obrony burzowej tarczy w bazie głównej.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Zjedz by odzyskać dużą ilość osłon.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "Zawiera 1% soku. Przez pewien czas regeneruje zdrowie i osłonę.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "<Emphasized>Szybkostrzelna</> broń strzelająca ogniem ciągłym",
     "E692743845B2413EC831FAA2B8A8E453": "Naśladowca",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Usprawniony Karabin Szturmowy  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Ulepszony kompaktowy pistolet maszynowy",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Usprawniona strzelba (magazynek bębnowy)",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Ulepszona wyrzutnia harpunów",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Ulepszona strzelba taktyczna",
     "0FF80D3B493ED5932CB798A6F2A843C9": "Wejdź do armaty",
     "5E374F5643803C665E367F8C5614BF3B": "Wejdź do armaty",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "Gadżet narzędzie C4",
     "4953295E4BF85A50A4ED41BA66030E84": "Gadżet narzędzie granat M80",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "Gadżet narzędzie granat M80",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "Gadżet narzędzie apteczka leczenie",
     "A01271FC4F294D00F10ECA87F84259F2": "Gadżet narzędzie apteczka leczenie",
     "B7770CBC47F6942773A406B933CC2544": "Gadżet narzędzie MinaZbliżeniowa FioletowaMysz",
     "5D41F88F448EBB8B613BB98578F017F1": "Gadżet narzędzie GranatSamoprzylepny",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "Złoty",
     "F92ED6D24B56EACA844D27A473619CF5": "Złoto",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "Waluta – złoto",
+    "7B0936A2458A998274ED3484DE00BCDA": "Złota trufla",
     "9E2FC1E149997E0DDD27D29737305724": "Zwiększa ilość PD zdobywaną podczas gry w całym sezonie.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "Zwiększa ilość PD zdobywaną podczas gry ze znajomymi w tym sezonie.",
     "563CC660407AD849E23975A6D0785F51": "Przysysak",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Palna dystansowa pistolet ciężkie naboje samopowtarzalna",
     "58FD4E214238EAB848585780B75ADCAC": "Palna dystansowa pistolety lekkie naboje samopowtarzalne",
     "2D37E97E43724ABA040D5DB07530962F": "Palna dystansowa pistolet samopowtarzalna",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Palna dystansowa pistolety samopowtarzalna",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Palna dystansowa pistolety samopowtarzalna",
     "9EA74A7A4C987B0D9D927EB133619716": "Palna dystansowa pistolet samopowtarzalna",
     "BF1FF2F14FDC8846B569E7966543F17B": "Palna dystansowa pistolet samopowtarzalna",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "Mina Zbliżeniowa",
     "FE97DA514506C8282ACCE59BFD3A562C": "Mina zbliżeniowa",
     "EB7FCBAD49E466CA687372AC079CF68B": "Mina zbliżeniowa +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Przyciąga wrogów do ciebie i rani ich.",
     "F155363240FFAB3D9F5F4081A228A9D6": "Kierunek impulsu",
     "7C0756AE4401F9E70C1340901973DD78": "Aktywator impulsu",
     "818B645048CD1AF97592E2A6B4C35D12": "Aktywator impulsu",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "Plecki",
-    "BodyRetrigger": "Pamiętaj, że te postacie AI nie odczuwają emocji, a twoje oczy od czasu do czasu muszą odpocząć.",
-    "Body": "Ta wyspa korzysta z postaci AI i może być nieodpowiednia dla niektórych osób nieletnich. Te postacie niezależne AI nie odczuwają emocji. Pamiętaj o robieniu sobie przerw w grze!",
-    "TitleRetrigger": "Czas na przerwę?"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Eksportuj Verse",
     "ExportVerse": "Eksportuj Verse...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "Stopnie: {tiers}"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "Usunięto cię z meczu za nieodrodzenie się na czas."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "Animacje|Krzywe",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "{0}x"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "Kup {0} V-dolców. V-dolce to waluta w grze do wydania w Fortnite.",
+    "ExactAmountOfferDescriptionFormat": "Sfinalizuj zakup, zgarniając {0} V-dolców – waluty do wydania w Fortnite!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Kontrola jakości Epic",
     "FailedSubmit": "Nie udało się przesłać",
     "FailedToSubmit_UnknownReason": "Nie udało się przesłać z nieznanego powodu",
+    "ConvAIReportError_Failed": "Nie udało się przesłać zgłoszenia. Spróbuj ponownie później.",
     "FeaturedImage": "Wyróżniona ilustracja",
     "RoleText_FeaturedIsland": "Wyróżniona wyspa",
     "CannotCompleteObjective": "Nie można wykonać celu gry",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "Nie wysłano zgłoszenia – gracz został niedawno zgłoszony.",
     "ReportNotSent_Error": "Nie wysłano zgłoszenia – wystąpił błąd.",
     "InvalidData": "Nie wysłano zgłoszenia – nieprawidłowe dane.",
+    "ConvAIReportError_Timeout": "Zgłoszenie wygasło. Spróbuj ponownie później.",
     "ReportScreenTitle": "{0} – zgłoś",
     "HomebaseMenus_RewardsNotAppearing": "Nie otrzymuję zdobytych nagród",
     "MissingRewards": "Nie otrzymuję zdobytych nagród",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "Nie mogę stworzyć broni/pułapki",
     "UnableToDisassemble": "Nie mogę rozebrać broni/pułapki",
     "UnableToDrop": "Nie mogę upuścić broni, pułapki lub przedmiotu",
+    "ConvAIReportError_NoPC": "Nie można zidentyfikować gracza. Spróbuj ponownie później.",
     "UnableToPickup": "Nie mogę podnieść broni, pułapki lub przedmiotu",
     "UnableToReload": "Nie mogę przeładować broni",
     "UnableToRepair": "Nie mogę naprawiać",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "Ratowanie Świata {ZoneType} ({Difficulty})",
     "STWLobby": "Ratowanie Świata {ZoneType} ({Difficulty})",
     "FrontendDefault": "Wybieranie trybu gry...",
+    "LiveSpectating": "Oglądanie znajomego",
     "PvELoading": "Rozpoczyna grę",
     "Replay": "Ogląda powtórkę",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "Zaproszenie do znajomych od: <Username>{0}</>",
     "FriendRequestFromUserDescriptionClamOne": "Znajomi mogą widzieć twój status online, formować z tobą ekipy i rozmawiać z tobą na czacie, zależnie od ustawień łączności.",
     "FriendToastInvalidPin": "Nieprawidłowy kod PIN kontroli rodzicielskiej",
+    "EpicPartyJoinabilityInviteOnly": "Tylko zaproszenie",
     "Rival1v1InviteDetailsReceived": "Zaproszenie od <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "Zaproś do ekipy",
     "InviteToEpicParty": "Zaproś do ekipy Epic",
     "PartyInvite": "Zaproś do ekipy",
     "EpicPartyJoin": "Dołącz do ekipy Epic",
     "PartyJoin": "Dołącz do ekipy",
+    "EpicPartyJoinabilityUnableToChangeDetails": "Możliwość dołączenia: {0}, spróbuj ponownie później",
+    "EpicPartyJoinabilityJoinable": "Można dołączyć",
     "PartyJoinedDetails": "Dołączono do ekipy <Username>{0}</>",
     "EpicPartyJoined": "Dołączono do ekipy Epic",
     "EpicPartyJoinedDetails": "Dołączono do ekipy Epic",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "Wysłano prośbę o dołączenie do ekipy Epic <Username>{0}</>",
     "Party1v1InviteDetailsSent": "Wysłano do <Username>{0}</>",
     "FriendImportToastRequestTitle": "Zsynchronizuj listę znajomych!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "Nie można zmienić ustawień dołączania do ekipy",
     "FriendInviteUnknownError": "Nieznany błąd",
     "RequestToJoinParty_UnknownError": "Nieznany błąd",
     "RequestToJoinParty_UserNotFound": "Nie znaleziono użytkownika",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "Odrzuć propozycję",
     "PushToTalkInteractionEnable": "Włącz aktywację głosu przyciskiem",
     "ShowFewerOptionsInteractionDisplayName": "Mniej opcji",
-    "LfgInvite_Name": "Zaproś do ekipy",
     "JoinMatchViaPresenceInteractionDisplayName": "Dołącz do gry",
     "JoinAndSpectateFriendsInteractionDisplayName": "Dołącz do ekipy i oglądaj",
     "KickEpicPartyMember": "Wyrzuć z ekipy Epic",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "Zero Budowania",
     "TournamentTileDate.DateFormat": "{DayText}, {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "Mieliśmy problem z ustawieniem twojego żądania dobierania graczy. Spróbuj jeszcze raz."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "Gra została zaktualizowana. Ponów dobieranie graczy.",
     "Error.TeammateRankLevelTooLow": "Twój towarzysz nie spełnia minimalnych wymagań poziomu rankingowego.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "Nie można dopasować gracza do aktualnie wybranej wyspy. Sprawdź szczegóły wyspy, aby dowiedzieć się więcej.",
     "UnknownError": "Wystąpił nieznany błąd. Może spróbuj ponownie?",
     "InvalidGameData": "Podano nieobsługiwane opcje rozgrywki",
+    "MatchmakingTimeout": "Nie udało się znaleźć dla ciebie meczu na czas. Spróbuj jeszcze raz.",
     "PostTravelTimeout": "Nie udało się dokończyć nawiązywania połączenia z grą. Spróbuj jeszcze raz.",
     "PreTravelTimeout": "Nie udało się znaleźć dla ciebie meczu na czas. Spróbuj jeszcze raz.",
+    "ReadyUpError": "Nie mogliśmy zgłosić gotowości. Spróbuj jeszcze raz.",
     "UnexpectedResponse": "System dobierania graczy wygenerował odpowiedź, której się nie spodziewaliśmy. Jeżeli problem się powtórzy, sprawdź stronę {CheckStatusURL}.",
     "FailedToConnectToContentBeacon": "Mamy kłopoty z połączeniem z usługą sygnalizatora treści. Spróbuj jeszcze raz, a jeśli problem nie ustąpi, odwiedź stronę {CheckStatusURL}.",
     "AuthenticationIssue": "Mamy kłopoty z połączeniem z usługą dobierania graczy. Spróbuj jeszcze raz, a jeśli problem nie ustąpi, odwiedź stronę {CheckStatusURL}.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "Mamy kłopoty z utworzeniem klienta nadajnika treści. Spróbuj jeszcze raz.",
     "FailedToFindEncryptionKey": "Nie udało nam się znaleźć prawidłowego klucza szyfrowania.",
     "FailedToGenerateDownloadableContent": "Mamy problem ze stworzeniem materiałów do tej przygody. Spróbuj jeszcze raz, a jeśli problem nie ustąpi, odwiedź stronę {CheckStatusURL}.",
+    "MMSFailedParamGeneration": "Mieliśmy problem z ustawieniem twojego żądania dobierania graczy. Spróbuj jeszcze raz. Jeśli problem nie ustąpi, odwiedź stronę {CheckStatusURL}.",
     "FailedToConnectToMMS": "Mamy kłopoty z komunikacją z usługą dobierania graczy. Spróbuj jeszcze raz, a jeśli problem nie ustąpi, odwiedź stronę {CheckStatusURL}.",
     "TravelFailure": "Mieliśmy problemy z dotarciem na mecz. Spróbuj jeszcze raz, a jeśli problem nie ustąpi, sprawdź {CheckStatusURL}.",
     "NetworkFailure": "Wystąpił błąd sieci podczas dobierania graczy. Spróbuj jeszcze raz, a jeśli problem nie ustąpi, sprawdź {CheckStatusURL}.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "Twoje dziecko wykorzystało {PlayTimespan} z limitu czasu gry. Zgodnie z harmonogramem czas wznowi się jutro o {NextPeriodStartTime}.",
     "PlaytimeAddResultWithExpiration": "Twoje dziecko będzie mieć {0} czasu do wykorzystania do {1} {2} {3}. {4}",
     "PlaytimeAddResultRegular": "Twoje dziecko będzie mieć od teraz {NewPlayTimespan}.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "i więcej czasu na tworzenie od: {NextPeriodStartTime} {DayName}.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "i więcej czasu na tworzenie o: {NextPeriodStartTime} {DayName}.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "i więcej czasu na tworzenie od: {DayName}.",
     "PlaytimeStaticsOnDay": "{DayName}",
     "PlaytimeStaticsToday": "dziś",

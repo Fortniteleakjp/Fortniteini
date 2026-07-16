@@ -521,7 +521,7 @@
     "Device_WildlifeSpawner_V2_C.CustomDamageToEnvironment.DisplayName": "Sát Thương Tùy Chỉnh Gây Ra Xung Quanh",
     "Device_WildlifeSpawner_V2_C.CustomDamageToPlayer.DisplayName": "Sát Thương Tùy Chỉnh Gây Ra Cho Người Chơi",
     "Device_WildlifeSpawner_V2_C.CustomMovementSpeedMultiplier.DisplayName": "Hệ Số Tốc Độ Di Chuyển Tùy Chỉnh.",
-    "Device_WildlifeSpawner_V2_C.Type.Sidekick Sprite.DisplayName": "Tinh Linh Xung Kích",
+    "Device_WildlifeSpawner_V2_C.Type.Sidekick Sprite.DisplayName": "Tinh Linh Trung Phong",
     "Device_WildlifeSpawner_V2_C.EnergyConsumeAmount.Description": "Xác định lượng Năng Lượng tiêu hao khi các chức năng liên quan được kích hoạt",
     "Device_WildlifeSpawner_V2_C.EnergyRestoreAmount.Description": "Xác định lượng Năng Lượng được khôi phục khi các chức năng liên quan được kích hoạt",
     "Device_WildlifeSpawner_V2_C.BiomeVariant.Description": "Xác định biến thể màu sắc cho từng quần thể. Gà, Lợn Rừng và Sói giờ đã có các biến thể màu sắc khác nhau để sử dụng.",

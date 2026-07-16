@@ -552,7 +552,7 @@
     "Device_WildlifeSpawner_V2_C.WildlifeTeamType.Description": "決定要將野生動物指派到哪支隊伍，可視需要指定隊伍索引",
     "Device_WildlifeSpawner_V2_C.ChangePatrolPathTimer.Description": "決定新生成的野生動物要花多少時間選擇巡邏路線。時間到後，新生成的野生動物會隨機選擇巡邏路線。這不會影響已經生成的野生動物。",
     "Device_WildlifeSpawner_V2_C.MaximumTamedWildlife.Description": "決定玩家在遊戲中可從這個裝置馴服的野生動物上限。預設表示套用島嶼設定中的相同選項組合。裝置上的馴服上限不會大於島嶼設定上限。",
-    "Device_WildlifeSpawner_V2_C.SpriteActivations.Description": "決定一個精靈可以從玩家物品欄啟動的次數。",
+    "Device_WildlifeSpawner_V2_C.SpriteActivations.Description": "決定一隻精靈可以從玩家物品欄啟動的次數。",
     "Device_WildlifeSpawner_V2_C.SpawnThroughWalls.Description": "決定野生動物是否必須在生成器視線範圍內生成，還是牠們可以在阻礙牆後生成。",
     "Device_WildlifeSpawner_V2_C.EnabledOnGameStart.Description": "決定在遊戲開始時，生成器是否已經啟用。",
     "Device_WildlifeSpawner_V2_C.WildlifeTeamIndex.Description": "決定哪支隊伍會生成野生動物",

@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Canna maggiorata DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplano",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplano",
+    "DF56207843F6244003548CA79CFAA0F4": "Biplano",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Gioiello",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "Stelle di categoria",
     "50143CB943E4575C29217F8DAEEF2147": "Chiave elettronica Gattogrill",
     "5C4799E749D383FD94F01B83DF9EB80F": "Chiave elettronica Gattogrill",
+    "EE922BB945F58FB9604A58A2D82D680C": "Mitraglietta a fuoco rapido di Catwoman",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "Mitraglietta a fuoco rapido personalizzata di Catwoman. Realizzata con meticolosa attenzione per aumentare la capacità di munizioni.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Ceruleo",
     "EB4A9CD946CF1CAD986993958FEC99A7": "Capitolo 2 - Stagione 5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "Capitolo 2 - Stagione 7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "Completa incarichi giornalieri per guadagnare V-buck e altre ricompense. Gli incarichi giornalieri vengono sbloccati dopo aver completato Difesa scudo anti-Tempesta casa base 3.",
     "CE03067340AD63B7738CAC992CE20CB5": "Completa incarichi giornalieri per guadagnare V-buck e altre ricompense. Gli incarichi giornalieri vengono sbloccati dopo aver completato Difesa scudo anti-Tempesta casa base 3.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "Completa incarichi giornalieri per guadagnare V-buck e altre ricompense. Gli incarichi giornalieri vengono sbloccati dopo aver completato Difesa scudo anti-Tempesta casa base 3.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Consuma per ottenere una grande quantità di scudo.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "Contiene l'1% di succo. Applica salute e scudi nel tempo.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "Arma con cadenza di tiro <Emphasized>elevata</> e costante",
     "E692743845B2413EC831FAA2B8A8E453": "Copione",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Fucile d'assalto migliorato  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Mitraglietta compatta migliorata",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Fucile pesante a tamburo potenziato",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Fiocina potenziata",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Fucile pesante tattico migliorato",
     "0FF80D3B493ED5932CB798A6F2A843C9": "Entra nel cannone",
     "5E374F5643803C665E367F8C5614BF3B": "Entra nel cannone",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "Gadget UtilityItem C4",
     "4953295E4BF85A50A4ED41BA66030E84": "Gadget UtilityItem M80 Grenade",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "Gadget UtilityItem M80 Grenade",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "Gadget UtilityItem MedKit Heal",
     "A01271FC4F294D00F10ECA87F84259F2": "Gadget UtilityItem MedKit Heal",
     "B7770CBC47F6942773A406B933CC2544": "Gadget OggettoUtilità Minadiprossimità TopoViola",
     "5D41F88F448EBB8B613BB98578F017F1": "Gadget UtilityItem StickyGrenade",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "Oro",
     "F92ED6D24B56EACA844D27A473619CF5": "Oro",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "Valuta Oro",
+    "7B0936A2458A998274ED3484DE00BCDA": "Tartufo dorato",
     "9E2FC1E149997E0DDD27D29737305724": "Fornisce un incremento al quantitativo di PE partita che ricevi per l'intera stagione.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "Fornisce un incremento al quantitativo di PE partita che ricevi quando giochi con amici in questa stagione",
     "563CC660407AD849E23975A6D0785F51": "Rampino",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Guns Ranged Pistols HeavyBullets SemiAuto",
     "58FD4E214238EAB848585780B75ADCAC": "ArmiDaFuoco Distanza Pistole ProiettiliLeggeri SemiAuto",
     "2D37E97E43724ABA040D5DB07530962F": "ArmiDaFuoco Distanza Pistole SemiAuto",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "ArmiDaFuoco Distanza Pistole SemiAuto",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "ArmiDaFuoco Distanza Pistole SemiAuto",
     "9EA74A7A4C987B0D9D927EB133619716": "ArmiDaFuoco Distanza Pistole SemiAuto",
     "BF1FF2F14FDC8846B569E7966543F17B": "ArmiDaFuoco Distanza Pistole SemiAuto",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "Mina di prossimità",
     "FE97DA514506C8282ACCE59BFD3A562C": "Mina di prossimità",
     "EB7FCBAD49E466CA687372AC079CF68B": "Mina di prossimità +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Trascina i nemici verso di te e infligge danno.",
     "F155363240FFAB3D9F5F4081A228A9D6": "Direzione impulso",
     "7C0756AE4401F9E70C1340901973DD78": "Attivatore a impulsi",
     "818B645048CD1AF97592E2A6B4C35D12": "Attivatore a impulsi",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "Guarda un po'",
-    "BodyRetrigger": "Ricorda che questi personaggi IA non provano emozioni e riposare gli occhi è sempre una buona idea!",
-    "Body": "Questa isola usa personaggi IA e potrebbe non essere adatta ad alcune persone minorenni. Questi PNG IA non provano emozioni. Ricordati di fare una pausa!",
-    "TitleRetrigger": "È l'ora di una pausa?"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Esporta Verse",
     "ExportVerse": "Esporta Verse...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} livelli"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "Hai subito la rimozione dalla partita per non aver effettuato la rigenerazione in tempo."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "Animazione|Curve",
@@ -3378,7 +3384,7 @@
     "AllowedTimeOff": "0 minuti",
     "AllowedTimeNoLimit": "Senza limiti",
     "DailyTimeWindowFormat": "{0} - {1}",
-    "AllowedTimeHour": "{0} {0}|plural(one=ora,other=ore)",
+    "AllowedTimeHour": "{0} {0}|plural(one=ora,other=ore,many=di ore)",
     "AllowedTimeMinute": "{0} {0}|plural(one=minuto,other=minuti)",
     "AllowedTimeFormat": "{0}{1}{2}"
   },
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "Compra {0} V-buck di Fortnite, la valuta di gioco utilizzabile su Fortnite.",
+    "ExactAmountOfferDescriptionFormat": "Per completare l'acquisto, compra {0} V-buck, la valuta di gioco utilizzabile su Fortnite!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Controllo qualità Epic",
     "FailedSubmit": "Invio non riuscito",
     "FailedToSubmit_UnknownReason": "Impossibile inviare per motivi sconosciuti",
+    "ConvAIReportError_Failed": "Invio segnalazione non riuscito. Riprova più tardi.",
     "FeaturedImage": "Immagine in evidenza",
     "RoleText_FeaturedIsland": "Isola in evidenza",
     "CannotCompleteObjective": "L'obiettivo di gioco non può essere completato",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "Segnalazione non inviata - Il giocatore è stato segnalato di recente.",
     "ReportNotSent_Error": "Segnalazione non inviata - si è verificato un errore.",
     "InvalidData": "Segnalazione non inviata - dati non validi.",
+    "ConvAIReportError_Timeout": "La segnalazione è scaduta. Riprova più tardi.",
     "ReportScreenTitle": "Segnala {0}",
     "HomebaseMenus_RewardsNotAppearing": "Le ricompense che ho guadagnato non compaiono",
     "MissingRewards": "Le ricompense che ho guadagnato non compaiono",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "Impossibile creare arma/trappola",
     "UnableToDisassemble": "Impossibile smontare arma/trappola",
     "UnableToDrop": "Impossibile lasciare arma, trappola o oggetto",
+    "ConvAIReportError_NoPC": "Impossibile identificare il giocatore. Riprova più tardi.",
     "UnableToPickup": "Impossibile raccogliere arma, trappola o oggetto",
     "UnableToReload": "Impossibile ricaricare",
     "UnableToRepair": "Impossibile riparare",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "Salva il mondo: {ZoneType} ({Difficulty})",
     "STWLobby": "Salva il mondo: {ZoneType} ({Difficulty})",
     "FrontendDefault": "Selezione modalità di gioco in corso...",
+    "LiveSpectating": "Spettatore di un amico",
     "PvELoading": "Avvia una partita",
     "Replay": "Guardare un replay",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "Richiesta di amicizia da <Username>{0}</>",
     "FriendRequestFromUserDescriptionClamOne": "Gli amici possono vedere il tuo Stato online, formare gruppi e chattare con te a seconda delle impostazioni di comunicazione.",
     "FriendToastInvalidPin": "PIN genitori non valido",
+    "EpicPartyJoinabilityInviteOnly": "Solo su invito",
     "Rival1v1InviteDetailsReceived": "Invito da <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "Invitali a tornare nel gruppo",
     "InviteToEpicParty": "Invita nel gruppo Epic",
     "PartyInvite": "Invita nel gruppo",
     "EpicPartyJoin": "Unisciti al gruppo Epic",
     "PartyJoin": "Unisciti al gruppo",
+    "EpicPartyJoinabilityUnableToChangeDetails": "La partecipazione è {0}. Riprova più tardi.",
+    "EpicPartyJoinabilityJoinable": "Puoi partecipare",
     "PartyJoinedDetails": "Entrato nel gruppo di <Username>{0}</>",
     "EpicPartyJoined": "Adesione al gruppo Epic effettuata",
     "EpicPartyJoinedDetails": "Adesione al gruppo Epic effettuata",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "Richiesta di unirsi al gruppo Epic di <Username>{0}</>",
     "Party1v1InviteDetailsSent": "Inviato a <Username>{0}</>",
     "FriendImportToastRequestTitle": "Sincronizza la tua lista amici!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "Impossibile modificare la possibilità di unirsi al gruppo",
     "FriendInviteUnknownError": "Errore sconosciuto",
     "RequestToJoinParty_UnknownError": "Errore sconosciuto",
     "RequestToJoinParty_UserNotFound": "Utente non trovato",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "Rimuovi suggerimento",
     "PushToTalkInteractionEnable": "Abilita premi e parla",
     "ShowFewerOptionsInteractionDisplayName": "Meno opzioni",
-    "LfgInvite_Name": "Invita nel gruppo",
     "JoinMatchViaPresenceInteractionDisplayName": "Partecipa alla partita",
     "JoinAndSpectateFriendsInteractionDisplayName": "Unisciti al gruppo e guarda",
     "KickEpicPartyMember": "Espelli dal gruppo Epic",
@@ -8994,15 +9009,15 @@
   "Fortnite.DateTimeLibrary": {
     "NegativeTimespan": "-{0}",
     "NearlyExpired": "<1M",
-    "Days_Full": "{0} {0}|plural(one=giorno,other=giorni)",
-    "Hours_Full": "{0} {0}|plural(one=ora,other=ore)",
+    "Days_Full": "{0} {0}|plural(one=giorno,other=giorni,many=di giorni)",
+    "Hours_Full": "{0} {0}|plural(one=ora,other=ore,many=di ore)",
     "Minutes_Full": "{0} {0}|plural(one=minuto,other=minuti)",
     "Months_Full": "{0} {0}|plural(one=mese,other=mesi)",
     "Seconds_Full": "{0} {0}|plural(one=secondo,other=secondi)",
     "Weeks_Full": "{0} {0}|plural(one=settimana,other=settimane)",
     "Years_Full": "{0} {0}|plural(one=anno,other=anni)",
-    "Days_Full_SentenceCase": "{0} {0}|plural(one=giorno,other=giorni)",
-    "Hours_Full_SentenceCase": "{0} {0}|plural(one=ora,other=ore)",
+    "Days_Full_SentenceCase": "{0} {0}|plural(one=giorno,other=giorni,many=di giorni)",
+    "Hours_Full_SentenceCase": "{0} {0}|plural(one=ora,other=ore,many=di ore)",
     "Minutes_Full_SentenceCase": "{0} {0}|plural(one=minuto,other=minuti)",
     "Months_Full_SentenceCase": "{0} {0}|plural(one=mese,other=mesi)",
     "Seconds_Full_SentenceCase": "{0} {0}|plural(one=secondo,other=secondi)",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "Zero costruzioni",
     "TournamentTileDate.DateFormat": "{DayText} {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "Si è verificato un problema durante la configurazione della tua richiesta di matchmaking. Riprova."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "È stato applicato un aggiornamento del gioco. Rientra in coda per il matchmaking.",
     "Error.TeammateRankLevelTooLow": "L'attuale livello di posizione di un tuo compagno di squadra non soddisfa i requisiti minimi per giocare.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "Impossibile effettuare il matchmaking nell'isola attualmente selezionata, visita la pagina dei dettagli dell'isola per l'esperienza selezionata per avere maggiori informazioni",
     "UnknownError": "Errore sconosciuto. Riprova.",
     "InvalidGameData": "Fornite opzioni di partita non supportate",
+    "MatchmakingTimeout": "Non siamo riusciti a trovare un abbinamento in tempo. Riprova.",
     "PostTravelTimeout": "Non siamo riusciti a collegarti alla partita. Provaci un'altra volta.",
     "PreTravelTimeout": "Non siamo riusciti a farti entrare in tempo per la partita. Provaci un'altra volta.",
+    "ReadyUpError": "Si è verificato un problema nel posizionamento. Riprova.",
     "UnexpectedResponse": "Abbiamo ricevuto una risposta inaspettata dal servizio di matchmaking. Se il problema persiste, controlla su {CheckStatusURL}.",
     "FailedToConnectToContentBeacon": "Abbiamo avuto problemi a collegarci al servizio di trasmissione dei contenuti. Prova ancora, se il problema persiste controlla su {CheckStatusURL}.",
     "AuthenticationIssue": "Abbiamo avuto problemi a collegarci al sistema di matchmaking. Prova ancora, ma se il problema persiste controlla su {CheckStatusURL}.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "Abbiamo avuto un problema nella creazione del client del beacon, riprova.",
     "FailedToFindEncryptionKey": "Abbiamo avuto problemi a trovare una chiave di crittografia valida.",
     "FailedToGenerateDownloadableContent": "Abbiamo avuto problemi a generare contenuto per questa esperienza. Prova ancora, se il problema persiste controlla su {CheckStatusURL}.",
+    "MMSFailedParamGeneration": "Si è verificato un problema durante la configurazione della tua richiesta di matchmaking. Riprova. Se il problema persiste controlla {CheckStatusURL}.",
     "FailedToConnectToMMS": "Abbiamo avuto problemi a collegarci al sistema di matchmaking. Prova ancora, ma se il problema persiste controlla su {CheckStatusURL}.",
     "TravelFailure": "Ci sono stati dei problemi di ingresso nella partita. Prova ancora, se il problema persiste controlla su {CheckStatusURL}.",
     "NetworkFailure": "Si è verificato un errore di rete durante il matchmaking. Prova ancora, se il problema persiste controlla su {CheckStatusURL}.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "Il tuo minore ha consumato {PlayTimespan} del limite di tempo d'utilizzo a sua disposizione. Il tempo di utilizzo verrà riavviato a partire dalle ore {NextPeriodStartTime} di domani.",
     "PlaytimeAddResultWithExpiration": "Il minorenne avrà {0} di tempo a disposizione fino alle ore {1} di {2} {3}. {4}",
     "PlaytimeAddResultRegular": "Il tuo minore avrà {NewPlayTimespan} di tempo a partire da ora.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "e più tempo di creazione dalle ore {NextPeriodStartTime} di {DayName}.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "e più tempo di creazione a partire da {NextPeriodStartTime} {DayName}.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "e più tempo di creazione a partire da {DayName}.",
     "PlaytimeStaticsOnDay": "{DayName}",
     "PlaytimeStaticsToday": "oggi",
@@ -12475,8 +12496,8 @@
     "CareerKey": "Carriera"
   },
   "UFortUIBlueprintFunctionLibrary": {
-    "LastUpdateTimeDays": "{0} {0}|plural(one=giorno,other=giorni)",
-    "LastUpdateTimeHours": "{0} {0}|plural(one=ora,other=ore)",
+    "LastUpdateTimeDays": "{0} {0}|plural(one=giorno,other=giorni,many=di giorni)",
+    "LastUpdateTimeHours": "{0} {0}|plural(one=ora,other=ore,many=di ore)",
     "LastUpdateTimeMinutes": "{0} {0}|plural(one=minuto,other=minuti)",
     "OrdinalFormatText": "{Number}{Number}|ordinal(one=°, two=°, few=°, other=°)"
   },

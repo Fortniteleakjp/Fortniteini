@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "DX Tong-Besar",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplane",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplane",
+    "DF56207843F6244003548CA79CFAA0F4": "Biplane",
     "AD9DF9A2455C274907AE29971466ADBA": "Pedang",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Pedang",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Bling",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "Bintang Kategori",
     "50143CB943E4575C29217F8DAEEF2147": "Kartu Kunci Pojok Catty",
     "5C4799E749D383FD94F01B83DF9EB80F": "Kartu Kunci Pojok Catty",
+    "EE922BB945F58FB9604A58A2D82D680C": "SMG Tembakan Cepat Catwoman",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "SMG Tembakan Cepat kustom milik Catwoman. Dibuat dengan teliti untuk meningkatkan kapasitas amunisi.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Biru Samudra",
     "EB4A9CD946CF1CAD986993958FEC99A7": "Chapter 2 Musim 5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "Chapter 2 Musim 7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "Selesaikan Quest Harian untuk mendapatkan V-Buck dan imbalan lainnya. Quest Harian terbuka setelah menyelesaikan Pertahanan Perisai Badai Pangkalan 3.",
     "CE03067340AD63B7738CAC992CE20CB5": "Selesaikan Quest Harian untuk mendapatkan V-Buck dan imbalan lainnya. Quest Harian terbuka setelah menyelesaikan Pertahanan Perisai Badai Pangkalan 3.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "Selesaikan Quest Harian untuk mendapatkan V-Buck dan imbalan lainnya. Quest Harian terbuka setelah menyelesaikan Pertahanan Perisai Badai Pangkalan 3.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Konsumsi untuk perisai dalam jumlah banyak.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "Berisi 1% jus. Memberikan HP & perisai secara bertahap.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "Senjata <Emphasized>tembak cepat</> terus-menerus",
     "E692743845B2413EC831FAA2B8A8E453": "Copy Cat",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Senapan Serbu Diperkuat  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "SMG Ringkas yang Diperkuat",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Senapan Gentel Diperkuat",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Senapan Harpun yang Diperkuat",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Senapan Gentel Taktis yang Diperkuat",
     "0FF80D3B493ED5932CB798A6F2A843C9": "Masuk ke Meriam",
     "5E374F5643803C665E367F8C5614BF3B": "Masuk ke Meriam",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "Gadget UtilityItem C4",
     "4953295E4BF85A50A4ED41BA66030E84": "Gadget UtilityItem M80 Grenade",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "Gadget UtilityItem M80 Grenade",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "Gadget UtilityItem MedKit Heal",
     "A01271FC4F294D00F10ECA87F84259F2": "Gadget UtilityItem MedKit Heal",
     "B7770CBC47F6942773A406B933CC2544": "Gadget UtilityItem ProximityMine PurpleMouse",
     "5D41F88F448EBB8B613BB98578F017F1": "Gadget UtilityItem StickyGrenade",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "Emas",
     "F92ED6D24B56EACA844D27A473619CF5": "Emas",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "Mata Uang Emas",
+    "7B0936A2458A998274ED3484DE00BCDA": "Truffle Emas",
     "9E2FC1E149997E0DDD27D29737305724": "Memberikan peningkatan untuk XP pertandingan yang diterima selama keseluruhan musim.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "Memberikan peningkatan untuk XP pertandingan yang diterima selama keseluruhan musim saat bermain dengan teman.",
     "563CC660407AD849E23975A6D0785F51": "Pelontar Isap",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Senjata Api Jarak Jauh Pistol PeluruBerat SemiOtomatis",
     "58FD4E214238EAB848585780B75ADCAC": "Senjata Api Pistol Jarak Jauh Pistol PeluruKecil SemiOtomatis",
     "2D37E97E43724ABA040D5DB07530962F": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
     "9EA74A7A4C987B0D9D927EB133619716": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
     "BF1FF2F14FDC8846B569E7966543F17B": "Senjata Api Jarak Jauh Pistol SemiOtomatis",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "Ranjau Jarak Dekat",
     "FE97DA514506C8282ACCE59BFD3A562C": "Ranjau Jarak Dekat",
     "EB7FCBAD49E466CA687372AC079CF68B": "Ranjau Jarak Dekat +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Menarik musuh kepadamu dan menimbulkan damage.",
     "F155363240FFAB3D9F5F4081A228A9D6": "Arah Denyut",
     "7C0756AE4401F9E70C1340901973DD78": "Pemicu Denyut",
     "818B645048CD1AF97592E2A6B4C35D12": "Pemicu Denyut",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "Ke Atas",
-    "BodyRetrigger": "Sekadar mengingatkan, karakter AI ini tidak punya emosi, dan jangan lupa untuk mengistirahatkan mata!",
-    "Body": "Pulau ini menggunakan karakter AI dan mungkin tidak sesuai untuk sebagian anak di bawah umur. NPC AI ini tidak merasakan emosi. Jangan lupa istirahat!",
-    "TitleRetrigger": "Saatnya istirahat sejenak? "
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Ekspor Verse",
     "ExportVerse": "Ekspor Verse ...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} Tingkat"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "Kamu dikeluarkan dari pertandingan karena gagal respawn tepat waktu."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "Animasi|Kurva",
@@ -4040,7 +4046,7 @@
   },
   "Fort.Athena.Vehicle.Defaults": {
     "OwnedCustomizedEnterText_Driver": "KENDARAI \n{0}-KU",
-    "UnownedCustomizedEnterText_Driver": "KENDARAI \n{0}{1}",
+    "UnownedCustomizedEnterText_Driver": "KENDARAI \n{0} {1}",
     "Flip": "Balik",
     "Fuel": "Bahan Bakar:  {0}",
     "OwnedCustomizedEnterText_Rider": "KENDARAI \n{0}-KU",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "Beli {0} V-Buck, mata uang dalam game yang bisa digunakan di Fortnite.",
+    "ExactAmountOfferDescriptionFormat": "Selesaikan pembelian kamu dengan mendapatkan {0} V-Buck, mata uang dalam game yang bisa digunakan di Fortnite!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Epic QA",
     "FailedSubmit": "Gagal Mengirimkan",
     "FailedToSubmit_UnknownReason": "Gagal mengirimkan karena alasan yang tidak diketahui",
+    "ConvAIReportError_Failed": "Gagal mengirimkan laporan. Silakan coba lagi nanti.",
     "FeaturedImage": "Gambar Unggulan",
     "RoleText_FeaturedIsland": "Pulau Unggulan",
     "CannotCompleteObjective": "Objective Game tidak dapat diselesaikan",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "Laporan tidak terkirim - Pemain dilaporkan baru-baru ini.",
     "ReportNotSent_Error": "Laporan tidak terkirim - terjadi kesalahan.",
     "InvalidData": "Laporan tidak terkirim - data tidak valid.",
+    "ConvAIReportError_Timeout": "Laporan habis waktu. Silakan coba lagi nanti.",
     "ReportScreenTitle": "Laporkan {0}",
     "HomebaseMenus_RewardsNotAppearing": "Imbalan yang aku dapatkan tidak muncul",
     "MissingRewards": "Imbalan yang aku dapatkan tidak muncul",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "Tidak bisa membuat senjata/perangkap",
     "UnableToDisassemble": "Tidak bisa membongkar senjata/perangkap",
     "UnableToDrop": "Tidak bisa menjatuhkan senjata, perangkap atau item",
+    "ConvAIReportError_NoPC": "Tidak bisa mengenali pemain. Silakan coba lagi nanti.",
     "UnableToPickup": "Tidak bisa mengambil senjata, perangkap atau item",
     "UnableToReload": "Tidak bisa mengisi ulang",
     "UnableToRepair": "Tidak bisa memperbaiki",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "Selamatkan Dunia: {ZoneType} ({Difficulty})",
     "STWLobby": "Selamatkan Dunia: {ZoneType} ({Difficulty})",
     "FrontendDefault": "Sedang Memilih Mode Game ...",
+    "LiveSpectating": "Menonton teman",
     "PvELoading": "Memulai game",
     "Replay": "Menonton rekaman ulang",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "Permintaan pertemanan dari <Username>{0}</>",
     "FriendRequestFromUserDescriptionClamOne": "Teman dapat melihat status online-mu, membentuk tim bersamamu, dan mengobrol denganmu tergantung pada Pengaturan Komunikasi.",
     "FriendToastInvalidPin": "PIN orang tua tidak valid",
+    "EpicPartyJoinabilityInviteOnly": "Hanya Undangan",
     "Rival1v1InviteDetailsReceived": "Undangan dari <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "Undang mereka ke kelompok",
     "InviteToEpicParty": "Undang ke kelompok Epic",
     "PartyInvite": "Undang ke kelompok",
     "EpicPartyJoin": "Gabung ke kelompok Epic",
     "PartyJoin": "Bergabung dengan kelompok",
+    "EpicPartyJoinabilityUnableToChangeDetails": "Tidak bisa bergabung karena {0}. Coba lagi nanti.",
+    "EpicPartyJoinabilityJoinable": "Terbuka",
     "PartyJoinedDetails": "Bergabung dengan Kelompok <Username>{0}</>",
     "EpicPartyJoined": "Sudah Bergabung dengan Kelompok Epic",
     "EpicPartyJoinedDetails": "Sudah Bergabung dengan Kelompok Epic",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "Permintaan untuk bergabung dalam Kelompok Epic milik <Username>{0}</> terkirim",
     "Party1v1InviteDetailsSent": "Terkirim ke <Username>{0}</>",
     "FriendImportToastRequestTitle": "Sinkronisasikan Daftar Temanmu!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "Tidak bisa mengubah kemampuan bergabung dalam kelompok",
     "FriendInviteUnknownError": "Kesalahan Tidak Diketahui",
     "RequestToJoinParty_UnknownError": "Kesalahan Tidak Diketahui",
     "RequestToJoinParty_UserNotFound": "Pengguna tidak ditemukan",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "Abaikan Saran",
     "PushToTalkInteractionEnable": "Aktifkan Tekan untuk Bicara",
     "ShowFewerOptionsInteractionDisplayName": "Lebih Sedikit Opsi",
-    "LfgInvite_Name": "Undang ke kelompok",
     "JoinMatchViaPresenceInteractionDisplayName": "Gabung dalam Game",
     "JoinAndSpectateFriendsInteractionDisplayName": "Bergabung dengan Kelompok dan Tonton",
     "KickEpicPartyMember": "Keluarkan dari Kelompok Epic",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "Zero Build",
     "TournamentTileDate.DateFormat": "{DayText}, {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "Kami mengalami masalah saat menyiapkan permintaan pencarian lawanmu. Coba lagi."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "Pembaruan game telah diterapkan. Silakan mengantre ulang untuk pencarian lawan.",
     "Error.TeammateRankLevelTooLow": "Rekan tim tidak memenuhi persyaratan level peringkat minimum saat ini agar bisa bermain.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "Tidak bisa mencari lawan di pulau terpilih saat ini; kunjungi halaman detail pulau untuk pengalaman pilihanmu dan informasi lebih lanjut",
     "UnknownError": "Kesalahan Tidak Diketahui. Coba lagi?",
     "InvalidGameData": "Opsi pertandingan yang tidak didukung disediakan",
+    "MatchmakingTimeout": "Kami tidak bisa menghubungkanmu ke dalam pertandingan tepat waktu. Coba lagi.",
     "PostTravelTimeout": "Kita tidak bisa terhubung dengan pertandingan. Coba lagi.",
     "PreTravelTimeout": "Kami tidak bisa menghubungkan kamu ke dalam pertandingan tepat waktu. Coba lagi.",
+    "ReadyUpError": "Kami tidak bisa Bersiap. Coba lagi.",
     "UnexpectedResponse": "Kami menerima respons kembali dari layanan pencarian lawan yang tidak kami harapkan. Jika masalah berlanjut, coba {CheckStatusURL}.",
     "FailedToConnectToContentBeacon": "Kami mengalami masalah saat menghubungkan dengan layanan beacon konten. Coba lagi, jika masalah berlanjut, coba {CheckStatusURL}.",
     "AuthenticationIssue": "Kami mengalami masalah saat menghubungkan dengan pencari lawan. Coba lagi, tetapi jika masalah berlanjut, coba {CheckStatusURL}.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "Kami mengalami kesulitan dalam membuat klien beacon konten, silakan coba lagi.",
     "FailedToFindEncryptionKey": "Kami mengalami kesulitan dalam menemukan kunci enkripsi yang valid.",
     "FailedToGenerateDownloadableContent": "Kami mengalami masalah saat menghasilkan konten untuk pengalaman ini. Coba lagi, jika masalah berlanjut, coba {CheckStatusURL}.",
+    "MMSFailedParamGeneration": "Kami mengalami masalah saat menyiapkan permintaan pencarian lawanmu. Coba lagi. Jika masalah berlanjut, coba {CheckStatusURL}.",
     "FailedToConnectToMMS": "Kami mengalami masalah saat menghubungi pencari lawan. Coba lagi, tetapi jika masalah berlanjut, coba {CheckStatusURL}.",
     "TravelFailure": "Kami mengalami masalah saat menuju ke pertandingan. Coba lagi, jika masalah berlanjut, silakan lihat {CheckStatusURL}.",
     "NetworkFailure": "Kami mengalami kesalahan jaringan saat pencarian lawan. Coba lagi, jika masalah berlanjut, silakan lihat {CheckStatusURL}.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "Anak Anda telah menggunakan {PlayTimespan} dari batas waktunya. Waktu dijadwalkan untuk dilanjutkan pada {NextPeriodStartTime} besok.",
     "PlaytimeAddResultWithExpiration": "Anak Anda akan memiliki waktu {0} yang bisa digunakan sampai {1} {2}. {3} {4}",
     "PlaytimeAddResultRegular": "Anak Anda akan memiliki waktu {NewPlayTimespan}, dimulai dari sekarang.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "dan buat lebih banyak waktu membuat mulai {NextPeriodStartTime} {DayName}.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "dan lebih banyak waktu membuat mulai {NextPeriodStartTime} {DayName}.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "dan lebih banyak waktu membuat mulai {DayName}.",
     "PlaytimeStaticsOnDay": "pada {DayName}",
     "PlaytimeStaticsToday": "hari ini",

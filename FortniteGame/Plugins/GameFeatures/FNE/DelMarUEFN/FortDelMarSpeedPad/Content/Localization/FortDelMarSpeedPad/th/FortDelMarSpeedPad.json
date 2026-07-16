@@ -2,7 +2,7 @@
   "": {
     "B1A223AC492F891F620896BB4282B93D": "แท่นบูสต์ที่เพิ่มความเร็วให้กับยานพาหนะ Rocket Racing ที่ขับผ่านมัน",
     "9E29733642DB80268BFF658E82F9E424": "False",
-    "16327D03430DE42CFCCC2AB918D91DF5": "แท่นเพิ่มความเร็ว RR",
+    "18A9A4D64D0291A6ED9103B18E1238D0": "แท่นบูสต์ RR",
     "1D8716B047C72FCFD8D295A1901234DB": "True"
   },
   "Fort.Actor.Building.Defaults": {
@@ -15,6 +15,8 @@
     "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "เปิดใช้งาน",
     "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "เปิดใช้งานอุปกรณ์นี้ ขณะเปิดใช้งาน สิ่งนี้จะเพิ่มความเร็วให้กับยานพาหนะ Rocket Racing ที่ขับผ่านมัน",
     "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "เปิดใช้งานเมื่อเริ่มเกม",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.Description": "ทำงานเมื่อยานพาหนะ Rocket Racing กระตุ้นการทำงานของอุปกรณ์นี้",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.DisplayName": "เมื่อทริกเกอร์แท่นบูสต์",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "ID กลุ่มความเร็ว",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "ใช้เพื่อควบคุมว่าแท่นเร่งความเร็วใดสามารถซ้อนทับกันได้ หากยานพาหนะมีโบนัสความเร็วสะสมจากแท่นความเร็วอื่นเปิดใช้งานอยู่ในกลุ่ม ID เดียวกัน ยานพาหนะจะไม่ได้รับโบนัสสะสมเพิ่มเมื่อขึ้นแท่นความเร็วนี้ ค่าที่น้อยกว่า 0 จะทำให้แท่นความเร็วนี้ให้โบนัสความเร็วแบบสะสมเสมอ"
   }

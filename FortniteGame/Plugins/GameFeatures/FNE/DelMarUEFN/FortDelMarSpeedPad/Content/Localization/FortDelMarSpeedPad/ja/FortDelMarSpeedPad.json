@@ -2,7 +2,7 @@
   "": {
     "B1A223AC492F891F620896BB4282B93D": "Rocket Racingの乗り物がその上を走るとスピードがアップするスピードアップパッド。",
     "9E29733642DB80268BFF658E82F9E424": "オフ",
-    "16327D03430DE42CFCCC2AB918D91DF5": "RRスピードアップパッド",
+    "18A9A4D64D0291A6ED9103B18E1238D0": "RRスピードアップパッド",
     "1D8716B047C72FCFD8D295A1901234DB": "TRUE"
   },
   "Fort.Actor.Building.Defaults": {
@@ -15,6 +15,8 @@
     "FortDelMar_SpeedUpPad_BP_C.Enable.DisplayName": "有効化",
     "FortDelMar_SpeedUpPad_BP_C.Enable.Description": "この仕掛けを有効化する。有効な場合、Rocket Racingの乗り物がその上を走るとスピードがアップする。",
     "FortDelMar_SpeedUpPad_BP_C.bEnabledAtGameStart.DisplayName": "ゲーム開始時に有効化",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.Description": "Rocket Racingの乗り物がこの仕掛けを作動すると発射する。",
+    "FortDelMar_SpeedUpPad_BP_C.OnBoostPadTriggered.DisplayName": "スピードアップパッド作動時",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.DisplayName": "スピードグループID",
     "FortDelMar_SpeedUpPad_BP_C.SpeedGroupID.Description": "どのスピードアップパッドがお互い重ねられるかをコントールするために使用マシンが、同じグループIDの他のスピードアップパッドからのアクティブなボーナススピードを所有している場合、マシンがこのスピードアップパッドを通っても、ボーナスを得られない。0以下の数値は、このスピードアップパッドに常にボーナススピードを付与する。"
   }

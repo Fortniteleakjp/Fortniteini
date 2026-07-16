@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Destekli Takla",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Çift Kanat",
     "5B5236944941BFD7DE82B8B05FE11D94": "Çift Kanat",
+    "DF56207843F6244003548CA79CFAA0F4": "Çift Kanat",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade (Bıçağın İki Yüzü)",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade (Bıçağın İki Yüzü)",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Para Avcıları",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "Kategori Yıldızları",
     "50143CB943E4575C29217F8DAEEF2147": "Miyav Market Anahtar Kartı",
     "5C4799E749D383FD94F01B83DF9EB80F": "Miyav Market Anahtar Kartı",
+    "EE922BB945F58FB9604A58A2D82D680C": "Catwoman'ın Hızlı Atışlı Hafif Makineli Tüfeği",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "Catwoman'ın özelleştirilmiş Hızlı Atışlı Hafif Makineli Tüfeği. Cephane kapasitesini arttırmak için özenle üretildi.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Deniz Mavisi",
     "EB4A9CD946CF1CAD986993958FEC99A7": "2. Bölüm: 5. Sezon ",
     "5D048A7F45BDC6C054F4528378401CD0": "2. Bölüm: 7. Sezon",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "V-Papel ve çeşitli ödüller kazanmak için Günlük Görevleri tamamla. Günlük Görevler, Ana Üs Fırtına Kalkanı Savunması 3'ü tamamladıktan sonra açılır.",
     "CE03067340AD63B7738CAC992CE20CB5": "V-Papel ve çeşitli ödüller kazanmak için Günlük Görevleri tamamla. Günlük Görevler, Ana Üs Fırtına Kalkanı Savunması 3'ü tamamladıktan sonra açılır.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "V-Papel ve çeşitli ödüller kazanmak için Günlük Görevleri tamamla. Günlük Görevler, Ana Üs Fırtına Kalkanı Savunması 3'ü tamamladıktan sonra açılır.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Bol miktarda kalkan doldurmak için ye.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "%1 gerçek meyve suyu içerir. Zaman içinde can iyileştirir ve kalkan verir.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "Art arda <Emphasized>hızlı atış</> yapan bir silah.",
     "E692743845B2413EC831FAA2B8A8E453": "Değiş Tokuş",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Geliştirilmiş Taarruz Tüfeği  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Geliştirilmiş Küçük Hafif Makineli Tüfek",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Geliştirilmiş Tambur Pompalı Tüfek",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Geliştirilmiş Zıpkın Tüfeği",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Geliştirilmiş Taktiksel Pompalı Tüfek",
     "0FF80D3B493ED5932CB798A6F2A843C9": "Top Arabasına Gir",
     "5E374F5643803C665E367F8C5614BF3B": "Top Arabasına Gir",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "Gadget UtilityItem C4",
     "4953295E4BF85A50A4ED41BA66030E84": "Cihaz DestekEşyası Kızkaçıran ElBombası",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "Cihaz DestekEşyası Kızkaçıran ElBombası",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "Cihaz DestekEşyası İlkyardımÇantası İyileştirme",
     "A01271FC4F294D00F10ECA87F84259F2": "Cihaz DestekEşyası İlkyardımÇantası İyileştirme",
     "B7770CBC47F6942773A406B933CC2544": "Cihaz DestekEşyası YakınlığaDuyarlıMayın MorFare",
     "5D41F88F448EBB8B613BB98578F017F1": "Cihaz DestekEşyası YapışkanBomba",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "Altın",
     "F92ED6D24B56EACA844D27A473619CF5": "Altın",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "Oyun İçi Altın Para Birimi",
+    "7B0936A2458A998274ED3484DE00BCDA": "Altın Trüf",
     "9E2FC1E149997E0DDD27D29737305724": "Tüm sezon boyunca kazanacağın maç TP'sine takviye sağlar.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "Bu sezon boyunca arkadaşlarınla oynarken kazanacağın maç TP'sine takviye sağlar.",
     "563CC660407AD849E23975A6D0785F51": "Vantuzatar",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Silahlar Menzilli Tabancalar AğırMermiler YarıOtomatik",
     "58FD4E214238EAB848585780B75ADCAC": "Silahlar Menzilli Tabancalar Hafif Mermiler Yarı Otomatik",
     "2D37E97E43724ABA040D5DB07530962F": "Silahlar Menzilli Tabancalar YarıOtomatik",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Silahlar Menzilli Tabancalar YarıOtomatik",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Silahlar Menzilli Tabancalar YarıOtomatik",
     "9EA74A7A4C987B0D9D927EB133619716": "Silahlar Menzilli Tabancalar YarıOtomatik",
     "BF1FF2F14FDC8846B569E7966543F17B": "Silahlar Menzilli Tabancalar YarıOtomatik",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "Yakınlığa Duyarlı Mayın",
     "FE97DA514506C8282ACCE59BFD3A562C": "Yakınlığa Duyarlı Mayın",
     "EB7FCBAD49E466CA687372AC079CF68B": "Yakınlığa Duyarlı Mayın +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Düşmanları sana doğru çeker ve onlara hasar verir.",
     "F155363240FFAB3D9F5F4081A228A9D6": "Tetiklenme Yönü",
     "7C0756AE4401F9E70C1340901973DD78": "Dalga Tetikleyici",
     "818B645048CD1AF97592E2A6B4C35D12": "Dalga Tetikleyici",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "Gitarlar Havaya",
-    "BodyRetrigger": "Yapay zekâ karakterlerinin duygularının olmadığını ve gözlerini dinlendirmenin iyi olduğunu hatırlatmak isteriz!",
-    "Body": "Bu ada, yapay zekâ karakterleri kullanır ve bazı reşit olmayan kişiler için uygun olmayabilir. Bu yapay zekâ karakterleri duygu hissetmez. Mola vermeyi unutma!",
-    "TitleRetrigger": "Mola zamanı mı?"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Verse'ü Dışa Aktar",
     "ExportVerse": "Verse'ü Dışa Aktar...",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} Aşama"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "Zamanında yeniden doğamadığın için maçtan atıldın."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "Animasyon|Kıvrımlar",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "{0} V-Papel satın al. V-Papel, Fortnite'ta harcanabilen bir oyun içi para birimidir.",
+    "ExactAmountOfferDescriptionFormat": "{0} V-Papel alarak satın alımını tamamla. V-Papel, Fortnite'ta harcanabilen bir oyun içi para birimidir!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Epic QA",
     "FailedSubmit": "Gönderilemedi",
     "FailedToSubmit_UnknownReason": "Bilinmeyen bir sebepten gönderilemedi",
+    "ConvAIReportError_Failed": "Rapor gönderilemedi Lütfen daha sonra tekrar dene.",
     "FeaturedImage": "Öne Çıkan Görsel",
     "RoleText_FeaturedIsland": "Öne Çıkan Ada",
     "CannotCompleteObjective": "Oyun hedefi tamamlanamıyor",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "Rapor gönderilemedi - Oyuncu yakın zamanda şikâyet edilmiş.",
     "ReportNotSent_Error": "Rapor gönderilmedi. Bir hata oluştu.",
     "InvalidData": "Rapor gönderilmedi. Geçersiz veri.",
+    "ConvAIReportError_Timeout": "Rapor zaman aşımına uğradı. Lütfen daha sonra tekrar dene.",
     "ReportScreenTitle": "Rapor Et: {0}",
     "HomebaseMenus_RewardsNotAppearing": "Kazandığım ödüller görünmüyor",
     "MissingRewards": "Kazandığım ödüller görünmüyor",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "Silah veya tuzak üretemiyorum",
     "UnableToDisassemble": "Silahı veya tuzağı kaldıramıyorum",
     "UnableToDrop": "Üstümdeki silahı, tuzağı veya eşyayı bırakamıyorum",
+    "ConvAIReportError_NoPC": "Oyuncu tanımlanamadı. Lütfen daha sonra tekrar dene.",
     "UnableToPickup": "Yerden silah, tuzak veya eşya alamıyorum",
     "UnableToReload": "Şarjör yeniden doldurulamıyor",
     "UnableToRepair": "Onarım yapamıyorum",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "Dünyayı Kurtar: {ZoneType} ({Difficulty})",
     "STWLobby": "Dünyayı Kurtar: {ZoneType} ({Difficulty})",
     "FrontendDefault": "Oyun Modu Seçiliyor...",
+    "LiveSpectating": "Bir arkadaşı seyrediyor",
     "PvELoading": "Bir oyun başlatılıyor",
     "Replay": "Bir tekrar seyrediliyor",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "<Username>{0}</> adlı oyuncudan arkadaşlık isteği",
     "FriendRequestFromUserDescriptionClamOne": "Arkadaşların çevrimiçi olma durumunu görebilir, birlikte grup kurabilir ve iletişim ayarlarına bağlı olarak seninle sohbet edebilir.",
     "FriendToastInvalidPin": "Geçersiz ebeveyn PIN kodu",
+    "EpicPartyJoinabilityInviteOnly": "Yalnızca Davet Edilenler",
     "Rival1v1InviteDetailsReceived": "<Username>{0}</> adlı oyuncudan davet",
     "FriendIsNowOnlineInvitePartyDescription": "Gruba davet et",
     "InviteToEpicParty": "Epic Partisine davet et",
     "PartyInvite": "Gruba davet et",
     "EpicPartyJoin": "Epic Partisine katıl",
     "PartyJoin": "Gruba katıl",
+    "EpicPartyJoinabilityUnableToChangeDetails": "Katılabilirlik {0}, daha sonra tekrar dene",
+    "EpicPartyJoinabilityJoinable": "Katılınabilir",
     "PartyJoinedDetails": "<Username>{0}</> adlı oyuncunun grubuna katıldın.",
     "EpicPartyJoined": "Epic Partisine katıldı",
     "EpicPartyJoinedDetails": "Epic Partisine katıldı",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "<Username>{0}</> adlı oyuncunun Epic Partisi'ne katılma isteği gönderildi",
     "Party1v1InviteDetailsSent": "<Username>{0}</> adlı oyuncuya gönderildi",
     "FriendImportToastRequestTitle": "Arkadaş listeni senkronize et!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "Grup katılınabilirliği değiştirilemiyor",
     "FriendInviteUnknownError": "Bilinmeyen Hata",
     "RequestToJoinParty_UnknownError": "Bilinmeyen Hata",
     "RequestToJoinParty_UserNotFound": "Kullanıcı bulunamadı",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "Öneriyi Reddet",
     "PushToTalkInteractionEnable": "Bas Konuş'u Etkinleştir",
     "ShowFewerOptionsInteractionDisplayName": "Daha Az Seçenek",
-    "LfgInvite_Name": "Gruba davet et",
     "JoinMatchViaPresenceInteractionDisplayName": "Oyuna Katıl",
     "JoinAndSpectateFriendsInteractionDisplayName": "Gruba Katıl ve İzle",
     "KickEpicPartyMember": "Epic Partisinden At",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "Sıfır İnşa",
     "TournamentTileDate.DateFormat": "{DayText}, {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "Eşleştirme isteğini ayarlarken bir sorun oldu. Bir daha dene."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "Oyun güncellendi. Lütfen eşleştirme için yeniden kuyruğa gir.",
     "Error.TeammateRankLevelTooLow": "Bir takım arkadaşının mevcut derece seviyesi, minimum oynama gereksinimini karşılamıyor.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "Şu anda seçili ada için eşleştirme yapılamıyor, lütfen daha fazla bilgi almak için seçtiğin deneyimin ada detayları sayfasına git",
     "UnknownError": "Bilinmeyen hata oldu. Tekrar mı denesen?",
     "InvalidGameData": "Desteklenmeyen maç seçenekleri girildi",
+    "MatchmakingTimeout": "Seni maça zamanında sokamadık. Bir daha dene.",
     "PostTravelTimeout": "Maça bağlanamadık. Bir daha dene.",
     "PreTravelTimeout": "Seni maça zamanında sokamadık. Bir daha dene.",
+    "ReadyUpError": "Hazırlayamadık. Bir daha dene.",
     "UnexpectedResponse": "Eşleştirme hizmetinden beklemediğimiz bir yanıt aldık. Eğer sorun devam ederse {CheckStatusURL} adresine bir bak.",
     "FailedToConnectToContentBeacon": "İçerik sinyal hizmetine bağlanırken bir sorun oldu. Bir daha dene, ancak sorun devam ederse {CheckStatusURL} adresine bir bak.",
     "AuthenticationIssue": "Eşleştiriciye bağlanırken bir sorun yaşadık. Bir daha dene, ancak eğer sorun devam ederse {CheckStatusURL} adresine bir bak.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "İçerik sinyal hizmeti oluştururken bir sorun yaşandı, bir daha dene.",
     "FailedToFindEncryptionKey": "Geçerli bir şifreleme anahtarı ararken bir sorun yaşandı.",
     "FailedToGenerateDownloadableContent": "Bu deneyim için içerik oluştururken bir sorun yaşandı. Bir daha dene, ancak eğer sorun devam ederse {CheckStatusURL} adresine bir bak.",
+    "MMSFailedParamGeneration": "Eşleştirme isteğini ayarlarken bir sorun oldu. Bir daha dene. Sorun devam ederse {CheckStatusURL} adresine göz at.",
     "FailedToConnectToMMS": "Eşleştiriciyle konuşurken bir sorun yaşadık. Bir daha dene, ancak eğer sorun devam ederse {CheckStatusURL} adresine bir bak.",
     "TravelFailure": "Maça girerken sorun yaşadık. Bir daha dene, ancak eğer sorun devam ederse {CheckStatusURL} adresine bir bak.",
     "NetworkFailure": "Eşleştirme sırasında bir ağ hatası oluştu. Bir daha dene, ancak eğer sorun devam ederse {CheckStatusURL} adresine bir bak.",

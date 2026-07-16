@@ -563,6 +563,7 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Nòng Lớn DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Máy Bay Cánh Kép",
     "5B5236944941BFD7DE82B8B05FE11D94": "Máy Bay Cánh Kép",
+    "DF56207843F6244003548CA79CFAA0F4": "Máy Bay Cánh Kép",
     "AD9DF9A2455C274907AE29971466ADBA": "Lưỡi Cắt",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Lưỡi Cắt",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Phụ kiện",
@@ -634,6 +635,8 @@
     "2AA0C53148468770E238D6825BF85BAC": "Sao Phân Loại",
     "50143CB943E4575C29217F8DAEEF2147": "Thẻ Khóa Góc Mèo",
     "5C4799E749D383FD94F01B83DF9EB80F": "Thẻ Khóa Góc Mèo",
+    "EE922BB945F58FB9604A58A2D82D680C": "SMG Bắn Nhanh Của Catwoman",
+    "AA86FAD842ADDE0E9D552E92F44CDD7C": "SMG Bắn Nhanh tùy chỉnh của Catwoman. Được chế tạo tỉ mỉ để tăng sức chứa băng đạn.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Thiên Thanh",
     "EB4A9CD946CF1CAD986993958FEC99A7": "Chương 2 Mùa 5 ",
     "5D048A7F45BDC6C054F4528378401CD0": "Chương 2 Mùa 7",
@@ -685,6 +688,7 @@
     "C546BB274EB61BBA60A53D88067CE2A9": "Hoàn thành Nhiệm Vụ Hàng Ngày để nhận V-Buck và các phần khác. Nhiệm Vụ Hàng Ngày sẽ mở khóa sau khi hoàn thành Phòng Vệ Khiên Bão Căn Cứ 3.",
     "CE03067340AD63B7738CAC992CE20CB5": "Hoàn thành Nhiệm Vụ Hàng Ngày để nhận V-Buck và các phần khác. Nhiệm Vụ Hàng Ngày sẽ mở khóa sau khi hoàn thành Phòng Vệ Khiên Bão Căn Cứ 3.",
     "FCF5B17B42BD4A87A0987F90AF61722D": "Hoàn thành Nhiệm Vụ Hàng Ngày để nhận V-Buck và các phần khác. Nhiệm Vụ Hàng Ngày sẽ mở khóa sau khi hoàn thành Phòng Vệ Khiên Bão Căn Cứ 3.",
+    "FE09D4504B9CCAAE0CF1CD8E52C927C2": "Tiêu hao để nhận một lượng lớn khiên.",
     "7AA52F414DEC5DE1253544A8114AE9C3": "Chứa 1% nước ép. Hồi lại HP và khiên theo thời gian.",
     "3D5007C6488DF3CBA5AEDAB22D1614E5": "Liên tục <Emphasized>bắn nhanh</> vũ khí",
     "E692743845B2413EC831FAA2B8A8E453": "Mèo Sao Chép",
@@ -863,6 +867,7 @@
     "46A2F84144C7B6A675F10FAA9BA710AB": "Súng Trường Xung Kích Tăng Cường  ",
     "1118467D4CB24276D1E2B98CFCCB8635": "Súng SMG Tinh Gọn Cường Hóa",
     "FCB4901B4F1C2FF9B6C75E8EB96A887E": "Shotgun Drum Cải Tiến",
+    "6EB2F8DD43021B29DBDFFBADB9B9E597": "Súng Phóng Lao Tăng Cường",
     "5FBA3A36414F9F919FA1C5AF81D8E63E": "Súng Shotgun Chiến Thuật Cường Hóa",
     "0FF80D3B493ED5932CB798A6F2A843C9": "Vào Súng Thần Công",
     "5E374F5643803C665E367F8C5614BF3B": "Vào Súng Thần Công",
@@ -1003,6 +1008,7 @@
     "E9EB63944E2108A2481CC8BE0DC488C5": "Dụng Cụ VậtPhẩmTiệnÍch C4",
     "4953295E4BF85A50A4ED41BA66030E84": "Thiết Bị Vật Phẩm Tiện Ích Lựu Đạn M80",
     "5249B99B49BA7B0FB6E4CDA0CEDD6FC3": "Thiết Bị Vật Phẩm Tiện Ích Lựu Đạn M80",
+    "36C7109E4D82FDCC65D68F8ACD08171D": "DụngCụ VậtPhẩmTiệnÍch HộpCứuThương TrịLiệu",
     "A01271FC4F294D00F10ECA87F84259F2": "DụngCụ VậtPhẩmTiệnÍch HộpCứuThương TrịLiệu",
     "B7770CBC47F6942773A406B933CC2544": "Dụng Cụ Vật Phẩm Tiện Ích Mìn Tiệm Cận Chuột Tím",
     "5D41F88F448EBB8B613BB98578F017F1": "Dụng Cụ Vật Phẩm Tiện Ích Lựu Đạn Dính",
@@ -1028,6 +1034,7 @@
     "B8C59B304999B1F6964D1696FAB0E456": "Vàng",
     "F92ED6D24B56EACA844D27A473619CF5": "Vàng",
     "3636D06A4ADE66F6A3C73D9AAB04186F": "Xu Giao Dịch Vàng",
+    "7B0936A2458A998274ED3484DE00BCDA": "Nấm Truffle Vàng",
     "9E2FC1E149997E0DDD27D29737305724": "Cung cấp một thêm lượng XP bạn nhận được trong suốt mùa giải.",
     "BF6423B0452AA6E3FEED2BA1A862D8D9": "Cung cấp thêm lượng XP trận đấu bạn nhận được khi chơi cùng bạn bè trong mùa này.",
     "563CC660407AD849E23975A6D0785F51": "Súng Móc",
@@ -1057,6 +1064,7 @@
     "F40CE8E3490E9ADA6D3B72B5A02774C9": "Súng Tầm Xa Súng Lục ĐạnNặng BánTựĐộng",
     "58FD4E214238EAB848585780B75ADCAC": "Súng Tầm Xa Súng Lục ĐạnNhẹ BánTựĐộng",
     "2D37E97E43724ABA040D5DB07530962F": "Súng Tầm Xa SúngLục BánTựĐộng",
+    "3DF4DD5F4C10418AF661AA93937C3ABF": "Súng Lục Tầm Xa Bán Tự Động",
     "57BFBC9B4511E5EC1AC9B891A5B26F49": "Súng Tầm Xa SúngLục BánTựĐộng",
     "9EA74A7A4C987B0D9D927EB133619716": "Súng Tầm Xa SúngLục BánTựĐộng",
     "BF1FF2F14FDC8846B569E7966543F17B": "Súng Tầm Xa SúngLục BánTựĐộng",
@@ -1509,6 +1517,7 @@
     "64482F864910830DF30EC3A547FE60F3": "Mìn Tiệm Cận",
     "FE97DA514506C8282ACCE59BFD3A562C": "Mìn Tiệm Cận",
     "EB7FCBAD49E466CA687372AC079CF68B": "Mìn Tiệm Cận +",
+    "31127BE846D8E9589A9E6BA80983EEB7": "Kéo kẻ địch về phía bạn và gây sát thương.",
     "F155363240FFAB3D9F5F4081A228A9D6": "Hướng Xung Lực",
     "7C0756AE4401F9E70C1340901973DD78": "Kích Hoạt Xung",
     "818B645048CD1AF97592E2A6B4C35D12": "Kích Hoạt Xung",
@@ -2228,12 +2237,6 @@
   "AIActionSequencer_Sequence": {
     "Reimport": "Reimport UAIActionSequencer_Sequence"
   },
-  "AIDisclosure": {
-    "Title": "Đàn Qua Đầu Thần Sầu",
-    "BodyRetrigger": "Chỉ muốn nhắc bạn là các nhân vật AI này không có cảm xúc và việc cho đôi mắt nghỉ ngơi luôn là điều tốt!",
-    "Body": "Hòn đảo này sử dụng nhân vật AI và có thể không phù hợp với một số người chưa thành niên. Các NPC AI này không có cảm xúc. Nhớ nghỉ ngơi đấy nhé!",
-    "TitleRetrigger": "Nghỉ ngơi chút nhé?"
-  },
   "AIPromptEditorModule": {
     "ExportVerseDialogTitle": "Xuất Verse",
     "ExportVerse": "Xuất Verse…",
@@ -2792,6 +2795,9 @@
   },
   "BattlePassTierOfferShortDescription": {
     "BattlePassTierOfferShortDescription": "{tiers} Bậc"
+  },
+  "BlastBerry": {
+    "RespawnTimeLimitExceeded": "Bạn đã bị loại khỏi trận đấu vì không hồi sinh kịp thời."
   },
   "BlendFacialCurves": {
     "FortAnimGraphNode_BlendFacialCurves": "Hoạt Ảnh|Đường Cong",
@@ -5543,6 +5549,8 @@
     "BluGloReward": "x{0}"
   },
   "FortMtxStoreOfferVM": {
+    "RegularOfferDescriptionFormat": "Mua {0} V-Buck, loại xu giao dịch dùng để chi tiêu trong trò chơi Fortnite.",
+    "ExactAmountOfferDescriptionFormat": "Hoàn thành giao dịch mua của bạn bằng cách giành {0} V-Buck, loại xu giao dịch dùng để chi tiêu trong game Fortnite!",
     "OfferDescriptionAppendFormat": "{0}\n{1}",
     "JapanesePaymentsActBlurb": "資金決済法及び特定商取引法上の表示は、ゲームのメニューに表示される「法的事項」から、又は右記のウェブサイトからご覧ください: https://www.epicgames.com/fortnite/ja/paymentsact"
   },
@@ -5836,6 +5844,7 @@
     "EpicQA": "Epic QA",
     "FailedSubmit": "Gửi Đi Thất Bại",
     "FailedToSubmit_UnknownReason": "Không thể gửi đi vì lý do không xác định",
+    "ConvAIReportError_Failed": "Gửi báo cáo thất bại. Vui lòng thử lại sau.",
     "FeaturedImage": "Ảnh Minh Họa",
     "RoleText_FeaturedIsland": "Đảo Nổi Bật",
     "CannotCompleteObjective": "Mục Tiêu Game không thể hoàn thành",
@@ -5919,6 +5928,7 @@
     "AlreadyReportedPlayer": "Báo cáo không được gửi - Người chơi đã được báo cáo gần đây.",
     "ReportNotSent_Error": "Báo cáo không được gửi - đã có lỗi xảy ra.",
     "InvalidData": "Báo cáo không được gửi - dữ liệu không hợp lệ.",
+    "ConvAIReportError_Timeout": "Đã hết thời gian chờ báo cáo. Vui lòng thử lại sau.",
     "ReportScreenTitle": "Báo Cáo {0}",
     "HomebaseMenus_RewardsNotAppearing": "Phần thưởng tôi đã giành được không hiển thị",
     "MissingRewards": "Phần thưởng tôi đã giành được không hiển thị",
@@ -5964,6 +5974,7 @@
     "UnableToCraft": "Không thể chế tạo vũ khí/bẫy",
     "UnableToDisassemble": "Không thể tháo rời vũ khí/bẫy",
     "UnableToDrop": "Không thể thả vũ khí, bẫy hoặc vật phẩm",
+    "ConvAIReportError_NoPC": "Không thể xác định người chơi. Vui lòng thử lại sau.",
     "UnableToPickup": "Không thể nhặt vũ khí, bẫy hoặc vật phẩm",
     "UnableToReload": "Không thể nạp",
     "UnableToRepair": "Không thể sửa chữa",
@@ -6145,6 +6156,7 @@
     "OutpostWithoutTheater": "Giải Cứu Thế Giới {ZoneType} ({Difficulty})",
     "STWLobby": "Giải Cứu Thế Giới {ZoneType} ({Difficulty})",
     "FrontendDefault": "Chọn Chế Độ Chơi...",
+    "LiveSpectating": "Đang quan sát một người bạn",
     "PvELoading": "Bắt đầu một trò chơi",
     "Replay": "Đang xem phát lại",
     "LobbyPartyName": "{LobbyName}"
@@ -8774,12 +8786,15 @@
     "FriendRequestFromUserDescription": "Lời mời kết bạn từ <Username>{0}</>",
     "FriendRequestFromUserDescriptionClamOne": "Tùy thuộc vào Cài Đặt Giao Tiếp, bạn bè có thể xem trạng thái trực tuyến, tạo nhóm và trò chuyện với bạn.",
     "FriendToastInvalidPin": "Mã PIN phụ huynh không hợp lệ",
+    "EpicPartyJoinabilityInviteOnly": "Chỉ Người Được Mời",
     "Rival1v1InviteDetailsReceived": "Lời mời từ <Username>{0}</>",
     "FriendIsNowOnlineInvitePartyDescription": "Mời họ tham gia phe",
     "InviteToEpicParty": "Mời vào tổ đội Epic",
     "PartyInvite": "Mời vào phe",
     "EpicPartyJoin": "Gia nhập tổ đội Epic",
     "PartyJoin": "Tham gia phe",
+    "EpicPartyJoinabilityUnableToChangeDetails": "Khả năng tham gia là {0}, hãy thử lại sau",
+    "EpicPartyJoinabilityJoinable": "Có thể tham gia",
     "PartyJoinedDetails": "Đã tham gia Phe của <Username>{0}</>",
     "EpicPartyJoined": "Đã gia nhập Tổ Đội Epic",
     "EpicPartyJoinedDetails": "Đã gia nhập Tổ Đội Epic",
@@ -8807,6 +8822,7 @@
     "EpicPartyJoinRequestSent_Desc": "Đã gửi yêu cầu tham gia Tổ Đội Epic của <Username>{0}</>",
     "Party1v1InviteDetailsSent": "Đã gửi tới <Username>{0}</>",
     "FriendImportToastRequestTitle": "Đồng bộ hóa danh sách bạn bè của bạn!",
+    "EpicPartyJoinabilityUnableToChangeTitle": "Không thể thay đổi cài đặt tham gia nhóm",
     "FriendInviteUnknownError": "Lỗi Không Xác Định",
     "RequestToJoinParty_UnknownError": "Lỗi Không Xác Định",
     "RequestToJoinParty_UserNotFound": "Không tìm thấy người dùng",
@@ -8901,7 +8917,6 @@
     "DismissSuggestedFriendInteractionDisplayName": "Bỏ Qua Gợi Ý",
     "PushToTalkInteractionEnable": "Bật Nhấn Để Nói",
     "ShowFewerOptionsInteractionDisplayName": "Ít Tùy Chọn Hơn",
-    "LfgInvite_Name": "Mời vào phe",
     "JoinMatchViaPresenceInteractionDisplayName": "Tham Gia Trò Chơi",
     "JoinAndSpectateFriendsInteractionDisplayName": "Tham Gia Phe và Xem",
     "KickEpicPartyMember": "Đá khỏi Tổ Đội Epic",
@@ -9189,6 +9204,9 @@
     "TournamentFilterExperience.ZB": "Đọ Súng Thuần Chất",
     "TournamentTileDate.DateFormat": "{DayText}, Ngày {DayNumber} {MonthText}"
   },
+  "Fortnite.MatchmakingError": {
+    "MmsParamGenerationFailed": "Chúng tôi đã gặp sự cố khi cài đặt yêu cầu ghép trận của bạn. Xin hãy thử lại lần nữa."
+  },
   "Fortnite.MatchmakingText": {
     "Error.NeedUpdate": "Đã áp dụng bản cập nhật trò chơi. Vui lòng xếp hàng lại để ghép trận.",
     "Error.TeammateRankLevelTooLow": "Một đồng đội không đáp ứng đủ yêu cầu về mức xếp hạng tối thiểu hiện tại để tham gia.",
@@ -9269,8 +9287,10 @@
     "ContentGatingCheckFailed": "Không thể ghép trận vào đảo hiện tại đã chọn, vui lòng truy cập trang chi tiết đảo cho trải nghiệm đã chọn để biết thêm thông tin.",
     "UnknownError": "Lỗi Không Xác Định. Vui lòng thử lại?",
     "InvalidGameData": "Các tùy chọn trận đấu không được hỗ trợ đã được cung cấp",
+    "MatchmakingTimeout": "Chúng tôi chưa kịp tìm được trận nào cho bạn. Xin hãy thử lại lần nữa.",
     "PostTravelTimeout": "Chúng tôi không thể hoàn thành việc kết nối với trận đấu. Xin hãy thử lại lần nữa.",
     "PreTravelTimeout": "Chúng tôi không thể đưa bạn vào trận đấu kịp thời. Xin hãy thử lại lần nữa.",
+    "ReadyUpError": "Chúng tôi không thể sẵn sàng. Xin hãy thử lại lần nữa.",
     "UnexpectedResponse": "Chúng tôi nhận được phản hồi từ dịch vụ ghép trận mà chúng tôi không lường trước. Nếu sự cố vẫn tiếp diễn, hãy kiểm tra {CheckStatusURL}.",
     "FailedToConnectToContentBeacon": "Chúng tôi gặp sự cố khi kết nối với dịch vụ cảnh báo nội dung. Hãy thử lại, nếu sự cố vẫn tiếp diễn, hãy kiểm tra {CheckStatusURL}.",
     "AuthenticationIssue": "Chúng tôi gặp sự cố khi kết nối với người ghép trận. Hãy thử lại, nếu vấn đề vẫn tiếp diễn, hãy kiểm tra {CheckStatusURL}.",
@@ -9279,6 +9299,7 @@
     "FailedToCreateContentBeacon": "Hệ thống gặp sự cố khi tạo máy khách tín hiệu nội dung, xin hãy thử lại lần nữa.",
     "FailedToFindEncryptionKey": "Chúng tôi gặp khó khăn trong việc tìm một khóa mã hóa hợp lệ.",
     "FailedToGenerateDownloadableContent": "Chúng tôi gặp khó khăn trong việc tạo nội dung cho trải nghiệm này. Hãy thử lại, nếu sự cố vẫn tiếp diễn, hãy kiểm tra {CheckStatusURL}.",
+    "MMSFailedParamGeneration": "Chúng tôi đã gặp sự cố khi cài đặt yêu cầu ghép trận của bạn. Xin hãy thử lại lần nữa. Nếu sự cố vẫn tiếp diễn, hãy kiểm tra {CheckStatusURL}.",
     "FailedToConnectToMMS": "Chúng tôi gặp sự cố khi trao đổi với người ghép trận. Hãy thử lại, nếu vấn đề vẫn tiếp diễn, hãy kiểm tra {CheckStatusURL}.",
     "TravelFailure": "Chúng tôi gặp sự cố khi di chuyển đến trận đấu. Xin hãy thử lại, nếu sự cố vẫn tiếp diễn, vui lòng kiểm tra {CheckStatusURL}.",
     "NetworkFailure": "Chúng tôi gặp lỗi mạng trong quá trình ghép trận. Xin hãy thử lại, nếu sự cố vẫn tiếp diễn, vui lòng kiểm tra {CheckStatusURL}.",
@@ -11509,7 +11530,7 @@
     "PlaytimeSummaryTimeWindowsOnlyNextWindowTomorrow": "Con của bạn đã sử dụng {PlayTimespan} trong tổng giới hạn thời gian. Thời gian được lên lịch tiếp tục vào {NextPeriodStartTime} ngày mai.",
     "PlaytimeAddResultWithExpiration": "Con của bạn sẽ có {0} sử dụng cho đến {1} {2} {3}. {4}",
     "PlaytimeAddResultRegular": "Con của bạn sẽ có thời gian là {NewPlayTimespan}, bắt đầu từ bây giờ.",
-    "NextPlayPeriodTimeWindowsBothCreateDay": "và thêm nhiều thời gian sáng tạo hơn từ {NextPeriodStartTime} {DayName}.",
+    "NextPlayPeriodTimeWindowsBothCreateDay": "và thêm nhiều thời gian tạo hơn từ {NextPeriodStartTime} {DayName}.",
     "NextPlayPeriodAllowedTimeBothCreateDay": "và nhiều thời gian sáng tạo hơn từ ngày {DayName}.",
     "PlaytimeStaticsOnDay": "trong ngày {DayName}",
     "PlaytimeStaticsToday": "hôm nay",
