@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] {0} Öğesini Ölçekli Aktörlere dönüştür",
     "RefreshPreviewISMCsText": "[Juno] Yenile {0} Malzeme Önizlemesi"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSpline Ayarını Düzenle",
-    "EditSplinePointsMetadata": "Eğri noktası meta verilerini düzenle",
-    "EndFalloffFraction": "Son Azalma Oranı",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "İlave Detaylar",
-    "HalfWidth": "Yarım Genişlik",
-    "LayerSideFalloffScale": "Katman Yanı Azalma Ölçeği",
-    "LayerWidthScale": "Katman Genişliği Ölçeği",
-    "Multiple": "Birden Fazla",
-    "SideFalloffWidth": "Yan Azalma Genişliği",
-    "StartFalloffFraction": "Başlangıç Azalma Oranı"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Bulunan aktör yolunun özellikleri '{0}', bulunan satır adı '{1}' ve/veya temsili '{2}' başka özellik adlarıyla çakışıyor",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Şu özellikleri ekler:{ActorPath} : String: Aktörün çıkabilmesi için bir karakter dizisi yolu (tablo satırından kopyalandı){Representation} : Name: Nasıl oluşturulması gerektiğine dair bir EJunoRepresentation değeri (tablo satırından kopyalandı){RowName} : Float : Seçili satırın adı.)",

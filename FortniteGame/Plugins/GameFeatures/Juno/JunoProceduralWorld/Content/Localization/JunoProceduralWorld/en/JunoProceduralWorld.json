@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors",
     "RefreshPreviewISMCsText": "[Juno] Refresh {0} Preview Materials"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "Edit JunoTerrainLandscapeSpline Property",
-    "EditSplinePointsMetadata": "Edit spline point metadata",
-    "EndFalloffFraction": "End Falloff Fraction",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Extra Details",
-    "HalfWidth": "Half Width",
-    "LayerSideFalloffScale": "Layer Side Falloff Scale",
-    "LayerWidthScale": "Layer Width Scale",
-    "Multiple": "Multiple",
-    "SideFalloffWidth": "Side Falloff Width",
-    "StartFalloffFraction": "Start Falloff Fraction"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Adds the following attributes:{ActorPath} : String : A string path for the actor to spawn (copied from the table row){Representation} : Name : An EJunoRepresentation value for how it should be created (copied from the table row){RowName} : Float : The name of the chosen row.)docs",

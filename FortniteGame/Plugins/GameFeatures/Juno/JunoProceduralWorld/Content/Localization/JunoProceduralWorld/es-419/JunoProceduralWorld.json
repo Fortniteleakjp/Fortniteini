@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] Convertir {0} en actores mencionados",
     "RefreshPreviewISMCsText": "[Juno] Actualizar {0} materiales de previsualización"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "Editar propiedad JunoTerrainLandscapeSpline",
-    "EditSplinePointsMetadata": "Editar metadatos de punto de spline",
-    "EndFalloffFraction": "Fracción de disminución final",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Detalles adicionales",
-    "HalfWidth": "Mitad de ancho",
-    "LayerSideFalloffScale": "Escala de disminución lateral de capa",
-    "LayerWidthScale": "Escala de ancho de capa",
-    "Multiple": "Múltiple",
-    "SideFalloffWidth": "Ancho de disminución lateral",
-    "StartFalloffFraction": "Fracción de disminución inicial"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Atributos para la ruta de actor resuelta '{0}', nombre de fila resuelto '{1}' y/o representación '{2}' interfieren con otros nombres de atributos",
     "JunoResolveBiomeIngredients_Output": "R\"docs(añade los siguientes atributos:{ActorPath} : Cadena de caracteres : Una cadena de caracteres para que el actor aparezca (copiada de la fila de la tabla){Representation} : Nombre: Un valor de EJunoRepresentation para saber cómo debe crearse (copiado de la fila de la tabla){RowName} : Float : El nombre de la fila elegida.)docs",

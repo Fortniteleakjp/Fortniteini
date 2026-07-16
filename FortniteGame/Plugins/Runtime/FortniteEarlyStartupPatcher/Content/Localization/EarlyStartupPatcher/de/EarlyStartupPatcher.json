@@ -100,7 +100,7 @@
     "EarlyStartupPatcher.NotificationsPermissionModalTitle.Alt": "BENACHRICHTIGUNGEN ZULASSEN",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton_iOS": "BENACHRICHTIGUNGEN ZULASSEN",
     "FortniteEarlyStartupPatcher.EnableNotificationsOnly_Button": "BENACHRICHTIGUNGEN ZULASSEN",
-    "EarlyStartupPatcher.DefaultErrorBody": "Ein unbekannter Fehler ist aufgetreten. Versuche es später erneut.",
+    "EarlyStartupPatcher.DefaultErrorBody": "Ein unbekannter Fehler ist aufgetreten. Bitte versuche es später erneut.",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton": "Weiter",
     "EarlyStartupPatcher.DownloadingFiles": "HERUNTERLADEN",
     "FortniteEarlyStartupPatcher.DoNotQuitApp": "App nicht schließen",

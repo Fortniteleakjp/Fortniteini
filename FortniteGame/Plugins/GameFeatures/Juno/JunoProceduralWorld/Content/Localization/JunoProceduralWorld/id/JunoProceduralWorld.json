@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] Ubah {0} menjadi Aktor dengan Instance",
     "RefreshPreviewISMCsText": "[Juno] Refresh {0} Material Pratinjau"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "Edit Properti JunoTerrainLandscapeSpline",
-    "EditSplinePointsMetadata": "Edit metadata titik spline",
-    "EndFalloffFraction": "Akhiri Fraksi Penurunan",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Detail Ekstra",
-    "HalfWidth": "Lebar Setengah",
-    "LayerSideFalloffScale": "Skala Penurunan Samping Lapisan",
-    "LayerWidthScale": "Skala Lebar Lapisan",
-    "Multiple": "Banyak",
-    "SideFalloffWidth": "Lebar Penurunan Samping",
-    "StartFalloffFraction": "Mulai Fraksi Penurunan"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Atribut untuk jalur aktor yang sudah terselesaikan '{0}', nama baris yang sudah terselesaikan '{1}', dan/atau representasi '{2}' bertentangan dengan nama atribut lain",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Menambahkan atribut berikut:{ActorPath} String : Sebuah jalur string untuk aktor yang mau di-spawn (disalin dari baris tabel){Representation} : Nama : Nilai EJunoRepresentation untuk bagaimana itu harus dibuat (disalin dari baris tabel){RowName} : Melayang : Nama dari baris yang dipilih.)docs",

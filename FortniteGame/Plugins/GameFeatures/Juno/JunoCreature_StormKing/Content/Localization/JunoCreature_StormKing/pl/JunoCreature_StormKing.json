@@ -1,18 +1,18 @@
 {
   "": {
-    "27C7391740748C651C6FF6851976451C": "Efekt obszarowy",
-    "F4D3F43947321BB6A14B72B594308CD6": "Przypisanie do zdrowia zmienione wobec: {Actor Name}",
-    "66D2BF804B5607BE63AADEAB3A74C85E": "Powalenie",
-    "C5D9AE5E4AF8A29471CEB588C26D8803": "Nieudane zastosowanie dziedzicznego aktora ({Actor}) komponentu ({Component}) wobec StormKingWeakPoint. Posiadany typ: {Type} oraz uzasadniony: {Valid}",
-    "B3FBFE7743426E458FC1798EACA50F9E": "Wiele celów",
-    "287967034F2B4F9A955118964BAE2538": "Normalny",
-    "2BAA76B3484DB8F1925EB7A64A91F454": "Cios",
-    "E638C3F343D7AED4547A1B8E85B58A07": "Broń dystansowa",
+    "0BEB3A664B99B829E8687E97481E3D6C": "Efekt obszarowy",
+    "20BD0D734BFB1C9853115F8951179FEF": "Przypisanie do zdrowia zmienione wobec: {Actor Name}",
+    "4BA19B964C3DB87E651A648C3B677973": "Powalenie",
+    "A387314A4CFB277EE45F409B7774DE5A": "Nieudane zastosowanie dziedzicznego aktora ({Actor}) komponentu ({Component}) wobec StormKingWeakPoint. Posiadany typ: {Type} oraz uzasadniony: {Valid}",
+    "6651789C4A29FBEC9D87C8927FF9129C": "Wiele celów",
+    "2E5D050345897BBD86723DABC3BB4BCD": "Normalny",
+    "D962BCB8455DDE3356FCB8AC6B7D188B": "Cios",
+    "B73EDFD84540471BECE5EDBCD30C1350": "Broń dystansowa",
     "B1EE545B49D1C98644B14A9EAB56FCA5": "Burzowy róg",
-    "7F18DBEF49B9EDACBAD1BF90A3C46BB9": "Król Burzy",
-    "D11978AF49C6CC43E1D08B82D1F4037E": "Przyzwanie",
-    "D9C7E066465BDDC48567E3AFEAE09AFE": "Zamach",
+    "42AFFF2A40B068FD11EF109DAE8349AE": "Król Burzy",
+    "D938876647644B4A6B023C892CECA4CC": "Przyzwanie",
+    "C70CA20247A59E12B28F2A96D5308215": "Zamach",
     "D517182047A516C4DAF49DADE7E0CAC6": "Słaby punkt",
-    "551A42A345DDF2C5FFD9CEAEE0E9341F": "[X]"
+    "170CBBA64B54E6804F6D49B623BADFC1": "[X]"
   }
 }

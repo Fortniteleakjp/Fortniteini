@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] Chuyển đổi {0} thành Chủ Thể Phiên Bản Hóa",
     "RefreshPreviewISMCsText": "[Juno] Làm Mới {0} Xem Trước Nguyên Liệu"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "Chỉnh Sửa Thuộc Tính JunoTerrainLandscapeSpline",
-    "EditSplinePointsMetadata": "Chỉnh sửa siêu dữ liệu điểm trục đường",
-    "EndFalloffFraction": "Tỷ Lệ Giảm Dần Kết Thúc",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Chi Tiết Bổ Sung",
-    "HalfWidth": "Nửa Chiều Rộng",
-    "LayerSideFalloffScale": "Tỷ Lệ Giảm Dần Bên Lớp",
-    "LayerWidthScale": "Tỷ Lệ Chiều Rộng Theo Lớp",
-    "Multiple": "Đa Người Chơi",
-    "SideFalloffWidth": "Chiều Rộng Giảm Dần Sang Bên",
-    "StartFalloffFraction": "Tỷ Lệ Giảm Dần Bắt Đầu"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Thuộc tính cho đường dẫn chủ thể đã giải quyết '{0}', tên hàng đã giải quyết '{1}' và/hoặc biểu thị '{2}' đang xung đột với các tên thuộc tính khác",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Thêm các thuộc tính sau:{ActorPath} : Chuỗi : Đường dẫn chuỗi để chủ thể tạo ra (sao chép từ hàng bảng){Representation} : Tên : Giá trị EJunoRepresentation về cách tạo chủ thể (sao chép từ hàng bảng){RowName} : Số thực : Tên của hàng đã chọn.)docs",

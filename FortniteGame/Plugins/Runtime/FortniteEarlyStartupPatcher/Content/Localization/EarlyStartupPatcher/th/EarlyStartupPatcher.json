@@ -100,7 +100,7 @@
     "EarlyStartupPatcher.NotificationsPermissionModalTitle.Alt": "อนุญาตการแจ้งเตือน",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton_iOS": "อนุญาตการแจ้งเตือน",
     "FortniteEarlyStartupPatcher.EnableNotificationsOnly_Button": "อนุญาตการแจ้งเตือน",
-    "EarlyStartupPatcher.DefaultErrorBody": "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุขึ้น โปรดลองอีกครั้งภายหลัง",
+    "EarlyStartupPatcher.DefaultErrorBody": "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ โปรดลองอีกครั้งในภายหลัง",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton": "ดำเนินการต่อ",
     "EarlyStartupPatcher.DownloadingFiles": "กำลังดาวน์โหลด",
     "FortniteEarlyStartupPatcher.DoNotQuitApp": "อย่าเพิ่งไปไหน",

@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[JUNO] {0} umwandeln in Instanced Actors",
     "RefreshPreviewISMCsText": "[Juno] {0} Vorschaumaterialien aktualisieren"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSpline-Eigenschaft bearbeiten",
-    "EditSplinePointsMetadata": "Spline-Punkt-Metadaten bearbeiten",
-    "EndFalloffFraction": "Falloff-Endanteil",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Zusätzliche Details",
-    "HalfWidth": "Halbe Breite",
-    "LayerSideFalloffScale": "Seitliche Ebenen-Falloff-Skalierung",
-    "LayerWidthScale": "Ebenenbreite-Skalierung",
-    "Multiple": "Mehrere",
-    "SideFalloffWidth": "Seitliche Falloff-Breite",
-    "StartFalloffFraction": "Falloff-Startanteil"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Attribute für aufgelösten Actor-Pfad '{0}', aufgelöster Reihenname '{1}' und/oder Repräsentation '{2}' in Konflikt mit anderen Attributnamen",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Fügt die folgenden Attribute hinzu:{ActorPath} : String : Ein String-Pfad für das Spawnen des Actors (aus der Tabellenreihe kopiert){Representation} : Name : Ein EJunoRepresentation-Wert für die Erschaffung (aus der Tabellenreihe kopiert){RowName} : Float : Der Name der ausgewählten Reihe.)docs",

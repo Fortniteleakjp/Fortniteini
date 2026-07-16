@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] Konwertuj {0} do instancyjnych aktorów",
     "RefreshPreviewISMCsText": "[Juno] Odśwież materiały podglądu: {0}"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "Edytuj właściwość JunoTerrainLandscapeSpline",
-    "EditSplinePointsMetadata": "Edytuj metadane krzywej sklejanej",
-    "EndFalloffFraction": "Końcowy ułamek spadku",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Dodatkowe szczegóły",
-    "HalfWidth": "Połowa szerokości",
-    "LayerSideFalloffScale": "Skala spadku strony warstwy",
-    "LayerWidthScale": "Skala szerokości warstwy",
-    "Multiple": "Wiele",
-    "SideFalloffWidth": "Szerokość bocznego spadku",
-    "StartFalloffFraction": "Początkowy ułamek spadku"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Występuje konflikt atrybutów dla ustalonej ścieżki aktora „{0}”, ustalonej nazwy wiersza „{1}” i/lub reprezentacji „{2}” z innymi nazwami atrybutów",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Dodaje następujące atrybuty:{ActorPath} : Ciąg : ścieżka ciągu do pojawienia się aktora (skopiowana z wiersza tabeli){Representation} : Nazwa : wartość EJunoRepresentation, według której zostanie stworzona (skopiowana z wiersza tabeli){RowName} : Zmiennoprzecinkowa : Nazwa wybranego wiersza).docs",

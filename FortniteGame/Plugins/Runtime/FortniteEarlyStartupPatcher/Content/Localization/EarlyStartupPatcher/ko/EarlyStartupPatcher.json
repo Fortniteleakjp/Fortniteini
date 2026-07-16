@@ -100,7 +100,7 @@
     "EarlyStartupPatcher.NotificationsPermissionModalTitle.Alt": "알림 허용",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton_iOS": "알림 허용",
     "FortniteEarlyStartupPatcher.EnableNotificationsOnly_Button": "알림 허용",
-    "EarlyStartupPatcher.DefaultErrorBody": "알 수 없는 오류가 발생했습니다. 나중에 다시 시도하세요.",
+    "EarlyStartupPatcher.DefaultErrorBody": "알 수 없는 오류가 발생했습니다. 나중에 다시 시도해 주세요.",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton": "계속",
     "EarlyStartupPatcher.DownloadingFiles": "다운로드 중",
     "FortniteEarlyStartupPatcher.DoNotQuitApp": "나가지 마세요",

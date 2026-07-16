@@ -100,7 +100,7 @@
     "EarlyStartupPatcher.NotificationsPermissionModalTitle.Alt": "ALLOW NOTIFICATIONS",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton_iOS": "ALLOW NOTIFICATIONS",
     "FortniteEarlyStartupPatcher.EnableNotificationsOnly_Button": "ALLOW NOTIFICATIONS",
-    "EarlyStartupPatcher.DefaultErrorBody": "An Unknown Error has occured. Please try again later.",
+    "EarlyStartupPatcher.DefaultErrorBody": "An Unknown Error has occurred. Please try again later.",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton": "Continue",
     "EarlyStartupPatcher.DownloadingFiles": "DOWNLOADING",
     "FortniteEarlyStartupPatcher.DoNotQuitApp": "Don't leave",

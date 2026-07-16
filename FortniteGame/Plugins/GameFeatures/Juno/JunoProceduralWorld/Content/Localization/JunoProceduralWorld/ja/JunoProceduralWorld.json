@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] {0}をインスタンスアクタに変換",
     "RefreshPreviewISMCsText": "[Juno] {0}プレビューマテリアルを更新"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSplineプロパティを編集",
-    "EditSplinePointsMetadata": "スプラインポイントのメタデータを編集",
-    "EndFalloffFraction": "終端減衰比",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "詳細",
-    "HalfWidth": "半幅",
-    "LayerSideFalloffScale": "レイヤーサイド減衰割合",
-    "LayerWidthScale": "レイヤー幅割合",
-    "Multiple": "複数",
-    "SideFalloffWidth": "サイド減衰幅",
-    "StartFalloffFraction": "始端減衰比"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "解決されたアクタパスの特性 '{0}' 、解決された行の名前 '{1}' および/またはリプレゼンテーション '{2}' が他の特性の名前と衝突しています",
     "JunoResolveBiomeIngredients_Output": "R\"ドキュメント(以下の特性を追加:{ActorPath} : ストリング : スポーンするアクタのストリングパス (表の行からコピー){Representation} : 名前 : どのように作成されるべきかを示すEJunoRepresentationの値 (表の行からコピー){RowName} : フロート : 選ばれた行の名前)ドキュメント",

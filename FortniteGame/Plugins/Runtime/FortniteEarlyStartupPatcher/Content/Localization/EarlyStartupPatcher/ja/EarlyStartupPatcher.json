@@ -100,7 +100,7 @@
     "EarlyStartupPatcher.NotificationsPermissionModalTitle.Alt": "通知を許可",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton_iOS": "通知を許可",
     "FortniteEarlyStartupPatcher.EnableNotificationsOnly_Button": "通知を許可",
-    "EarlyStartupPatcher.DefaultErrorBody": "予期せぬエラーが発生しました。後でもう一度お試しください",
+    "EarlyStartupPatcher.DefaultErrorBody": "未知のエラーが発生しました。後でもう一度お試しください。",
     "EarlyStartupPatcher.NotificationsPermissionModal_ActionButton": "続ける",
     "EarlyStartupPatcher.DownloadingFiles": "ダウンロード中",
     "FortniteEarlyStartupPatcher.DoNotQuitApp": "閉じないでください",

@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] {0}을(를) 인스턴스 액터로 변환",
     "RefreshPreviewISMCsText": "[Juno] 프리뷰 머티리얼 {0} 새로고침"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "JunoTerrainLandscapeSpline 속성 편집",
-    "EditSplinePointsMetadata": "스플라인 포인트 메타데이터 편집",
-    "EndFalloffFraction": "감쇠 종료 비율",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "추가 세부 정보",
-    "HalfWidth": "절반 너비",
-    "LayerSideFalloffScale": "레이어 측면 감쇠 스케일",
-    "LayerWidthScale": "레이어 너비 스케일",
-    "Multiple": "여러 개",
-    "SideFalloffWidth": "측면 감쇠 너비",
-    "StartFalloffFraction": "감쇠 시작 비율"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "확인된 액터 경로 '{0}'의 속성, 확인된 열 이름 '{1}' 및/또는 다른 속성 이름과 충돌하는 대표 '{2}'",
     "JunoResolveBiomeIngredients_Output": "R\"docs(다음 속성 추가:{ActorPath} : 스트링 : 액터가 생성되는 스트링 경로 (테이블 열에서 복사됨){Representation} : 이름 : 생성 방법에 대한 EJunoRepresentation 값 (테이블 열에서 복사됨){RowName} : 부동소수점 : 선택한 열의 이름.)docs",

@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] แปลง {0} เป็นวัตถุอินสแตนซ์",
     "RefreshPreviewISMCsText": "[จูโน่] รีเฟรชวัสดุตัวอย่าง {0} รายการ"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "แก้ไขคุณสมบัติ JunoTerrainLandscapeSpline",
-    "EditSplinePointsMetadata": "แก้ไขข้อมูลเมตาจุดสไปลน์",
-    "EndFalloffFraction": "อัตราส่วนการจางหายสิ้นสุด",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "รายละเอียดเพิ่มเติม",
-    "HalfWidth": "ครึ่งความกว้าง",
-    "LayerSideFalloffScale": "ระดับการจางหายด้านข้างของเลเยอร์",
-    "LayerWidthScale": "มาตราส่วนความกว้างของเลเยอร์",
-    "Multiple": "หลายอย่าง",
-    "SideFalloffWidth": "ความกว้างการจางหายด้านข้าง",
-    "StartFalloffFraction": "สัดส่วนการจางหายเริ่มต้น"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "แอตทริบิวต์สำหรับ actor path '{0}', ชื่อแถวที่แก้ไขแล้ว '{1}'และ/หรือการเป็นตัวแทน '{2}' ขัดแย้งกับชื่อแอตทริบิวต์อื่น ๆ",
     "JunoResolveBiomeIngredients_Output": "R\"docs(เพิ่มแอตทริบิวต์ต่อไปนี้:{ActorPath} : String : เส้นทางสตริงสำหรับวัตถุให้เกิด (คัดลอกมาจากแถวตาราง){Representation} : Name : ค่า EJunoRepresentation สำหรับวิธีที่ควรสร้าง (คัดลอกมาจากแถวตาราง){RowName} : Float : ชื่อของแถวที่เลือก)docs",

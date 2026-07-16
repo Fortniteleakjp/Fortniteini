@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] Convert {0} to Instanced Actors",
     "RefreshPreviewISMCsText": "[Juno] Actualiser les matériaux de prévisualisation {0}"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "Modifier la propriété JunoTerrainLandscapeSpline",
-    "EditSplinePointsMetadata": "Modifier les métadonnées des points de spline",
-    "EndFalloffFraction": "Fraction de déclinaison (fin)",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "Détails supplémentaires",
-    "HalfWidth": "Demi-largeur",
-    "LayerSideFalloffScale": "Échelle de couche de déclinaison du côté",
-    "LayerWidthScale": "Échelle de largeur de couche",
-    "Multiple": "Plusieurs",
-    "SideFalloffWidth": "Largeur d'atténuation latérale",
-    "StartFalloffFraction": "Fraction de déclinaison (début)"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributs pour le chemin résolu de l'acteur '{0}', nom de la rangée du chemin résolu '{1}' et/ou représentation '{2}' entre en conflit avec le nom d'autres attributs.",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Ajoute les attributs suivants :{ActorPath} : Chemin : un chemin pour faire apparaître l'acteur (copié depuis la rangée du tableau){Representation} : Nom : Une valeur de EJunoRepresentation pour expliquer comment il doit être crée (copié depuis la rangée du tableau){RowName} : Flotter : le nom de la rangée choisie)docs",

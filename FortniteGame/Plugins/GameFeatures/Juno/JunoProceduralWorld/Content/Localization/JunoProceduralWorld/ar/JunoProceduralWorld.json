@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] تحويل {0} إلى العوامل المُوضحة",
     "RefreshPreviewISMCsText": "[Juno] تحديث {0} مواد المعاينة"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "تعديل خاصية منحنى تضاريس بيئة Juno",
-    "EditSplinePointsMetadata": "تعديل بيانات نقطة المنحنى",
-    "EndFalloffFraction": "جزء نهاية الانحدار",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "تفاصيل إضافية",
-    "HalfWidth": "نصف العرض",
-    "LayerSideFalloffScale": "مقياس الانحدار الجانبي للطبقة",
-    "LayerWidthScale": "مقياس عرض الطبقة",
-    "Multiple": "متعددة",
-    "SideFalloffWidth": "عرض الانحدار الجانبي",
-    "StartFalloffFraction": "جزء بداية الانحدار"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "تتعارض سمات مسار الممثل المختار\"{0}\"، واسم الصف الذي تم حله \"{1}\" و/أو التمثيل \"{2}\" مع أسماء السمات الأخرى",
     "JunoResolveBiomeIngredients_Output": "وثائق \"R (تضيف السمات التالية:{ActorPath} : سلسلة: مسار سلسلة للممثل لينتشر (منسوخ من صف الجدول){Representation} :اسم : قيمة EJunoRepresentation للطريقة التي يجب إنشائها بها (منسوخ من صف الجدول){RowName} :الطفو: اسم الصف المختار.) الوثائق",

@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno]转化{0}成实例角色",
     "RefreshPreviewISMCsText": "[Juno]刷新{0}预览材料"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "编辑JunoTerrainLandscapeSpline属性",
-    "EditSplinePointsMetadata": "编辑样条线点元数据",
-    "EndFalloffFraction": "终点衰减比例",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "额外细节",
-    "HalfWidth": "半宽度",
-    "LayerSideFalloffScale": "图层侧面衰减缩放",
-    "LayerWidthScale": "图层宽度缩放",
-    "Multiple": "多个",
-    "SideFalloffWidth": "侧面衰减宽度",
-    "StartFalloffFraction": "起点衰减比例"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "Attributes for resolved actor path '{0}', resolved row name '{1}' and/or representation '{2}' are clashing with other attribute names",
     "JunoResolveBiomeIngredients_Output": "R\"docs(Adds the following attributes:{ActorPath} : String : A string path for the actor to spawn (copied from the table row){Representation} : Name : An EJunoRepresentation value for how it should be created (copied from the table row){RowName} : Float : The name of the chosen row.)docs",

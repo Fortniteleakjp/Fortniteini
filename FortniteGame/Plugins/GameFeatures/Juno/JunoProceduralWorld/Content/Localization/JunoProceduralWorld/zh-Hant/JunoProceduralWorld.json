@@ -7,18 +7,6 @@
     "ConvertSelectedActorsToIAsText": "[Juno] 轉換{0}為實例化對象",
     "RefreshPreviewISMCsText": "[Juno] 重新整理 {0} 預覽材料"
   },
-  "FJunoTerrainLandscapeSplineMetadataDetails": {
-    "EditJunoTerrainLandscapeSplineProperty": "編輯朱諾地形景觀曲線屬性",
-    "EditSplinePointsMetadata": "編輯樣條曲線點後設資料",
-    "EndFalloffFraction": "結束衰減比例",
-    "JunoTerrainLandscapeSplineMetadataExtraDetails": "額外詳細資訊",
-    "HalfWidth": "一半寬度",
-    "LayerSideFalloffScale": "圖層側邊衰減比例",
-    "LayerWidthScale": "圖層寬度比例",
-    "Multiple": "多個",
-    "SideFalloffWidth": "側邊衰減寬度",
-    "StartFalloffFraction": "開始衰減比例"
-  },
   "JunoProceduralWorld": {
     "AttributeClash": "已處理對象路徑的特性'{0}'、已處理列名稱'{1}'及/或代表'{2}'與其他特性名稱發生衝突",
     "JunoResolveBiomeIngredients_Output": "R\"docs（新增以下特性：{ActorPath}：String：用於生成對象的字串路徑（從表格的列複製）{Representation}：Name：指定建立方式的 EJunoRepresentation 值（從表格的列複製）{RowName}：Float：選定列的名稱。）docs",
