@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "大滾桶DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "雙翼機",
     "5B5236944941BFD7DE82B8B05FE11D94": "雙翼機",
-    "DF56207843F6244003548CA79CFAA0F4": "雙翼機",
     "AD9DF9A2455C274907AE29971466ADBA": "刀刃",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "刀刃",
     "7641CC0743ADBB2B2B04ED9883DD8214": "裝飾",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "決定哪支隊伍（如有）將HUD指示器視為友方。僅適用於徽章樣式圖示。 ",
     "129650534E9339B784AAB9B5C32678A6": "決定哪支隊伍可以看見 HUD 圖示。僅適用於徽章樣式圖示。",
     "9AED3EE2432C86562FC1268D4F02CA40": "決定哪支隊伍可以看見 HUD 圖示。僅適用於徽章樣式圖示。",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "恐狼",
     "C90BA6D147AC6F970F343F814B24620B": "奔跑時停用啟動",
     "BD5501F945FD5E68B86AA19785403260": "停用載具生成器，阻止其生成更多載具。",
     "BD1640424CA1561290BF568D12001009": "接收到選定頻道的訊號時停用此生成器。",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "手電筒手槍",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "手電筒手槍",
     "E576A6EA43FB3390DF995597CC8787B5": "平線DX",
+    "EC2248AB4AAE78827455E396D0611068": "風格文字",
     "A7FC866241FA661C68609CB3E03F6CEC": "飛翔",
     "01B10F554E9863503405E890B39DCFAA": "Fortbyte 6項每週挑戰檢查",
     "43DA2A90437D506CE8205EAFABE1CBD6": "Fortbyte 6項每週挑戰檢查",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "墓地輪旋",
     "A4341A0045390C670F4757948E6E3CE5": "墓地海嘯",
     "F0737F4E40417749A441A59843B932F0": "墓地航行者",
-    "8B52C5AD4891876163EE09B5632D41E8": "偉大是永恆的。",
     "0B5C62D0400E95930AEE12B1D2116EE2": "綠",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "葛萊因德",
     "0527EEDF4C1C3DC79266D49836DEF54C": "岩洞鑰匙卡",
     "7F90D27A40A35D195B511AAE906A6A36": "岩洞鑰匙卡",
     "7E6F527B407E9A6E8B1FED863069924E": "槍械、突擊步槍、機槍、輕型子彈、自動",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "手炮",
     "89587ADB427212BBA1354BB2C1FF6E8F": "手炮",
     "9CBF2A9D457F7567D62990B2A189E194": "手炮+",
-    "50894D884F5D8695DB841F90521FCF55": "滯空",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "具有不必要的層級關係與模組",
     "64F8ED534DCB3384F84C0BA28011E1FA": "具有不必要的層級關係與模組",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "具有不必要的層級關係與模組",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "懶人平線",
     "CA6D0D87420CCE166090BAB2B3B09E44": "懶人重力翻轉",
     "8DEE71084CFD3D885BB21C8D75A996A1": "懶人環繞",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "狼群之首。",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "在你被淘汰的地方留下一個<Emphasized>感應地雷</>",
     "C249F11F41E9E062B8B2E7852084DFB9": "左",
     "3DA57402427AD07E9EEF1182BFB26A44": "左尾翼",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "無重覆",
     "400B329C4C3CFA025EA0409641DF37CB": "無",
     "6B12549A41998E4E0A87668FD5B4D36C": "無",
+    "8456D15B451996C5FCF369A843AE73FA": "無",
     "B67463454D0A16C5C16CBB999DCAA7AC": "無",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "無",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "無",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "普通",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "普通",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "這裡沒什麼好看的。只不過是個<Emphasized>會移動的盒子</>",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "無效代幣",
     "2A743E1048A4D22ED47940B99A99FD94": "懷舊通行證",
     "2FA98907484D5AA64173C5B93C5D30F1": "目標",
     "2AE212EE406A3146388589A8AFC54CF3": "海汐的點射突擊步槍",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "放置無限之刃讓玩家領取。",
     "1F62B87A4BC128082F4198855D3F6FDE": "放置無限之刃讓玩家領取。",
     "9EC314644018A0419EA1F482397A0E43": "放置路標以引導方向。",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "玩家調查資格代幣",
     "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "放下",
     "3B2F170F40934B3A5C46F1B55E412D4A": "撲滅那場火！",
     "43088BA143F2B6BCAEE378847172BE8C": "四輪粉碎者",
-    "CC13E7A44B19B6541560D085C426791D": "四輪粉碎者",
     "393E9456499B520AC90D5E8597A7D23D": "安靜的衝鋒槍，其<Emphasized>最後5顆子彈</>造成<Emphasized>的傷害提高</>",
     "43E272F8443991243556F0AB98EC9BBE": "現實寶石",
     "2A5097B944627605414956BB8AE4337B": "隨機",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "消音衝鋒槍",
     "DDDAFD77445379EE9BAF399713A063D6": "生存者",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "游泳<Emphasized>更快速</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "空心入網",
     "E928E3A54C017ABB67564BB0EE06B190": "切換個人資料",
     "85D867BC4BF95138BD5A05A4705FB62F": "換座位",
     "8F0C992C457A0ED11DC7F089C2563C02": "換座位",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "耐用坦克",
     "50B5E23B4F691D00F8BE3C984622679F": "隊伍可見性",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "隊伍可見性",
-    "8FF029D544B7EC9500BD199AEE1CE927": "撕裂全場",
-    "E15F90714DA6FDFD9053248626AB156F": "撕裂全場",
     "03E580304DC6BBC29D3304B6E0D4105A": "科技升級",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "科技升級",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "科技升級",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "冬日節慶鑰匙",
     "194B94D745612B291C0C0CAC0487B727": "女巫掃帚",
     "EFCEF17944284794FC6D49B915B991EE": "女巫掃帚",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "怒茲",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "用X標記該地點。",
     "D40AA64648243870B6889FA424D3E046": "X4風暴之翼",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "合計"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "取消"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</> / {RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "第 {0} 賽季",
     "ChapterSeasonTextFormat": "{0}，{1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "無法開始觀戰。對戰可能已經結束，或你的帳號未設定為可觀戰。"
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} V-Buck",
     "StarterKitOfferContent": "{0} V-Buck + {1} {1}|plural(one=個物品,other=個物品)"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}演員 {1} 與其他 {2} 位演員重疊："
+    "AddingOverlappingActors": "{0}演員「{1}」與其他 {2} 位演員重疊：「{3}」"
   },
   "Augments": {
     "AugmentsRerollContext": "/{0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "分析器統計事件",
     "AnimNodeProfilerStatEventTooltip": "分析器統計事件",
     "QuadrupedSlopeWarping": "四足坡度變形",
+    "RootSlopeTilt": "根部坡度傾角",
     "ScaleCharacterBones": "縮放角色骨骼",
     "PredictiveStrideWarpingTooltip": "使用腳部預測骨骼預測身體動作，以配合移動速度縮放腳部IK。",
     "SpeedWarpingTooltip": "縮放腳部IK以配合移動速度。",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "根據骸類型縮放骸屍的骨骼。（例如：矮小骸屍體型小，但頭部大）",
     "SetIKTarget_Description": "設定腳部IK目標",
     "SpeedWarping": "速度變形",
+    "RootSlopeTiltTooltip": "將骨架根節點朝地面法線方向在限制範圍內傾斜一定比例，讓向下的斜坡扭曲節點能讓四肢針對已經傾斜的身體進行重新計算與修正。",
     "TransformRollerTreads": "變形滾輪/履帶",
     "TransformRollerTreadsTooltip": "將變履帶載具的滾輪變形"
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ - 找不到已連線的連結圖",
     "FortAnimNode_LinkedGraphGate_ToolTip": "限制已連結的動畫圖或圖層，以在其連結實例遭停用時防止其更新",
     "Title": "連結圖閘門"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "未找到玩家",
+    "NoPlayersToJoin_Desc": "現在沒有其他人在這裡遊玩。\n繼續進入你自己的賽事？"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "語音已停用"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>遊玩時間表</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "任何時候",
     "PlaytimeScheduleEveryDay": "每天",
     "PlaytimeScheduleFriday": "星期五",
     "PlaytimeScheduleMonday": "星期一",
+    "PlaytimeScheduleNoWindow": "無可用的特定時間範圍",
     "PlaytimeScheduleSaturday": "星期六",
     "PlaytimeScheduleSunday": "星期日",
     "PlaytimeScheduleThursday": "星期四",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "新{0}！",
     "quest_reward_grant_quest": "已完成目標"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "準備就緒的玩家：{0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "戰鬥通行證已達{0}級",
     "PurchaseNotAllowed_FounderPack": "要購買{0}，請要求你的家長或監護人從家長監控設定你的帳號",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">開啟</>：你的子女可以透過語音與自由文字與 Epic Games 產品中的 AI 功能互動。這包括與 Fortnite 中具對話功能的 AI 非玩家角色互動\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">關閉</>：你的子女無法透過語音與文字與 Epic Games 產品中的 AI 功能互動。\n\n注意：此控制選項不適用 AI 支援的玩家客服互動功能。",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">開啟</>：你的孩子可以使用 V-Buck（或用 V-Buck 購買的內容）取得物品或含有隨機獎勵的內容。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">關閉</>：你的孩子無法使用 V-Buck（或用 V-Buck 購買的內容）取得物品或含有隨機獎勵的內容。",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">開啟</>：你的孩子可以在 Fortnite 中設計遊戲和體驗，也可以加入朋友一起設計體驗。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">關閉</>：你的孩子無法在 Fortnite 中設計遊戲和體驗，也無法加入朋友一起設計體驗。\n\n注意：在設計 Fortnite 體驗時，玩家可以與尚未提交給 Fortnite 發布進行審核且因此尚未分級的內容互動。玩家也可能建立內容，包括文字，這些內容可能對其合作者可見。\n\n在 fn.gg/creative 了解更多關於《創意模式》的資訊。",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">啟用預先下載裝飾紋理將使用{InstallSize}更多儲存空間。</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">{0} 有可用退貨票券</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">取消購買</>\n\n你可以取消使用 V-Buck 進行的意外購買。在遊戲期間裝備或使用購買的物品前，都可以取消購買。僅有在過去 24 小時內購買的物品適用於取消購買規定。\n\n如需更多資訊，請參閱 fn.gg/cancelpurchase\n\n<text size=\"24\">退貨</>\n\n若你意外使用 V-Buck 購買了物品，並且無法取消購買時，可以使用每年共 3 張的退貨票券退貨。每 12 個月可額外獲得一張退貨票券，最多可持有 3 張。在最近一次獲得票券後的 12 個月後，會再新增一張退貨票券。\n\n僅有在過去 30 天內購買的物品符合退貨資格。如戰鬥通行證、戰鬥通行證等級或駱馬等消耗品均不得退貨。",
     "ScopedSpeedMultiplier_Description": "使用有瞄準鏡的武器瞄準射擊時套用到視角靈敏度的倍率。小於 1x 的設定在瞄準鏡下會降低靈敏度。大於 1x 的設定在瞄準鏡下會增加靈敏度。",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "自適應觸發",
     "TriggerHapticsStrength_Name": "自適應觸發強度",
     "UserInterfaceContrast_Description": "調整使用者介面的對比度。",
+    "VirtualPointerCursorOpacity_Description": "調整螢幕上指標的不透明度。數值越低會使指標越透明。",
+    "VirtualPointerSpeed_Description": "調整螢幕上指標的移動速度。預設速度是 5；數值越低速度越慢，數值越高速度越快。",
     "Brightness_Description": "調整亮度。",
+    "VirtualPointerHapticIntensity_Description": "使用螢幕上指標時，調整觸覺回饋的強度。",
     "AdvancedAimSensitivityCollection_Name": "進階 - 瞄準射擊 (ADS) 靈敏度",
     "BasicLookOptionsCollection_Name": "進階 - 鏡頭靈敏度",
     "SuperAdvancedSensitivityCollection_Name": "進階 - 靈敏度",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "允許語音聽寫",
     "AllowNotifications_Description": "開啟通知後，可取得關於內容下載、好友和組隊邀請、新賽季、限時活動、公告和促銷的通知。隨時調整這些設定。",
     "AmpleHammer_DetailName": "允許與 AI 功能進行語音與文字互動",
-    "AutoDownloadHighResTexturesReminders_Description": "允許顯示關於重新開啟高解析度材質自動下載的提醒。\n\n注意：提醒只會在你有所需的硬碟空間啟用此功能且自動下載已「關閉」時出現。\n\n關閉：Fortnite 不會傳送關於啟用高解析度材質的提醒。\n\n開啟（預設）：Fortnite 將傳送關於啟用高解析度材質的提醒。\n\n",
     "AllowLowPower_Description": "允許遊戲自動降低設定以節省電力。",
     "LockPrimaryInputMethodToMouse_Description": "允許同時使用控制器輸入和滑鼠輸入，並將輸入回饋鎖定為滑鼠和鍵盤建議，而不是讓輸入方式互相衝突。",
     "EnablePreferredItemSlots_Description": "讓你能為武器或物品類型指定偏好物品欄位。拾取時，偏好物品會置於其偏好物品欄位。\n\n未指定物品將置於第一個可用的快捷欄位，並在拾取偏好物品類型時重新排列。\n\n•拾取更高稀有度的同類物品時會進行稀有度替換。舉例來說，罕見泵動式霰彈槍會替換為史詩泵動式霰彈槍。稀有度較低的物品將會移動至第一個可用欄位。\n\n•「自動將消耗品分類至右側」會與「偏好物品欄位」同時發揮作用。\n\n•「偏好物品欄位」僅會在至少有一個空物品欄位時啟用。",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "自動",
     "AutoConfirmEdits_Name": "自動確認編輯",
     "AutoInteractConsumables_Name": "自動食用採集物品",
-    "AutoDownloadHighResTextures_Name": "自動下載高解析度材質",
     "STW_AutoEquipBetterItems_Name": "自動裝備更好物品",
     "AutoFireName": "自動射擊",
     "AutoInteractContainers_Name": "自動開啟儲藏容器",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "為文字選擇不同的邊框。",
     "SubtitleTextColor_Description": "為字幕文字選擇不同的色彩。",
     "SubtitleTextSize_Description": "為字幕文字選擇不同的大小。",
-    "InstalledTextureQuality_Description": "選擇 Fortnite 紋理的細節層級。調高此設定將使 Fortnite 在遊戲過程中即時載入紋理，並會看起來更詳細，但可能會增加網路用量並降低你的裝置的效能。\n\n<text color=\"FFFF00\">必須將「行動數據下載」設定為「開啟」才能透過行動數據下載高品質紋理。</>",
     "Hitmarkers_Description": "選擇擊中目標時播放的音效。",
     "TextChat_Desc": "選擇你的孩子可以在群組、隊伍和遊戲中與哪些人傳送和接收訊息。你的孩子只能與 Epic 好友傳送和接收一對一的訊息。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">所有人</>：你的孩子可以和所有人進行文字聊天。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">好友、隊員與聯絡人</>：你的孩子可以與 Epic 好友、平台好友{0}、隊伍中的所有人和聯絡人進行文字聊天。聯絡人是指那些並非你孩子的好友，但透過他們自身的好友與你的孩子連線的人。隊伍規模會根據體驗而有所不同，人數從幾位玩家到遊戲中的所有玩家皆有可能。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">僅限好友</>：你的孩子只能和 Epic 與平台上的好友進行文字聊天。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">沒有人</>：你的孩子無法和任何人進行文字聊天。\n\n即便選擇<strong>沒有人</>，若遊戲本身支援，玩家仍可以傳送遊戲內安全短語清單中的訊息（例如「做得好！」）。",
     "VoiceChat_ParentalControls_Description_Expanded": "選擇你的孩子可以在群組、隊伍和遊戲中與哪些人通話。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">所有人</>：你的孩子可以和所有人進行語音聊天。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">好友、隊員與聯絡人</>：你的孩子可以與 Epic 好友、平台好友{0}、隊伍中的所有人和聯絡人進行語音聊天。聯絡人是指那些並非你孩子的好友，但透過他們自身的好友與你的孩子連線的人。隊伍規模會根據體驗而有所不同，人數從幾位玩家到遊戲中的所有玩家皆有可能。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">僅限好友</>：你的孩子只能和 Epic 與平台上的好友進行語音聊天。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">沒有人</>：你的孩子無法和任何人進行語音聊天。",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "無動作",
     "ToggleDoubleTapAutorun_Name": "雙擊自動奔跑",
     "DownloadDetailsCollection_Name": "下載設定",
-    "CosmeticStreaming_Description": "在遊玩時遇到時才下載必要的飾品。\n\n注意：網路連線較慢時在實況飾品時可能會遇到性能問題。關閉此功能將需要更多硬碟空間。\n\n開啟：Fortnite 將只下載遊戲中遇到的飾品。\n\n關閉：Fortnite 將下載所有飾品。",
     "GyroDisabledWhileDriving_Name": "駕駛時停用陀螺儀感應器",
     "EFortSubtitleTextBorder_DropShadow": "投影",
     "CanSeeOtherPlayersNames_Desc": "在遊戲中，被淘汰玩家的帳號名稱將會顯示在螢幕上。\n此設定可以讓你將非隊伍成員的名字在這些訊息中替換為「玩家」。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">注意</>：你仍然可以看到同一「隊伍」中的玩家名稱（最多三名其他隊友，可能是朋友也可能不是）。\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">開啟</>：你可以看到非隊伍成員的名稱。\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">關閉</>：將非隊伍成員的名稱替換為「玩家」\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "啟用轉向操作桿。啟用時，將控制器的 R 操作桿指向任何方向可快速轉向鏡頭面向該方向。例如：向後拉操作桿會轉向到身後。傾斜操作桿後，旋轉它可以調整你的方位。\n\n啟用「轉向操作桿」時，你不再能使用操作桿瞄準，因此最好將陀螺儀感應器瞄準設為「始終」啟用，或將右操作桿效果設為啟用，以便隨時可以透過使用操作桿來啟動陀螺儀感應器。",
     "GamepadFlickStick_Description_XB1": "啟用轉向操作桿。啟用時，將控制器的 R 操作桿指向任何方向可快速轉向鏡頭面向該方向。例如：向後拉操作桿會轉向到身後。傾斜操作桿後，旋轉它可以調整你的方位。\n\n啟用「轉向操作桿」時，你不再能使用操作桿瞄準，因此最好將陀螺儀感應器瞄準設為「始終」啟用，或將右操作桿效果設為啟用，以便隨時可以透過使用操作桿來啟動陀螺儀感應器。",
     "GamepadFlickStick_Description_XSX": "啟用轉向操作桿。啟用時，將控制器的 R 操作桿指向任何方向可快速轉向鏡頭面向該方向。例如：向後拉操作桿會轉向到身後。傾斜操作桿後，旋轉它可以調整你的方位。\n\n啟用「轉向操作桿」時，你不再能使用操作桿瞄準，因此最好將陀螺儀感應器瞄準設為「始終」啟用，或將右操作桿效果設為啟用，以便隨時可以透過使用操作桿來啟動陀螺儀感應器。",
-    "AutoDownloadHighResTextures_Description": "啟用 Fortnite 自動下載高解析度材質。高解析度材質使 Fortnite 看起來更細緻。\n\n注意：網路連線較慢或硬碟空間有限的裝置在下載高解析度材質時可能會遇到效能問題。關閉此功能可能有助於改善效能並節省硬碟空間。\n\n開啟：Fortnite 將自動下載高解析度材質。\n\n關閉：Fortnite 將不會自動下載高解析度材質。",
     "EasyLootGridEnabled_Description": "啟用可滾動的小工具，顯示附近的物品。這樣就不用點擊場景中的物品小工具本身，只要直接點擊簡易拾取小工具中的物品便可將其拾起。",
     "EnergySavingIdle_Description": "在遊戲進入前端待機模式時啟用省電模式。待機模式會在閒置30秒後啟動。",
     "EnergySavingFocus_Description": "在遊戲視窗處於非活動狀態時啟用省電模式。",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "啟用鏡頭輔助可讓鏡頭在角色移動時隨之轉動，如此一來，便無需手動控制鏡頭。需要瞄準目標的時候除外。",
     "AutoCenter_Description": "啟用此設定後，在移動但未瞄準或射擊時，鏡頭將看向地平線。這樣可以協助經常無意中將視角對準地面或天空的新玩家，也可以幫助只在特定瞄準模式下啟用陀螺儀感應器瞄準的轉向操作桿玩家。",
     "EnergySavingCollection_Name": "省電模式",
-    "InstalledTextureQualityEpic": "史詩",
     "PostProcessingQualityEpic": "史詩",
     "ShadowEpic": "史詩",
     "TextureQualityEpic": "史詩",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "適用於狙擊步槍。不是在按下「觸控視角和射擊」鍵時射擊，而是在放開視角與射擊鍵時使用狙擊步槍射擊。即是，你可以用一根手指操作對準射擊，然後鬆開該手指進行射擊。其他射擊鍵仍然在按下時射擊。",
     "ContinuousFireGameplay_Description": "對於每次射擊都需要放開並再次按下扳機的武器，啟用此設定後，你就能長按扳機，以較低的射速連續發射。",
     "FortniteCredits_Name": "Fortnite 工作人員名單",
-    "PredownloadCosmetics_Description": "Fortnite 會在遊戲中遇到飾品時實況其紋理。開啟此功能，你將預先下載所有這些紋理，而不是在遇到時才下載。這會使用更多磁碟空間，但允許 Fortnite 在不消耗任何頻寬的情況下看起來更詳細。如果你經常使用行動數據連線遊玩，這可以提高 Fortnite 的視覺品質。\n\n否：Fortnite 將解除安裝任何先前下載的裝飾紋理，並且未來不會預先下載它們。\n\n是：Fortnite 將預先下載並安裝所有高品質紋理。\n\n",
     "ParsleyIdle_Description": "在選定分鐘數內無操作後，Fortnite 將進入睡眠模式。此設定適用於已登入的所有裝置。",
     "FlickForwardDeadZone_Name": "前進無反應區",
     "KeyboardMovementForwardDiagonal_Name": "前對角角度",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "對好友隱藏已連結的社群媒體帳號。",
     "EFortSubtitleBackgroundOpacity_High": "高",
     "GeometryQualityHigh": "高",
-    "InstalledTextureQualityHigh": "高",
     "PostProcessingQualityHigh": "高",
     "ShadowHigh": "高",
     "SoundQuality_High": "高",
     "TextureQualityHigh": "高",
     "VisualEffectQualityHigh": "高",
     "GyroAcceleration_High": "高 (4x)",
-    "AutoDownloadHighResTexturesReminders_Name": "高解析度材質提醒",
     "EnableNanite_Description": "透過 Nanite 的高階幾何渲染提升幾何細節，但可能會降低影格率。啟用 Nanite 時將使用虛擬陰影貼圖獲得更高品質的陰影。",
     "MeshQuality_Description": "較高的幾何設定讓物體形狀更詳細。提高此設定會讓物體更詳細，但可能會降低效能。",
     "TextureQuality_Description_Default": "較高的紋理設定讓平面物體外觀更詳細。提高此設定會讓物體更詳細，但可能會降低效能。",
-    "TextureQuality_Description_NoHighMips": "較高的紋理設定讓平面物體外觀更詳細。提高此設定會讓物體更詳細，但可能會降低效能。\n\n未安裝高品質紋理。可以從 Epic Games 啟動器的 Fortnite 安裝選項中下載。",
+    "TextureQuality_Description_NoHighMips": "較高的紋理設定讓平面物體外觀更詳細。提高此設定會讓物體更詳細，但可能會降低效能。\n\n<Icon.Warning></> 未安裝高品質紋理。可以從 Epic Games 啟動器的 Fortnite 安裝選項中下載。",
     "Hitmarkers_Name": "命中提示",
     "AutoClamber_On": "長按前進",
     "AutoHurdle_On": "長按前進",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "低",
     "GeometryQualityLow": "低",
-    "InstalledTextureQualityLow": "低",
     "PostProcessingQualityLow": "低",
     "SoundQuality_Low": "低",
     "TextureQualityLow": "低",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "最大視野範圍 (FOV)",
     "EFortSubtitleBackgroundOpacity_Medium": "中",
     "EFortSubtitleTextSize_Medium": "中",
-    "InstalledTextureQualityMedium": "中",
     "PostProcessingQualityMedium": "中",
     "ShadowMedium": "中",
     "TextureQualityMedium": "中",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "請檢查你的系統設定以啟用或停用 3D 音訊。\n此設定不反映 3D 音訊的目前狀態，因為 Fortnite 停用 3D 耳機模式而改用你的作業系統提供的 3D 音訊解決方案。",
     "RestartConfirmationDescription": "請重新啟動遊戲以使所有變更生效。",
     "WarningAboutToUseAdvancedOptions_Message": "變更進階選項時請謹慎。不正確的設定可能會對你的瞄準能力產生負面影響。",
+    "VirtualPointerHapticIntensity_Name": "指標觸覺回饋強度",
+    "VirtualPointerCursorOpacity_Name": "指標不透明度",
+    "VirtualPointerSpeed_Name": "指標速度",
     "PostProcessingQuality_Name": "後期處理",
     "PostProcessingQuality_Description": "後期處理效果包括動態模糊、景深和光暈。提高此設定可以改善後期處理效果的品質，但可能會降低效能。",
     "UsePowerSavingMode_Name": "省電模式",
-    "PredownloadCosmetics_Name": "預先下載裝飾紋理",
     "AimAssistSlowStrength_Name": "精確瞄準輔助強度",
     "PreferredFilledMatchAudioChannel_Name": "偏好頻道（已開啟補位）",
     "EnablePreferredItemSlots_Name": "偏好物品欄位",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "在背景停止渲染",
     "StopRenderingInBackground_Description": "當遊戲視窗沒有置頂時停止渲染（如可能）。釋放 GPU 資源供其他應用程式使用。",
     "KeyboardMovementStrafeDiagonal_Name": "橫移角度",
-    "CosmeticStreaming_Name": "實況飾品",
     "SubtitlePage_Name": "字幕",
     "SubtitlesCollection_Name": "字幕",
     "Subtitles_Name": "字幕",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "將移動控制從L操作桿切換到R操作桿。",
     "AutoImportFriends_Name": "同步你的好友列表",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "TSR 史詩",
     "AntiAliasingMethodTSRHigh": "TSR 高",
     "AntiAliasingMethodTSRLow": "TSR 低",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "文字色彩",
     "TextChatRTR": "文字檢舉",
     "SubtitleTextSize_Name": "文字大小",
-    "InstalledTextureQuality_Name": "紋理品質",
     "TextureQuality_Name": "紋理",
     "LumenRequiresD3D12": "必須將「渲染模式」設定設為「DirectX 12」才能啟用 Lumen。",
     "NaniteRequiresD3D12": "必須將「渲染模式」設定設為「DirectX 12」才能啟用 Nanite。",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "視距決定物體被剔除以提升效能的距離。",
     "TimeReportsActionDescription": "檢視你的子女每週遊玩 Fortnite、創意模式及 Fortnite Unreal Editor (UEFN) 的時間。",
     "LegalInformation_Description": "檢視法律資訊。",
+    "VirtualCursorCollection_Name": "虛擬游標",
     "VisualizeSoundEffects_Name": "音效視覺效果",
     "VisualizeSoundEffectsPriority_Name": "音效視覺效果優先順序",
     "VoiceChat": "語音聊天",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "啟用時，可以透過單次按下來進行原本需要長按的簡易編輯動作，並在持續時間後自動完成。\n\n停用時，你必須在整個持續時間長按鍵。",
     "TapQuickEdit_Description_XSX": "啟用時，可以透過單次按下來進行原本需要長按的簡易編輯動作，並在持續時間後自動完成。\n\n停用時，你必須在整個持續時間長按鍵。",
     "AutoFireDescription": "啟用時，瞄準敵人後相容的武器會自動射擊。",
-    "TapToShootDescription": "啟用時，輕觸畫面任何一處射擊。",
+    "TapToShootDescriptionAndPriority": "啟用時，輕觸畫面中的任何一處即可射擊。可能優先於其他點擊設定。",
     "ADSFire_Description": "啟用時，按下「觸控視角和射擊」鍵也會瞄準射擊/使用瞄準鏡。長按代表放開「觸控視角和射擊」鍵也會退出瞄準射擊/瞄準鏡。",
     "MinimapPlayerAlwaysFaceNorth_Description": "開啟時，小地圖根據玩家面向方向旋轉。玩家標記圖示不旋轉。（最適合搭配圓形地圖設定開啟）",
     "CircularMinimap_Description": "開啟時，小地圖將顯示在圓形容器而非方形容器中（最適合搭配鎖定小地圖旋轉設定開啟）",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "前往家長監控",
     "VoiceChatDisabled_LearnMore": "了解更多",
     "VoiceChatDisabled_ParentalControlsButtonOther": "開啟家長監控",
+    "VoiceChatDisabledDescription_Other": "已為你停用此功能。 ",
     "VoiceChatDisabled_TurnOnFromPanel": "開啟語音聊天",
     "VoiceChatDisabledDescription_Parental": "由於你的家長監控設定，語音聊天已停用。",
     "VoiceChatDisabledDescription_Platform": "由於你的主機隱私設定，你無法使用語音聊天。",
-    "VoiceChatDisabledDescription_User": "由於你的語音聊天設定，你無法使用語音聊天。在下方進行變更！",
-    "VoiceChatDisabledDescription_Other": "你的家長或監護人已透過家長監控限制此功能。 "
+    "VoiceChatDisabledDescription_User": "由於你的語音聊天設定，你無法使用語音聊天。在下方進行變更！"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "無法變更遊戲模式",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "發送訊息錯誤：{0}",
     "HiddenPlayerSays": "隱藏玩家： ",
     "BlockedPlayerMessage": "訊息已隱藏",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "由於此客戶端處於錦標賽模式，因此文字聊天已停用。",
     "TextChatEnabled": "文字聊天已啟用。",
     "DisabledBySocialBan": "由於你帳號的社交功能已遭停權，你的文字聊天已停用。",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "無法開始配對。",
     "FortMatchmakingContext_WarningDialogTitle": "配對警告",
     "NoFill": "不補位",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "沒有可用任務",
+    "FortMatchmakingContext_NoMissionsForProgress": "沒有可用任務",
+    "FortMatchmakingContext_NoMissionsInTheater": "沒有可用任務",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "你目前的進度沒有可用任務。\n嘗試選擇快速遊戲或自訂。",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "目前劇院中沒有可用任務。\n嘗試選擇其他劇院。",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "指定力量等級沒有可用任務。\n嘗試選擇其他力量等級。",
     "Private": "私人",
     "Public": "公開",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "派對沒有足夠的力量等級來玩這個任務。試著選擇一個不太困難的任務，改變你的派對組成，或將你的任務隱私設定為僅限好友或私人。",
@@ -10716,6 +10727,10 @@
     "EditFactText": "編輯事實文字",
     "EditInPromptEditor": "在提示編輯器中編輯"
   },
+  "LLMSession": {
+    "ModerationMsg": "此回應已被隱藏",
+    "UnknownRestriction": "未知限制"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "解鎖此套裝以開始領取獎勵"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "需要領取所有 {GroupName} 個優惠"
+    "GroupComplete_Member_Incomplete": "領取其它所有{GroupName}獎勵",
+    "GroupComplete_Nonmember_Incomplete": "領取{GroupName}的所有獎勵"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "於 {Date} 解鎖"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "感謝遊玩Fortnite！",
     "PurchaseHeader": "已獲得{0}|plural(one=物品,other=物品)"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "此 NPC 飾品的顯示名稱無法編輯。"
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "新增賽道",
     "AddTrack_ToolTip": "建立新的動作賽道"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "開放式麥克風",
     "ChannelPreferredSocial": "偏好頻道",
     "VoiceChatRestricted_Parental": "已被家長監控限制",
+    "VoiceChatRestricted_Other": "已為你停用此功能。 ",
     "VoiceChat_UserSocial": "語音聊天",
     "VoiceChatParentDisabled": "語音聊天已被家長監控停用",
     "VoiceIndicatorsSocial": "語音指示器",
     "VoiceMethod": "語音方式",
-    "VoiceVolumeSocial": "語音音量",
-    "VoiceChatRestriced_Other": "你的家長或監護人已透過家長監控限制此功能。 "
+    "VoiceVolumeSocial": "語音音量"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "回音頻道",

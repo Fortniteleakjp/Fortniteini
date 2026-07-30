@@ -78,6 +78,7 @@
     "A7AC22914D2F9B8D0080D89E6F069883": "Thiết Bị Tay Cầm HUD",
     "2B47932D4F7D31E52F330984C45BFB06": "Cao",
     "5A2463574907D8B5ECA879B7CA70C029": "Cao Nhất",
+    "CB633460400C8FA16778E2847474E317": "Điều Khiển Tùy Chỉnh Đảo",
     "1A8073704B9492845EA5C2AA7941AC6D": "Cho phép người chơi xác nhận thành phần HUD nào sẽ hoạt động",
     "2EF768A54981DC41A0564F96FDA9D578": "Cho phép người chơi xác nhận thành phần HUD nào sẽ hoạt động",
     "256964B440A8B004196737918F1F778C": "Cho phép người chơi xác nhận thành phần HUD nào sẽ hoạt động.",
@@ -219,6 +220,9 @@
     "EAFBC25E4CA0460B796EF99313C117A1": "Có",
     "EDB615C74D79CE1B0EAA56ACBAFBB958": "Có",
     "F47A59824F0CB40331619AA31791B201": "Có"
+  },
+  "DeveloperLayoutButtonProxyCustomization": {
+    "ActionRolledBack": "Tính năng này chưa khả dụng trong giai đoạn hiện tại"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nhãn"

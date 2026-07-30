@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Cihazında Düşük Veri Modu ayarı etkinken Fortnite içeriği indirmek üzeresin. Bu işlem tahmini olarak {DownloadSizeEstimate} indirmeni gerektirecek.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Fortnite içeriğini indirmek için mobil internet kullanmak üzeresin. Bu işlem tahmini olarak {DownloadSizeEstimate} indirmeni gerektirecek.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "Fortnite'ı yükleyebilmek için fazladan {SpaceAdditional} alana ihtiyacın var.\n\nCihazında biraz daha yer aç ve yeniden dene.\n\n1. Ayarlar'a git.\n\n2. Genel seçeneğini seç.\n\n3. iPhone/iPad Saklama Alanı seçeneğini seç.\n\n4. Diğer uygulamaları ya da medya dosyalarını kaldır.\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "%{0}"
   },
   "FortniteShaderCompileScreen": {

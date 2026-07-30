@@ -78,6 +78,7 @@
     "A7AC22914D2F9B8D0080D89E6F069883": "Urządzenie sterownika interfejsu",
     "2B47932D4F7D31E52F330984C45BFB06": "Wysoki",
     "5A2463574907D8B5ECA879B7CA70C029": "Najwyższy",
+    "CB633460400C8FA16778E2847474E317": "Własny schemat sterowania wyspą",
     "1A8073704B9492845EA5C2AA7941AC6D": "Umożliwia graczom określanie, które elementy interfejsu będą aktywne",
     "2EF768A54981DC41A0564F96FDA9D578": "Umożliwia graczom określanie, które elementy interfejsu będą aktywne",
     "256964B440A8B004196737918F1F778C": "Umożliwia graczom określanie, które elementy interfejsu będą aktywne.",
@@ -219,6 +220,9 @@
     "EAFBC25E4CA0460B796EF99313C117A1": "Tak",
     "EDB615C74D79CE1B0EAA56ACBAFBB958": "Tak",
     "F47A59824F0CB40331619AA31791B201": "Tak"
+  },
+  "DeveloperLayoutButtonProxyCustomization": {
+    "ActionRolledBack": "Niedostępne w obecnej fazie wdrażania funkcji"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nazwa"

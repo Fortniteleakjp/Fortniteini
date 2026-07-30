@@ -16,6 +16,11 @@
     "UnableToGetPointData": "ไม่สามารถรับข้อมูลจุดจากอินพุตได้",
     "UnableToGetSpatialData": "ไม่สามารถรับข้อมูลภูมิสารสนเทศจากอินพุตได้"
   },
+  "JunoWorldMutationRulesetDetails": {
+    "EmptyRule": "(ว่างเปล่า - โปรดเลือกประเภทกฎ)",
+    "MultipleRules": "(หลายค่า)",
+    "RuleRowFormat": "[{0}] {1}"
+  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "ไม่สามารถดึงข้อมูลสำหรับพื้นผิวความสูงได้ การเริ่มต้นล้มเหลว",
     "FailExtractGrassTypeOverrides": "ไม่สามารถดึงข้อมูลการตั้งค่าทับซ้อนของประเภทหญ้าได้"

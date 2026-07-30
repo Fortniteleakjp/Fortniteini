@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Kamu akan mengunduh konten Fortnite saat pengaturan Mode Data Rendah diaktifkan di perangkatmu. Pengunduhan yang diperlukan sekitar {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Kamu akan menggunakan data seluler untuk mengunduh konten Fortnite. Pengunduhan yang diperlukan sekitar {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "Kamu butuh {SpaceAdditional} tambahan untuk menginstal Fortnite.\n\nKosongkan sebagian ruang di perangkatmu dan coba lagi.\n\n1. Buka Pengaturan\n\n2. Pilih Umum\n\n3. Pilih Penyimpanan iPhone/iPad\n\n4. Hapus aplikasi atau media lain\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

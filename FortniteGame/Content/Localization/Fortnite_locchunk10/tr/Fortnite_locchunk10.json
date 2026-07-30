@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Destekli Takla",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Çift Kanat",
     "5B5236944941BFD7DE82B8B05FE11D94": "Çift Kanat",
-    "DF56207843F6244003548CA79CFAA0F4": "Çift Kanat",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade (Bıçağın İki Yüzü)",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade (Bıçağın İki Yüzü)",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Para Avcıları",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "Gösterge paneli simgesini hangi (eğer varsa) takımın Dost olarak göreceğini belirler. Rozet tarzı simgeler için geçerlidir. ",
     "129650534E9339B784AAB9B5C32678A6": "Gösterge paneli simgesini hangi takımın görebileceğini belirler. Rozet tarzı simgeler için geçerlidir.",
     "9AED3EE2432C86562FC1268D4F02CA40": "Gösterge paneli simgesini hangi takımın görebileceğini belirler. Rozet tarzı simgeler için geçerlidir.",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "Kurtadam",
     "C90BA6D147AC6F970F343F814B24620B": "Koşarken Devre Dışı Bırak",
     "BD5501F945FD5E68B86AA19785403260": "Araç Çıkma Yeri'ni devre dışı bırakarak araç çıkarmasına engel olur.",
     "BD1640424CA1561290BF568D12001009": "Seçilen kanaldan sinyal alınca bu çıkma yerini devre dışı bırak.",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "Fenerli Tabanca",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "Fenerli Tabanca",
     "E576A6EA43FB3390DF995597CC8787B5": "Destekli Düz İniş",
+    "EC2248AB4AAE78827455E396D0611068": "Tat Metni",
     "A7FC866241FA661C68609CB3E03F6CEC": "Uç",
     "01B10F554E9863503405E890B39DCFAA": "Fortbyte 6 Haftalık Görev Kontrolü",
     "43DA2A90437D506CE8205EAFABE1CBD6": "Fortbyte 6 Haftalık Görev Kontrolü",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "Müthiş Burun Aşağı Takla",
     "A4341A0045390C670F4757948E6E3CE5": "Müthiş Tsunami",
     "F0737F4E40417749A441A59843B932F0": "Müthiş Hareket",
-    "8B52C5AD4891876163EE09B5632D41E8": "En iyiler unutulmaz.",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Yeşil",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "Sokak Fırtınası",
     "0527EEDF4C1C3DC79266D49836DEF54C": "Yeraltı Odası Anahtar Kartı",
     "7F90D27A40A35D195B511AAE906A6A36": "Yeraltı Odası Anahtar Kartı",
     "7E6F527B407E9A6E8B1FED863069924E": "Silahlar Taarruz Tüfekleri MakineliTüfek HafifMermi Otomatik",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "Ağır Tabanca",
     "89587ADB427212BBA1354BB2C1FF6E8F": "Ağır Tabanca",
     "9CBF2A9D457F7567D62990B2A189E194": "Ağır Tabanca +",
-    "50894D884F5D8695DB841F90521FCF55": "HANGTIME",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "Has unnecessary parenting and modules",
     "64F8ED534DCB3384F84C0BA28011E1FA": "Has unnecessary parenting and modules",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "Has unnecessary parenting and modules",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "Savsak Düz İniş",
     "CA6D0D87420CCE166090BAB2B3B09E44": "Savsak G Dönüşü",
     "8DEE71084CFD3D885BB21C8D75A996A1": "Savsak Ters Takla",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "Sürünün lideri.",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "Avlandığın yerde bir <Emphasized>yakınlığa duyarlı mayın</> bırakırsın.",
     "C249F11F41E9E062B8B2E7852084DFB9": "Sol",
     "3DA57402427AD07E9EEF1182BFB26A44": "Sol Kuyruk",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "Tekrar yok",
     "400B329C4C3CFA025EA0409641DF37CB": "Hiçbiri",
     "6B12549A41998E4E0A87668FD5B4D36C": "Yok",
+    "8456D15B451996C5FCF369A843AE73FA": "Hiçbiri",
     "B67463454D0A16C5C16CBB999DCAA7AC": "Yok",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "Yok",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "Yok",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "Normal",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "Normal",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "<Emphasized>Yürüyen alelade bir kutu</>. Önemli bir şey değil.",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "Hiçlik Jetonu",
     "2A743E1048A4D22ED47940B99A99FD94": "Mazi Bileti",
     "2FA98907484D5AA64173C5B93C5D30F1": "Hedef",
     "2AE212EE406A3146388589A8AFC54CF3": "Okyanus'un Seri Taarruz Tüfeği",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "Oyuncuların alabilmesi için Sonsuzluk Kılıcı'nı yerleştirir.",
     "1F62B87A4BC128082F4198855D3F6FDE": "Oyuncuların alabilmesi için Sonsuzluk Kılıcı'nı yerleştirir.",
     "9EC314644018A0419EA1F482397A0E43": "Yolu gösterecek ara noktalar yerleştir.",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Oyuncu Anketi Uygunluk Jetonu",
     "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "Yere Koy",
     "3B2F170F40934B3A5C46F1B55E412D4A": "Ateşi söndür!",
     "43088BA143F2B6BCAEE378847172BE8C": "Dört Teker",
-    "CC13E7A44B19B6541560D085C426791D": "Dört Teker",
     "393E9456499B520AC90D5E8597A7D23D": "<Emphasized>Son 5 mermisi</> <Emphasized>fazladan hasar veren</> susturuculu bir hafif makineli tüfek.",
     "43E272F8443991243556F0AB98EC9BBE": "GERÇEKLİK TAŞI",
     "2A5097B944627605414956BB8AE4337B": "Rastgele",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "Susturuculu Hafif Makineli Tüfek",
     "DDDAFD77445379EE9BAF399713A063D6": "Felaketzede",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Daha <Emphasized>hızlı</> yüzersin.",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "SWISH",
     "E928E3A54C017ABB67564BB0EE06B190": "Profil Değiştir",
     "85D867BC4BF95138BD5A05A4705FB62F": "Koltuk Değiştir",
     "8F0C992C457A0ED11DC7F089C2563C02": "Koltuk Değiştir",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "Tank Gibi",
     "50B5E23B4F691D00F8BE3C984622679F": "Takım Görünürlüğü",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "Takım Görünürlüğü",
-    "8FF029D544B7EC9500BD199AEE1CE927": "Sahayı yarıp geç.",
-    "E15F90714DA6FDFD9053248626AB156F": "Sahayı yarıp geç.",
     "03E580304DC6BBC29D3304B6E0D4105A": "Teknoloji Yükseltmesi",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "Teknoloji Yükseltmesi",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "Teknoloji Yükseltmesi",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Kış Festivali Anahtarı",
     "194B94D745612B291C0C0CAC0487B727": "Cadı Süpürgesi",
     "EFCEF17944284794FC6D49B915B991EE": "Cadı Süpürgesi",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "Hiddetli Hayalet",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X Nerede Hazine Orada!",
     "D40AA64648243870B6889FA424D3E046": "X-4 Fırtınakanat",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "Hepsi Birlikte"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "İptal Et"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</>/{RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "Sezon {0}",
     "ChapterSeasonTextFormat": "{0}, {1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "İzleme başlatılamadı. Maç sona ermiş olabilir veya hesabın maçları izlemek için ayarlanmamış olabilir."
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} V-PAPEL",
     "StarterKitOfferContent": "{0} V-PAPEL + {1} {1}|plural(one=İÇERİK,other=İÇERİK)"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}Aktör {1} {2} diğer aktörle çakışıyor:"
+    "AddingOverlappingActors": "{0}Aktör \"{1}\" {2} diğer aktörle çakışıyor: \"{3}\""
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "Profilleştirici İstatistik Etkinliği",
     "AnimNodeProfilerStatEventTooltip": "Profilleştirici İstatistik Etkinliği",
     "QuadrupedSlopeWarping": "Dört Ayaklı Eğim Bükme",
+    "RootSlopeTilt": "Kök Eğimi",
     "ScaleCharacterBones": "Karakter Kemiklerini Ölçekle",
     "PredictiveStrideWarpingTooltip": "Ayakların ters kinematiğini, vücudun hareketini tahmin etmek için ayak tahmin kemikleri kullanarak hareket hızına uygun şekilde ölçeklendirir.",
     "SpeedWarpingTooltip": "Ayakların ters kinematiğini hareket hızına uygun şekilde ölçeklendirir.",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "Suratsızların türüne göre kemiklerini ölçeklendirir (örn. Güdük suratsızlar kısadır ama koca kafalıdır).",
     "SetIKTarget_Description": "Ters Kinematik Hedeflerine Ayak Belirle",
     "SpeedWarping": "Hız Bükme",
+    "RootSlopeTiltTooltip": "İskelet kökünü, belirli bir oranda zemin normaline doğru eğer. Böylece bir sonraki eğim-bükme düğümünün uzuvları zaten eğilmiş bir vücuda göre yeniden hesaplanır.",
     "TransformRollerTreads": "Palet/Silindir Geçişi",
     "TransformRollerTreadsTooltip": "Paletli bir aracın silindirlerini dönüştürür."
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ - Bağlı grafik bulunamadı",
     "FortAnimNode_LinkedGraphGate_ToolTip": "Bağlı bir animasyon grafiğinin veya katmanının bağlantılı öğe devre dışı bırakıldığında güncellenmesini önler.",
     "Title": "Bağlı Grafik Kapısı"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "Oyuncu Bulunamadı",
+    "NoPlayersToJoin_Desc": "Şu an burada başka kimse oynamıyor.\nKendi oturumuna devam etmek ister misin?"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "Sesli Sohbet Devre Dışı"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>FORTNITE PROGRAMI</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "Herhangi Bir Anda",
     "PlaytimeScheduleEveryDay": "Her gün",
     "PlaytimeScheduleFriday": "Cuma",
     "PlaytimeScheduleMonday": "Pazartesi",
+    "PlaytimeScheduleNoWindow": "İzin Verilen Süre Aralığı Yok",
     "PlaytimeScheduleSaturday": "Cumartesi",
     "PlaytimeScheduleSunday": "Pazar",
     "PlaytimeScheduleThursday": "Perşembe",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "YENİ {0}!",
     "quest_reward_grant_quest": "GÖREV TAMAMLANDI"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "Oyuncular Hazır: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "Savaş Bileti zaten {0}. aşamada",
     "PurchaseNotAllowed_FounderPack": "{0} satın alabilmek için ebeveyn veya vasinden Ebeveyn Kontrolleri'nden hesabını kurmasını iste.",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">AÇIK</>: Çocuğunuz sesli ve serbest yazılı iletişim yoluyla Epic Games ürünlerindeki yapay zekâ özellikleriyle etkileşime geçebilir. Bu özelliklere Fortnite'taki yapay zekâlı, kontrol edilemeyen karakterlerle etkileşime geçmek de dahildir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">KAPALI</>: Çocuğunuz sesli ve yazılı iletişim yoluyla Epic Games ürünlerindeki yapay zekâ özellikleriyle etkileşime geçemez.\n\nNot: Bu ayar yapay zekâlı destek etkileşimleri için geçerli değildir.",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Açık</>: Çocuğunuz, ödülün rastgele olduğu eşyalar veya içerikler için V-Papel (veya V-Papellerle satın alınan içerik) HARCAYABİLİR. \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Kapalı</>: Çocuğunuz, ödülün rastgele olduğu eşyalar veya içerikler için V-Papel (veya V-Papellerle satın alınan içerik) HARCAYAMAZ.",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Açık</>: Çocuğunuz Fortnite'ta kendi oyunlarını ve deneyimlerini tasarlayabilir veya kendi deneyimlerini tasarlayan arkadaşlarına katılabilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Kapalı</>: Çocuğunuz Fortnite'ta kendi oyunlarını ve deneyimlerini tasarlayamaz veya kendi deneyimlerini tasarlayan arkadaşlarına katılamaz.\n\nNot: Oyuncular Fortnite'ta bir deneyim tasarlarken değerlendirmeye gönderilmemiş, dolayısıyla da derecelendirilmemiş içeriklerle etkileşime geçebilir. Oyuncular ayrıca ortak çalışanlarının görebileceği metin gibi içerikler oluşturabilir. \n\nKreatif hakkında daha fazla bilgi için fn.gg/creative adresini ziyaret edin.",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">Önceden İndirilen Kozmetik Dokuları'nı açmak, fazladan {InstallSize} depolama alanı kullanır.</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">{0} iade biletin var.</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">Satım Alım İptali</>\n\nV-Papel kullanarak istemeden yaptığın satın alımları iptal edebilirsin. Satın aldığın içeriği kuşanır veya bununla oyuna girersen satın alım iptali yapamazsın. Yalnızca son 24 saatte yapılan alışverişler satın alım iptali için uygundur.\n\nDaha fazla bilgi fn.gg/cancelpurchase adresinde.\n\n<text size=\"24\">Satın Alım İadesi</>\n\nV-Papel kullanarak bir eşyayı istemeden satın aldığın ve satım alım iptalinin artık mevcut olmadığı durumlarda, sana verilen 3 adet yıllık iade biletinden birini kullanabilirsin. 12 ayda bir, en fazla üç bilete kadar iade bileti alırsın. Her bilet, son alınan biletten 12 ay sonra eklenir.\n\nBu iade talepleri sadece son 30 günde satın alınan eşyalar için geçerlidir. Savaş Bileti, Savaş Bileti Aşaması veya Lamalar gibi tek kullanımlık eşyalar iade edilemez.",
     "ScopedSpeedMultiplier_Description": "Dürbünlü silahlarla yakınlaştırarak nişan alırken bakış hassasiyetini belirleyen çarpandır.  1x'ten daha az olacak şekilde ayarlandığında yakınlaştırarak nişan alırken hassasiyeti azaltır.  1x'ten daha fazla olacak şekilde ayarlandığında yakınlaştırarak nişan alırken hassasiyeti arttırır.",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "Uyarlanabilir Tetikler",
     "TriggerHapticsStrength_Name": "Uyarlanabilir Tetiklerin Gücü",
     "UserInterfaceContrast_Description": "Kullanıcı arayüzünün kontrastını ayarlar.",
+    "VirtualPointerCursorOpacity_Description": "Ekran imlecinin ne kadar opak görüneceğini ayarlar. Daha düşük değerler, imlecin saydamlığını arttırır.",
+    "VirtualPointerSpeed_Description": "İmlecin hareket hızını ayarlar. 5 değeri varsayılan hızdır, daha düşük değerler daha yavaştır ve daha yüksek değerler daha hızlıdır.",
     "Brightness_Description": "Parlaklığı ayarlar.",
+    "VirtualPointerHapticIntensity_Description": "Ekran imlecini kullanırken dokunsal geribildirimin gücünü ayarlar.",
     "AdvancedAimSensitivityCollection_Name": "Gelişmiş - Yakınlaştırarak Nişan Alma Hassasiyeti",
     "BasicLookOptionsCollection_Name": "Gelişmiş - Bakış Hassasiyeti",
     "SuperAdvancedSensitivityCollection_Name": "Gelişmiş - Hassasiyet",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "Dikteye İzin Ver",
     "AllowNotifications_Description": "Bildirimlere izin vererek içerik yüklemeleri, arkadaşlık ve grup davetleri, yeni sezonlar, sınırlı süreli etkinlikler, duyurular ve tanıtımlar hakkında bildirim alabilirsin. Bu ayarları her zaman düzenleyebilirsin.",
     "AmpleHammer_DetailName": "Yapay Zekâ Özellikleri ile sesli ve yazılı iletişime izin verin",
-    "AutoDownloadHighResTexturesReminders_Description": "Yüksek çözünürlüklü dokuların tekrar otomatik olarak indirilmesiyle alakalı hatırlatıcıların görünmesini sağlar.\n\nNOT: Hatırlatıcılar, yalnızca yeterli disk alanına sahipsen ve otomatik indirmeler \"KAPALI\" konumdaysa görünür.\n\nKAPALI: Fortnite yüksek çözünürlüklü dokuları açmakla ilgili hatırlatıcı göndermez.\n\nAÇIK (varsayılan): Fortnite yüksek çözünürlüklü dokuları açmakla ilgili hatırlatıcı gönderir.\n\n",
     "AllowLowPower_Description": "Oyunun güç korumak için ayarları otomatik olarak düşürmesine izin verir.",
     "LockPrimaryInputMethodToMouse_Description": "Oyun Kumandası Girişi ve Fare Girişi'nin aynı anda kullanılmasına izin verir ve karışıklık yaratmamak için Fare ve Klavye giriş önerisi geribildirimlerini gösterir.",
     "EnablePreferredItemSlots_Description": "Bir silah veya eşya türü için tercih edilen bir çanta yuvası atamanı sağlar. Bir eşyayı aldığında tercih ettiğin çanta yuvasına yerleştirilir.\n\nAtanmamış eşyalar, ilk kullanılabilir Kısayol Çubuğu yuvasına yerleştirilir ve tercih edilen bir eşya türü alındığında uygun şekilde yeniden düzenlenir.\n\n• Nadirlik değiştirme, aynı eşyanın daha nadir olanı alındığında gerçekleşir. Örneğin Sıradışı Klasik Pompalı Tüfek, Destansı Pompalı Tüfek ile değiştirilir. Daha düşük nadirlikteki eşya, uygun olan ilk yuvaya yerleştirilir.\n\n• Tek Kullanımlık Eşyaları Otomatik Olarak Sağa Al seçeneği, tercih edilen eşya yuvalarıyla birlikte çalışır.\n\n• Tercih edilen silah yuvaları, yalnızca tam bir dizilimin olana kadar etkin olur.",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "Otomatik",
     "AutoConfirmEdits_Name": "Düzenlemeleri Otomatik Onayla",
     "AutoInteractConsumables_Name": "Toplanabilir Eşyaları Otomatik Tüket",
-    "AutoDownloadHighResTextures_Name": "Yüksek Çözünürlüklü Dokuları Otomatik İndir",
     "STW_AutoEquipBetterItems_Name": "Daha İyi Eşyaları Otomatik Kuşan",
     "AutoFireName": "Otomatik Ateş Et",
     "AutoInteractContainers_Name": "Kutuları Otomatik Aç",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "Metin için arka plan seç.",
     "SubtitleTextColor_Description": "Altyazının rengini seç.",
     "SubtitleTextSize_Description": "Altyazının boyutunu seç.",
-    "InstalledTextureQuality_Description": "Fortnite'ın dokularında ayrıntı seviyesini seç. Bu ayarı yükseltmek, bulut üzerinden oynarken Fortnite'ın oyun içindeki dokulara daha yakın görünmesini sağlar ve detayları arttırır ama ağ kullanımını arttırabilir ve cihazının performansını düşürebilir.\n\n<text color=\"FFFF00\">Mobil veri kullanarak daha Yüksek çözünürlüklü dokuların kullanılabilmesi için \"Mobil Veri İndirmesi\" seçeneğinin \"AÇIK\" olması gerekir.</>",
     "Hitmarkers_Description": "Bir hedefe vurulduğunda hangi seslerin oynatılacağını seç.",
     "TextChat_Desc": "Çocuğunuzun gruplarda, takımlarda ve oyunlarda kimlerle mesajlaşabileceğini seçin. Çocuğunuz sadece Epic arkadaşlarıyla doğrudan mesajlaşabilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Herkes</>: Çocuğunuz herkesle yazılı sohbet edebilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Arkadaşlar, Takım Üyeleri ve Bağlantılar</>: Çocuğunuz Epic arkadaşları, platform arkadaşları{0}, takımındaki herkes ve bağlantılarla yazılı sohbet edebilir. Bağlantılar, çocuğunuzun arkadaş olmadığı ancak diğer arkadaşları aracılığıyla bağlantılı olduğu insanlardır. Takım boyutları deneyime göre değişebilir ve birkaç oyuncu ile oyundaki herkes arasında değişiklik gösterebilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Sadece Arkadaşlar</>: Çocuğunuz sadece Epic ve platform arkadaşlarıyla yazılı sohbet edebilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Hiç Kimse</>: Çocuğunuz kimseyle yazılı sohbet edemez.\n\n<strong>Hiç Kimse</> seçimini yapmak, eğer destekleniyorsa oyuncuların \"Eline sağlık!\" gibi oyun içi güvenli ifadeleri kullanmalarını engellemez.",
     "VoiceChat_ParentalControls_Description_Expanded": "Çocuğunuzun gruplarda, takımlarda ve oyunlarda kimlerle konuşabileceğini seçin.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Herkes</>: Çocuğunuz herkesle sesli sohbet edebilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Arkadaşlar, Takım Üyeleri ve Bağlantılar</>: Çocuğunuz Epic arkadaşları, platform arkadaşları{0}, takımındaki herkes ve bağlantılarla sesli sohbet edebilir. Bağlantılar, çocuğunuzun arkadaş olmadığı ancak diğer arkadaşları aracılığıyla bağlantılı olduğu insanlardır. Takım boyutları deneyime göre değişebilir ve birkaç oyuncu ile oyundaki herkes arasında değişiklik gösterebilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Sadece Arkadaşlar</>: Çocuğunuz sadece Epic ve platform arkadaşlarıyla sesli sohbet edebilir.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Hiç Kimse</>: Çocuğunuz kimseyle sesli sohbet edemez.",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "Hiçbir Şey Yapma",
     "ToggleDoubleTapAutorun_Name": "Otomatik olarak koşmak için çift dokun",
     "DownloadDetailsCollection_Name": "İndirme Ayarları",
-    "CosmeticStreaming_Description": "Yalnızca oyunda karşılaşılan kozmetikleri indirir.\n\nNot: Oyun kozmetik eşyaları indirirken, yavaş internet bağlantılarında performans sorunları deneyimlenebilir. Bu özelliği kapatmak daha fazla disk alanı gerektirir.\n\nAÇIK: Fortnite sadece oyunda karşılaşılan kozmetikleri indirir.\n\nKAPALI: Fortnite tüm kozmetikleri indirir.",
     "GyroDisabledWhileDriving_Name": "Araç Sürmek Jiroskopu Devre Dışı Bırakır",
     "EFortSubtitleTextBorder_DropShadow": "Gölgelendirme",
     "CanSeeOtherPlayersNames_Desc": "Maç esnasında, avlanan oyuncuların isimleri ekranda görüntülenir.\nBu ayar, bu mesajlarda, ekibinde olmayan diğer oyuncuların isimlerini \"Oyuncu\" olarak değiştirmeni sağlar.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Not</>: \"Ekibindeki\" oyuncuların (ekip senin dışındaki en fazla üç oyuncudan oluşur; bu oyuncular arkadaşın olabilir de, olmayabilir de) kullanıcı adını görmeye devam edeceksin.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Açık</>: Ekibinde olmayan oyuncuların kullanıcı adını görüntüleyebilirsin.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Kapalı</>: Ekibinde olmayan oyuncuların ismini \"Oyuncu\" olarak görüntülersin.\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "Ani dönüş çubuğunu etkinleştirir. Etkinleştirildiğinde kontrol cihazındaki sağ çubuğu herhangi bir yöne çevirerek kamerayı hızlıca o yöne çevirebilirsin. Örneğin çubuğu geri çekmek aniden arkana dönmeni sağlar. Çubuk eğildikten sonra yönünü ayarlamak için çevir.\n\nBu, artık çubukla yukarı ve aşağı hedef alamayacağın anlamına geldiği için Jiroskop Hedefleme'nin her zaman etkin olması veya Sağ Çubuk Etkisi ayarının ETKİN olarak ayarlanması en iyi kullanım şeklidir. Bu sayede çubuğu her kullandığında yukarı veya aşağı bakmak için jiroskobu etkinleştirebilirsin.",
     "GamepadFlickStick_Description_XB1": "Ani dönüş çubuğunu etkinleştirir. Etkinleştirildiğinde kontrol cihazındaki sağ çubuğu herhangi bir yöne çevirerek kamerayı hızlıca o yöne çevirebilirsin. Örneğin çubuğu geri çekmek aniden arkana dönmeni sağlar. Çubuk eğildikten sonra yönünü ayarlamak için çevir.\n\nBu, artık çubukla yukarı ve aşağı hedef alamayacağın anlamına geldiği için Jiroskop Hedefleme'nin her zaman etkin olması veya Sağ Çubuk Etkisi ayarının ETKİN olarak ayarlanması en iyi kullanım şeklidir. Bu sayede çubuğu her kullandığında yukarı veya aşağı bakmak için jiroskobu etkinleştirebilirsin.",
     "GamepadFlickStick_Description_XSX": "Ani dönüş çubuğunu etkinleştirir. Etkinleştirildiğinde kontrol cihazındaki sağ çubuğu herhangi bir yöne çevirerek kamerayı hızlıca o yöne çevirebilirsin. Örneğin çubuğu geri çekmek aniden arkana dönmeni sağlar. Çubuk eğildikten sonra yönünü ayarlamak için çevir.\n\nBu, artık çubukla yukarı ve aşağı hedef alamayacağın anlamına geldiği için Jiroskop Hedefleme'nin her zaman etkin olması veya Sağ Çubuk Etkisi ayarının ETKİN olarak ayarlanması en iyi kullanım şeklidir. Bu sayede çubuğu her kullandığında yukarı veya aşağı bakmak için jiroskobu etkinleştirebilirsin.",
-    "AutoDownloadHighResTextures_Description": "Fortnite'ın yüksek çözünürlüklü dokuları otomatik olarak indirmesine izin verir. Daha yüksek çözünürlüklü dokular, Fortnite'ın daha detaylı görünmesini sağlar.\n\nYavaş internet bağlantıları veya sınırlı disk alanına sahip cihazlar, oyun yüksek çözünürlüklü dokuları indirirken performans sorunları yaşayabilir. Bu özelliğin kapatılması performansı arttırmaya ve disk alanından tasarruf etmeye yardımcı olabilir.\n\nAÇIK: Fortnite yüksek çözünürlüklü dokuları otomatik indirir.\n\nKAPALI: Fortnite yüksek çözünürlüklü dokuları otomatik indirmez.",
     "EasyLootGridEnabled_Description": "Etraftaki eşyaların gösterildiği kaydırılabilir bir araç etkinleştirir. Daha sonra etraftaki asıl eşya araçlarına tıklamak yerine buna tıklayarak eşyayı buradan alabilirsin.",
     "EnergySavingIdle_Description": "Oyun önyüzde bekleme moduna girdiğinde enerji tasarrufunu etkinleştirir. Bekleme modu 30 saniye hareketsiz kaldığında devreye girer.",
     "EnergySavingFocus_Description": "Oyun penceresi etkin pencerede değilken enerji tasarrufunu etkinleştirir.",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "Kamera yardımlarını etkinleştirmek karakterin hareket ettikçe kameranı da aktif olarak döndürür, yani bir şeylere nişan almaya çalışmıyorsan kamerayı manüel olarak kontrol etmene gerek kalmaz.",
     "AutoCenter_Description": "Bu ayar etkinleştirildiğinde, ateş etmeden ve nişan almadan hareket ettiğinde kamerayı ufuk çizgisine doğru hizalar. Bu, kendini istemsiz olarak yere veya havaya bakarken bulan yeni oyunculara veya belirli nişan modlarında yalnızca jiroskop nişan kullanan ani dönüş çubuğu kullanıcısı oyunculara yardımcı olabilir.",
     "EnergySavingCollection_Name": "Enerji Tasarrufu",
-    "InstalledTextureQualityEpic": "Destansı",
     "PostProcessingQualityEpic": "Destansı",
     "ShadowEpic": "Destansı",
     "TextureQualityEpic": "Destansı",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "Keskin nişancı tüfekleri için. Dokunmatik bakış ve ateş düğmesine bastığında ateş etmek yerine, düğmeyi bıraktığında ateş eder. Bu, düğmeye basıp hedef alarak aynı parmağını düğmeden çektiğinde ateş etmeni sağlar. Diğer ateş düğmeleri bastığında ateş etmeye devam eder.",
     "ContinuousFireGameplay_Description": "Her atış için tetiğe basılı tutup bırakmanı gerektiren silahlar için bu ayarı etkinleştirmek, tetiğe basılı tutarak sürekli ateş etmeni sağlar (daha yavaş atış hızıyla).",
     "FortniteCredits_Name": "FORTNITE'TA EMEĞİ GEÇENLER",
-    "PredownloadCosmetics_Description": "Fortnite, kozmetik dokuları oyunda karşılaşıldıklarında indirir. Bu özelliği açarak bu dokuların hepsini karşılaşıldıklarında değil, önceden indirirsin. Bu özellik çok daha fazla disk alanı kullanır ancak herhangi bir bant genişliğine mal olmadan Fortnite'ın daha detaylı görünmesini sağlar. Sık sık mobil bağlantı kullanarak oynuyorsan bu, Fortnite'ın görsel kalitesini arttırır.\n\nHayır: Fortnite önceden indirilmiş kozmetik dokuları siler ve bundan sonra dokuları önceden indirmez.\n\nEvet: Fortnite tüm yüksek kalite dokuları önceden indirir ve yükler.\n\n",
     "ParsleyIdle_Description": "Seçili miktarda dakika boyunca aktif olmadığında Fortnite uyku moduna geçer. Bu ayar oturum açtığın tüm cihazlarda geçerlidir.",
     "FlickForwardDeadZone_Name": "İleri Ölü Alan",
     "KeyboardMovementForwardDiagonal_Name": "İleri Çapraz Açı",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "Bağlı sosyal medya hesaplarını arkadaşlarından gizler.",
     "EFortSubtitleBackgroundOpacity_High": "Yüksek",
     "GeometryQualityHigh": "Yüksek",
-    "InstalledTextureQualityHigh": "Yüksek",
     "PostProcessingQualityHigh": "Yüksek",
     "ShadowHigh": "Yüksek",
     "SoundQuality_High": "Yüksek",
     "TextureQualityHigh": "Yüksek",
     "VisualEffectQualityHigh": "Yüksek",
     "GyroAcceleration_High": "Yüksek (4x)",
-    "AutoDownloadHighResTexturesReminders_Name": "Yüksek Çözünürlüklü Doku Hatırlatıcıları",
     "EnableNanite_Description": "Nanite üzerinden son teknolojili geometri işleme özelliği sayesinde geometri detayı geliştirilir ancak kare hızı düşebilir. Daha kaliteli gölgeler oluşturmak için Nanite etkinleştirildiğinde Sanal Gölge Haritaları kullanılır.",
     "MeshQuality_Description": "Daha yüksek geometri ayarları, düz cisimlere daha detaylı bir şekil verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.",
     "TextureQuality_Description_Default": "Daha yüksek doku ayarları düz cisimlere daha detaylı bir görüntü verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.",
-    "TextureQuality_Description_NoHighMips": "Daha yüksek doku ayarları düz cisimlere daha detaylı bir görüntü verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.\n\nYüksek çözünürlüklü dokular yüklü değil. Bu dokular, Epic Games Başlatıcısı'ndaki Fortnite Yükleme Seçenekleri üzerinden indirilebilir.",
+    "TextureQuality_Description_NoHighMips": "Daha yüksek doku ayarları düz cisimlere daha detaylı bir görüntü verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.\n\n<Icon.Warning></> Yüksek çözünürlüklü dokular yüklü değil. Bu dokular, Epic Games Başlatıcısı'ndaki Fortnite Yükleme Seçenekleri üzerinden indirilebilir.",
     "Hitmarkers_Name": "Vuruş İşaretçileri",
     "AutoClamber_On": "İleri Tuşunu Basılı Tut",
     "AutoHurdle_On": "İleri Tuşunu Basılı Tut",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "Düşük",
     "GeometryQualityLow": "Düşük",
-    "InstalledTextureQualityLow": "Alçak",
     "PostProcessingQualityLow": "Düşük",
     "SoundQuality_Low": "Düşük",
     "TextureQualityLow": "Düşük",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "Maksimum Görüş Alanı",
     "EFortSubtitleBackgroundOpacity_Medium": "Orta",
     "EFortSubtitleTextSize_Medium": "Orta",
-    "InstalledTextureQualityMedium": "Orta",
     "PostProcessingQualityMedium": "Orta",
     "ShadowMedium": "Orta",
     "TextureQualityMedium": "Orta",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "3D Sesi etkinleştirmek veya devre dışı bırakmak için lütfen sistem ayarlarını kontrol et.\nFortnite, 3D Kulaklık modunu işletim sistemin tarafından sağlanan 3D Ses çözümü lehine devre dışı bıraktığı için bu ayar 3D Sesin mevcut durumunu yansıtmamaktadır.",
     "RestartConfirmationDescription": "Değişikliklerin etkisini göstermesi için lütfen oyunu yeniden başlat.",
     "WarningAboutToUseAdvancedOptions_Message": "Lütfen gelişmiş ayarları değiştirirken dikkatli ol. Yanlış ayarlar nişan alma becerini kötü etkileyebilir.",
+    "VirtualPointerHapticIntensity_Name": "İmleç Dokunsal Geribildirim Yoğunluğu",
+    "VirtualPointerCursorOpacity_Name": "İmleç Saydamlığı",
+    "VirtualPointerSpeed_Name": "İmleç Hızı",
     "PostProcessingQuality_Name": "POST PROCESSING",
     "PostProcessingQuality_Description": "Son işleme efektlerinde hareket bulanıklığı, alan derinliği ve parlama efekti bulunur. Bu ayarı arttırmak son işleme efektlerinin kalitesini arttırır ancak performansı düşürebilir.",
     "UsePowerSavingMode_Name": "Güç Tasarruf Modu",
-    "PredownloadCosmetics_Name": "Önceden İndirilen Kozmetik Dokuları",
     "AimAssistSlowStrength_Name": "İsabetli Nişan Alma Yardımı Gücü",
     "PreferredFilledMatchAudioChannel_Name": "Tercih Edilen Kanal (Doldurma Açık)",
     "EnablePreferredItemSlots_Name": "Tercih Edilen Eşya Yuvaları",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "Arka Plandayken Görselleştirme Yapmayı Durdur",
     "StopRenderingInBackground_Description": "Mümkün olduğunda oyun penceresi ekran odağında değilken görselleştirmeyi durdurur. Diğer uygulamaların daha rahat kullanılabilmesi için ekran kartındaki yükü azaltır.",
     "KeyboardMovementStrafeDiagonal_Name": "Yanlara Koşma Açısı",
-    "CosmeticStreaming_Name": "Yalnızca Görülen Kozmetiklerin İndirilmesi",
     "SubtitlePage_Name": "Altyazı",
     "SubtitlesCollection_Name": "Altyazı",
     "Subtitles_Name": "Altyazılar",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "Hareket kontrollerini sol çubuktan sağ çubuğa al.",
     "AutoImportFriends_Name": "Arkadaş Listeni Senkronize Et",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "Destansı TSR",
     "AntiAliasingMethodTSRHigh": "Yüksek TSR",
     "AntiAliasingMethodTSRLow": "Düşük TSR",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "Metin Rengi",
     "TextChatRTR": "Yazılı Sohbet Raporlama",
     "SubtitleTextSize_Name": "Metin Boyutu",
-    "InstalledTextureQuality_Name": "Doku Kalitesi",
     "TextureQuality_Name": "Dokular",
     "LumenRequiresD3D12": "Lumen'i etkinleştirmek için \"Görüntü Oluşturma Modu\" ayarı \"DirectX 12\" olarak ayarlanmalı.",
     "NaniteRequiresD3D12": "Nanite'ı etkinleştirmek için \"Görüntü Oluşturma Modu\" ayarı \"DirectX 12\" olarak ayarlanmalı.",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "Görüş uzaklığı ayarı, ne kadar uzaklıktaki nesnelerin ekranda görüntüleneceğini belirler.",
     "TimeReportsActionDescription": "Her hafta çocuğunuzun Fortnite, Kreatif ve Fortnite İçin Unreal Editor'da (UEFN) geçirdiği süreye bakabilirsiniz.",
     "LegalInformation_Description": "Yasal bilgilere göz at.",
+    "VirtualCursorCollection_Name": "Sanal İmleç",
     "VisualizeSoundEffects_Name": "Ses Efektlerini Görselleştir",
     "VisualizeSoundEffectsPriority_Name": "Ses Efektlerini Görselleştirme Önceliği",
     "VoiceChat": "Sesli Sohbet",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "Etkinleştirildiğinde basılı tutularak yapılan tüm Basit Düzenleme eylemleri tek bir defa basılarak başlatılabilir ve süresi dolduktan sonra otomatik olarak tamamlanır.\n\nDevre dışı bırakıldığında süre boyunca basılı tutman gerekir.",
     "TapQuickEdit_Description_XSX": "Etkinleştirildiğinde basılı tutularak yapılan tüm Basit Düzenleme eylemleri tek bir defa basılarak başlatılabilir ve süresi dolduktan sonra otomatik olarak tamamlanır.\n\nDevre dışı bırakıldığında süre boyunca basılı tutman gerekir.",
     "AutoFireDescription": "Etkinleştirildiğinde uygun silahlarla düşmana doğru nişan aldığında silahlar otomatik olarak ateşlenir.",
-    "TapToShootDescription": "Etkinleştirildiğinde ekranda herhangi bir yere dokunarak ateş et.",
+    "TapToShootDescriptionAndPriority": "Etkinleştirildiğinde ekranda herhangi bir yere dokunarak ateş et. Diğer dokunma ayarlarından öncelikli olabilir.",
     "ADSFire_Description": "Etkinleştirildiğinde dokunmatik bakış ve ateş düğmesi ayı zamanda nişan alma veya dürbünle nişan almayı da sağlar. \"Basılı Tutulurken\" ayarı, dokunmatik bakış ve ateş düğmesinin bırakıldığında nişan almadan veya dürbünden çıkmayı sağlaması anlamına gelir.",
     "MinimapPlayerAlwaysFaceNorth_Description": "Açık olduğunda mini harita oyuncunun baktığı yöne doğru döner. Oyuncu işareti simgesi dönmez. (En iyi \"Dairesel Harita\" ayarı Açık olarak ayarlandığında çalışır)",
     "CircularMinimap_Description": "Açık olarak ayarlandığında mini harita kare bir çerçeve yerine dairesel bir çerçeve içinde görüntülenir (En iyi \"Mini Harita Dönüş Yönünü Kilitle\" seçeneği Açık olarak ayarlandığında çalışır).",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "Ebeveyn Kontrollerine Git",
     "VoiceChatDisabled_LearnMore": "Daha Fazla Bilgi Al",
     "VoiceChatDisabled_ParentalControlsButtonOther": "\"Ebeveyn Kontrolleri\"ni aç.",
+    "VoiceChatDisabledDescription_Other": "Bu özellik senin için devre dışı bırakıldı. ",
     "VoiceChatDisabled_TurnOnFromPanel": "Sesli Sohbeti Aç",
     "VoiceChatDisabledDescription_Parental": "Ebeveyn Kontrolleri ayarları sebebiyle sesli sohbet devre dışı.",
     "VoiceChatDisabledDescription_Platform": "Konsolunun gizlilik ayarlarından dolayı sesli sohbeti kullanamazsın.",
-    "VoiceChatDisabledDescription_User": "Sesli sohbet ayarlarından dolayı sesli sohbeti kullanamazsın. Aşağıdan ayarları değiştir.",
-    "VoiceChatDisabledDescription_Other": "Ebeveyn ya da vasin, bu özelliği ebeveyn kontrollerinden devre dışı bırakmış. "
+    "VoiceChatDisabledDescription_User": "Sesli sohbet ayarlarından dolayı sesli sohbeti kullanamazsın. Aşağıdan ayarları değiştir."
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "Oyun Modu Değiştirilemiyor",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "Mesaj gönderilirken hata oluştu:{0}",
     "HiddenPlayerSays": "Gizli oyuncu şöyle diyor: ",
     "BlockedPlayerMessage": "Mesaj Gizli",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "Bu istemci turnuva modunda olduğu için yazılı sohbet devre dışı bırakıldı.",
     "TextChatEnabled": "Yazılı sohbet etkinleştirildi.",
     "DisabledBySocialBan": "Hesabındaki sosyal engeli sebebiyle yazılı sohbet devre dışı.",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "Eşleştirme başlatılamadı.",
     "FortMatchmakingContext_WarningDialogTitle": "Eşleştirme Uyarısı",
     "NoFill": "DOLDURMA",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "Mevcut Görev Yok",
+    "FortMatchmakingContext_NoMissionsForProgress": "Mevcut Görev Yok",
+    "FortMatchmakingContext_NoMissionsInTheater": "Mevcut Görev Yok",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "Mevcut ilerlemende görev yok.\nHızlı Oyun'u veya Özel'i seçmeyi dene.",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "Mevcut tiyatroda görev yok.\nFarklı bir tiyatro seçmeyi dene.",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "Belirtilen güç seviyesinde mevcut görev yok.\nFarklı bir güç seviyesi seçmeyi dene.",
     "Private": "ÖZEL",
     "Public": "HERKESE AÇIK",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "Grubun gücü bu görev için yeterli değil. Zorluk seviyesi daha düşük bir görev seçebilir, ekibini değiştirebilir ya da görev gizliliğini Sadece Arkadaşlar veya Gizli'ye çevirebilirsin.",
@@ -10716,6 +10727,10 @@
     "EditFactText": "Olgu Metnini Düzenle",
     "EditInPromptEditor": "İstem Editörü'nde Düzenle"
   },
+  "LLMSession": {
+    "ModerationMsg": "Yanıt, denetlendi",
+    "UnknownRestriction": "Bilinmeyen Kısıtlama"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "Ödülleri almaya başlamak için bu seti aç"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "Tüm {GroupName} teklifler alınmalıdır"
+    "GroupComplete_Member_Incomplete": "Diğer tüm {GroupName} ödüllerini al.",
+    "GroupComplete_Nonmember_Incomplete": "{GroupName} kapsamındaki tüm ödülleri al."
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "{Date} tarihinde açılır."
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "Fortnite oynadığın için teşekkürler!",
     "PurchaseHeader": "{0}|plural(one=Eşya,other=Eşya) Alındı"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "Bu karakter kozmetiğinin görünen adı düzenlenemez."
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "Parça Ekle",
     "AddTrack_ToolTip": "Yeni bir aksiyon parçası oluştur"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "Açık Mikrofon",
     "ChannelPreferredSocial": "Tercih Edilen Kanal",
     "VoiceChatRestricted_Parental": "Ebeveyn kontrolleri ile sınırlandırılmış.",
+    "VoiceChatRestricted_Other": "Bu özellik senin için devre dışı bırakıldı. ",
     "VoiceChat_UserSocial": "Sesli Sohbet",
     "VoiceChatParentDisabled": "Ebeveyn Kontrolleri dolayısıyla sesli sohbet devre dışı",
     "VoiceIndicatorsSocial": "Ses Göstergeleri",
     "VoiceMethod": "Ses Yöntemi",
-    "VoiceVolumeSocial": "Ses Düzeyi",
-    "VoiceChatRestriced_Other": "Ebeveyn ya da vasin, bu özelliği ebeveyn kontrollerinden devre dışı bırakmış. "
+    "VoiceVolumeSocial": "Ses Düzeyi"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "Echo Kanalı",

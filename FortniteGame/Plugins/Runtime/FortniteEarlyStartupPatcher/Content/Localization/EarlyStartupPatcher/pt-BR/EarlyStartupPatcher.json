@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Você está prestes a baixar conteúdo do Fortnite enquanto o Modo de Dados Reduzidos está ativado no seu dispositivo. Você precisará baixar aproximadamente {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Você está prestes a usar dados móveis para baixar conteúdo do Fortnite. Você precisará baixar aproximadamente {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "Você precisa de {SpaceAdditional} a mais para instalar o Fortnite.\n\nLibere espaço no seu dispositivo e tente novamente.\n\n1. Acesse Configurações\n\n2. Selecione \"Geral\"\n\n3. Selecione \"Armazenamento do iPhone/iPad\"\n\n4. Remova outros aplicativos ou arquivos de mídia\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{1}\n{0}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

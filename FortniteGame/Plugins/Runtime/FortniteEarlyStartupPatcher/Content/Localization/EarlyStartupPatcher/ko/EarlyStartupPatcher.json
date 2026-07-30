@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "기기에서 '데이터 절약 모드'가 켜진 상태로 포트나이트 콘텐츠를 다운로드하려 합니다. 다운로드 크기는 약 {DownloadSizeEstimate}입니다.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "모바일 데이터를 사용해서 포트나이트 콘텐츠를 다운로드할 예정입니다. 다운로드 크기는 약 {DownloadSizeEstimate}입니다.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "포트나이트를 설치하려면 {SpaceAdditional}의 공간을 추가로 확보해야 합니다.\n\n기기 공간을 확보한 후 다시 시도하세요.\n\n1. 설정으로 이동합니다.\n\n2. 일반을 선택합니다.\n\n3. iPhone/iPad 저장 공간을 선택합니다.\n\n4. 다른 앱이나 미디어를 삭제합니다.\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "即将下载Fortnite内容，但检测到低流量模式已开启。下载时长约为{DownloadSizeEstimate}。",
     "FortnitePreLoadScreen.CellularDataWarningBody": "即将使用蜂窝数据下载Fortnite内容。下载内容约为{DownloadSizeEstimate}。",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "需要额外{SpaceAdditional}以安装Fortnite。\n\n请释放设备存储空间后重试。\n\n1. 前往设置\n\n2. 选择通用选项\n\n3. 选择iPhone/iPad存储空间\n\n4. 移除其他应用或媒体\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

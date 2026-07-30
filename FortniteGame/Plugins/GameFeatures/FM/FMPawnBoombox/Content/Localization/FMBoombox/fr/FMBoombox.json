@@ -3,7 +3,7 @@
     "540337D3410E58D7F956E28AF5B87365": "Ancres",
     "0DF75D56485D1A84CB3A808F2AC32D28": "Lecteur de pistes musicales",
     "BB3294344F2B7D7CBDA7168B81B2E176": "Lecteur de pistes musicales",
-    "89EE8B2B4CBCE20710ACDE9605B47D90": "Écouter",
+    "5EA5A33049DBEE60CB116193A7B72E5D": "Écouter",
     "F10DD45D4D9DF89805963AA568985823": "Radiocassette d'occasion",
     "BDBC9EBE4C3484BD9C0F3DA42884FEF4": "Station de radio",
     "C8297F8947E0E17F862E948947CA7EB3": "Taille",
@@ -11,12 +11,12 @@
     "CF53415F43097A4A6289CBB721D444D6": "Arrêter (appuyer 2 fois)"
   },
   "FMBoombox": {
-    "FMBoomboxEmoteWheelPlayMusic": "Choisir la chanson",
-    "5869D8964BB26B94A5D754B3951EFAC5": "Écouter",
+    "44D1A9AD4666A0D7945FCAA19BF1876E": "Choisir la chanson",
+    "038660674047F86D9C4508B1AC7DF960": "Écouter",
     "FMBoomboxDisplayName": "Jouer",
     "0DFBF76E4DA8048162D7ABBE54B730D4": "Jouer les pistes musicales à la une",
+    "25B6083847D0874B62BAD5956465640C": "Arrêter la chanson",
     "32A80F76492509079A1647BBAD2BFB29": "Arrêter la chanson",
-    "FMBoomboxEmoteWheelStopMusic": "Arrêter la chanson",
     "BoomboxSourceTextFormat": "Piste musicale de {0}"
   }
 }

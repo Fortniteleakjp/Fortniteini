@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Вы собираетесь загрузить материалы Fortnite, но на устройстве включён режим экономии данных. Примерный объём загружаемых данных: {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Вы собираетесь загрузить дополнительный контент для Fortnite по сотовой связи. Примерный объём загружаемых данных: {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "Для установки Fortnite требуется ещё {SpaceAdditional} свободного места.\n\nОсвободите место на устройстве и повторите попытку.\n\n1. Откройте настройки.\n\n2. Выберите «Основные».\n\n3. Выберите «Хранилище iPhone/iPad».\n\n4. Удалите ненужные приложения и медиафайлы.\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

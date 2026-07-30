@@ -16,6 +16,11 @@
     "UnableToGetPointData": "Tidak bisa mendapatkan data Poin dari input",
     "UnableToGetSpatialData": "Tidak bisa mendapatkan data Ruang dari input"
   },
+  "JunoWorldMutationRulesetDetails": {
+    "EmptyRule": "(kosong - pilih kelas aturan)",
+    "MultipleRules": "(beberapa nilai)",
+    "RuleRowFormat": "[{0}] {1}"
+  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Data untuk tekstur ketinggian tidak dapat diambil, inisialisasi gagal.",
     "FailExtractGrassTypeOverrides": "Gagal mengekstrak penggantian tipe rumput."

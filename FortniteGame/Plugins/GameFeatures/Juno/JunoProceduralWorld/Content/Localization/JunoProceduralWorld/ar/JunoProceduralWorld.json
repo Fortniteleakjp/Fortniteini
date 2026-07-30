@@ -16,6 +16,11 @@
     "UnableToGetPointData": "تعذر الحصول على بيانات النقطة من المُدخل",
     "UnableToGetSpatialData": "تعذر الحصول على البيانات المكانية من المُدخل"
   },
+  "JunoWorldMutationRulesetDetails": {
+    "EmptyRule": "(فارغ - اختر فئة قاعدة)",
+    "MultipleRules": "(قيم متعددة)",
+    "RuleRowFormat": "[{0}] {1}"
+  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "تعذر استرجاع بيانات إكساء الارتفاع، وفشلت التهيئة.",
     "FailExtractGrassTypeOverrides": "فشل استخلاص تجاوزات نوع العشب."

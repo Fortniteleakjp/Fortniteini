@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Riesenfass DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Doppeldecker",
     "5B5236944941BFD7DE82B8B05FE11D94": "Doppeldecker",
-    "DF56207843F6244003548CA79CFAA0F4": "Doppeldecker",
     "AD9DF9A2455C274907AE29971466ADBA": "Klinge",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Klinge",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Accessoire",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "Bestimmt, welches Team (falls zutreffend) den HUD-Indikator als „verbündet“ sieht. Nur relevant für Symbole im Abzeichenstil. ",
     "129650534E9339B784AAB9B5C32678A6": "Bestimmt, welches Team das HUD-Symbol sehen kann. Nur relevant für Symbole im Abzeichenstil.",
     "9AED3EE2432C86562FC1268D4F02CA40": "Bestimmt, welches Team das HUD-Symbol sehen kann. Nur relevant für Symbole im Abzeichenstil.",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "Wolf",
     "C90BA6D147AC6F970F343F814B24620B": "Aktivierung während Betrieb ausschalten",
     "BD5501F945FD5E68B86AA19785403260": "Schaltet den Fahrzeug-Spawnpunkt aus, wodurch dieser keine Fahrzeuge mehr spawnen kann.",
     "BD1640424CA1561290BF568D12001009": "Schaltet diesen Spawnpunkt aus, wenn ein Signal auf dem festgelegten Kanal empfangen wird.",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "Pistole mit Taschenlampe",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "Pistole mit Taschenlampe",
     "E576A6EA43FB3390DF995597CC8787B5": "Kadaver DX",
+    "EC2248AB4AAE78827455E396D0611068": "Ausschmückender Text",
     "A7FC866241FA661C68609CB3E03F6CEC": "Fliegen",
     "01B10F554E9863503405E890B39DCFAA": "Prüfung zur wöchentlichen Fortbyte-Herausforderung 6",
     "43DA2A90437D506CE8205EAFABE1CBD6": "Prüfung zur wöchentlichen Fortbyte-Herausforderung 6",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "Friedhof-Wechselwackler",
     "A4341A0045390C670F4757948E6E3CE5": "Friedhof-Tsunami",
     "F0737F4E40417749A441A59843B932F0": "Friedhof-Reisender",
-    "8B52C5AD4891876163EE09B5632D41E8": "Wahre Größe bleibt unvergessen.",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Grün",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "Grind",
     "0527EEDF4C1C3DC79266D49836DEF54C": "Grotto-Schlüsselkarte",
     "7F90D27A40A35D195B511AAE906A6A36": "Grotto-Schlüsselkarte",
     "7E6F527B407E9A6E8B1FED863069924E": "Schusswaffen Sturmgewehre Maschinengewehr LeichtePatronen Automatisch",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "Handkanone",
     "89587ADB427212BBA1354BB2C1FF6E8F": "Handkanone",
     "9CBF2A9D457F7567D62990B2A189E194": "Handkanone +",
-    "50894D884F5D8695DB841F90521FCF55": "Hangtime",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "Has unnecessary parenting and modules",
     "64F8ED534DCB3384F84C0BA28011E1FA": "Has unnecessary parenting and modules",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "Has unnecessary parenting and modules",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "Fauler Kadaver",
     "CA6D0D87420CCE166090BAB2B3B09E44": "Fauler Gravisalto",
     "8DEE71084CFD3D885BB21C8D75A996A1": "Fauler Kurver",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "Führe das Rudel an.",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "Lass eine <Emphasized>Näherungsmine</> dort fallen, wo du eliminiert wurdest",
     "C249F11F41E9E062B8B2E7852084DFB9": "Links",
     "3DA57402427AD07E9EEF1182BFB26A44": "Linkes Heck",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "Keine Dopplungen",
     "400B329C4C3CFA025EA0409641DF37CB": "Keins",
     "6B12549A41998E4E0A87668FD5B4D36C": "-",
+    "8456D15B451996C5FCF369A843AE73FA": "-",
     "B67463454D0A16C5C16CBB999DCAA7AC": "-",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "-",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "-",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "Normal",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "Normal",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "Ist doch nichts Ungewöhnliches. Einfach nur ein <Emphasized>Karton, der sich bewegt</>.",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "Null-Marke",
     "2A743E1048A4D22ED47940B99A99FD94": "OG Pass",
     "2FA98907484D5AA64173C5B93C5D30F1": "Ziel",
     "2AE212EE406A3146388589A8AFC54CF3": "Oceans Salvensturmgewehr",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "Platziere das Infinity Blade, damit es von den Spielern aufgesammelt werden kann.",
     "1F62B87A4BC128082F4198855D3F6FDE": "Platziere das Infinity Blade, damit es von den Spielern aufgesammelt werden kann.",
     "9EC314644018A0419EA1F482397A0E43": "Platziere Wegpunkte, um Spielern den Weg zu weisen.",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Marke – Spielerfragebogen zu Teilnahmeberechtigung",
     "C57C049B4748282A4A892784AABBF09C": "Spielername_Standard",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "Fallen lassen",
     "3B2F170F40934B3A5C46F1B55E412D4A": "Lösch das Feuer!",
     "43088BA143F2B6BCAEE378847172BE8C": "Quad-Ramme",
-    "CC13E7A44B19B6541560D085C426791D": "Quad-Ramme",
     "393E9456499B520AC90D5E8597A7D23D": "Leise Maschinenpistole, die <Emphasized>erhöhten Schaden</> mit den <Emphasized>letzten 5 Kugeln</> verursacht",
     "43E272F8443991243556F0AB98EC9BBE": "REALITÄTSSTEIN",
     "2A5097B944627605414956BB8AE4337B": "Zufall",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "Schallgedämpfte Maschinenpistole",
     "DDDAFD77445379EE9BAF399713A063D6": "Überlebender",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Schwimme <Emphasized>schneller</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "Swish",
     "E928E3A54C017ABB67564BB0EE06B190": "Profil wechseln",
     "85D867BC4BF95138BD5A05A4705FB62F": "Sitzplatz wechseln",
     "8F0C992C457A0ED11DC7F089C2563C02": "Sitzplatz wechseln",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "Tank",
     "50B5E23B4F691D00F8BE3C984622679F": "Teamsichtbarkeit",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "Teamsichtbarkeit",
-    "8FF029D544B7EC9500BD199AEE1CE927": "Bring das Spielfeld zum Beben.",
-    "E15F90714DA6FDFD9053248626AB156F": "Bring das Spielfeld zum Beben.",
     "03E580304DC6BBC29D3304B6E0D4105A": "Tech-Upgrade",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "Tech-Upgrade",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "Tech-Upgrade",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Winterfestschlüssel",
     "194B94D745612B291C0C0CAC0487B727": "Hexenbesen",
     "EFCEF17944284794FC6D49B915B991EE": "Hexenbesen",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "Wrath",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "Grabe beim Kreuz!",
     "D40AA64648243870B6889FA424D3E046": "X-4 Stormwing",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "Kombiniert"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "Abbrechen"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</> / {RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "Saison {0}",
     "ChapterSeasonTextFormat": "{0}, {1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "Beobachten nicht möglich. Entweder wurde das Match beendet oder dein Konto ist nicht dafür eingerichtet, Matches zu beobachten."
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} V-BUCKS",
     "StarterKitOfferContent": "{0} V-BUCKS + {1} {1}|plural(one=GEGENSTAND,other=GEGENSTÄNDE)"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}Actor {1} überschneidet sich mit {2} weiteren Actor(s):"
+    "AddingOverlappingActors": "{0}Actor „{1}“ überschneidet sich mit {2} weiteren Actor(s): „{3}“"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "Profiler-Statistik-Event",
     "AnimNodeProfilerStatEventTooltip": "Profiler-Statistik-Event",
     "QuadrupedSlopeWarping": "Vierbeiner-Neigungsverzerrung",
+    "RootSlopeTilt": "Wurzel-Hangneigung",
     "ScaleCharacterBones": "Charakter-Bones skalieren",
     "PredictiveStrideWarpingTooltip": "Skaliere Feet IK, damit die Bewegungsgeschwindigkeit übereinstimmt, wobei Fußvorhersageknochen verwendet werden, um die Bewegung des Körpers vorauszukalkulieren.",
     "SpeedWarpingTooltip": "Skaliere Feet IK, damit die Bewegungsgeschwindigkeit übereinstimmt.",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "Skaliert die Bones der Hülle basierend auf dem Hüllentyp (Zwerghüllen sind klein, haben aber große Köpfe)",
     "SetIKTarget_Description": "Fuß-IK-Ziele festlegen",
     "SpeedWarping": "Geschwindigkeitsverzerrung",
+    "RootSlopeTiltTooltip": "Neigt die Skelettwurzel um einen begrenzten Anteil in Richtung der Bodennormalen, sodass ein nachgeschalteter Neigungs-Warp-Knoten die Gliedmaßen gegen einen bereits geneigten Körper neu löst.",
     "TransformRollerTreads": "Umwandeln: Radantrieb/Kettenantrieb",
     "TransformRollerTreadsTooltip": "Wandelt den Radantrieb eines Fahrzeugs in einen Kettenantrieb um."
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ – Kein verknüpftes Diagramm gefunden",
     "FortAnimNode_LinkedGraphGate_ToolTip": "Blockiert ein verknüpftes Anim-Diagramm oder eine verknüpfte Anim-Ebene, um zu verhindern, dass es/sie aktualisiert wird, wenn die verknüpfte Instanz ausgeschaltet wurde",
     "Title": "Blockierung von verknüpftem Diagramm"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "Keine Spieler gefunden",
+    "NoPlayersToJoin_Desc": "Hier spielt gerade niemand sonst.\nMöchtest du eine eigene Sitzung starten?"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "Sprach-Chat deaktiviert"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>SPIEL-ZEITPLAN</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "Jederzeit",
     "PlaytimeScheduleEveryDay": "Täglich",
     "PlaytimeScheduleFriday": "Freitag",
     "PlaytimeScheduleMonday": "Montag",
+    "PlaytimeScheduleNoWindow": "Kein erlaubtes Zeitfenster",
     "PlaytimeScheduleSaturday": "Samstag",
     "PlaytimeScheduleSunday": "Sonntag",
     "PlaytimeScheduleThursday": "Donnerstag",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "NEU: {0}",
     "quest_reward_grant_quest": "ZIEL ERFÜLLT"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "Bereite Spieler: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "Battle Pass ist bereits auf Level {0}",
     "PurchaseNotAllowed_FounderPack": "Um {0} kaufen zu können, muss dein Elternteil/Erziehungsberechtigter dein Konto in der Kindersicherung dafür freischalten.",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">AN</>: Ihr Kind kann mit KI-Funktionen in Produkten von Epic Games mittels Sprach- und freier Textkommunikation interagieren. Dazu zählen Interaktionen mit sprechender KI von Nichtspieler-Charakteren in Fortnite.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">AUS</>: Ihr Kind kann mit KI-Funktionen in Produkten von Epic Games mittels Sprach- und Textkommunikation nicht interagieren.\n\nHinweis: Dies bezieht sich nicht auf KI-gestützte Support-Interaktionen.",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">An</>: Ihr Kind KANN V-Bucks (oder mit V-Bucks gekaufte Inhalte) für Gegenstände oder Inhalte ausgeben, die mit einer zufälligen Belohnung zusammenhängen. \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Aus</>: Ihr Kind KANN KEINE V-Bucks (oder mit V-Bucks gekaufte Inhalte) für Gegenstände oder Inhalte ausgeben, die mit einer zufälligen Belohnung zusammenhängen.",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">An</>: Ihr Kind kann Spiele und Erlebnisse in Fortnite entwerfen und sich seinen Freunden anschließen, wenn diese ihre eigenen Erlebnisse entwerfen.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Aus</>: Ihr Kind kann keine Spiele und Erlebnisse in Fortnite entwerfen und sich seinen Freunden nicht anschließen, wenn diese ihre eigenen Erlebnisse entwerfen.\n\nHinweis: Beim Entwerfen von Fortnite-Erlebnissen können Spieler mit Inhalten interagieren, die noch nicht zur Veröffentlichung in Fortnite und der damit verbundenen Prüfung eingereicht wurden – und die demzufolge noch nicht eingestuft wurden. Die Spieler können auch (Text-)Inhalte erstellen, die für andere Spieler, die an dem Erlebnis mitarbeiten, sichtbar sind. \n\nUnter fn.gg/creative erfahren Sie mehr über den Kreativmodus.",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">Die Einstellung „Im Voraus Heruntergeladene Kosmetische Texturen“ anzuschalten benötigt {InstallSize} mehr Speicherplatz.</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">{0} {0}|plural(one=Rückgabeticket,other=Rückgabetickets) verfügbar</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">Kauf rückgängig machen</>\n\nDu kannst unbeabsichtigte Käufe, die du mit V-Bucks getätigt hast, rückgängig machen. Du kannst deinen Kauf so lange rückgängig machen, bis du deinen Kauf im Spiel ausrüstest oder verwendest. Die „Kauf rückgängig machen“-Funktion ist ausschließlich für Gegenstände verfügbar, die in den letzten 24 Stunden gekauft wurden.\n\nWeitere Informationen dazu erhältst du unter fn.gg/cancelpurchase\n\n<text size=\"24\">Gekaufte Gegenstände zurückgeben</>\n\nWenn du Gegenstände unbeabsichtigt mit V-Bucks kaufst und das Rückgängigmachen nicht mehr möglich ist, kannst du stattdessen deine 3 jährlichen Rückgabetickets verwenden. Du erhältst alle 12 Monate ein weiteres Rückgabeticket und kannst maximal 3 davon besitzen. Jedes Ticket wird 12 Monate nach dem letzten Ticketerhalt hinzugefügt.\n\nAusschließlich Gegenstände, die in den letzten 30 Tagen gekauft wurden, können zurückgegeben werden. Verbrauchsgegenstände – wie der Battle Pass, Battle Pass-Level oder Lamas – können nicht zurückgegeben werden.",
     "ScopedSpeedMultiplier_Description": "Dieser Multiplikator wird auf die Umsehempfindlichkeit angewendet, wenn man mit Zielfernrohrwaffen zielt.  Ein Wert unter 1-fach reduziert die Empfindlichkeit beim Zielen mit Zielfernrohr.  Ein Wert über 1-fach erhöht die Empfindlichkeit beim Zielen mit Zielfernrohr.",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "Adaptive Trigger",
     "TriggerHapticsStrength_Name": "Stärke der adaptiven Trigger",
     "UserInterfaceContrast_Description": "Passe den Kontrast der Benutzeroberfläche an.",
+    "VirtualPointerCursorOpacity_Description": "Legt fest, wie undurchsichtig der Zeiger auf dem Bildschirm dargestellt wird. Durch niedrigere Werte wird der Zeiger transparenter.",
+    "VirtualPointerSpeed_Description": "Legt fest, wie schnell sich der Zeiger auf dem Bildschirm bewegt. Der Wert 5 steht für die Standardgeschwindigkeit. Ein niedrigerer Wert ist langsamer und ein höherer Wert ist schneller.",
     "Brightness_Description": "Passt die Helligkeit an.",
+    "VirtualPointerHapticIntensity_Description": "Legt fest, wie stark das haptische Feedback bei der Verwendung eines auf dem Bildschirm dargestellten Zeigers ist.",
     "AdvancedAimSensitivityCollection_Name": "Fortgeschritten – Zielvisierempfindlichkeit",
     "BasicLookOptionsCollection_Name": "Fortgeschritten – Umsehempfindlichkeit",
     "SuperAdvancedSensitivityCollection_Name": "Fortgeschritten – Empfindlichkeit",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "Sprachdiktat zulassen",
     "AllowNotifications_Description": "Erlaube Benachrichtigungen und erhalte Benachrichtigungen zu Inhaltsdownloads, Freundes- und Gruppeneinladungen, neuen Saisons, zeitlich begrenzten Events, Ankündigungen und Werbeaktionen. Du kannst diese Einstellungen jederzeit anpassen.",
     "AmpleHammer_DetailName": "Zustimmung zu Sprach- und Textkommunikation mit KI-Funktionen",
-    "AutoDownloadHighResTexturesReminders_Description": "Ermöglicht das Anzeigen von Meldungen, die dich daran erinnern, das automatische Herunterladen hochauflösender Texturen wieder einzuschalten.\n\nHINWEIS: Diese Meldungen erscheinen nur, wenn du ausreichend freien Speicherplatz für die Aktivierung dieses Features hast und wenn das automatische Herunterladen auf „AUS“ gestellt ist.\n\nAUS: Fortnite erinnert dich nicht daran, hochauflösende Texturen zu aktivieren.\n\nAN (Standard): Fortnite erinnert dich daran, hochauflösende Texturen zu aktivieren.\n\n",
     "AllowLowPower_Description": "Ermöglicht dem Spiel, die Einstellungen automatisch herunterzustellen, um Strom zu sparen.",
     "LockPrimaryInputMethodToMouse_Description": "Ermöglicht das gleichzeitige Nutzen von Controller- und Maus-Eingabe und bindet das Eingabe-Feedback an Maus und Tastatur, damit beide Methoden nicht in Konflikt geraten.",
     "EnablePreferredItemSlots_Description": "Ermöglicht es dir, einen Waffen- oder Gegenstandstyp einem bevorzugten Inventarslot zuzuweisen. Beim Aufsammeln wird der bevorzugte Gegenstand im zugewiesenen Inventarslot abgelegt.\n\nNicht zugewiesene Gegenstände werden im ersten verfügbaren Slot der Schnellleiste abgelegt. Sie werden verschoben, wenn ein Gegenstand eines bevorzugten Typs aufgesammelt wird.\n\n• Gegenstände werden gegen gleiche Gegenstände mit besserem Häufigkeitsgrad ausgetauscht, wenn diese aufgesammelt werden. Zum Beispiel wird eine ungewöhnliche Pumpgun gegen eine epische Pumpgun ausgetauscht. Der Gegenstand mit dem schlechteren Häufigkeitsgrad wird in den ersten freien Slot verschoben.\n\n• „Verbrauchsgegenstand rechts einsortieren“ funktioniert auch zusammen mit bevorzugten Inventarslots.\n\n• Bevorzugte Inventarslots sind nur aktiv, wenn du mindestens einen Slot im Inventar frei hast.",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "Auto.",
     "AutoConfirmEdits_Name": "Bearbeitungen autom. bestätigen",
     "AutoInteractConsumables_Name": "Automatisch Sofortgegenstände verwenden",
-    "AutoDownloadHighResTextures_Name": "Hochauflösende Texturen automatisch herunterladen",
     "STW_AutoEquipBetterItems_Name": "Automatisch bessere Gegenstände ausrüsten",
     "AutoFireName": "Autom. Feuern",
     "AutoInteractContainers_Name": "Automatisch Behälter öffnen",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "Lege die Textumrandung der Untertitel fest.",
     "SubtitleTextColor_Description": "Lege die Textfarbe der Untertitel fest.",
     "SubtitleTextSize_Description": "Lege die Textgröße der Untertitel fest.",
-    "InstalledTextureQuality_Description": "Lege die Auflösung für die Texturen im Spiel fest. Wird diese Einstellung erhöht, erscheinen die Texturen in Fortnite, denen man begegnet, per Textur-Streaming, wobei sie zudem detaillierter aussehen. Dies kann jedoch die Netzwerkauslastung erhöhen und die Leistung auf deinem Gerät verringern.\n\n<text color=\"FFFF00\">„Mobiler Daten-Download“ muss auf „An“ gestellt sein, um Texturen mit erhöhter Qualität über mobile Daten laden zu können.</>",
     "Hitmarkers_Description": "Wähle aus, welche Soundeffekte abgespielt werden, wenn ein Ziel getroffen wird.",
     "TextChat_Desc": "Wählen Sie hier aus, wem Ihr Kind in Gruppenchats, Gruppen und Spielen Nachrichten senden kann und von wem es dort Nachrichten erhalten kann. Bei der direkten Kommunikation mit Epic-Freunden kann Ihr Kind nur Einzelnachrichten senden und erhalten.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Alle</>: Ihr Kind kann per Text-Chat mit allen kommunizieren.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Freunde, Teammitglieder und Verbindungen</>: Ihr Kind kann mit Epic-Freunden, Freunden auf der jeweiligen Plattform{0}, allen Spielern in seinem Team und mit Verbindungen per Text-Chat kommunizieren. Mit Verbindungen sind Personen gemeint, mit denen Ihr Kind nicht befreundet ist, die jedoch über seine Freunde mit ihm verbunden sind. Die Teamgröße kann je nach Erlebnis unterschiedlich sein, von nur ein paar Spielern bis hin zu allen Spielern in einem Spiel.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nur Freunde</>: Ihr Kind kann per Text-Chat nur mit seinen Epic-Freunden und den Freunden auf seiner Plattform kommunizieren.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Niemand</>: Ihr Kind kann mit niemandem per Text-Chat kommunizieren.\n\nWird <strong>Niemand</> ausgewählt, kann Ihr Kind trotzdem weiterhin sichere, vordefinierte Phrasen (z. B. „Klasse!“) im Spiel verwenden, wenn dies dort unterstützt wird.",
     "VoiceChat_ParentalControls_Description_Expanded": "Wählen Sie hier aus, mit wem Ihr Kind in Gruppenchats, Gruppen und Spielen reden kann.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Alle</>: Ihr Kind kann per Sprach-Chat mit allen kommunizieren.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Freunde, Teammitglieder und Verbindungen</>: Ihr Kind kann mit Epic-Freunden, Freunden auf der jeweiligen Plattform{0}, allen Spielern in seinem Team und mit Verbindungen per Sprach-Chat kommunizieren. Mit Verbindungen sind Personen gemeint, mit denen Ihr Kind nicht befreundet ist, die jedoch über seine Freunde mit ihm verbunden sind. Die Teamgröße kann je nach Erlebnis unterschiedlich sein, von nur ein paar Spielern bis hin zu allen Spielern in einem Spiel.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nur Freunde</>: Ihr Kind kann per Sprach-Chat nur mit seinen Epic-Freunden und den Freunden auf seiner Plattform kommunizieren.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Niemand</>: Ihr Kind kann mit niemandem per Sprach-Chat kommunizieren.",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "Keine Reaktion",
     "ToggleDoubleTapAutorun_Name": "Zum autom. Laufen tippen",
     "DownloadDetailsCollection_Name": "Download-Einstellungen",
-    "CosmeticStreaming_Description": "Lade nur die erforderlichen kosmetischen Gegenstände herunter, wenn du sie im Spiel antriffst.\n\nHINWEIS: Eine langsame Internetverbindung kann zu einer schlechteren Performance führen, wenn das Spiel kosmetische Gegenstände streamt. Durch die Aktivierung dieser Funktion wird zusätzlicher Speicherplatz nötig sein.\n\nAN: Fortnite lädt nur kosmetische Gegenstände herunter, die du im Spiel antriffst.\n\nAUS: Fortnite lädt alle kosmetischen Gegenstände herunter.",
     "GyroDisabledWhileDriving_Name": "Fahren deaktiviert Gyrosensor",
     "EFortSubtitleTextBorder_DropShadow": "Schattierung",
     "CanSeeOtherPlayersNames_Desc": "Im Laufe eines Spiels werden die Kontonamen von Spielern, die eliminiert wurden, auf dem Bildschirm angezeigt.\n Diese Einstellung ermöglicht das Ersetzen der Namen anderer Spieler, die sich nicht im selben Team befinden, mit dem Wort „Spieler“ in diesen Nachrichten.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Hinweis</>: Die Namen von Spielern im gleichen „Team“ (bis zu drei weitere Spieler, die nicht unbedingt Freunde sein müssen) können weiterhin gesehen werden.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">An</>: Namen von Spielern, die sich nicht im eigenen Team befinden, können gesehen werden.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Aus</>: Ersetzt die Namen von Spielern, die sich nicht im eigenen Team befinden, mit dem Wort „Spieler“.\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "Aktiviert den Flick Stick. Wenn diese Einstellung aktiviert ist, brauchst du den rechten Stick deines Controllers nur in die gewünschte Richtung neigen, um die Kamera schnell dorthin auszurichten. Wenn du den Stick zum Beispiel nach hinten neigst, richtest du dich auch schnell nach hinten aus. Sobald der Stick geneigt ist, kannst du ihn drehen, um deine Ausrichtung anzupassen.\n\nDa dies bedeutet, dass du mit dem Stick nicht mehr nach oben und unten zielen kannst, sollte das Gyrosensor-Zielen stets aktiviert oder der Rechter-Stick-Effekt auf AKTIVIERT gestellt sein, damit du das Gyrosensor-Zielen jederzeit mit dem Stick aktivieren kannst, um nach oben oder unten schauen zu können.",
     "GamepadFlickStick_Description_XB1": "Aktiviert den Flick Stick. Wenn diese Einstellung aktiviert ist, brauchst du den rechten Stick deines Controllers nur in die gewünschte Richtung neigen, um die Kamera schnell dorthin auszurichten. Wenn du den Stick zum Beispiel nach hinten neigst, richtest du dich auch schnell nach hinten aus. Sobald der Stick geneigt ist, kannst du ihn drehen, um deine Ausrichtung anzupassen.\n\nDa dies bedeutet, dass du mit dem Stick nicht mehr nach oben und unten zielen kannst, sollte das Gyrosensor-Zielen stets aktiviert oder der Rechter-Stick-Effekt auf AKTIVIERT gestellt sein, damit du das Gyrosensor-Zielen jederzeit mit dem Stick aktivieren kannst, um nach oben oder unten schauen zu können.",
     "GamepadFlickStick_Description_XSX": "Aktiviert den Flick Stick. Wenn diese Einstellung aktiviert ist, brauchst du den rechten Stick deines Controllers nur in die gewünschte Richtung neigen, um die Kamera schnell dorthin auszurichten. Wenn du den Stick zum Beispiel nach hinten neigst, richtest du dich auch schnell nach hinten aus. Sobald der Stick geneigt ist, kannst du ihn drehen, um deine Ausrichtung anzupassen.\n\nDa dies bedeutet, dass du mit dem Stick nicht mehr nach oben und unten zielen kannst, sollte das Gyrosensor-Zielen stets aktiviert oder der Rechter-Stick-Effekt auf AKTIVIERT gestellt sein, damit du das Gyrosensor-Zielen jederzeit mit dem Stick aktivieren kannst, um nach oben oder unten schauen zu können.",
-    "AutoDownloadHighResTextures_Description": "Ermöglicht es Fortnite, automatisch hochauflösende Texturen herunterzuladen. Hochauflösende Texturen sorgen für mehr Details in Fortnite.\n\nHINWEIS: Eine langsame Internetverbindung oder Geräte mit begrenztem Festplattenspeicher können zu einer schlechteren Performance führen, wenn das Spiel hochauflösende Texturen herunterlädt. Wird diese Option ausgeschaltet, kann dies zu einer besseren Performance beitragen und Speicherplatz einsparen.\n\nAN: Fortnite lädt hochauflösende Texturen automatisch herunter.\n\nAUS: Fortnite lädt hochauflösende Texturen nicht automatisch herunter.",
     "EasyLootGridEnabled_Description": "Aktiviert ein scrollbares Widget, das Gegenstände in der Nähe zeigt. Du kannst dann einen Gegenstand einfach über das Widget aufnehmen, indem du auf ihn klickst, anstatt auf das eigentliche Gegenstands-Widget in der Szene klicken zu müssen.",
     "EnergySavingIdle_Description": "Schaltet das Energiesparen ein, wenn das Spiel im Frontend in den Inaktiv-Modus wechselt. Der Inaktiv-Modus beginnt nach 30 Sekunden Inaktivität.",
     "EnergySavingFocus_Description": "Schaltet das Energiesparen ein, wenn das Spielfenster nicht das aktive Fenster ist.",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "Bei eingeschalteter Kamerahilfe dreht sich die Kamera von allein, wenn du deinen Charakter bewegst, sodass du die Kamera nicht manuell steuern musst, es sei denn, du versuchst, auf etwas zu zielen.",
     "AutoCenter_Description": "Zieht die Kamera Richtung Horizont, während du dich bewegst und weder zielst noch feuerst. Dies kann neuen Spielern helfen, die versehentlich auf den Boden oder in den Himmel blicken, oder Spielern mit Flick Stick, die Gyrosensor-Zielen nur in bestimmten Zielmodi aktiviert haben.",
     "EnergySavingCollection_Name": "Energiesparen",
-    "InstalledTextureQualityEpic": "Epic",
     "PostProcessingQualityEpic": "Episch",
     "ShadowEpic": "Episch",
     "TextureQualityEpic": "Episch",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "Für Scharfschützengewehre. Anstatt dass beim Drücken der Schusstaste gefeuert wird, schießen Scharfschützengewehre erst beim Loslassen der Schusstaste. Das bedeutet, dass du mit einem Finger erst Zielen und dann durch das Loslassen der Taste mit dem gleichen Finger auch feuern kannst. Andere Schusstasten werden weiterhin beim Drücken sofort schießen.",
     "ContinuousFireGameplay_Description": "Bei Waffen, mit denen du den Abzug nach jedem Schuss loslassen und erneut drücken musst, kannst du mit dieser Einstellung den Abzug einfach gedrückt halten, um wiederholt zu schießen (mit einer verringerten Schussrate).",
     "FortniteCredits_Name": "Fortnite-Credits",
-    "PredownloadCosmetics_Description": "Fortnite lädt Texturen, die du benötigst, während des Spiels herunter. Wenn du diese Einstellung aktivierst, werden alle Texturen im Voraus heruntergeladen, anstatt je nachdem, wann sie gebraucht werden. Dies benötigt zwar viel mehr Speicherplatz, sorgt aber dafür, dass Fortnite besser aussieht, ohne zusätzliche Bandbreite zu beanspruchen. Das kann die Darstellung von Fortnite verbessern, wenn du öfter über eine mobile Datenverbindung spielst.\n\nNein: Fortnite löscht alle vorher heruntergeladenen kosmetischen Texturen und wird sie in Zukunft nicht im Voraus herunterladen.\n\nJa: Fortnite wird alle Texturen in hoher Qualität im Voraus herunterladen und installieren.\n\n",
     "ParsleyIdle_Description": "Fortnite wird in den Ruhezustand versetzt, wenn du die festgelegte Anzahl an Minuten inaktiv bist. Diese Einstellung wirkt sich auf alle Geräte aus, bei denen du eingeloggt bist.",
     "FlickForwardDeadZone_Name": "Vorwärts-Totzone",
     "KeyboardMovementForwardDiagonal_Name": "Vorwärts-Diagonal-Winkel",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "Verbirgt verknüpfte Konten sozialer Medien vor Freunden.",
     "EFortSubtitleBackgroundOpacity_High": "Stark undurchsichtig",
     "GeometryQualityHigh": "Hoch",
-    "InstalledTextureQualityHigh": "Hoch",
     "PostProcessingQualityHigh": "Hoch",
     "ShadowHigh": "Hoch",
     "SoundQuality_High": "Hoch",
     "TextureQualityHigh": "Hoch",
     "VisualEffectQualityHigh": "Hoch",
     "GyroAcceleration_High": "Hoch (4-fach)",
-    "AutoDownloadHighResTexturesReminders_Name": "Erinnerung an hochauflösende Texturen",
     "EnableNanite_Description": "High-End-Geometrie-Rendering durch Nanite, das die Geometriedetails verbessert, aber die Bildfrequenz senken kann. Virtual Shadow Maps werden verwendet, wenn Nanite für hochwertigere Schatten aktiviert ist.",
     "MeshQuality_Description": "Höhere Geometrie-Einstellungen verleihen Objektformen mehr Details. Je höher diese Einstellung, desto detaillierter werden Objekte angezeigt. Allerdings kann dies die Performance beeinträchtigen.",
     "TextureQuality_Description_Default": "Höhere Textur-Einstellungen verleihen flachen Objekten mehr Details. Je höher diese Einstellung, desto detaillierter werden Objekte angezeigt. Allerdings kann dies die Performance beeinträchtigen.",
-    "TextureQuality_Description_NoHighMips": "Höhere Textur-Einstellungen verleihen flachen Objekten mehr Details. Je höher diese Einstellung, desto detaillierter werden flache Objekte angezeigt. Allerdings kann dies die Performance beeinträchtigen.\n\nHochauflösende Texturen sind nicht installiert. Sie können über den Epic Games Launcher in den Installationsoptionen von Fortnite heruntergeladen werden.",
+    "TextureQuality_Description_NoHighMips": "Höhere Textur-Einstellungen verleihen flachen Objekten mehr Details. Je höher diese Einstellung, desto detaillierter werden Objekte angezeigt. Allerdings kann dies die Performance beeinträchtigen.\n\n<Icon.Warning></> Hochauflösende Texturen sind nicht installiert. Sie können über den Epic Games Launcher in den Installationsoptionen von Fortnite heruntergeladen werden.",
     "Hitmarkers_Name": "HitMarkers",
     "AutoClamber_On": "Vorwärts halten",
     "AutoHurdle_On": "Vorwärts halten",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem Ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "Gering undurchsichtig",
     "GeometryQualityLow": "Niedrig",
-    "InstalledTextureQualityLow": "Niedrig",
     "PostProcessingQualityLow": "Niedrig",
     "SoundQuality_Low": "Niedrig",
     "TextureQualityLow": "Niedrig",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "Maximales Sichtfeld",
     "EFortSubtitleBackgroundOpacity_Medium": "Mäßig undurchsichtig",
     "EFortSubtitleTextSize_Medium": "Mittel",
-    "InstalledTextureQualityMedium": "Mittel",
     "PostProcessingQualityMedium": "Mittel",
     "ShadowMedium": "Mittel",
     "TextureQualityMedium": "Mittel",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "Öffne bitte deine Systemeinstellungen, wenn du 3D-Audio aktivieren oder deaktivieren willst.\nDiese Einstellung spiegelt nicht die Beschaffenheit des 3D-Audios wider, da Fortnite den 3D-Kopfhörer-Modus zugunsten der vom Betriebssystem bereitgestellten 3D-Sound-Lösung deaktiviert.",
     "RestartConfirmationDescription": "Führe bitte einen Neustart des Spiels durch, damit alle Änderungen durchgeführt werden können.",
     "WarningAboutToUseAdvancedOptions_Message": "Nimm Änderungen an den fortgeschrittenen Optionen bitte mit Bedacht vor.  Falsche Einstellungen können sich negativ auf deine Zielfähigkeit auswirken.",
+    "VirtualPointerHapticIntensity_Name": "Stärke des haptischen Feedbacks für Zeiger",
+    "VirtualPointerCursorOpacity_Name": "Zeiger-Deckkraft",
+    "VirtualPointerSpeed_Name": "Zeiger-Geschwindigkeit",
     "PostProcessingQuality_Name": "Post-Processing",
     "PostProcessingQuality_Description": "Zu den Nachbearbeitungseffekten gehören die Bewegungsunschärfe, die Schärfentiefe und das Aufblühen. Das Erhöhen dieser Einstellung erhöht die Qualität der Nachbearbeitungseffekte, aber dies kann die Leistung beeinträchtigen.",
     "UsePowerSavingMode_Name": "Stromsparmodus",
-    "PredownloadCosmetics_Name": "Im Voraus Heruntergeladene Kosmetische Texturen",
     "AimAssistSlowStrength_Name": "Stärke der Präzision-Zielerfassungshilfe",
     "PreferredFilledMatchAudioChannel_Name": "Bevorzugter Kanal (Auffüllen eingeschaltet)",
     "EnablePreferredItemSlots_Name": "Bevorzugte Inventarslots",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "Rendern im Hintergrund deaktivieren",
     "StopRenderingInBackground_Description": "Deaktiviert das Rendern, wenn das Spielfenster nicht fokussiert ist (wenn möglich). Dadurch werden GPU-Kapazitäten für andere Anwendungen frei.",
     "KeyboardMovementStrafeDiagonal_Name": "Seitwärts-Winkel",
-    "CosmeticStreaming_Name": "Kosmetische Gegenstände streamen",
     "SubtitlePage_Name": "Untertitel",
     "SubtitlesCollection_Name": "Untertitel",
     "Subtitles_Name": "Untertitel",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "Legt die Bewegungssteuerung vom linken auf den rechten Stick.",
     "AutoImportFriends_Name": "Synchronisiere deine Freundesliste",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "Episches TSR",
     "AntiAliasingMethodTSRHigh": "Hohes TSR",
     "AntiAliasingMethodTSRLow": "Niedriges TSR",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "Textfarbe",
     "TextChatRTR": "Text-Melden",
     "SubtitleTextSize_Name": "Textgröße",
-    "InstalledTextureQuality_Name": "Textur-Qualität",
     "TextureQuality_Name": "Texturen",
     "LumenRequiresD3D12": "Die Einstellung „Rendering-Modus“ muss auf „DirectX 12“ gestellt sein, um Lumen zu aktivieren.",
     "NaniteRequiresD3D12": "Die Einstellung „Rendering-Modus“ muss auf „DirectX 12“ gestellt sein, um Nanite zu aktivieren.",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "Die Betrachtungsdistanz bestimmt, ab welcher Entfernung Objekte für eine bessere Leistung nicht mehr angezeigt werden.",
     "TimeReportsActionDescription": "Sehen Sie sich an, wie viel Zeit Ihr Kind jede Woche in Fortnite, im Kreativmodus und in Unreal Editor für Fortnite (UEFN) verbracht hat.",
     "LegalInformation_Description": "Sieh dir die rechtlichen Hinweise an.",
+    "VirtualCursorCollection_Name": "Virtueller Cursor",
     "VisualizeSoundEffects_Name": "Soundeffekte visualisieren",
     "VisualizeSoundEffectsPriority_Name": "Priorität der visualisierten Soundeffekte",
     "VoiceChat": "Sprach-Chat",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "Ist dies eingeschaltet, können alle „Einfaches Bearbeiten“-Aktionen, für die eine Taste gedrückt und gehalten werden muss, mit einem einzigen Tastendruck gestartet werden. Sie werden nach der notwendigen Dauer des Tastendrucks automatisch abgeschlossen.\n\nIst dies ausgeschaltet, muss die Taste während der gesamten notwendigen Dauer gehalten werden.",
     "TapQuickEdit_Description_XSX": "Ist dies eingeschaltet, können alle „Einfaches Bearbeiten“-Aktionen, für die eine Taste gedrückt und gehalten werden muss, mit einem einzigen Tastendruck gestartet werden. Sie werden nach der notwendigen Dauer des Tastendrucks automatisch abgeschlossen.\n\nIst dies ausgeschaltet, muss die Taste während der gesamten notwendigen Dauer gehalten werden.",
     "AutoFireDescription": "Ist dies aktiviert, feuern kompatible Waffen automatisch, wenn du auf einen Gegner zielst.",
-    "TapToShootDescription": "Ist dies aktiviert, kannst du schießen, indem du irgendwo auf den Bildschirm tippst.",
+    "TapToShootDescriptionAndPriority": "Ist dies aktiviert, kannst du schießen, indem du irgendwo auf den Bildschirm tippst. Hat möglicherweise Vorrang vor anderen Touch-Einstellungen.",
     "ADSFire_Description": "Wenn eingeschaltet, wird beim Drücken der Schusstaste auch durch das Zielfernrohr gezielt. „Beim Halten“ bedeutet, beim Loslassen der Schusstaste wird nicht mehr durch das Zielfernrohr gezielt.",
     "MinimapPlayerAlwaysFaceNorth_Description": "Bei „An“ dreht sich die Minikarte entsprechend der Blickrichtung des Spielers. Spielermarkierung-Symbol dreht sich nicht. (Funktioniert am besten, wenn die Einstellung „Runde Karte“ an ist)",
     "CircularMinimap_Description": "Wenn die Minikarte an ist, wird sie in einem runden statt einem viereckigen Feld angezeigt (Funktioniert am besten, wenn die Einstellung „Minikartendrehung feststellen“ an ist)",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "Zur Kindersicherung",
     "VoiceChatDisabled_LearnMore": "Mehr erfahren",
     "VoiceChatDisabled_ParentalControlsButtonOther": "Kindersicherung öffnen",
+    "VoiceChatDisabledDescription_Other": "Diese Funktion ist für dich deaktiviert. ",
     "VoiceChatDisabled_TurnOnFromPanel": "Sprach-Chat aktivieren",
     "VoiceChatDisabledDescription_Parental": "Der Sprach-Chat ist aufgrund der Kindersicherung-Einstellungen deaktiviert.",
     "VoiceChatDisabledDescription_Platform": "Du kannst den Sprach-Chat aufgrund der Privatsphäre-Einstellungen deiner Konsole nicht nutzen.",
-    "VoiceChatDisabledDescription_User": "Du kannst den Sprach-Chat aufgrund deiner Sprach-Chat-Einstellungen nicht nutzen. Unten kannst du sie ändern!",
-    "VoiceChatDisabledDescription_Other": "Dein Elternteil/Erziehungsberechtigter hat diese Funktion in der Kindersicherung eingeschränkt. "
+    "VoiceChatDisabledDescription_User": "Du kannst den Sprach-Chat aufgrund deiner Sprach-Chat-Einstellungen nicht nutzen. Unten kannst du sie ändern!"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "Wechseln des Spielmodus nicht möglich",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "Fehler beim Senden der Nachricht:{0}",
     "HiddenPlayerSays": "Ausgeblendeter Spieler sagt: ",
     "BlockedPlayerMessage": "Nachricht ausgeblendet",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "Der Text-Chat wurde deaktiviert, da sich dieser Client im Turniermodus befindet.",
     "TextChatEnabled": "Der Text-Chat wurde aktiviert.",
     "DisabledBySocialBan": "Der Text-Chat ist deaktiviert, da dein Konto für Freundschaftsaktionen gesperrt ist.",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "Start von Spielersuche fehlgeschlagen.",
     "FortMatchmakingContext_WarningDialogTitle": "Warnung bei Spielersuche",
     "NoFill": "NICHT AUFFÜLLEN",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "Keine Missionen verfügbar",
+    "FortMatchmakingContext_NoMissionsForProgress": "Keine Missionen verfügbar",
+    "FortMatchmakingContext_NoMissionsInTheater": "Keine Missionen verfügbar",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "Keine Missionen mit deinem aktuellen Fortschritt verfügbar.\nWähle Schnellspiel oder Angepasst aus.",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "Keine Missionen im aktuellen Kampfgebiet verfügbar.\nWähle einen anderen Schauplatz aus.",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "Keine Missionen mit dem entsprechenden Stärkelevel verfügbar.\nWähle ein anderes Stärkelevel aus.",
     "Private": "PRIVAT",
     "Public": "ÖFFENTLICH",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "Die Gruppe hat keine ausreichende Stärkewertung, um diese Mission zu absolvieren. Versuche, eine leichtere Mission auszuwählen, deine Gruppenzusammensetzung zu ändern oder deine Mission auf „Nur Freunde“ oder „Privat“ einzustellen.",
@@ -10716,6 +10727,10 @@
     "EditFactText": "Faktentext bearbeiten",
     "EditInPromptEditor": "Im Eingabe-Editor bearbeiten"
   },
+  "LLMSession": {
+    "ModerationMsg": "Die Antwort wurde moderiert",
+    "UnknownRestriction": "Unbekannte Einschränkung"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -10829,7 +10844,7 @@
     "MemberJoinedToastTitle": "{0} ist dem Team beigetreten"
   },
   "MessageDispatcher": {
-    "UnknownError": "Ein unbekannter Fehler mit {MessageName} ist in {ChannelName} aufgetreten",
+    "UnknownError": "Ein unbekannter Fehler ist bei der Nachricht „{MessageName}“ im Kanal „{ChannelName}“ aufgetreten",
     "ChannelNotValid": "FEHLER: Kanal ist nicht mehr für „{MessageName}“ gültig; Zurücksetzung auf „Kein Kanal“.",
     "EnqueuedTooManyMessagesError": "FEHLER: Es wurden zu viele Nachrichten eingereiht. Einreihen in {ChannelName} von „{MessageName}“ wird übersprungen.",
     "TooManyReceiversBoundToChannel": "FEHLER: Es wurden zu viele Empfänger für Kanal {ChannelName} festgelegt; pro Kanal können maximal {MaxReceiversPerChannel} bestehen. „{ReceiverName}“ wird auf „Kein Kanal“ zurückgesetzt.",
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "Schalte dieses Set frei, um Belohnungen zu erhalten"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "Erfordert das Einfordern aller {GroupName}-Angebote"
+    "GroupComplete_Member_Incomplete": "Fordere alle anderen\n{GroupName}-Belohnungen ein",
+    "GroupComplete_Nonmember_Incomplete": "Fordere alle Belohnungen des {GroupName} ein"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "Wird am {Date} freigeschaltet"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "Vielen Dank, dass du Fortnite spielst!",
     "PurchaseHeader": "{0}|plural(one=Gegenstand,other=Gegenstände) erhalten"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "Der Anzeigename kann für diesen kosmetischen NPC-Gegenstand nicht bearbeitet werden."
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "Spur hinzufügen",
     "AddTrack_ToolTip": "Neue Aktionsspur erstellen"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "Offenes Mikrofon",
     "ChannelPreferredSocial": "Bevorzugter Kanal",
     "VoiceChatRestricted_Parental": "Durch Kindersicherung eingeschränkt",
+    "VoiceChatRestricted_Other": "Diese Funktion ist für dich deaktiviert. ",
     "VoiceChat_UserSocial": "Sprach-Chat",
     "VoiceChatParentDisabled": "Sprach-Chat durch Kindersicherung deaktiviert",
     "VoiceIndicatorsSocial": "Sprechanzeigen",
     "VoiceMethod": "Sprachmethode",
-    "VoiceVolumeSocial": "Stimmlautstärke",
-    "VoiceChatRestriced_Other": "Dein Elternteil/Erziehungsberechtigter hat diese Funktion in der Kindersicherung eingeschränkt. "
+    "VoiceVolumeSocial": "Stimmlautstärke"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "Echokanal",

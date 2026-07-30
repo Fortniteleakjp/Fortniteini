@@ -16,6 +16,11 @@
     "UnableToGetPointData": "Não é possível obter dados de Ponto pela entrada",
     "UnableToGetSpatialData": "Não é possível obter dados Espaciais pela entrada"
   },
+  "JunoWorldMutationRulesetDetails": {
+    "EmptyRule": "(vazio — escolha uma classe de regra)",
+    "MultipleRules": "(valores múltiplos)",
+    "RuleRowFormat": "[{0}] {1}"
+  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Não foi possível recuperar os dados de altura da textura. Falha na inicialização.",
     "FailExtractGrassTypeOverrides": "Falha ao extrair modificações de tipo de vegetação."

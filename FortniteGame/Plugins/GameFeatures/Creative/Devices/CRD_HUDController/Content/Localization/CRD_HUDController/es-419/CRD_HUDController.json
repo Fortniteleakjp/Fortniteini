@@ -78,6 +78,7 @@
     "A7AC22914D2F9B8D0080D89E6F069883": "Dispositivo de control del HUD",
     "2B47932D4F7D31E52F330984C45BFB06": "Alto",
     "5A2463574907D8B5ECA879B7CA70C029": "Más alta",
+    "CB633460400C8FA16778E2847474E317": "Controles personalizados de la isla",
     "1A8073704B9492845EA5C2AA7941AC6D": "Permite a los jugadores definir qué elementos del HUD están activos",
     "2EF768A54981DC41A0564F96FDA9D578": "Permite a los jugadores definir qué elementos del HUD están activos",
     "256964B440A8B004196737918F1F778C": "Permite a los jugadores definir qué elementos del HUD están activos.",
@@ -219,6 +220,9 @@
     "EAFBC25E4CA0460B796EF99313C117A1": "Sí",
     "EDB615C74D79CE1B0EAA56ACBAFBB958": "Sí",
     "F47A59824F0CB40331619AA31791B201": "Sí"
+  },
+  "DeveloperLayoutButtonProxyCustomization": {
+    "ActionRolledBack": "No disponible con la implementación de la función actual"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiqueta"

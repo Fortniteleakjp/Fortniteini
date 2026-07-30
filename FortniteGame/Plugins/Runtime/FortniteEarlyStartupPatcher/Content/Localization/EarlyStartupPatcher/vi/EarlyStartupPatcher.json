@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Bạn sắp tải xuống nội dung Fortnite khi cài đặt Chế Độ Dữ Liệu Thấp đang bật trên thiết bị của bạn. Bạn sẽ cần tải xuống khoảng {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Bạn sắp sử dụng dữ liệu di động để tải xuống nội dung Fortnite. Bạn sẽ cần tải xuống khoảng {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "Bạn cần thêm {SpaceAdditional} để cài đặt Fortnite.\n\nHãy giải phóng dung lượng trên thiết bị của bạn và thử lại.\n\n1. Tới phần Cài Đặt (Settings)\n\n2. Chọn Cài Đặt Chung (General)\n\n3. Chọn Bộ iPhone/iPad (iPhone/iPad Storage)\n\n4. Gỡ bỏ các ứng dụng hoặc phương tiện khác\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

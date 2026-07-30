@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Duża beczka DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Dwupłatowiec",
     "5B5236944941BFD7DE82B8B05FE11D94": "Dwupłatowiec",
-    "DF56207843F6244003548CA79CFAA0F4": "Dwupłatowiec",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Świecidełko",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "Określa, która drużyna (jeśli w ogóle) widzi znacznik w interfejsie jako przyjazny. Dotyczy tylko ikon w rodzaju odznak. ",
     "129650534E9339B784AAB9B5C32678A6": "Określa, która drużyna może widzieć tę ikonę w interfejsie. Dotyczy tylko ikon w rodzaju odznak.",
     "9AED3EE2432C86562FC1268D4F02CA40": "Określa, która drużyna może widzieć tę ikonę w interfejsie. Dotyczy tylko ikon w rodzaju odznak.",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "Straszliwiec",
     "C90BA6D147AC6F970F343F814B24620B": "Wyłącz aktywację w trakcie działania",
     "BD5501F945FD5E68B86AA19785403260": "Wyłącza generator pojazdów, uniemożliwiając mu tworzenie kolejnych pojazdów.",
     "BD1640424CA1561290BF568D12001009": "Wyłącza generator po otrzymaniu sygnału na określonym kanale.",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "Pistolet z latarką",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "Pistolet z latarką",
     "E576A6EA43FB3390DF995597CC8787B5": "Płaszczak DX",
+    "EC2248AB4AAE78827455E396D0611068": "Wzbogacony tekst",
     "A7FC866241FA661C68609CB3E03F6CEC": "Pilotuj",
     "01B10F554E9863503405E890B39DCFAA": "6 ukończonych wyzwań tygodnia Fortbajt",
     "43DA2A90437D506CE8205EAFABE1CBD6": "6 ukończonych wyzwań tygodnia Fortbajt",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "Cmentarny zwrot",
     "A4341A0045390C670F4757948E6E3CE5": "Cmentarne tsunami",
     "F0737F4E40417749A441A59843B932F0": "Cmentarny wiraż",
-    "8B52C5AD4891876163EE09B5632D41E8": "Wielkość nie przemija.",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Zielony",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "Grind",
     "0527EEDF4C1C3DC79266D49836DEF54C": "Karta magnetyczna Groty",
     "7F90D27A40A35D195B511AAE906A6A36": "Karta magnetyczna Groty",
     "7E6F527B407E9A6E8B1FED863069924E": "Broń palna karabin szturmowy maszynowy lekkie naboje automatyczna",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "Rękodziało",
     "89587ADB427212BBA1354BB2C1FF6E8F": "Rękodziało",
     "9CBF2A9D457F7567D62990B2A189E194": "Rękodziało +",
-    "50894D884F5D8695DB841F90521FCF55": "Lot do Kosza",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "Ma niepotrzebne przypisania i moduły",
     "64F8ED534DCB3384F84C0BA28011E1FA": "Ma niepotrzebne przypisania i moduły",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "Ma niepotrzebne przypisania i moduły",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "Leniwy płaszczak",
     "CA6D0D87420CCE166090BAB2B3B09E44": "Leniwy przekręt",
     "8DEE71084CFD3D885BB21C8D75A996A1": "Leniwy świder",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "Przywódca stada.",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "Pozostawiasz po sobie <Emphasized>minę zbliżeniową</> w miejscu likwidacji",
     "C249F11F41E9E062B8B2E7852084DFB9": "W lewo",
     "3DA57402427AD07E9EEF1182BFB26A44": "Lewy ogon",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "Bez powtórzeń",
     "400B329C4C3CFA025EA0409641DF37CB": "Brak",
     "6B12549A41998E4E0A87668FD5B4D36C": "Brak",
+    "8456D15B451996C5FCF369A843AE73FA": "Brak",
     "B67463454D0A16C5C16CBB999DCAA7AC": "Brak",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "Brak",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "Nikt",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "Normalna",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "Normalna",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "Nic tu nie ma. Tylko <Emphasized>ruchome pudło</>",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "Żeton zerowy",
     "2A743E1048A4D22ED47940B99A99FD94": "Karnet klasyczny",
     "2FA98907484D5AA64173C5B93C5D30F1": "Cel",
     "2AE212EE406A3146388589A8AFC54CF3": "Karabin szturmowy (krótka seria) Oceany",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "Stawia miecz Infinity Blade, który mogą przejąć gracze.",
     "1F62B87A4BC128082F4198855D3F6FDE": "Stawia miecz Infinity Blade, który mogą przejąć gracze.",
     "9EC314644018A0419EA1F482397A0E43": "Umieść punkty orientacyjne, by oznaczyć drogę.",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Żeton uprawniający gracza do wypełnienia ankiety",
     "C57C049B4748282A4A892784AABBF09C": "NazwaGracza_domyślna",
     "65F0C77E4EA5605341D87AA41286CF8F": "PionekGraczaAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "Odłóż",
     "3B2F170F40934B3A5C46F1B55E412D4A": "Ugaś ten ogień!",
     "43088BA143F2B6BCAEE378847172BE8C": "Taran",
-    "CC13E7A44B19B6541560D085C426791D": "Taran",
     "393E9456499B520AC90D5E8597A7D23D": "Wytłumiony pistolet maszynowy, którego <Emphasized>5 ostatnich pocisków</> zadaje <Emphasized>zwiększone obrażenia</>",
     "43E272F8443991243556F0AB98EC9BBE": "KAMIEŃ RZECZYWISTOŚCI",
     "2A5097B944627605414956BB8AE4337B": "Losowe",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "Pistolet maszynowy z tłumikiem",
     "DDDAFD77445379EE9BAF399713A063D6": "Ocaleniec",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Pływasz <Emphasized>szybciej</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "Czysty Rzut",
     "E928E3A54C017ABB67564BB0EE06B190": "Zmień profil",
     "85D867BC4BF95138BD5A05A4705FB62F": "Zmień miejsce",
     "8F0C992C457A0ED11DC7F089C2563C02": "Zmień miejsce",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "Pancerność",
     "50B5E23B4F691D00F8BE3C984622679F": "Widoczność dla drużyn",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "Widoczność dla drużyn",
-    "8FF029D544B7EC9500BD199AEE1CE927": "Rozwal parkiet",
-    "E15F90714DA6FDFD9053248626AB156F": "Rozwal parkiet",
     "03E580304DC6BBC29D3304B6E0D4105A": "Ulepszenie technologii",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "Ulepszenie technologii",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "Ulepszenie technologii",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Klucz Festiwalu Zimy",
     "194B94D745612B291C0C0CAC0487B727": "Miotła wiedźmy",
     "EFCEF17944284794FC6D49B915B991EE": "Miotła wiedźmy",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "Gniew",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X oznacza cel!",
     "D40AA64648243870B6889FA424D3E046": "Burzolot X-4",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "Połączone"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "Anuluj"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</> / {RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "Sezon {0}",
     "ChapterSeasonTextFormat": "{0}, {1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "Nie można włączyć trybu obserwatora. Mecz mógł się zakończyć lub twoje konto mogło nie zostać skonfigurowane do obserwowania meczów."
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "V-DOLCE: {0}",
     "StarterKitOfferContent": "{0} V-DOLCÓW + {1} {1}|plural(one=PRZEDMIOT,few=PRZEDMIOTY,many=PRZEDMIOTÓW,other=PRZEDMIOTU)"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}Czynnik {1} nachodzi na inne czynniki ({2}):"
+    "AddingOverlappingActors": "{0}Czynnik „{1}” nachodzi na inne czynniki „{2}”: „{3}”"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "Zdarzenie statystyki profilera",
     "AnimNodeProfilerStatEventTooltip": "Zdarzenie statystyki profilera",
     "QuadrupedSlopeWarping": "Poczwórne zniekształcenie pochylenia",
+    "RootSlopeTilt": "Pochylenie nachylenia węzła nadrzędnego",
     "ScaleCharacterBones": "Skaluj kości postaci",
     "PredictiveStrideWarpingTooltip": "Dostosuj IK stóp do prędkości ruchu, używając kości przewidywania stóp do przewidywania ruchów ciała.",
     "SpeedWarpingTooltip": "Dostosuj IK stóp do prędkości ruchu.",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "Skaluje kości pustaków stosownie do ich rodzaju (np. pustaki karłowate są nieduże, lecz mają wielkie głowy)",
     "SetIKTarget_Description": "Ustaw cele IK stóp",
     "SpeedWarping": "Zniekształcenie szybkości",
+    "RootSlopeTiltTooltip": "Pochyla węzeł nadrzędny szkieletu w kierunku wektora normalnego płaszczyzny o ograniczoną wartość, dzięki czemu węzeł zniekształcenia nachylenia w dalszej części ponownie ustawia kończyny względem już pochylonego ciała.",
     "TransformRollerTreads": "Transformuj kółka/gąsienice",
     "TransformRollerTreadsTooltip": "Transformuj kółka w podwozie gąsienicowe"
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ – Nie znaleziono połączonego grafu",
     "FortAnimNode_LinkedGraphGate_ToolTip": "Bramkuje połączoną warstwę lub graf animacji, uniemożliwiając ich aktualizację w przypadku wyłączenia połączonej instancji",
     "Title": "Bramka połączonego grafu"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "Nie znaleziono graczy",
+    "NoPlayersToJoin_Desc": "W tej chwili nikt inny tutaj nie gra.\nKontynuuj we własnej sesji?"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "Głos wyłączony"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>ODTWÓRZ HARMONOGRAM</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "W dowolnym momencie",
     "PlaytimeScheduleEveryDay": "Codziennie",
     "PlaytimeScheduleFriday": "Piątek",
     "PlaytimeScheduleMonday": "Poniedziałek",
+    "PlaytimeScheduleNoWindow": "Brak dozwolonego okna czasowego",
     "PlaytimeScheduleSaturday": "Sobota",
     "PlaytimeScheduleSunday": "Niedziela",
     "PlaytimeScheduleThursday": "Czwartek",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "NÓWKA {0}!",
     "quest_reward_grant_quest": "CEL WYKONANY"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "Gotowi gracze: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "Karnet bojowy już ma poziom {0}",
     "PurchaseNotAllowed_FounderPack": "Aby zakupić {0}, poproś rodzica lub opiekuna o skonfigurowanie twojego konta przy użyciu kontroli rodzicielskiej.",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">WŁ.</>: Twoje dziecko może wchodzić w interakcję z funkcjami SI w produktach Epic Games poprzez komunikację głosową i swobodną komunikację pisemną. Obejmuje to rozmowy z korzystającymi z SI postaciami niezależnymi.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">WYŁ.</>: Twoje dziecko nie może wchodzić w interakcję z funkcjami SI w produktach Epic Games poprzez komunikację głosową i pisemną.\n\nUwaga: nie dotyczy interakcji z pomocą techniczną wspomaganą przez SI.",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">WŁ.:</> dziecko MOŻE wydawać V-dolce (lub materiały kupione za V-dolce) na przedmioty lub materiały, gdzie nagroda jest przyznawana losowo. \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">WYŁ.:</> dziecko NIE MOŻE wydawać V-dolców (lub materiałów kupionych za V-dolce) na przedmioty lub materiały, gdzie nagroda jest przyznawana losowo.",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Wł.</>: Twoje dziecko może projektować gry i przygody w Fortnite oraz dołączać do znajomych, gdy projektują oni własne przygody.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Wył.</>: Twoje dziecko nie może projektować gier i przygód ani dołączać do znajomych, gdy projektują oni własne przygody.\n\nUwaga: Podczas projektowania przygody w Fortnite gracze mogą mieć kontakt z treściami, które nie przeszły procesu moderacji podczas publikowania i w związku z tym nie otrzymały klasyfikacji wiekowej. Gracze mogą również tworzyć treści, w tym tekstowe, widoczne dla współpracujących z nimi osób.\n\nWięcej informacji o trybie kreatywnym znajdziesz na stronie fn.gg/creative.",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">Włączenie wstępnego pobierania tekstur kosmetycznych zużyje dodatkowo {InstallSize} na nośniku danych.</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">Dostępne zgłoszenia zwrotu: {0}</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">Anuluj zakup</>\n\nMożesz anulować dowolny niezamierzony zakup za V-dolce. Opcja anulowania zakupu jest dostępna do momentu wyposażenia lub wykorzystania zakupu w trakcie rozgrywki. Można anulować zakup wyłącznie przedmiotów zakupionych w ciągu ostatnich 24 godzin.\n\nWięcej informacji: fn.gg/cancelpurchase\n\n<text size=\"24\">Dokonywanie zwrotów</>\n\nW przypadku nieumyślnego zakupu przedmiotu za V-dolce, gdy anulowanie zakupu nie jest już możliwe, możesz wykorzystać jedno ze swoich 3 corocznych zgłoszeń zwrotu. Co 12 miesięcy otrzymasz dodatkowe zgłoszenie zwrotu (do maksymalnie 3). Zgłoszenia zwrotu są dodawane po upływie 12 miesięcy od najnowszego otrzymanego zgłoszenia.\n\nZwracać można tylko przedmioty zakupione w ciągu ostatnich 30 dni. Nie można zwrócić przedmiotów jednorazowego użytku, takich jak karnet bojowy, poziomy karnetu bojowego lub lamy.",
     "ScopedSpeedMultiplier_Description": "Mnożnik czułości rozglądania się, stosowany podczas celowania z broni wyposażonej w lunetę.  Wartości poniżej 1x zmniejszają czułość podczas używania celownika.  Wartości powyżej 1x zwiększają czułość podczas używania celownika.",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "Adaptacyjne efekty „Trigger”",
     "TriggerHapticsStrength_Name": "Siła adaptacyjnych efektów „Trigger”",
     "UserInterfaceContrast_Description": "Zmienia kontrast interfejsu użytkownika.",
+    "VirtualPointerCursorOpacity_Description": "Ustawia stopień nieprzezroczystości wskaźnika na ekranie. Niższe wartości sprawiają, że wskaźnik jest bardziej przezroczysty.",
+    "VirtualPointerSpeed_Description": "Dostosowuje prędkość poruszania się wskaźnika na ekranie. Wartość 5 to domyślna prędkość; niższa wartość oznacza mniejszą prędkość, a wyższa – większą.",
     "Brightness_Description": "Zmienia jasność.",
+    "VirtualPointerHapticIntensity_Description": "Dostosowuje siłę haptycznego sprzężenia zwrotnego podczas używania wskaźnika na ekranie.",
     "AdvancedAimSensitivityCollection_Name": "Zaawansowane – czułość celownika",
     "BasicLookOptionsCollection_Name": "Zaawansowane – czułość rozglądania się",
     "SuperAdvancedSensitivityCollection_Name": "Zaawansowane – czułość",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "Zezwól na dyktowanie głosowe",
     "AllowNotifications_Description": "Zezwól na powiadomienia i otrzymuj powiadomienia o pobieraniu zawartości, zaproszeniach do znajomych i do ekipy, nowych sezonach, wydarzeniach okresowych, ogłoszeniach i promocjach. Możesz zmienić te ustawienia w dowolnej chwili.",
     "AmpleHammer_DetailName": "Zezwól na komunikację głosową i pisemną z funkcjami AI",
-    "AutoDownloadHighResTexturesReminders_Description": "Zezwala na wyświetlanie przypomnień o ponownym włączeniu automatycznego pobierania tekstur wysokiej rozdzielczości.\n\nUWAGA: Przypomnienia pojawiają się tylko wtedy, gdy masz dość miejsca na dysku twardym na włączenie tej funkcji, a automatyczne pobieranie jest wyłączone.\n\nWYŁ.: Fortnite nie będzie przypominać ci o włączeniu tekstur wysokiej rozdzielczości.\n\nWŁ. (domyślnie): Fortnite będzie przypominać ci o włączeniu tekstur wysokiej rozdzielczości.\n\n",
     "AllowLowPower_Description": "Zezwala na automatyczne obniżanie ustawień grafiki w celu oszczędzania energii.",
     "LockPrimaryInputMethodToMouse_Description": "Pozwala korzystać jednocześnie z pada i myszki, a także pokazuje komunikaty sterowania odpowiadające klawiatury i myszy, unikając konfliktu dwóch metod.",
     "EnablePreferredItemSlots_Description": "Umożliwia przypisanie preferowanego pola ekwipunku do konkretnego rodzaju broni lub przedmiotów. Po podniesieniu takiego przedmiotu zostanie on umieszczony w preferowanym dlań polu.\n\nNieprzypisane przedmioty zostaną umieszczone w pierwszym dostępnym polu na pasku szybkiego dostępu i zostaną przesunięte, jeśli gracz podniesie przedmiot z rodzaju preferowanych. \n\n• Po podniesieniu odpowiednika posiadanego przedmiotu o wyższej klasie rzadkości nastąpi ich zamiana, np. niepospolita strzelba pompka zostanie zastąpiona epicką. Przedmiot o niższej klasie rzadkości zostanie przesunięty do pierwszego wolnego pola.\n\n• Automatyczne ustawianie przedmiotów jednorazowych po prawej nadal działa w połączeniu z polami preferowanymi.\n\n• Preferowane pola przedmiotów będą aktywne tylko dopóki jest co najmniej jedno wolne pole.",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "Autom.",
     "AutoConfirmEdits_Name": "Automatyczne potwierdzanie edycji",
     "AutoInteractConsumables_Name": "Automatycznie konsumuj przekąski",
-    "AutoDownloadHighResTextures_Name": "Automatyczne pobieranie tekstur wysokiej rozdzielczości",
     "STW_AutoEquipBetterItems_Name": "Automatyczne wyposażanie lepszego sprzętu",
     "AutoFireName": "Automatyczny strzał",
     "AutoInteractContainers_Name": "Automatyczne otwieranie pojemników",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "Wybierz inne krawędzie tekstu.",
     "SubtitleTextColor_Description": "Wybierz inny kolor tekstu napisów.",
     "SubtitleTextSize_Description": "Wybierz inny rozmiar tekstu napisów.",
-    "InstalledTextureQuality_Description": "Wybierz poziom szczegółów tekstur w Fortnite. Zwiększenie poziomu dla tego ustawienia sprawi, że Fortnite będzie strumieniować tekstury, kiedy pojawiają się w grze. Będą wyglądać bardziej szczegółowo, ale mogą zwiększać zużycie danych sieciowych i zmniejszać wydajność urządzenia.\n\n<text color=\"FFFF00\">„Pobieranie z wykorzystaniem sieci komórkowej” musi być „WŁĄCZONE”, aby korzystać z tekstur wysokiej jakości w ramach danych sieci komórkowych.</>",
     "Hitmarkers_Description": "Wybierz, jaki dźwięk odtwarza się po trafieniu celu.",
     "TextChat_Desc": "Wybierz, do kogo twoje dziecko może wysyłać i od kogo może odbierać wiadomości w grupach, ekipach i grach. Twoje dziecko może jedynie wysyłać wiadomości prywatne do znajomych Epic i je odbierać.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Wszyscy:</> twoje dziecko może używać czatu tekstowego do rozmów ze wszystkimi.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Znajomi, członkowie drużyny i kontakty:</> twoje dziecko może używać czatu tekstowego do rozmów ze znajomymi Epic, znajomymi z platformy{0}, wszystkimi członkami drużyny oraz z kontaktami. Kontakty to osoby, które nie są znajomymi twojego dziecka, ale połączyły się z nim poprzez swoich znajomych. Wielkość drużyny zależy od przygody – drużyna może liczyć od kilku graczy do wszystkich w grze.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tylko znajomi:</> twoje dziecko może używać czatu tekstowego tylko do rozmów ze znajomymi Epic i znajomymi z platformy.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nikt:</> twoje dziecko nie może używać czatu tekstowego.\n\nOpcja <strong>Nikt</> nadal umożliwia graczom korzystanie z listy bezpiecznych zdań w grze (np. „Nieźle!”), jeśli ta funkcja jest obsługiwana.",
     "VoiceChat_ParentalControls_Description_Expanded": "Wybierz, z kim może rozmawiać twoje dziecko w grupach, ekipach i grach.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Wszyscy:</> twoje dziecko może używać czatu głosowego do rozmów ze wszystkimi.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Znajomi, członkowie drużyny i kontakty:</> twoje dziecko może używać czatu głosowego do rozmów ze znajomymi Epic, znajomymi z platformy{0}, wszystkimi członkami drużyny oraz z kontaktami. Kontakty to osoby, które nie są znajomymi twojego dziecka, ale połączyły się z nim poprzez swoich znajomych. Wielkość drużyny zależy od przygody – drużyna może liczyć od kilku graczy do wszystkich w grze.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tylko znajomi:</> twoje dziecko może używać czatu głosowego tylko do rozmów ze znajomymi Epic i znajomymi z platformy.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nikt:</> twoje dziecko nie może używać czatu głosowego.",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "Nie rób nic",
     "ToggleDoubleTapAutorun_Name": "Dotknij dwa razy, by włączyć bieganie",
     "DownloadDetailsCollection_Name": "Ustawienia pobierania",
-    "CosmeticStreaming_Description": "Pobieraj tylko niezbędne elementy kosmetyczne w miarę napotykania ich podczas gry.\n\nUWAGA: Przy wolniejszym połączeniu internetowym mogą wystąpić problemy z wydajnością podczas pobierania elementów kosmetycznych. Wyłączenie tej opcji zwiększy zapotrzebowanie na miejsce na dysku.\n\nWŁ.: Fortnite będzie pobierać tylko elementy kosmetyczne napotkane w grze.\n\nWYŁ.: Fortnite będzie pobierać wszystkie elementy kosmetyczne.",
     "GyroDisabledWhileDriving_Name": "Jazda wyłącza sterowanie żyroskopem",
     "EFortSubtitleTextBorder_DropShadow": "Cień",
     "CanSeeOtherPlayersNames_Desc": "Podczas meczu na ekranie pojawiają się nazwy kont wyeliminowanych graczy.\nTo ustawienie pozwala zastąpić nazwy innych graczy spoza twojego oddziału słowem „Gracz”.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Uwaga</>: Nadal będziesz widzieć nazwy osób z twojego oddziału (do trzech innych graczy z twojej drużyny, którzy mogą, ale nie muszą być znajomymi).\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Wł.</>: Nazwy graczy spoza twojego oddziału będą widoczne.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Wył.</>: Nazwy graczy spoza twojego oddziału zostaną zastąpione słowem „Gracz”.\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "Włącza sterowanie typu Flick Stick. Po włączeniu możesz wychylić prawy drążek na kontrolerze w dowolnym kierunku, by szybko odwrócić kamerę w tę stronę. Na przykład wychylając drążek do tyłu, spojrzysz za siebie. Po wychyleniu drążka możesz obrócić nim, by dokładniej dostosować kąt patrzenia.\n\nOznacza to więc, że nie możesz celować w górę i w dół przy pomocy drążka. W przypadku sterowania typu Flick Stick najlepiej na stałe aktywować celowanie żyroskopem lub wybrać ustawienie WŁĄCZA dla opcji Efekt prawego drążka, by aktywować żyroskop do patrzenia w górę i w dół w dowolnej chwili poprzez użycie drążka.",
     "GamepadFlickStick_Description_XB1": "Włącza sterowanie typu Flick Stick. Po włączeniu możesz wychylić prawy drążek na kontrolerze w dowolnym kierunku, by szybko odwrócić kamerę w tę stronę. Na przykład wychylając drążek do tyłu, spojrzysz za siebie. Po wychyleniu drążka możesz obrócić nim, by dokładniej dostosować kąt patrzenia.\n\nOznacza to więc, że nie możesz celować w górę i w dół przy pomocy drążka. W przypadku sterowania typu Flick Stick najlepiej na stałe aktywować celowanie żyroskopem lub wybrać ustawienie WŁĄCZA dla opcji Efekt prawego drążka, by aktywować żyroskop do patrzenia w górę i w dół w dowolnej chwili poprzez użycie drążka.",
     "GamepadFlickStick_Description_XSX": "Włącza sterowanie typu Flick Stick. Po włączeniu możesz wychylić prawy drążek na kontrolerze w dowolnym kierunku, by szybko odwrócić kamerę w tę stronę. Na przykład wychylając drążek do tyłu, spojrzysz za siebie. Po wychyleniu drążka możesz obrócić nim, by dokładniej dostosować kąt patrzenia.\n\nOznacza to więc, że nie możesz celować w górę i w dół przy pomocy drążka. W przypadku sterowania typu Flick Stick najlepiej na stałe aktywować celowanie żyroskopem lub wybrać ustawienie WŁĄCZA dla opcji Efekt prawego drążka, by aktywować żyroskop do patrzenia w górę i w dół w dowolnej chwili poprzez użycie drążka.",
-    "AutoDownloadHighResTextures_Description": "Umożliwia Fortnite automatyczne pobieranie tekstur wysokiej rozdzielczości. Dzięki teksturom o wyższej rozdzielczości Fortnite wygląda bardziej szczegółowo.\n\nUWAGA: Wolne połączenie internetowe lub ograniczona ilość miejsca na twardym dysku mogą powodować problemy z wydajnością, gdy gra pobiera tekstury wysokiej rozdzielczości. Wyłączenie tej funkcji pomoże poprawić wydajność i oszczędzić miejsce na dysku.\n\nWŁ.: Fortnite będzie automatycznie pobierać tekstury wysokiej rozdzielczości.\n\nWYŁ.: Fortnite nie będzie automatycznie pobierać tekstur wysokiej rozdzielczości.",
     "EasyLootGridEnabled_Description": "Włącza przewijalny widżet, który pokazuje pobliskie łupy. Możesz podnieść przedmiot z tego widżetu, bez potrzeby klikania na widżet konkretnego przedmiotu w miejscu, w którym on leży.",
     "EnergySavingIdle_Description": "Włącza oszczędzanie energii, gdy interfejs gry przechodzi w tryb bezczynności. Tryb bezczynności włącza się po 30 sekundach braku aktywności.",
     "EnergySavingFocus_Description": "Włącza tryb oszczędzania energii, gdy okno gry nie jest aktywne.",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "Włączenie wspomagania kamery oznacza, że kamera aktywnie będzie się obracać stosownie do ruchu twojej postaci, dzięki czemu nie musisz ręcznie sterować kamerą, chyba że próbujesz wycelować.",
     "AutoCenter_Description": "Włączenie tej opcji sprawi, że kamera będzie kierować się w stronę horyzontu, gdy poruszasz się i nie celujesz ani nie strzelasz. Może to pomóc nowym graczom, którzy nieopatrznie kierują wzrok na ziemię lub na niebo, lub graczom używającym Flick Sticka, którzy włączyli celowanie żyroskopem w niektórych trybach celowania.",
     "EnergySavingCollection_Name": "Oszczędzanie energii",
-    "InstalledTextureQualityEpic": "Epic",
     "PostProcessingQualityEpic": "Epicka",
     "ShadowEpic": "Epicka",
     "TextureQualityEpic": "Epicka",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "Dla karabinów snajperskich. Zamiast strzelania po naciśnięciu przycisku patrzenia i strzelania, strzelasz w chwili puszczenia tego przycisku. Dzięki temu możesz jednym palcem wycelować i strzelić puszczając przycisk. Inne przyciski strzału nadal działają po naciśnięciu.",
     "ContinuousFireGameplay_Description": "W przypadku broni, która wymaga zwolnienia i ponownego naciśnięcia spustu po każdym strzale, włączenie tego ustawienia pozwala strzelać seriami po przytrzymaniu spustu (ze zmniejszoną szybkostrzelnością).",
     "FortniteCredits_Name": "Twórcy Fortnite",
-    "PredownloadCosmetics_Description": "Fortnite pobiera tekstury kosmetyczne w miarę napotykania ich w grze. Włączając tę opcję spowodujesz, że gra pobierze wszystkie te tekstury z wyprzedzeniem, zamiast czekać, aż zostaną one napotkane. Zajmuje to dużo więcej miejsca na dysku, lecz pozwala Fortnite osiągnąć wyższą szczegółowość grafiki bez zużywania transferu danych. Może to poprawić jakość grafiki Fortnite, jeśli często grasz na połączeniu komórkowym.\n\nNie: Fortnite odinstaluje już zainstalowane tekstury kosmetyczne i w przyszłości nie będzie pobierać ich z wyprzedzeniem.\n\nTak: Fortnite pobierze i zainstaluje wszystkie tekstury wysokiej jakości z wyprzedzeniem.\n\n",
     "ParsleyIdle_Description": "Fortnite przejdzie w tryb uśpienia przy braku aktywności przez wybraną liczbę minut. To ustawienie dotyczy wszystkich urządzeń, na których się zalogowano.",
     "FlickForwardDeadZone_Name": "Strefa neutralna z przodu",
     "KeyboardMovementForwardDiagonal_Name": "Kąt przedniego skosu",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "Ukrywa połączone konta w mediach społecznościowych przed znajomymi.",
     "EFortSubtitleBackgroundOpacity_High": "Wysoka",
     "GeometryQualityHigh": "Wysoka",
-    "InstalledTextureQualityHigh": "Wysokie",
     "PostProcessingQualityHigh": "Wysoka",
     "ShadowHigh": "Wysoka",
     "SoundQuality_High": "Wysoka",
     "TextureQualityHigh": "Wysoka",
     "VisualEffectQualityHigh": "Wysoka",
     "GyroAcceleration_High": "Wysoki (4x)",
-    "AutoDownloadHighResTexturesReminders_Name": "Przypomnienia o teksturach wysokiej rozdzielczości",
     "EnableNanite_Description": "Zaawansowane renderowanie geometrii przez Nanite poprawia poziom szczegółowości, lecz może pogorszyć płynność gry. Po włączeniu Nanite stosowane będzie wirtualne mapowanie cieni, co poprawia ich wygląd.",
     "MeshQuality_Description": "Wyższa jakość geometrii zapewni obiektom bardziej szczegółowy kształt. Zwiększenie tej wartości poprawi szczegółowość grafiki kosztem pogorszenia wydajności.",
     "TextureQuality_Description_Default": "Wyższa jakość tekstur zapewni płaskim obiektom bardziej szczegółowy wygląd. Zwiększenie tej wartości poprawi szczegółowość grafiki kosztem pogorszenia wydajności.",
-    "TextureQuality_Description_NoHighMips": "Wyższa jakość tekstur zapewni płaskim obiektom bardziej szczegółowy wygląd. Zwiększenie tej wartości poprawi szczegółowość grafiki kosztem pogorszenia wydajności.\n\nNie zainstalowano tekstur o wysokiej rozdzielczości. Można je pobrać przy użyciu programu startowego Epic Games, w opcjach instalacji Fortnite.",
+    "TextureQuality_Description_NoHighMips": "Wyższa jakość tekstur zapewni płaskim obiektom bardziej szczegółowy wygląd. Zwiększenie tej wartości zapewni obiektom bardziej szczegółowy kształt kosztem pogorszenia wydajności.\n\n<Icon.Warning></> Nie zainstalowano tekstur o wysokiej rozdzielczości. Można je pobrać przy użyciu programu uruchamiającego Epic Games w opcjach instalacji Fortnite.",
     "Hitmarkers_Name": "Znaczniki trafień",
     "AutoClamber_On": "Przytrzymanie ruchu do przodu",
     "AutoHurdle_On": "Przytrzymanie ruchu do przodu",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "Niska",
     "GeometryQualityLow": "Niska",
-    "InstalledTextureQualityLow": "Niskie",
     "PostProcessingQualityLow": "Niska",
     "SoundQuality_Low": "Niska",
     "TextureQualityLow": "Niska",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "Maksymalne pole widzenia (FOV)",
     "EFortSubtitleBackgroundOpacity_Medium": "Średnia",
     "EFortSubtitleTextSize_Medium": "Średni",
-    "InstalledTextureQualityMedium": "Średni",
     "PostProcessingQualityMedium": "Średnia",
     "ShadowMedium": "Średnia",
     "TextureQualityMedium": "Średnia",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "Aby włączyć lub wyłączyć dźwięk 3D, sprawdź ustawienia systemu.\nTo ustawienie nie odzwierciedla aktualnych ustawień dźwięku 3D. Tryb słuchawek 3D w Fortnite jest wyłączony i zastąpiony obsługą dźwięku 3D przez system operacyjny.",
     "RestartConfirmationDescription": "Uruchom grę ponownie, by zastosować zmiany.",
     "WarningAboutToUseAdvancedOptions_Message": "Zachowaj ostrożność podczas zmian zaawansowanych opcji. Niewłaściwe ich ustawienie może pogorszyć twoją zdolność do celowania.",
+    "VirtualPointerHapticIntensity_Name": "Intensywność haptycznego sprzężenia zwrotnego wskaźnika",
+    "VirtualPointerCursorOpacity_Name": "Nieprzezroczystość wskaźnika",
+    "VirtualPointerSpeed_Name": "Prędkość wskaźnika",
     "PostProcessingQuality_Name": "Jakość przetwarzania końcowego",
     "PostProcessingQuality_Description": "Efekty przetwarzania końcowego to np. rozmycie podczas ruchu, głębia ostrości oraz bloom. Zwiększenie tego ustawienia poprawi jakość przetwarzania końcowego, lecz może pogorszyć wydajność gry.",
     "UsePowerSavingMode_Name": "Tryb oszczędzania energii",
-    "PredownloadCosmetics_Name": "Wstępne pobieranie tekstur kosmetycznych",
     "AimAssistSlowStrength_Name": "Siła wspomagania precyzyjnego celowania",
     "PreferredFilledMatchAudioChannel_Name": "Preferowany kanał (włączone uzupełnianie)",
     "EnablePreferredItemSlots_Name": "Preferowane pola przedmiotów",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "Zatrzymuj renderowanie w tle",
     "StopRenderingInBackground_Description": "W miarę możliwości zatrzymuj renderowanie, kiedy okno z grą nie jest otwarte. Uwalnia zasoby procesora graficznego dla innych aplikacji.",
     "KeyboardMovementStrafeDiagonal_Name": "Kąt odskoku na boki",
-    "CosmeticStreaming_Name": "Pobieranie elementów kosmetycznych na bieżąco",
     "SubtitlePage_Name": "Napisy",
     "SubtitlesCollection_Name": "Napisy",
     "Subtitles_Name": "Napisy",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "Zmień sterowanie ruchem z lewego drążka na prawy.",
     "AutoImportFriends_Name": "Zsynchronizuj listę znajomych",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "TSR – epickie",
     "AntiAliasingMethodTSRHigh": "TSR – wysokie",
     "AntiAliasingMethodTSRLow": "TSR – niskie",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "Kolor tekstu",
     "TextChatRTR": "Zgłaszanie tekstowe",
     "SubtitleTextSize_Name": "Rozmiar tekstu",
-    "InstalledTextureQuality_Name": "Jakość tekstur",
     "TextureQuality_Name": "Jakość tekstur",
     "LumenRequiresD3D12": "W celu włączenia funkcji Lumen należy wybrać „DirectX 12” w ustawieniu „Tryb renderowania”.",
     "NaniteRequiresD3D12": "W celu włączenia funkcji Nanite należy wybrać „DirectX 12” w ustawieniu „Tryb renderowania”.",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "Odległość widzenia określa, w jakiej odległości obiekty są usuwane w celu poprawienia wydajności.",
     "TimeReportsActionDescription": "Zobacz, ile czasu twoje dziecko spędziło w Fortnite, trybie kreatywnym i Unreal Editor dla Fortnite (UEFN) każdego tygodnia.",
     "LegalInformation_Description": "Pokaż informacje prawne.",
+    "VirtualCursorCollection_Name": "Wirtualny kursor",
     "VisualizeSoundEffects_Name": "Wizualizacja efektów dźwiękowych",
     "VisualizeSoundEffectsPriority_Name": "Priorytet wizualizacji efektów dźwiękowych",
     "VoiceChat": "Czat głosowy",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "Jeśli włączono, wszelkie czynności prostej edycji wymagające przytrzymania przycisku można wykonywać pojedynczym wciśnięciem, po czym same dokończą się po wymaganym czasie.\n\nJeśli wyłączono, przycisk trzeba przytrzymywać przez cały czas.",
     "TapQuickEdit_Description_XSX": "Jeśli włączono, wszelkie czynności prostej edycji wymagające przytrzymania przycisku można wykonywać pojedynczym wciśnięciem, po czym same dokończą się po wymaganym czasie.\n\nJeśli wyłączono, przycisk trzeba przytrzymywać przez cały czas.",
     "AutoFireDescription": "Po włączeniu wybrane bronie strzelają automatycznie po wycelowaniu we wroga.",
-    "TapToShootDescription": "Po włączeniu możesz strzelać, dotykając ekranu w dowolnym miejscu.",
+    "TapToShootDescriptionAndPriority": "Po włączeniu możesz strzelać, dotykając ekranu w dowolnym miejscu. Może mieć priorytet względem innych ustawień dotyku.",
     "ADSFire_Description": "Po włączeniu naciśnięcie dotykowego przycisku patrzenia i strzelania spowoduje też użycie celownika lub lunety. „Podczas przytrzymywania” oznacza, że puszczenie dotykowego przycisku patrzenia i strzelania zakończy również patrzenie przez celownik/lunetę.",
     "MinimapPlayerAlwaysFaceNorth_Description": "Jeśli włączono, minimapa obraca się zgodnie z ustawieniem gracza. Ikona znacznika gracza nie obraca się. (działa najlepiej z okrągłą mapą)",
     "CircularMinimap_Description": "Jeśli włączono, minimapa będzie wyświetlana w okrągłej ramce zamiast kwadratowej (działa najlepiej z zablokowanym obracaniem minimapy)",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "Przejdź do kontroli rodzicielskiej",
     "VoiceChatDisabled_LearnMore": "Więcej informacji",
     "VoiceChatDisabled_ParentalControlsButtonOther": "Otwórz opcje kontroli rodzicielskiej",
+    "VoiceChatDisabledDescription_Other": "Ta funkcja jest dla ciebie wyłączona. ",
     "VoiceChatDisabled_TurnOnFromPanel": "Włącz czat głosowy",
     "VoiceChatDisabledDescription_Parental": "Czat głosowy został wyłączony przez ustawienia kontroli rodzicielskiej.",
     "VoiceChatDisabledDescription_Platform": "Nie możesz używać czatu głosowego ze względu na ustawienia prywatności twojej konsoli.",
-    "VoiceChatDisabledDescription_User": "Nie możesz używać czatu głosowego ze względu na ustawienia czatu głosowego. Możesz je zmienić poniżej!",
-    "VoiceChatDisabledDescription_Other": "Twój rodzic lub opiekun ograniczył możliwość korzystania z tej funkcji przy użyciu opcji kontroli rodzicielskiej. "
+    "VoiceChatDisabledDescription_User": "Nie możesz używać czatu głosowego ze względu na ustawienia czatu głosowego. Możesz je zmienić poniżej!"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "Zmiana trybu gry niemożliwa",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "Błąd wysyłania komunikatu:{0}",
     "HiddenPlayerSays": "Ukryty gracz mówi: ",
     "BlockedPlayerMessage": "Wiadomość ukryta",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "Czat tekstowy został wyłączony, ponieważ ten klient jest w trybie turniejowym.",
     "TextChatEnabled": "Czat tekstowy został włączony.",
     "DisabledBySocialBan": "Czat tekstowy jest wyłączony wskutek blokady funkcji społecznościowych twojego konta.",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "Rozpoczęcie dobierania graczy nie powiodło się.",
     "FortMatchmakingContext_WarningDialogTitle": "Ostrzeżenie przy dobieraniu graczy",
     "NoFill": "NIE UZUPEŁNIAJ",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "Brak dostępnych misji",
+    "FortMatchmakingContext_NoMissionsForProgress": "Brak dostępnych misji",
+    "FortMatchmakingContext_NoMissionsInTheater": "Brak dostępnych misji",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "Brak dostępnych misji przy twoich obecnych postępach.\nWybierz szybką lub własną grę.",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "Brak dostępnych misji w obecnym teatrze.\nWybierz inny teatr.",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "Brak dostępnych misji na danym poziomie mocy.\nWybierz inny poziom mocy.",
     "Private": "PRYWATNA",
     "Public": "PUBLICZNA",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "Twoja ekipa ma zbyt niski wskaźnik mocy, by wziąć udział w tej misji. Spróbuj wybrać łatwiejszą misję, zmienić skład ekipy lub zmienić prywatność misji na „Prywatna” lub „Tylko znajomi”.",
@@ -10716,6 +10727,10 @@
     "EditFactText": "Edytuj tekst faktu",
     "EditInPromptEditor": "Edytuj w edytorze promptów"
   },
+  "LLMSession": {
+    "ModerationMsg": "Odpowiedź została poddana moderacji",
+    "UnknownRestriction": "Nieznane ograniczenie"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -10829,7 +10844,7 @@
     "MemberJoinedToastTitle": "{0} dołącza do drużyny"
   },
   "MessageDispatcher": {
-    "UnknownError": "Wystąpił nieznany błąd przy {MessageName} na kanale {ChannelName}",
+    "UnknownError": "Wystąpił nieznany błąd. Przedmiot: {MessageName} na kanale {ChannelName}",
     "ChannelNotValid": "BŁĄD: Nie można już wysłać wiadomości „{MessageName}” na tym kanale; przywracanie ustawienia braku kanału.",
     "EnqueuedTooManyMessagesError": "BŁĄD: Zbyt wiele wiadomości w kolejce. Pomijanie kolejki kanału {ChannelName} od wiadomości „{MessageName}”",
     "TooManyReceiversBoundToChannel": "BŁĄD: Ustawiono zbyt wiele odbiorników na kanale {ChannelName} (maksymalnie możesz mieć po {MaxReceiversPerChannel} na każdym kanale). Przywracanie ustawienia braku kanału dla odbiornika „{ReceiverName}”.",
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "Odblokuj zestaw, by zacząć odbierać nagrody"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "Wymaga odebrania wszystkich ofert {GroupName}"
+    "GroupComplete_Member_Incomplete": "Odbierz wszystkie inne nagrody z: {GroupName}",
+    "GroupComplete_Nonmember_Incomplete": "Odbierz wszystkie nagrody z {GroupName}"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "Dostępne od {Date}"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "Dzięki, że grasz w Fortnite!",
     "PurchaseHeader": "Zdobyto {0}|plural(one=przedmiot,few=przedmioty,many=przedmiotów,other=przedmiotu)"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "Wyświetlanej nazwy nie można edytować dla tego elementu kosmetycznego postaci niezależnej."
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "Dodaj ścieżkę",
     "AddTrack_ToolTip": "Utwórz nowy tor działań"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "Otwarty mikrofon",
     "ChannelPreferredSocial": "Preferowany kanał",
     "VoiceChatRestricted_Parental": "Zablokowane przez blokadę rodzicielską",
+    "VoiceChatRestricted_Other": "Ta funkcja jest dla ciebie wyłączona. ",
     "VoiceChat_UserSocial": "Czat głosowy",
     "VoiceChatParentDisabled": "Czat głosowy wyłączony przez blokadę rodzicielską",
     "VoiceIndicatorsSocial": "Wskaźniki głosowe",
     "VoiceMethod": "Sposób użycia głosu",
-    "VoiceVolumeSocial": "Głośność głosu",
-    "VoiceChatRestriced_Other": "Twój rodzic lub opiekun ograniczył możliwość korzystania z tej funkcji przy użyciu opcji kontroli rodzicielskiej. "
+    "VoiceVolumeSocial": "Głośność głosu"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "Kanał echo",

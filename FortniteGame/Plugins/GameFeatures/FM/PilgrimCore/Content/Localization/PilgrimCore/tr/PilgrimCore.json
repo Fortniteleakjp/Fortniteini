@@ -1,7 +1,5 @@
 {
   "": {
-    "9240C75C48089720F5311CAC79826D6A": "(Çılgın Parti'den Çık)",
-    "F843740643D8BC1030F2E38AFBB2EB52": "(Yalnızca Grup Lideri Kullanabilir)",
     "CF64E10C4A0F48B668BDEE94B48D3F0E": "- Hazırlanmak\n- Tüyoları görüntülemek",
     "68916EDC47FE6CA7F612B9A3E8560CB7": "- Hazırlanmak\n- Tüyoları görüntülemek\n- Kontrolleri değiştirmek",
     "ABE23DC84867226614A110A9B3149B7C": "0",
@@ -30,13 +28,10 @@
     "A2E641DD44C8D33FEEA2F2A9F73167ED": "Sahne Arkası",
     "471BC4574B0E522D117D79BB4D1EA961": "Bas",
     "7AAC57EC49C682904C6064A8475EE5E7": "Bas",
-    "04C702C64BD04EA8DCDCED8FA944B0C3": "Battle Royale",
     "18794F334CA8B5E8BC00AC8B605F876D": "Işın İzleri",
     "4DD4A88248A50E65B3CC2480320CAC4B": "Breakdown",
     "97336AA24A42291051FC5596C95CA29D": "Geçiş",
     "9CB7D0194D8C6B2883BB68B1F20A3553": "Build",
-    "17288C1C48065F2978F6698CDFEF6122": "Eşleştirmeyi İptal Et",
-    "739748D74061423B37A5C4A1C46AF458": "Varış Noktasını Değiştir",
     "92051AD64480DCEF69F626BD21596E0D": "Nakarat",
     "E80FF8D74DFA1EAE377BDEA88C08AE2B": "Kıyafet",
     "300C0CFB4D73C64E5832E3A07E1AE771": "Karmaşık Geçiş",
@@ -92,8 +87,6 @@
     "DE88CA784F41C422D5F7F0921D8C202C": "Yatay Geçiş",
     "C977C5DA41F06D0DC42EEA87F95D3013": "İşaret Parmağı ve Orta Parmak",
     "8CB1C1754B44B68C6D8785A1406B873C": "Örneklenmiş Statik Örgüler",
-    "95EC34564AB1E36DE5F654B115E64938": "Eşleşme sırasına girmek için etkileşime geç",
-    "B9DBF741475C7E736EFCB2981BF24861": "Eşleşme sırasına girmek için etkileşime geç",
     "A6500D234D2EB0118F3AE69BADDCFAB7": "Başlangıç",
     "453510644240B9AA2E865A9C11057640": "Klavye/Fare 1",
     "BA1862894AEF0D7A4D1854BB0A1E39E1": "Klavye/Fare 1",
@@ -104,11 +97,9 @@
     "2565C9174A1C7931AF55D980A7003BC7": "Büyük",
     "F9DB265644F04020E42F4DA4E1E65F42": "Geç",
     "F402FA4143DD37E90CD3E4B4FB8784D8": "Sıralamada önündeki rakipleri yavaşlatmak için saldırılar kullan!",
-    "45FD79384B2E80E4035BB6B719BA423B": "Çılgın Parti'den Çık",
     "84876CD541241926B132A4BE915B96EC": "Sol El 3",
     "EC605C2A44FC4260E6326EBC5D1D0148": "Sol El 3",
     "31FBB8A64F4A1D3C2F29DCABFD890F61": "Lidar Nokta Bulutu",
-    "ACA98E6545A56DAFB6EF4FB77D97E4F5": "Eşleştirme Portalı",
     "49E501354A049157FB982E8DA776774D": "Maksimum Çarpan",
     "ABA5603441E9321B0BF0A08115F3B5DA": "Orta",
     "A87FCDC4496200421B6FC891CFCCE2EA": "Örgü Biçimlendiricisi",
@@ -132,7 +123,6 @@
     "04057F5441AEF9DA588165819F1A9343": "Tamam",
     "222318784F27D2DD556612BD361E9AA6": "Tamam",
     "AE24370C435DAC67FBEA948F998F1C20": "Tek El",
-    "13D786884DCDBBB2746E43AD7924F6E0": "Yalnızca Grup Lideri Kullanabilir",
     "37C0527B44FD8C0B6D71A7825F6CF049": "Komut kalibrasyon diyalogunu aç",
     "126160FF49ABEEB1639C8C9C9B99C4E7": "Görevleri ve ayarlamaları görüntülemek ve ipuçlarına ulaşmak için bu menüyü aç.",
     "05B6BA3B4A8CBA0D02D9A79A792955F3": "Görevleri ve ayarlamaları görüntülemek, kontrol düzenlerini değiştirmek ve ipuçlarına ulaşmak için bu menüyü aç.",
@@ -144,7 +134,6 @@
     "F3CFDFB14C68297A21309A968C0CD446": "4. Oyuncu",
     "7A2A4E0D4D079EE72D1746A2FBD931E8": "Enstrüman Seçici detaylı seçenekleri gösterir",
     "3C6FD8984157A53B4001C6B7DF9750D4": "Parçacık Modelleri",
-    "E60C0B424FBB36D1498367923D7F8EAC": "Grup çok büyük",
     "2124C50E41CD0C1454CD79983A55CB43": "Mükemmel",
     "2A18621C40233D874F2CAEA37CC42775": "Mükemmel",
     "72B190E943E74490A5A82CBBFAC06FC9": "Mükemmel",
@@ -164,11 +153,9 @@
     "8487EE3544F42E95A6169E81FFF821BD": "İfade çarkını açmadan bir ifade kullanmaya hazırlan",
     "F8EEE0CC444517014CF9DE91D15B66FB": "Halihazırda devam eden bir ifadeyi durdurmak için bas",
     "43C8845C49DC39F9E56684958C6A939C": "Pro Şarkı Kısımları Ayarı",
-    "6910C5EC4059ACD344561FAC51349803": "Battle Royale İçin Kuyruğa Gir",
     "33A4853B4F08CD18BE680783DC04DA12": "Hızlı İfade Kullanma Komutu",
     "02DB116C44508A5F5C18ACB0700B9257": "İhtiyacın olursa Oyun Menüsü'ne gidip\nşunları yapabileceğini unutma:",
     "5928B25B4FC8D182A37CCE800665F41E": "Özel Kontrol Ayarları Belirle",
-    "3CA5FDA9497F9CAF855FC78B97A6F507": "Eşleştirme Kodu Belirle",
     "B95D54BA41A52DB6517E6CBAA49872C1": "Şu zorluk için kontrol ayarları belirle:",
     "CDBBF76B453F25BC576A7792757CCC03": "Savaş Bileti'ne Göre Belirle",
     "7B4F36394BE0874F6A202F9F4C6D100D": "Ayarlar",
@@ -209,9 +196,6 @@
     "17DD8ECB46F03E95BB7F78A2F8E49953": "ÇALMAYA HAZIRSIN",
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
-  },
-  "Fort.Actor.Building.Defaults": {
-    "OptionDefinitionContainer.LabelOverride": "Etiket"
   },
   "PilgrimFilters": {
     "PilgrimShowScoreBy_AllTimeHighscore": "Tüm Zamanlar",
@@ -315,12 +299,5 @@
     "CategoryX-W": "X-W",
     "CategoryY-Z": "Y-Z",
     "CategoryZ-Y": "Z-Y"
-  },
-  "UserOptionDefinition": {
-    "EPortalLinkCodeLockMode.AlwaysLocked.DisplayName": "Her Zaman Kilitli",
-    "BP_Pilgrim_GreenRoomPortal_C.CanOverrideCode.DisplayName": "Kod Geçersiz Kılınabilir",
-    "BP_Pilgrim_GreenRoomPortal_C.IslandCode_Knob.DisplayName": "Ada Kodu Seçeneği",
-    "EPortalLinkCodeLockMode.NeverLocked.DisplayName": "Hiçbir Zaman Kilitli Değil",
-    "EPortalLinkCodeLockMode.WindowLocked.DisplayName": "Pencere Kilitli"
   }
 }

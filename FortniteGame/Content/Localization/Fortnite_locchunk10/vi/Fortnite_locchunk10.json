@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Nòng Lớn DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Máy Bay Cánh Kép",
     "5B5236944941BFD7DE82B8B05FE11D94": "Máy Bay Cánh Kép",
-    "DF56207843F6244003548CA79CFAA0F4": "Máy Bay Cánh Kép",
     "AD9DF9A2455C274907AE29971466ADBA": "Lưỡi Cắt",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Lưỡi Cắt",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Phụ kiện",
@@ -635,7 +634,7 @@
     "2AA0C53148468770E238D6825BF85BAC": "Sao Phân Loại",
     "50143CB943E4575C29217F8DAEEF2147": "Thẻ Khóa Góc Mèo",
     "5C4799E749D383FD94F01B83DF9EB80F": "Thẻ Khóa Góc Mèo",
-    "EE922BB945F58FB9604A58A2D82D680C": "SMG Bắn Nhanh Của Catwoman",
+    "EE922BB945F58FB9604A58A2D82D680C": "SMG Liên Thanh Của Catwoman",
     "AA86FAD842ADDE0E9D552E92F44CDD7C": "SMG Bắn Nhanh tùy chỉnh của Catwoman. Được chế tạo tỉ mỉ để tăng sức chứa băng đạn.",
     "D76CF3D846DE65E8BE51F39F748DAA43": "Thiên Thanh",
     "EB4A9CD946CF1CAD986993958FEC99A7": "Chương 2 Mùa 5 ",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "Xác định đội nào (nếu có) nhìn thấy chỉ báo HUD là Thân Thiện. Chỉ liên quan đến biểu tượng Phong Cách Huy Hiệu. ",
     "129650534E9339B784AAB9B5C32678A6": "Xác định đội nào có thể nhìn thấy biểu tượng HUD. Chỉ liên quan đến biểu tượng Phong Cách Huy Hiệu.",
     "9AED3EE2432C86562FC1268D4F02CA40": "Xác định đội nào có thể nhìn thấy biểu tượng HUD. Chỉ liên quan đến biểu tượng Phong Cách Huy Hiệu.",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "Dire",
     "C90BA6D147AC6F970F343F814B24620B": "Vô Hiệu Hóa Kích Hoạt Khi Đang Chạy",
     "BD5501F945FD5E68B86AA19785403260": "Vô hiệu hóa Máy Tạo Phương Tiện, ngưng tạo ra thêm bất kỳ phương tiện nào.",
     "BD1640424CA1561290BF568D12001009": "Vô hiệu hóa Máy Tạo này khi nhận tín hiệu từ kênh đã chọn.",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "Súng Lục Gắn Đèn Pin",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "Súng Lục Gắn Đèn Pin",
     "E576A6EA43FB3390DF995597CC8787B5": "Cưa Cứu Hộ DX",
+    "EC2248AB4AAE78827455E396D0611068": "Văn Bản Phụ",
     "A7FC866241FA661C68609CB3E03F6CEC": "Bay",
     "01B10F554E9863503405E890B39DCFAA": "Kiểm Tra Thử Thách Tuần Fortbyte 6",
     "43DA2A90437D506CE8205EAFABE1CBD6": "Kiểm Tra Thử Thách Tuần Fortbyte 6",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "Xoay Chuyển Nghĩa địa",
     "A4341A0045390C670F4757948E6E3CE5": "Sóng Thần Nghĩa Địa",
     "F0737F4E40417749A441A59843B932F0": "Du Hành Nghĩa Địa",
-    "8B52C5AD4891876163EE09B5632D41E8": "Sự vĩ đại là mãi mãi.",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Xanh Lục",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "Grind",
     "0527EEDF4C1C3DC79266D49836DEF54C": "Thẻ Khóa Grotto",
     "7F90D27A40A35D195B511AAE906A6A36": "Thẻ Khóa Grotto",
     "7E6F527B407E9A6E8B1FED863069924E": "Súng Súng Trường Xung Kích Liên Thanh ĐạnNhẹ Tự Động",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "Súng Thần Công Cầm Tay",
     "89587ADB427212BBA1354BB2C1FF6E8F": "Súng Thần Công Cầm Tay",
     "9CBF2A9D457F7567D62990B2A189E194": "Súng Thần Công Cầm Tay +",
-    "50894D884F5D8695DB841F90521FCF55": "Hangtime",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "Có các mô-đun và can thiệp không cần thiết",
     "64F8ED534DCB3384F84C0BA28011E1FA": "Có các mô-đun và can thiệp không cần thiết",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "Có các mô-đun và can thiệp không cần thiết",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "Cưa Cứu Hộ Lười Biếng",
     "CA6D0D87420CCE166090BAB2B3B09E44": "Lật Chữ G Lười Biếng",
     "8DEE71084CFD3D885BB21C8D75A996A1": "Khám Phá Lười Biếng",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "Thủ lĩnh của bầy đàn.",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "Để lại một <Emphasized>Mìn Tiệm Cận</> tại vị trí bạn bị hạ gục",
     "C249F11F41E9E062B8B2E7852084DFB9": "Trái",
     "3DA57402427AD07E9EEF1182BFB26A44": "Đuôi Trái",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "Không lặp lại",
     "400B329C4C3CFA025EA0409641DF37CB": "Không",
     "6B12549A41998E4E0A87668FD5B4D36C": "Không",
+    "8456D15B451996C5FCF369A843AE73FA": "Không Có",
     "B67463454D0A16C5C16CBB999DCAA7AC": "Không",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "Không",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "Không",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "Thường",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "Thường",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "Không có gì để xem ở đây. Chỉ là một <Emphasized>hộp di chuyển</>",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "Token Rỗng",
     "2A743E1048A4D22ED47940B99A99FD94": "Thẻ Di Sản",
     "2FA98907484D5AA64173C5B93C5D30F1": "Mục Tiêu",
     "2AE212EE406A3146388589A8AFC54CF3": "Súng Trường Xung Kích Bắn Loạt Của Ocean",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "Đặt Kiếm Vô Cực để người chơi đến nhận.",
     "1F62B87A4BC128082F4198855D3F6FDE": "Đặt Kiếm Vô Cực để người chơi đến nhận.",
     "9EC314644018A0419EA1F482397A0E43": "Đặt các điểm đánh dấu để dẫn lối.",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Token Đủ Điều Kiện Khảo Sát Người Chơi",
     "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "Người chơi Pawn Athena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "Đặt Xuống",
     "3B2F170F40934B3A5C46F1B55E412D4A": "Dập ngọn lửa đó đi!",
     "43088BA143F2B6BCAEE378847172BE8C": "Xe Ủi",
-    "CC13E7A44B19B6541560D085C426791D": "Xe Ủi",
     "393E9456499B520AC90D5E8597A7D23D": "SMG yên tĩnh gây <Emphasized>sát thương tăng cường</> với <Emphasized>5 viên đạn cuối cùng</>",
     "43E272F8443991243556F0AB98EC9BBE": "\tĐÁ HIỆN THỰC",
     "2A5097B944627605414956BB8AE4337B": "Ngẫu Nhiên",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "Súng Tiểu Liên Giảm Thanh",
     "DDDAFD77445379EE9BAF399713A063D6": "Người Sống Sót",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Bơi <Emphasized>nhanh hơn</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "Swish",
     "E928E3A54C017ABB67564BB0EE06B190": "Chuyển Đổi Hồ Sơ",
     "85D867BC4BF95138BD5A05A4705FB62F": "Đổi Ghế",
     "8F0C992C457A0ED11DC7F089C2563C02": "Đổi Ghế",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "Tanky",
     "50B5E23B4F691D00F8BE3C984622679F": "Hiển Thị Của Đội",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "Hiển Thị Của Đội",
-    "8FF029D544B7EC9500BD199AEE1CE927": "Làm chủ sân đấu",
-    "E15F90714DA6FDFD9053248626AB156F": "Làm chủ sân đấu",
     "03E580304DC6BBC29D3304B6E0D4105A": "Nâng Cấp Kỹ Thuật",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "Nâng Cấp Kỹ Thuật",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "Nâng Cấp Kỹ Thuật",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Chìa Khóa Lễ Hội Mùa Đông",
     "194B94D745612B291C0C0CAC0487B727": "Chổi Phù Thủy",
     "EFCEF17944284794FC6D49B915B991EE": "Chổi Phù Thủy",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "Wrath",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X Đánh Dấu Vị Trí!",
     "D40AA64648243870B6889FA424D3E046": "Cánh Bão X4",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "Kết Hợp"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "Hủy"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</>/{RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "Mùa {0}",
     "ChapterSeasonTextFormat": "{0}, {1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "Không thể bắt đầu quan sát. Trận đấu có thể đã kết thúc hoặc tài khoản của bạn có thể chưa được cài đặt để quan sát trận đấu."
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} V-BUCK",
     "StarterKitOfferContent": "{0} V-BUCK + {1} {1}|plural(one=VẬT PHẨM,other=VẬT PHẨM)"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}Đối tượng {1} đang trùng với các đối tượng {2} khác:"
+    "AddingOverlappingActors": "{0}Đối Tượng '{1}' đang trùng lặp với {2} (các) đối tượng khác: '{3}'"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "Sự Kiện Thống Kê Hồ Sơ",
     "AnimNodeProfilerStatEventTooltip": "Sự Kiện Thống Kê Hồ Sơ",
     "QuadrupedSlopeWarping": "Biến Dạng Độ Dốc Nhân Vật Bốn Chân",
+    "RootSlopeTilt": "Độ Nghiêng Dốc Gốc",
     "ScaleCharacterBones": "Căn Chỉnh Xương Nhân Vật",
     "PredictiveStrideWarpingTooltip": "Căn chỉnh Chân IK để khớp tốc độ di chuyển bằng cách sử dụng xương dự đoán bàn chân để dự đoán chuyển động của cơ thể.",
     "SpeedWarpingTooltip": "Căn chỉnh Chân IK để khớp tốc độ di chuyển.",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "Căn chỉnh xương Husk dựa theo phân loại. (ví dụ: Husk Lùn nhỏ nhưng có đầu lớn)",
     "SetIKTarget_Description": "Cài Đặt Mục Tiêu Đặt Chân",
     "SpeedWarping": "Biến Dạng Tốc Độ",
+    "RootSlopeTiltTooltip": "Nghiêng gốc Lính Xương về phía pháp tuyến của sàn theo một tỉ lệ giới hạn. Điều này giúp nút biến dạng dốc ở phía dưới xử lý lại các chi chống dựa trên phần thân đã bị nghiêng.",
     "TransformRollerTreads": "Chuyển đổi Trục Lăn/Rãnh Lốp",
     "TransformRollerTreadsTooltip": "Chuyển đổi trục lăn thành phương tiện có rãnh lốp."
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ - Không tìm thấy đồ thị liên kết được kết nối",
     "FortAnimNode_LinkedGraphGate_ToolTip": "Khóa đồ hoạ hoạt hình hoặc lớp liên kết để ngừng cập nhật nếu phiên bản được liên kết của nó đã bị vô hiệu hóa",
     "Title": "Cổng Đồ Họa Liên Kết"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "Không Tìm Thấy Người Chơi",
+    "NoPlayersToJoin_Desc": "Hiện tại không có ai khác chơi ở đây.\nBạn vẫn muốn vào phiên đấu chơi một mình chứ?"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "Tắt Thoại"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>PHÁT LỊCH TRÌNH</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "Bất Kỳ Lúc Nào",
     "PlaytimeScheduleEveryDay": "Hàng ngày",
     "PlaytimeScheduleFriday": "Thứ Sáu",
     "PlaytimeScheduleMonday": "Thứ Hai",
+    "PlaytimeScheduleNoWindow": "Không Có Khung Thời Gian Cho Phép",
     "PlaytimeScheduleSaturday": "Thứ Bảy",
     "PlaytimeScheduleSunday": "Chủ Nhật",
     "PlaytimeScheduleThursday": "Thứ Năm",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "MỚI {0}!",
     "quest_reward_grant_quest": "HOÀN THÀNH MỤC TIÊU!"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "Người Chơi Đã Sẵn Sàng: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "Thẻ Chiến Đấu đã đạt cấp {0}",
     "PurchaseNotAllowed_FounderPack": "Để mua {0}, hãy nhờ bố mẹ hoặc người giám hộ của bạn thiết lập tài khoản của bạn trong phần Kiểm Soát Của Phụ Huynh",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">BẬT</>: Con bạn có thể tương tác với các tính năng AI trong sản phẩm của Epic Games thông qua giọng nói và giao tiếp dưới dạng văn bản tự do. Điều này bao gồm việc tương tác với các nhân vật AI không phải người chơi (NPC) có khả năng hội thoại trong Fortnite\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">TẮT</>: Con bạn sẽ không thể tương tác với các tính năng AI trong sản phẩm của Epic Games thông qua giọng nói và văn bản.\n\nLưu ý: Tùy chọn kiểm soát này không áp dụng cho các tương tác hỗ trợ người chơi được cung cấp bởi AI.",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Bật</>: Con của bạn CÓ THỂ sử dụng V-Buck (hoặc nội dung mua bằng V-Buck) để mua vật phẩm hoặc nội dung có phần thưởng ngẫu nhiên. \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tắt</>: Con của bạn KHÔNG THỂ sử dụng V-Buck (hoặc nội dung mua bằng V-Buck) để mua vật phẩm hoặc nội dung có phần thưởng ngẫu nhiên.",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Bật</>: Con của bạn có thể thiết kế trò chơi và trải nghiệm trong Fortnite, và có thể gia nhập cùng bạn bè trong khi thiết kế trải nghiệm của riêng mình.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tắt</>: Con của bạn không thể thiết kế trò chơi và trải nghiệm trong Fortnite, và không thể gia nhập cùng bạn bè trong khi thiết kế trải nghiệm của riêng mình.\n\nLưu ý: Trong khi thiết kế một trải nghiệm Fortnite, người chơi có thể tương tác với nội dung chưa được gửi đến bộ phận Phát Hành Fortnite để kiểm duyệt và do đó chưa được xếp hạng. Người chơi cũng có thể tạo nội dung, bao gồm cả văn bản có thể hiển thị với những người hợp tác. \n\nTìm hiểu thêm về Sáng Tạo Vô Biên tại fn.gg/creative.",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">Bật tính năng Tải Sẵn Kết Cấu Trang Trí sẽ dùng thêm {InstallSize} dung lượng lưu trữ.</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">{0} Vé Trả Hàng dùng được</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">Hủy Giao Dịch Mua</>\n\nBạn có thể hủy bất kỳ giao dịch không mong muốn nào đã thực hiện bằng V-Buck. Hủy Giao Dịch Mua sẽ khả dụng cho đến khi bạn trang bị hoặc sử dụng vật phẩm đã mua trong khi chơi. Chỉ những vật phẩm đã mua trong vòng 24 giờ gần nhất đủ điều kiện Hủy Giao Dịch Mua.\n\nĐể biết thêm chi tiết, xem fn.gg/cancelpurchase\n\n<text size=\"24\">Hoàn Trả Giao Dịch</>\n\nTrong trường hợp bạn đã chẳng may mua một vật phẩm bằng V-Buck và việc hủy giao dịch mua không còn khả dụng, thay vào đó bạn có thể sử dụng một trong 3 Vé Trả Hàng. Bạn sẽ nhận được thêm một Vé Trả Hàng sau mỗi 12 tháng, tối đa lên tới 3 vé. Mỗi vé sẽ được thêm sau 12 tháng kế tiếp sau vé gần nhất bạn nhận được.\n\nChỉ những vật phẩm đã mua trong vòng 30 ngày gần nhất đủ điều kiện để hoàn trả. Vật phẩm tiêu hao - như Thẻ Chiến Đấu, Cấp Thẻ Chiến Đấu hoặc Llama không thể hoàn trả.",
     "ScopedSpeedMultiplier_Description": "Hệ số được áp dụng cho độ nhạy tầm nhìn khi ngắm bắn qua phụ kiện với vũ khí có ống ngắm.  Cài đặt thấp hơn 1x sẽ giảm độ nhạy khi ngắm qua ống ngắm.  Cài đặt cao hơn 1x sẽ tăng độ nhạy khi ngắm qua ống ngắm.",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "Kích Hoạt Tương Tác",
     "TriggerHapticsStrength_Name": "Cường Độ Kích Hoạt Tương Tác",
     "UserInterfaceContrast_Description": "Điều chỉnh độ tương phản của giao diện người dùng.",
+    "VirtualPointerCursorOpacity_Description": "Điều chỉnh độ mờ của con trỏ trên màn hình. Giá trị thấp hơn giúp con trỏ trong suốt hơn.",
+    "VirtualPointerSpeed_Description": "Điều chỉnh tốc độ di chuyển của con trỏ trên màn hình. Giá trị 5 là tốc độ mặc định; thấp hơn thì chậm hơn và cao hơn thì nhanh hơn.",
     "Brightness_Description": "Điều chỉnh độ sáng.",
+    "VirtualPointerHapticIntensity_Description": "Điều chỉnh cường độ phản hồi xúc giác khi sử dụng con trỏ trên màn hình.",
     "AdvancedAimSensitivityCollection_Name": "Nâng Cao - Độ Nhạy Ngắm Qua Góc Nhìn Của Súng (ADS)",
     "BasicLookOptionsCollection_Name": "Nâng Cao - Độ Nhạy Trực Quan",
     "SuperAdvancedSensitivityCollection_Name": "Nâng Cao - Độ Nhạy",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "Cho Phép Nhập Liệu Bằng Giọng Nói",
     "AllowNotifications_Description": "Cho phép thông báo và nhận thông báo về nội dung tải xuống, lời mời bạn bè và phe, mùa mới, sự kiện hạn giờ, thông báo và chương trình khuyến mãi. Thiết lập những tính năng này bất cứ lúc nào.",
     "AmpleHammer_DetailName": "Cho phép giao tiếp bằng giọng nói và văn bản với các tính năng AI",
-    "AutoDownloadHighResTexturesReminders_Description": "Cho phép lời nhắc được hiển thị dù bật trở lại tải về tự động đối với cấu trúc có độ phân giải cao.\n\nLƯU Ý: Lời nhắc chỉ hiển thị khi bạn có dung lượng trống cần thiết trên ổ đĩa để bật tính năng này và tải về tự động được 'TẮT'.\n\nTẮT: Fortnite sẽ không gửi lời nhắc bật kết cấu có độ phân giải cao.\n\nBẬT (mặc định): Fortnite sẽ gửi lời nhắc bật kết cấu có độ phân giải cao.\n\n",
     "AllowLowPower_Description": "Cho phép game tự động giảm cài đặt để tiết kiệm năng lượng.",
     "LockPrimaryInputMethodToMouse_Description": "Sử dụng cùng lúc Đầu Vào Bàn Phím và Đầu Vào Chuột, và khóa phản hồi đầu vào chỉ là đề xuất cho Chuột và Bàn Phím, thay vì để các phương thức đầu vào xung đột.",
     "EnablePreferredItemSlots_Description": "Cho phép bạn chỉ định một ô đồ ưu tiên trong kho cho một loại vũ khí hoặc vật phẩm. Khi nhặt lên, vật phẩm ưu tiên của bạn sẽ được đặt vào ô ưu tiên trong kho của nó.\n\nCác vật phẩm chưa được chỉ định sẽ được đặt vào ô thanh tắt đầu tiên có sẵn và sẽ được sắp xếp lại nếu một loại vật phẩm ưu tiên được nhặt lên. \n\n• Việc đổi độ hiếm sẽ xảy ra khi nhặt lên một vật phẩm cùng loại có độ hiếm cao hơn. Ví dụ: Shotgun Bơm Đạn Lạ sẽ được thay thế bằng Shotgun Bơm Đạn Sử Thi. Vật phẩm có độ hiếm thấp hơn sẽ được chuyển đến ô trống đầu tiên có sẵn.\n\n• Tính năng Tự Xếp Vật Phẩm Tiêu Hao sang bên Phải sẽ tiếp tục hoạt động với các ô vật phẩm ưu tiên.\n\n• Các ô vật phẩm ưu tiên chỉ hoạt động khi bạn có ít nhất một ô đồ trống trong kho.",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "Tự Động",
     "AutoConfirmEdits_Name": "Tự Động Xác Nhận Chỉnh Sửa",
     "AutoInteractConsumables_Name": "Tự Động Tiêu Hao Vật Phẩm Hái Lượm",
-    "AutoDownloadHighResTextures_Name": "Tự Động Tải Về Kết Cấu Có Độ Phân Giải Cao",
     "STW_AutoEquipBetterItems_Name": "Tự Động Trang Bị Vật Phẩm Tốt Hơn",
     "AutoFireName": "Bắn Tự Động",
     "AutoInteractContainers_Name": "Tự Động Mở Thùng Chứa",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "Chọn viền khác cho văn bản.",
     "SubtitleTextColor_Description": "Chọn màu khác cho văn bản phụ đề.",
     "SubtitleTextSize_Description": "Chọn các kích cỡ khác nhau cho văn bản phụ đề.",
-    "InstalledTextureQuality_Description": "Chọn mức độ chi tiết cho các kết cấu của Fortnite. Tăng cài đặt này lên sẽ khiến Fortnite tải kết cấu khi chúng xuất hiện trong trò chơi, giúp chúng trông chi tiết hơn, nhưng có thể tăng mức độ sử dụng mạng và giảm hiệu suất trên thiết bị của bạn.\n\n<text color=\"FFFF00\">Tùy chọn 'Tải Về Bằng Dữ Liệu Di Động' phải được 'BẬT' để có thể sử dụng kết cấu chất lượng cao khi dùng dữ liệu di động.</>",
     "Hitmarkers_Description": "Chọn âm thanh phát khi bắn trúng mục tiêu.",
     "TextChat_Desc": "Chọn đối tượng con bạn có thể gửi và nhận tin nhắn trong nhóm, tổ đội và trận đấu. Con bạn chỉ có thể gửi và nhận tin nhắn trực tiếp với bạn bè trên Epic.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tất cả mọi người</>: Con của bạn có thể chat văn bản với tất cả mọi người.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Bạn bè, thành viên nhóm và cá nhân kết nối</>: Con của bạn có thể chat văn bản với bạn bè trên Epic, bạn bè trên nền tảng{0}, mọi thành viên trong đội và cá nhân kết nối. Cá nhân kết nối là những người chưa kết bạn nhưng được kết nối với con bạn thông qua bạn bè của trẻ. Quy mô đội thay đổi theo chế độ chơi, từ vài người cho tới toàn bộ người chơi trong trận đấu.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Chỉ bạn bè</>: Con của bạn chỉ có thể chat văn bản với bạn bè trên Epic và bạn bè trên nền tảng.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Không ai cả</>: Con của bạn không thể chat văn bản với bất kỳ ai.\n\nChọn <strong>Không ai cả</> vẫn sẽ cho phép người chơi sử dụng tin từ danh sách các cụm từ an toàn trong trận (ví dụ như: \"Làm tốt lắm!\"), nếu được hỗ trợ.",
     "VoiceChat_ParentalControls_Description_Expanded": "Chọn đối tượng con bạn có thể nói chuyện cùng trong nhóm, tổ đội và trận đấu.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tất cả mọi người</>: Con của bạn có thể đàm thoại với tất cả mọi người.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Bạn bè, thành viên nhóm và cá nhân kết nối</>: Con của bạn có thể đàm thoại với bạn bè trên Epic, bạn bè trên nền tảng{0}, mọi thành viên trong đội và cá nhân kết nối. Cá nhân kết nối là những người chưa kết bạn nhưng được kết nối với con bạn thông qua bạn bè của trẻ. Quy mô đội thay đổi theo chế độ chơi, từ vài người cho tới toàn bộ người chơi trong trận đấu.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Chỉ bạn bè</>: Con của bạn chỉ có thể đàm thoại với bạn bè trên Epic và bạn bè trên nền tảng.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Không ai cả</>: Con của bạn không thể đàm thoại với bất kỳ ai.",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "Không Làm Gì",
     "ToggleDoubleTapAutorun_Name": "Nhấn Đúp Để Tự Động Chạy",
     "DownloadDetailsCollection_Name": "Cài Đặt Tải Xuống",
-    "CosmeticStreaming_Description": "Chỉ tải về vật phẩm trang trí cần thiết khi bạn gặp chúng trong lúc đang chơi.\n\nLƯU Ý: Kết nối mạng chậm có thể gặp sự cố hiệu suất khi trò chơi đang truyền phát vật phẩm trang trí. Tắt tính năng này sẽ cần thêm dung lượng ổ đĩa.\n\nBẬT: Fortnite sẽ chỉ tải về vật phẩm trang trí bạn gặp trong game.\n\nTẮT: Fortnite sẽ tải về tất cả vật phẩm trang trí.",
     "GyroDisabledWhileDriving_Name": "Tắt Hồi Chuyển Khi Lái Xe",
     "EFortSubtitleTextBorder_DropShadow": "Đổ Bóng",
     "CanSeeOtherPlayersNames_Desc": "Trong một trận đấu, tên tài khoản của những người chơi đã bị hạ gục sẽ xuất hiện trên màn hình.\nCài đặt này cho phép bạn thay thế tên của những người chơi khác không thuộc biệt đội của bạn thành \"Người Chơi\" trong những tin nhắn này.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Lưu ý</>: Bạn vẫn sẽ thấy được tên của những người thuộc cùng \"biệt đội\" (tối đa ba người chơi khác trong đội của bạn có thể là hoặc không phải là bạn bè với ban)\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Bật</>: Bạn sẽ thấy tên của những người chơi không phải thành viên biệt đội.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tắt</>: Thay thế tên của những người chơi không thuộc biệt đội của bạn thành \"Người Chơi\"\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "Bật Cần Gạt. Khi được bật, hãy hướng cần phải trên bộ điều khiển theo bất kỳ hướng nào để gạt nhanh camera theo hướng đó. Ví dụ: kéo cần về phía sau sẽ gạt nhanh ra phía sau bạn. Sau khi đã gạt cần, hãy xoay cần để điều chỉnh hướng của bạn.\n\nVì điều này có nghĩa là bạn sẽ không thể ngắm lên xuống bằng cần nữa, tốt nhất là phải luôn bật Ngắm Hồi Chuyển hoặc cài đặt Hiệu Ứng cần phải thành BẬT. Khi đó, bạn có thể kích hoạt hồi chuyển để nhìn lên hoặc xuống bất cứ lúc nào bằng cách đẩy cần.",
     "GamepadFlickStick_Description_XB1": "Bật Cần Gạt. Khi được bật, hãy hướng cần phải trên bộ điều khiển theo bất kỳ hướng nào để gạt nhanh camera theo hướng đó. Ví dụ: kéo cần về phía sau sẽ gạt nhanh ra phía sau bạn. Sau khi đã gạt cần, hãy xoay cần để điều chỉnh hướng của bạn.\n\nVì điều này có nghĩa là bạn sẽ không thể ngắm lên xuống bằng cần nữa, tốt nhất là phải luôn bật Ngắm Hồi Chuyển hoặc cài đặt Hiệu Ứng cần phải thành BẬT. Khi đó, bạn có thể kích hoạt hồi chuyển để nhìn lên hoặc xuống bất cứ lúc nào bằng cách đẩy cần.",
     "GamepadFlickStick_Description_XSX": "Bật Cần Gạt. Khi được bật, hãy hướng cần phải trên bộ điều khiển theo bất kỳ hướng nào để gạt nhanh camera theo hướng đó. Ví dụ: kéo cần về phía sau sẽ gạt nhanh ra phía sau bạn. Sau khi đã gạt cần, hãy xoay cần để điều chỉnh hướng của bạn.\n\nVì điều này có nghĩa là bạn sẽ không thể ngắm lên xuống bằng cần nữa, tốt nhất là phải luôn bật Ngắm Hồi Chuyển hoặc cài đặt Hiệu Ứng cần phải thành BẬT. Khi đó, bạn có thể kích hoạt hồi chuyển để nhìn lên hoặc xuống bất cứ lúc nào bằng cách đẩy cần.",
-    "AutoDownloadHighResTextures_Description": "Cho phép Fortnite tự động tải về kết cấu có độ phân giải cao. Kết cấu có độ phân giải cao hơn khiến Fortnite trông chi tiết hơn.\n\nLƯU Ý: Kết nối internet chậm hoặc thiết bị có dung lượng ổ cứng hạn chế có thể gặp sự cố hiệu suất khi trò chơi đang tải về kết cấu có độ phân giải cao. Tắt tính năng này có thể giúp cải thiện hiệu suất và tiết kiệm dung lượng ổ đĩa.\n\nBẬT: Fortnite sẽ tự động tải về kết cấu có độ phân giải cao.\n\nTẮT: Fortnite sẽ không tự động tải về kết cấu có độ phân giải cao.",
     "EasyLootGridEnabled_Description": "Kích hoạt tiện ích có thể cuộn, hiển thị các vật phẩm gần đó. Sau đó, bạn có thể nhặt một vật phẩm từ đó bằng cách nhấp vào nó thay vì phải nhấp vào tiện ích vật phẩm thực tế trong cảnh.",
     "EnergySavingIdle_Description": "Bật tiết kiệm năng lượng khi trò chơi chuyển sang chế độ nhàn rỗi ở giao diện chính. Chế Độ Nhàn Rỗi bắt đầu sau 30 giây không hoạt động.",
     "EnergySavingFocus_Description": "Bật tiết kiệm năng lượng khi cửa sổ trò chơi không phải là cửa số đang hoạt động.",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "Bật hỗ trợ camera có nghĩa là camera sẽ chủ động hướng theo khi bạn di chuyển nhân vật của mình, do đó bạn không cần điều khiển camera thủ công nếu không cố gắng ngắm vào thứ gì đó.",
     "AutoCenter_Description": "Bật cài đặt này sẽ kéo camera về phía đường chân trời khi bạn di chuyển mà không ngắm hoặc bắn. Cài đặt này có thể giúp những người chơi mới thường vô tình nhìn xuống đất hoặc lên trời, hoặc những người chơi sử dụng cần điều khiển quét mà chỉ kích hoạt ngắm bằng con quay trong một số chế độ ngắm cụ thể.",
     "EnergySavingCollection_Name": "Tiết Kiệm Năng Lượng",
-    "InstalledTextureQualityEpic": "Sử Thi",
     "PostProcessingQualityEpic": "Sử Thi",
     "ShadowEpic": "Sử Thi",
     "TextureQualityEpic": "Sử Thi",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "Dành cho súng trường bắn tỉa. Thay vì bắn khi bạn ấn nút tầm nhìn & bắn cảm ứng, bắn súng trường bắn tỉa khi bạn thả nút tầm nhìn & bắn cảm ứng. Điều này nghĩa là bạn có thể ngắm cú bắn bằng một ngón tay và sau đó thả chính ngón tay đó ra để bắn. Các nút bắn khác vẫn sẽ bắn khi ấn.",
     "ContinuousFireGameplay_Description": "Đối với vũ khí đòi hỏi bạn phải nhả và bóp cò lại cho mỗi phát bắn, bật cài đặt này cho phép bạn chỉ cần giữ cò để bắn liên tục (với tốc độ bắn giảm).",
     "FortniteCredits_Name": "Tri Ân Fortnite",
-    "PredownloadCosmetics_Description": "Fortnite truyền phát kết cấu trang trí vì chúng xuất hiện trong game. Khi bật tính năng này, bạn sẽ tải trước tất cả những kết cấu thay vì chỉ tải khi gặp chúng trong game. Làm vậy sẽ sử dụng nhiều dung lượng ổ đĩa hơn, nhưng sẽ giúp Fortnite có hình ảnh sắc nét hơn mà không tốn băng thông. Nó có thể cải thiện chất lượng hình ảnh của Fortnite nếu bạn thường xuyên chơi bằng mạng dữ liệu di động.\n\nKhông: Fortnite sẽ xóa toàn bộ kết cấu trang trí đã tải về trước đó và sẽ không tải về sẵn chúng trong tương lai.\n\nCó: Fortnite sẽ tải về và cài đặt sẵn tất cả kết cấu chất lượng cao.\n\n",
     "ParsleyIdle_Description": "Fortnite sẽ chuyển sang Chế Độ Ngủ sau khi bạn không hoạt động trong số phút đã cài đặt. Cài đặt này áp dụng cho tất cả các thiết bị mà bạn đã đăng nhập.",
     "FlickForwardDeadZone_Name": "Vùng Chết Phía Trước",
     "KeyboardMovementForwardDiagonal_Name": "Góc Chéo Tiến",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "Ẩn tài khoản mạng xã hội đã liên kết khỏi bạn bè.",
     "EFortSubtitleBackgroundOpacity_High": "Cao",
     "GeometryQualityHigh": "Cao",
-    "InstalledTextureQualityHigh": "Cao",
     "PostProcessingQualityHigh": "Cao",
     "ShadowHigh": "Cao",
     "SoundQuality_High": "Cao",
     "TextureQualityHigh": "Cao",
     "VisualEffectQualityHigh": "Cao",
     "GyroAcceleration_High": "Cao (4x)",
-    "AutoDownloadHighResTexturesReminders_Name": "Lời Nhắc Kết Cấu Độ Phân Giải Cao",
     "EnableNanite_Description": "Kết xuất hình học cao cấp thông qua Nanite giúp cải thiện chi tiết hình học, nhưng có thể giảm tốc độ khung hình. Bản Đồ Vùng Tối Ảo sẽ được sử dụng khi Nanite được bật để tăng chất lượng đổ bóng.",
     "MeshQuality_Description": "Cài đặt hình học ở mức cao hơn cho vật thể có hình dáng chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.",
     "TextureQuality_Description_Default": "Cài đặt kết cấu ở mức cao hơn cho vật thể phẳng có vẻ ngoài chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.",
-    "TextureQuality_Description_NoHighMips": "Cài đặt kết cấu ở mức cao hơn cho vật thể phẳng có vẻ ngoài chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.\n\nKết cấu chất lượng cao không được cài đặt. Bạn có thể tải về kết cấu chất lượng cao từ Epic Games Launcher trong Tùy Chọn Cài Đặt Fortnite.",
+    "TextureQuality_Description_NoHighMips": "Cài đặt kết cấu ở mức cao hơn cho vật thể phẳng có vẻ ngoài chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.\n\n<Icon.Warning></> Kết cấu chất lượng cao không được cài đặt. Bạn có thể tải về kết cấu chất lượng cao từ Epic Games Launcher trong Tùy Chọn Cài Đặt Fortnite.",
     "Hitmarkers_Name": "Dấu Trúng Đích",
     "AutoClamber_On": "Giữ Nút Tiến Trước",
     "AutoHurdle_On": "Giữ Nút Tiến Trước",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "Thấp",
     "GeometryQualityLow": "Thấp",
-    "InstalledTextureQualityLow": "Thấp",
     "PostProcessingQualityLow": "Thấp",
     "SoundQuality_Low": "Thấp",
     "TextureQualityLow": "Thấp",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "Tầm Nhìn (FOV) Tối Đa",
     "EFortSubtitleBackgroundOpacity_Medium": "Vừa",
     "EFortSubtitleTextSize_Medium": "Vừa",
-    "InstalledTextureQualityMedium": "Vừa",
     "PostProcessingQualityMedium": "Vừa",
     "ShadowMedium": "Vừa",
     "TextureQualityMedium": "Vừa",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "Vui lòng kiểm tra cài đặt hệ thống của bạn để bật hoặc tắt Âm Thanh 3D.\nCài đặt này không phản ánh hiện trạng của Âm Thanh 3D vì Fortnite tắt chế độ Tai Nghe 3D để ưu tiên giải pháp Âm Thanh 3D được cung cấp bởi Hệ Điều Hành của bạn.",
     "RestartConfirmationDescription": "Vui lòng khởi động lại game để mọi thay đổi có hiệu lực.",
     "WarningAboutToUseAdvancedOptions_Message": "Vui lòng cẩn trọng khi thay đổi tùy chọn nâng cao.  Cài đặt không chính xác có thể tác động tiêu cực đến khả năng ngắm bắn của bạn.",
+    "VirtualPointerHapticIntensity_Name": "Cường Độ Phản Hồi Xúc Giác Con Trỏ",
+    "VirtualPointerCursorOpacity_Name": "Độ Mờ Con Trỏ",
+    "VirtualPointerSpeed_Name": "Tốc Độ Con Trỏ",
     "PostProcessingQuality_Name": "Hậu Kỳ",
     "PostProcessingQuality_Description": "Hiệu ứng Hậu Kỳ bao gồm Độ Mờ Chuyển Động, Độ Sâu Trường Ảnh và Độ Chiếu Sáng. Tăng chỉ số cài đặt này sẽ cải thiện chất lượng của hiệu ứng hậu kỳ, nhưng có thể làm giảm hiệu suất.",
     "UsePowerSavingMode_Name": "Chế Độ Tiết Kiệm Năng Lượng",
-    "PredownloadCosmetics_Name": "Tải Sẵn Kết Cấu Trang Trí",
     "AimAssistSlowStrength_Name": "Cường Độ Hỗ Trợ Ngắm Bắn Chính Xác",
     "PreferredFilledMatchAudioChannel_Name": "Kênh Ưa Thích (Đã Bật Lấp Đầy)",
     "EnablePreferredItemSlots_Name": "Ô Vật Phẩm Ưu Tiên",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "Dừng Kết Xuất Ở Nền",
     "StopRenderingInBackground_Description": "Dừng kết xuất khi màn hình trò chơi không tập trung khi có thể. Giải phóng tài nguyên GPU để cho các ứng dụng khác.",
     "KeyboardMovementStrafeDiagonal_Name": "Góc Bắn Phá Trên Cao",
-    "CosmeticStreaming_Name": "Truyền Phát Vật Phẩm Trang Trí",
     "SubtitlePage_Name": "Phụ Đề",
     "SubtitlesCollection_Name": "Phụ Đề",
     "Subtitles_Name": "Phụ Đề",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "Đổi điều khiển di chuyển từ Cần Trái sang Cần Phải.",
     "AutoImportFriends_Name": "Đồng Bộ Hóa Danh Sách Bạn Bè Của Bạn",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "TSR Sử Thi",
     "AntiAliasingMethodTSRHigh": "TSR Cao",
     "AntiAliasingMethodTSRLow": "TSR Thấp",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "Màu Văn Bản",
     "TextChatRTR": "Báo Cáo Văn Bản",
     "SubtitleTextSize_Name": "Kích Cỡ Văn Bản",
-    "InstalledTextureQuality_Name": "Chất Lượng Kết Cấu",
     "TextureQuality_Name": "Kết Cấu",
     "LumenRequiresD3D12": "Cài đặt 'Chế Độ Kết Xuất' phải được đăt là 'DirectX 12' để bật Quang Thông.",
     "NaniteRequiresD3D12": "Cài đặt 'Chế Độ Kết Xuất' phải được đăt là 'DirectX 12' để bật Nanite.",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "Tầm Nhìn xác định khoảng cách các vật thể được lựa chọn để tối ưu hiệu suất.",
     "TimeReportsActionDescription": "Xem tổng thời gian con bạn đã dành cho Fortnite, Sáng Tạo Vô Biên và Unreal Editor cho Fortnite (UEFN) mỗi tuần.",
     "LegalInformation_Description": "Xem thông tin pháp lý.",
+    "VirtualCursorCollection_Name": "Con Trỏ Ảo",
     "VisualizeSoundEffects_Name": "Trực Quan Hóa Hiệu Ứng Âm Thanh",
     "VisualizeSoundEffectsPriority_Name": "Ưu Tiên Trực Quan Hóa Hiệu Ứng Âm Thanh",
     "VoiceChat": "Đàm Thoại",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "Khi được bật, các hành động Chỉnh Sửa Đơn Giản yêu cầu nhấn giữ có thể được bắt đầu chỉ bằng một lần nhấn và sẽ tự động hoàn tất ngay sau đó.\n\nKhi bị tắt, bạn phải nhấn giữ trong toàn bộ thời gian cần thiết.",
     "TapQuickEdit_Description_XSX": "Khi được bật, các hành động Chỉnh Sửa Đơn Giản yêu cầu nhấn giữ có thể được bắt đầu chỉ bằng một lần nhấn và sẽ tự động hoàn tất ngay sau đó.\n\nKhi bị tắt, bạn phải nhấn giữ trong toàn bộ thời gian cần thiết.",
     "AutoFireDescription": "Khi bật tính năng này, các vũ khí tương thích sẽ tự động khai hỏa khi bạn ngắm vào kẻ địch.",
-    "TapToShootDescription": "Khi bật tính năng này, hãy bắn bằng cách bấm vào bất cứ đâu trên màn hình.",
+    "TapToShootDescriptionAndPriority": "Khi bật tính năng này, hãy bắn bằng cách nhấn vào vị trí bất kỳ trên màn hình. Có thể được ưu tiên hơn các cài đặt nhấn khác.",
     "ADSFire_Description": "Khi bật, ấn vào nút cảm ứng nhìn & bắn cũng sẽ khiến ngắm qua ngóc nhìn của vũ khí/của ống ngắm. Khi Giữ nghĩa là dừng ấn nút cảm ứng nhìn & bắn cũng sẽ thoát khỏi ngắm bắn qua phụ kiện/ống ngắm.",
     "MinimapPlayerAlwaysFaceNorth_Description": "Khi bật, Bản Đồ Nhỏ xoay dựa trên hướng người chơi đang đối diện. Biểu tượng trụ đánh dấu người chơi sẽ không xoay. (Hiệu quả nhất khi Bật cài đặt Bản Đồ Tròn)",
     "CircularMinimap_Description": "Khi bật, Bản Đồ Nhỏ sẽ hiển thị trong một hình tròn thay vì hình vuông (Hiệu quả nhất khi Bật cài đặt Khóa Xoay Bản Đồ Nhỏ)",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "Vào Mục Kiểm Soát Của Phụ Huynh",
     "VoiceChatDisabled_LearnMore": "Tìm Hiểu Thêm",
     "VoiceChatDisabled_ParentalControlsButtonOther": "Mở Kiểm Soát Của Phụ Huynh",
+    "VoiceChatDisabledDescription_Other": "Tính năng này đã bị tắt cho bạn. ",
     "VoiceChatDisabled_TurnOnFromPanel": "Bật Đàm Thoại",
     "VoiceChatDisabledDescription_Parental": "Đàm Thoại của bạn bị tắt do cài đặt Kiểm Soát Của Phụ Huynh của bạn.",
     "VoiceChatDisabledDescription_Platform": "Bạn không thể Đàm Thoại do cài đặt quyền riêng tư trên máy chơi console của bạn.",
-    "VoiceChatDisabledDescription_User": "Bạn không thể Đàm Thoại do cài đặt Đàm Thoại của bạn. Hãy thay đổi chúng dưới đây!",
-    "VoiceChatDisabledDescription_Other": "Bố mẹ hoặc người giám hộ của bạn đã giới hạn tính năng này thông qua chế độ Kiểm Soát Của Phụ Huynh. "
+    "VoiceChatDisabledDescription_User": "Bạn không thể Đàm Thoại do cài đặt Đàm Thoại của bạn. Hãy thay đổi chúng dưới đây!"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "Không Thể Thay Đổi Chế Độ Chơi",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "Lỗi gửi tin nhắn:{0}",
     "HiddenPlayerSays": "Người chơi đã ẩn nói: ",
     "BlockedPlayerMessage": "Tin Nhắn Đã Bị Ẩn",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "Chat văn bản đã bị tắt vì máy khách này đang ở chế độ giải đấu.",
     "TextChatEnabled": "Chat văn bản đã được bật.",
     "DisabledBySocialBan": "Chat văn bản văn bản đã bị tắt do lệnh cấm giao lưu trên tài khoản của bạn.",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "Không thể bắt đầu ghép trận.",
     "FortMatchmakingContext_WarningDialogTitle": "Cảnh Báo Ghép Trận",
     "NoFill": "KHÔNG LẤP ĐẦY",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "Không Có Nhiệm Vụ Nào",
+    "FortMatchmakingContext_NoMissionsForProgress": "Không Có Nhiệm Vụ Nào",
+    "FortMatchmakingContext_NoMissionsInTheater": "Không Có Nhiệm Vụ Nào",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "Không Có Nhiệm Vụ Nào ở tiến độ hiện tại của bạn.\nHãy thử chọn Chơi Nhanh hoặc Tùy Chỉnh.",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "Không Có Nhiệm Vụ Nào trong Rạp Hát hiện tại.\nHãy thử chọn một Rạp Hát khác.",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "Không có nhiệm vụ ở Cấp Độ Sức Mạnh đã cấp.\nHãy thử chọn một Cấp Độ Sức Mạnh khác.",
     "Private": "RIÊNG TƯ",
     "Public": "CÔNG KHAI",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "Phe không có đủ sức mạnh để chơi nhiệm vụ này. Hãy thử chọn một nhiệm vụ ít khó khăn hơn, thay đổi phe của bạn hoặc đặt quyền riêng tư của nhiệm vụ thành Chỉ Bạn Bè hoặc Riêng Tư.",
@@ -10716,6 +10727,10 @@
     "EditFactText": "Chỉnh Sửa Văn Bản Dữ Liệu Thực Tế",
     "EditInPromptEditor": "Chỉnh sửa trong Trình Chỉnh Sửa Lệnh"
   },
+  "LLMSession": {
+    "ModerationMsg": "Phản hồi đã được Kiểm Duyệt",
+    "UnknownRestriction": "Hạn Chế Chưa Xác Định"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "Mở khóa bộ vật phẩm này để bắt đầu nhận phần thưởng"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "Cần nhận tất cả các ưu đãi {GroupName}"
+    "GroupComplete_Member_Incomplete": "Nhận tất cả phần thưởng {GroupName} khác",
+    "GroupComplete_Nonmember_Incomplete": "Nhận tất cả phần thưởng từ {GroupName}"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "Mở khóa vào {Date}"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "Cám ơn bạn vì đã chơi Fortnite!",
     "PurchaseHeader": "Đã nhận được {0}|plural(one=Vật Phẩm,other=Vật Phẩm)"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "Không thể chỉnh sửa Tên Hiển Thị cho vật phẩm trang trí NPC này."
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "Thêm Theo Dõi",
     "AddTrack_ToolTip": "Tạo theo dõi hành động mới"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "Micrô Mở",
     "ChannelPreferredSocial": "Kênh Ưa Thích",
     "VoiceChatRestricted_Parental": "Bị Hạn Chế Bởi Chế Độ Kiểm Soát Của Phụ Huynh",
+    "VoiceChatRestricted_Other": "Tính năng này đã bị tắt cho bạn. ",
     "VoiceChat_UserSocial": "Đàm Thoại",
     "VoiceChatParentDisabled": "Đàm Thoại Bị Vô Hiệu Hóa Bởi Chế Độ Kiểm Soát Của Phụ Huynh",
     "VoiceIndicatorsSocial": "Chỉ báo Thoại",
     "VoiceMethod": "Phương Thức Thoại",
-    "VoiceVolumeSocial": "Âm Lượng Thoại",
-    "VoiceChatRestriced_Other": "Bố mẹ hoặc người giám hộ của bạn đã giới hạn tính năng này thông qua chế độ Kiểm Soát Của Phụ Huynh. "
+    "VoiceVolumeSocial": "Âm Lượng Thoại"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "Kênh Tiếng Vọng",

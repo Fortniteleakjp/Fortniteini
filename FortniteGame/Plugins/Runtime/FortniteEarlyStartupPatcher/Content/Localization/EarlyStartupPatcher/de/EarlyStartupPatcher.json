@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Du bist im Begriff, Fortnite-Inhalte herunterzuladen, während auf deinem Gerät der Datensparmodus aktiviert ist. Dabei müssen ungefähr {DownloadSizeEstimate} heruntergeladen werden.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Achtung: Du bist im Begriff, Fortnite-Inhalte über mobile Daten herunterzuladen. Dabei müssen ungefähr {DownloadSizeEstimate} heruntergeladen werden.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "Du benötigst zusätzlich {SpaceAdditional}, um Fortnite zu installieren.\n\nSchaffe Platz auf deinem Gerät und versuche es erneut.\n\n1. Gehe zu den Einstellungen\n\n2. Wähle Allgemein\n\n3. Wähle iPhone-/iPad-Speicherplatz\n\n4. Entfernen sonstiges Apps oder Medien\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0} %"
   },
   "FortniteShaderCompileScreen": {

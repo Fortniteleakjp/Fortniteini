@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "端末で「低データモード」が有効なまま、フォートナイトのコンテンツをダウンロードしようとしています。 これにはおよそ{DownloadSizeEstimate}のダウンロードが必要です。",
     "FortnitePreLoadScreen.CellularDataWarningBody": "フォートナイトのコンテンツダウンロードに、モバイルデータ通信を利用しようとしています。 これにはおよそ{DownloadSizeEstimate}のダウンロードが必要です。",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "フォートナイトをインストールするには、追加で{SpaceAdditional}が必要です。\n\nデバイスの空き容量を増やしてから、もう一度お試しください。1. 設定を開きます。\n\n2. 「一般」を選択します。\n\n3. 「iPhone/iPad ストレージ」を選択します。\n\n4. 不必要なアプリやメディアを削除してください。\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

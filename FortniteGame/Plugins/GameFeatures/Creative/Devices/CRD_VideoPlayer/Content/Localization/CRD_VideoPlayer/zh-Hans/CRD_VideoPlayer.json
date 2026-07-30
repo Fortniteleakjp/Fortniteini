@@ -222,7 +222,7 @@
     "Device_VideoPlayer_V3_C.OnDeviceTransmitMirror.DisplayName": "设备发送镜像时",
     "Device_VideoPlayer_V3_C.On Stream Started.DisplayName": "流送开始时",
     "Device_VideoPlayer_V3_C.Behavior On Other Stream Playing.Description": "一次只能播放一个视频流。如果另一个羊驼机器尝试播放另一个视频流，此羊驼机器会做什么？",
-    "Device_VideoPlayer_V3_C.Override Video for Cabined Accounts.DisplayName": "覆盖受限账户视频",
+    "Device_VideoPlayer_V3_C.Override Video for Cabined Accounts.DisplayName": "覆盖限制账户视频",
     "Device_VideoPlayer_V3_C.RemoteVideoPlay.Description": "用传递给此事件的信息重载当前视频流",
     "Device_VideoPlayer_V3_C.Picture In Picture.DisplayName": "画中画",
     "Device_VideoPlayer_V3_C.Picture-in-Picture Trigger Range.DisplayName": "画中画触发范围",

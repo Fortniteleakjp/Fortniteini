@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "أنت على وشك تنزيل محتوى Fortnite بينما إعداد وضع البيانات المنخفضة مُفعّل على جهازك. سيتطلب هذا تنزيل {DownloadSizeEstimate} تقريبًا.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "أنت على وشك استخدام بيانات شبكة الجوال لتنزيل محتويات لعبة Fortnite. This will require downloading approximately {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "تحتاج إلى مساحة إضافية تبلغ {SpaceAdditional} لتثبيت Fortnite.\n\nفرّغ بعض المساحة على جهازك وحاول مرة أخرى.\n\n1. انتقل إلى الإعدادات\n\n2. حدد عام\n\n3. حدد تخزين iPhone/iPad\n\n4. احذف التطبيقات أو الوسائط الأخرى\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

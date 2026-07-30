@@ -16,6 +16,11 @@
     "UnableToGetPointData": "Girdiden Uzamsal Nokta verisi alınamıyor.",
     "UnableToGetSpatialData": "Girdiden Uzamsal veri alınamıyor."
   },
+  "JunoWorldMutationRulesetDetails": {
+    "EmptyRule": "(boş - bir kural sınıfı seç)",
+    "MultipleRules": "(birden fazla değer)",
+    "RuleRowFormat": "[{0}] {1}"
+  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Yükseklik dokusu verisi alınamadı, başlatma başarısız oldu.",
     "FailExtractGrassTypeOverrides": "Çimen türü geçersiz kılmaları alınamadı."

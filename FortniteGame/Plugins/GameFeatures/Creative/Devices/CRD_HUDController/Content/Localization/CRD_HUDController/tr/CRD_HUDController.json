@@ -78,6 +78,7 @@
     "A7AC22914D2F9B8D0080D89E6F069883": "Gösterge Paneli Kontrol Cihazı",
     "2B47932D4F7D31E52F330984C45BFB06": "Yüksek",
     "5A2463574907D8B5ECA879B7CA70C029": "En Yüksek",
+    "CB633460400C8FA16778E2847474E317": "Ada Özel Kontrol Ayarları",
     "1A8073704B9492845EA5C2AA7941AC6D": "Oyuncuların hangi Gösterge Paneli öğelerinin etkin olacağını belirlemelerini sağlar.",
     "2EF768A54981DC41A0564F96FDA9D578": "Oyuncuların hangi Gösterge Paneli öğelerinin etkin olacağını belirlemelerini sağlar.",
     "256964B440A8B004196737918F1F778C": "Oyuncuların hangi gösterge paneli öğelerinin etkin olacağını belirlemelerini sağlar.",
@@ -219,6 +220,9 @@
     "EAFBC25E4CA0460B796EF99313C117A1": "Evet",
     "EDB615C74D79CE1B0EAA56ACBAFBB958": "Var",
     "F47A59824F0CB40331619AA31791B201": "Evet"
+  },
+  "DeveloperLayoutButtonProxyCustomization": {
+    "ActionRolledBack": "Mevcut özellik çıkışıyla kullanılamaz"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiket"

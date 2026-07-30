@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "คุณกำลังจะดาวน์โหลดเนื้อหา Fortnite ขณะเปิดใช้งานการตั้งค่าโหมดข้อมูลต่ำบนอุปกรณ์ของคุณ ซึ่งจะต้องใช้การดาวน์โหลดประมาณ {DownloadSizeEstimate}",
     "FortnitePreLoadScreen.CellularDataWarningBody": "คุณกำลังจะใช้ข้อมูลเซลลูลาร์เพื่อดาวน์โหลดเนื้อหา Fortnite ซึ่งจะต้องใช้การดาวน์โหลดประมาณ {DownloadSizeEstimate}",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "คุณต้องมี {SpaceAdditional} เพิ่มเติมจึงจะติดตั้ง Fortnite ได้\n\nโปรดเพิ่มพื้นที่ว่างในอุปกรณ์ของคุณแล้วลองอีกครั้ง\n\n1. ไปที่ \"การตั้งค่า\"\n\n2. เลือก \"ทั่วไป\"\n\n3. เลือก \"พื้นที่จัดเก็บข้อมูล iPhone/iPad\"\n\n4. ลบแอปหรือสื่ออื่น ๆ ออก\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

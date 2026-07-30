@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "빅배럴 DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "복엽기",
     "5B5236944941BFD7DE82B8B05FE11D94": "복엽기",
-    "DF56207843F6244003548CA79CFAA0F4": "복엽기",
     "AD9DF9A2455C274907AE29971466ADBA": "블레이드",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "블레이드",
     "7641CC0743ADBB2B2B04ED9883DD8214": "장신구",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "HUD 표시가 아군 표시로 보여지는 팀을 설정합니다. 배지 스타일 아이콘의 경우에만 해당됩니다. ",
     "129650534E9339B784AAB9B5C32678A6": "HUD 아이콘을 볼 수 있는 팀을 설정합니다. 배지 스타일 아이콘의 경우에만 해당됩니다.",
     "9AED3EE2432C86562FC1268D4F02CA40": "HUD 아이콘을 볼 수 있는 팀을 설정합니다. 배지 스타일 아이콘의 경우에만 해당됩니다.",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "다이어",
     "C90BA6D147AC6F970F343F814B24620B": "이동 중 활성화 사용 안 함",
     "BD5501F945FD5E68B86AA19785403260": "탈것 생성 장치에서 탈것이 생성되지 않도록 사용 안 함 상태로 설정합니다.",
     "BD1640424CA1561290BF568D12001009": "선택한 채널로 신호를 수신하면 이 생성 장치를 사용 안 함 상태로 설정합니다.",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "손전등 장착 권총",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "손전등 장착 권총",
     "E576A6EA43FB3390DF995597CC8787B5": "플랫라이너 DX",
+    "EC2248AB4AAE78827455E396D0611068": "보조 텍스트",
     "A7FC866241FA661C68609CB3E03F6CEC": "탑승",
     "01B10F554E9863503405E890B39DCFAA": "포트바이트 주간 도전 6개 확인",
     "43DA2A90437D506CE8205EAFABE1CBD6": "포트바이트 주간 도전 6개 확인",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "그레이브야드 스위치턴",
     "A4341A0045390C670F4757948E6E3CE5": "그레이브야드 쓰나미",
     "F0737F4E40417749A441A59843B932F0": "그레이브야드 보이저",
-    "8B52C5AD4891876163EE09B5632D41E8": "위대함은 영원하다.",
     "0B5C62D0400E95930AEE12B1D2116EE2": "초록색",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "그라인드",
     "0527EEDF4C1C3DC79266D49836DEF54C": "동굴 키카드",
     "7F90D27A40A35D195B511AAE906A6A36": "동굴 키카드",
     "7E6F527B407E9A6E8B1FED863069924E": "총기 돌격소총 기관총 소형탄환 자동",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "핸드캐넌",
     "89587ADB427212BBA1354BB2C1FF6E8F": "핸드캐넌",
     "9CBF2A9D457F7567D62990B2A189E194": "핸드캐넌 +",
-    "50894D884F5D8695DB841F90521FCF55": "행타임",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "불필요한 부모와 모듈 보유",
     "64F8ED534DCB3384F84C0BA28011E1FA": "불필요한 부모와 모듈 보유",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "불필요한 부모와 모듈 보유",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "레이지 플랫라이너",
     "CA6D0D87420CCE166090BAB2B3B09E44": "레이지 지플립",
     "8DEE71084CFD3D885BB21C8D75A996A1": "레이지 라운더",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "무리의 리더입니다.",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "처치된 장소에 <Emphasized>근접 폭발 지뢰</>를 남김",
     "C249F11F41E9E062B8B2E7852084DFB9": "왼쪽",
     "3DA57402427AD07E9EEF1182BFB26A44": "왼쪽 꼬리",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "반복 없음",
     "400B329C4C3CFA025EA0409641DF37CB": "없음",
     "6B12549A41998E4E0A87668FD5B4D36C": "없음",
+    "8456D15B451996C5FCF369A843AE73FA": "없음",
     "B67463454D0A16C5C16CBB999DCAA7AC": "없음",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "없음",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "없음",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "보통",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "보통",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "신경 쓰지 마세요. 그냥 <Emphasized>움직이는 상자</>입니다.",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "Null 토큰",
     "2A743E1048A4D22ED47940B99A99FD94": "OG 패스",
     "2FA98907484D5AA64173C5B93C5D30F1": "목표",
     "2AE212EE406A3146388589A8AFC54CF3": "오션의 점사 돌격소총",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "플레이어가 차지할 수 있는 인피니티 블레이드를 설치합니다.",
     "1F62B87A4BC128082F4198855D3F6FDE": "플레이어가 차지할 수 있는 인피니티 블레이드를 설치합니다.",
     "9EC314644018A0419EA1F482397A0E43": "길을 안내하는 웨이포인트를 배치합니다.",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "플레이어 설문조사 참가 자격 토큰",
     "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "내려놓기",
     "3B2F170F40934B3A5C46F1B55E412D4A": "어서 불을 끄세요!",
     "43088BA143F2B6BCAEE378847172BE8C": "쿼드크래셔",
-    "CC13E7A44B19B6541560D085C426791D": "쿼드크래셔",
     "393E9456499B520AC90D5E8597A7D23D": "<Emphasized>마지막 탄환 5발</>이 <Emphasized>주는 피해가 증가</>하는 조용한 기관단총",
     "43E272F8443991243556F0AB98EC9BBE": "리얼리티 스톤",
     "2A5097B944627605414956BB8AE4337B": "랜덤",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "소음기 장착 기관단총",
     "DDDAFD77445379EE9BAF399713A063D6": "생존자",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "수영 <Emphasized>속도 증가</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "스위시",
     "E928E3A54C017ABB67564BB0EE06B190": "프로필 전환",
     "85D867BC4BF95138BD5A05A4705FB62F": "좌석 변경",
     "8F0C992C457A0ED11DC7F089C2563C02": "좌석 변경",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "강한 생명력",
     "50B5E23B4F691D00F8BE3C984622679F": "팀 표시",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "팀 표시",
-    "8FF029D544B7EC9500BD199AEE1CE927": "경기장을 지배하세요",
-    "E15F90714DA6FDFD9053248626AB156F": "경기장을 지배하세요",
     "03E580304DC6BBC29D3304B6E0D4105A": "기술 업그레이드",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "기술 업그레이드",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "기술 업그레이드",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "겨울축제 열쇠",
     "194B94D745612B291C0C0CAC0487B727": "마녀의 빗자루",
     "EFCEF17944284794FC6D49B915B991EE": "마녀의 빗자루",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "레스",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X 표식 찾기!",
     "D40AA64648243870B6889FA424D3E046": "X-4 스톰윙",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "총합"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "취소"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</> / {RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "시즌 {0}",
     "ChapterSeasonTextFormat": "{0}, {1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "관전을 시작할 수 없습니다. 매치가 종료되었거나, 매치를 관전할 수 있도록 계정이 설정되어 있지 않을 수 있습니다."
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} V-BUCKS",
     "StarterKitOfferContent": "{0} V-Bucks + {1}가지 아이템"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}액터 {1}이(가) 다른 {2} 액터와 겹칩니다."
+    "AddingOverlappingActors": "{0}'{1}' 액터가 다른 {2} 액터('{3}')와 겹칩니다."
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "프로파일러 통계 이벤트",
     "AnimNodeProfilerStatEventTooltip": "프로파일러 통계 이벤트",
     "QuadrupedSlopeWarping": "사족 경사로 발 맞춤",
+    "RootSlopeTilt": "루트 경사 기울이기",
     "ScaleCharacterBones": "스케일 캐릭터 본",
     "PredictiveStrideWarpingTooltip": "발 예측 본으로 바디 움직임을 예상하고, 이동 속도에 맞춰 발 역운동학(IK)을 조절합니다.",
     "SpeedWarpingTooltip": "이동 속도에 맞춰 발 역운동학(IK)을 조절합니다.",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "허스크 유형에 따라 뼈를 조절합니다. (드워프 허스크는 작지만 머리가 큽니다.)",
     "SetIKTarget_Description": "발 IK 대상 설정",
     "SpeedWarping": "속도 발 맞춤",
+    "RootSlopeTiltTooltip": "스켈레톤 루트를 범위제한된 비율만큼 지면 법선으로 기울여, 이후 경사 왜곡 노드가 이미 기울어진 바디에 대해 사지를 다시 계산하도록 합니다.",
     "TransformRollerTreads": "롤러/트레드 변환",
     "TransformRollerTreadsTooltip": "롤러를 트레드 탈것으로 변환합니다."
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ - 연결된 링크 그래프를 찾지 못했습니다",
     "FortAnimNode_LinkedGraphGate_ToolTip": "연결된 애니메이션 그래프 또는 레이어를 게이팅해 연결된 인스턴스가 비활성화되었을 때 업데이트를 방지합니다",
     "Title": "연결된 그래프 게이트"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "플레이어를 찾을 수 없음",
+    "NoPlayersToJoin_Desc": "현재 이곳에는 플레이 중인 다른 플레이어가 없습니다.\n나만의 세션으로 계속하시겠습니까?"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "음성 비활성화"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>플레이 일정</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "시점 무관",
     "PlaytimeScheduleEveryDay": "매일",
     "PlaytimeScheduleFriday": "금요일",
     "PlaytimeScheduleMonday": "월요일",
+    "PlaytimeScheduleNoWindow": "허용된 시간대 없음",
     "PlaytimeScheduleSaturday": "토요일",
     "PlaytimeScheduleSunday": "일요일",
     "PlaytimeScheduleThursday": "목요일",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "새로운 {0}!",
     "quest_reward_grant_quest": "목표 완료"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "준비된 플레이어: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "이미 배틀패스 {0}레벨 도달",
     "PurchaseNotAllowed_FounderPack": "{0}|hpp(을,를) 구매하려면 부모나 보호자가 자녀 보호 설정에서 계정 설정을 완료해야 합니다.",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">켜기</>: 자녀가 음성 및 자유 텍스트 소통을 통해 에픽게임즈 제품의 AI 기능과 상호작용할 수 있습니다. 여기에는 포트나이트의 대화형 AI NPC와의 상호작용이 포함됩니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">끄기</>: 자녀가 음성과 텍스트 소통을 통해 에픽게임즈 제품의 AI 기능과 상호작용할 수 없습니다.\n\n참고: 이 기능은 AI 기반 지원센터 상호작용에는 적용되지 않습니다.",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">켜기</>: 자녀가 랜덤 보상 아이템이나 콘텐츠에 V-Bucks(또는 V-Bucks로 구매한 콘텐츠)를 사용할 수 있습니다. \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">끄기</>: 자녀가 랜덤 보상 아이템이나 콘텐츠에 V-Bucks(또는 V-Bucks로 구매한 콘텐츠)를 사용할 수 없습니다.",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">켜기</>: 자녀가 포트나이트에서 게임과 경험을 디자인할 수 있고 친구가 경험을 디자인하는 동안 참가할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">끄기</>: 자녀가 포트나이트에서 게임과 경험을 디자인할 수 없고 친구가 경험을 디자인하는 동안 참가할 수 없습니다.\n\n참고: 포트나이트 경험을 디자인할 때, 아직 포트나이트 퍼블리싱 검토를 받지 않아 등급이 배정되지 않은 콘텐츠와 상호작용할 수 있습니다.\n\nfn.gg/creative에서 포크리에 대해 자세히 알아보세요.",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">장식 아이템 텍스처 사전 다운로드 기능을 활성화하면 용량을 {InstallSize}만큼 더 사용합니다.</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">청약철회 티켓 {0}개 이용 가능</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">구매 취소</>\n\nV-Bucks로 진행된 의도치 않은 구매를 취소할 수 있습니다. 구매 취소는 구매한 상품을 게임플레이에서 장착하거나 사용할 때까지 유효합니다. 최근 24시간 이내에 구매한 아이템만 구매 취소할 수 있습니다.\n\n자세한 정보는 fn.gg/cancelpurchase를 참조하세요\n\n<text size=\"24\">구매 청약철회</>\n\nV-Bucks로 의도치 않게 아이템을 구매했는데 구매 취소가 불가능해진 경우, 1년에 3번까지 이용할 수 있는 청약철회 티켓을 사용할 수 있습니다. 12개월마다 청약철회 티켓이 하나씩 지급되며, 최대 3개까지 보유할 수 있습니다. 마지막으로 티켓을 부여받은 날로부터 12개월 뒤에 새로운 티켓이 주어집니다.\n\n최근 30일 전에 구매한 아이템만 청약철회할 수 있습니다. 즉시 소모되는 아이템(배틀패스, 배틀패스 레벨, 라마 등)은 청약철회할 수 없습니다.",
     "ScopedSpeedMultiplier_Description": "조준경 장착 무기로 조준 중 보기 감도에 적용되는 배수입니다.  1배보다 낮게 설정하면 조준경 장착 무기로 조준 중 감도가 낮아집니다.  1배보다 높게 설정하면 조준경 장착 무기로 조준 중 감도가 높아집니다.",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "어댑티브 트리거",
     "TriggerHapticsStrength_Name": "어댑티브 트리거 강도",
     "UserInterfaceContrast_Description": "사용자 인터페이스의 대비 효과를 조정합니다.",
+    "VirtualPointerCursorOpacity_Description": "화면 포인터의 불투명도를 조정합니다. 값이 낮을수록 포인터가 더 투명해집니다.",
+    "VirtualPointerSpeed_Description": "화면 포인터 이동 속도를 조절합니다. 5는 기본 속도 값입니다. 값이 낮을수록 느려지고, 값이 높을수록 빨라집니다.",
     "Brightness_Description": "밝기를 조절합니다.",
+    "VirtualPointerHapticIntensity_Description": "화면 포인터를 사용할 때 햅틱 피드백의 강도를 조절합니다.",
     "AdvancedAimSensitivityCollection_Name": "고급 - 조준사격(ADS) 감도",
     "BasicLookOptionsCollection_Name": "고급 - 보기 감도",
     "SuperAdvancedSensitivityCollection_Name": "고급 - 감도",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "음성 받아쓰기 허용",
     "AllowNotifications_Description": "알림을 허용하고 콘텐츠 다운로드, 친구 및 파티 초대, 새로운 시즌, 기간 한정 이벤트, 발표 및 홍보 알림을 받아보세요. 이 설정은 언제든지 구성할 수 있습니다.",
     "AmpleHammer_DetailName": "AI 기능과 음성 및 텍스트 소통 허용",
-    "AutoDownloadHighResTexturesReminders_Description": "고해상도 텍스처 자동 다운로드 기능을 다시 켜라는 알림을 허용합니다.\n\n노트: 알림은 이 기능을 사용하는 데 필요한 하드 드라이브 공간이 충분하고 자동 다운로드 기능이 '끄기'로 설정되어 있을 때만 나타납니다.\n\n끄기: 포트나이트가 고해상도 텍스처 활성화 알림을 보내지 않습니다.\n\n켜기(기본값): 포트나이트가 고해상도 텍스처 활성화 알림을 보냅니다.\n\n",
     "AllowLowPower_Description": "게임에서 자동으로 전력 사용량을 절약하도록 설정합니다.",
     "LockPrimaryInputMethodToMouse_Description": "컨트롤러 입력과 마우스 입력을 함께 사용할 수 있습니다. 입력 방식이 충돌하지 않고 마우스 및 키보드 제안에 대한 입력 피드백을 잠금합니다.",
     "EnablePreferredItemSlots_Description": "무기 또는 아이템 유형에 선호하는 인벤토리 슬롯을 지정할 수 있는 기능입니다. 미리 지정해 둔 선호 아이템을 주우면 선호 인벤토리 슬롯에 들어갑니다.\n\n지정하지 않은 아이템은 첫 번째 퀵바 슬롯으로 들어가고, 선호 아이템 유형을 주우면 슬롯이 바뀝니다.\n\n• 등급이 더 높고 동일한 아이템을 수집했을 때, 등급이 변경됩니다. (예: 고급 펌프 산탄총은 에픽 펌프 산탄총으로 교체됩니다.) 등급이 더 낮은 아이템은 비어 있는 첫 번째 슬롯에 옮겨집니다.\n\n• 선호 아이템 슬롯 기능 사용 중에도 오른쪽으로 소모품 자동 정렬 기능은 정상적으로 동작합니다.\n\n• 선호 아이템 슬롯 기능은 비어 있는 인벤토리 슬롯이 한 개 이상일 때 사용할 수 있습니다.",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "자동",
     "AutoConfirmEdits_Name": "편집 자동 확정",
     "AutoInteractConsumables_Name": "채집 아이템 자동 사용",
-    "AutoDownloadHighResTextures_Name": "고해상도 텍스처 자동 다운로드",
     "STW_AutoEquipBetterItems_Name": "더 좋은 아이템 자동 장착",
     "AutoFireName": "자동 사격",
     "AutoInteractContainers_Name": "컨테이너 자동 열기",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "텍스트 외곽선을 변경합니다.",
     "SubtitleTextColor_Description": "자막 텍스트 색상을 변경합니다.",
     "SubtitleTextSize_Description": "자막 텍스트 크기를 변경합니다.",
-    "InstalledTextureQuality_Description": "포트나이트 텍스처의 디테일 수준을 선택하세요. 이 설정을 높이면 포트나이트 게임 내에서 보이는 텍스처를 스트리밍하여 디테일이 향상되지만, 네트워크 사용량이 증가하고 장치의 퍼포먼스가 저하될 수 있습니다.\n\n<text color=\"FFFF00\">셀룰러 데이터로 고품질 텍스처를 이용하려면 '셀룰러 데이터 다운로드'를 '켜기'로 설정해야 합니다.</>",
     "Hitmarkers_Description": "대상을 맞혔을 때 재생할 소리를 선택합니다.",
     "TextChat_Desc": "자녀가 그룹, 파티 및 게임에서 메시지를 주고받을 수 있는 대상을 선택하세요. 자녀가 에픽 친구와만 1대1 메시지를 주고받을 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">모두</>: 자녀가 모든 사람과 텍스트 채팅을 할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">친구, 팀원 및 연결된 플레이어</>: 자녀가 에픽 친구, 플랫폼 친구{0}, 팀에 속한 모든 플레이어 및 연결된 플레이어와 텍스트 채팅을 할 수 있습니다. 연결된 플레이어는 친구는 아니지만, 자녀의 친구를 통해 연결된 사람을 의미합니다. 팀 크기는 경험마다 다르며, 몇 명의 플레이어에서 게임 내 모든 사람까지 다양할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">친구만</>: 자녀가 에픽 및 플랫폼 친구와만 텍스트 채팅을 할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">없음</>: 자녀가 누구와도 텍스트 채팅을 할 수 없습니다.\n\n<strong>없음</>으로 설정하더라도, 지원되는 경우 다른 플레이어가 게임 내 안전 문구(예: \"잘했어!\")로 메시지를 보낼 수 있습니다.",
     "VoiceChat_ParentalControls_Description_Expanded": "자녀가 그룹, 파티 및 게임에서 음성으로 대화할 수 있는 대상을 선택하세요.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">모두</>: 자녀가 모든 사람과 음성 채팅을 할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">친구, 팀원 및 연결된 플레이어</>: 자녀가 에픽 친구, 플랫폼 친구{0}, 팀에 속한 모든 플레이어 및 연결된 플레이어와 음성 채팅을 할 수 있습니다. 연결된 플레이어는 친구는 아니지만, 자녀의 친구를 통해 연결된 사람을 의미합니다. 팀 크기는 경험마다 다르며, 몇 명의 플레이어에서 게임 내 모든 사람까지 다양할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">친구만</>: 자녀가 에픽 및 플랫폼 친구와만 음성 채팅을 할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">없음</>: 자녀가 누구와도 음성 채팅을 할 수 없습니다.",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "아무것도 하지 않음",
     "ToggleDoubleTapAutorun_Name": "더블 탭으로 자동 달리기",
     "DownloadDetailsCollection_Name": "다운로드 설정",
-    "CosmeticStreaming_Description": "플레이 중 만나는 필요 장식만 다운로드합니다.\n\n참고: 장식 스트림시 인터넷 속도가 느리면 퍼포먼스 문제가 발생할 수 있습니다. 이 기능을 끄면 디스크 공간이 더 필요합니다.\n\n켜기: 포트나이트 게임 내에서 만나는 장식만 다운로드합니다.\n\n끄기: 포트나이트의 모든 장식을 다운로드합니다.",
     "GyroDisabledWhileDriving_Name": "운전 중 자이로 센서 비활성화",
     "EFortSubtitleTextBorder_DropShadow": "외곽 그림자",
     "CanSeeOtherPlayersNames_Desc": "매치 도중 처치된 플레이어의 계정 이름이 화면에 표시됩니다.\n이 설정을 통해 플레이어 처치 메시지에 같은 스쿼드가 아닌 다른 플레이어들의 이름이 \"플레이어\"로 표시되도록 설정할 수 있습니다.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">참고</>: 같은 \"스쿼드\"에 있는 플레이어들(같은 팀에 있는 최대 3명의 친구 또는 친구가 아닌 다른 플레이어)의 이름은 볼 수 있습니다.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">켜기</>: 같은 스쿼드가 아닌 다른 플레이어들의 이름을 볼 수 있도록 설정합니다.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">끄기</>: 같은 스쿼드가 아닌 다른 플레이어들의 이름을 \"플레이어\"로 표시되도록 설정합니다.\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "플릭 스틱을 활성화합니다. 활성화 후 컨트롤러의 오른쪽 스틱을 아무 방향으로 밀면 카메라를 해당 방향으로 빠르게 이동합니다. 예를 들어 스틱을 뒤로 당기면 자신의 뒤쪽을 봅니다. 스틱을 기울인 후 회전하여 시야를 조정하세요.\n\n스틱으로 더 이상 위아래로 조준할 수 없게 된다는 뜻이므로, 스틱을 조작해 언제든 자이로 센서를 발동하여 위아래를 볼 수 있도록 자이로 센서 조준을 항상 활성화하거나 오른쪽 스틱 효과를 활성화로 설정하는 것이 좋습니다.",
     "GamepadFlickStick_Description_XB1": "플릭 스틱을 활성화합니다. 활성화 후 컨트롤러의 오른쪽 스틱을 아무 방향으로 밀면 카메라를 해당 방향으로 빠르게 이동합니다. 예를 들어 스틱을 뒤로 당기면 자신의 뒤쪽을 봅니다. 스틱을 기울인 후 회전하여 시야를 조정하세요.\n\n스틱으로 더 이상 위아래로 조준할 수 없게 된다는 뜻이므로, 스틱을 조작해 언제든 자이로 센서를 발동하여 위아래를 볼 수 있도록 자이로 센서 조준을 항상 활성화하거나 오른쪽 스틱 효과를 활성화로 설정하는 것이 좋습니다.",
     "GamepadFlickStick_Description_XSX": "플릭 스틱을 활성화합니다. 활성화 후 컨트롤러의 오른쪽 스틱을 아무 방향으로 밀면 카메라를 해당 방향으로 빠르게 이동합니다. 예를 들어 스틱을 뒤로 당기면 자신의 뒤쪽을 봅니다. 스틱을 기울인 후 회전하여 시야를 조정하세요.\n\n스틱으로 더 이상 위아래로 조준할 수 없게 된다는 뜻이므로, 스틱을 조작해 언제든 자이로 센서를 발동하여 위아래를 볼 수 있도록 자이로 센서 조준을 항상 활성화하거나 오른쪽 스틱 효과를 활성화로 설정하는 것이 좋습니다.",
-    "AutoDownloadHighResTextures_Description": "포트나이트 고해상도 텍스처를 자동으로 다운받도록 합니다. 고해상도 텍스처를 사용하면 포트나이트를 더 세부적으로 즐길 수 있습니다.\n\n참고: 게임이 고해상도 텍스처를 다운로드할 때, 인터넷 속도가 느리거나 장치 하드 드라이브 공간이 제한되어 있으면 성능 문제가 생길 수 있습니다. 이 기능을 끄면 성능 향상과 디스크 공간을 아끼는 데에 도움이 됩니다.\n\n켜기: 포트나이트가 고해상도 텍스처를 자동으로 다운로드합니다.\n\n끄기: 포트나이트가 고해상도 텍스처를 자동으로 다운로드하지 않습니다.",
     "EasyLootGridEnabled_Description": "근처 아이템이 표시되는 스크롤 위젯을 사용함으로 설정합니다. 씬의 실제 아이템 위젯을 클릭하는 것이 아니라 이곳에서 아이템을 클릭하여 주울 수 있습니다.",
     "EnergySavingIdle_Description": "프론트엔드에서 게임이 유휴 상태가 되면 에너지 절약을 사용합니다. 30초 동안 움직임이 없으면 유휴 모드가 시작됩니다.",
     "EnergySavingFocus_Description": "게임 창이 활성 창이 아닐 때 에너지 절약을 사용합니다.",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "카메라 보조를 활성화하면 카메라가 캐릭터 이동에 따라 회전하므로, 조준하려는 경우를 제외하면 카메라를 직접 조작하지 않아도 됩니다.",
     "AutoCenter_Description": "설정을 켜면 조준 또는 발사 중이 아닐 때 이동 시 카메라가 수평선 쪽으로 움직입니다. 의도치 않게 땅이나 하늘을 보게 되는 신규 플레이어나, 특정 조준 모드에서 자이로 센서 조준만 활성화하는 플릭 스틱 플레이어에게 유용합니다.",
     "EnergySavingCollection_Name": "에너지 절약",
-    "InstalledTextureQualityEpic": "아주 높음",
     "PostProcessingQualityEpic": "에픽",
     "ShadowEpic": "에픽",
     "TextureQualityEpic": "아주 높음",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "저격소총용입니다. 터치 보기 및 발사 버튼을 누를 때가 아닌, 보기 및 발사 버튼에서 손을 뗄 때 저격소총을 발사합니다. 한 손가락으로 발사할 위치를 맞춘 뒤 그 손가락을 떼서 발사하는 것이 가능합니다. 다른 발사 버튼은 기존처럼 누를 시 발사합니다.",
     "ContinuousFireGameplay_Description": "단발 발사할 때마다 방아쇠를 당겼다가 놓아야 하는 무기의 경우, 이 설정을 활성화하면 방아쇠를 당기고만 있어도 무기를 계속해서 발사합니다(대신 발사 속도 감소).",
     "FortniteCredits_Name": "포트나이트 제작진",
-    "PredownloadCosmetics_Description": "포트나이트는 장식 텍스처가 게임 내에서 보일 때 스트리밍합니다. 이 기능을 켜면 텍스처가 보일 때 다운로드하는 것이 아니라 미리 다운로드합니다. 디스크 공간을 훨씬 더 많이 차지하지만 대역폭에 영향을 주지 않고 포트나이트를 더 세밀하게 묘사할 수 있습니다. 포트나이트를 모바일 데이터 연결로 자주 플레이하는 경우 시각 품질이 향상될 수 있습니다.\n\n끄기: 포트나이트에서 기존에 다운로드한 장식 텍스처를 모두 삭제하고 앞으로 사전 다운로드하지 않습니다.\n\n켜기: 포트나이트에서 고품질 텍스처를 모두 미리 다운로드하여 설치합니다.\n\n",
     "ParsleyIdle_Description": "선택한 분 단위 시간 동안 움직임이 없으면 포트나이트가 수면 모드에 들어갑니다. 이 설정은 로그인한 모든 기기에 적용됩니다.",
     "FlickForwardDeadZone_Name": "전방 데드존",
     "KeyboardMovementForwardDiagonal_Name": "전방 대각선 각도",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "연결된 소셜 미디어 계정을 친구들에게 숨깁니다.",
     "EFortSubtitleBackgroundOpacity_High": "높음",
     "GeometryQualityHigh": "높음",
-    "InstalledTextureQualityHigh": "높음",
     "PostProcessingQualityHigh": "높음",
     "ShadowHigh": "높음",
     "SoundQuality_High": "높음",
     "TextureQualityHigh": "높음",
     "VisualEffectQualityHigh": "높음",
     "GyroAcceleration_High": "높음 (4x)",
-    "AutoDownloadHighResTexturesReminders_Name": "고해상도 텍스처 알림",
     "EnableNanite_Description": "나나이트를 통해 고성능 지오메트리를 렌더링합니다. 지오메트리 디테일이 향상되지만 프레임 속도가 감소할 수 있습니다. 버추얼 섀도 맵은 나나이트가 활성화되었을 때 그림자 품질을 더욱 향상하기 위하여 사용됩니다.",
     "MeshQuality_Description": "기하학 설정이 높을수록 평평한 물체의 모양이 더욱 세밀하게 나타납니다. 이 설정을 높이면 객체가 보다 세밀해지지만 성능이 저하될 수 있습니다.",
     "TextureQuality_Description_Default": "텍스처 설정이 높을수록 평평한 물체가 더 자세히 보입니다. 이 설정을 높이면 객체가 보다 세밀해지지만 성능이 저하될 수 있습니다.",
-    "TextureQuality_Description_NoHighMips": "텍스처 설정이 높을수록 평평한 물체가 더 자세히 보입니다. 이 설정을 높이면 객체가 보다 세밀해지지만 성능이 저하될 수 있습니다.\n\n고품질 텍스처가 설치되지 않았습니다. 에픽게임즈 런처의 포트나이트 설치 옵션에서 다운로드 받을 수 있습니다.",
+    "TextureQuality_Description_NoHighMips": "텍스처 설정이 높을수록 평평한 물체가 더 자세히 보입니다. 이 설정을 높이면 물체가 보다 세밀해지지만 성능이 저하될 수 있습니다.\n\n<Icon.Warning></> 고품질 텍스처가 설치되지 않았습니다. 에픽게임즈 런처의 포트나이트 설치 옵션에서 다운로드할 수 있습니다.",
     "Hitmarkers_Name": "명중음",
     "AutoClamber_On": "전진 길게 누르기",
     "AutoHurdle_On": "전진 길게 누르기",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "낮음",
     "GeometryQualityLow": "낮음",
-    "InstalledTextureQualityLow": "낮음",
     "PostProcessingQualityLow": "낮음",
     "SoundQuality_Low": "낮음",
     "TextureQualityLow": "낮음",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "최대 시야각 (FOV)",
     "EFortSubtitleBackgroundOpacity_Medium": "중간",
     "EFortSubtitleTextSize_Medium": "중간",
-    "InstalledTextureQualityMedium": "중간",
     "PostProcessingQualityMedium": "중간",
     "ShadowMedium": "중간",
     "TextureQualityMedium": "중간",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "3D 오디오를 활성 또는 비활성화하려면 시스템 설정을 확인하세요.\n포트나이트가 3D 헤드폰 모드를 비활성하고 대신 운영 체제의 3D 사운드 솔루션을 활성화했으므로 이 설정은 3D 오디오의 현재 상태를 반영하지 않습니다.",
     "RestartConfirmationDescription": "모든 변경 사항을 적용하기 위해 게임을 다시 실행해 주세요.",
     "WarningAboutToUseAdvancedOptions_Message": "고급 옵션을 변경할 때는 항상 주의하세요. 잘못된 설정은 조준 능력에 부정적인 영향을 줄 수 있습니다.",
+    "VirtualPointerHapticIntensity_Name": "포인터 햅틱 피드백 강도",
+    "VirtualPointerCursorOpacity_Name": "포인터 불투명도",
+    "VirtualPointerSpeed_Name": "포인터 속도",
     "PostProcessingQuality_Name": "포스트 프로세싱",
     "PostProcessingQuality_Description": "후처리 효과에는 모션 블러, 뎁스 오브 필드, 블룸이 포함됩니다. 설정값을 높이면 후처리 효과 품질을 향상시킬 수 있지만, 성능이 저하될 수 있습니다.",
     "UsePowerSavingMode_Name": "절전 모드",
-    "PredownloadCosmetics_Name": "미리 다운로드한 장식 아이템 텍스처",
     "AimAssistSlowStrength_Name": "정밀 조준 보정 강도",
     "PreferredFilledMatchAudioChannel_Name": "선호 채널 (채우기 켜짐)",
     "EnablePreferredItemSlots_Name": "선호하는 아이템 슬롯",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "배경 렌더링 중단",
     "StopRenderingInBackground_Description": "가능한 경우, 게임 화면이 포커싱되어 있지 않을 때 렌더링을 중단합니다. 다른 애플리케이션을 위해 GPU 리소스를 납겨둡니다.",
     "KeyboardMovementStrafeDiagonal_Name": "옆걸음 각도",
-    "CosmeticStreaming_Name": "장식 스트림",
     "SubtitlePage_Name": "자막",
     "SubtitlesCollection_Name": "자막",
     "Subtitles_Name": "자막",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "L 스틱에서 R 스틱으로 이동 조작을 교체합니다.",
     "AutoImportFriends_Name": "친구 목록 동기화",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "TSR 에픽",
     "AntiAliasingMethodTSRHigh": "TSR 높음",
     "AntiAliasingMethodTSRLow": "TSR 낮음",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "텍스트 색상",
     "TextChatRTR": "텍스트 신고",
     "SubtitleTextSize_Name": "텍스트 크기",
-    "InstalledTextureQuality_Name": "텍스처 품질",
     "TextureQuality_Name": "텍스처",
     "LumenRequiresD3D12": "루멘을 사용하려면 '렌더링 모드' 설정이 'DirectX 12'로 설정되어 있어야 합니다.",
     "NaniteRequiresD3D12": "나나이트를 활성화하려면 '렌더링 모드' 설정이 'DirectX 12'로 설정되어 있어야 합니다.",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "시야 거리는 성능 향상을 위해 오브젝트가 렌더링되지 않는 거리를 결정합니다.",
     "TimeReportsActionDescription": "자녀가 매주 포트나이트, 포크리, 포트나이트 언리얼 에디터(UEFN)에서 보낸 시간을 확인합니다.",
     "LegalInformation_Description": "법률 정보 보기",
+    "VirtualCursorCollection_Name": "가상 커서",
     "VisualizeSoundEffects_Name": "사운드 이펙트 시각화",
     "VisualizeSoundEffectsPriority_Name": "음향 효과 시각화 우선순위",
     "VoiceChat": "음성 채팅",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "활성화 시, 버튼을 길게 눌러야 하는 모든 단순 편집 동작을 버튼을 한 번만 눌러도 시작할 수 있으며, 지속 시간이 끝나면 동작이 자동으로 완료됩니다.\n\n비활성화 시, 지속 시간 내내 버튼을 누르고 있어야 합니다.",
     "TapQuickEdit_Description_XSX": "활성화 시, 버튼을 길게 눌러야 하는 모든 단순 편집 동작을 버튼을 한 번만 눌러도 시작할 수 있으며, 지속 시간이 끝나면 동작이 자동으로 완료됩니다.\n\n비활성화 시, 지속 시간 내내 버튼을 누르고 있어야 합니다.",
     "AutoFireDescription": "활성화 시, 지원되는 무기를 적에게 조준하면 자동으로 발사합니다.",
-    "TapToShootDescription": "활성화 시, 화면 아무 곳을 탭하여 발사할 수 있습니다.",
+    "TapToShootDescriptionAndPriority": "활성화 시, 화면 아무 곳을 탭하여 발사할 수 있습니다. 다른 탭 설정보다 우선 적용될 수 있습니다.",
     "ADSFire_Description": "활성화 시 터치 보기 및 발사 버튼을 누르면 조준기/조준경도 사용합니다. 길게 누르기 중으로 설정하면 터치 보기 및 발사 버튼을 뗄 때 조준기/조준경도 사용 중지합니다.",
     "MinimapPlayerAlwaysFaceNorth_Description": "켜기로 설정하면 플레이어가 바라보는 방향으로 미니맵이 회전합니다. 플레이어 마커 아이콘은 회전하지 않습니다. (원형 맵 설정을 켜기로 설정한 경우 가장 효과적)",
     "CircularMinimap_Description": "켜기로 설정하면 미니맵이 사각형이 아닌 원형으로 표시됩니다(미니맵 회전 고정 설정을 켜기로 설정한 경우 가장 효과적)",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "자녀 보호로 이동",
     "VoiceChatDisabled_LearnMore": "자세히 보기",
     "VoiceChatDisabled_ParentalControlsButtonOther": "자녀 보호 열기",
+    "VoiceChatDisabledDescription_Other": "이 기능은 비활성화되었습니다. ",
     "VoiceChatDisabled_TurnOnFromPanel": "음성 채팅 켜기",
     "VoiceChatDisabledDescription_Parental": "자녀 보호 설정으로 인해 음성 채팅이 비활성화되었습니다.",
     "VoiceChatDisabledDescription_Platform": "콘솔의 개인 정보 보호 설정으로 인해 음성 채팅을 이용할 수 없습니다.",
-    "VoiceChatDisabledDescription_User": "음성 채팅 설정으로 인해 음성 채팅을 이용할 수 없습니다. 아래에서 변경하세요!",
-    "VoiceChatDisabledDescription_Other": "부모나 보호자가 자녀 보호 설정에서 이 기능을 제한했습니다. "
+    "VoiceChatDisabledDescription_User": "음성 채팅 설정으로 인해 음성 채팅을 이용할 수 없습니다. 아래에서 변경하세요!"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "게임 모드 변경할 수 없음",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "메시지 전송 중 오류 발생: {0}",
     "HiddenPlayerSays": "숨겨진 플레이어의 메시지: ",
     "BlockedPlayerMessage": "메시지 숨겨짐",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "이 클라이언트가 토너먼트 모드이므로 텍스트 채팅이 비활성화되었습니다.",
     "TextChatEnabled": "텍스트 채팅이 활성화되었습니다.",
     "DisabledBySocialBan": "계정 소셜 밴으로 인해 텍스트 채팅이 비활성화되었습니다.",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "매치메이킹을 시작하지 못했습니다.",
     "FortMatchmakingContext_WarningDialogTitle": "매치메이킹 경고",
     "NoFill": "채우기 없음",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "이용 가능 미션 없음",
+    "FortMatchmakingContext_NoMissionsForProgress": "이용 가능 미션 없음",
+    "FortMatchmakingContext_NoMissionsInTheater": "이용 가능 미션 없음",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "현재 진행도에서 이용 가능한 미션이 없습니다.\n빠른 플레이 또는 커스텀을 선택해 보세요.",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "현재 극장에서 이용 가능한 미션이 없습니다.\n다른 극장을 선택해 보세요.",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "주어진 전력 레벨에서 이용 가능한 미션이 없습니다.\n다른 전력 레벨을 선택해 보세요.",
     "Private": "비공개",
     "Public": "공개",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "이 미션을 플레이하기에는 파티 전력 등급이 낮습니다. 더 쉬운 미션을 선택하거나 파티 구성을 변경해 보세요. 미션 공개 범위를 친구만 또는 비공개로 설정하여 플레이할 수도 있습니다.",
@@ -10716,6 +10727,10 @@
     "EditFactText": "팩트 텍스트 편집",
     "EditInPromptEditor": "프롬프트 에디터에서 편집"
   },
+  "LLMSession": {
+    "ModerationMsg": "응답이 검토되었습니다",
+    "UnknownRestriction": "알 수 없는 제한"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -10829,7 +10844,7 @@
     "MemberJoinedToastTitle": "{0} 님이 팀에 참가했습니다."
   },
   "MessageDispatcher": {
-    "UnknownError": "{ChannelName}에서 알 수 없는 {MessageName} 오류가 발생했습니다.",
+    "UnknownError": "{ChannelName}에서 알 수 없는 {MessageName} 오류가 발생했습니다",
     "ChannelNotValid": "오류: \"{MessageName}\" 채널이 더 이상 유효하지 않습니다. 채널 없음으로 전환됩니다.",
     "EnqueuedTooManyMessagesError": "오류: 대기열에 추가된 메시지가 너무 많습니다. {ChannelName}에서 \"{MessageName}\" 대기열을 건너뜁니다.",
     "TooManyReceiversBoundToChannel": "오류: {ChannelName} 채널에 수신인이 너무 많습니다. 한 채널에 보낼 수 있는 최대 인원 수는 {MaxReceiversPerChannel}명입니다. \"{ReceiverName}\" 님을 채널 없음으로 전환합니다.",
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "이 세트를 잠금 해제하고 보상을 획득하세요!"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "모든 {GroupName} 혜택 획득 필요"
+    "GroupComplete_Member_Incomplete": "다른 {GroupName} 보상 모두 획득",
+    "GroupComplete_Nonmember_Incomplete": "{GroupName}의 모든 보상 획득"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "{Date}에 잠금 해제"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "포트나이트를 플레이해 주셔서 감사합니다!",
     "PurchaseHeader": "아이템 {0}개 획득"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "이 NPC 장식의 표시명은 편집할 수 없습니다."
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "트랙 추가",
     "AddTrack_ToolTip": "신규 액션 트랙 생성"
@@ -12642,8 +12661,8 @@
   },
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "{CategoryName} 보상을 모두 획득해 잠금 해제하세요.",
-    "CategoryStatus_LockedRewardLevelFormat": "보상 {NumRewards}개를 더 획득하거나  {NumLevels}레벨을 달성해 잠금 해제",
-    "CategoryStatus_LockedUntilLevel": "{LevelRequired}레벨을 달성하여 이 세트를 잠금 해제하세요."
+    "CategoryStatus_LockedRewardLevelFormat": "보상 {NumRewards}개를 더 획득하거나  {NumLevels}레벨을 달성해 개방",
+    "CategoryStatus_LockedUntilLevel": "{LevelRequired}레벨을 달성하여 이 세트를 개방하세요."
   },
   "USeasonPassElementBaseVMData": {
     "ElementStatus_LinkedSetLevelLast": "{LevelRequired}레벨을 달성하여 두 세트 모두 잠금 해제하세요.",
@@ -12656,7 +12675,7 @@
     "Status_NoRewardsToClaimFormat": "{Levels}레벨 더 올려 추가 보상 획득",
     "Status_GoToCategoryForMoreRewards": "{CategoryName}에서 더 많은 보상 이용 가능",
     "Status_GoToNextPageForRewards": "{PageNumber}페이지에서 더 많은 보상 획득 가능",
-    "Status_LockedLevelFormat": "또는 {NumLevels}레벨을 달성해 잠금 해제",
+    "Status_LockedLevelFormat": "또는 {NumLevels}레벨을 달성해 개방",
     "Status_PurchaseBattlePassToUnlock": "{PassName} 구매 시 더 많은 보상 잠금 해제",
     "Status_LockedDateLockedFormat": "{Date}에 잠금 해제",
     "Status_PassCompletedAllRewardsClaimed": "{PassName} 보상을 모두 획득했습니다!",
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "오픈 마이크",
     "ChannelPreferredSocial": "선호 채널",
     "VoiceChatRestricted_Parental": "자녀 보호로 제한됨",
+    "VoiceChatRestricted_Other": "이 기능은 비활성화되었습니다. ",
     "VoiceChat_UserSocial": "음성 채팅",
     "VoiceChatParentDisabled": "자녀 보호로 음성 채팅 비활성화",
     "VoiceIndicatorsSocial": "음성 표시",
     "VoiceMethod": "음성 방식",
-    "VoiceVolumeSocial": "음성 볼륨",
-    "VoiceChatRestriced_Other": "부모나 보호자가 자녀 보호 설정에서 이 기능을 제한했습니다. "
+    "VoiceVolumeSocial": "음성 볼륨"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "에코 채널",

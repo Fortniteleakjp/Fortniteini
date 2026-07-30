@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "ビッグバレルDX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "バイプレーン",
     "5B5236944941BFD7DE82B8B05FE11D94": "バイプレーン",
-    "DF56207843F6244003548CA79CFAA0F4": "バイプレーン",
     "AD9DF9A2455C274907AE29971466ADBA": "ブレイド",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "ブレイド",
     "7641CC0743ADBB2B2B04ED9883DD8214": "ブリング",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "どのチームにHUDインジケーターを友好的に見せるかの設定(任意)。バッジスタイルアイコン系のみ。 ",
     "129650534E9339B784AAB9B5C32678A6": "HUDアイコンをどのチームに見せるかを設定する。バッジスタイルアイコン系のみ。",
     "9AED3EE2432C86562FC1268D4F02CA40": "どのチームにHUDのアイコンを表示するかの設定。バッジスタイルアイコンにのみ関連する。",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "ダイア",
     "C90BA6D147AC6F970F343F814B24620B": "実行中に起動を無効化",
     "BD5501F945FD5E68B86AA19785403260": "乗り物スポナーを無効にして、これ以上乗り物をスポーンしないようにする。",
     "BD1640424CA1561290BF568D12001009": "選択されたチャンネルから信号を受信すると、このスポナーを無効にする。",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "フラッシュライトピストル",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "フラッシュライトピストル",
     "E576A6EA43FB3390DF995597CC8787B5": "フラットライナーDX",
+    "EC2248AB4AAE78827455E396D0611068": "フレーバーテキスト",
     "A7FC866241FA661C68609CB3E03F6CEC": "操縦する",
     "01B10F554E9863503405E890B39DCFAA": "フォートバイト6ウィークリーチャレンジチェック",
     "43DA2A90437D506CE8205EAFABE1CBD6": "フォートバイト6ウィークリーチャレンジチェック",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "グレイブヤードスイッチターン",
     "A4341A0045390C670F4757948E6E3CE5": "グレイブヤードツナミ",
     "F0737F4E40417749A441A59843B932F0": "グレイブヤードボイジャー",
-    "8B52C5AD4891876163EE09B5632D41E8": "偉大さは永遠に。",
     "0B5C62D0400E95930AEE12B1D2116EE2": "グリーン",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "グラインド",
     "0527EEDF4C1C3DC79266D49836DEF54C": "洞窟のカードキー",
     "7F90D27A40A35D195B511AAE906A6A36": "洞窟のカードキー",
     "7E6F527B407E9A6E8B1FED863069924E": "銃 アサルトライフル マシンガン 小口径弾 オートマチック",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "ハンドキャノン",
     "89587ADB427212BBA1354BB2C1FF6E8F": "ハンドキャノン",
     "9CBF2A9D457F7567D62990B2A189E194": "ハンドキャノン+",
-    "50894D884F5D8695DB841F90521FCF55": "ハングタイム",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "不要なペアレンティングとモジュールを有する",
     "64F8ED534DCB3384F84C0BA28011E1FA": "不要なペアレンティングとモジュールを有する",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "不要なペアレンティングとモジュールを有する",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "レイジーフラットライナー",
     "CA6D0D87420CCE166090BAB2B3B09E44": "レイジーGフリップ",
     "8DEE71084CFD3D885BB21C8D75A996A1": "レイジーラウンダー",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "群れを率いる者。",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "撃破された場所に<Emphasized>地雷</>を残す",
     "C249F11F41E9E062B8B2E7852084DFB9": "左",
     "3DA57402427AD07E9EEF1182BFB26A44": "左テイル",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "リピートなし",
     "400B329C4C3CFA025EA0409641DF37CB": "なし",
     "6B12549A41998E4E0A87668FD5B4D36C": "なし",
+    "8456D15B451996C5FCF369A843AE73FA": "なし",
     "B67463454D0A16C5C16CBB999DCAA7AC": "なし",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "なし",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "なし",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "標準",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "標準",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "なにも怪しいことはない。ただの<Emphasized>動く箱</>だ",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "無効なトークン",
     "2A743E1048A4D22ED47940B99A99FD94": "ORIGINパス",
     "2FA98907484D5AA64173C5B93C5D30F1": "破壊オブジェクト",
     "2AE212EE406A3146388589A8AFC54CF3": "オーシャンのバーストアサルトライフル",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "プレイヤーが受け取れるインフィニティブレイドを設置する。",
     "1F62B87A4BC128082F4198855D3F6FDE": "プレイヤーが受け取れるインフィニティブレイドを設置する。",
     "9EC314644018A0419EA1F482397A0E43": "ウェイポイントを設置して経路を導く。",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "プレイヤーアンケート適正トークン",
     "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "置く",
     "3B2F170F40934B3A5C46F1B55E412D4A": "消火しよう！",
     "43088BA143F2B6BCAEE378847172BE8C": "クアッドクラッシャー",
-    "CC13E7A44B19B6541560D085C426791D": "クアッドクラッシャー",
     "393E9456499B520AC90D5E8597A7D23D": "<Emphasized>最後の弾5発</>の<Emphasized>ダメージが上昇</>する静音サブマシンガン",
     "43E272F8443991243556F0AB98EC9BBE": "リアリティ・ストーン",
     "2A5097B944627605414956BB8AE4337B": "ランダム",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "サイレンサー付きサブマシンガン",
     "DDDAFD77445379EE9BAF399713A063D6": "サバイバー",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "泳ぎが<Emphasized>速くなる</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "スウィッシュ",
     "E928E3A54C017ABB67564BB0EE06B190": "プロフィール切り替え",
     "85D867BC4BF95138BD5A05A4705FB62F": "座席変更",
     "8F0C992C457A0ED11DC7F089C2563C02": "座席変更",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "タフ",
     "50B5E23B4F691D00F8BE3C984622679F": "チームの視認性",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "チームの視認性",
-    "8FF029D544B7EC9500BD199AEE1CE927": "コートを支配しろ",
-    "E15F90714DA6FDFD9053248626AB156F": "コートを支配しろ",
     "03E580304DC6BBC29D3304B6E0D4105A": "技術のアップグレード",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "アップグレード技術",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "アップグレード技術",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "ウィンターフェストキー",
     "194B94D745612B291C0C0CAC0487B727": "ウィッチブルーム",
     "EFCEF17944284794FC6D49B915B991EE": "ウィッチブルーム",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "ラース",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X印の示す場所！",
     "D40AA64648243870B6889FA424D3E046": "X-4ストームウイング",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "総計"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "キャンセル"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</> / {RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "シーズン{0}",
     "ChapterSeasonTextFormat": "{0}、{1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "観戦を開始できません。マッチが終了したか、アカウントがマッチを観戦する設定になっていない可能性があります。"
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} V-BUCKS",
     "StarterKitOfferContent": "{0} V-BUCKS + アイテム{1}つ"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}アクタ「{1}」が他の「{2}」のアクタと重なり合っている:"
+    "AddingOverlappingActors": "{0}アクタ「{1}」が他の「{2}」のアクタと重なり合っている: 「{3}」"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "プロファイラー統計イベント",
     "AnimNodeProfilerStatEventTooltip": "プロファイラー統計イベント",
     "QuadrupedSlopeWarping": "四足歩行スロープワーピング",
+    "RootSlopeTilt": "斜面底部の傾き",
     "ScaleCharacterBones": "キャラクターのボーンをスケールする",
     "PredictiveStrideWarpingTooltip": "足の予測ボーンを使って体の動きを予測し、足のIKのスケールを移動速度とそろえます。",
     "SpeedWarpingTooltip": "足のIKのスケールを移動速度とそろえる。",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "ハスクの種類に応じてボーンをスケールする(ドワーフハスクは小さな体の割に頭部が大きい、など)",
     "SetIKTarget_Description": "足のIKターゲットを設定",
     "SpeedWarping": "スピードワーピング",
+    "RootSlopeTiltTooltip": "スケルトンの底部を定率で傾けながら床の標準値に近づけます。そうすることで、すでに傾いている胴部に応じて、斜面下方の屈曲ノードが手足の位置を再定義します。",
     "TransformRollerTreads": "車輪型/歩行型を変身",
     "TransformRollerTreadsTooltip": "車輪型の乗り物を歩行型の乗り物に変身させる"
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ - 接続状態のリンクされたグラフが見つかりません",
     "FortAnimNode_LinkedGraphGate_ToolTip": "リンクされたインスタンスが無効になっている場合、リンクされたAnimGraphまたはレイヤーが更新されないように制限します",
     "Title": "リンクされたGraphの制限"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "プレイヤーが見つかりません",
+    "NoPlayersToJoin_Desc": "今ここにいるのはあなただけです。自分のセッションを続けますか？"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "ボイス無効"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>プレイスケジュール</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "いつでも",
     "PlaytimeScheduleEveryDay": "毎日",
     "PlaytimeScheduleFriday": "金曜日",
     "PlaytimeScheduleMonday": "月曜日",
+    "PlaytimeScheduleNoWindow": "許可されたプレイ可能時間なし",
     "PlaytimeScheduleSaturday": "土曜日",
     "PlaytimeScheduleSunday": "日曜日",
     "PlaytimeScheduleThursday": "木曜日",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": " NEW {0}",
     "quest_reward_grant_quest": "目標クリア"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "準備完了プレイヤー: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "バトルパスはすでにレベル{0}です",
     "PurchaseNotAllowed_FounderPack": "{0}を購入するには、保護者の方にペアレンタルコントロールからアカウントの設定をしてもらってください。",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オン</>: お子様が音声および文章の自由入力によるコミュニケーションを通じ、Epic Games製品のAI機能を利用できるようになります。これには自分では操作できない、会話AIを利用するキャラクターとのやり取りも含まれます。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オフ</>: お子様は音声および文章によるコミュニケーションを通じ、Epic Games製品のAI機能を利用することができなくなります。\n\n注: この制限は、AIを利用したサポートとのやり取りには適用されません。",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オン</>: お子様は、アイテムや不特定の報酬を伴うコンテンツにV-Bucks (もしくはV-Bucksで購入されたコンテンツ)を利用できます。 \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オフ</>: お子様は、アイテムや不特定の報酬を伴うコンテンツにV-Bucks(もしくはV-Bucksで購入されたコンテンツ)を利用できません。",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オン</>: お子様はフォートナイトでゲームや体験をデザインすることができ、独自の体験を制作するフレンドに加わることもできます。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オフ</>: お子様はフォートナイトでゲームや体験をデザインすることができず、独自の体験を制作するフレンドに加わることもできなくなります。\n\n注: フォートナイトの体験をデザインする際、プレイヤーはフォートナイトでの公開のための審査に提出されていない、つまり年齢評価の審査を受けていないコンテンツを閲覧/プレイすることができます。プレイヤーは、コラボレーターにも表示されるテキストを含むコンテンツを作成する場合もあります。\n\nクリエイティブの詳細はこちら: fn.gg/creative",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">ビジュアルアイテムテクスチャの事前ダウンロードを有効化することで、追加で{InstallSize}の容量を使用します。</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">{0}枚の返品チケットが利用可能</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">購入のキャンセル</>\n\nV-Bucksで意図せずに行ってしまった購入はキャンセルすることができます。購入のキャンセルは、購入したアイテムをゲームプレイ中に装備または使用すると利用できなくなります。過去24時間以内に購入された商品のみ、購入キャンセルの対象となります。\n\n詳細については、fn.gg/cancelpurchaseをご確認ください。\n\n<text size=\"24\">購入の返品</>\n\nV-Bucksで意図せず行ってしまった購入のキャンセルができなくなった場合、代わりに年間3枚の返品チケットを使用することができます。 返品チケットは12か月ごとに1枚追加され、最大3枚まで受け取ることができます。各返品チケットは、お客様が受け取った最新のチケットの12か月後に追加されます。\n\n過去30日以内に行われた購入のみ返品が可能です。バトルパス、バトルパスレベル、あるいはラマなどの消耗品は返品できません。",
     "ScopedSpeedMultiplier_Description": "スコープ付き武器で照準器を覗き込んでいる際、視点感度に適用される倍率の設定。1x未満に設定すると、スコープを覗き込んでいるときの視点感度が下がります。1x以上に設定すると、スコープを覗き込んでいるときの視点感度が上がります。",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "アダプティブトリガー",
     "TriggerHapticsStrength_Name": "アダプティブトリガーの強さ",
     "UserInterfaceContrast_Description": "ユーザーインターフェイスのコントラストを調整する。",
+    "VirtualPointerCursorOpacity_Description": "画面に表示されるポインターの透明度を調整します。数値を下げると、ポインターがより透明になります。",
+    "VirtualPointerSpeed_Description": "画面上のポインターの移動速度を調整します。5がデフォルトの速度です。値が低いほど遅く、値が高いほど速くなります。",
     "Brightness_Description": "明るさを調整する。",
+    "VirtualPointerHapticIntensity_Description": "画面上のポインター使用時のハプティックフィードバックの強さを調整します。",
     "AdvancedAimSensitivityCollection_Name": "アドバンス - 照準(ADS)感度",
     "BasicLookOptionsCollection_Name": "詳細設定 - 視点感度",
     "SuperAdvancedSensitivityCollection_Name": "アドバンス - 感度",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "音声入力を許可する",
     "AllowNotifications_Description": "通知を許可し、コンテンツのダウンロード、フレンドやパーティーの招待、新しいセッション、期間限定イベント、お知らせやプロモーションに関する通知を受け取りましょう。これらの設定はいつでも変更可能です。",
     "AmpleHammer_DetailName": "AI機能との音声および文章によるやり取りを許可する",
-    "AutoDownloadHighResTexturesReminders_Description": "高解像度テクスチャの自動ダウンロードを再度許可するよう促すメッセージの表示を許可します。\n\n注: 必要なストレージの容量があり、自動ダウンロードが「オフ」に設定されている場合にのみメッセージが表示されます。\n\nオフ: フォートナイトは高解像度テクスチャの自動ダウンロードに関するリマインダーを送信しません。\n\nオン(デフォルト): フォートナイトは高解像度テクスチャの自動ダウンロードに関するリマシンダーを送信します。\n\n",
     "AllowLowPower_Description": "ゲームが自動的に省電力設定になります。",
     "LockPrimaryInputMethodToMouse_Description": "コントローラー入力とマウス入力を一緒に使用できます。入力のフィードバックをマウスとキーボードの推奨に固定することで、2つの入力方法が競合しないようにします。",
     "EnablePreferredItemSlots_Description": "武器またはアイテムタイプに優先インベントリスロットを指定することができる。優先アイテムを回収すると、優先インベントリスロットに格納される。\n\n優先されないアイテムは一番先に空いているスロットへと格納され、その後に優先されるアイテムが回収されると自動で並び順が変更される。\n\n• レア度の高い同じアイテムを回収すると、レア度による並び替えが発生する。例えば、アンコモンのポンプショットガンは、エピックのポンプショットガンに置き換わる。レア度が低い方のアイテムは、一番先に空いているスロットへと移される。\n\n• 右へ消耗品を整列する機能は、これまでと同様に優先アイテムスロットにおいて機能する。\n\n• 優先アイテムスロットは、空きスロットが1つ以上ある場合にのみ有効になる。",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "自動",
     "AutoConfirmEdits_Name": "編集を自動で確定",
     "AutoInteractConsumables_Name": "採取アイテム自動消費",
-    "AutoDownloadHighResTextures_Name": "高解像度テクスチャの自動ダウンロード",
     "STW_AutoEquipBetterItems_Name": "より性能のいいアイテムを自動装着",
     "AutoFireName": "自動発射",
     "AutoInteractContainers_Name": "コンテナ自動開封",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "テキストの枠を変更する。",
     "SubtitleTextColor_Description": "字幕の色を変更する。",
     "SubtitleTextSize_Description": "字幕のサイズを変更する。",
-    "InstalledTextureQuality_Description": "フォートナイトのテクスチャの詳細度を設定します。 この設定を上げると、ゲーム描画時のテクスチャが増加しディテールが向上しますが、ネットワークの使用量が増え、ご使用のデバイスのパフォーマンスが低下する場合があります。\n\n<text color=\"FFFF00\">モバイル通信でより高品質なテクスチャを使用するには、「モバイル通信ダウンロード」を「オン」に設定する必要があります。</>",
     "Hitmarkers_Description": "攻撃が命中した際に再生されるサウンドを選択する。",
     "TextChat_Desc": "お子様がグループ、パーティー、ゲーム内のどのプレイヤーとメッセージを送受信できるかを選択します。お子様はEpicアカウント上のフレンドと1対1でのみメッセージを送受信できます。<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">全員</>: 全員とテキストチャットできます。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">フレンド、チームメンバー、つながり</>: Epicアカウント上のフレンド、プラットフォーム上のフレンド{0}、チームの全員、つながりとテキストチャットができます。つながりとは、お子様のフレンドではないもののフレンド経由でつながりのあるプレイヤーのことです。チーム規模はコンテンツによって異なり、数人からゲーム内の全プレイヤーなど様々です。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">フレンドのみ</>: Epicアカウント上のフレンドやプラットフォーム上のフレンドとのみテキストチャットできます。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">誰ともしない</>: 誰ともテキストチャットできません。\n\n<strong>誰ともしない</>を選択しても、サポートされている場合、ゲーム内の安全なフレーズ一覧(「お見事！」など)からメッセージを使用できます。",
     "VoiceChat_ParentalControls_Description_Expanded": "お子様がグループ、パーティー、ゲーム内のどのプレイヤーとチャットできるかを選択します。<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">全員</>: 全員とボイスチャットできます。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">フレンド、チームメンバー、つながり</>: Epicアカウント上のフレンド、プラットフォーム上のフレンド{0}、チームの全員、つながりとボイスチャットができます。つながりとは、お子様のフレンドではないもののフレンド経由でつながりのあるプレイヤーのことです。チーム規模はコンテンツによって異なり、数人からゲーム内の全プレイヤーなど様々です。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">フレンドのみ</>: Epicアカウント上のフレンドやプラットフォーム上のフレンドとのみボイスチャットできます。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">誰ともしない</>: 誰ともボイスチャットできません。",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "何もしない",
     "ToggleDoubleTapAutorun_Name": "ダブルタップでオートダッシュ",
     "DownloadDetailsCollection_Name": "ダウンロード設定",
-    "CosmeticStreaming_Description": "プレイ中に見かけた時に、必要なビジュアルアイテムのみをダウンロードします。\n\n注: インターネット接続の通信速度が遅い場合、ゲームがビジュアルアイテムをストリーミングしている際、パフォーマンスに影響が出る場合があります。この機能をオフにすると、より多くのストレージの容量が必要になります。\n\nオン: ゲーム内で見かけたビジュアルアイテムのみをダウンロードします。\n\nオフ: 全てのビジュアルアイテムをダウンロードします。",
     "GyroDisabledWhileDriving_Name": "運転時ジャイロセンサー無効",
     "EFortSubtitleTextBorder_DropShadow": "ドロップシャドウ",
     "CanSeeOtherPlayersNames_Desc": "マッチ中では、倒されたプレイヤーのアカウント名が画面に表示されます。\nこの設定ではそのメッセージ内において、自分のスクワッドにいない他のプレイヤーの名前を「プレイヤー」に置き換えることができます。\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">注</>: 同じ「スクワッド」にいるメンバーの名前は表示されます(フレンドであるかどうかに関わらず、自分のチームに所属する最大3人の他のプレイヤー)。\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オン</>: スクワッドメンバーではないプレイヤーの名前が表示されます。\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">オフ</>: 自分のスクワッドにいないプレイヤーの名前を「プレイヤー」に置き換えます\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "フリックスティックを有効にします。有効にすると、ワイヤレスコントローラーの右スティックをカメラの動かしたい方向に弾くことでカメラが動きます。例えば、スティックを後ろに引くと視点が後ろを向きます。スティックを傾けたら、あとは回して調整してください。\n\n有効にするとスティックで上や下を狙えなくなるため、「ジャイロセンサー照準」を常に有効にするか、右スティック効果を「有効化」にしておくと良いでしょう。そうすれば、スティックを操作することでいつでもジャイロセンサーを有効にして上下に視点を動かせるようになります。",
     "GamepadFlickStick_Description_XB1": "フリックスティックを有効にします。有効にすると、ワイヤレスコントローラーの右スティックをカメラの動かしたい方向に弾くことでカメラが動きます。例えば、スティックを後ろに引くと視点が後ろを向きます。スティックを傾けたら、あとは回して調整してください。\n\n有効にするとスティックで上や下を狙えなくなるため、「ジャイロセンサー照準」を常に有効にするか、右スティック効果を「有効化」にしておくと良いでしょう。そうすれば、スティックを操作することでいつでもジャイロセンサーを有効にして上下に視点を動かせるようになります。",
     "GamepadFlickStick_Description_XSX": "フリックスティックを有効にします。有効にすると、ワイヤレスコントローラーの右スティックをカメラの動かしたい方向に弾くことでカメラが動きます。例えば、スティックを後ろに引くと視点が後ろを向きます。スティックを傾けたら、あとは回して調整してください。\n\n有効にするとスティックで上や下を狙えなくなるため、「ジャイロセンサー照準」を常に有効にするか、右スティック効果を「有効化」にしておくと良いでしょう。そうすれば、スティックを操作することでいつでもジャイロセンサーを有効にして上下に視点を動かせるようになります。",
-    "AutoDownloadHighResTextures_Description": "フォートナイトに、自動的に高解像度テクスチャをダウンロードさせます。高解像度テクスチャがあると、フォートナイトがより高精細に見えるようになります。\n\n注: インターネットの回線速度が遅かったり、ストレージ容量が少ないデバイスの場合は、高解像度テクスチャをダウンロード中に、パフォーマンスの低下が発生する可能性があります。この機能をオフにするとパフォーマンスが改善する場合があり、ディスクの容量を抑えることができます。\n\nオン: フォートナイトは自動的に高解像度テクスチャをダウンロードします。\n\nオフ: フォートナイトは自動的に高解像度テクスチャをダウンロードしません。",
     "EasyLootGridEnabled_Description": "近くのアイテムが表示される、スクロール可能なウィジェットを有効にします。シーン上の実際のアイテムをクリックする代わりに、ウィジェットをクリックすることでそこからアイテムを回収することができます。",
     "EnergySavingIdle_Description": "ゲームがフロントエンドでアイドリングモードに切り替わった際に、節電を有効化します。アイドリングモードは無操作の状況が30秒続くと開始します。",
     "EnergySavingFocus_Description": "ゲームウィンドウが最前面のウィンドウでない場合に、節電を有効化します。",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "カメラアシストを有効にすると、キャラクターを動かしたときにカメラも合わせて回転するので、何かを狙うとき以外は手動でカメラを操作する必要がなくなります。",
     "AutoCenter_Description": "この設定を有効にすると、照準や射撃をせずに移動しているときに、カメラが地平線方向に移動します。意図せず地面や空へカメラを向けてしまう新規プレイヤーや、特定のエイムモードでジャイロセンサー照準のみを有効にしているフリックスティックを使うプレイヤーの役に立つ設定です。",
     "EnergySavingCollection_Name": "節電",
-    "InstalledTextureQualityEpic": "エピック",
     "PostProcessingQualityEpic": "最高",
     "ShadowEpic": "最高",
     "TextureQualityEpic": "最高",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "スナイパーライフル用。タッチの視点と射撃ボタンを押したときに射撃するのではなく、視点と射撃のボタンを放した時にスナイパーライフルを撃つようにします。つまり、一本の指で狙いをつけ、その同じ指を放して射撃できるということです。他の射撃ボタンは変わらず押した際に射撃を行います。",
     "ContinuousFireGameplay_Description": "弾を撃つたびにトリガーを戻さなければならない武器の場合、この設定を有効にすることで、トリガーを長押しするだけで連射が可能となる(ただし発射速度は低下する)。",
     "FortniteCredits_Name": "フォートナイトクレジット",
-    "PredownloadCosmetics_Description": "フォートナイトでは、ゲーム内で表示された時にビジュアルアイテムテクスチャをストリーミングするようになっています。この機能をオンにすることで、表示時に適用する代わりにプレイヤーはこれら全てのテクスチャを事前にダウンロードします。ディスク容量の使用は増えますが、処理能力を抑えたままフォートナイトがより細かく表現されることになります。モバイル接続などで頻繁にプレイする場合は、フォートナイトの画質向上が見込めます。\n\nいいえ: フォートナイトから過去にダウンロードしたビジュアルアイテムテクスチャがアンインストールされ、今後も事前ダウンロードはされません。\n\nはい: フォートナイトに全ての高品質のビジュアルアイテムテクスチャを事前にダウンロードし、インストールします。\n\n",
     "ParsleyIdle_Description": "選択した分数の間操作をしなかった場合、フォートナイトはスリープモードに入ります。これはサインインしている全てのデバイスに適用されます。",
     "FlickForwardDeadZone_Name": "前方デッドゾーン",
     "KeyboardMovementForwardDiagonal_Name": "斜め前角度",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "リンクされたソーシャルメディアのアカウントをフレンドから見えないようにします。",
     "EFortSubtitleBackgroundOpacity_High": "高",
     "GeometryQualityHigh": "高",
-    "InstalledTextureQualityHigh": "高",
     "PostProcessingQualityHigh": "高",
     "ShadowHigh": "高",
     "SoundQuality_High": "高",
     "TextureQualityHigh": "高",
     "VisualEffectQualityHigh": "高",
     "GyroAcceleration_High": "高(x4)",
-    "AutoDownloadHighResTexturesReminders_Name": "高解像度テクスチャのリマインダー",
     "EnableNanite_Description": "Naniteによる高度なジオメトリのレンダリングはジオメトリのきめ細やかさを向上させますが、フレームレートを低下させる可能性があります。Naniteを有効にすると仮想シャドウ マップが使用され、高品質な影の描写が実現します。",
     "MeshQuality_Description": "ジオメトリ設定を上げると、オブジェクトの形状をよりきめ細かに描画します。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。",
     "TextureQuality_Description_Default": "テクスチャの設定を上げると、フラットなオブジェクトの表面をよりきめ細かに描画します。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。",
-    "TextureQuality_Description_NoHighMips": "テクスチャの設定を上げると、フラットなオブジェクトの表面をよりきめ細かに描画します。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。\n\n高品質テクスチャはインストールされていません。高品質テクスチャはEpic Gamesランチャーのフォートナイトインストールオプションからダウンロードできます。",
+    "TextureQuality_Description_NoHighMips": "テクスチャ設定を上げると、フラットなオブジェクトの表面がよりきめ細かに描画されます。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。<Icon.Warning></> 高品質テクスチャがインストールされていません。Epic Games Launcherのフォートナイトのインストールオプションからダウンロードできます。",
     "Hitmarkers_Name": "ヒットマーカー",
     "AutoClamber_On": "前に移動を長押し",
     "AutoHurdle_On": "前に移動を長押し",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "低",
     "GeometryQualityLow": "低",
-    "InstalledTextureQualityLow": "低",
     "PostProcessingQualityLow": "低",
     "SoundQuality_Low": "低",
     "TextureQualityLow": "低",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "最大視野角(FOV)",
     "EFortSubtitleBackgroundOpacity_Medium": "中",
     "EFortSubtitleTextSize_Medium": "中",
-    "InstalledTextureQualityMedium": "中",
     "PostProcessingQualityMedium": "中",
     "ShadowMedium": "中",
     "TextureQualityMedium": "中",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "3Dオーディオを有効化/無効化するには、システム設定をご確認ください。\n『フォートナイト』はオペレーティングシステム(OS)が提供する3Dサウンドのソリューションを優先し、3Dヘッドフォンモードを無効にするため、この設定は3Dオーディオの現在の状態を反映するものではありません。",
     "RestartConfirmationDescription": "全ての変更内容を反映させるためには、ゲームを再起動してください。",
     "WarningAboutToUseAdvancedOptions_Message": "アドバンスオプションを変更する際は十分にご注意ください。誤った設定を行うと、狙いを定める際に悪影響を及ぼすことがあります。",
+    "VirtualPointerHapticIntensity_Name": "ポインターのハプティックフィードバックの強度",
+    "VirtualPointerCursorOpacity_Name": "ポインターの不透明度",
+    "VirtualPointerSpeed_Name": "ポインター速度",
     "PostProcessingQuality_Name": "ポストプロセス",
     "PostProcessingQuality_Description": "ポストプロセスエフェクトには、モーションブラー、被写界深度、ブルームが含まれます。この設定を上げると、ポストプロセスエフェクトの品質が向上しますが、パフォーマンスが低下する可能性があります。",
     "UsePowerSavingMode_Name": "省電力モード",
-    "PredownloadCosmetics_Name": "ビジュアルアイテムテクスチャの事前ダウンロード",
     "AimAssistSlowStrength_Name": "精密照準アシストの強度",
     "PreferredFilledMatchAudioChannel_Name": "優先チャンネル(「埋める」がオン)",
     "EnablePreferredItemSlots_Name": "優先アイテムスロット",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "バックグラウンドでのレンダリングを停止",
     "StopRenderingInBackground_Description": "ゲームウィンドウが最前面になく、かつ可能な場合にレンダリングを停止する。GPUのリソースを解放し、他のアプリケーションで使用できるようにする。",
     "KeyboardMovementStrafeDiagonal_Name": "攻撃角度",
-    "CosmeticStreaming_Name": "ビジュアルアイテムのストリーミング",
     "SubtitlePage_Name": "字幕",
     "SubtitlesCollection_Name": "字幕",
     "Subtitles_Name": "字幕",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "移動の操作をLスティックからRスティックに切り替えます。",
     "AutoImportFriends_Name": "フレンドリストを同期",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "TSR 最高",
     "AntiAliasingMethodTSRHigh": "TSR 高",
     "AntiAliasingMethodTSRLow": "TSR 低",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "テキストカラー",
     "TextChatRTR": "テキスト通報",
     "SubtitleTextSize_Name": "テキストサイズ",
-    "InstalledTextureQuality_Name": "テクスチャ品質",
     "TextureQuality_Name": "テクスチャ",
     "LumenRequiresD3D12": "Lumenを有効にするには「レンダリングモード」を「DirctX 12」に設定する必要があります。",
     "NaniteRequiresD3D12": "Naniteを有効にするには「レンダリングモード」を「DirctX 12」に設定する必要があります。",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "描画距離は、パフォーマンス向上のため、どの程度離れた位置にあるオブジェクトの描画を省くのかを決定します。",
     "TimeReportsActionDescription": "お子様がフォートナイト、クリエイティブ、Unreal Editor for Fortnite(UEFN)に使用した時間を週ごとに閲覧できます。",
     "LegalInformation_Description": "法的事項の情報を表示",
+    "VirtualCursorCollection_Name": "仮想カーソル",
     "VisualizeSoundEffects_Name": "サウンドエフェクトを視覚化",
     "VisualizeSoundEffectsPriority_Name": "サウンドエフェクト視覚化の優先度",
     "VoiceChat": "ボイスチャット",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "有効にすると、長押しが必要なシンプル編集のアクションが1回押すだけで始まり、一定時間が経過すると自動で完了するようになります。\n\n無効の場合、一定時間押し続ける必要があります。",
     "TapQuickEdit_Description_XSX": "有効にすると、長押しが必要なシンプル編集のアクションが1回押すだけで始まり、一定時間が経過すると自動で完了するようになります。\n\n無効の場合、一定時間押し続ける必要があります。",
     "AutoFireDescription": "有効にすると、敵へのエイム時に対応する武器が自動的に発射します。",
-    "TapToShootDescription": "有効にすると、画面のどこでもタップすると射撃します。",
+    "TapToShootDescriptionAndPriority": "有効にすると、画面のどこでもタップすると射撃します。他のタップ設定よりも優先される場合があります。",
     "ADSFire_Description": "有効にすると、タッチの視点と射撃ボタンを押すことでサイト/スコープで照準を合わせることもできるようになります。「押している間」にすると、タッチの視点と射撃のボタンを放すとサイト/スコープで照準を合わせるのもやめるようになります。",
     "MinimapPlayerAlwaysFaceNorth_Description": "オンにすると、ミニマップがプレイヤーの向きに合わせて回転するようになります。プレイヤーマーカーのアイコンは回転しません(円形マップの設定がオンの場合に最適)。",
     "CircularMinimap_Description": "オンにすると、ミニマップが正方形のコンテナではなく、円形のコンテナの中に表示されます(「ミニマップの回転のロック」がオンの場合に最適)。",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "ペアレンタルコントロールへ移動する",
     "VoiceChatDisabled_LearnMore": "さらに詳しく",
     "VoiceChatDisabled_ParentalControlsButtonOther": "ペアレンタルコントロールを開く",
+    "VoiceChatDisabledDescription_Other": "この機能はあなたには無効になっています。 ",
     "VoiceChatDisabled_TurnOnFromPanel": "ボイスチャットをオンにする",
     "VoiceChatDisabledDescription_Parental": "ペアレンタルコントロールの設定により、ボイスチャットが無効になっています。",
     "VoiceChatDisabledDescription_Platform": "コンソールのプライバシー設定によりボイスチャットを利用できません。",
-    "VoiceChatDisabledDescription_User": "ボイスチャットの設定によりボイスチャットを利用できません。画面下から設定を変更してください！",
-    "VoiceChatDisabledDescription_Other": "あなたの親または保護者がこの機能をペアレンタルコントロールで制限しています。 "
+    "VoiceChatDisabledDescription_User": "ボイスチャットの設定によりボイスチャットを利用できません。画面下から設定を変更してください！"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "ゲームモードの変更不可",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "メッセージの送信時にエラーが発生しました:{0}",
     "HiddenPlayerSays": "非表示プレイヤーのコメント: ",
     "BlockedPlayerMessage": "メッセージ非表示",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "クライアントがトーナメントモードのため、テキストチャットが無効化されています。",
     "TextChatEnabled": "テキストチャットが有効になりました。",
     "DisabledBySocialBan": "アカウントがソーシャル機能の利用禁止措置を受けているため、テキストチャットは使用できません。",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "マッチメイキング開始に失敗しました。",
     "FortMatchmakingContext_WarningDialogTitle": "マッチメイキング警告",
     "NoFill": "埋めない",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "利用可能なミッションがありません",
+    "FortMatchmakingContext_NoMissionsForProgress": "利用可能なミッションがありません",
+    "FortMatchmakingContext_NoMissionsInTheater": "利用可能なミッションがありません",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "現在の進行状況で利用可能なミッションがありません。クイックプレイまたはカスタムを選んでみてください。",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "このシアターには利用可能なミッションがありません。別のシアターを選んでみてください。",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "このパワーレベルには利用可能なミッションがありません。別のパワーレベルを選択してみてください。",
     "Private": "プライベート",
     "Public": "パブリック",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "パーティーのパワーレートが足りないため、このミッションをプレイできません。より難易度の低いミッションを選択する、パーティー構成を変更する、ミッションプライバシーを「フレンドのみ」か「プライベート」に設定するなどの方法をお試しください。",
@@ -10716,6 +10727,10 @@
     "EditFactText": "ファクトのテキストを編集",
     "EditInPromptEditor": "プロンプトエディタで編集"
   },
+  "LLMSession": {
+    "ModerationMsg": "この返答はモデレートされました",
+    "UnknownRestriction": "不明な制限"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "セットをアンロックして報酬の受け取りを開始する"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "全ての{GroupName}オファーの取得が必要"
+    "GroupComplete_Member_Incomplete": "他の{GroupName}報酬を全て取得する",
+    "GroupComplete_Nonmember_Incomplete": "{GroupName}の報酬を全て取得する"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "{Date}にアンロック"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "フォートナイトをプレイしていただき、ありがとうございます！",
     "PurchaseHeader": "アイテム獲得"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "このNPCビジュアルアイテムの表示名は編集できません。"
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "トラックを追加",
     "AddTrack_ToolTip": "新しいアクショントラックを作成"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "オープンマイク",
     "ChannelPreferredSocial": "優先チャンネル",
     "VoiceChatRestricted_Parental": "ペアレンタルコントロールで制限されています",
+    "VoiceChatRestricted_Other": "この機能はあなたには無効になっています。 ",
     "VoiceChat_UserSocial": "ボイスチャット",
     "VoiceChatParentDisabled": "ペアレンタルコントロールによりボイスチャット無効",
     "VoiceIndicatorsSocial": "ボイスインジケーター",
     "VoiceMethod": "ボイス方式",
-    "VoiceVolumeSocial": "ボイス音量",
-    "VoiceChatRestriced_Other": "あなたの親または保護者がこの機能をペアレンタルコントロールで制限しています。 "
+    "VoiceVolumeSocial": "ボイス音量"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "エコーチャンネル",

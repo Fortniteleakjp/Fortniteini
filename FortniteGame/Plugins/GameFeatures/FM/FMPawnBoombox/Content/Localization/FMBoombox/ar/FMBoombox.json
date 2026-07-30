@@ -3,7 +3,7 @@
     "540337D3410E58D7F956E28AF5B87365": "نقاط الربط",
     "0DF75D56485D1A84CB3A808F2AC32D28": "مُشغل مقطوعات عزف",
     "BB3294344F2B7D7CBDA7168B81B2E176": "مُشغل مقطوعات عزف",
-    "89EE8B2B4CBCE20710ACDE9605B47D90": "استماع",
+    "5EA5A33049DBEE60CB116193A7B72E5D": "استماع",
     "F10DD45D4D9DF89805963AA568985823": "PawnBoombox",
     "BDBC9EBE4C3484BD9C0F3DA42884FEF4": "RadioStation",
     "C8297F8947E0E17F862E948947CA7EB3": "الحجم",
@@ -11,12 +11,12 @@
     "CF53415F43097A4A6289CBB721D444D6": "إيقاف (ضغط مزدوج)"
   },
   "FMBoombox": {
-    "FMBoomboxEmoteWheelPlayMusic": "اختيار الأغنية",
-    "5869D8964BB26B94A5D754B3951EFAC5": "استماع",
+    "44D1A9AD4666A0D7945FCAA19BF1876E": "اختيار الأغنية",
+    "038660674047F86D9C4508B1AC7DF960": "استماع",
     "FMBoomboxDisplayName": "العب",
     "0DFBF76E4DA8048162D7ABBE54B730D4": "عزف مقطوعات العزف المميزة",
+    "25B6083847D0874B62BAD5956465640C": "إيقاف الأغنية",
     "32A80F76492509079A1647BBAD2BFB29": "إيقاف الأغنية",
-    "FMBoomboxEmoteWheelStopMusic": "إيقاف الأغنية",
     "BoomboxSourceTextFormat": "مقطوعة عزف {0}"
   }
 }

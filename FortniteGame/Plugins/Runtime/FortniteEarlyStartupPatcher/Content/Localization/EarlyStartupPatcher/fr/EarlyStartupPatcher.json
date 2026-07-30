@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Vous allez télécharger du contenu pour Fortnite alors que le mode Économiseur de données est activé sur votre appareil. Cela nécessitera le téléchargement d'environ {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Vous allez consommer vos données mobiles pour télécharger du contenu pour Fortnite. Cela nécessitera le téléchargement d'environ {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "L'installation de Fortnite nécessite {SpaceAdditional} de plus. \n\nFaites de la place sur votre appareil et réessayez.\n\n1. Allez dans Réglages.\n\n2. Sélectionnez Général.\n\n3. Sélectionnez Stockage de l'iPhone.\n\n4. Supprimez des applications ou des fichiers multimédias.\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{1}\n({0})",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

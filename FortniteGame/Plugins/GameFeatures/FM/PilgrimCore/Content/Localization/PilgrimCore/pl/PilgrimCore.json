@@ -1,7 +1,5 @@
 {
   "": {
-    "9240C75C48089720F5311CAC79826D6A": "(opuść Królewską Imprezę)",
-    "F843740643D8BC1030F2E38AFBB2EB52": "(może użyć tylko przywódca ekipy)",
     "CF64E10C4A0F48B668BDEE94B48D3F0E": "– strojenia,\n– wskazówek.",
     "68916EDC47FE6CA7F612B9A3E8560CB7": "– poprawić dostrojenie\n– otrzymać wskazówki\n– zmienić sterowanie",
     "ABE23DC84867226614A110A9B3149B7C": "0",
@@ -30,13 +28,10 @@
     "A2E641DD44C8D33FEEA2F2A9F73167ED": "Kulisy",
     "471BC4574B0E522D117D79BB4D1EA961": "Bas",
     "7AAC57EC49C682904C6064A8475EE5E7": "Bas",
-    "04C702C64BD04EA8DCDCED8FA944B0C3": "Battle Royale",
     "18794F334CA8B5E8BC00AC8B605F876D": "SmugiŚwiatła",
     "4DD4A88248A50E65B3CC2480320CAC4B": "Breakdown",
     "97336AA24A42291051FC5596C95CA29D": "Łącznik",
     "9CB7D0194D8C6B2883BB68B1F20A3553": "Budowanie",
-    "17288C1C48065F2978F6698CDFEF6122": "Anuluj dobieranie graczy",
-    "739748D74061423B37A5C4A1C46AF458": "Zmień cel",
     "92051AD64480DCEF69F626BD21596E0D": "Refren",
     "E80FF8D74DFA1EAE377BDEA88C08AE2B": "Ubranie",
     "300C0CFB4D73C64E5832E3A07E1AE771": "Złożony gradient",
@@ -92,8 +87,6 @@
     "DE88CA784F41C422D5F7F0921D8C202C": "Poziomy gradient",
     "C977C5DA41F06D0DC42EEA87F95D3013": "Palce wskazujący i środkowy",
     "8CB1C1754B44B68C6D8785A1406B873C": "InstancjonowaneSiatkiStatyczne",
-    "95EC34564AB1E36DE5F654B115E64938": "Użyj, by dołączyć do kolejki",
-    "B9DBF741475C7E736EFCB2981BF24861": "Użyj, by dołączyć do kolejki",
     "A6500D234D2EB0118F3AE69BADDCFAB7": "Intro",
     "453510644240B9AA2E865A9C11057640": "Klawiatura/mysz 1",
     "BA1862894AEF0D7A4D1854BB0A1E39E1": "Klawiatura/mysz 1",
@@ -104,11 +97,9 @@
     "2565C9174A1C7931AF55D980A7003BC7": "Duży",
     "F9DB265644F04020E42F4DA4E1E65F42": "Późno",
     "F402FA4143DD37E90CD3E4B4FB8784D8": "Aktywuj ataki, aby spowolnić wyprzedzającego cię przeciwnika!",
-    "45FD79384B2E80E4035BB6B719BA423B": "Opuść Królewską Imprezę",
     "84876CD541241926B132A4BE915B96EC": "Lewa dłoń 3",
     "EC605C2A44FC4260E6326EBC5D1D0148": "Lewa dłoń 3",
     "31FBB8A64F4A1D3C2F29DCABFD890F61": "LidarPointCloud",
-    "ACA98E6545A56DAFB6EF4FB77D97E4F5": "Portal do dobierania graczy",
     "49E501354A049157FB982E8DA776774D": "Maksymalny mnożnik",
     "ABA5603441E9321B0BF0A08115F3B5DA": "Średni",
     "A87FCDC4496200421B6FC891CFCCE2EA": "DeformatorSiatki",
@@ -132,7 +123,6 @@
     "04057F5441AEF9DA588165819F1A9343": "OK",
     "222318784F27D2DD556612BD361E9AA6": "OK",
     "AE24370C435DAC67FBEA948F998F1C20": "Jedna dłoń",
-    "13D786884DCDBBB2746E43AD7924F6E0": "Może użyć tylko przywódca ekipy",
     "37C0527B44FD8C0B6D71A7825F6CF049": "Przejdź do kalibracji sterowania",
     "126160FF49ABEEB1639C8C9C9B99C4E7": "Otwórz to menu, żeby wyświetlać zadania, stroić instrumenty i uzyskiwać dostęp do porad.",
     "05B6BA3B4A8CBA0D02D9A79A792955F3": "Otwórz to menu, żeby wyświetlać zadania, stroić instrumenty, zmieniać układ sterowania i uzyskiwać dostęp do porad.",
@@ -144,7 +134,6 @@
     "F3CFDFB14C68297A21309A968C0CD446": "P4",
     "7A2A4E0D4D079EE72D1746A2FBD931E8": "Selektor części wyświetla szczegółowe opcje",
     "3C6FD8984157A53B4001C6B7DF9750D4": "SprityCząstek",
-    "E60C0B424FBB36D1498367923D7F8EAC": "Ekipa jest za duża.",
     "2124C50E41CD0C1454CD79983A55CB43": "Idealnie",
     "2A18621C40233D874F2CAEA37CC42775": "Idealnie",
     "72B190E943E74490A5A82CBBFAC06FC9": "Idealnie",
@@ -164,11 +153,9 @@
     "8487EE3544F42E95A6169E81FFF821BD": "Przygotuj się, by wykonać emotkę bez otwierania koła emotek",
     "F8EEE0CC444517014CF9DE91D15B66FB": "Wciśnij, by zatrzymać aktualnie wykonywaną emotkę",
     "43C8845C49DC39F9E56684958C6A939C": "Ustawienia profesjonalnych partii",
-    "6910C5EC4059ACD344561FAC51349803": "Kolejka do Battle Royale",
     "33A4853B4F08CD18BE680783DC04DA12": "Szybki przycisk emotkowania",
     "02DB116C44508A5F5C18ACB0700B9257": "Pamiętaj, aby zajrzeć do menu gry,\ngdy potrzebujesz:",
     "5928B25B4FC8D182A37CCE800665F41E": "Ustaw własny schemat sterowania",
-    "3CA5FDA9497F9CAF855FC78B97A6F507": "Ustaw kod dobierania graczy",
     "B95D54BA41A52DB6517E6CBAA49872C1": "Ustaw sterowanie dla poziomu trudności",
     "CDBBF76B453F25BC576A7792757CCC03": "UstawionePrzezBP",
     "7B4F36394BE0874F6A202F9F4C6D100D": "Ustawienia",
@@ -209,9 +196,6 @@
     "17DD8ECB46F03E95BB7F78A2F8E49953": "MOŻESZ ZACZYNAĆ ZABAWĘ!",
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
-  },
-  "Fort.Actor.Building.Defaults": {
-    "OptionDefinitionContainer.LabelOverride": "Nazwa"
   },
   "PilgrimFilters": {
     "PilgrimShowScoreBy_AllTimeHighscore": "Cały czas",
@@ -315,12 +299,5 @@
     "CategoryX-W": "X-W",
     "CategoryY-Z": "Y-Z",
     "CategoryZ-Y": "Z-Y"
-  },
-  "UserOptionDefinition": {
-    "EPortalLinkCodeLockMode.AlwaysLocked.DisplayName": "Zawsze zablokowany",
-    "BP_Pilgrim_GreenRoomPortal_C.CanOverrideCode.DisplayName": "Można zastąpić kod",
-    "BP_Pilgrim_GreenRoomPortal_C.IslandCode_Knob.DisplayName": "Gałka kodu wyspy",
-    "EPortalLinkCodeLockMode.NeverLocked.DisplayName": "Nigdy nie zablokowany",
-    "EPortalLinkCodeLockMode.WindowLocked.DisplayName": "Zablokowany w oknie"
   }
 }

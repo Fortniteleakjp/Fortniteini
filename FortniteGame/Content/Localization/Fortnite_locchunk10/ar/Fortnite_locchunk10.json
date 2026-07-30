@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "العجلة الدوارة دي إكس",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "الطائرة ذات الجناحين",
     "5B5236944941BFD7DE82B8B05FE11D94": "الطائرة ذات الجناحين",
-    "DF56207843F6244003548CA79CFAA0F4": "طائرة ثنائية السطح",
     "AD9DF9A2455C274907AE29971466ADBA": "نصل",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "نصل",
     "7641CC0743ADBB2B2B04ED9883DD8214": "زينة ظهر",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "يحدّد أي فريق (إن وجد) يرى مؤشر شاشة عرض المعلومات ملائمة. مناسب فقط لرموز نمط الشارة. ",
     "129650534E9339B784AAB9B5C32678A6": "لتحديد أي فريق يمكنه رؤية رمز شاشة عرض المعلومات. مناسب فقط لرموز نمط الشارة.",
     "9AED3EE2432C86562FC1268D4F02CA40": "لتحديد أي فريق يرى أيقونة شاشة عرض المعلومات. هذا مرتبط بأيقونات طراز الشارة فقط.",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "المروع",
     "C90BA6D147AC6F970F343F814B24620B": "تعطيل التنشيط أثناء التشغيل",
     "BD5501F945FD5E68B86AA19785403260": "تعطيل مركبة المدمر، لمنعها من نشر أي مركبات إضافية.",
     "BD1640424CA1561290BF568D12001009": "تعطيل هذا الناشر عند استلام إشارة من القناة المحددة.",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "مسدس الكشاف",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "مسدس الكشاف",
     "E576A6EA43FB3390DF995597CC8787B5": "فلاتلاينر دي إكس",
+    "EC2248AB4AAE78827455E396D0611068": "نص وصفي",
     "A7FC866241FA661C68609CB3E03F6CEC": "طيران",
     "01B10F554E9863503405E890B39DCFAA": "التحقق من التحدي الأسبوعي فورتبايت 6",
     "43DA2A90437D506CE8205EAFABE1CBD6": "التحقق من التحدي الأسبوعي فورتبايت 6",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "مفتاح تبديل المقبرة",
     "A4341A0045390C670F4757948E6E3CE5": "تسونامي المقبرة",
     "F0737F4E40417749A441A59843B932F0": "رحالة المقبرة",
-    "8B52C5AD4891876163EE09B5632D41E8": "العظمة للأبد.",
     "0B5C62D0400E95930AEE12B1D2116EE2": "أخضر",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "تزحلق",
     "0527EEDF4C1C3DC79266D49836DEF54C": "بطاقة دخول المغارة",
     "7F90D27A40A35D195B511AAE906A6A36": "بطاقة دخول المغارة",
     "7E6F527B407E9A6E8B1FED863069924E": "أسلحة بنادق هجومية، بندقية آلية ذات طلقات خفيفة",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "مسدس مدفعيّ",
     "89587ADB427212BBA1354BB2C1FF6E8F": "مسدس مدفعيّ",
     "9CBF2A9D457F7567D62990B2A189E194": "مسدس مدفعيّ +",
-    "50894D884F5D8695DB841F90521FCF55": "Hangtime",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "بوحدات ورعاية أبوية غير ضرورية",
     "64F8ED534DCB3384F84C0BA28011E1FA": "بوحدات ورعاية أبوية غير ضرورية",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "بوحدات ورعاية أبوية غير ضرورية",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "فلاتلاينر كسول",
     "CA6D0D87420CCE166090BAB2B3B09E44": "جي فليب الكسول",
     "8DEE71084CFD3D885BB21C8D75A996A1": "المستدير الكسول",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "قائدة القطيع.",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "اترك خلفك <Emphasized>لغمًا أرضيًا</> حيث تعرضت للتصفية",
     "C249F11F41E9E062B8B2E7852084DFB9": "يسار",
     "3DA57402427AD07E9EEF1182BFB26A44": "الذيل الأيسر",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "لا توجد إعادات",
     "400B329C4C3CFA025EA0409641DF37CB": "بدون",
     "6B12549A41998E4E0A87668FD5B4D36C": "بدون",
+    "8456D15B451996C5FCF369A843AE73FA": "لا شيء",
     "B67463454D0A16C5C16CBB999DCAA7AC": "بدون",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "بدون",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "لا شيء",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "عادي",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "عادي",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "لا شيء مميز. مجرد <Emphasized>صندوق متحرك</>",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "رمز غير صالح",
     "2A743E1048A4D22ED47940B99A99FD94": "بطاقة العودة",
     "2FA98907484D5AA64173C5B93C5D30F1": "الهدف",
     "2AE212EE406A3146388589A8AFC54CF3": "بندقية الدفعات الهجومية أوشن",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "ضع نصل انفينتي أمام اللاعبين ليحصلوا عليه.",
     "1F62B87A4BC128082F4198855D3F6FDE": "ضع نصل انفينتي أمام اللاعبين ليحصلوا عليه.",
     "9EC314644018A0419EA1F482397A0E43": "وضع نقاط وسيطة للإرشاد إلى الطريق.",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "رمز أهلية استبيان اللاعب",
     "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PlayerPawnAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "ترك",
     "3B2F170F40934B3A5C46F1B55E412D4A": "اخمد تلك النيران!",
     "43088BA143F2B6BCAEE378847172BE8C": "المحطم الرباعي",
-    "CC13E7A44B19B6541560D085C426791D": "المحطم الرباعي",
     "393E9456499B520AC90D5E8597A7D23D": "رشّاش خفيف هادئ يتسبب في <Emphasized>ضرر إضافي</> من خلال <Emphasized>آخر 5 طلقات</>",
     "43E272F8443991243556F0AB98EC9BBE": "حجر الواقع",
     "2A5097B944627605414956BB8AE4337B": "عشوائي",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "رشاش خفيف بكاتم صوت",
     "DDDAFD77445379EE9BAF399713A063D6": "الناجي",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "اسبح <Emphasized>بسرعة أكبر</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "Swish",
     "E928E3A54C017ABB67564BB0EE06B190": "تبديل ملف التعريف",
     "85D867BC4BF95138BD5A05A4705FB62F": "تبديل المقعد",
     "8F0C992C457A0ED11DC7F089C2563C02": "تبديل المقعد",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "الدبابة",
     "50B5E23B4F691D00F8BE3C984622679F": "وضوح الفريق",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "ظهور الفريق",
-    "8FF029D544B7EC9500BD199AEE1CE927": "اقتلع أرضية الساحة",
-    "E15F90714DA6FDFD9053248626AB156F": "اقتلع أرضية الساحة",
     "03E580304DC6BBC29D3304B6E0D4105A": "ترقية التقنية",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "ترقية التقنية",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "ترقية التقنية",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "مفتاح ونترفست",
     "194B94D745612B291C0C0CAC0487B727": "مكنسة الساحرة",
     "EFCEF17944284794FC6D49B915B991EE": "مكنسة الساحرة",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "غضب",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "علامة X تحدد النقطة!",
     "D40AA64648243870B6889FA424D3E046": "جناح العاصفة X4",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "مجتمعة"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "إلغاء"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</> / {RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "الموسم {0}",
     "ChapterSeasonTextFormat": "{0}، {1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "يتعذر بدء المشاهدة. ربما انتهت المواجهة، أو لم يتم إعداد حسابك لمشاهدة المواجهات."
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} عملات V-Bucks",
     "StarterKitOfferContent": "{0} من عملات V-Bucks + {1} {1} من العناصر"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "العنصر {1} يتداخل مع عنصر آخر (عناصر أخرى) {2}:"
+    "AddingOverlappingActors": "{0}العنصر \"{1}\" يتداخل مع {2} عنصر آخر (عناصر أخرى): \"{2}\""
   },
   "Augments": {
     "AugmentsRerollContext": "{0} /"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "حدث إحصائية المحلل",
     "AnimNodeProfilerStatEventTooltip": "حدث إحصائية المحلل",
     "QuadrupedSlopeWarping": "Quadruped Slope Warping",
+    "RootSlopeTilt": "ميل منحدر الجذر",
     "ScaleCharacterBones": "تكبير عظام الشخصية",
     "PredictiveStrideWarpingTooltip": "تكبير IK للقدم لمطابقة سرعة الحركة باستخدام عظام تنبؤ القدمين لتوقع حركة الجسم.",
     "SpeedWarpingTooltip": "تكبير IK للقدم لمطابقة سرعة الحركة.",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "يكبر عظام المومياوات بناءً على نوعه. (أي أن المومياء القزم صغير ولكن لديه رؤوس كبيرة)",
     "SetIKTarget_Description": "ضبط أهداف أقدام IK",
     "SpeedWarping": "انحراف السرعة",
+    "RootSlopeTiltTooltip": "إمالة الجذر الهيكلي بالاتجاه العمودي للأرضية بنسبة محددة ومقيدة، بحيث تُعيد عقدة تشويه المنحدرات التالية ضبط أطراف الشخصية وفقًا لجسد مائل بالفعل.",
     "TransformRollerTreads": "تحويل البكرات/المداسات",
     "TransformRollerTreadsTooltip": "يحول بكرات المركبات ذات المداسات"
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ - لم يتم العثور على رسوميات مرتبطة متصلة",
     "FortAnimNode_LinkedGraphGate_ToolTip": "لتهيئة رسوميات متحركة أو طبقات مرتبطة لمنعها من التحديث في حالة تعطيل مثيلاتها المرتبطة",
     "Title": "بوابة الرسوميات المرتبطة"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "لم يتم العثور على لاعبين",
+    "NoPlayersToJoin_Desc": "لا يوجد لاعبون آخرون هنا حاليًا.\nهل تريد المتابعة إلى جلستك؟"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "الصوت معطل"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>جدول اللعب</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "أي وقت",
     "PlaytimeScheduleEveryDay": "كل يوم",
     "PlaytimeScheduleFriday": "الجمعة",
     "PlaytimeScheduleMonday": "الاثنين",
+    "PlaytimeScheduleNoWindow": "لا توجد مدة زمنية مسموح بها",
     "PlaytimeScheduleSaturday": "السبت",
     "PlaytimeScheduleSunday": "الأحد",
     "PlaytimeScheduleThursday": "الخميس",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "جديد: {0}!",
     "quest_reward_grant_quest": "اكتملت المهمة"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "اللاعبون الجاهزون: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "بطاقة المعركة بالفعل في مستوى {0}",
     "PurchaseNotAllowed_FounderPack": "لشراء {0}، اطلب من أحد والديك أو وليّ أمرك إعداد حسابك من إعدادات الرقابة الأبوية",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">تشغيل</>: يستطيع طفلك التفاعل مع ميزات الذكاء الاصطناعي في منتجات Epic Games من خلال التواصل الصوتي والنصي الحر. هذا يشمل التفاعل مع شخصيات الذكاء الاصطناعي المتحدثة غير القابلة للعب في Fortnite.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">إيقاف</>: لا يستطيع طفلك التفاعل مع ميزات الذكاء الاصطناعي في منتجات Epic Games من خلال التواصل بالصوت والكتابة.\n\nملحوظة: لا ينطبق إعداد التحكم هذا على تفاعلات الدعم القائمة على الذكاء الاصطناعي.",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">تفعيل</>: بإمكان طفلك إنفاق عملات V-Bucks (أو محتوى مُشترى بعملات V-Bucks) في عناصر أو محتوى تكون مكافأته عشوائية. \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">تعطيل</>: لن يستطيع طفلك إنفاق عملات V-Bucks (أو محتوى مُشترى بعملات V-Bucks) في عناصر أو محتوى تكون مكافأته عشوائية.",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">تشغيل</>: سيستطيع طفلك تصميم ألعاب وتجارب لعب في Fortnite، بالإضافة إلى الانضمام إلى أصدقائه بينما يصممون تجاربهم الخاصة.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">إيقاف التشغيل</>: لا يستطيع طفلك تصميم ألعاب وتجارب لعب في Fortnite ولن يتمكن من الانضمام إلى أصدقائه بينما يصممون تجاربهم الخاصة.\n\nملاحظة: في أثناء تصميم تجربة لعب في Fortnite، يستطيع اللاعبون التفاعل مع المحتوى الذي لم يُقدم إلى Fortnite Publishing للإشراف وبالتالي لم يُصنف. يمكن للاعبين أيضًا إنشاء محتوى، بما في ذلك النصوص التي قد تصبح مرئية للمتعاونين معهم. \n\nاعرف المزيد عن الوضع الإبداعي من خلال fn.gg/creative.",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">سيستخدم تفعيل التنزيل المسبق لأنسجة الزينة {InstallSize} سعة تخزين أكثر.</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">{0} من تذاكر الإرجاع متاحة</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">إلغاء الشراء</>\n\nيمكنك إلغاء أي عملية شراء غير مقصودة أجريتها بعملات V-Bucks. إلغاء الشراء متاح ما لم تكن قد تجهزت بالعناصر التي اشتريتها أو استخدمتها خلال اللعب.لا يُسمح بإلغاء الشراء إلا للعناصر التي تم شراؤها خلال آخر 24 ساعة.للمزيد من المعلومات قم بزيارة fn.gg/cancelpurchase\n\n<text size=\"24\">عمليات إرجاع الشراء</>\n\nفي حالة شرائك من دون قصد عنصرًا بعملات V-Bucks ورأيت أن ميزة إلغاء الشراء لم تعد متاحة، يمكنك استخدام إحدى تذاكر الإرجاع السنوية الـ3 بدلًا من ذلك. ستتلقى تذكرة إرجاع إضافية كل 12 شهرًا إلى حد أقصى قدره 3. تُضاف كل تذكرة بعد 12 شهرًا من تلقيك آخر تذكرة.\n\nالعناصر التي تم شراؤها خلال آخر 30 يومًا هي فقط المؤهلة للإرجاع. لا يمكن إرجاع العناصر الاستهلاكية - مثل بطاقة المعركة أو مستويات بطاقة المعركة أو لاما.",
     "ScopedSpeedMultiplier_Description": "مُضاعِف يتم تطبيقه على حساسية الرؤية عند التصويب باستخدام أسلحة مزودة بمناظير.  الإعدادات الأقل من 1x ستقلل حساسية التصويب عند التصويب بالمنظار.  الإعدادات الأعلى من 1x ستزيد حساسية التصويب عند التصويب بالمنظار.",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "المحفز التكيفي",
     "TriggerHapticsStrength_Name": "قوة المحفز التكيفي",
     "UserInterfaceContrast_Description": "تعديل تباين واجهة المستخدم.",
+    "VirtualPointerCursorOpacity_Description": "لضبط درجة تعتيم المؤشر على الشاشة. القيم الأقل تجعل المؤشر أكثر شفافية.",
+    "VirtualPointerSpeed_Description": "لضبط مدى سرعة تحرك المؤشر على الشاشة. القيمة 5 هي السرعة الافتراضية؛ كلما كانت القيمة أقل انخفضت السرعة والعكس صحيح.",
     "Brightness_Description": "اضبط السطوع.",
+    "VirtualPointerHapticIntensity_Description": "لضبط قوة الاستجابات اللمسية عند استخدام المؤشر على الشاشة.",
     "AdvancedAimSensitivityCollection_Name": "متقدم - حساسية التصويب الدقيق (ADS)",
     "BasicLookOptionsCollection_Name": "متقدم - حساسية النظر",
     "SuperAdvancedSensitivityCollection_Name": "متقدم - الحساسية",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "السماح بالإملاء الصوتي",
     "AllowNotifications_Description": "فعّل الإشعارات وتلقَ إشعارات لتنزيلات المحتوى ودعوات الأصدقاء والمجموعات والمواسم الجديدة والأحداث المحدودة الوقت والإعلانات والعروض الترويجية. يمكنك ضبط هذه الإعدادات في أي وقت.",
     "AmpleHammer_DetailName": "السماح بالتواصل بالصوت والكتابة مع ميزات الذكاء الاصطناعي",
-    "AutoDownloadHighResTexturesReminders_Description": "السماح بعرض التنبيهات التي تخص إعادة تفعيل التنزيل التلقائي للأنسجة عالية الجودة.\n\nملحوظة\" ستظهر التنبيهات فقط عندما يكون لديك مساحة التخزين الكافية لتفعيل هذه الخاصية وحينما تكون التنزيلات التلقائية \"معطّلة\".\n\nمعطّل: لن ترسل Fortnite تنبيهات بخصوص تفعيل الأنسجة عالية الجودة.\n\nمفعّل: (افتراضي): سترسل Fortnite تنبيهات بخصوص الأنسجة عالية الجودة.\n\n",
     "AllowLowPower_Description": "للسماح للعبة بتقليل الإعدادات تلقائيًا للحفاظ على الطاقة.",
     "LockPrimaryInputMethodToMouse_Description": "للمساح باستخدام إدخال وحدة التحكم وإدخال الماوس على حد سواء وتأمين ملاحظات الإدخال على اقتراحات الماوس ولوحة المفاتيح بدلاً من تعارض طرق الإدخال.",
     "EnablePreferredItemSlots_Description": "يسمح لك بتعيين خانة مستودع مفضلة لسلاح أو نوع عنصر. عند الاستلام، سيُوضع العنصر المفضل لديك في خانة المستودع المفضلة.\n\nستُوضع العناصر غير المعينة في أول خانة شريط سريع متاحة ويُعاد ترتيبها إذا تم اختيار نوع عنصر مفضل. \n\n• سيحدث تبادل الندرة عند اختيار عنصر ندرة أعلى مماثل. مثال. ستُستبدل شوزِن بسحّاب غير شائعة بشوزِن بسحّاب ملحمية. سيتم نقل العنصر الأقل ندرة إلى أول خانة متاحة.\n\n• سيستمر الفرز التلقائي للعناصر القابلة للاستهلاك إلى اليمين في العمل مع خانات العناصر المفضلة.\n\n• لن تكون خانات العناصر المفضلة نشطة إلا عندما يكون لديك خانة مستودع واحدة فارغة على الأقل.",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "تلقائي",
     "AutoConfirmEdits_Name": "تأكيد التعديلات تلقائيًا",
     "AutoInteractConsumables_Name": "استهلاك العناصر الغذائية تلقائيًا",
-    "AutoDownloadHighResTextures_Name": "التنزيل التلقائي للأنسجة عالية الجودة",
     "STW_AutoEquipBetterItems_Name": "التزود بأفضل العناصر تلقائيًا",
     "AutoFireName": "إطلاق النار التلقائي",
     "AutoInteractContainers_Name": "فتح الحاويات تلقائيًا",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "اختر حدودًا مختلفة للنص.",
     "SubtitleTextColor_Description": "اختر ألوانًا مختلفة لنص الترجمة.",
     "SubtitleTextSize_Description": "اختر أحجامًا مختلفة لنص الترجمة.",
-    "InstalledTextureQuality_Description": "اختر مستوى تفاصيل إكساءات Fortnite. رفع هذا الإعداد يجعل Fortnite تُحمل الإكساءات خلال اللعب وتبدو أكثر تفصيلًا لكنه قد يزيد استخدام الشبكة ويقلل أداء جهازك.\n\n<text color=\"FFFF00\">يجب تعيين \"تنزيل شبكة الهاتف المحمول\" على\"تشغيل\" لاستخدام إكساءات ذات جودة أعلى عبر بيانات شبكة الهاتف.</>",
     "Hitmarkers_Description": "اختر الأصوات التي تصدر عند إصابة هدف.",
     "TextChat_Desc": "حدّد مَن يستطيع إرسال الرسائل إلى طفلك وتلقيها في الفِرق والمجموعات والألعاب. يستطيع طفلك إرسال رسائل فردية وتلقيها مع اللاعبين من قائمة أصدقاء Epic فقط.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">الجميع</>: يمكن لطفلك المشاركة في دردشة نصية مع الجميع.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">الأصدقاء وأعضاء الفريق وجهات الاتصال</>: يمكن لطفلك المشاركة في دردشة نصية مع اللاعبين في قائمة أصدقاء Epic والأصدقاء على المنصة{0} وجميع أعضاء فريقه وجهات الاتصال. جهات الاتصال هم أشخاص ليسوا أصدقاء طفلك لكن يتواصلون معه من خلال أصدقائه. تختلف الأعداد في الفِرق حسب الخبرة ويمكن أن تتراوح من عدد قليل من اللاعبين إلى جميع اللاعبين.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">الأصدقاء فقط</>: يمكن لطفلك المشاركة في دردشة نصية مع اللاعبين في قائمة أصدقاء Epic لديه وأصدقاء المنصة فقط.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">لا أحد</>: لن يستطيع طفلك إجراء محادثة نصية مع أحد.\n\nسيسمح اختيار <strong>لا أحد</> للاعبين باستخدام رسائل من قائمة العبارات القياسية الآمنة داخل اللعبة (مثل \"أحسنت!\") إذا كانت مدعومة.",
     "VoiceChat_ParentalControls_Description_Expanded": "حدّد مَن يستطيع التحدث إلى طفلك في الفرق والمجموعات والألعاب.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">الجميع</> : يمكن لطفلك المشاركة في دردشة صوتية مع الجميع.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">الأصدقاء وأعضاء الفريق وجهات الاتصال</> : يمكن لطفلك المشاركة في دردشة صوتية مع اللاعبين في قائمة أصدقاء Epic وأصدقاء المنصة{0}، وجميع أعضاء فريقهم وجهات الاتصال. جهات الاتصال هم أشخاص ليسوا أصدقاء طفلك لكن يتواصلون معه من خلال أصدقائه. تختلف الأعداد في الفِرق حسب الخبرة ويمكن أن تتراوح من عدد قليل من اللاعبين إلى جميع اللاعبين.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">الأصدقاء فقط</> : يمكن لطفلك المشاركة في دردشة صوتية مع اللاعبين في قائمة أصدقاء Epic لديه وأصدقاء المنصة فقط.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">لا أحد</> : لن يستطيع طفلك إجراء محادثة صوتية مع أحد.",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "لا شيء",
     "ToggleDoubleTapAutorun_Name": "انقر مرتين للركض التلقائي",
     "DownloadDetailsCollection_Name": "إعدادات التنزيل",
-    "CosmeticStreaming_Description": "قم بتنزيل عناصر الزينة الضرورية فقط عند مصادفتها في أثناء اللعب.\n\nملحوظة: بطء اتصال الإنترنت قد يسبب مشكلات للعبة في تنزيل عناصر الزينة. تعطيل هذه الميزة يتطلب مساحة أكبر لدى القرص.\n\nتشغيل: ستقوم Fortnite بتنزيل عناصر الزينة الموجودة داخل اللعبة.\n\nإيقاف: ستقوم Fortnite بتنزيل جميع عناصر الزينة.",
     "GyroDisabledWhileDriving_Name": "قيادة المركبات تعطل الجيروسكوب",
     "EFortSubtitleTextBorder_DropShadow": "الظل الخلفي",
     "CanSeeOtherPlayersNames_Desc": "ستظهر أسماء حسابات اللاعبين الذين تم إقصاؤهم على الشاشة أثناء المواجهة.\nيسمح لك هذا الإعداد باستبدال أسماء اللاعبين الآخرين غير الموجودين في فريقك بـ\"لاعب\" في هذه الرسائل.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">ملاحظة</>: ستستطيع رؤية أسماء الأشخاص الموجودين ضمن نفس \"الفريق\" (حتى ثلاثة لاعبين آخرين في فريقك والذين قد يكونوا أو لا يكونوا ضمن الأصدقاء).\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">تشغيل</>: سترى أسماء اللاعبين الذين ليسوا أعضاء في الفريق.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">إيقاف</>: يستبدل أسماء اللاعبين الذين ليسوا أعضاء في الفريق بـ\"لاعب\"\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "لتفعيل ذراع التمرير السريع. عند التفعيل، وجّه الذراع اليمنى في وحدة التحكم لديك نحو أي اتجاه لتحريك الكاميرا بسرعة لمواجهة ذلك الاتجاه. على سبيل المثال، جذب الذراع إلى الخلف سيحرك الكاميرا خلفك. بمجرد أن تميل الذراع، لفّها لتضبط اتجاهك.\n\nبما أنك ستفقد القدرة على التصويب لأعلى وأسفل بالذراع، فالأفضل تنشيط التصويب بالجيروسكوب دائمًا أو تعيين تأثير الذراع اليمنى إلى تفعيل، حتى تتمكن من تنشيط الجيروسكوب لتتمكن من النظر لأعلى وأسفل في أي وقت باستخدام الذراع.",
     "GamepadFlickStick_Description_XB1": "لتفعيل ذراع التمرير السريع. عند التفعيل، وجّه الذراع اليمنى في وحدة التحكم لديك نحو أي اتجاه لتحريك الكاميرا بسرعة لمواجهة ذلك الاتجاه. على سبيل المثال، جذب الذراع إلى الخلف سيحرك الكاميرا خلفك. بمجرد أن تميل الذراع، لفّها لتضبط اتجاهك.\n\nبما أنك ستفقد القدرة على التصويب لأعلى وأسفل بالذراع، فالأفضل تنشيط التصويب بالجيروسكوب دائمًا أو تعيين تأثير الذراع اليمنى إلى تفعيل، حتى تتمكن من تنشيط الجيروسكوب لتتمكن من النظر لأعلى وأسفل في أي وقت باستخدام الذراع.",
     "GamepadFlickStick_Description_XSX": "لتفعيل ذراع التمرير السريع. عند التفعيل، وجّه الذراع اليمنى في وحدة التحكم لديك نحو أي اتجاه لتحريك الكاميرا بسرعة لمواجهة ذلك الاتجاه. على سبيل المثال، جذب الذراع إلى الخلف سيحرك الكاميرا خلفك. بمجرد أن تميل الذراع، لفّها لتضبط اتجاهك.\n\nبما أنك ستفقد القدرة على التصويب لأعلى وأسفل بالذراع، فالأفضل تنشيط التصويب بالجيروسكوب دائمًا أو تعيين تأثير الذراع اليمنى إلى تفعيل، حتى تتمكن من تنشيط الجيروسكوب لتتمكن من النظر لأعلى وأسفل في أي وقت باستخدام الذراع.",
-    "AutoDownloadHighResTextures_Description": "السماح لـFortnite بتنزيل أنسجة عالية الجودة بشكل تلقائي. تجعل الأنسجة ذات الجودة العالية مظهر Fortnite يبدو أكثر دقة.\n\n ملحوظة: قد يتسبب الاتصال بإنترنت بطيئة أو الأجهزة ذات مساحة تخزين محدودة ببعض المشاكل عندما تنزّل اللعبة أنسجة عالية الجودة. قد يساهم تعطيل هذه الخاصية في تحسين الأداء وتوفير مساحة القرص.\n\nمفعّل: ستنزّل Fortnite أنسجة عالية الجودة بشكل تلقائي..\n\nمعطّل: لن تنزّل Fortnite أنسجة عالية الجودة.",
     "EasyLootGridEnabled_Description": "لتفعيل أداة قابلة للتمرير حيث يتم عرض العناصر القريبة؟ ثم يمكنك أن تلتقط عنصرًا منها عبر الضغط عليها بدلًا من الضغط على أداة العنصر الفعلي في المشهد.",
     "EnergySavingIdle_Description": "يفعّل توفير الطاقة عندما تنتقل اللعبة إلى وضع الخمول في الواجهة الأمامية. يبدأ وضع الخمول بعد 30 ثانية من عدم النشاط.",
     "EnergySavingFocus_Description": "يفعّل توفير الطاقة عندما تكون نافذة اللعبة غير النشطة.",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "تفعيل مساعدات الكاميرا يعني أن الكاميرا ستدور باستمرار عند تحريك شخصيتك، حتى لا تضطر إلى التحكم يدويًا في الكاميرا إلا عندما تحاول التصويب على شيء.",
     "AutoCenter_Description": "تفعيل هذا الإعداد سيجذب الكاميرا نحو الأفق في أثناء انتقالك من مكان إلى آخر دون التصويب أو إطلاق النار. يمكن أن يساعد هذا اللاعبين الجدد الذين يحدقون في الأرض أو السماء عن غير قصد، أو اللاعبين بذراع التمرير السريع الذين لا يستطيعون تفعيل التصويب بالجيروسكوب إلا في أوضاع تصويب معينة.",
     "EnergySavingCollection_Name": "توفير الطاقة",
-    "InstalledTextureQualityEpic": "Epic",
     "PostProcessingQualityEpic": "ملحمي",
     "ShadowEpic": "ملحمي",
     "TextureQualityEpic": "ملحمية",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "لبنادق القنص. بدلًا من إطلاق النار ببنادق القنص عند الضغط على زر اللمس النظر والإطلاق، أطلق النار بها حينما تفلت زر النظر والإطلاق. يعني ذلك أن بإمكانك محاذاة الهدف بإصبع واحد ثم الإطلاق من خلال إفلات الإصبع نفسه. ستستمر أزرار إطلاق النار الأخرى في الإطلاق عند الضغط.",
     "ContinuousFireGameplay_Description": "بالنسبة إلى الأسلحة التي تتطلب تحرير الزناد والضغط عليه مرة أخرى عند إطلاق كل طلقة، فتمكين هذا الإعداد يتيح لك الضغط باستمرار على الزناد لإطلاق النار بشكل متكرر (بمعدل إطلاق نار منخفض).",
     "FortniteCredits_Name": "بيانات فريق Fortnite",
-    "PredownloadCosmetics_Description": "تقوم Fortnite ببث أنسجة الزينة عند مواجهتها داخل اللعبة. عند تفعيلك لهذه الميزة، ستقوم بتنزيل كل هذه الأنسجة مسبقًا بدلًا من عند مواجهتها. ويستخدم هذا مساحة أكثر من القرص لكن يجعل Fortnite تبدو أكثر دقة دون تكليف النطاق الترددي. كما يمكن أن يحسن هذا الجودة البصرية لـ Fortnite إذا كنت تلعب بشكل متكرر باستخدام الاتصال الخلوي. \n\nلا: سوف تلغي Fortnite تثبيت أي أنسجة زينة منزلة سابقًا ولن تقوم بتنزيلهم مسبقًا في المستقبل. \n\nنعم: ستقوم Fortnite بتنزيل و تثبيت جميع الأنسجة عالية الجودة مسبقًا.\n\n",
     "ParsleyIdle_Description": "تنتقل Fortnite إلى وضع السكون في حالة عدم النشاط لعدد الدقائق الذي تحدده. ينطبق هذا الإعداد على جميع الأجهزة التي سجلت الدخول من خلالها.",
     "FlickForwardDeadZone_Name": "المنطقة الأمامية غير النشطة",
     "KeyboardMovementForwardDiagonal_Name": "زاوية مائلة أمامية",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "لإخفاء حسابات مواقع التواصل الاجتماعي المرتبطة عن الأصدقاء.",
     "EFortSubtitleBackgroundOpacity_High": "عالٍ",
     "GeometryQualityHigh": "عالية",
-    "InstalledTextureQualityHigh": "مرتفع",
     "PostProcessingQualityHigh": "عالية",
     "ShadowHigh": "عالية",
     "SoundQuality_High": "عالية",
     "TextureQualityHigh": "عالية",
     "VisualEffectQualityHigh": "عالية",
     "GyroAcceleration_High": "عالٍ (4x)",
-    "AutoDownloadHighResTexturesReminders_Name": "تذكيرات الأنسجة عالية الجودة",
     "EnableNanite_Description": "نظام عرض هندسي متطور يعمل من خلال Nanite، ومن شأنه تحسين التفاصيل الهندسية، لكنه يقلل من معدل الإطارات. سيتم استخدام خرائط الظلال الافتراضية عند تمكين Nanite للحصول على جودة ظلال أعلى.",
     "MeshQuality_Description": "تؤدي زيادة إعدادات الأبعاد إلى منح الأجسام شكلًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلاً، ولكن قد تقلل من الأداء.",
     "TextureQuality_Description_Default": "تؤدي زيادة إعدادات الأنسجة إلى منح الأجسام المسطحة مظهرًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلاً، ولكن قد يقلل من الأداء.",
-    "TextureQuality_Description_NoHighMips": "تؤدي زيادة إعدادات الأنسجة إلى منح الأجسام المسطحة مظهرًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلًا، ولكن قد يقلل من الأداء.\n\nلم يتم تثبيت أنسجة عالية الجودة. يمكن تحميلها من برنامج تشغيل Epic Games من خيارات تثبيت Fortnite.",
+    "TextureQuality_Description_NoHighMips": "تؤدي زيادة إعدادات الأنسجة إلى منح الأجسام المسطحة مظهرًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلًا، لكنها قد تقلل من الأداء.\n\n<Icon.Warning></> لم يتم تثبيت أنسجة عالية الجودة. يمكن تحميلها من مشغّل Epic Games من خيارات تثبيت Fortnite.",
     "Hitmarkers_Name": "مؤشرات الإصابة",
     "AutoClamber_On": "الاستمرار بالحركة إلى الأمام",
     "AutoHurdle_On": "اضغط باستمرار إلي الأمام",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "منخفض",
     "GeometryQualityLow": "منخفضة",
-    "InstalledTextureQualityLow": "قليلة",
     "PostProcessingQualityLow": "منخفضة",
     "SoundQuality_Low": "منخفضة",
     "TextureQualityLow": "منخفضة",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "أقصى مجال رؤية",
     "EFortSubtitleBackgroundOpacity_Medium": "متوسط",
     "EFortSubtitleTextSize_Medium": "متوسط",
-    "InstalledTextureQualityMedium": "متوسط",
     "PostProcessingQualityMedium": "متوسط",
     "ShadowMedium": "متوسط",
     "TextureQualityMedium": "متوسطة",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "يُرجى تفقد إعدادات جهازك لتفعيل الصوت ثلاثي الأبعاد أو تعطيله.\nلا يعكس هذا الإعداد حالة الصوت ثلاثي الأبعاد الحالية لأن Fortnite تعطّل وضع سماعات الرأس ثلاثية الأبعاد لصالح برنامج الصوت ثلاثي الأبعاد الذي يوفره نظام التشغيل.",
     "RestartConfirmationDescription": "يرجى إعادة تشغيل اللعبة لتطبيق جميع التغييرات.",
     "WarningAboutToUseAdvancedOptions_Message": "يرجى الحذر عند تغيير الخيارات المتقدمة.  الإعدادات الخاطئة قد تؤدي إلى تأثير سلبي على قدرتك على التصويب.",
+    "VirtualPointerHapticIntensity_Name": "شدة الاستجابات اللمسية للمؤشر",
+    "VirtualPointerCursorOpacity_Name": "تعتيم المؤشر",
+    "VirtualPointerSpeed_Name": "سرعة المؤشر",
     "PostProcessingQuality_Name": "المعالجة اللاحقة",
     "PostProcessingQuality_Description": "تشمل تأثيرات ما بعد المعالجة كل من ضبابية الحركة وعمق المجال والازدهار. من شأن زيادة هذه الإعدادات أن يحسّن من جودة تأثيرات ما بعد المعالجة، لكنه قد يؤثر على الأداء.",
     "UsePowerSavingMode_Name": "وضع حفظ الطاقة",
-    "PredownloadCosmetics_Name": "أنسجة الزينة المنزلة مسبقًا",
     "AimAssistSlowStrength_Name": "قوة المساعدة في التصويب الدقيق",
     "PreferredFilledMatchAudioChannel_Name": "القناة المفضلة (تم تشغيل التعبئة)",
     "EnablePreferredItemSlots_Name": "مواضع العنصر المفضلة",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "إيقاف العرض في الخلفية",
     "StopRenderingInBackground_Description": "توقف عن العرض عندما لا تكون نافذة اللعبة مركّزة إن أمكن. توفّر موارد وحدة معالج رسوميات من أجل تطبيقات أخرى.",
     "KeyboardMovementStrafeDiagonal_Name": "زاوية القصف",
-    "CosmeticStreaming_Name": "تنزيل عناصر الزينة",
     "SubtitlePage_Name": "الترجمة",
     "SubtitlesCollection_Name": "الترجمة",
     "Subtitles_Name": "الترجمات",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "لتبديل التحكم في الحركة من العصا اليسرى إلى العصا اليمنى.",
     "AutoImportFriends_Name": "مزامنة قائمة أصدقائك",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "TSR ملحمي",
     "AntiAliasingMethodTSRHigh": "TSR عالٍ",
     "AntiAliasingMethodTSRLow": "TSR منخفض",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "لون النص",
     "TextChatRTR": "الإبلاغ النصي",
     "SubtitleTextSize_Name": "حجم النص",
-    "InstalledTextureQuality_Name": "جودة النسيج",
     "TextureQuality_Name": "الأنسجة",
     "LumenRequiresD3D12": "يجب ضبط إعدادات \"نمط العرض\" على \"DirectX 12\" من أجل تمكين لومن.",
     "NaniteRequiresD3D12": "يجب ضبط إعدادات \"نمط العرض\" على \"DirectX 12\" من أجل تمكين نانايت.",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "يحدد عرض المسافة مقدار المسافة التي سيتم التخلص فيها من الأغراض من أجل الأداء.",
     "TimeReportsActionDescription": "عرض مقدار الوقت الذي قضاه طفلك في Fortnite والوضع الإبداعي وUnreal Editor لـ Fortnite ‏(UEFN) أسبوعيًا.",
     "LegalInformation_Description": "عرض المعلومات القانونية.",
+    "VirtualCursorCollection_Name": "مؤشر افتراضي",
     "VisualizeSoundEffects_Name": "إظهار المؤثرات الصوتية",
     "VisualizeSoundEffectsPriority_Name": "أولوية تأثيرات تخيُل الصوت",
     "VoiceChat": "الدردشة الصوتية",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "عند التفعيل، يمكن بدء تنفيذ أيّ من إجراءات التعديل البسيط التي تتطلب الضغط باستمرار، بضغطة زرّ واحدة، وسيتم إكمالها تلقائيًا بعد انقضاء المدة المحددة.\n\nعند التعطيل، عليك الضغط باستمرار على الزرّ طوال المدة المحددة بأكملها.",
     "TapQuickEdit_Description_XSX": "عند التفعيل، يمكن بدء تنفيذ أيّ من إجراءات التعديل البسيط التي تتطلب الضغط باستمرار، بضغطة زرّ واحدة، وسيتم إكمالها تلقائيًا بعد انقضاء المدة المحددة.\n\nعند التعطيل، عليك الضغط باستمرار على الزرّ طوال المدة المحددة بأكملها.",
     "AutoFireDescription": "عند التفعيل، يتم إطلاق النار من الأسلحة المتوافقة تلقائيًا عندما تصوب جهة عدو.",
-    "TapToShootDescription": "عند التفعيل، أطلق النار بالضغط على أي مكان في الشاشة.",
+    "TapToShootDescriptionAndPriority": "عند التفعيل، أطلق النار بالضغط على أي مكان في الشاشة. قد تكون لها الأولوية على إعدادات النقر الأخرى.",
     "ADSFire_Description": "عند التفعيل، سيؤدي الضغط على زر اللمس النظر والإطلاق أيضًا إلى التصويب عبر المهداف / التصويب عبر المنظار. عند الضغط باستمرار، سيؤدي إفلات زر اللمس النظر والإطلاق أيضًا إلى الخروج من التصويب عبر المنظار المهداف / المنظار.",
     "MinimapPlayerAlwaysFaceNorth_Description": "عند التفعيل، تدور الخريطة المصغرة وفقًا لاتجاه نظر اللاعب. أيقونة مؤشر اللاعب لا تدور. (تعمل بشكل أفضل عند تشغيل إعداد الخريطة المستديرة)",
     "CircularMinimap_Description": "عند التفعيل، ستعرض الخريطة المصغرة الجزء الداخلي لحاوية مستديرة بدلًا من حاوية مربعة (يعمل بشكل أفضل عند تشغيل إعداد قفل دوران الخريطة المصغرة)",
@@ -8309,11 +8313,11 @@
   },
   "FortSettingValueDiscrete_MutualFriends": {
     "SocialPrivacy_MutualFriends_PublicDescription": "سيتمكّن أي لاعب من رؤية الأصدقاء المشتركين في ملف تعريفك",
-    "FriendsOnly": "الأصدقاء فقط",
+    "FriendsOnly": "الأصدقاء فقط:  ",
     "SocialPrivacy_MutualFriends_PrivateDescription": "لن يتمكن أحد من رؤية الأصدقاء المشتركين في ملف تعريفك",
     "SocialPrivacy_MutualFriends_FriendsOnlyDescription": "سيتمكّن أصدقاؤك فقط من رؤية الأصدقاء المشتركين في ملف تعريفك",
-    "Private": "خاص",
-    "Public": "عام"
+    "Private": "خاص:  ",
+    "Public": "عام:  "
   },
   "FortSettingValueDiscrete_OverallQualityPresets": {
     "MobileFPSType_MobileNote": "<strong>ملحوظة: قد يؤثر اختيار إعداد مسبق ذي جودة أعلى في معدل إطارات اللعبة.</>",
@@ -8332,8 +8336,8 @@
   },
   "FortSettingValueDiscrete_PartyPrivacy": {
     "PartyPrivacy_Matchmaking": "معطّل في أثناء عملية العثور على اللاعبين.",
-    "PartyJoinability_Private": "دعوة فقط",
-    "PartyJoinability_Joinable": "قابل للانضمام",
+    "PartyJoinability_Private": "دعوة فقط:  ",
+    "PartyJoinability_Joinable": "قابل للانضمام:  ",
     "PartyPrivacy_NotPartyLeader": "أنت لست قائد المجموعة."
   },
   "FortSettingValueDiscrete_ProfileBadges": {
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "اذهب إلى إعدادات الرقابة الأبوية",
     "VoiceChatDisabled_LearnMore": "معرفة المزيد",
     "VoiceChatDisabled_ParentalControlsButtonOther": "فتح إعدادات الرقابة الأبوية",
+    "VoiceChatDisabledDescription_Other": "هذه الميزة غير متاحة لك. ",
     "VoiceChatDisabled_TurnOnFromPanel": "تفعيل الدردشة الصوتية",
     "VoiceChatDisabledDescription_Parental": "الدردشة الصوتية معطلة بسبب إعدادات الرقابة الأبوية.",
     "VoiceChatDisabledDescription_Platform": "لا يمكنك استخدام الدردشة الصوتية بسبب إعدادات خصوصية منصتك.",
-    "VoiceChatDisabledDescription_User": "لا يمكنك استخدام الدردشة الصوتية بسبب إعدادات الصوت لديك. غيّرها في الأسفل!",
-    "VoiceChatDisabledDescription_Other": "حظر أحد والديك أو وليّ أمرك هذه الميزة عبر إعدادات الرقابة الأبوية. "
+    "VoiceChatDisabledDescription_User": "لا يمكنك استخدام الدردشة الصوتية بسبب إعدادات الصوت لديك. غيّرها في الأسفل!"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "لا يمكن تغيير أوضاع اللعبة",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "حدث خطأ عند إرسال الرسالة:{0}",
     "HiddenPlayerSays": "يقول لاعب متخفٍ: ",
     "BlockedPlayerMessage": "رسالة مخفية",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "تم تعطيل الدردشة النصية لأن برنامج اللعبة هذا في وضع البطولة.",
     "TextChatEnabled": "تم تفعيل الدردشة النصية.",
     "DisabledBySocialBan": "الدردشة النصية معطلة بسبب الحظر الاجتماعي على حسابك.",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "تعذر بدء المطابقة.",
     "FortMatchmakingContext_WarningDialogTitle": "تحذير المطابقة",
     "NoFill": "لا تعبئة",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "لا توجد مهام متوفرة",
+    "FortMatchmakingContext_NoMissionsForProgress": "لا توجد مهام متوفرة",
+    "FortMatchmakingContext_NoMissionsInTheater": "لا توجد مهام متوفرة",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "لا توجد مهام متاحة عند مستوى تقدمك الحالي.\nحاول اختيار لعب سريع أو مخصص.",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "لا توجد مهام متاحة في المسرح الحالي.\nحاول اختيار مسرح مختلف.",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "لا توجد مهام متوفرة في مستوى القوة المحدد.\nجرّب اختيار مستوى قوة مختلف.",
     "Private": "خاص",
     "Public": "عام",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "المجموعة لا تمتلك تصنيف الطاقة الكافي للعب في هذا المهمة. حاول تحديد مهمة أقل صعوبة أو تغيير تركيبة مجموعتك أو إعداد خصوصية مهمتك على الأصدقاء فقط أو خاص.",
@@ -10716,6 +10727,10 @@
     "EditFactText": "تعديل نص الحقيقة",
     "EditInPromptEditor": "تعديل أداة تحرير التوجيهات"
   },
+  "LLMSession": {
+    "ModerationMsg": "تمت مراجعة الرد",
+    "UnknownRestriction": "قيود غير معروفة"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "افتح هذه المجموعة للحصول على مكافآت"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "يتطلب استلام جميع عروض {GroupName}"
+    "GroupComplete_Member_Incomplete": "احصل على كل مكافآت {GroupName} الأخرى",
+    "GroupComplete_Nonmember_Incomplete": "احصل على كل المكافآت من {GroupName}"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "الفتح في {Date}"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "Fortnite شكرًا لك على لعب ",
     "PurchaseHeader": "تم استلام {0}|plural(zero=عنصر, one=عنصر, two=عنصر, few=عناصر, many=عنصر, other=عنصر)"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "لا يتوفر خيار تغيير اسم العرض الخاص بالعنصر التجميلي لهذه الشخصية غير القابلة للعب."
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "إضافة مسار",
     "AddTrack_ToolTip": "إنشاء مسار حركة جديد"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "فتح الميكروفون",
     "ChannelPreferredSocial": "القناة المفضلة",
     "VoiceChatRestricted_Parental": "محظور بواسطة إعدادات الرقابة الأبوية",
+    "VoiceChatRestricted_Other": "هذه الميزة غير متاحة لك. ",
     "VoiceChat_UserSocial": "الدردشة الصوتية",
     "VoiceChatParentDisabled": "الدردشة الصوتية معطلة بواسطة إعدادات الرقابة الأبوية",
     "VoiceIndicatorsSocial": "مؤشرات الصوت",
     "VoiceMethod": "الطريقة الصوتية",
-    "VoiceVolumeSocial": "مستوى الصوت",
-    "VoiceChatRestriced_Other": "حظر أحد والديك أو وليّ أمرك هذه الميزة عبر إعدادات الرقابة الأبوية. "
+    "VoiceVolumeSocial": "مستوى الصوت"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "قناة إيكو",

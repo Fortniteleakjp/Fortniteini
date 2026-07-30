@@ -77,6 +77,7 @@
     "FortnitePreLoadScreen.LowDataErrorBody": "Stai per scaricare contenuti di Fortnite mentre sul tuo dispositivo è attiva la modalità consumo dati ridotto. Questo richiederà un download di circa {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.CellularDataWarningBody": "Stai per usare la rete dati per scaricare contenuti di Fortnite. Questo richiederà un download di circa {DownloadSizeEstimate}.",
     "FortnitePreLoadScreen.DiskSpaceWarningBody.NeedAdditionalSpace.iOS": "Hai bisogno di altri {SpaceAdditional} per installare Fortnite.\n\nLibera dello spazio sul tuo dispositivo e riprova.\n\n1. Vai in Impostazioni\n\n2. Seleziona Generali\n\n3. Seleziona Spazio su iPhone/iPad\n\n4. Rimuovi app che non usi\n",
+    "FortnitePreLoadScreen.ErrorBodyWithInternalErrorInfo": "{0}\n{1}",
     "FortnitePreLoadScreen.InstallPatchPercent": "{0}%"
   },
   "FortniteShaderCompileScreen": {

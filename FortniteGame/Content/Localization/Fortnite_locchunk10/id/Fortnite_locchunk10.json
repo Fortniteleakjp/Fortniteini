@@ -563,7 +563,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "DX Tong-Besar",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplane",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplane",
-    "DF56207843F6244003548CA79CFAA0F4": "Biplane",
     "AD9DF9A2455C274907AE29971466ADBA": "Pedang",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Pedang",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Bling",
@@ -812,7 +811,6 @@
     "FBE35F9048721C96F2FDDC96FD2025ED": "Menentukan tim mana (jika ada) yang melihat indikator HUD sebagai Kawan. Hanya relevan untuk ikon Gaya Lencana. ",
     "129650534E9339B784AAB9B5C32678A6": "Menentukan tim mana yang bisa melihat ikon HUD. Hanya relevan untuk ikon Gaya Lencana.",
     "9AED3EE2432C86562FC1268D4F02CA40": "Menentukan tim mana yang bisa melihat ikon HUD. Hanya relevan untuk ikon Gaya Lencana.",
-    "9ED0402E45E51A7C7B9119BEB9A89DDD": "Dire",
     "C90BA6D147AC6F970F343F814B24620B": "Nonaktifkan Aktivasi Saat Berlari",
     "BD5501F945FD5E68B86AA19785403260": "Menonaktifkan Spawner Kendaraan, agar tidak memunculkan kendaraan lagi.",
     "BD1640424CA1561290BF568D12001009": "Menonaktifkan Spawner ini saat menerima sinyal dari saluran terpilih.",
@@ -932,6 +930,7 @@
     "0D86093444F08DC08C2564BD1F7F9D52": "Pistol Senter",
     "61B2FEBF4CCA493724B5EFB8888F51CC": "Pistol Senter",
     "E576A6EA43FB3390DF995597CC8787B5": "DX Indikator Garis Datar",
+    "EC2248AB4AAE78827455E396D0611068": "Teks Penghias",
     "A7FC866241FA661C68609CB3E03F6CEC": "Terbang",
     "01B10F554E9863503405E890B39DCFAA": "Pemeriksaan Tantangan Mingguan Fortbyte 6",
     "43DA2A90437D506CE8205EAFABE1CBD6": "Pemeriksaan Tantangan Mingguan Fortbyte 6",
@@ -1050,9 +1049,7 @@
     "2BAF9D994E20140BCD7F59A7CAC81BA3": "Putaran Balik Kuburan",
     "A4341A0045390C670F4757948E6E3CE5": "Tsunami Kuburan",
     "F0737F4E40417749A441A59843B932F0": "Voyager Kuburan",
-    "8B52C5AD4891876163EE09B5632D41E8": "Kehebatan itu abadi.",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Hijau",
-    "B7E15FA04E521D9780C3B9BA4A51FE1B": "Grind",
     "0527EEDF4C1C3DC79266D49836DEF54C": "Kartu Kunci Grotto",
     "7F90D27A40A35D195B511AAE906A6A36": "Kartu Kunci Grotto",
     "7E6F527B407E9A6E8B1FED863069924E": "Senjata Api Senapan Serbu Senapan Mesin PeluruRingan Otomatis",
@@ -1085,7 +1082,6 @@
     "85223E3A425E09126593BDA8330B7B47": "Meriam Tangan",
     "89587ADB427212BBA1354BB2C1FF6E8F": "Meriam Tangan",
     "9CBF2A9D457F7567D62990B2A189E194": "Meriam Tangan +",
-    "50894D884F5D8695DB841F90521FCF55": "Hangtime",
     "4146A9BB44EB2CECB9EE6EACBB562FAF": "Memiliki program parenting dan modul yang tidak diperlukan",
     "64F8ED534DCB3384F84C0BA28011E1FA": "Memiliki program parenting dan modul yang tidak diperlukan",
     "ACDBBC5B4A1B8C964B0E2E8280890CB4": "Memiliki program parenting dan modul yang tidak diperlukan",
@@ -1232,7 +1228,6 @@
     "F70FCB1B48FBE8B96384CA9E36C5E7EF": "Indikator Garis Datar Malas",
     "CA6D0D87420CCE166090BAB2B3B09E44": "G-Flip Malas",
     "8DEE71084CFD3D885BB21C8D75A996A1": "Putaran Malas",
-    "5A89A3D94A16CB89627CA7A4A8E51680": "Pemimpin kawanan.",
     "4B9669B24C5C3C8848B6C681DB24CEAC": "Tinggalkan satu <Emphasized>Ranjau Jarak Dekat</> di tempat kamu tereliminasi",
     "C249F11F41E9E062B8B2E7852084DFB9": "Kiri",
     "3DA57402427AD07E9EEF1182BFB26A44": "Ekor Kiri",
@@ -1407,6 +1402,7 @@
     "298FB27645D7C32D54B43BBCB14C0141": "Tanpa perulangan",
     "400B329C4C3CFA025EA0409641DF37CB": "Tidak Ada",
     "6B12549A41998E4E0A87668FD5B4D36C": "Tidak Ada",
+    "8456D15B451996C5FCF369A843AE73FA": "Tidak Ada",
     "B67463454D0A16C5C16CBB999DCAA7AC": "Tidak Ada",
     "B80739BB481E9A1C6DB2C997EAE98FF3": "Tidak Ada",
     "EF843B494FDA05FB7C7B2DB7AE622C41": "Tidak Ada",
@@ -1415,6 +1411,7 @@
     "B21E26B344A08F134FF7ADAE7EDE2D7C": "Normal",
     "BAA20C7E45A8CB12B6B595A82F8DBFF9": "Normal",
     "6A53B95F4D7AB0BB4F25E29F308E7FAE": "Tidak ada apa-apa di sini. Hanya <Emphasized>kotak bergerak</>",
+    "A8ED9F2147208BC05E4116B1F6BF176A": "Token Null",
     "2A743E1048A4D22ED47940B99A99FD94": "OG Pass",
     "2FA98907484D5AA64173C5B93C5D30F1": "Objective",
     "2AE212EE406A3146388589A8AFC54CF3": "Senapan Serbu Rentetan Ocean",
@@ -1490,6 +1487,7 @@
     "0D1AEBB0427B4E21E54855818104BF8A": "Letakkan Infinity Blade agar bisa diambil pemain.",
     "1F62B87A4BC128082F4198855D3F6FDE": "Letakkan Infinity Blade agar bisa diambil pemain.",
     "9EC314644018A0419EA1F482397A0E43": "Tempatkan titik jalur untuk memandu jalan.",
+    "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Token Kelayakan Survei Pemain",
     "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "65F0C77E4EA5605341D87AA41286CF8F": "PemainPionAthena",
@@ -1541,7 +1539,6 @@
     "25171EA942DC385DE7E5798BBB4969A1": "Letakkan",
     "3B2F170F40934B3A5C46F1B55E412D4A": "Padamkan apinya!",
     "43088BA143F2B6BCAEE378847172BE8C": "Quadcrasher",
-    "CC13E7A44B19B6541560D085C426791D": "Quadcrasher",
     "393E9456499B520AC90D5E8597A7D23D": "SMG Diam yang menimbulkan <Emphasized>damage yang bertambah</> pada <Emphasized>5 peluru terakhirnya</>",
     "43E272F8443991243556F0AB98EC9BBE": "BATU REALITAS",
     "2A5097B944627605414956BB8AE4337B": "Acak",
@@ -1848,7 +1845,6 @@
     "CBC05E714B87E7BE8B6FC596A6097237": "SMG Berperedam",
     "DDDAFD77445379EE9BAF399713A063D6": "Penyintas",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Berenang <Emphasized>lebih cepat</>",
-    "6D0C33224AC0E0AF4F3DF1AB2807B903": "Swish",
     "E928E3A54C017ABB67564BB0EE06B190": "Ganti Profil",
     "85D867BC4BF95138BD5A05A4705FB62F": "Ganti Tempat Duduk",
     "8F0C992C457A0ED11DC7F089C2563C02": "Ganti Tempat Duduk",
@@ -1893,8 +1889,6 @@
     "C50719694B9C30B3DED7F0B9B98CF7A3": "Tanky",
     "50B5E23B4F691D00F8BE3C984622679F": "Visibilitas Tim",
     "C0CC3CB54F2FCDE3DD8DE799AED105CF": "Visibilitas Tim",
-    "8FF029D544B7EC9500BD199AEE1CE927": "Obrak-abrik lapangan.",
-    "E15F90714DA6FDFD9053248626AB156F": "Obrak-abrik lapangan.",
     "03E580304DC6BBC29D3304B6E0D4105A": "Upgrade Senjata",
     "0BFFED7C45F4262BCD7EA598F65AA0E8": "Upgrade Senjata",
     "0D6EDFCB4FC4E5FFAE540BA5638E42B4": "Upgrade Senjata",
@@ -2116,7 +2110,6 @@
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Kunci Festival Musim Dingin",
     "194B94D745612B291C0C0CAC0487B727": "Tongkat Sapu Penyihir",
     "EFCEF17944284794FC6D49B915B991EE": "Tongkat Sapu Penyihir",
-    "98D7CCAA4958E10FCC9C2BAFE1CCBF60": "Wrath",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "Titiknya Ada di Tanda X!",
     "D40AA64648243870B6889FA424D3E046": "Stormwing X4",
@@ -2688,6 +2681,9 @@
   "AthenaProfileStatsBase": {
     "AllPlaylists": "Gabungan"
   },
+  "AthenaProgressModal": {
+    "ProgressModalCancelAction": "Batal"
+  },
   "AthenaQuestProgression": {
     "ChallengCountFormat": "<text color=\"FFF\">{CompletedCount}</> / {RequiredCount}"
   },
@@ -2717,6 +2713,9 @@
     "SeasonTextFormat": "Musim {0}",
     "ChapterSeasonTextFormat": "{0}, {1}"
   },
+  "AthenaSpectateMatchModal": {
+    "SpectateRequestFailed": "Tidak bisa mulai menonton. Pertandingan mungkin sudah berakhir, atau akunmu mungkin tidak diatur untuk menonton pertandingan."
+  },
   "AthenaStarterKitOfferButton": {
     "StarterKitOfferVBucks": "{0} V-BUCK",
     "StarterKitOfferContent": "{0} V-BUCK + {1} {1}|plural(one=ITEM,other=ITEM)"
@@ -2740,7 +2739,7 @@
   "AtomActorValidator_Overlap": {
     "DetailedCollisionOverlappingActors": "{0}",
     "AddingOverlappingActorsHitActor": "{0}\n{1}",
-    "AddingOverlappingActors": "{0}Aktor {1} tumpang tindih dengan {2} aktor lain:"
+    "AddingOverlappingActors": "{0}Aktor '{1}' tumpang tindih dengan aktor{2} lain: '{3}'"
   },
   "Augments": {
     "AugmentsRerollContext": "/ {0}"
@@ -4808,6 +4807,7 @@
     "AnimNodeProfilerStatEventTitle": "Acara Stat Profiler",
     "AnimNodeProfilerStatEventTooltip": "Acara Stat Profiler",
     "QuadrupedSlopeWarping": "Lereng Berkaki Empat Melengkung",
+    "RootSlopeTilt": "Kemiringan Lereng Akar",
     "ScaleCharacterBones": "Skala Tulang Karakter",
     "PredictiveStrideWarpingTooltip": "Skala Kaki IK untuk mencocokkan kecepatan gerakan menggunakan tulang prediksi kaki untuk mengantisipasi pergerakan tubuh.",
     "SpeedWarpingTooltip": "Skala Kaki IK untuk mencocokkan kecepatan gerakan.",
@@ -4816,6 +4816,7 @@
     "ScaleHuskBonesTooltip": "Menentukan skala tulang Husk berdasarkan tipenya. (yaitu Husk kerdil berukuran kecil tetapi memiliki kepala besar)",
     "SetIKTarget_Description": "Atur Target IK Kaki",
     "SpeedWarping": "Kecepatan Warping",
+    "RootSlopeTiltTooltip": "Memiringkan akar kerangka ke arah normal lantai dengan fraksi yang dijepit, memungkinkan node slope-warp bawah menyelesaikan ulang anggota badan terhadap tubuh yang sudah miring.",
     "TransformRollerTreads": "Transformasi Rol/Tapak",
     "TransformRollerTreadsTooltip": "Mengubah roller untuk kendaraan berulir"
   },
@@ -5412,6 +5413,10 @@
     "LinkedGraphNotFound": "@@ - Tidak ditemukan grafik yang terhubung",
     "FortAnimNode_LinkedGraphGate_ToolTip": "Membatasi grafik anim tertaut atau lapisan untuk mencegahnya diperbarui apabila instance terkait telah dinonaktifkan",
     "Title": "Batas Grafik Tertaut"
+  },
+  "FortLinksMatchmaking": {
+    "NoPlayersToJoin": "Tidak Ada Pemain yang Ditemukan",
+    "NoPlayersToJoin_Desc": "Tidak ada orang lain yang bermain di sini sekarang.\nLanjutkan ke sesimu sendiri?"
   },
   "FortLocalUserEntry": {
     "VoiceChatDisabledStatus": "Suara Dinonaktifkan"
@@ -6052,9 +6057,11 @@
     "PlayScheduleTitle": "<Strong>JADWAL MAIN</>"
   },
   "FortPlaytimeSchedule": {
+    "PlaytimeScheduleAnyTime": "Kapan Saja",
     "PlaytimeScheduleEveryDay": "Setiap hari",
     "PlaytimeScheduleFriday": "Jumat",
     "PlaytimeScheduleMonday": "Senin",
+    "PlaytimeScheduleNoWindow": "Tidak Ada Jendela Waktu yang Diizinkan",
     "PlaytimeScheduleSaturday": "Sabtu",
     "PlaytimeScheduleSunday": "Minggu",
     "PlaytimeScheduleThursday": "Kamis",
@@ -6286,6 +6293,9 @@
     "Item_reward_Type_grant_item": "{0} BARU!",
     "quest_reward_grant_quest": "Objective SELESAI"
   },
+  "FortReadyPlayers": {
+    "ReadyCountFormat": "Pemain Siap: {0}/{1}"
+  },
   "FortRealMoneyOfferDetails": {
     "BattlePassLevelError": "Battle Pass sudah level {0}",
     "PurchaseNotAllowed_FounderPack": "Untuk membeli {0}, minta orang tua atau walimu untuk mengatur akun melalui Kontrol Orang Tua.",
@@ -6420,7 +6430,6 @@
     "AmpleHammer_SettingDescription": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">AKTIF</>: Anak Anda dapat berinteraksi dengan fitur AI di produk Epic Games melalui komunikasi suara dan komunikasi tertulis teks bebas. Ini termasuk berinteraksi dengan AI percakapan karakter yang tidak bisa dimainkan di Fortnite\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">NONAKTIF</>: Anak Anda tidak dapat berinteraksi dengan fitur AI di produk Epic Games melalui komunikasi suara dan tertulis.\n\nCatatan: Kontrol ini tidak berlaku untuk interaksi dukungan bertenaga AI.",
     "AllowPaidRandomItemsSetting_Description": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Aktif</>: Anak Anda DAPAT menggunakan V-Buck (atau konten yang dibeli dengan V-Buck) untuk item atau konten dengan hadiah acak. \n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nonaktif</>: Anak Anda TIDAK DAPAT menggunakan V-Buck (atau konten yang dibeli dengan V-Buck) untuk item atau konten dengan hadiah acak.",
     "AllowCreativeExperiences_Desc": "<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Aktif</>: Anak Anda dapat merancang game dan pengalaman di Fortnite, dan dapat bergabung dengan teman-temannya saat mereka merancang pengalaman mereka sendiri.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nonaktif</>: Anak Anda tidak dapat merancang game dan pengalaman di Fortnite, dan tidak dapat bergabung dengan teman-temannya saat mereka merancang pengalaman mereka sendiri.\n\nCatatan: Saat merancang pengalaman Fortnite, pemain dapat berinteraksi dengan konten yang belum dikirimkan ke Fortnite Publishing untuk moderasi dan karena itu belum dinilai. Pemain juga dapat membuat konten, termasuk teks, yang mungkin terlihat oleh kolaborator mereka. \n\nKetahui lebih lanjut tentang Kreatif di fn.gg/creative.",
-    "PredownloadCosmetics_InstallSize": "<text color=\"FFFF00\">Mengaktifkan Praunduh Tekstur Kosmetik akan menggunakan kapasitas penyimpanan tambahan sebesar {InstallSize}.</>\n\n",
     "AnnualRefundRequests_Format": "<text color=\"FFFFFF\" size=\"26\">{0} Tiket Pengembalian tersedia</>",
     "AnnualRefundTokenRequests_Description": "<text size=\"22\">Batalkan Pembelian</>\n\nKamu bisa membatalkan pembelian tidak disengaja yang dilakukan menggunakan V-Buck. Batalkan Pembelian tersedia hingga kamu memakai atau menggunakan item yang dibeli selama permainan. Hanya item yang dibeli dalam 24 jam terakhir yang memenuhi syarat untuk Batalkan Pembelian.\n\nUntuk info lebih lanjut, lihat fn.gg/cancelpurchase\n\n<text size=\"24\">Pengembalian Pembelian</>\n\nJika kamu secara tidak sengaja membeli item menggunakan V-Buck dan pembatalan pembelian tidak lagi tersedia, kamu dapat menggunakan salah satu dari 3 Tiket Pengembalian tahunanmu. Kamu akan menerima satu Tiket Pengembalian tambahan setiap 12 bulan, hingga maksimum 3 tiket. Setiap tiket ditambahkan 12 bulan setelah tiket terakhir yang diterima. Hanya item yang dibeli dalam 30 hari terakhir yang memenuhi syarat untuk pengembalian.\n\nItem Habis Pakai, seperti Battle Pass, Level Battle Pass, atau Llama, tidak bisa dikembalikan.",
     "ScopedSpeedMultiplier_Description": "Pengganda yang diterapkan pada sensitivitas pandangan saat membidik ADS dengan senjata yang menggunakan teropong.  Pengaturan kurang dari 1x akan mengurangi sensitivitas saat membidik dengan ADS.  Pengaturan lebih dari 1x akan meningkatkan sensitivitas saat membidik dengan mode ADS.",
@@ -6493,7 +6502,10 @@
     "TriggerHapticsCollection_Name": "Pemicu Adaptif",
     "TriggerHapticsStrength_Name": "Kekuatan Pemicu Adaptif",
     "UserInterfaceContrast_Description": "Sesuaikan kontras antarmuka pengguna.",
+    "VirtualPointerCursorOpacity_Description": "Mengatur transparansi penunjuk di layar. Nilai yang lebih rendah membuat penunjuk lebih transparan.",
+    "VirtualPointerSpeed_Description": "Menyesuaikan seberapa cepat penunjuk di layar bergerak. Nilai 5 adalah kecepatan default; nilai yang lebih rendah berarti lebih lambat dan yang lebih tinggi berarti lebih cepat.",
     "Brightness_Description": "Menyesuaikan kecerahan.",
+    "VirtualPointerHapticIntensity_Description": "Menyesuaikan kekuatan umpan balik haptik saat menggunakan penunjuk di layar.",
     "AdvancedAimSensitivityCollection_Name": "Lanjutan - Sensitivitas Metode ADS",
     "BasicLookOptionsCollection_Name": "Lanjutan - Sensitivitas Pandangan",
     "SuperAdvancedSensitivityCollection_Name": "Tingkat Lanjut - Sensitivitas",
@@ -6530,7 +6542,6 @@
     "ShowSpeechToText_Name": "Izinkan Dikte Suara",
     "AllowNotifications_Description": "Izinkan notifikasi dan dapatkan notifikasi untuk unduhan konten, undangan teman dan kelompok, musim baru, event berbatas waktu, pengumuman, dan promosi. Konfigurasikan pengaturan ini kapan saja.",
     "AmpleHammer_DetailName": "Izinkan komunikasi suara dan tertulis dengan Fitur AI",
-    "AutoDownloadHighResTexturesReminders_Description": "Memungkinkan pengingat untuk ditampilkan terkait mengaktifkan kembali unduhan otomatis untuk tekstur resolusi tinggi.\n\nCATATAN: Pengingat hanya akan muncul jika kamu memiliki ruang penyimpanan yang diperlukan untuk mengaktifkan fitur ini dan unduhan otomatis dalam keadaan \"NONAKTIF\".\n\nNONAKTIF: Fortnite tidak akan mengirimkan pengingat tentang mengaktifkan tekstur resolusi tinggi.\n\nAKTIF (default): Fortnite akan mengirimkan pengingat tentang mengaktifkan tekstur resolusi tinggi.\n\n",
     "AllowLowPower_Description": "Memungkinkan game untuk secara otomatis menurunkan pengaturan untuk menghemat daya.",
     "LockPrimaryInputMethodToMouse_Description": "Memungkinkan penggunaan Input Pengontrol dan Input Mouse secara bersamaan, serta mengunci umpan balik input ke saran Mouse dan Keyboard, alih-alih membuat metode input saling bertentangan.",
     "EnablePreferredItemSlots_Description": "Memungkinkanmu untuk menggunakan slot inventaris pilihan untuk senjata atau tipe item. Saat item diambil, item yang kamu pilih akan ditempatkan ke slot inventaris pilihannya.\n\nItem yang belum terpakai akan ditempatkan pada slot bilah alih pertama yang tersedia dan disusun ulang jika tipe item yang diinginkan diambil.\n\n• Kelangkaan akan ditukar saat item sejenis yang lebih langka diambil. Mis. Senapan Gentel Pompa Uncommon akan ditukar dengan Senapan Gentel Pompa Epic. Item yang lebih umum akan dipindahkan ke slot pertama yang tersedia.\n\n• Urutkan Otomatis Item Habis Pakai ke Kanan akan terus difungsikan pada Slot Item yang Dipilih.\n\n• Slot item pilihan hanya akan aktif ketika ada minimal satu slot inventaris kosong.",
@@ -6601,7 +6612,6 @@
     "CustomMobile_DynamicResolutionTrue": "Otomatis",
     "AutoConfirmEdits_Name": "Konfirmasikan Otomatis Pengeditan",
     "AutoInteractConsumables_Name": "Konsumsi Otomatis Item Pungutan",
-    "AutoDownloadHighResTextures_Name": "Unduh Otomatis Tekstur Resolusi Tinggi",
     "STW_AutoEquipBetterItems_Name": "Pakai Otomatis Item yang Lebih Baik",
     "AutoFireName": "Tembakan Otomatis",
     "AutoInteractContainers_Name": "Buka Kontainer Otomatis",
@@ -6696,7 +6706,6 @@
     "SubtitleTextBorder_Description": "Memilih tepian yang berbeda untuk teks.",
     "SubtitleTextColor_Description": "Memilih warna yang berbeda untuk teks subtitle.",
     "SubtitleTextSize_Description": "Memilih ukuran yang berbeda untuk teks subtitle.",
-    "InstalledTextureQuality_Description": "Pilih level detail untuk tekstur Fortnite. Dengan meningkatkan pengaturan ini, Fortnite akan memuat tekstur saat ditemukan di dalam game dan akan tampak lebih detail, tetapi meningkatkan penggunaan jaringan dan menurunkan performa di perangkatmu.\n\n<text color=\"FFFF00\">'Unduhan Data Seluler' harus diatur ke 'AKTIF' agar bisa menggunakan tekstur berkualitas lebih tinggi dengan data seluler.</>",
     "Hitmarkers_Description": "Pilih suara yang akan diputar saat mengenai target.",
     "TextChat_Desc": "Pilih siapa saja yang bisa bertukar pesan dengan anak Anda di grup, kelompok, dan game. Anak Anda hanya bisa bertukar pesan secara pribadi dengan teman Epic.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Semua Orang</>: Anak Anda bisa melakukan obrolan teks dengan semua orang.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Teman, anggota tim, dan koneksi</>: Anak Anda bisa melakukan obrolan teks dengan teman Epic, teman platform{0}, semua orang di timnya, dan koneksi. Koneksi adalah orang-orang yang tidak berteman dengan anak Anda, tetapi terhubung dengan anak Anda melalui teman-temannya. Ukuran tim berbeda tergantung pengalaman bermain dan bisa berjumlah beberapa pemain hingga semua orang di dalam game.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Hanya Teman</>: Anak Anda hanya bisa melakukan obrolan teks dengan teman Epic dan platform.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tidak Ada:</>: Anak Anda tidak bisa melakukan obrolan teks dengan siapa pun.\n\nMemilih <strong>Tidak Ada</> tetap mengizinkan pemain menggunakan pesan dari daftar frasa aman yang ada di dalam game (seperti \"Bagus Sekali!\"), jika didukung.",
     "VoiceChat_ParentalControls_Description_Expanded": "Pilih siapa saja yang bisa berbicara dengan anak Anda di grup, kelompok, dan game.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Semua Orang</>: Anak Anda bisa melakukan obrolan suara dengan semua orang.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Teman, anggota tim, dan koneksi</>: Anak Anda bisa melakukan obrolan suara dengan teman Epic, teman platform{0}, semua orang di timnya, dan koneksi. Koneksi adalah orang-orang yang tidak berteman dengan anak Anda, tetapi terhubung dengan anak Anda melalui teman-temannya. Ukuran tim berbeda tergantung pengalaman bermain dan bisa berjumlah beberapa pemain hingga semua orang di dalam game.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Hanya Teman</>: Anak Anda hanya bisa melakukan obrolan suara dengan teman Epic dan platform.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Tidak Ada:</>: Anak Anda tidak bisa melakukan obrolan teks dengan siapa pun.",
@@ -6832,7 +6841,6 @@
     "GyroButtonNothing": "Jangan Lakukan Apa Pun",
     "ToggleDoubleTapAutorun_Name": "Ketuk Dua Kali untuk Lari Otomatis",
     "DownloadDetailsCollection_Name": "Pengaturan Unduhan",
-    "CosmeticStreaming_Description": "Hanya unduh kosmetik yang diperlukan ketika kamu menemukannya selama bermain.\n\nCATATAN: Koneksi internet yang lebih lambat dapat mengalami masalah performa ketika game melakukan streaming kosmetik. Menonaktifkan fitur ini akan memerlukan ruang disk yang lebih besar.\n\nAKTIF: Fortnite hanya akan mengunduh kosmetik yang ditemui dalam game.\n\nNONAKTIF: Fortnite akan mengunduh semua kosmetik.",
     "GyroDisabledWhileDriving_Name": "Mengemudi Menonaktifkan Gyro",
     "EFortSubtitleTextBorder_DropShadow": "Bayangan Jatuh",
     "CanSeeOtherPlayersNames_Desc": "Selama pertandingan, nama akun pemain yang tereliminasi akan muncul di layar.\nPengaturan ini memungkinkanmu mengganti nama pemain lain yang tidak ada di dalam skuadmu menjadi \"Pemain\" dalam pesan-pesan tersebut.\n\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Catatan</>: Kamu masih akan bisa melihat nama pemain di \"skuad\" yang sama (hingga tiga pemain lain di timmu yang mungkin atau mungkin bukan temanmu).\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Aktif</>: Kamu akan melihat nama pemain yang bukan anggota skuad.\n<text color=\"00FFD6FF\" fontface=\"black\" case=\"upper\" size=\"20\">Nonaktif</>: Mengganti nama pemain yang tidak ada di dalam skuadmu dengan \"Pemain\"\n",
@@ -6896,7 +6904,6 @@
     "GamepadFlickStick_Description_PS5": "Mengaktifkan Flick Stick. Jika diaktifkan, arahkan tuas kanan pada controller-mu ke arah mana pun untuk dengan cepat memutar kamera menghadap ke arah tersebut. Sebagai contoh, jika tuas ditarik mundur, kamera akan berputar ke belakangmu. Setelah tuas dimiringkan, putar untuk menyesuaikan arahmu.\n\nKarena ini artinya kamu tidak lagi bisa membidik atas dan bawah dengan tuas, sebaiknya selalu aktifkan Bidikan Gyro atau atur efek tuas kanan untuk MENGAKTIFKAN agar kamu bisa mengaktifkan gyro untuk melihat atas atau bawah kapan saja dengan menggerakkan tuas.",
     "GamepadFlickStick_Description_XB1": "Mengaktifkan Flick Stick. Jika diaktifkan, arahkan tuas kanan pada controller-mu ke arah mana pun untuk dengan cepat memutar kamera menghadap ke arah tersebut. Sebagai contoh, jika tuas ditarik mundur, kamera akan berputar ke belakangmu. Setelah tuas dimiringkan, putar untuk menyesuaikan arahmu.\n\nKarena ini artinya kamu tidak lagi bisa membidik atas dan bawah dengan tuas, sebaiknya selalu aktifkan Bidikan Gyro atau atur efek tuas kanan untuk MENGAKTIFKAN agar kamu bisa mengaktifkan gyro untuk melihat atas atau bawah kapan saja dengan menggerakkan tuas.",
     "GamepadFlickStick_Description_XSX": "Mengaktifkan Flick Stick. Jika diaktifkan, arahkan tuas kanan pada controller-mu ke arah mana pun untuk dengan cepat memutar kamera menghadap ke arah tersebut. Sebagai contoh, jika tuas ditarik mundur, kamera akan berputar ke belakangmu. Setelah tuas dimiringkan, putar untuk menyesuaikan arahmu.\n\nKarena ini artinya kamu tidak lagi bisa membidik atas dan bawah dengan tuas, sebaiknya selalu aktifkan Bidikan Gyro atau atur efek tuas kanan untuk MENGAKTIFKAN agar kamu bisa mengaktifkan gyro untuk melihat atas atau bawah kapan saja dengan menggerakkan tuas.",
-    "AutoDownloadHighResTextures_Description": "Memungkinkan Fortnite untuk secara otomatis mengunduh tekstur resolusi tinggi. Tekstur resolusi tinggi membuat tampilan Fortnite lebih detail.\n\nCATATAN: Koneksi internet yang lebih lambat atau perangkat dengan ruang penyimpanan terbatas mungkin akan mengalami masalah kinerja saat game mengunduh tekstur resolusi tinggi. Menonaktifkan fitur ini dapat membantu meningkatkan kinerja dan menghemat ruang penyimpanan.\n\nAKTIF: Fortnite akan secara otomatis mengunduh tekstur resolusi tinggi.\n\nNONAKTIF: Fortnite tidak akan secara otomatis mengunduh tekstur resolusi tinggi.",
     "EasyLootGridEnabled_Description": "Mengaktifkan widget yang bisa digulir untuk menampilkan item terdekat. Lalu, kamu bisa mengambil item dari sana dengan mengekliknya daripada harus mengeklik widget item yang sebenarnya di tempat kejadian.",
     "EnergySavingIdle_Description": "Mengaktifkan penghematan energi ketika game masuk ke mode idle di Layar FrontEnd. Mode idle dimulai setelah tidak ada aktivitas selama 30 detik.",
     "EnergySavingFocus_Description": "Aktifkan penghematan energi ketika jendela game bukan merupakan jendela aktif.",
@@ -6913,7 +6920,6 @@
     "CameraAssists_Description": "Dengan mengaktifkan bantuan kamera, berarti kamera akan berputar secara aktif saat kamu menggerakkan karakter sehingga kamu tidak perlu mengendalikan kamera secara manual, kecuali jika kamu ingin membidik sesuatu.",
     "AutoCenter_Description": "Mengaktifkan pengaturan ini akan mengarahkan kamera ke cakrawala saat kamu bergerak tanpa membidik atau menembak. Pengaturan ini bisa membantu pemain baru yang tidak sengaja menatap tanah atau langit, atau pemain flick stick yang hanya mengaktifkan bidikan gyro pada mode bidik tertentu.",
     "EnergySavingCollection_Name": "Hemat Energi",
-    "InstalledTextureQualityEpic": "Epic",
     "PostProcessingQualityEpic": "Epic",
     "ShadowEpic": "Epic",
     "TextureQualityEpic": "Epic",
@@ -6968,7 +6974,6 @@
     "ReleaseToFire_Description": "Untuk senapan penembak runduk. Alih-alih menembak saat kamu menekan tombol lihat & tembak di layar sentuh, senapan penembak runduk akan menembak saat kamu melepaskan tombol lihat & tembak. Ini berarti kamu dapat menyelaraskan tembakan dengan satu jari dan kemudian menembak dengan jari yang sama hanya dengan melepaskan tombol. Tombol tembak yang lain akan tetap menembak ketika ditekan.",
     "ContinuousFireGameplay_Description": "Untuk senjata yang mengharuskanmu melepaskan dan menekan pelatuk lagi untuk tiap tembakan, mengaktifkan pengaturan ini memungkinkanmu menahan pelatuk untuk menembak berulang kali (dengan laju tembakan yang berkurang).",
     "FortniteCredits_Name": "Kredit Fortnite",
-    "PredownloadCosmetics_Description": "Fortnite melakukan streaming tekstur kosmetik saat tekstur ditemukan dalam game. Dengan mengaktifkan fitur ini, kamu akan melakukan praunduh untuk semua tekstur ini daripada saat bertemu dengan tekstur di dalam game. Ini menggunakan lebih banyak ruang penyimpanan disk, tetapi memungkinkan Fortnite terlihat lebih detail tanpa memakan bandwidth tambahan. Ini dapat meningkatkan kualitas visual Fortnite jika kamu sering bermain menggunakan koneksi seluler.\n\nTidak: Fortnite akan menghapus tekstur kosmetik yang sebelumnya diunduh dan tidak akan melakukan praunduh lagi di masa yang akan datang.\n\nYa: Fortnite akan mengunduh dan memasang semua tekstur berkualitas tinggi terlebih dahulu.\n\n",
     "ParsleyIdle_Description": "Fortnite akan beralih ke Mode Tidur setelah kamu tidak aktif selama beberapa menit. Pengaturan ini berlaku untuk semua perangkat yang kamu gunakan untuk masuk.",
     "FlickForwardDeadZone_Name": "ZonaMati Maju",
     "KeyboardMovementForwardDiagonal_Name": "Sudut Diagonal Maju",
@@ -7078,18 +7083,16 @@
     "HideSocialName_Description": "Menyembunyikan akun media sosial yang ditautkan dari teman.",
     "EFortSubtitleBackgroundOpacity_High": "Tinggi",
     "GeometryQualityHigh": "Tinggi",
-    "InstalledTextureQualityHigh": "Tinggi",
     "PostProcessingQualityHigh": "Tinggi",
     "ShadowHigh": "Tinggi",
     "SoundQuality_High": "Tinggi",
     "TextureQualityHigh": "Tinggi",
     "VisualEffectQualityHigh": "Tinggi",
     "GyroAcceleration_High": "Tinggi (4x)",
-    "AutoDownloadHighResTexturesReminders_Name": "Pengingat Tekstur Resolusi Tinggi",
     "EnableNanite_Description": "Rendering geometri berkualitas tinggi melalui Nanite yang meningkatkan detail geometri tetapi dapat menurunkan frame rate. Peta Bayangan Virtual akan digunakan ketika Nanite diaktifkan untuk bayangan dengan kualitas yang lebih tinggi.",
     "MeshQuality_Description": "Pengaturan geometri yang lebih tinggi memberikan bentuk yang lebih detail pada objek. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.",
     "TextureQuality_Description_Default": "Pengaturan tekstur yang lebih tinggi memberikan tampilan yang lebih detail pada objek datar. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.",
-    "TextureQuality_Description_NoHighMips": "Pengaturan tekstur yang lebih tinggi memberikan tampilan yang lebih detail pada objek datar. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.\n\nTekstur berkualitas tinggi tidak diinstal. Ini dapat diunduh dari Epic Games Launcher di Opsi Instalasi Fortnite.",
+    "TextureQuality_Description_NoHighMips": "Pengaturan tekstur yang lebih tinggi memberikan tampilan yang lebih detail pada objek datar. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.\n\n<Icon.Warning></> Tekstur kualitas tinggi tidak terinstal. Tekstur ini bisa diunduh dari Epic Games Launcher di Installation Options Fortnite.",
     "Hitmarkers_Name": "Penanda Kena",
     "AutoClamber_On": "Tahan Tombol Maju",
     "AutoHurdle_On": "Tahan Tombol Maju",
@@ -7303,7 +7306,6 @@
     "FilterPII_Name": "Lorem ipsum",
     "EFortSubtitleBackgroundOpacity_Low": "Rendah",
     "GeometryQualityLow": "Rendah",
-    "InstalledTextureQualityLow": "Rendah",
     "PostProcessingQualityLow": "Rendah",
     "SoundQuality_Low": "Rendah",
     "TextureQualityLow": "Rendah",
@@ -7331,7 +7333,6 @@
     "FOVMaximum_Name": "Ruang Pandang (FOV) Maksimum",
     "EFortSubtitleBackgroundOpacity_Medium": "Medium",
     "EFortSubtitleTextSize_Medium": "Medium",
-    "InstalledTextureQualityMedium": "Sedang",
     "PostProcessingQualityMedium": "Medium",
     "ShadowMedium": "Medium",
     "TextureQualityMedium": "Medium",
@@ -7488,10 +7489,12 @@
     "3DAudioDisabled_OSOverridden": "Silakan periksa pengaturan sistemmu untuk mengaktifkan atau menonaktifkan Audio 3D.\nPengaturan ini tidak mencerminkan status Audio 3D saat ini karena Fortnite menonaktifkan mode Headphone 3D untuk solusi Suara 3D yang disediakan oleh Sistem Operasi perangkatmu.",
     "RestartConfirmationDescription": "Harap mulai ulang game agar semua perubahan dapat berlaku.",
     "WarningAboutToUseAdvancedOptions_Message": "Harap berhati-hati saat mengubah opsi lanjutan.  Pengaturan yang salah dapat berdampak negatif pada kemampuanmu untuk membidik.",
+    "VirtualPointerHapticIntensity_Name": "Intensitas Umpan Balik Haptik Penunjuk",
+    "VirtualPointerCursorOpacity_Name": "Opasitas Penunjuk",
+    "VirtualPointerSpeed_Name": "Kecepatan Penunjuk",
     "PostProcessingQuality_Name": "Pasca-Pemrosesan",
     "PostProcessingQuality_Description": "Efek Pasca-Pemrosesan mencakup Gerakan Blur, Kedalaman Ruang, dan Bloom. Meningkatkan pengaturan ini akan memperbaiki kualitas efek pasca-pemrosesan, tetapi dapat mengurangi performa.",
     "UsePowerSavingMode_Name": "Mode Hemat Daya",
-    "PredownloadCosmetics_Name": "Tekstur Kosmetik yang Diunduh Sebelumnya",
     "AimAssistSlowStrength_Name": "Kekuatan Bantuan Bidikan Presisi",
     "PreferredFilledMatchAudioChannel_Name": "Saluran Preferensi (Pengisian Diaktifkan)",
     "EnablePreferredItemSlots_Name": "Slot Item yang Dipilih",
@@ -7768,7 +7771,6 @@
     "StopRenderingInBackground_Name": "Hentikan Rendering di Latar Belakang",
     "StopRenderingInBackground_Description": "Hentikan rendering saat jendela game tidak difokuskan jika memungkinkan. Mengosongkan sumber daya GPU untuk aplikasi lain.",
     "KeyboardMovementStrafeDiagonal_Name": "Sudut Menyamping",
-    "CosmeticStreaming_Name": "Stream Kosmetik",
     "SubtitlePage_Name": "Subtitle",
     "SubtitlesCollection_Name": "Subtitle",
     "Subtitles_Name": "Subtitle",
@@ -7778,6 +7780,8 @@
     "HybridMouseSwapAxes_Description": "Mengganti kontrol gerakan dari Stik Kiri menjadi Stik Kanan.",
     "AutoImportFriends_Name": "Sinkronisasikan Daftar Temanmu",
     "AntiAliasingMethodTAA": "TAA",
+    "TextChat_BrigadeiroActive": "TBD",
+    "VoiceChat_BrigadeiroActive": "TBD",
     "AntiAliasingMethodTSREpic": "TSR Epic",
     "AntiAliasingMethodTSRHigh": "TSR Tinggi",
     "AntiAliasingMethodTSRLow": "TSR Rendah",
@@ -7802,7 +7806,6 @@
     "SubtitleTextColor_Name": "Warna Teks",
     "TextChatRTR": "Pelaporan Teks",
     "SubtitleTextSize_Name": "Ukuran Teks",
-    "InstalledTextureQuality_Name": "Kualitas Tekstur",
     "TextureQuality_Name": "Tekstur",
     "LumenRequiresD3D12": "Pengaturan 'Mode Rendering' harus diatur ke 'DirectX 12' untuk mengaktifkan Lumen.",
     "NaniteRequiresD3D12": "Pengaturan 'Mode Rendering' harus diatur ke 'DirectX 12' untuk mengaktifkan Nanite.",
@@ -8034,6 +8037,7 @@
     "ViewDistance_Description": "Jarak pandang menentukan seberapa jauh objek tidak ditampilkan untuk meningkatkan performa.",
     "TimeReportsActionDescription": "Lihat berapa banyak waktu yang telah dihabiskan oleh anak Anda dalam Fortnite, Creative, dan Unreal Editor for Fortnite (UEFN) setiap minggu.",
     "LegalInformation_Description": "Lihat informasi legal.",
+    "VirtualCursorCollection_Name": "Kursor Virtual",
     "VisualizeSoundEffects_Name": "Visualisasikan Efek Suara",
     "VisualizeSoundEffectsPriority_Name": "Prioritas Visualisasikan Efek Suara",
     "VoiceChat": "Obrolan Suara",
@@ -8074,7 +8078,7 @@
     "TapQuickEdit_Description_XB1": "Jika diaktifkan, tindakan Pengeditan Sederhana apa pun yang butuh penahanan tombol bisa dimulai dengan satu kali tekan dan akan otomatis selesai setelah durasi yang ditentukan.\n\nJika dinonaktifkan, kamu harus menahan tombol selama seluruh durasi.",
     "TapQuickEdit_Description_XSX": "Jika diaktifkan, tindakan Pengeditan Sederhana apa pun yang butuh penahanan tombol bisa dimulai dengan satu kali tekan dan akan otomatis selesai setelah durasi yang ditentukan.\n\nJika dinonaktifkan, kamu harus menahan tombol selama seluruh durasi.",
     "AutoFireDescription": "Saat diaktifkan, senjata yang kompatibel menembak secara otomatis saat kamu arahkan ke musuh.",
-    "TapToShootDescription": "Saat diaktifkan, tembak dengan mengetuk di area mana pun pada layar.",
+    "TapToShootDescriptionAndPriority": "Saat diaktifkan, tembak dengan mengetuk di area mana pun pada layar. Bisa menjadi prioritas di atas pengaturan ketuk lainnya.",
     "ADSFire_Description": "Ketika diaktifkan, menekan tombol sentuh lihat & tembak juga akan membidik dengan ADS/teropong. Saat Dipegang berarti melepaskan tombol lihat & tembak juga akan keluar dari mode ADS/teropong.",
     "MinimapPlayerAlwaysFaceNorth_Description": "Ketika aktif, Peta Mini akan berputar berdasarkan arah pandangan pemain. Ikon penanda pemain tidak akan berputar. (Berfungsi paling baik dengan pengaturan Peta Sirkular diaktifkan)",
     "CircularMinimap_Description": "Ketika aktif, Peta Mini akan menampilkan bagian dalam wadah melingkar alih-alih wadah persegi (Berfungsi paling baik dengan pengaturan Kunci Rotasi Peta Mini diaktifkan)",
@@ -8402,11 +8406,11 @@
     "VoiceChatDisabled_ParentalControlsButton": "Buka Kontrol Orang Tua",
     "VoiceChatDisabled_LearnMore": "Pelajari Lebih Lanjut",
     "VoiceChatDisabled_ParentalControlsButtonOther": "Buka Kontrol Orang Tua",
+    "VoiceChatDisabledDescription_Other": "Fitur ini dinonaktifkan untukmu. ",
     "VoiceChatDisabled_TurnOnFromPanel": "Aktifkan Obrolan Suara",
     "VoiceChatDisabledDescription_Parental": "Obrolan suara dinonaktifkan karena pengaturan Kontrol Orang Tuamu.",
     "VoiceChatDisabledDescription_Platform": "Kamu tidak dapat menggunakan obrolan suara karena pengaturan privasi konsolmu.",
-    "VoiceChatDisabledDescription_User": "Kamu tidak bisa menggunakan obrolan suara karena pengaturan saat ini. Ubah pengaturannya di bawah!",
-    "VoiceChatDisabledDescription_Other": "Orang Tua atau Wali kamu telah membatasi fitur ini melalui kontrol orang tua. "
+    "VoiceChatDisabledDescription_User": "Kamu tidak bisa menggunakan obrolan suara karena pengaturan saat ini. Ubah pengaturannya di bawah!"
   },
   "FortSidebarSettingsVM": {
     "LetoCannotSwitchSubgamesTitle": "Tidak Bisa Berganti Mode Game",
@@ -8422,6 +8426,7 @@
     "ErrorSendingMessage": "Kesalahan pengiriman pesan: {0}",
     "HiddenPlayerSays": "Pemain tersembunyi berkata: ",
     "BlockedPlayerMessage": "Pesan Disembunyikan",
+    "TextChatDisabledByBrigadeiro": "TDB",
     "TextChatDisabledByTournamentMode": "Obrolan teks telah dinonaktifkan karena klien ini dalam mode turnamen.",
     "TextChatEnabled": "Obrolan teks telah diaktifkan.",
     "DisabledBySocialBan": "Obrolan teks dinonaktifkan karena blokir sosial pada akunmu.",
@@ -9138,6 +9143,12 @@
     "FortMatchmakingContext_FailedToStart": "Gagal memulai pencarian lawan.",
     "FortMatchmakingContext_WarningDialogTitle": "Peringatan Pencarian Lawan",
     "NoFill": "TIDAK ADA ISI",
+    "FortMatchmakingContext_NoMissionsForPowerLevel": "Tidak Ada Misi yang Tersedia",
+    "FortMatchmakingContext_NoMissionsForProgress": "Tidak Ada Misi yang Tersedia",
+    "FortMatchmakingContext_NoMissionsInTheater": "Tidak Ada Misi yang Tersedia",
+    "FortMatchmakingContext_NoMissionsForProgress_Desc": "Tidak ada Misi yang Tersedia pada progresmu saat ini.\nCoba pilih Main Cepat atau Kustom.",
+    "FortMatchmakingContext_NoMissionsInTheater_Desc": "Tidak ada Misi yang Tersedia di Teater saat ini.\nCoba pilih Teater yang berbeda.",
+    "FortMatchmakingContext_NoMissionsForPowerLevel_Desc": "Tidak Ada Misi yang Tersedia dengan Level Daya tersebut.\nCoba pilih Level Daya yang berbeda.",
     "Private": "PRIVAT",
     "Public": "PUBLIK",
     "FortMatchmakingContext_PartyFailedZoneRequirements": "Kelompok tidak punya rating kekuatan yang cukup untuk memainkan misi ini. Coba pilih misi yang lebih mudah, mengganti komposisi kelompokmu, atau mengatur privasi misimu menjadi Hanya Teman atau Privat.",
@@ -10716,6 +10727,10 @@
     "EditFactText": "Edit Teks Fakta",
     "EditInPromptEditor": "Edit di Editor Prompt"
   },
+  "LLMSession": {
+    "ModerationMsg": "Respons telah Dimoderasi",
+    "UnknownRestriction": "Pembatasan Tak Dikenal"
+  },
   "LabelOverrideInterface": {
     "CabinModeStringFormat": "{BaseLabel} #{Number}"
   },
@@ -11729,7 +11744,8 @@
     "Offer_CanUnlockSet": "Buka set ini untuk mulai mengambil hadiah"
   },
   "SeasonPassRequirement_PassCategoryGroupComplete": {
-    "GroupComplete_Incomplete": "Mengharuskan semua penawaran {GroupName} telah diklaim"
+    "GroupComplete_Member_Incomplete": "Ambil semua hadiah {GroupName} lainnya",
+    "GroupComplete_Nonmember_Incomplete": "ambil semua hadiah dari {GroupName}"
   },
   "SeasonPassRequirement_Timed": {
     "Status_LockedDateLockedFormat": "Terbuka pada {Date}"
@@ -12534,6 +12550,9 @@
     "PurchaseBody": "Terima kasih karena sudah bermain Fortnite!",
     "PurchaseHeader": "{0}|plural(one=Item,other=Item) Diperoleh"
   },
+  "UICharacterModifierDetailsCustomization": {
+    "DisplayNameLocked": "Nama Tampilan tidak bisa diedit untuk kosmetik NPC ini."
+  },
   "UICommands.AIActionSequenceAssetEditor": {
     "AddTrack": "Tambahkan Trek",
     "AddTrack_ToolTip": "Buat trek aksi baru"
@@ -12917,12 +12936,12 @@
     "PushToTalkOff": "Buka Mik",
     "ChannelPreferredSocial": "Saluran Preferensi",
     "VoiceChatRestricted_Parental": "Dibatasi oleh Kontrol Orang Tua",
+    "VoiceChatRestricted_Other": "Fitur ini dinonaktifkan untukmu. ",
     "VoiceChat_UserSocial": "Obrolan Suara",
     "VoiceChatParentDisabled": "Obrolan Suara Dinonaktifkan oleh Kontrol Orang Tua",
     "VoiceIndicatorsSocial": "Indikator Suara",
     "VoiceMethod": "Metode Suara",
-    "VoiceVolumeSocial": "Volume Suara",
-    "VoiceChatRestriced_Other": "Orang Tua atau Wali kamu telah membatasi fitur ini melalui kontrol orang tua. "
+    "VoiceVolumeSocial": "Volume Suara"
   },
   "VoiceChannelTitles": {
     "GameChannelVoiceHeaderEchoTitleText": "Saluran Gema",
