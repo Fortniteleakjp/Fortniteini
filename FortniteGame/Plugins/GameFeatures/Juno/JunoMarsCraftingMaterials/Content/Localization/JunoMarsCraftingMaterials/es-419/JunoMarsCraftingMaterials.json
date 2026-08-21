@@ -12,20 +12,20 @@
     "D8D0E610425287EEC6581CA560C9CE2D": "Fabrica un arma con <emphA>cristales corruptos</>",
     "B4A003F74E36C034781DB78A95945FC6": "Fabrica un arma con un <text color=\"E2FCFFFF\">cristal corrupto</>",
     "AD9A538E447069CA6AE9C1AFDACF52B7": "Inflige daño aumentado a entes pétreos y a enemigos invocados por entes pétreos.",
-    "206873EF4F48BE2ECB5D009249CEEFAD": "Se obtiene de enemigos de <EmphA>ente pétreo fuertes</>.",
+    "E3EB817C4DF57A13D368FE86F9573FBC": "Se obtiene de <EmphA>enemigos demoníacos fuertes</>.",
     "9A09D2F744A36F074921E7A4D2E02714": "Solo para valientes.",
     "3D8D9E114E1EF86663319690D4F208F3": "Pesadilla del ente pétreo III",
     "736485B648FE6289DF5BB9B7D123F623": "Pesadilla del ente pétreo III",
-    "17AE277C4F1C68BC510397B449029A6C": "recurso de fabricación"
+    "A1F2CBCB46882082C40C92834EDDD0D6": "recurso de fabricación"
   },
   "Juno_GameplayItemCraftingFormulas_JunoMars": {
     "EssenceOfSpireBaneIII_DisplayName": "Pesadilla del ente pétreo III"
   },
   "Juno_GameplayItemToTagMapping": {
-    "C690C330466D954F310A0C9352E4ADC1": "Cristal corrupto"
+    "D08563F24953CE0DEE515990901F3505": "Cristal corrupto"
   },
   "Juno_UpdateItemData": {
-    "A3556D85478029980B37BA96C2D359C4": "Material de fabricación. Se obtiene al derrotar entes pétreos de élite y guardias demonio pesados.",
-    "7E069A074076CE89EE39B893EDEF205C": "El cristal resuena y susurra. Si lo miras de cerca, casi puedes ver algo devolviéndote la mirada..."
+    "3F6FF5F848C2ADB0E0C587A41EAD8A9B": "Material de fabricación. Se obtiene al derrotar guardias demonio pesados.",
+    "E2CE0C364B0C1F7D345F549236C25374": "El cristal resuena y susurra. Si lo miras de cerca, casi puedes ver algo devolviéndote la mirada..."
   }
 }

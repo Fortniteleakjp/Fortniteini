@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Jam-Song"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Tägliche Vibes",
-    "setlist_1_title": "Tägliche Vibes",
-    "setlist_title_1": "Tägliche Vibes",
-    "daily_1_desc": "Tägliche Vibes-Beschreibung!",
-    "setlist_1_desc": "Tägliche Vibes-Beschreibung!",
-    "setlist_desc_1": "Tägliche Vibes-Beschreibung!",
-    "festival_1_title": "Festival-Auswahl",
-    "setlist_3_title": "Festival-Auswahl",
-    "setlist_title_3": "Festival-Auswahl",
-    "festival_1_desc": "Festival-Auswahl-Beschreibung!",
-    "setlist_3_desc": "Festival-Auswahl-Beschreibung!",
-    "setlist_desc_3": "Festival-Auswahl-Beschreibung!",
-    "setlist_desc_Fortnitemares": "Fortnite: Albträume",
-    "setlist_title_Fortnitemares": "Fortnite: Albträume",
-    "setlist_2_title": "Spotlight-Setlist",
-    "setlist_title_2": "Spotlight-Setlist",
-    "spotlight_1_title": "Spotlight-Setlist",
-    "setlist_2_desc": "Spotlight-Setlist-Beschreibung!",
-    "setlist_desc_2": "Spotlight-Setlist-Beschreibung!",
-    "spotlight_1_desc": "Spotlight-Setlist-Beschreibung!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Angepasste Setlist",
     "ProductMode_DisplayName_Setlist1": "Tägliche Setlist",

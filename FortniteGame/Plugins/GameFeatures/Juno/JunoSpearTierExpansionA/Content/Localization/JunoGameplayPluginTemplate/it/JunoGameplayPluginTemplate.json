@@ -1,9 +1,9 @@
 {
   "": {
-    "02D507F542501C32987007BB40B310CF": "Ti servirà una <EmphA>segheria</>.",
-    "46465B3F47396715F622C8B9C8D00E02": "Ti servirà una <EmphA>segheria</>.",
-    "7DA1447E47D8D89073ACF0AAA1A2864B": "Ti servirà una <EmphA>segheria</>.",
-    "A681DC5345D98537642259976B7D96FD": "Ti servirà una <EmphA>segheria</>."
+    "0CCC6D2B456A69B31041F39E1375FBFD": "Ti servirà una <EmphA>segheria</>.",
+    "4346E0DC4F6B6B5DE5B3668511818A57": "Ti servirà una <EmphA>segheria</>.",
+    "506AAC2D452E6CB2DD8EB7B3C8324DCC": "Ti servirà una <EmphA>segheria</>.",
+    "ED66CF304B2DBEAF0009E8A1F45564E2": "Ti servirà una <EmphA>segheria</>."
   },
   "Juno_BoostedItemNames_SpearTierExpansionA": {
     "Spear_T5_T5_Honed_Bamboo_DisplayName": "Lancia di bambù",
@@ -21,17 +21,17 @@
     "Spear_T8_T8_Honed_Steel_DisplayName": "Lancia d'acciaio"
   },
   "Juno_UpdateItemData": {
-    "311316ED4D182EEA2FA46DAA81FD15E5": "Una lancia leggendaria per il combattimento corpo a corpo o a distanza. Tocca per attaccare. Tieni premuto per lanciare.",
-    "B25A2F324DB535390E4B73930870E49A": "Una lancia rara, adatta per combattimenti a distanza e in mischia. Premi per attaccare. Tieni premuto per lanciarla.",
-    "9586F8E1415780F4E24C91BC3AF6173F": "Una lancia senza eguali.",
-    "3D7692F9440542E88EC2D0BE65D1A7D0": "Una lancia epica, adatta per combattimenti a distanza e in mischia. Premi per attaccare. Tieni premuto per lanciarla.",
-    "9FE27A4249F4F9C0F7527782A3B1C0F8": "Una lancia non comune, adatta per combattimenti a distanza e in mischia. Premi per attaccare. Tieni premuto per lanciarla.",
-    "D94E848A42A304BA80384AB51A03A759": "Lancia la lancia con slancio!",
-    "1F54FBF84AFFB2CCD540CD80D88B83BC": "Lancia",
-    "2EA3F9C34873AAA9DAA84885A9BCD37B": "Lancia",
-    "52E93B624E1B24175BB6F6811B0B3856": "Lancia",
-    "824F02E94ED416162B699D95ED1A1A60": "Lancia",
-    "C3ED5020413D4F9AC37D7B828F778F0A": "Lancia-ti nella mischia.",
-    "888AAE0B4DA62E8ED2440D80116B1BD1": "Un lancio di lancia perfetto!"
+    "CF794620411602887F069FA287DD4FEC": "Una lancia leggendaria per il combattimento corpo a corpo o a distanza. Tocca per attaccare. Tieni premuto per lanciare.",
+    "4852A66A4853804F6285FCA4C93F2E32": "Una lancia rara, adatta per combattimenti a distanza e in mischia. Tocca per attaccare. Tieni premuto per lanciare.",
+    "E4C3AD914F4DC3C5BD27B895878560C9": "Una lancia senza eguali.",
+    "1625B7324F2B13E4C8FC0BAB21C3F1CF": "Una lancia epica, adatta per combattimenti a distanza e in mischia. Tocca per attaccare. Tieni premuto per lanciare.",
+    "E894FAF949542F12AF8313B855BB6BA5": "Una lancia non comune, adatta per combattimenti a distanza e in mischia. Tocca per attaccare. Tieni premuto per lanciare.",
+    "893236B34D1B538CCE4863A92263EC1F": "Lancia la lancia con slancio!",
+    "0DDFA97E45AD233CEC5501B34C158CD5": "Lancia",
+    "1C13A8204F9E359FF08E518E33C02BD2": "Lancia",
+    "B29081EA4D9DE893F8A5E3A003FE543C": "Lancia",
+    "D3FA3C284848612A8022288901CA9DC0": "Lancia",
+    "58603F48425E51D6E90F23A79350E69E": "Lancia-ti nella mischia.",
+    "DCF7C879436CFC5CDDC65E8667BEBCEF": "Un lancio di lancia perfetto!"
   }
 }

@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Джем-трек"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Музыка на каждый день",
-    "setlist_1_title": "Музыка на каждый день",
-    "setlist_title_1": "Музыка на каждый день",
-    "daily_1_desc": "Описание музыки на каждый день!",
-    "setlist_1_desc": "Описание музыки на каждый день!",
-    "setlist_desc_1": "Описание музыки на каждый день!",
-    "festival_1_title": "Избранное фестиваля",
-    "setlist_3_title": "Избранное фестиваля",
-    "setlist_title_3": "Избранное фестиваля",
-    "festival_1_desc": "Описание избранного фестиваля!",
-    "setlist_3_desc": "Описание избранного фестиваля!",
-    "setlist_desc_3": "Описание избранного фестиваля!",
-    "setlist_desc_Fortnitemares": "Fortnite: кошмары",
-    "setlist_title_Fortnitemares": "Fortnite: кошмары",
-    "setlist_2_title": "Сетлист на сцене",
-    "setlist_title_2": "Сет-лист «В центре внимания»",
-    "spotlight_1_title": "Сетлист на сцене",
-    "setlist_2_desc": "Описание сет-листа «В центре внимания»!",
-    "setlist_desc_2": "Описание сет-листа «В центре внимания»!",
-    "spotlight_1_desc": "Описание сет-листа «В центре внимания»!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Пользовательский сет-лист",
     "ProductMode_DisplayName_Setlist1": "Ежедневный сет-лист",

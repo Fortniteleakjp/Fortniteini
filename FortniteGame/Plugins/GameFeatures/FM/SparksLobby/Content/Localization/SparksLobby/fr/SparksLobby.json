@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Vous obtenez de l'EXP pour le Passe de combat en jouant à Fortnite Festival.",
     "EC21F8A54B86E39CA37902B269447962": "Vous obtenez de l'EXP pour le Passe de combat en jouant à Fortnite Festival.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Votre groupe obtient des points bonus pour chaque instrument différent programmé."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Ambiances du jour",
+    "setlist_desc_1": "Description des ambiances du jour !",
+    "setlist_title_3": "Sélections de Festival",
+    "setlist_desc_3": "Description des sélections de Festival !",
+    "setlist_desc_Fortnitemares": "Fortnite : Cauchemars",
+    "setlist_title_Fortnitemares": "Fortnite : Cauchemars",
+    "setlist_title_special": "Événement spécial",
+    "setlist_desc_special": "Description de l'événement spécial",
+    "setlist_title_2": "Programme à la une",
+    "setlist_desc_2": "Description du programme à la une !"
   }
 }

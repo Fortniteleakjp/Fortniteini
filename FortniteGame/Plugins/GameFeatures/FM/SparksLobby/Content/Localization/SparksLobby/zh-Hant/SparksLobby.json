@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "在遊玩 Fortnite Festival 時可獲得戰鬥通行證經驗值。",
     "EC21F8A54B86E39CA37902B269447962": "在遊玩 Fortnite Festival 時可獲得戰鬥通行證經驗值。",
     "8BE159084C8B92F44EE4529CFB86BD77": "樂團的陣容中每種獨特樂器都能獲得額外分數。"
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "每日氛圍",
+    "setlist_desc_1": "每日氛圍敘述！",
+    "setlist_title_3": "Festival 精選",
+    "setlist_desc_3": "Festival 精選敘述！",
+    "setlist_desc_Fortnitemares": "Fortnitemares",
+    "setlist_title_Fortnitemares": "Fortnitemares",
+    "setlist_title_special": "特別活動",
+    "setlist_desc_special": "特別活動說明",
+    "setlist_title_2": "聚光燈歌單",
+    "setlist_desc_2": "聚光燈歌單敘述！"
   }
 }

@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "Na twoim urządzeniu nie ma wystarczającej ilości miejsca.\nPotrzeba: {RequiredBytes}.\nDostępne wolne miejsce: {AvailableBytes}.\nAby przeprowadzić instalację, potrzeba dodatkowo: {SpaceAdditional}.",
     "MissingEncryptionKeyForNonPreload": "Instalacja nie mogła być kontynuowana, ponieważ brakuje wymaganych danych deszyfrujących. Skontaktuj się z działem pomocy.",
     "InvalidEncryptionKeyForNonPreload": "Nie można kontynuować instalacji, ponieważ wymagane dane deszyfrujące są nieprawidłowe. Skontaktuj się z działem pomocy.",
-    "EmptyCloudDirectories": "Z powodu problemu z konfiguracją nie można kontynuować procesu instalacji. Skontaktuj się z działem pomocy.",
     "InvalidInstallTags": "Z powodu problemu z konfiguracją nie można kontynuować procesu instalacji. Skontaktuj się z działem pomocy.",
     "InvalidInstallToMemory": "Z powodu problemu z konfiguracją nie można kontynuować procesu instalacji. Skontaktuj się z działem pomocy.",
     "InvalidMemoryConstructionConfig": "Z powodu problemu z konfiguracją nie można kontynuować procesu instalacji. Skontaktuj się z działem pomocy.",

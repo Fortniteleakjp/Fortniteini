@@ -1,9 +1,9 @@
 {
   "": {
-    "02D507F542501C32987007BB40B310CF": "Necesitarás un <EmphA>aserradero</>.",
-    "46465B3F47396715F622C8B9C8D00E02": "Necesitarás un <EmphA>aserradero</>.",
-    "7DA1447E47D8D89073ACF0AAA1A2864B": "Necesitarás un <EmphA>aserradero</>.",
-    "A681DC5345D98537642259976B7D96FD": "Necesitarás un <EmphA>aserradero</>."
+    "0CCC6D2B456A69B31041F39E1375FBFD": "Necesitarás un <EmphA>aserradero</>.",
+    "4346E0DC4F6B6B5DE5B3668511818A57": "Necesitarás un <EmphA>aserradero</>.",
+    "506AAC2D452E6CB2DD8EB7B3C8324DCC": "Necesitarás un <EmphA>aserradero</>.",
+    "ED66CF304B2DBEAF0009E8A1F45564E2": "Necesitarás un <EmphA>aserradero</>."
   },
   "Juno_BoostedItemNames_SpearTierExpansionA": {
     "Spear_T5_T5_Honed_Bamboo_DisplayName": "Lanza de bambú",
@@ -21,17 +21,17 @@
     "Spear_T8_T8_Honed_Steel_DisplayName": "Lanza de acero"
   },
   "Juno_UpdateItemData": {
-    "311316ED4D182EEA2FA46DAA81FD15E5": "Una lanza legendaria, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
-    "B25A2F324DB535390E4B73930870E49A": "Una lanza rara, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
-    "9586F8E1415780F4E24C91BC3AF6173F": "Lanza la lanza con confianza.",
-    "3D7692F9440542E88EC2D0BE65D1A7D0": "Una lanza épica, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
-    "9FE27A4249F4F9C0F7527782A3B1C0F8": "Una lanza poco común, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
-    "D94E848A42A304BA80384AB51A03A759": "Rompe una lanza por la victoria.",
-    "1F54FBF84AFFB2CCD540CD80D88B83BC": "Lanza",
-    "2EA3F9C34873AAA9DAA84885A9BCD37B": "Lanza",
-    "52E93B624E1B24175BB6F6811B0B3856": "Lanza",
-    "824F02E94ED416162B699D95ED1A1A60": "Lanza",
-    "C3ED5020413D4F9AC37D7B828F778F0A": "Lánzate a la batalla.",
-    "888AAE0B4DA62E8ED2440D80116B1BD1": "Lanza al olvido las derrotas."
+    "CF794620411602887F069FA287DD4FEC": "Una lanza legendaria, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "4852A66A4853804F6285FCA4C93F2E32": "Una lanza rara, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "E4C3AD914F4DC3C5BD27B895878560C9": "Lanza la lanza con confianza.",
+    "1625B7324F2B13E4C8FC0BAB21C3F1CF": "Una lanza épica, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "E894FAF949542F12AF8313B855BB6BA5": "Una lanza poco común, ideal para el combate cuerpo a cuerpo o a distancia. Pulsa para atacar con ella. Mantén pulsado para lanzarla.",
+    "893236B34D1B538CCE4863A92263EC1F": "Rompe una lanza por la victoria.",
+    "0DDFA97E45AD233CEC5501B34C158CD5": "Lanza",
+    "1C13A8204F9E359FF08E518E33C02BD2": "Lanza",
+    "B29081EA4D9DE893F8A5E3A003FE543C": "Lanza",
+    "D3FA3C284848612A8022288901CA9DC0": "Lanza",
+    "58603F48425E51D6E90F23A79350E69E": "Lánzate a la batalla.",
+    "DCF7C879436CFC5CDDC65E8667BEBCEF": "Lanza al olvido las derrotas."
   }
 }

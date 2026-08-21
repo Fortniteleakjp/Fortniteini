@@ -1,0 +1,29 @@
+{
+  "": {
+    "37C4FEC94F22E7AA2F57DF94E5B51AE1": "Placement impossible en raison d'un obstacle.",
+    "3D957D1B434E19424F0B81831B4EB7EE": "Placement impossible en raison d'un obstacle.",
+    "731D801F411659A184B9BDAB85523129": "Placement impossible en raison d'un obstacle.",
+    "E944E57146B29F1CF9BA9CAD5D38CE95": "Placement impossible sur un autre joueur.",
+    "64856C0745647AFAE24E179648A32157": "Impossible de construire ici.",
+    "9C96CBFA4645EF82648E19BBAD711087": "Impossible de construire ici.",
+    "416029C64E6B2BAEDF6C9BAB94D4580E": "Position invalide.",
+    "F31ED76B4CF4EC434FE9FFBD05706976": "LEGO® Fortnite",
+    "EC891DC945EAE9D8A5A265AC567BA5BE": "À placer sur un sol ferme.",
+    "107567E3458AE4F0B63A29A5144BB4FC": "Il faut une pièce de support.",
+    "6BA46EED44600CBD2E01B18745BAEAE8": "Placement impossible à cette distance.",
+    "CB8362AC4733C2A7BAF58D9D687836A3": "Les objets doivent être alignés.",
+    "CE2E2B7C46D9B1F150425F931F06AA2E": "La structure dispose de trop de composants.",
+    "58F8BB844A861E654F538CAD1F79E091": "La structure est trop grande.",
+    "685AACEB45531EA203200B815E6F42B1": "Placement impossible aussi près d'une grotte.",
+    "335986254449C46239AF80890530F05B": "Placement impossible aussi près d'un lieu notable. ",
+    "977DA1A542B71C65165E2490E54E38E1": "Placement impossible aussi près d'un autre camp.",
+    "FFFF7B3D416F0D98909D3C82EB853AB0": "Trop près d'un autre village",
+    "486195FD4050FA234A70368B5C01F428": "Il y a trop d'exemplaires de cet objet.",
+    "AFC1860C4003DB5D7FF8099098CE20FB": "Trop de plaques pivotantes à la suite.",
+    "A932679B497863C8AD68B68BC60C2BC1": "Élément décoratif non pris en charge",
+    "1FCDD9C047A4D5E12A1DF5901DAAEB1F": "Un village ne peut pas être placé dans la tempête.",
+    "625AEF734A0E14D95B0321A6F64D9A56": "Un village doit être placé sur un sol ferme.",
+    "66B921044AF186D20B423B97AFEF0AF3": "Vous avez atteint la limite hebdomadaire des mondes d'amis dans lesquels vous pouvez placer du contenu.",
+    "9D20AF414AE7F36413985688FC009B90": "Placement impossible sur votre personnage."
+  }
+}

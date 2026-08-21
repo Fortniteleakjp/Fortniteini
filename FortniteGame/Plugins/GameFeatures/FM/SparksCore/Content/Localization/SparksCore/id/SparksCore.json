@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Lagu Jamming"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Suasana Harian",
-    "setlist_1_title": "Suasana Harian",
-    "setlist_title_1": "Suasana Harian",
-    "daily_1_desc": "Deskripsi Suasana Harian!",
-    "setlist_1_desc": "Deskripsi Suasana Harian!",
-    "setlist_desc_1": "Deskripsi Suasana Harian!",
-    "festival_1_title": "Pilihan Festival",
-    "setlist_3_title": "Pilihan Festival",
-    "setlist_title_3": "Pilihan Festival",
-    "festival_1_desc": "Deskripsi Pilihan Festival!",
-    "setlist_3_desc": "Deskripsi Pilihan Festival!",
-    "setlist_desc_3": "Deskripsi Pilihan Festival!",
-    "setlist_desc_Fortnitemares": "Fortnitemares",
-    "setlist_title_Fortnitemares": "Fortnitemares",
-    "setlist_2_title": "Daftar Lagu Sorotan",
-    "setlist_title_2": "Daftar Lagu Sorotan",
-    "spotlight_1_title": "Daftar Lagu Sorotan",
-    "setlist_2_desc": "Deskripsi Daftar Lagu Sorotan!",
-    "setlist_desc_2": "Deskripsi Daftar Lagu Sorotan!",
-    "spotlight_1_desc": "Deskripsi Daftar Lagu Sorotan!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Daftar Lagu Kustom",
     "ProductMode_DisplayName_Setlist1": "Daftar Lagu Harian",

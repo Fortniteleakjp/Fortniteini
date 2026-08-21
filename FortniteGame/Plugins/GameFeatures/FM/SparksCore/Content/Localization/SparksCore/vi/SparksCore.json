@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Bản Nhạc Biến Tấu"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Phong Cách Thường Ngày",
-    "setlist_1_title": "Phong Cách Thường Ngày",
-    "setlist_title_1": "Phong Cách Thường Ngày",
-    "daily_1_desc": "Mô Tả Phong Cách Thường Ngày!",
-    "setlist_1_desc": "Mô Tả Phong Cách Thường Ngày!",
-    "setlist_desc_1": "Mô Tả Phong Cách Thường Ngày!",
-    "festival_1_title": "Lựa Chọn Cho Lễ Hội",
-    "setlist_3_title": "Lựa Chọn Cho Lễ Hội",
-    "setlist_title_3": "Lựa Chọn Cho Lễ Hội",
-    "festival_1_desc": "Mô Tả Lựa Chọn Cho Lễ Hội!",
-    "setlist_3_desc": "Mô Tả Lựa Chọn Cho Lễ Hội!",
-    "setlist_desc_3": "Mô Tả Lựa Chọn Cho Lễ Hội!",
-    "setlist_desc_Fortnitemares": "Fortnite Ác Mộng",
-    "setlist_title_Fortnitemares": "Fortnite Ác Mộng",
-    "setlist_2_title": "Chương Trình Biểu Diễn Tiêu Điểm",
-    "setlist_title_2": "Chương Trình Biểu Diễn Tiêu Điểm",
-    "spotlight_1_title": "Chương Trình Biểu Diễn Tiêu Điểm",
-    "setlist_2_desc": "Mô Tả Chương Trình Biểu Diễn Tiêu Điểm!",
-    "setlist_desc_2": "Mô Tả Chương Trình Biểu Diễn Tiêu Điểm!",
-    "spotlight_1_desc": "Mô Tả Chương Trình Biểu Diễn Tiêu Điểm!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Chương Trình Biểu Diễn Tùy Chỉnh",
     "ProductMode_DisplayName_Setlist1": "Chương Trình Biểu Diễn Hàng Ngày",

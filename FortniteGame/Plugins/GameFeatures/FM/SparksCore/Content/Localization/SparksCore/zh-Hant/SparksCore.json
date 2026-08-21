@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "即興曲目"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "每日氛圍",
-    "setlist_1_title": "每日氛圍",
-    "setlist_title_1": "每日氛圍",
-    "daily_1_desc": "每日氛圍敘述！",
-    "setlist_1_desc": "每日氛圍敘述！",
-    "setlist_desc_1": "每日氛圍敘述！",
-    "festival_1_title": "Festival 精選",
-    "setlist_3_title": "Festival 精選",
-    "setlist_title_3": "Festival 精選",
-    "festival_1_desc": "Festival 精選敘述！",
-    "setlist_3_desc": "Festival 精選敘述！",
-    "setlist_desc_3": "Festival 精選敘述！",
-    "setlist_desc_Fortnitemares": "Fortnitemares",
-    "setlist_title_Fortnitemares": "Fortnitemares",
-    "setlist_2_title": "聚光燈歌單",
-    "setlist_title_2": "聚光燈歌單",
-    "spotlight_1_title": "聚光燈歌單",
-    "setlist_2_desc": "聚光燈歌單敘述！",
-    "setlist_desc_2": "聚光燈歌單敘述！",
-    "spotlight_1_desc": "聚光燈歌單敘述！"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "自訂歌單",
     "ProductMode_DisplayName_Setlist1": "每日歌單",

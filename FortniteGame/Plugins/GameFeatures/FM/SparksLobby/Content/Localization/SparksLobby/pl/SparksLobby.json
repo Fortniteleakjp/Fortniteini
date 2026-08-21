@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Grając w Fortnite Festival, zdobywasz PD karnetu bojowego.",
     "EC21F8A54B86E39CA37902B269447962": "Grając w Fortnite Festival, zdobywasz PD karnetu bojowego.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Twój zespół otrzymuje dodatkowe punkty za każdy unikatowy instrument w składzie."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Codzienne Klimaty",
+    "setlist_desc_1": "Opis Codziennych Klimatów!",
+    "setlist_title_3": "Zestawienie Festiwalowe",
+    "setlist_desc_3": "Opis Zestawienia Festiwalowego!",
+    "setlist_desc_Fortnitemares": "Koszmarów Czar",
+    "setlist_title_Fortnitemares": "Koszmarów Czar",
+    "setlist_title_special": "Wydarzenie specjalne",
+    "setlist_desc_special": "Opis wydarzenia specjalnego",
+    "setlist_title_2": "Setlista W Świetle Reflektorów",
+    "setlist_desc_2": "Opis setlisty W Świetle Reflektorów!"
   }
 }

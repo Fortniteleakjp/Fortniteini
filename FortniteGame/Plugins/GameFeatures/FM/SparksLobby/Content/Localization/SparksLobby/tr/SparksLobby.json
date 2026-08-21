@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Fortnite Festival oynarken Savaş Bileti TP'si kazanırsın.",
     "EC21F8A54B86E39CA37902B269447962": "Fortnite Festival oynarken Savaş Bileti TP'si kazanırsın.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Grubun, gruptaki her farklı enstrüman için bonus puan kazanır."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Günün Tınıları",
+    "setlist_desc_1": "Günün Tınıları Açıklaması!",
+    "setlist_title_3": "Festival Seçkileri",
+    "setlist_desc_3": "Festival Seçkileri Açıklaması!",
+    "setlist_desc_Fortnitemares": "FORTNITE Kâbusları",
+    "setlist_title_Fortnitemares": "FORTNITE Kâbusları",
+    "setlist_title_special": "Özel Etkinlik",
+    "setlist_desc_special": "Özel Etkinlik Açıklaması",
+    "setlist_title_2": "Sahne Işığı Şarkı Listesi",
+    "setlist_desc_2": "Sahne Işığı Şarkı Listesi Açıklaması!"
   }
 }

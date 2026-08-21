@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Você ganha EXP do Passe de Batalha ao jogar Fortnite Festival.",
     "EC21F8A54B86E39CA37902B269447962": "Você ganha EXP do Passe de Batalha ao jogar Fortnite Festival.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Sua banda ganha um bônus de pontuação para cada instrumento diferente sendo tocado."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Vibes Diárias",
+    "setlist_desc_1": "Descrição das Vibes Diárias!",
+    "setlist_title_3": "Seleções do Festival",
+    "setlist_desc_3": "Descrição das Seleções do Festival!",
+    "setlist_desc_Fortnitemares": "Fortnite: Pesadelos",
+    "setlist_title_Fortnitemares": "Fortnite: Pesadelos",
+    "setlist_title_special": "Evento Especial",
+    "setlist_desc_special": "Descrição do Evento Especial",
+    "setlist_title_2": "Setlist em Destaque",
+    "setlist_desc_2": "Descrição da Setlist em Destaque!"
   }
 }

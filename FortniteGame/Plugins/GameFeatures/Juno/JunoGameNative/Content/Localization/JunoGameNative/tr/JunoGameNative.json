@@ -19,7 +19,7 @@
     "LNFDropNOfX": "{WantItemCount} {WantItem}."
   },
   "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "{0}. kampa katıl"
+    "JoinCamp": "Kampa Katıl"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "Alışveriş için yeterli kaynağın yok. {WantItemCount} Adet {WantItem} almak için {SellItemCount} adet {SellItem} vermen gerek. \n {BundleCount} parça kaldı.",

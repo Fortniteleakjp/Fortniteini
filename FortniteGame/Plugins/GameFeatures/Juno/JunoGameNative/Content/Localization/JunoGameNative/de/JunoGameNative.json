@@ -19,7 +19,7 @@
     "LNFDropNOfX": "{WantItemCount} {WantItem}"
   },
   "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "Dem Lager {0} anschließen"
+    "JoinCamp": "Dem Lager anschließen"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "Nicht genug für Tausch vorhanden. Für den Tausch von {SellItemCount}-mal {SellItem} wird {WantItemCount}-mal {WantItem} benötigt. \n {BundleCount} Stapel übrig.",

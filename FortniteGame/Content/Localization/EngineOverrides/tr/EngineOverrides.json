@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "Cihazın yeterli alana sahip değil.\n{RequiredBytes} alan gerekli.\n{AvailableBytes} alan mevcut.\nYüklemeyi gerçekleştirebilmek için {SpaceAdditional} alana daha ihtiyacın var.",
     "MissingEncryptionKeyForNonPreload": "Gerekli şifre çözme verileri mevcut olmadığı için bu yükleme devam edemedi. Lütfen destek ekibi ile iletişime geç.",
     "InvalidEncryptionKeyForNonPreload": "Gerekli şifre çözme verileri geçerli olmadığı için bu yükleme devam edemedi. Lütfen destek ekibi ile iletişime geç.",
-    "EmptyCloudDirectories": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "InvalidInstallTags": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "InvalidInstallToMemory": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",
     "InvalidMemoryConstructionConfig": "Bir yapılandırma sorunu nedeniyle yükleme devam ettirilemiyor. Lütfen destek ekibi ile iletişime geç.",

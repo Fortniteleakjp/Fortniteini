@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Traccia Jam"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Emozioni giornaliere",
-    "setlist_1_title": "Emozioni giornaliere",
-    "setlist_title_1": "Emozioni giornaliere",
-    "daily_1_desc": "Descrizione Emozioni giornaliere!",
-    "setlist_1_desc": "Descrizione Emozioni giornaliere!",
-    "setlist_desc_1": "Descrizione Emozioni giornaliere!",
-    "festival_1_title": "La selezione Festival",
-    "setlist_3_title": "La selezione Festival",
-    "setlist_title_3": "La selezione Festival",
-    "festival_1_desc": "Descrizione La selezione Festival!",
-    "setlist_3_desc": "Descrizione La selezione Festival!",
-    "setlist_desc_3": "Descrizione La selezione Festival!",
-    "setlist_desc_Fortnitemares": "Fortnite: l'incubo",
-    "setlist_title_Fortnitemares": "Fortnite: l'incubo",
-    "setlist_2_title": "Scaletta Spotlight",
-    "setlist_title_2": "Scaletta Spotlight",
-    "spotlight_1_title": "Scaletta Spotlight",
-    "setlist_2_desc": "Descrizione scaletta Spotlight!",
-    "setlist_desc_2": "Descrizione scaletta Spotlight!",
-    "spotlight_1_desc": "Descrizione scaletta Spotlight!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Scaletta personalizzata",
     "ProductMode_DisplayName_Setlist1": "Scaletta giornaliera",

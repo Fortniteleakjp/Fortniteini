@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "Thiết bị của bạn hiện không có đủ dung lượng trống.\nCần {RequiredBytes} dung lượng trống để cài đặt.\nHiện có {AvailableBytes} khả dụng.\nBạn cần thêm {SpaceAdditional} để thực hiện cài đặt này.",
     "MissingEncryptionKeyForNonPreload": "Không thể tiếp tục việc cài đặt vì dữ liệu giải mã cần thiết bị thiếu. Vui lòng liên hệ với bộ phận hỗ trợ.",
     "InvalidEncryptionKeyForNonPreload": "Không thể tiếp tục việc cài đặt vì dữ liệu giải mã cần thiết không hợp lệ. Vui lòng liên hệ với bộ phận hỗ trợ.",
-    "EmptyCloudDirectories": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ với bộ phận hỗ trợ.",
     "InvalidInstallTags": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ bộ phận hỗ trợ.",
     "InvalidInstallToMemory": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ với bộ phận hỗ trợ.",
     "InvalidMemoryConstructionConfig": "Việc cài đặt không thể tiếp tục do vấn đề cấu hình. Vui lòng liên hệ với bộ phận hỗ trợ.",

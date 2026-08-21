@@ -12,20 +12,20 @@
     "D8D0E610425287EEC6581CA560C9CE2D": "Fabriquez une arme avec des <emphA>cristaux corrompus</>.",
     "B4A003F74E36C034781DB78A95945FC6": "Fabriquez une arme avec un <text color=\"E2FCFFFF\">cristal corrompu</>",
     "AD9A538E447069CA6AE9C1AFDACF52B7": "Inflige des dégâts augmentés aux mégalithes et aux ennemis invoqués par les mégalithes.",
-    "206873EF4F48BE2ECB5D009249CEEFAD": "Laissé en butin par de <EmphA>puissants ennemis liés au mégalithe</>.",
+    "E3EB817C4DF57A13D368FE86F9573FBC": "Laissé en butin par de <EmphA>puissants ennemis démoniaques</>.",
     "9A09D2F744A36F074921E7A4D2E02714": "Votre meilleur atout contre les mégalithes.",
     "3D8D9E114E1EF86663319690D4F208F3": "Fléau du mégalithe III",
     "736485B648FE6289DF5BB9B7D123F623": "Fléau du mégalithe III",
-    "17AE277C4F1C68BC510397B449029A6C": "ressource de fabrication"
+    "A1F2CBCB46882082C40C92834EDDD0D6": "ressource de fabrication"
   },
   "Juno_GameplayItemCraftingFormulas_JunoMars": {
     "EssenceOfSpireBaneIII_DisplayName": "Fléau du mégalithe III"
   },
   "Juno_GameplayItemToTagMapping": {
-    "C690C330466D954F310A0C9352E4ADC1": "Cristal corrompu"
+    "D08563F24953CE0DEE515990901F3505": "Cristal corrompu"
   },
   "Juno_UpdateItemData": {
-    "A3556D85478029980B37BA96C2D359C4": "Sert à la fabrication. Laissé en butin par les mégalithes d'élite et les gardes démoniaques lourds.",
-    "7E069A074076CE89EE39B893EDEF205C": "Ce cristal susurre des choses à votre oreille. Si vous le regardez de trop près, vous pouvez apercevoir quelque chose vous observer en retour..."
+    "3F6FF5F848C2ADB0E0C587A41EAD8A9B": "Sert à la fabrication. Laissé en butin par les gardes démoniaques lourds.",
+    "E2CE0C364B0C1F7D345F549236C25374": "Ce cristal susurre des choses à votre oreille. Si vous le regardez de trop près, vous pouvez apercevoir quelque chose vous observer en retour..."
   }
 }

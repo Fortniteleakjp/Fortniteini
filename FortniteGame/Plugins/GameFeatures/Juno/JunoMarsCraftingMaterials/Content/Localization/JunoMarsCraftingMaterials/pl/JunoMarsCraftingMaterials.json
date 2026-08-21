@@ -12,20 +12,20 @@
     "D8D0E610425287EEC6581CA560C9CE2D": "Stwórz broń przy użyciu <emphA>skażonego kryształu.</>",
     "B4A003F74E36C034781DB78A95945FC6": "Stwórz broń ze <text color=\"E2FCFFFF\">skażonego kryształu</>",
     "AD9A538E447069CA6AE9C1AFDACF52B7": "Zadaje zwiększone obrażenia iglicom i przyzwanym przez nie wrogom.",
-    "206873EF4F48BE2ECB5D009249CEEFAD": "Przedmiot upuszczany przez <EmphA>trudnych przeciwników iglicowych.</>",
+    "E3EB817C4DF57A13D368FE86F9573FBC": "Przedmiot upuszczany przez <EmphA>trudnych demonicznych przeciwników.</>",
     "9A09D2F744A36F074921E7A4D2E02714": "Iglicospiracja.",
     "3D8D9E114E1EF86663319690D4F208F3": "Iglicowa Zguba III",
     "736485B648FE6289DF5BB9B7D123F623": "Iglicowa Zguba III",
-    "17AE277C4F1C68BC510397B449029A6C": "zasób do tworzenia"
+    "A1F2CBCB46882082C40C92834EDDD0D6": "zasób do tworzenia"
   },
   "Juno_GameplayItemCraftingFormulas_JunoMars": {
     "EssenceOfSpireBaneIII_DisplayName": "Iglicowa Zguba III"
   },
   "Juno_GameplayItemToTagMapping": {
-    "C690C330466D954F310A0C9352E4ADC1": "Skażony kryształ"
+    "D08563F24953CE0DEE515990901F3505": "Skażony kryształ"
   },
   "Juno_UpdateItemData": {
-    "A3556D85478029980B37BA96C2D359C4": "Składnik rzemieślniczy. Do zdobycia przez pokonanie elitarnych iglic i ciężkich demonów strażników.",
-    "7E069A074076CE89EE39B893EDEF205C": "Kryształ brzęczy i szepcze. Kiedy przyjrzeć mu się bliżej, wydaje się, że coś w środku na ciebie spogląda..."
+    "3F6FF5F848C2ADB0E0C587A41EAD8A9B": "Składnik rzemieślniczy. Do zdobycia przez pokonanie ciężkich demonów strażników.",
+    "E2CE0C364B0C1F7D345F549236C25374": "Kryształ brzęczy i szepcze. Kiedy przyjrzeć mu się bliżej, wydaje się, że coś w środku na ciebie spogląda..."
   }
 }

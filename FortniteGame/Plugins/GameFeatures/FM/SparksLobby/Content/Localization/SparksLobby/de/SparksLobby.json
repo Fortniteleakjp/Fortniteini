@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Beim Spielen von Fortnite Festival verdienst du Battle Pass-EP.",
     "EC21F8A54B86E39CA37902B269447962": "Beim Spielen von Fortnite Festival verdienst du Battle Pass-EP.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Deine Band erhält Bonuspunkte pro unterschiedlichem Instrument, das dabei ist."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Tägliche Vibes",
+    "setlist_desc_1": "Tägliche Vibes-Beschreibung!",
+    "setlist_title_3": "Festival-Auswahl",
+    "setlist_desc_3": "Festival-Auswahl-Beschreibung!",
+    "setlist_desc_Fortnitemares": "Fortnite: Albträume",
+    "setlist_title_Fortnitemares": "Fortnite: Albträume",
+    "setlist_title_special": "Spezial-Event",
+    "setlist_desc_special": "Spezial-Event-Beschreibung",
+    "setlist_title_2": "Spotlight-Setlist",
+    "setlist_desc_2": "Spotlight-Setlist-Beschreibung!"
   }
 }

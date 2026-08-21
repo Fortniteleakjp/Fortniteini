@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "Espace insuffisant sur votre appareil.\nRequis : {RequiredBytes}\nDisponible : {AvailableBytes}.\nL'installation nécessite {SpaceAdditional} de plus.",
     "MissingEncryptionKeyForNonPreload": "Cette installation n'a pas pu continuer, car les données de déchiffrement requises sont introuvables. Veuillez contacter l'assistance.",
     "InvalidEncryptionKeyForNonPreload": "Cette installation n'a pas pu continuer, car les données de déchiffrement requises ne sont pas valides. Veuillez contacter l'assistance.",
-    "EmptyCloudDirectories": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
     "InvalidInstallTags": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
     "InvalidInstallToMemory": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",
     "InvalidMemoryConstructionConfig": "Un problème de configuration a interrompu l'installation. Veuillez contacter l'assistance.",

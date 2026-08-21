@@ -1,12 +1,12 @@
 {
   "": {
-    "8FD26A8E4B9EEEDB889CF383F3617324": "Umożliwia obsługę zdarzeń opartych na wyznaczonej przestrzeni.",
+    "426DD4DB466847474CC8F2BF572EBCAF": "Umożliwia obsługę zdarzeń opartych na wyznaczonej przestrzeni.",
     "BF6C68DC48FAF83B5D9212BF7CCC3FB6": "Umożliwia obsługę zdarzeń opartych na wyznaczonej przestrzeni.",
-    "BB59813D40DBD2B6F67730B9FB4D4530": "Po wejściu",
-    "69A2845D4DEDE0C6869DBCB71FDA170F": "Po opuszczeniu",
-    "80A49C23471E8479948646B7B18BF5F8": "Wysyła zdarzenie do połączonych urządzeń, gdy dozwolona istota wchodzi w przestrzeń.",
-    "B0D9F06346DB6417F7DECEA021E30694": "Wysyła zdarzenie do połączonych urządzeń, gdy dozwolona istota opuszcza przestrzeń.",
-    "219EFB4644AB52293B11CC9C521321E9": "Głośność",
+    "6385EC11445B09D7A8EC9488315AC788": "Po wejściu",
+    "6224788447BF4416945A6AA8F71F4E6C": "Po opuszczeniu",
+    "DC1A249D42A17AD450B8E8A085D5A350": "Wysyła zdarzenie do połączonych urządzeń, gdy dozwolona istota wchodzi w przestrzeń.",
+    "287EB9E042C96231743E248FBA6DBC42": "Wysyła zdarzenie do połączonych urządzeń, gdy dozwolona istota opuszcza przestrzeń.",
+    "4AF783794B70D5B6F669BDA06A16ACF4": "Głośność",
     "D2858BE745B800D01CF93F9571B99143": "Przestrzeń"
   },
   "Fort.Actor.Building.Defaults": {
@@ -44,8 +44,8 @@
     "BoolMetaData.TrueDisplayName": "Wł.",
     "Device_Volume_C.OnEnter.DisplayName": "Po wejściu",
     "Device_Volume_C.OnExit.DisplayName": "Po opuszczeniu",
-    "6F771F1142107768D7353098ED1922AC": "Przy wejściu rekwizytu fizycznego",
-    "E5A572B7422952B4273CD0A70CD793B5": "Przy wyjściu rekwizytu fizycznego",
+    "9DE741BE4A460B86A8C9039EDAE2544C": "Przy wejściu rekwizytu fizycznego",
+    "491B8F7E433E8A9E1C003B88F51261C6": "Przy wyjściu rekwizytu fizycznego",
     "Device_Volume_C.PhysicsEventsEnabled.DisplayName": "Zdarzenia rekwizytów fizycznych włączone",
     "Device_Volume_C.PlayerEventsEnabled.DisplayName": "Zdarzenia graczy włączone",
     "Device_Volume_C.SelectedClass.DisplayName": "Wybrana klasa",

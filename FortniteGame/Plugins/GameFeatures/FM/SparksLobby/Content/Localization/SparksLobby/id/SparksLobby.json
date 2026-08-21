@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Kamu akan mendapatkan Battle Pass XP selagi bermain Fortnite Festival.",
     "EC21F8A54B86E39CA37902B269447962": "Kamu akan mendapatkan Battle Pass XP selagi bermain Fortnite Festival.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Band-mu mendapatkan poin bonus untuk setiap alat musik unik yang ada dalam formasi."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Suasana Harian",
+    "setlist_desc_1": "Deskripsi Suasana Harian!",
+    "setlist_title_3": "Pilihan Festival",
+    "setlist_desc_3": "Deskripsi Pilihan Festival!",
+    "setlist_desc_Fortnitemares": "Fortnitemares",
+    "setlist_title_Fortnitemares": "Fortnitemares",
+    "setlist_title_special": "Event Spesial",
+    "setlist_desc_special": "Deskripsi Event Spesial",
+    "setlist_title_2": "Daftar Lagu Sorotan",
+    "setlist_desc_2": "Deskripsi Daftar Lagu Sorotan!"
   }
 }

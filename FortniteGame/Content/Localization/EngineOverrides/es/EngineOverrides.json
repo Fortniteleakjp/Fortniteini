@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "No hay suficiente espacio en tu dispositivo.\nSe necesitan {RequiredBytes}.\nDisponible: {AvailableBytes}.\nNecesitas {SpaceAdditional} más para realizar la instalación.",
     "MissingEncryptionKeyForNonPreload": "La instalación no ha podido continuar porque faltan los datos de descifrado necesarios. Ponte en contacto con asistencia al jugador.",
     "InvalidEncryptionKeyForNonPreload": "La instalación no ha podido continuar porque los datos de descifrado necesarios no son válidos. Ponte en contacto con asistencia al jugador.",
-    "EmptyCloudDirectories": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
     "InvalidInstallTags": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
     "InvalidInstallToMemory": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",
     "InvalidMemoryConstructionConfig": "No se ha podido continuar con el proceso de instalación debido a un problema de configuración. Ponte en contacto con asistencia al jugador.",

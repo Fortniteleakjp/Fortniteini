@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Música"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Vibes Diárias",
-    "setlist_1_title": "Vibes Diárias",
-    "setlist_title_1": "Vibes Diárias",
-    "daily_1_desc": "Descrição das Vibes Diárias!",
-    "setlist_1_desc": "Descrição das Vibes Diárias!",
-    "setlist_desc_1": "Descrição das Vibes Diárias!",
-    "festival_1_title": "Seleções do Festival",
-    "setlist_3_title": "Seleções do Festival",
-    "setlist_title_3": "Seleções do Festival",
-    "festival_1_desc": "Descrição das Seleções do Festival!",
-    "setlist_3_desc": "Descrição das Seleções do Festival!",
-    "setlist_desc_3": "Descrição das Seleções do Festival!",
-    "setlist_desc_Fortnitemares": "Fortnite: Pesadelos",
-    "setlist_title_Fortnitemares": "Fortnite: Pesadelos",
-    "setlist_2_title": "Setlist em Destaque",
-    "setlist_title_2": "Setlist em Destaque",
-    "spotlight_1_title": "Setlist em Destaque",
-    "setlist_2_desc": "Descrição da Setlist em Destaque!",
-    "setlist_desc_2": "Descrição da Setlist em Destaque!",
-    "spotlight_1_desc": "Descrição da Setlist em Destaque!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Setlist Personalizada",
     "ProductMode_DisplayName_Setlist1": "Setlist Diária",

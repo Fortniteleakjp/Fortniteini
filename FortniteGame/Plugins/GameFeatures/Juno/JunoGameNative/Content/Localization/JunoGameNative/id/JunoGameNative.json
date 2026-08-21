@@ -19,7 +19,7 @@
     "LNFDropNOfX": "{WantItemCount} {WantItem}."
   },
   "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "Bergabung dengan Kamp {0}"
+    "JoinCamp": "Bergabung dengan Kamp"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "Tidak cukup untuk bertransaksi. Perlu x{WantItemCount} {WantItem} untuk ditukar dengan x{SellItemCount} {SellItem}. \n {BundleCount} bundel tersisa.",

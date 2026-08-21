@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Piste musicale"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Ambiances du jour",
-    "setlist_1_title": "Ambiances du jour",
-    "setlist_title_1": "Ambiances du jour",
-    "daily_1_desc": "Description des ambiances du jour !",
-    "setlist_1_desc": "Description des ambiances du jour !",
-    "setlist_desc_1": "Description des ambiances du jour !",
-    "festival_1_title": "Sélections de Festival",
-    "setlist_3_title": "Sélections de Festival",
-    "setlist_title_3": "Sélections de Festival",
-    "festival_1_desc": "Description des sélections de Festival !",
-    "setlist_3_desc": "Description des sélections de Festival !",
-    "setlist_desc_3": "Description des sélections de Festival !",
-    "setlist_desc_Fortnitemares": "Fortnite : Cauchemars",
-    "setlist_title_Fortnitemares": "Fortnite : Cauchemars",
-    "setlist_2_title": "Programme à la une",
-    "setlist_title_2": "Programme à la une",
-    "spotlight_1_title": "Programme à la une",
-    "setlist_2_desc": "Description du programme à la une !",
-    "setlist_desc_2": "Description du programme à la une !",
-    "spotlight_1_desc": "Description du programme à la une !"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Programme personnalisé",
     "ProductMode_DisplayName_Setlist1": "Programme du jour",

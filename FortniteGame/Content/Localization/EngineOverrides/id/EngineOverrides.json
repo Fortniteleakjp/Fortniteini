@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "Ruang penyimpanan pada perangkatmu tidak cukup.\nButuh {RequiredBytes}.\nTersedia {AvailableBytes}.\nKamu butuh {SpaceAdditional} lagi untuk melakukan penginstalan ini.",
     "MissingEncryptionKeyForNonPreload": "Penginstalan ini tidak dapat dilanjutkan karena data dekripsi yang diperlukan tidak ada. Silakan hubungi bantuan.",
     "InvalidEncryptionKeyForNonPreload": "Penginstalan ini tidak dapat dilanjutkan karena data dekripsi yang diperlukan tidak valid. Silakan hubungi bantuan.",
-    "EmptyCloudDirectories": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
     "InvalidInstallTags": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
     "InvalidInstallToMemory": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",
     "InvalidMemoryConstructionConfig": "Penginstalan tidak dapat dilanjutkan karena adanya masalah konfigurasi. Silakan hubungi bantuan.",

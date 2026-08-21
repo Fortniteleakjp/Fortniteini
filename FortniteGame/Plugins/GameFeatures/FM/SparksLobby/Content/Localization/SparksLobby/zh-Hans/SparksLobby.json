@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "游玩Fortnite 音乐节，获得通行证经验值。",
     "EC21F8A54B86E39CA37902B269447962": "游玩Fortnite 音乐节，获得通行证经验值。",
     "8BE159084C8B92F44EE4529CFB86BD77": "乐队每包含一种独特乐器可获得加分。"
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "日常旋律",
+    "setlist_desc_1": "日常旋律描述！",
+    "setlist_title_3": "音乐节精选",
+    "setlist_desc_3": "音乐节精选描述！",
+    "setlist_desc_Fortnitemares": "Fortnite梦魇",
+    "setlist_title_Fortnitemares": "Fortnite梦魇",
+    "setlist_title_special": "特别活动",
+    "setlist_desc_special": "特别活动说明",
+    "setlist_title_2": "焦点歌单",
+    "setlist_desc_2": "焦点歌单描述！"
   }
 }

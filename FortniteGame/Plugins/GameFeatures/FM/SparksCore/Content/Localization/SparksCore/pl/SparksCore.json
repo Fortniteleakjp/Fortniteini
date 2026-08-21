@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Ścieżka jamowa"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Codzienne Klimaty",
-    "setlist_1_title": "Codzienne Klimaty",
-    "setlist_title_1": "Codzienne Klimaty",
-    "daily_1_desc": "Opis Codziennych Klimatów!",
-    "setlist_1_desc": "Opis Codziennych Klimatów!",
-    "setlist_desc_1": "Opis Codziennych Klimatów!",
-    "festival_1_title": "Zestawienie Festiwalowe",
-    "setlist_3_title": "Zestawienie Festiwalowe",
-    "setlist_title_3": "Zestawienie Festiwalowe",
-    "festival_1_desc": "Opis Zestawienia Festiwalowego!",
-    "setlist_3_desc": "Opis Zestawienia Festiwalowego!",
-    "setlist_desc_3": "Opis Zestawienia Festiwalowego!",
-    "setlist_desc_Fortnitemares": "Koszmarów Czar",
-    "setlist_title_Fortnitemares": "Koszmarów Czar",
-    "setlist_2_title": "Setlista W Świetle Reflektorów",
-    "setlist_title_2": "Setlista W Świetle Reflektorów",
-    "spotlight_1_title": "Setlista W Świetle Reflektorów",
-    "setlist_2_desc": "Opis setlisty W Świetle Reflektorów!",
-    "setlist_desc_2": "Opis setlisty W Świetle Reflektorów!",
-    "spotlight_1_desc": "Opis setlisty W Świetle Reflektorów!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Własna setlista",
     "ProductMode_DisplayName_Setlist1": "Codzienna setlista",

@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Puedes obtener PE de pase de batalla al jugar al Fortnite Festival.",
     "EC21F8A54B86E39CA37902B269447962": "Puedes obtener PE de pase de batalla al jugar Fortnite Festival.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Tu banda conseguirá puntos adicionales por cada instrumento diferente en la alineación."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Ritmos Diarios",
+    "setlist_desc_1": "¡Descripción de Ritmos Diarios!",
+    "setlist_title_3": "Favoritos de Festival",
+    "setlist_desc_3": "¡Descripción de Favoritos de Festival!",
+    "setlist_desc_Fortnitemares": "Fortnite: Pesadillas",
+    "setlist_title_Fortnitemares": "Fortnite: Pesadillas",
+    "setlist_title_special": "Evento especial",
+    "setlist_desc_special": "Descripción de evento especial",
+    "setlist_title_2": "Ritmos de Spotlight",
+    "setlist_desc_2": "¡Descripción de Ritmos de Spotlight!"
   }
 }

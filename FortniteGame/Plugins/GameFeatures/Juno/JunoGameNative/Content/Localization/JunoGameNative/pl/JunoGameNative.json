@@ -19,7 +19,7 @@
     "LNFDropNOfX": "{WantItemCount} {WantItem}."
   },
   "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "Dołącz do obozu: {0}"
+    "JoinCamp": "Dołącz do obozu"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "Za mało na wymianę. Potrzeba: {WantItem} ({WantItemCount} szt.), aby wymienić na: {SellItem} ({SellItemCount} szt.). \n Pozostało zestawów: {BundleCount}.",

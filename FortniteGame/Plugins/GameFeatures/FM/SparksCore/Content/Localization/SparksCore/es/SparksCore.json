@@ -13,28 +13,6 @@
   "Sparks.SongItemDefinition": {
     "DefaultShortDescription": "Pista de improvisación"
   },
-  "SparksCuratedSetlistStringsNS": {
-    "daily_1_title": "Ritmos diarios",
-    "setlist_1_title": "Ritmos diarios",
-    "setlist_title_1": "Ritmos diarios",
-    "daily_1_desc": "¡Descripción de Ritmos diarios!",
-    "setlist_1_desc": "¡Descripción de Ritmos diarios!",
-    "setlist_desc_1": "¡Descripción de Ritmos diarios!",
-    "festival_1_title": "Selección de Festival",
-    "setlist_3_title": "Selección de Festival",
-    "setlist_title_3": "Selección de Festival",
-    "festival_1_desc": "¡Descripción de Selección de Festival!",
-    "setlist_3_desc": "¡Descripción de Selección de Festival!",
-    "setlist_desc_3": "¡Descripción de Selección de Festival!",
-    "setlist_desc_Fortnitemares": "Fortnite: Pesadillas",
-    "setlist_title_Fortnitemares": "Fortnite: Pesadillas",
-    "setlist_2_title": "Repertorio Bajo el foco",
-    "setlist_title_2": "Repertorio de Bajo el foco",
-    "spotlight_1_title": "Repertorio Bajo el foco",
-    "setlist_2_desc": "¡Descripción del repertorio de Bajo el foco!",
-    "setlist_desc_2": "¡Descripción del repertorio de Bajo el foco!",
-    "spotlight_1_desc": "¡Descripción del repertorio de Bajo el foco!"
-  },
   "SparksCuratedSetlistTitles": {
     "ProductMode_DisplayName_MainStage": "Repertorio personalizado",
     "ProductMode_DisplayName_Setlist1": "Repertorio diario",

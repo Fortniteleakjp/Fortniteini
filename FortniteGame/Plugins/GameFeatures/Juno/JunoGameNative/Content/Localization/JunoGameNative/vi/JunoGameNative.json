@@ -19,7 +19,7 @@
     "LNFDropNOfX": "{WantItemCount} {WantItem}."
   },
   "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "Tham Gia Trại {0}"
+    "JoinCamp": "Tham Gia Trại"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "Không đủ để bán. Cần x{WantItemCount} {WantItem} để bán lấy x{SellItemCount} {SellItem}. \n Còn {BundleCount} bộ quà.",

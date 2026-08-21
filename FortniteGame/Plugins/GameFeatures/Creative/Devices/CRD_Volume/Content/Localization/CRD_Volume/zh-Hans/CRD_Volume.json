@@ -1,12 +1,12 @@
 {
   "": {
-    "8FD26A8E4B9EEEDB889CF383F3617324": "根据泛型空间启用事件。",
+    "426DD4DB466847474CC8F2BF572EBCAF": "根据泛型空间启用事件。",
     "BF6C68DC48FAF83B5D9212BF7CCC3FB6": "根据泛型空间启用事件。",
-    "BB59813D40DBD2B6F67730B9FB4D4530": "进入时",
-    "69A2845D4DEDE0C6869DBCB71FDA170F": "退出时",
-    "80A49C23471E8479948646B7B18BF5F8": "允许实体进入空间时，向链接设备发送事件。",
-    "B0D9F06346DB6417F7DECEA021E30694": "允许实体离开空间时，向链接设备发送事件。",
-    "219EFB4644AB52293B11CC9C521321E9": "音量",
+    "6385EC11445B09D7A8EC9488315AC788": "进入时",
+    "6224788447BF4416945A6AA8F71F4E6C": "退出时",
+    "DC1A249D42A17AD450B8E8A085D5A350": "允许实体进入空间时，向链接设备发送事件。",
+    "287EB9E042C96231743E248FBA6DBC42": "允许实体离开空间时，向链接设备发送事件。",
+    "4AF783794B70D5B6F669BDA06A16ACF4": "音量",
     "D2858BE745B800D01CF93F9571B99143": "音量"
   },
   "Fort.Actor.Building.Defaults": {
@@ -44,8 +44,8 @@
     "BoolMetaData.TrueDisplayName": "开",
     "Device_Volume_C.OnEnter.DisplayName": "进入时",
     "Device_Volume_C.OnExit.DisplayName": "退出时",
-    "6F771F1142107768D7353098ED1922AC": "物理道具进入时",
-    "E5A572B7422952B4273CD0A70CD793B5": "物理道具离开时",
+    "9DE741BE4A460B86A8C9039EDAE2544C": "物理道具进入时",
+    "491B8F7E433E8A9E1C003B88F51261C6": "物理道具离开时",
     "Device_Volume_C.PhysicsEventsEnabled.DisplayName": "启用物理事件",
     "Device_Volume_C.PlayerEventsEnabled.DisplayName": "启用玩家事件",
     "Device_Volume_C.SelectedClass.DisplayName": "所选职业",

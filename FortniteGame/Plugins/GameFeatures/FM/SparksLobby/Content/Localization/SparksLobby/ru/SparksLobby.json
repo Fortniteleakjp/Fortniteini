@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Играя в Fortnite Festival, вы зарабатываете опыт боевого пропуска.",
     "EC21F8A54B86E39CA37902B269447962": "Играя в Fortnite Festival, вы зарабатываете опыт боевого пропуска.",
     "8BE159084C8B92F44EE4529CFB86BD77": "Группа получает дополнительные очки за каждый уникальный инструмент."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "Музыка на каждый день",
+    "setlist_desc_1": "Описание музыки на каждый день!",
+    "setlist_title_3": "Избранное фестиваля",
+    "setlist_desc_3": "Описание избранного фестиваля!",
+    "setlist_desc_Fortnitemares": "Fortnite: кошмары",
+    "setlist_title_Fortnitemares": "Fortnite: кошмары",
+    "setlist_title_special": "Особое событие",
+    "setlist_desc_special": "Описание особого события",
+    "setlist_title_2": "Сет-лист «В центре внимания»",
+    "setlist_desc_2": "Описание сет-листа «В центре внимания»!"
   }
 }

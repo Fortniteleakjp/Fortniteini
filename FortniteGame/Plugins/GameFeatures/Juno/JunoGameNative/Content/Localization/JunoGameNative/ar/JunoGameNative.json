@@ -19,7 +19,7 @@
     "LNFDropNOfX": "{WantItemCount} {WantItem}."
   },
   "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "انضم إلى مخيم {0}"
+    "JoinCamp": "انضم إلى مخيم"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "لا يكفي للمقايضة. يلزم x{WantItemCount} من {WantItem} للمقايضة مقابل x{SellItemCount} من {SellItem}. \n باقي {BundleCount} من الحزم.",

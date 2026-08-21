@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "Fortnite FestivalをプレイすることでバトルパスのXPを獲得できるぞ。",
     "EC21F8A54B86E39CA37902B269447962": "Fortnite FestivalをプレイすることでバトルパスのXPを獲得できるぞ。",
     "8BE159084C8B92F44EE4529CFB86BD77": "楽器の種類が多いほど、バンドにボーナスポイントが入る。"
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "デイリーのバイブス",
+    "setlist_desc_1": "デイリーのバイブスの説明文です！",
+    "setlist_title_3": "Festivalセレクト",
+    "setlist_desc_3": "Festivalセレクトの説明文！",
+    "setlist_desc_Fortnitemares": "フォートナイトメア",
+    "setlist_title_Fortnitemares": "フォートナイトメア",
+    "setlist_title_special": "スペシャルイベント",
+    "setlist_desc_special": "スペシャルイベントの詳細",
+    "setlist_title_2": "スポットライトセットリスト",
+    "setlist_desc_2": "スポットライトセットリストの説明文！"
   }
 }

@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "기기에 공간이 부족합니다.\n{RequiredBytes}의 여유 공간이 필요합니다.\n{AvailableBytes}의 공간이 현재 남아있습니다.\n설치를 진행하려면 {SpaceAdditional}의 공간을 추가로 확보해야 합니다.",
     "MissingEncryptionKeyForNonPreload": "필요한 해독 데이터가 없어 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "InvalidEncryptionKeyForNonPreload": "필요한 해독 데이터가 유효하지 않아 본 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
-    "EmptyCloudDirectories": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "InvalidInstallTags": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "InvalidInstallToMemory": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",
     "InvalidMemoryConstructionConfig": "구성 문제 때문에 설치를 계속할 수 없습니다. 지원센터에 문의하시기 바랍니다.",

@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "Auf deinem Gerät ist nicht genug Speicherplatz vorhanden.\nErforderlich: {RequiredBytes}\nVerfügbar: {AvailableBytes}\nDir fehlen noch {SpaceAdditional}, um die Installation durchzuführen.",
     "MissingEncryptionKeyForNonPreload": "Diese Installation konnte nicht fortgesetzt werden, da die erforderlichen Entschlüsselungsdaten fehlen. Wende dich bitte an den Support.",
     "InvalidEncryptionKeyForNonPreload": "Diese Installation konnte nicht fortgesetzt werden, da die erforderlichen Entschlüsselungsdaten nicht gültig sind. Wende dich bitte an den Support.",
-    "EmptyCloudDirectories": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
     "InvalidInstallTags": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
     "InvalidInstallToMemory": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",
     "InvalidMemoryConstructionConfig": "Die Installation konnte aufgrund eines Konfigurationsproblems nicht fortgesetzt werden. Wende dich bitte an den Support.",

@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "裝置空間不足。\n需要{RequiredBytes}。\n現可使用 {AvailableBytes}。\n還需要 {SpaceAdditional} 才可執行安裝。",
     "MissingEncryptionKeyForNonPreload": "因缺少所需的解碼資料，故無法繼續安裝。請聯絡客服。",
     "InvalidEncryptionKeyForNonPreload": "因所需的解碼資料無效，故無法繼續安裝。請聯絡客服。",
-    "EmptyCloudDirectories": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
     "InvalidInstallTags": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
     "InvalidInstallToMemory": "因發生配置問題，故無法繼續安裝。請聯絡客服。",
     "InvalidMemoryConstructionConfig": "因發生配置問題，故無法繼續安裝。請聯絡客服。",

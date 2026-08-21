@@ -1,27 +1,27 @@
 {
   "": {
     "093E320D4E1A528402C140A2D6BF2B61": "Cuchillas",
-    "D96EFA7940C10FEA5ADD5A8E6814AB3E": "¿Shu-riken? ¿O mi-riken?",
-    "E97D828E401794E0E6035D9F0052C954": "¿Shu-riken? ¿O mi-riken?",
+    "1BB725CD4EABDDED407AF58ADE63EC44": "¿Shu-riken? ¿O mi-riken?",
+    "6893E61046B7699714C8FF90F71F4F1A": "¿Shu-riken? ¿O mi-riken?",
     "263E2220430D6FC4E97F32B02EB11538": "Centro",
-    "5BE5CA8F476A74105C2107A1D1BE363F": "Un shuriken común. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran. ",
-    "492E847A4056722468D9F1B7CAFE388C": "Un shuriken épico. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran.",
-    "18FA88BF49B66EA60C8D60B46BC1B3AC": "Se aprende en la pestaña Maestría de Ninja ",
-    "6F05C4FC4D58CB2C77D1698AE043E597": "Se aprende en la pestaña Maestría de Ninja ",
-    "86F5523A4B77B62BB87DB897E5AB31EC": "Se aprende en la pestaña Maestría de Ninja ",
-    "90D66A5C4C2F770E96FD9F86F79D58A5": "Se aprende en la pestaña Maestría de Ninja ",
-    "810270FA4C6EA512EA96118BC032FE27": "Un shuriken legendario. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran.",
-    "3BD009B74B9055B4FEAE85A01DE4E0E9": "Como un Tornado del Spinjitzu, pero arrojadizo.",
-    "88A8547E4AFE4F1D8470E5A08F7EB884": "Un shuriken raro. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran.",
+    "D68AB177403D6277402D33ACAE69AC38": "Un shuriken común. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran. ",
+    "605D985B4D300848F6270F8ADFDFDD6B": "Un shuriken épico. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran.",
+    "28B4A3B142276CB151E6E795E814A0C3": "Se aprende en la pestaña Maestría de Ninja ",
+    "A72C74E74A22919B66E29C95C80ECB2B": "Se aprende en la pestaña Maestría de Ninja ",
+    "B94B1B5A47C751C39064EF9A77301C7E": "Se aprende en la pestaña Maestría de Ninja ",
+    "FE7D8F524B5235B394BBE2A385A6EB92": "Se aprende en la pestaña Maestría de Ninja ",
+    "2F1FA5B340EE55FFF6A22091157E1A6D": "Un shuriken legendario. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran.",
+    "BC2EF853495AF815DA415F8A27E48DB5": "Como un Tornado del Spinjitzu, pero arrojadizo.",
+    "481884DE4DCDF9A942EAEFBC60597930": "Un shuriken raro. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran.",
     "1AE7EC1F4B785EAB82FDC6A579FACD6A": "Reliquia",
-    "1621FE2D4F6EB770ED345BACD8F069CB": "Estrellita, ¿dónde estás? Ah, acabando con el enemigo.",
-    "7A9A3E76432BF59F037B7B809A42F41F": "Suaviza la superficie de tu shuriken.",
-    "0100F12640782A81255181BBEFF5BFA7": "Armas arrojadizas",
-    "425BA21942D3D6689773D686AD7EF2F7": "Armas arrojadizas",
-    "C2D4C9C84D1110C483A711AAD3729A20": "Armas arrojadizas",
-    "D751132B427D4ECA77992D8D271A891D": "Armas arrojadizas",
-    "E3FBFE784A2317E78F83BFAE859D2A69": "Armas arrojadizas",
-    "960E82854A9E861824DCA9BA7AC83EE4": "Un shuriken poco común. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran."
+    "C9303AAC4051A5D94712F5995F448D64": "Estrellita, ¿dónde estás? Ah, acabando con el enemigo.",
+    "B67FCF9F47DD6F08B0899AB4FE1DE9C2": "Suaviza la superficie de tu shuriken.",
+    "1ACE82F7423AF886DEFC2EB037C20DED": "Armas arrojadizas",
+    "276433514198B6C2E26556AC03E5FB9E": "Armas arrojadizas",
+    "365174874091773B139448BBE5F625CA": "Armas arrojadizas",
+    "AA47694041387955092752B3F3FFD532": "Armas arrojadizas",
+    "DCFC92994E7E59C8AF583D8A27B3926F": "Armas arrojadizas",
+    "B8821C6D41C0467BD8601EB2B1EAC63C": "Un shuriken poco común. Unas estrellas ninja afiladas como cuchillas. Los ninjas las adoran."
   },
   "Juno_BoostedItemNames_Shuriken": {
     "Shuriken_T5_T5_Honed_Bamboo_DisplayName": "Shuriken de bambú",
@@ -42,10 +42,10 @@
     "Shuriken_DisplayName": "Shuriken"
   },
   "Juno_UpdateItemData": {
-    "3EB23374462AD1A4264B89B674069060": "Shuriken",
-    "863A6B134C12EED19BFA259464C5BC28": "Shuriken",
-    "DF616BC44AB6277D45CD3FAC66107E74": "Shuriken",
-    "E44D5CCF4255E842F3333B838A8725C8": "Shuriken",
-    "E8493B554EBD22EAD4974CA8D18255ED": "Shuriken"
+    "234F6CB24995892F990A24A732B1F8AE": "Shuriken",
+    "363CE2B048D7135071B5A081BAA12567": "Shuriken",
+    "85895EA84AD4A7BB9927E4909C0BBDBF": "Shuriken",
+    "BE7C44E048BC541986728D958BACBD65": "Shuriken",
+    "D30994AB47DA72D679BC489831402E80": "Shuriken"
   }
 }

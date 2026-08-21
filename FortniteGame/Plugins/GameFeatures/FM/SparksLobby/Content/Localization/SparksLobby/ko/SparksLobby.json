@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "포트나이트 페스티벌 기간에 플레이하면 배틀패스 XP를 얻을 수 있습니다.",
     "EC21F8A54B86E39CA37902B269447962": "포트나이트 페스티벌 기간에 플레이하면 배틀패스 XP를 얻을 수 있습니다.",
     "8BE159084C8B92F44EE4529CFB86BD77": "라인업에서 각자 다른 악기를 연주할 때마다 밴드가 보너스 점수를 얻습니다."
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "일일 바이브",
+    "setlist_desc_1": "일일 바이브 설명입니다!",
+    "setlist_title_3": "페스티벌 엄선곡",
+    "setlist_desc_3": "페스티벌 엄선곡 설명입니다!",
+    "setlist_desc_Fortnitemares": "포트나이트의 악몽",
+    "setlist_title_Fortnitemares": "포트나이트의 악몽",
+    "setlist_title_special": "특별 이벤트",
+    "setlist_desc_special": "특별 이벤트 설명",
+    "setlist_title_2": "스포트라이트 연주곡 세트",
+    "setlist_desc_2": "스포트라이트 연주곡 세트 설명입니다!"
   }
 }

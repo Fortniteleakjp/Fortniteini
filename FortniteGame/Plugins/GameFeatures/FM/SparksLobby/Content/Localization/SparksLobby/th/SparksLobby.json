@@ -36,5 +36,17 @@
     "6B43F35D4B4B7ABE808123911EC02AF2": "คุณสามารถรับ XP แบทเทิลพาสในขณะที่เล่น Fortnite Festival",
     "EC21F8A54B86E39CA37902B269447962": "คุณสามารถรับ XP แบทเทิลพาสในขณะที่เล่น Fortnite Festival",
     "8BE159084C8B92F44EE4529CFB86BD77": "วงดนตรีของคุณจะได้รับคะแนนโบนัสเมื่อมีเครื่องดนตรีพิเศษอยู่ในไลน์อัป"
+  },
+  "ST_CuratedSetlists": {
+    "setlist_title_1": "มู้ดประจำวัน",
+    "setlist_desc_1": "คำอธิบายมู้ดประจำวัน!",
+    "setlist_title_3": "เฟสติวัลคัดสรร",
+    "setlist_desc_3": "คำอธิบายเฟสติวัลคัดสรร!",
+    "setlist_desc_Fortnitemares": "คืนหลอน Fortnite",
+    "setlist_title_Fortnitemares": "คืนหลอน Fortnite",
+    "setlist_title_special": "อีเวนต์พิเศษ",
+    "setlist_desc_special": "คำอธิบายอีเวนต์พิเศษ",
+    "setlist_title_2": "เซ็ตลิสต์สปอตไลท์",
+    "setlist_desc_2": "คำอธิบายเซ็ตลิสต์สปอตไลท์!"
   }
 }

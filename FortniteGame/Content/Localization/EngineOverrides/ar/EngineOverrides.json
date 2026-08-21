@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "لا توجد مساحة كافية على جهازك\n{RequiredBytes} مطلوبة.\n{AvailableBytes} متاحة.\nتحتاج إلى مساحة {SpaceAdditional} إضافية لإجراء هذا التثبيت.",
     "MissingEncryptionKeyForNonPreload": "تعذر استمرار التثبيت لأن بيانات فك التشفير المطلوبة مفقودة. يُرجى الاتصال بالدعم.",
     "InvalidEncryptionKeyForNonPreload": "تعذر استمرار التثبيت لأن بيانات فك التشفير المطلوبة غير صالحة. يُرجى الاتصال بالدعم.",
-    "EmptyCloudDirectories": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
     "InvalidInstallTags": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
     "InvalidInstallToMemory": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",
     "InvalidMemoryConstructionConfig": "تعذر استمرار التثبيت بسبب مشكلة في التكوين. يُرجى الاتصال بالدعم.",

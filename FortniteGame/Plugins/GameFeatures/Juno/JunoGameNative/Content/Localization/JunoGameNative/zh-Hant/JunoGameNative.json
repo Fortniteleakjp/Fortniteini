@@ -19,7 +19,7 @@
     "LNFDropNOfX": "{WantItemCount} 個{WantItem}。"
   },
   "JunoConversationTaskNode_RemoteCampRecruitment": {
-    "JoinInCampX": "加入營地{0}"
+    "JoinCamp": "加入營地"
   },
   "JunoConversationTaskNode_TradeWithMerchant": {
     "NotEnoughForTrade": "數量不足以交易。需要 {WantItemCount} 個{WantItem}換取 {SellItemCount} 個{SellItem}。\n剩下 {BundleCount} 組。",

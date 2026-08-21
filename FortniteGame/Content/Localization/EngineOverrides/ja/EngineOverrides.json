@@ -39,7 +39,6 @@
     "InstallDirectoryDiskSpaceDevice": "デバイスに十分な空き容量がありません。\n{RequiredBytes}が必要です。\n{AvailableBytes}利用できます。\nインストールを実行するにはあと{SpaceAdditional}必要です。",
     "MissingEncryptionKeyForNonPreload": "必要な復号データがないため、インストールを続行できませんでした。サポートまでご連絡ください。",
     "InvalidEncryptionKeyForNonPreload": "必要な復号データが有効ではないため、このインストールを続行できませんでした。サポートまでご連絡ください。",
-    "EmptyCloudDirectories": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
     "InvalidInstallTags": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
     "InvalidInstallToMemory": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
     "InvalidMemoryConstructionConfig": "設定の問題によりインストールを続行できませんでした。サポートまでご連絡ください。",
