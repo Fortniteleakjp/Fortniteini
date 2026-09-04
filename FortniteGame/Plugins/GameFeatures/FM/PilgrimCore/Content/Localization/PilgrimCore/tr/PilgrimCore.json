@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "Tüm Zamanlar",
-    "PilgrimArtistSort": "Sanatçı Adı",
-    "PilgrimAvailableFilter": "Mevcut",
-    "PilgrimShowScoreBy_CurrentSeason": "Mevcut Sezon",
-    "PilgrimDefaultFilter": "Varsayılan",
-    "PilgrimFeaturedSort": "Öne Çıkanlar",
-    "PilgrimFeaturedFilter": "Yeni ve Öne Çıkanlar",
-    "PilgrimOwnedFilter": "Var",
-    "PilgrimOwnedSort": "Sahiplik",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "Arşivlenenleri Göster",
-    "PilgrimAlphaSort": "Şarkı Adı, A-Z",
-    "PilgrimAlphaSortReverse": "Şarkı Adı, Z-A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "Beş",
     "Pilgrim_FourLanes": "Dört"

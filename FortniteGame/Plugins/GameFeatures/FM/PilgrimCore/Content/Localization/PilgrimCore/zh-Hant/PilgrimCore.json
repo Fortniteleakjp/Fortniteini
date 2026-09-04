@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "歷史最佳",
-    "PilgrimArtistSort": "藝術家名稱",
-    "PilgrimAvailableFilter": "可用",
-    "PilgrimShowScoreBy_CurrentSeason": "目前賽季",
-    "PilgrimDefaultFilter": "預設",
-    "PilgrimFeaturedSort": "精選",
-    "PilgrimFeaturedFilter": "最新與精選",
-    "PilgrimOwnedFilter": "已擁有",
-    "PilgrimOwnedSort": "所有權",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "顯示已封存",
-    "PilgrimAlphaSort": "歌曲名稱，A-Z",
-    "PilgrimAlphaSortReverse": "歌曲名稱，Z-A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "五",
     "Pilgrim_FourLanes": "四"

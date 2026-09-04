@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "ข้อความที่จะมาแทนที่ชื่อของผู้พูดเมื่อถึงจำนวนบทสนทนาที่อนุญาต",
     "F0043A3140A95EAA09DFF48C31CA0826": "เมื่อกำหนดค่าให้เป็นเปิด จะแสดงชื่อผู้พูดเมื่อผู้เล่นอยู่ในบริเวณใกล้เคียง (ประมาณ 5 เมตร)",
     "18A398F14F0E24478FA3B796EB91D4E6": "จะแสดงข้อความบทสนทนาบนพื้นที่โลก ซึ่งได้มาจากโหนดคำพูดในกราฟการสนทนา",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} ม."
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} ม.",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "ป้าย"

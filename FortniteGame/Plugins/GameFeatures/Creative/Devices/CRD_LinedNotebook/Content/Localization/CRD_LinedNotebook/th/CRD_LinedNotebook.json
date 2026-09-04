@@ -107,7 +107,7 @@
     "Device_LinedNotebookSupplyDropSpawner_C.Open Supply Drop.DisplayName": "เปิดกล่องเสบียง",
     "Device_LinedNotebookSupplyDropSpawner_C.Open Supply Drop.Description": "เปิดกล่องเสบียงโดยไม่คำนึงว่าจะล็อกอยู่หรือไม่",
     "Device_LinedNotebookSupplyDropSpawner_C.OwningClass.DisplayName": "อาชีพที่เป็นเจ้าของ",
-    "Device_LinedNotebookSupplyDropSpawner_C.OwningTeam.DisplayName": "ทีมที่เป็นเจ้าของ",
+    "Device_LinedNotebookSupplyDropSpawner_C.OwningTeam.DisplayName": "ทีมที่ยึดครอง",
     "CRD_LinedNotebookSupplyDropSpawner_SupplyDropVariant.Random.DisplayName": "สุ่ม",
     "CRD_LinedNotebookSupplyDropSpawner_SupplyDropVariant.Raphael (Red).DisplayName": "ราฟาเอล (สีแดง)",
     "Device_LinedNotebookSupplyDropSpawner_C.On Balloon Popped.Description": "ส่งเหตุการณ์เมื่อลูกโป่งของกล่องเสบียงแตก",

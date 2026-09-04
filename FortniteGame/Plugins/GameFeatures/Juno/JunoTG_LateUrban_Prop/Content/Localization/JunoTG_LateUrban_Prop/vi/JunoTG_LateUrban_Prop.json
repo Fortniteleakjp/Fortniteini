@@ -1,0 +1,24 @@
+{
+  "": {
+    "29116265A74A542BDE446281C7CA42CF": "Tín Hiệu Dơi",
+    "29116265A74A542BDE446281CEAF2645": "Tín Hiệu Dơi",
+    "763BD7C946E11D9D287C5CB70731382A": "Dù Lượn Cánh Dơi",
+    "29116265A74A542BDE446281F50DD9B2": "Trang Bị Thiết Yếu Của Batman",
+    "777D9813419ED6F790D782A70735AC4D": "Dù Lượn",
+    "F6696CF34A757AA818C004912AAFEC0F": "Dù Lượn",
+    "C66D57A94DF0863F73E391B405F0D725": "Súng Lục Tầm Xa Súng Lục Bán Tự Động",
+    "8543AB5C4E9E33EA78CBFB8618779D44": "Được làm từ một thứ rơi ra từ <EmphA>kẻ địch được trang bị bom, súng lục hoặc súng hỏa mai</>.",
+    "05098888491CC33D6FADCCAEA4EC3DB5": "Dù Lượn Chiến Đấu Tiêu Chuẩn. ",
+    "13B7B8BC4FBDD03547DA51BC59B333CD": "Bạn sẽ cần một <EmphA>Guồng Quay Tơ</>."
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "EE0E3AA448643FE5254C87AC8C43E2AD": "Dù Lượn Cánh Dơi"
+  },
+  "Juno_UpdateItemData": {
+    "828D12A34CC69E63EEA06890897C69E4": "Súng Móc Leo Batman",
+    "908BBC944E00617F0CB441ABBC73FC0C": "Dành cho những khu vực xa xôi này.",
+    "77179BDC4171D38EE1EA358AD92ABAB2": "Bay lên trời cao.",
+    "3D2821874567409056B9E99F1ED8DA70": "Phóng một cây hút và kéo về phía mục tiêu của bạn.",
+    "3AA60763495371242854B1956CEEDB24": "Nhảy dù lượn từ những nơi cao để đùa vui với mây gió."
+  }
+}

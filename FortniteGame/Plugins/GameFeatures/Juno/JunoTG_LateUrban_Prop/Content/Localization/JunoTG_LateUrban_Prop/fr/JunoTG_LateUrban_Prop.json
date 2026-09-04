@@ -1,0 +1,24 @@
+{
+  "": {
+    "29116265A74A542BDE446281C7CA42CF": "Bat-signal",
+    "29116265A74A542BDE446281CEAF2645": "Bat-signal",
+    "763BD7C946E11D9D287C5CB70731382A": "Bat-planeur",
+    "29116265A74A542BDE446281F50DD9B2": "Incontournables de Batman",
+    "777D9813419ED6F790D782A70735AC4D": "Planeur",
+    "F6696CF34A757AA818C004912AAFEC0F": "Planeur",
+    "C66D57A94DF0863F73E391B405F0D725": "Fusils À distance Pistolets Semi-automatique",
+    "8543AB5C4E9E33EA78CBFB8618779D44": "Fabriqué à partir d'une ressource que des <EmphA>ennemis armés de bombes, de pistolets ou de mousquets</> laissent derrière eux.",
+    "05098888491CC33D6FADCCAEA4EC3DB5": "Planeur de combat standard. ",
+    "13B7B8BC4FBDD03547DA51BC59B333CD": "Vous aurez besoin d'un <EmphA>rouet</>."
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "EE0E3AA448643FE5254C87AC8C43E2AD": "Bat-planeur"
+  },
+  "Juno_UpdateItemData": {
+    "828D12A34CC69E63EEA06890897C69E4": "Lance-grappin de Batman",
+    "908BBC944E00617F0CB441ABBC73FC0C": "Parfait pour atteindre les coins les plus difficiles d'accès.",
+    "77179BDC4171D38EE1EA358AD92ABAB2": "Toujours plus haut.",
+    "3D2821874567409056B9E99F1ED8DA70": "Un grappin, idéal pour se déplacer rapidement vers l'endroit ciblé par la ventouse.",
+    "3AA60763495371242854B1956CEEDB24": "Permet de planer dans les cieux en se jetant de haut."
+  }
+}

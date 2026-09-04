@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "Il testo che sostituirà il nome del parlante una volta raggiunto il Numero di conversazioni consentite.",
     "F0043A3140A95EAA09DFF48C31CA0826": "Quando attivato, visualizza il nome dell'altoparlante quando un giocatore è vicino (circa 5m).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Mostra il testo della conversazione nel mondo di gioco derivato dai nodi di discorso nel grafico delle conversazioni.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etichetta"

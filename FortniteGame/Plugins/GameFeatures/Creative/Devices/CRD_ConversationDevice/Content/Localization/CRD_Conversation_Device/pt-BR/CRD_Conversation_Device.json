@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "O texto que substituirá o Nome do Locutor quando o Número de Conversas Permitidas for atingido.",
     "F0043A3140A95EAA09DFF48C31CA0826": "Quando ligado, exibe o nome do personagem que está falando quando a pessoa está perto (cerca de 5 m).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Exibe um texto de conversa no espaço do mundo decorrente de um nó de discurso no Gráfico de Conversa.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Rótulo"

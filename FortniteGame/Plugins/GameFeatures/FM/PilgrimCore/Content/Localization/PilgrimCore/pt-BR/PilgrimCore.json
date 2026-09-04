@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "Todas as Temporadas",
-    "PilgrimArtistSort": "Nome do Artista",
-    "PilgrimAvailableFilter": "Disponível",
-    "PilgrimShowScoreBy_CurrentSeason": "Temporada Atual",
-    "PilgrimDefaultFilter": "Padrão",
-    "PilgrimFeaturedSort": "Em Destaque",
-    "PilgrimFeaturedFilter": "Novidade e em Destaque",
-    "PilgrimOwnedFilter": "Adquirido",
-    "PilgrimOwnedSort": "Autoria",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "Exibir Arquivados",
-    "PilgrimAlphaSort": "Nome da Música, A–Z",
-    "PilgrimAlphaSortReverse": "Nome da Música, Z–A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "Cinco",
     "Pilgrim_FourLanes": "Quatro"

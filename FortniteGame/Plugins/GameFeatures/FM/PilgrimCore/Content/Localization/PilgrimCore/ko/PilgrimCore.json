@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}배"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "올타임",
-    "PilgrimArtistSort": "아티스트 이름",
-    "PilgrimAvailableFilter": "이용 가능",
-    "PilgrimShowScoreBy_CurrentSeason": "현재 시즌",
-    "PilgrimDefaultFilter": "기본값",
-    "PilgrimFeaturedSort": "추천",
-    "PilgrimFeaturedFilter": "신규 및 추천",
-    "PilgrimOwnedFilter": "보유함",
-    "PilgrimOwnedSort": "소유권",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "아카이브 표시",
-    "PilgrimAlphaSort": "곡 이름 (오름차순)",
-    "PilgrimAlphaSortReverse": "곡 이름 (내림차순)"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "5",
     "Pilgrim_FourLanes": "4"

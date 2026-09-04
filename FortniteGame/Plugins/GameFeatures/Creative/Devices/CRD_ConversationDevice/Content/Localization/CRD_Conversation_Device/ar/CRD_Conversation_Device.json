@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "النص الذي سيحل محل اسم المتحدث عند بلوغ العدد المسموح به من المحادثات.",
     "F0043A3140A95EAA09DFF48C31CA0826": "عند ضبطه على تشغيل، يعرض اسم المتحدث عندما يكون هناك لاعب قريب (حوالي 5 أمتار).",
     "18A398F14F0E24478FA3B796EB91D4E6": "سيعرض نص المحادثة في الفضاء العالمي المستمد من نقاط الخطاب في الرسم البياني للمحادثة.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}د"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}د",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "ملصق"

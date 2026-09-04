@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "Le texte qui remplace le nom du locuteur lorsque le nombre maximum de conversations autorisées est atteint.",
     "F0043A3140A95EAA09DFF48C31CA0826": "Si défini sur Oui, affiche le nom du locuteur quand un joueur est à proximité (environ 5 mètres).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Affiche un texte de conversation dans le décor qui est dérivé des nœuds de discussion dans le graphe de conversation.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Étiquette"

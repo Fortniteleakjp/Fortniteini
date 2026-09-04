@@ -1,0 +1,22 @@
+{
+  "": {
+    "0CCAB87641A12B2E06A067AEFAE9FE52": "BalloonBrickSmall",
+    "19F103EF4678A7B8047AB08ED8E72701": "BalloonBrickSmall",
+    "9E2A6C9140CF3F1731F8B98DAC7D98AD": "Sức Nổi Trong Một Hộp",
+    "F9142FD94D42AB4D07B2DAA1679FBB60": "Chuyến Bay Đỉnh Cao",
+    "A9E5968A4906FF4F7955309136D10FC8": "Lớn",
+    "788449344FCD92D5FF553C9A7A74F772": "Cường Độ Nâng",
+    "B36322E3470EFD2B539C558048950287": "Vừa",
+    "B13D45284CF36AB2C05493955D7FB149": "Nhỏ"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "EF178C6C4AACAFAA73AC498C9E417316": "Một thiết bị nhỏ gọn, có thể gắn kết, tạo ra một lực nâng nhỏ",
+    "72C16EC94A049B59748C628DB3F55609": "Một thiết bị nhỏ gọn, có thể gắn kết, tạo ra nhiều tùy chọn với lực nâng khác nhau.",
+    "3242186747C17386405A108D1588395A": "Khối Lắp Ráp Khí Cầu",
+    "DDDF7C734DB0EE6589EF0690BAB65C14": "Khối Lắp Ráp Khí Cầu Nổi Nhỏ"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "E330759B4C9EB3024E11359B66266B86": "Khối Lắp Ráp Khí Cầu Nổi",
+    "4A50B98543B019A6567CFCAA21ECC25A": "Khối Lắp Ráp Khí Cầu Nhỏ"
+  }
+}

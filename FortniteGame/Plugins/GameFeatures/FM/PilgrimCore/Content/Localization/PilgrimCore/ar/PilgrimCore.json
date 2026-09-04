@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "كل الأوقات",
-    "PilgrimArtistSort": "اسم الفنان",
-    "PilgrimAvailableFilter": "متاح",
-    "PilgrimShowScoreBy_CurrentSeason": "الموسم الحالي",
-    "PilgrimDefaultFilter": "الافتراضي",
-    "PilgrimFeaturedSort": "المميز",
-    "PilgrimFeaturedFilter": "الجديد والمميز",
-    "PilgrimOwnedFilter": "مملوك",
-    "PilgrimOwnedSort": "الملكية",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "عرض المؤرشف",
-    "PilgrimAlphaSort": "عنوان الأغنية (من A إلى Z)",
-    "PilgrimAlphaSortReverse": "عنوان الأغنية (من A إلى Z)"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "خمسة",
     "Pilgrim_FourLanes": "أربعة"

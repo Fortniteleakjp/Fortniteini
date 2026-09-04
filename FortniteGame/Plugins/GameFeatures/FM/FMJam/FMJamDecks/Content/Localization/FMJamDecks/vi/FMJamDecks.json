@@ -6,14 +6,14 @@
     "7E41B31B47FF0FEB0F18DCBB24F59995": "Kích Thước Nút",
     "8C8D81B347F06E817028F9B1ADA0A5F9": "Thay Đổi Vòng Lặp (Nhấn Giữ)",
     "FFB7298D4566E73393FB0BBAA26DF179": "Nhấp qua",
-    "E94E31B9441B5D7157B65AA88E73CAF7": "Đã Đóng",
     "2BBEB8EB4B455AECB2C251BD58C66ECE": "Không Thể Tiếp Nhận Tất Cả Vòng Lặp Thêm",
     "E88A0566490455A220BBF3A5F699713C": "Biến Tấu - Tham Gia Nhanh Biến Tấu",
     "0A4340094AA41F559933DBB69EAF8504": "Cùng Nhau Biến Tấu",
     "786E80874733AB204D36ED9E04D8D601": "JamDecks",
+    "E94E31B9441B5D7157B65AA88E73CAF7": "Chỉ Trong Tổ Đội",
     "3FA13F004C7D52EF537B8CACCC10040D": "Đặt Vòng Lặp Bổ Sung",
     "36365ECD4993EA71955323A9FFC4B5D4": "Dừng Vòng Lặp",
     "FA9AF9FE41984A922675B2AF9CF30700": "Kích Thước Vùng Chạm",
-    "60E1EB7E4A2C987877789E9AC8989279": "Đang cập nhật sự hiện diện của IMC... Deck=\"{deck}\" - Là Bộ Biến Tấu=\"{bool}\" -- Nên Có Các Nút Điều Khiển = {ChangeResult}"
+    "9621F3B042DC8D7DDFC441B03037D776": "Đang cập nhật sự hiện diện của IMC... Deck=\"{deck}\" - Là Bộ Biến Tấu=\"{bool}\" -- Nên Có Các Nút Điều Khiển = {ChangeResult}"
   }
 }

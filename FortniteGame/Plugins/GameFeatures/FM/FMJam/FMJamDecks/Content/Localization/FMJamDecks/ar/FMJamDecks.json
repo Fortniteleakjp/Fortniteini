@@ -6,14 +6,14 @@
     "7E41B31B47FF0FEB0F18DCBB24F59995": "حجم الزر",
     "8C8D81B347F06E817028F9B1ADA0A5F9": "تغيير حلقة العزف (اضغط باستمرار)",
     "FFB7298D4566E73393FB0BBAA26DF179": "النقر الفرعي",
-    "E94E31B9441B5D7157B65AA88E73CAF7": "مغلق",
     "2BBEB8EB4B455AECB2C251BD58C66ECE": "تعذّر استيعاب جميع الحلقات الإضافية",
     "E88A0566490455A220BBF3A5F699713C": "مقطوعة - مقطوعة الانضمام السريع",
     "0A4340094AA41F559933DBB69EAF8504": "اعزفوا معًا",
     "786E80874733AB204D36ED9E04D8D601": "مازج المقطوعات",
+    "E94E31B9441B5D7157B65AA88E73CAF7": "المجموعة فقط",
     "3FA13F004C7D52EF537B8CACCC10040D": "ضع حلقة إضافية",
     "36365ECD4993EA71955323A9FFC4B5D4": "إيقاف حلقة العزف",
     "FA9AF9FE41984A922675B2AF9CF30700": "حجم منطقة اللمس",
-    "60E1EB7E4A2C987877789E9AC8989279": "Updating IMC presence... Deck=\"{deck}\"  -  Is Jammer=\"{bool}\"   -- Should Have Controls = {ChangeResult}"
+    "9621F3B042DC8D7DDFC441B03037D776": "Updating IMC presence... Deck=\"{deck}\"  -  Is Jammer=\"{bool}\"   -- Should Have Controls = {ChangeResult}"
   }
 }

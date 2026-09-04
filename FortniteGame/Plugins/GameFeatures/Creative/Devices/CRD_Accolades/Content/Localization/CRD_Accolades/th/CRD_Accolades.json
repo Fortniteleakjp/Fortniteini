@@ -190,7 +190,7 @@
     "Device_Accolades_V2_C.TriggeringPlayerOnly_New.Description": "หากมีค่า true จะพิจารณาเฉพาะผู้เล่นที่ทริกเกอร์เท่านั้นเมื่อมอบรางวัลอันทรงเกียรติ",
     "Device_VoteAccolades_C.TriggeringPlayerOnly_New.Description": "หากมีค่า true จะพิจารณาเฉพาะผู้เล่นที่ทริกเกอร์เท่านั้นเมื่อมอบรางวัลอันทรงเกียรติ",
     "Device_Accolades_V2_C.InvertClass.DisplayName": "สับเปลี่ยนคลาส",
-    "Device_VoteAccolades_C.InvertClass.DisplayName": "เลือกคลาสเป้าหมายตรงข้าม",
+    "Device_VoteAccolades_C.InvertClass.DisplayName": "สับเปลี่ยนคลาส",
     "Device_Accolades_V2_C.InvertTeam.DisplayName": "ทีมตรงข้าม",
     "Device_VoteAccolades_C.InvertTeam.DisplayName": "เลือกทีมเป้าหมายตรงข้าม",
     "Device_Accolades_SplashSize.Large.DisplayName": "ใหญ่",

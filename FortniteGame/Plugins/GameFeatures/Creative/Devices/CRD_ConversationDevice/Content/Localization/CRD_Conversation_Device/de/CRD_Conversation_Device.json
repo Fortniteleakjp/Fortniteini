@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "Der Text, mit dem der Sprechername ersetzt wird, wenn die Anzahl der erlaubten Gespräche erreicht ist.",
     "F0043A3140A95EAA09DFF48C31CA0826": "Wenn dies eingeschaltet ist, wird der Name der sprechenden Person angezeigt, wenn sich ein Spieler in der Nähe befindet (ungefähr 5 Meter).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Zeigt den Gesprächstext in der Welt an, der von den Sprachknotenpunkten im Gesprächsdiagramm hergeleitet wird.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText} Min."
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Titel"

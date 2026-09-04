@@ -215,7 +215,7 @@
     "Device_VideoPlayer_V3_C.Make PIP Full Screen.Description": "ขยายภาพซ้อนภาพให้เต็มจอเมื่อได้รับอีเวนต์นี้จากอุปกรณ์ที่เชื่อมโยง",
     "Device_VideoPlayer_V3_C.Manual Color (Blue).DisplayName": "สีด้วยตนเอง (สีน้ำเงิน)",
     "Device_VideoPlayer_V3_C.Manual Color (Green).DisplayName": "สีด้วยตนเอง (สีเขียว)",
-    "Device_VideoPlayer_V3_C.Manual Color (Red).DisplayName": "สีด้วยตนเอง (สีแดง)",
+    "Device_VideoPlayer_V3_C.Manual Color (Red).DisplayName": "สีแบบป้อนค่าเอง (สีแดง)",
     "EEnabledOnPhase.None.DisplayName": "ไม่มี",
     "BoolMetaData.FalseDisplayName": "ปิด",
     "BoolMetaData.TrueDisplayName": "เปิด",

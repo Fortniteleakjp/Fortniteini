@@ -16,11 +16,6 @@
     "UnableToGetPointData": "Не удалось получить точечные данные от элемента ввода",
     "UnableToGetSpatialData": "Не удалось получить пространственные данные от элемента ввода"
   },
-  "JunoWorldMutationRulesetDetails": {
-    "EmptyRule": "(пусто — выберите класс правила)",
-    "MultipleRules": "(несколько значений)",
-    "RuleRowFormat": "[{0}] {1}"
-  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Ошибка инициализации: невозможно получить данные для текстуры высоты.",
     "FailExtractGrassTypeOverrides": "Не удалось извлечь приоритеты типа травы."

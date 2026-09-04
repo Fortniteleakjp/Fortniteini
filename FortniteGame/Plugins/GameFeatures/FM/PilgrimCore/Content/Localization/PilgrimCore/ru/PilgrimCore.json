@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "Всё время",
-    "PilgrimArtistSort": "Имя исполнителя",
-    "PilgrimAvailableFilter": "Доступные",
-    "PilgrimShowScoreBy_CurrentSeason": "Текущий сезон",
-    "PilgrimDefaultFilter": "По умолчанию",
-    "PilgrimFeaturedSort": "Рекомендации",
-    "PilgrimFeaturedFilter": "Новое и рекомендованное",
-    "PilgrimOwnedFilter": "Ваши",
-    "PilgrimOwnedSort": "Владелец",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "Отображать архив",
-    "PilgrimAlphaSort": "Название песни (по алфавиту)",
-    "PilgrimAlphaSortReverse": "Название песни (в обр. порядке)"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "Пять",
     "Pilgrim_FourLanes": "Четыре"

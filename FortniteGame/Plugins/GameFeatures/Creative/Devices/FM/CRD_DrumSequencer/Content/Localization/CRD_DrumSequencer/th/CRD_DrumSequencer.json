@@ -62,7 +62,7 @@
     "Device_FabricDrumSequencer_C.LegalInfo.Description": "โปรดทราบว่าการใช้อุปกรณ์เสียงแบบ Patchwork นั้นจำกัดเฉพาะการสร้างสรรค์ผลงานดนตรีใหม่และเป็นผลงานต้นฉบับเท่านั้น",
     "Device_FabricDrumSequencer_C.PowerButtonIn.DisplayName": "ปุ่มเปิดปิดขาเข้า",
     "EEnabledOnPhase.Pre-Game Only.DisplayName": "เฉพาะแมตช์ที่รอเริ่ม",
-    "Device_FabricDrumSequencer_C.PresetIn.DisplayName": "ใช้พรีเซ็ต",
+    "Device_FabricDrumSequencer_C.PresetIn.DisplayName": "พรีเซ็ตขาเข้า",
     "Device_FabricDrumSequencer_C.PresetToggleIn.DisplayName": "ใช้ปุ่มเปิด/ปิดพรีเซ็ต",
     "A9A4C2E54DE4177D8D0E44B389410ED4": "เปิดใช้งานพรีเซ็ต",
     "Device_FabricDrumSequencer_C.Page.Description": "เลือกว่าจะแสดงและเล่นหน้าใดบนกริดโน้ต แต่ละหน้าสามารถใส่รูปแบบโน้ตของตนเองได้",

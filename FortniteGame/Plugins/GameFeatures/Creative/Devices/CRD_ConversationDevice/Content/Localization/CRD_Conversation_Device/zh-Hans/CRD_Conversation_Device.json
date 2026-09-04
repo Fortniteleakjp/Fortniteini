@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "达到允许同时进行的对话数时，将用文本替换说话者名称。",
     "F0043A3140A95EAA09DFF48C31CA0826": "设置为“打开”，则当玩家在附近（约5米）时显示说话者名称。",
     "18A398F14F0E24478FA3B796EB91D4E6": "将显示场景空间中来自对话图中的语音节点的对话文本。",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}米"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}米",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "标签"

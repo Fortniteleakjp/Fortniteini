@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "Văn bản sẽ thay thế Tên Người Nói khi đã đạt Số Hội Thoại Được Phép.",
     "F0043A3140A95EAA09DFF48C31CA0826": "Nếu đặt là Bật, tên người nói sẽ được hiển thị khi có một người chơi ở gần (khoảng 5m).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Sẽ hiển thị văn bản cuộc hội thoại trong không gian thế giới, được lấy từ các nút thoại trong Biểu Đồ Hội Thoại.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nhãn"

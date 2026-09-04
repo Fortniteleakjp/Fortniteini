@@ -16,11 +16,6 @@
     "UnableToGetPointData": "Không thể lấy dữ liệu Điểm từ đầu vào",
     "UnableToGetSpatialData": "Không thể lấy dữ liệu Không Gian từ đầu vào"
   },
-  "JunoWorldMutationRulesetDetails": {
-    "EmptyRule": "(trống - chọn một lớp quy tắc)",
-    "MultipleRules": "(nhiều giá trị)",
-    "RuleRowFormat": "[{0}] {1}"
-  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu độ cao, khởi tạo thất bại.",
     "FailExtractGrassTypeOverrides": "Trích xuất ghi đè loại cỏ không thành công."

@@ -6,14 +6,14 @@
     "7E41B31B47FF0FEB0F18DCBB24F59995": "Ukuran Tombol",
     "8C8D81B347F06E817028F9B1ADA0A5F9": "Ubah Loop (Tahan)",
     "FFB7298D4566E73393FB0BBAA26DF179": "Klik Lanjut",
-    "E94E31B9441B5D7157B65AA88E73CAF7": "Tertutup",
     "2BBEB8EB4B455AECB2C251BD58C66ECE": "Tidak Bisa Menampung Semua Loop Ekstra",
     "E88A0566490455A220BBF3A5F699713C": "Jamming - Gabung Ngejam Cepat",
     "0A4340094AA41F559933DBB69EAF8504": "Jamming Bersama",
     "786E80874733AB204D36ED9E04D8D601": "Dek Jamming",
+    "E94E31B9441B5D7157B65AA88E73CAF7": "Hanya Kelompok",
     "3FA13F004C7D52EF537B8CACCC10040D": "Tempatkan Loop Ekstra",
     "36365ECD4993EA71955323A9FFC4B5D4": "Hentikan Loop",
     "FA9AF9FE41984A922675B2AF9CF30700": "Ukuran Zona Sentuh",
-    "60E1EB7E4A2C987877789E9AC8989279": "Memperbarui keberadaan IMC .... Deck=\"{deck}\"  -  Jammer=\"{bool}\"   -- Harus Punya Kontrol = {ChangeResult}"
+    "9621F3B042DC8D7DDFC441B03037D776": "Memperbarui keberadaan IMC .... Deck=\"{deck}\"  -  Jammer=\"{bool}\"   -- Harus Punya Kontrol = {ChangeResult}"
   }
 }

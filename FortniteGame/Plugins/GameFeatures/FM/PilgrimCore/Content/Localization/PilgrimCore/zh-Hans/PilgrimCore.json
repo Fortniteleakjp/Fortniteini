@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "全部",
-    "PilgrimArtistSort": "艺术家名称",
-    "PilgrimAvailableFilter": "可用",
-    "PilgrimShowScoreBy_CurrentSeason": "当前赛季",
-    "PilgrimDefaultFilter": "默认",
-    "PilgrimFeaturedSort": "推荐",
-    "PilgrimFeaturedFilter": "新歌或精选",
-    "PilgrimOwnedFilter": "已拥有",
-    "PilgrimOwnedSort": "权属",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "显示已归档",
-    "PilgrimAlphaSort": "歌曲标题，从A到Z",
-    "PilgrimAlphaSortReverse": "歌曲标题，从Z到A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "五",
     "Pilgrim_FourLanes": "四"

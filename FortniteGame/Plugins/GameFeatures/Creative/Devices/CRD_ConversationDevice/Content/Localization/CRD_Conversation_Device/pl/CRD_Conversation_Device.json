@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "Tekst, który zastąpi nazwę mówiącego po osiągnięciu liczby dozwolonych rozmów.",
     "F0043A3140A95EAA09DFF48C31CA0826": "Jeśli włączono, wyświetla nazwę mówiącego, gdy gracz jest w pobliżu (ok. 5 m).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Wyświetla w przestrzeni świata gry treść tekstu rozmowy pozyskanego z węzłów kwestii mówionych w grafie rozmowy.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Nazwa"

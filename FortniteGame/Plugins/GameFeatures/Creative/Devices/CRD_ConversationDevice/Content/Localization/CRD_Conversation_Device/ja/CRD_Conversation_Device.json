@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "会話の上限数に達した時、話者の名前に代わって表示されるテキスト。",
     "F0043A3140A95EAA09DFF48C31CA0826": "オンに設定すると、プレイヤーが近く(約5m)にいる時に話者の名前が表示されるようになる。",
     "18A398F14F0E24478FA3B796EB91D4E6": "会話グラフ内にある発言ノードからの会話テキストを、ワールドの空間に表示する。",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "ラベル"

@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "ตลอดกาล",
-    "PilgrimArtistSort": "ชื่อศิลปิน",
-    "PilgrimAvailableFilter": "พร้อมให้ใช้งาน",
-    "PilgrimShowScoreBy_CurrentSeason": "ซีซั่นปัจจุบัน",
-    "PilgrimDefaultFilter": "ค่าเริ่มต้น",
-    "PilgrimFeaturedSort": "แนะนำ",
-    "PilgrimFeaturedFilter": "ใหม่และแนะนำ",
-    "PilgrimOwnedFilter": "มีแล้ว",
-    "PilgrimOwnedSort": "เป็นเจ้าของ",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "แสดงไอเทมที่เก็บไว้",
-    "PilgrimAlphaSort": "ชื่อเพลง, A-Z",
-    "PilgrimAlphaSortReverse": "ชื่อเพลง, Z-A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "ห้า",
     "Pilgrim_FourLanes": "สี่"

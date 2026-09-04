@@ -16,11 +16,6 @@
     "UnableToGetPointData": "无法读取输入的指向数据",
     "UnableToGetSpatialData": "无法读取输入的空间数据"
   },
-  "JunoWorldMutationRulesetDetails": {
-    "EmptyRule": "（空 - 选择一个规则类）",
-    "MultipleRules": "（多个值）",
-    "RuleRowFormat": "[{0}]{1}"
-  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "无法获取高度纹理数据，初始化失败。",
     "FailExtractGrassTypeOverrides": "无法提取草地类型覆盖。"

@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "全期間",
-    "PilgrimArtistSort": "アーティスト名",
-    "PilgrimAvailableFilter": "利用可能",
-    "PilgrimShowScoreBy_CurrentSeason": "現行シーズン",
-    "PilgrimDefaultFilter": "デフォルト",
-    "PilgrimFeaturedSort": "おすすめ",
-    "PilgrimFeaturedFilter": "新規&おすすめ",
-    "PilgrimOwnedFilter": "所持中",
-    "PilgrimOwnedSort": "所有権",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "アーカイブ済みを表示",
-    "PilgrimAlphaSort": "曲名順、A-Z",
-    "PilgrimAlphaSortReverse": "曲名順、Z-A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "5",
     "Pilgrim_FourLanes": "4"

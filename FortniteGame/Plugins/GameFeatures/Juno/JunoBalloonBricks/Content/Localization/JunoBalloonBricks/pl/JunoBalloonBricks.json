@@ -1,0 +1,22 @@
+{
+  "": {
+    "0CCAB87641A12B2E06A067AEFAE9FE52": "BalloonBrickSmall",
+    "19F103EF4678A7B8047AB08ED8E72701": "BalloonBrickSmall",
+    "9E2A6C9140CF3F1731F8B98DAC7D98AD": "Kompaktowa wyporność",
+    "F9142FD94D42AB4D07B2DAA1679FBB60": "Lot na maksa",
+    "A9E5968A4906FF4F7955309136D10FC8": "Duży",
+    "788449344FCD92D5FF553C9A7A74F772": "Siła unoszenia",
+    "B36322E3470EFD2B539C558048950287": "Śred.",
+    "B13D45284CF36AB2C05493955D7FB149": "Mały"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "EF178C6C4AACAFAA73AC498C9E417316": "Kompaktowy element do łączenia o niewielkiej sile unoszenia",
+    "72C16EC94A049B59748C628DB3F55609": "Kompaktowy element do łączenia o różnych nastawieniach siły unoszenia.",
+    "3242186747C17386405A108D1588395A": "Klocek balonowy",
+    "DDDF7C734DB0EE6589EF0690BAB65C14": "Mały pływający klocek balonowy"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "E330759B4C9EB3024E11359B66266B86": "Pływający klocek balonowy",
+    "4A50B98543B019A6567CFCAA21ECC25A": "Mały klocek balonowy"
+  }
+}

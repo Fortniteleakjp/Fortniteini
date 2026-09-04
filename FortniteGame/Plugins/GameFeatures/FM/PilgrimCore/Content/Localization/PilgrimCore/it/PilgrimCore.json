@@ -82,7 +82,7 @@
     "BCFEE4E34B0356561456F6A58564F95F": "Strumento Harmonix",
     "D64E8072453937758DC56F91BB5AF155": "Strumento Harmonix",
     "6338263941E84F1EFC746085DB2D3E84": "HeterogeneousVolumes",
-    "935AF61844C3A442B865B6B537EEB4D2": "Punteggi più alti ti fanno ottenere più stelle: fino a cinque per canzone!",
+    "935AF61844C3A442B865B6B537EEB4D2": "Punteggi più alti ti fanno ottenere più Stelle: fino a cinque per canzone!",
     "53A579AB4F948987A824E3B276B0117D": "Centra ogni nota per far aumentare il moltiplicatore e superare gli avversari!",
     "8CF80B36425EF7911445B2962A47C584": "Centra ogni nota per ottenere una serie di note consecutive e potenziare il tuo moltiplicatore di punti.",
     "DE88CA784F41C422D5F7F0921D8C202C": "Gradiente orizzontale",
@@ -155,7 +155,7 @@
     "F8EEE0CC444517014CF9DE91D15B66FB": "Premi per fermare un'emote in esecuzione",
     "43C8845C49DC39F9E56684958C6A939C": "Impostazione parti Pro",
     "33A4853B4F08CD18BE680783DC04DA12": "Input emote rapida",
-    "02DB116C44508A5F5C18ACB0700B9257": "Ricordati di consultare il menu di gioco\nse mai avessi di bisogno:",
+    "02DB116C44508A5F5C18ACB0700B9257": "Ricordati di consultare il menu di gioco\nse mai avessi bisogno di:",
     "5928B25B4FC8D182A37CCE800665F41E": "Imposta comandi personalizzati",
     "B95D54BA41A52DB6517E6CBAA49872C1": "Imposta i comandi per la modalità",
     "CDBBF76B453F25BC576A7792757CCC03": "ImpostaPerBP",
@@ -197,20 +197,6 @@
     "17DD8ECB46F03E95BB7F78A2F8E49953": "ORA PUOI INIZIARE A SUONARE!",
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
-  },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "Generale",
-    "PilgrimArtistSort": "Nome dell'artista",
-    "PilgrimAvailableFilter": "Disponibile",
-    "PilgrimShowScoreBy_CurrentSeason": "Stagione attuale",
-    "PilgrimDefaultFilter": "Predefinito",
-    "PilgrimFeaturedSort": "In evidenza",
-    "PilgrimFeaturedFilter": "Nuove e in evidenza",
-    "PilgrimOwnedFilter": "In possesso",
-    "PilgrimOwnedSort": "Proprietà",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "Mostra archiviati",
-    "PilgrimAlphaSort": "Titolo della traccia, A-Z",
-    "PilgrimAlphaSortReverse": "Titolo della traccia, Z-A"
   },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "Cinque",

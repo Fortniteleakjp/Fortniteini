@@ -63,7 +63,7 @@
     "Device_FabricDrumSequencer_C.PowerButtonIn.DisplayName": "電源ボタンの入力",
     "EEnabledOnPhase.Pre-Game Only.DisplayName": "ゲーム前のみ",
     "Device_FabricDrumSequencer_C.PresetIn.DisplayName": "プリセットの入力",
-    "Device_FabricDrumSequencer_C.PresetToggleIn.DisplayName": "プリセットのトグルの入力",
+    "Device_FabricDrumSequencer_C.PresetToggleIn.DisplayName": "プリセット切り替えの入力",
     "A9A4C2E54DE4177D8D0E44B389410ED4": "プリセット有効化",
     "Device_FabricDrumSequencer_C.Page.Description": "音符グリッドでどのページが表示、演奏されるのかを選択する。 各ページにはそれぞれ独自の音符パターンを入れることが可能。",
     "Device_FabricDrumSequencer_C.PresetSelection.Description": "特定の音楽スタイルの音符のパターンを選択する。",

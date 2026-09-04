@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "當達到允許的對話數量上限時，用來取代說話者名稱的文字。",
     "F0043A3140A95EAA09DFF48C31CA0826": "當設定為「開」，在玩家靠近時（約 5 公尺內）顯示說話者名稱。",
     "18A398F14F0E24478FA3B796EB91D4E6": "顯示對話內容於世界空間中；內容來自對話圖中的語音節點。",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} 公尺"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} 公尺",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "標籤"

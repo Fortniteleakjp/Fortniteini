@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "Sepanjang Waktu",
-    "PilgrimArtistSort": "Nama Artis",
-    "PilgrimAvailableFilter": "Tersedia",
-    "PilgrimShowScoreBy_CurrentSeason": "Musim Ini",
-    "PilgrimDefaultFilter": "Default",
-    "PilgrimFeaturedSort": "Unggulan",
-    "PilgrimFeaturedFilter": "Baru & Unggulan",
-    "PilgrimOwnedFilter": "Dimiliki",
-    "PilgrimOwnedSort": "Kepemilikan",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "Tampilkan yang Diarsipkan",
-    "PilgrimAlphaSort": "Judul Lagu, A-Z",
-    "PilgrimAlphaSortReverse": "Judul Lagu, Z-A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "Lima",
     "Pilgrim_FourLanes": "Empat"

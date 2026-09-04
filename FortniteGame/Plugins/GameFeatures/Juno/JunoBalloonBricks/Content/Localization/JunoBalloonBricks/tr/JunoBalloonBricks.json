@@ -1,0 +1,22 @@
+{
+  "": {
+    "0CCAB87641A12B2E06A067AEFAE9FE52": "Balon Yapım Parçası Küçük",
+    "19F103EF4678A7B8047AB08ED8E72701": "Balon Yapım Parçası Küçük",
+    "9E2A6C9140CF3F1731F8B98DAC7D98AD": "Kutuda Havada Kalma",
+    "F9142FD94D42AB4D07B2DAA1679FBB60": "Mükemmel uçuş.",
+    "A9E5968A4906FF4F7955309136D10FC8": "Büyük",
+    "788449344FCD92D5FF553C9A7A74F772": "Kaldırma Kuvveti",
+    "B36322E3470EFD2B539C558048950287": "Orta",
+    "B13D45284CF36AB2C05493955D7FB149": "Küçük"
+  },
+  "Juno_GameplayItemToTagMapping": {
+    "EF178C6C4AACAFAA73AC498C9E417316": "Az miktarda kaldırma sağlayan, küçük ve bağlanabilir bir cihaz.",
+    "72C16EC94A049B59748C628DB3F55609": "Kaldırma miktarı için seçenekler sağlayan, küçük ve bağlanabilir bir cihaz.",
+    "3242186747C17386405A108D1588395A": "Balon Yapım Parçası",
+    "DDDF7C734DB0EE6589EF0690BAB65C14": "Küçük Havada Kalan Balon Yapım Parçası"
+  },
+  "PP_CraftingFormulas_BalloonPlacer": {
+    "E330759B4C9EB3024E11359B66266B86": "Havada Kalan Balon Yapım Parçası",
+    "4A50B98543B019A6567CFCAA21ECC25A": "Küçük Balon Yapım Parçası"
+  }
+}

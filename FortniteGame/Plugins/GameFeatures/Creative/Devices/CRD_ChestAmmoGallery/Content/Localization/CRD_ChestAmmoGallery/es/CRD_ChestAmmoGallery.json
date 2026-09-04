@@ -24,7 +24,8 @@
     "53D4CFC849F8AFDB609D9DA4203C99F5": "Sí",
     "0552B5F24FBD8FE800616084E4B684A6": "No se puede abrir",
     "3B5E4F784A085DE19B0B1C84B8DCCF3F": "Cofre del inframundo",
-    "7200B2DB4228FD86B7CF7B8669270673": "Ahora mismo no puedes abrir esto."
+    "7200B2DB4228FD86B7CF7B8669270673": "Ahora mismo no puedes abrir esto.",
+    "/Fortnite.com/Devices/hero_chest_device/StringToMessage": "{Value}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiqueta"

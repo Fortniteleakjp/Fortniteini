@@ -16,11 +16,6 @@
     "UnableToGetPointData": "無法從輸入取得點資料",
     "UnableToGetSpatialData": "無法從輸入取得空間資料"
   },
-  "JunoWorldMutationRulesetDetails": {
-    "EmptyRule": "（空白 - 選擇規則類別）",
-    "MultipleRules": "(多個值)",
-    "RuleRowFormat": "[{0}] {1}"
-  },
   "PCGJunoGenerateLandscapeTexturesElement": {
     "HeightTextureInitFailed": "無法擷取高度貼圖的資料，初始化失敗。",
     "FailExtractGrassTypeOverrides": "擷取草地類型覆寫失敗。"

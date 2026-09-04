@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "El texto que sustituirá al nombre del hablante al alcanzar el número de conversaciones permitidas.",
     "F0043A3140A95EAA09DFF48C31CA0826": "Si se configura como Sí, se mostrará el nombre del hablante cuando haya un jugador cerca (a 5 m, aproximadamente).",
     "18A398F14F0E24478FA3B796EB91D4E6": "Muestra el texto de conversación en el espacio del mundo que se deriva de los nodos de habla de la gráfica de conversación.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0} m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "Etiqueta"

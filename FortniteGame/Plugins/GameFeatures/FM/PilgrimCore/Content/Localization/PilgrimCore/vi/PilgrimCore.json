@@ -198,20 +198,6 @@
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "{value}x"
   },
-  "PilgrimFilters": {
-    "PilgrimShowScoreBy_AllTimeHighscore": "Mọi Thời Điểm",
-    "PilgrimArtistSort": "Tên Nghệ Sĩ",
-    "PilgrimAvailableFilter": "Khả Dụng",
-    "PilgrimShowScoreBy_CurrentSeason": "Mùa Hiện Tại",
-    "PilgrimDefaultFilter": "Mặc Định",
-    "PilgrimFeaturedSort": "Nổi Bật",
-    "PilgrimFeaturedFilter": "Mới Toanh & Nổi Bật",
-    "PilgrimOwnedFilter": "Đã Sở Hữu",
-    "PilgrimOwnedSort": "Quyền Sở Hữu",
-    "PilgrimSongSecondaryFilterUnarchivedOnly": "Hiện Lưu Trữ",
-    "PilgrimAlphaSort": "Tiêu Đề Bài Hát, A-Z",
-    "PilgrimAlphaSortReverse": "Tiêu Đề Bài Hát, Z-A"
-  },
   "PilgrimGameplay": {
     "Pilgrim_FiveLanes": "Năm",
     "Pilgrim_FourLanes": "Bốn"

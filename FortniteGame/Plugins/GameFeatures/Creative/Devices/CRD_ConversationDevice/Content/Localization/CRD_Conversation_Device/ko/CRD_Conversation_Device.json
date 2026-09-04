@@ -46,7 +46,8 @@
     "A58C99EE4BBC2C96B62265B611A7E846": "동시에 허용되는 대화 수에 도달하면 화자 이름을 대체하는 텍스트입니다.",
     "F0043A3140A95EAA09DFF48C31CA0826": "켜기로 설정하면 플레이어가 가까이 있을 때 화자의 이름을 표시합니다(약 5m 이내에 있을 경우).",
     "18A398F14F0E24478FA3B796EB91D4E6": "월드 스페이스에서 컨버세이션 그래프의 대사 노드에서 나온 대화 텍스트를 표시합니다.",
-    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m"
+    "6B33FD9E44439B2C075DED87CDE56B3A": "{0}m",
+    "/Fortnite.com/Devices/conversation_device/StringToMessage": "{InText}"
   },
   "Fort.Actor.Building.Defaults": {
     "OptionDefinitionContainer.LabelOverride": "라벨"
