@@ -539,8 +539,6 @@
     "0F27FEB645424A655938FBAA00966985": "Pronto para a Batalha",
     "06260D674B73C899F270E489FDED2318": "Battle Royale",
     "33B8A20040C39F11D774A2981F344253": "Battle Royale",
-    "922BA250460700D4A6C45A814459E9D4": "Battle Royale",
-    "A7F0D4E047323614E099CCB1616FC33D": "Battle Royale",
     "C403587B40DF25FCAA8E159AA3A7E558": "Battle Royale",
     "D3A984E042745DAD6F26E19C18103AD2": "Battle Royale",
     "61B644904C2939F994F877A526A4440B": "EXP de Colecionáveis de Battle Royale",
@@ -562,7 +560,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Parafuso Duplo",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplano",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplano",
-    "DF56207843F6244003548CA79CFAA0F4": "Biplano",
     "AD9DF9A2455C274907AE29971466ADBA": "Blade",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Blade",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Joinha",
@@ -753,12 +750,7 @@
     "A160CCFF49521B32A8B8E3AB90408722": "Nível de Dano",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "Suporte Gestual",
     "91DEE53D4336DA0C00BAD3ACA0899EE6": "Ofusque e encante seus amigos.",
-    "2C01E2F5420CED5A207C7B98302305A4": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
-    "394C9BDD403D04CBB1203997013A98CD": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
-    "47699A1C400A37DC893F54B2FCD92877": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
     "527C4E4949B247E160807D920F92EEC9": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
-    "5CFC98A54A14E69002262F89F0182317": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
-    "722B1B4541B7FEDB0D5373A168D11B14": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
     "8E47673F4F3406EAA533BFA7D3BACDAB": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
     "F1454581430BDE167B62D384A23A7C96": "Nuvens mortíferas estão se aproximando. O Olho diminui conforme a Tempestade se intensifica.",
     "F36292074E3360F745279784F74D8867": "Tiro Certeiro",
@@ -823,23 +815,16 @@
     "F92A2BBA4871D636829900B0E138FA81": "Desafios Dr. VinderBot",
     "BD6E914C471A66813327F2AEEA3867E7": "Conduzir",
     "390597F64F2F483C06891FB95BA037D3": "Guiar Canhão",
-    "29FA05054578E0CC32DA89B13152C692": "Pouse e Prepare-se",
-    "42C6A24F40F7DB9C0D26D48BF84C2F4C": "Pouse e Prepare-se",
     "48DE963D48E224F0FA34B392EEBB04F3": "Pouse e Prepare-se",
     "56EC010C4FABD0181556A3B06A38ACEB": "Pouse e Prepare-se",
-    "7BC26EA54582F700E6B4988782BFF806": "Pouse e Prepare-se",
     "831C33534BEC50A3D3E4E89E7C3170D4": "Pouse e Prepare-se",
-    "9178141B40FE92B80982CC9FF69DADDF": "Pouse e Prepare-se",
-    "E4AF6B474D830CD9D7A25B87E57E55C0": "Pouse e Prepare-se",
     "EE09C0E54BBFE547ECCF628D1A0F3BFB": "Metralhadora de Tambor",
     "7B9C4CB74DFEE2C4B1C9D99CA6D70896": "Pistolas Duplas",
     "CA9DCBF64B31242269823E88C10A74C0": "Pistolas Duplas",
     "9DCEC44C423596A81B77438A15C90787": "Pistolas Duplas: Semiautomáticas.",
     "DD10E1F74B4C77102CCDAAA7B1258400": "Pistolas Duplas: Semiautomáticas.",
     "3EC1D4304108BC1102AD90BF1CC5DC39": "Fita Adesiva",
-    "045079474451066B165246804C89FDF4": "Duplas",
     "1CAFE187418D13AB72E3F6A1A6F6DCCE": "Duplas",
-    "F9ABF3514BADBE7C8DBD23A2B8E6DB1E": "Duplas",
     "941BB5D943AB82F7E60130B929A1A071": "Durrr Burger",
     "01558C734EDD8820D50C7B8065F7C617": "Dinamite",
     "5AC45AA249F4846D74DD779DD825D066": "Dinamite",
@@ -989,7 +974,6 @@
     "B66A963A4F1715DA7B033093DCCF9262": "Asa-delta",
     "2600DF544E09C9AC9E0EA69C95FBBA7C": "Reinstalação de Asa-delta",
     "87E39EA04808B27EA30A908F811EF0FA": "Asas-deltas",
-    "0CC212B74A4C538363B8A1AF4698DB27": "Entre sozinho em uma batalha para ser o último sobrevivente.",
     "3C063B974F09C8A673507CBE3ADDB71D": "Entre sozinho em uma batalha para ser o último sobrevivente.",
     "8BEC89B8499664826B111685672B4E29": "Entre sozinho em uma batalha para ser o último sobrevivente.",
     "B8C59B304999B1F6964D1696FAB0E456": "Ouro",
@@ -1013,9 +997,7 @@
     "F0737F4E40417749A441A59843B932F0": "Voyager Cruzado",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Verde",
     "5D14C5F74CA277758C0476AA504D7CEA": "Gruta",
-    "2F8E1CA74ECE10A40A6200AFCA9AB2C8": "Agrupe-se e dure mais que todos os outros esquadrões que almejam a vitória.",
     "331DB866438F7C72234C5B8338CC44A0": "Agrupe-se e dure mais que todos os outros esquadrões que almejam a vitória.",
-    "708C85D2416421620CD59FA2E2C10C81": "Agrupe-se e dure mais que todos os outros esquadrões que almejam a vitória.",
     "99E9D5F34DC01FC6B8774DB154EAC42E": "Armas de Fogo Rifles de Assalto Metralhadora Balas Leves Automático Automática",
     "BD171E23474EFDCBD7F02C9D974BF923": "Armas de Fogo Rifles de Assalto Metralhadora Balas Leves Automático Automática",
     "28BB4D024C130854E71CF4A22D80FF5B": "Metralhadora Submetralhadora ",
@@ -1155,17 +1137,9 @@
     "41D131AC42BE610B50BC2B8699CE69F4": "Pouse em segurança e <Emphasized>quique ainda mais alto</>",
     "63037FB94900FB1564D17B8D3B141318_Option 00": "Local de aterrisagem obstruído",
     "5B11769D4F71D4885B2B89B1D6C94BDE": "Desafios Lars",
-    "43C636AD4055E070A1814FAD8B09AC1A": "A Dupla Sobrevivente Vence",
-    "467E016E45A42621B5E9E0AB3EF7406C": "A Dupla Sobrevivente Vence",
     "4D5F2A8D4C21C8D7E5939D8FA4E9B799": "A Dupla Sobrevivente Vence",
-    "6F9C1DE3404CC98D7B61CC8FAB998751": "O Último Sobrevivente Vence",
     "C21BFCC843ECBDD4244B80BC06CC68DC": "O Último Sobrevivente Vence",
-    "0EAF945F4D112289133FCAAE8A04FEAC": "O Esquadrão Sobrevivente Vence",
-    "16A8295D47A2161AF8459C931E0D6428": "O Esquadrão Sobrevivente Vence",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "O Esquadrão Sobrevivente Vence",
-    "A7EBE5AD488F015454C9ABA73187CDA2": "O Esquadrão Sobrevivente Vence",
-    "1BAC988D4BE8BF136AF726B7914DBB8E": "O Trio Sobrevivente Vence",
-    "593710F041FC73B14B768D805A261803": "O Trio Sobrevivente Vence",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Decole e gargalhe pelo céu. Entra em recarga.",
     "203048A346124F2326AE7489CF3CF605": "Decole e gargalhe pelo céu. Reative para cancelar antecipadamente.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Decole e gargalhe pelo céu. Reative para cancelar antecipadamente.",
@@ -1183,7 +1157,7 @@
     "3DA57402427AD07E9EEF1182BFB26A44": "Traseira Esquerda",
     "EF98507D4A9602DC9B4316BE1ED0C7B8": "Asa Esquerda",
     "EF22E85B49A871DF9C133DA1F84B3900": "Jogo com Tema LEGO (JunoTG)",
-    "84C3BBA14C6CFD722047408811DD825B": "Jogo com Tema LEGO Compartilhado (LFNTG)",
+    "84C3BBA14C6CFD722047408811DD825B": "Jogo de tema LEGO compartilhado (LFN)",
     "FDA97C5F4842CB9AE5195393C8759F84": "Tema Lego Mínimo (JunoTM)",
     "0F93E33949F18F9AC630988B1779501D": "Duração",
     "55D9779A456076ABC653E4AF1DA4E4E8": "Linha de Visão",
@@ -1343,10 +1317,6 @@
     "8053EDE044FBF1265F6B1DBCEB781AED": "Ficha de Opção de Compra de Pacotão de Batalha Indisponível",
     "CBAC2A8245779FCB3C9F6B81D1A31342": "Ficha de Opção de Compra de Pacotão de Batalha Indisponível",
     "E261C67141F14F9652FD0C93C404E058": "Ficha de Opção de Compra de Pacotão de Batalha Indisponível",
-    "728166DF40860F5361F4A19937CC172B": "Proibido Construir",
-    "7FDF8EB848546CA80CCFB5BD469609D5": "Proibido Construir",
-    "8D361C9548DC46AF05FC699F7DDF362C": "Proibido Construir",
-    "B693137D453A34B460A400B2C9BC9FAA": "Proibido Construir",
     "74B0959E4E4A1C023C8183802DA98EBB": "Sem Classe",
     "DEFB1E9148E435E13EC57EB6E1D449C3": "Sem Combustível",
     "CDE7CA5C45B5B95F9B59029D105CE8E7": "Sem Combustível!",
@@ -1394,19 +1364,13 @@
     "516CA75D4CF5403A2F82BF838CD51DB7": "Módulos e paternidade desnecessários.",
     "6EB89D324C5E00500994CD96A83D5A72": "Módulos e paternidade desnecessários.",
     "239C56EB4D132A667FA6FBB4C3EC025D": "Traje",
-    "8B6494CE4E4559C92AE9EA80CA6ABD64": "Dure Mais que Seus Oponentes",
     "4A9589F34AB5E10379942BBC15BC2F21": "Superpreparado",
-    "3F71CF134C5611AE2678858EB2829609": "Sobrescudo",
-    "4AE6D7A04B229CC91981D08C0DFA5F10": "Sobrescudo",
-    "8135E537499366CB0A97F1BB0B160E72": "Sobrescudo",
-    "AB53E3BE4B82E5EF8ED1158F423278B4": "Sobrescudo",
     "0399733A45284122D4FA1A91F1B55A7A": "Ficha de Conclusão de Desafio Prorrogação",
     "23E4AD8040BD27B12F54D592B136B741": "Ficha de Conclusão de Desafio Prorrogação",
     "60E8BD514CA49B8427DE5E968D50D6D0": "Ficha de Conclusão de Desafio Prorrogação",
     "B6C570664C3322374D227E9C64E5CE53": "Ficha de Conclusão de Desafio Prorrogação",
     "86A84DD84459F5837773B3BF3ECA2AAB": "JOIA DO PODER",
     "C3DD25E14510FC9EE31B5DA2464BB43A": "Forme uma dupla com um amigo e elimine todos os outros jogadores.",
-    "F53B296340C59B61E7F25CAD2D099037": "Forme uma dupla com um amigo e elimine todos os outros jogadores.",
     "666DA32449CF40B24E7D1EAC0965A360": "Meio-Peixe",
     "043E58CA40A0C7DFC66382B49649CBDE": "Partícula",
     "B9016A7C440D95DEF4D8E0B4B607A19F": "Partícula",
@@ -1417,12 +1381,7 @@
     "42BE8AEA47AC24A46AC90FBAC18CF477": "Reforço de EXP Pessoal",
     "9A0379234914781523C92E86524D9CAE": "Reforço de EXP Pessoal",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "Escolha um local de pouso e procure equipamentos.",
-    "64AD0DDF44CE2F5CAC01138692B7D3F8": "Escolha um local de pouso e procure equipamentos.",
     "69143D2545BB22E7C1E85180E84956D6": "Escolha um local de pouso e procure equipamentos.",
-    "7628F96349992B405AC53AA1794F0549": "Escolha um local de pouso e procure equipamentos.",
-    "83442C93431D30D525941EB7558D1E4F": "Escolha um local de pouso e procure equipamentos.",
-    "BB6F8C82403A7CEE42B60FBC587FA422": "Escolha um local de pouso e procure equipamentos.",
-    "BFE554FE4DB039079E95F6981704E2E8": "Escolha um local de pouso e procure equipamentos.",
     "EDCBC677446BC5F213863580F3C0A3B5": "Escolha um local de pouso e procure equipamentos.",
     "B3CFEDE943AA56C0AEE82CA08F806463": "Coletar",
     "7240B5BC46A81D296CBCA080DF98ECB7": "Corrida com Picareta",
@@ -1490,21 +1449,12 @@
     "43088BA143F2B6BCAEE378847172BE8C": "Quad-a-jato",
     "CC13E7A44B19B6541560D085C426791D": "Quad-a-jato",
     "393E9456499B520AC90D5E8597A7D23D": "SMG silenciosa que causa <Emphasized>dano aumentado</> em suas <Emphasized>5 últimas balas</>",
-    "AEBB89F442C1D29C9277D5A10B1CFC71": "Quintetos",
     "43E272F8443991243556F0AB98EC9BBE": "JOIA DA REALIDADE",
     "2A5097B944627605414956BB8AE4337B": "Aleatório",
     "318128844F99D44E7F5C91B8F5457418": "Surgimentos Aleatórios",
     "AE030E304F5F9780D063B09D3B1D7C72": "Arco de Longo Alcance",
     "E6EE95714DC76EF72E9B299D4F14A675": "Longo Alcance Arco Explosivo",
     "1CBC3F3747EECA210049B99100CF9AFC": "Arma de Longo Alcance",
-    "5DE047C24F180A1105DC75A6DB8EC0C6": "Battle Royale Ranqueado",
-    "6C8E638B41A592AB4E8BE4ACA038C392": "Battle Royale Ranqueado",
-    "8733662A43E19880D8477ABC0873E06A": "Battle Royale Ranqueado",
-    "C0A48EEE420D2792EFEABCA23363F93A": "Battle Royale Ranqueado",
-    "110AC5424A9CD65F8616369A58BB9FDC": "Trocação Ranqueada",
-    "3CCF81374E0A4E25BDF11EA663A201F6": "Trocação Ranqueada",
-    "8B38F7F24917A62647A50E9DC658AEE3": "Trocação Ranqueada",
-    "B40A36024BBE098C75EEDE9D276FE71C": "Trocação Ranqueada",
     "139A99CB4D3883CEA2F066BBA59EBD58": "SMG de Disparo Rápido",
     "FD23E7C946966E8E24F1ADA1EDA51CB1": "SMG de Disparo Rápido +",
     "BA4B1FDD40153AE8C9FC76ACC646E32C": "SMG de Disparo Rápido com <Emphasized>tamanho do pente</> aumentado",
@@ -1515,10 +1465,6 @@
     "1C77EAFB46C48299170B7486AEFB6294": "Vermelho Alaranjado",
     "7125E4704BEA318C6BD3D69B5893D080": "Componente de criação refinado. Pode ser feito com outros ingredientes e costuma ser encontrado em baús.",
     "16DA40C14B2BC801935504956E31A9C9": "Regenere <Emphasized>vida</> ao nadar",
-    "6008627544CF6105EF4D3A9CD30C8BF8": "Os Sobrescudos Recarregáveis estão ativados, use-os para continuar na luta.",
-    "69CD0F42427AF85EEB8A0F945648347A": "Os Sobrescudos Recarregáveis estão ativados, use-os para continuar na luta.",
-    "AECBC7014762FC24FC1F79AFF9C303CC": "Os Sobrescudos Recarregáveis estão ativados, use-os para continuar na luta.",
-    "BC225CF147155267909DD59C79265F16": "Os Sobrescudos Recarregáveis estão ativados, use-os para continuar na luta.",
     "D956F3B24B85A136EDFF7681AD74FB8C": "Revigorado",
     "4DA1684D402A000482C5E196DBAEEA57": "Medicina (Toxina)",
     "693438894A15790A4E7560A0E307A499": "Medicina (Toxina)",
@@ -1633,7 +1579,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Roubo de Escudo",
     "4F611C954A5378BFC1804C96BB3981FE": "Sinergia de Escudo",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Lançar Escudo",
-    "6FE5EF624909BEBF19A4F7A143733F40": "Canhão do Navio",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Canhão do Navio",
     "85A285654B56001B52E9ABBC806822EB": "Apetrecho Onda de Choque",
     "8E57565847BBBCA8EE6AD38208D056E1": "Granada de Onda de Choque +",
@@ -1664,9 +1609,7 @@
     "D8644E6D483F77ABE1E733885BCCC6FD": "Item Utilitário Boneco de Neve",
     "F24F341641A4FA3F48ABCB8574D8C08C": "Social",
     "6975749C41271746F89557A170BC3440": "Solo",
-    "69E4B37A43B5B8D5B463D1804DB44BCF": "Solo",
     "9D386B354AC0CE9DF6302EA26A39F514": "Solo",
-    "E9EA6DC14E2DD703707893A0982B28C3": "Solo",
     "F8FC74A04B95B293F430E9820F119697": "Solo",
     "0784C09346B728C02D1AF5902E492822": "Passe da Temporada Sparks",
     "DAC933A8407FB35BAB93D480EBADA7CA": "Modelo de Holofote Sparks",
@@ -1700,8 +1643,6 @@
     "6081D89D44C1A4CA364179BC95D47978": "Recarga Rápida",
     "CD5B0A744223502F67BABD81B1230D5D": "Spray",
     "CD3076B64ADB97607D7AF4A750656533": "JT de Broto (Jogo de Tema)",
-    "032AE3DE426C6820537F9A913730E19E": "Esquadrões",
-    "7035BEE948A0E8CC30E4DC95823D5A21": "Esquadrões",
     "E9F2A9B74636BB7610FE8E8BD075580C": "Esquadrões",
     "459B35F94D969E08A4D1109E18B98C2F": "Arma padrão de <Emphasized>curta distância</>",
     "81F9D4414FEA2CB4DD2813A6E08CB98B": "Arma padrão de <Emphasized>longo alcance</>",
@@ -1732,12 +1673,7 @@
     "F9C7F25943011FD6980D4D8B1A29C757": "Tecnologia Inicial",
     "4F03368E4610C163685D4B821835E30D": "Iniciando Jogo",
     "DF374A4C4B641289F968258B7494F90E": "Fique <Emphasized>no ar por mais tempo</>",
-    "0611FAA245AF688EFA1D3ABAF88BF0F1": "Fique no Olho da Tempestade",
-    "2F214E7F48E66EFE1C115C8F7E2E595C": "Fique no Olho da Tempestade",
     "404A7F8F45CCEA3AC57992A9D25A2D4A": "Fique no Olho da Tempestade",
-    "67EBCAF44A10423717EA0E9DF0B11170": "Fique no Olho da Tempestade",
-    "6C0CBF054F0F23BA941ABCA75F405034": "Fique no Olho da Tempestade",
-    "A07147014E36B1D243DF9C89E25878E3": "Fique no Olho da Tempestade",
     "BD933A0A4D2108A6FF3D948E3CD2DBD4": "Fique no Olho da Tempestade",
     "E5B8A51D416E77718A746EB15445A3B2": "Fique no Olho da Tempestade",
     "749E72FD4C3CC3C5F34EBF91EF87C060": "Guiar Canhão",
@@ -1781,7 +1717,6 @@
     "01AC17C945E9F716F2DE30AD21D419D4": "Rifle de Precisão com Supressor +",
     "B32EDD8A45D40C18A0F6F497FAEADAE2": "Rifle de Precisão com Supressor com <Emphasized>mira de visão térmica</>",
     "CBC05E714B87E7BE8B6FC596A6097237": "Submetralhadora com Supressor",
-    "00CA308D460DBD1D0DBF3BA35E0368E5": "Sobreviva até o fim e conquiste a Vitória Royale!",
     "DDDAFD77445379EE9BAF399713A063D6": "Sobrevivente",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Nade <Emphasized>mais rápido</>",
     "E928E3A54C017ABB67564BB0EE06B190": "Alternar Perfil",
@@ -1872,17 +1807,9 @@
     "E415969B4BAAA6B59B6BFF9CAE728F5D": "Ficha de Conclusão de Desafio Fortnite: A Fuga",
     "611AA9CD49A134C1CF4EF793A0DCAD73": "TheBlock",
     "57698C274195DFFFFFF44CB43FCB651F": "Nado Terapêutico",
-    "2F83EE994C53BADD8F87BCAE2EBE4071": "Só pode haver um vencedor.",
     "3961708B410A75AE04191ABCAD93E9F0": "Só pode haver um vencedor.",
-    "58196919412BCB1D74783E8E981D2BBE": "Só pode haver um vencedor.",
-    "6C225C9D49F86E1E30DCC3A701B26E56": "Só pode haver um vencedor.",
-    "6C7119CA44F1ED5685A324B982ED8276": "Só pode haver um vencedor.",
     "900A843C489A158D9D7014B7688759B3": "Só pode haver um vencedor.",
-    "A29937E74B5530D54A09F291E771AB54": "Só pode haver um vencedor.",
     "DBD8EB9C418D8B3F612D7091AB3132F5": "Só pode haver um vencedor.",
-    "EADE4BDA4E918BF507B81B84222A950C": "Só pode haver um vencedor.",
-    "ED03D0BC43A54D93E88728A02C17352F": "Só pode haver um vencedor.",
-    "EF85CDE6446B65421F3064A152A6DAE1": "Só pode haver um vencedor.",
     "9668C00D43496C901D756E874556A4B7": "Esse código lhe dará acesso ao Evento para Dispositivos Móveis do Fortnite para iOS ",
     "2291CAD9430769CC73D99D9B54DE8C4B": "Essa conta premium está habilitada para receber V-Bucks em vez de Lhamas Raio X.",
     "03DCCA2140EB4E06D8B69FB8CFE78A1B": "Lançar",
@@ -1934,8 +1861,6 @@
     "EA08EDDB48C12586ECDF1589AB5C989C": "Aprimoramento de Cor do Rastro",
     "06B8D6624AAC122415F9C0BFABD33BD4": "Robô de Treinamento",
     "D71A7E704422BDFE7934EF8C6574DFAA": "Invasor",
-    "0BE26EA94B6DAE3CA1DE029A8BFF93DE": "Trios",
-    "B8B7A46843A2FC0715BD8A924EC6B145": "Trios",
     "E907B282416949BFACC17482A8283EE7": "Lealdade em Dobro",
     "E4621E044AA0247AA73F99BB8EB8D845": "Caçadora de Cabeças Leal",
     "AFCC8C60409A488FEF95B1920178638A": "Pente Leal",
@@ -2036,10 +1961,6 @@
     "CD4BED3D497056ACDDF697B2A1CED907": "WIP Quest Token",
     "FBD7D9E444205DDD378D8381B49848B1": "Aguardando os Jogadores",
     "A3594BE3426BC422F96680B9F1815D84": "Wasabi Quest Token",
-    "4406E6154F9246CE4482DCB93FF91A0B": "Tome cuidado por onde anda e procure abrigo para vencer sem construir.",
-    "DA9EF0A9444088E1157495BE637A0B4E": "Tome cuidado por onde anda e procure abrigo para vencer sem construir.",
-    "E1927EF245666D50E41FBD832EB57A44": "Tome cuidado por onde anda e procure abrigo para vencer sem construir.",
-    "F75E7A144FF0A719B84A21893B2A8537": "Tome cuidado por onde anda e procure abrigo para vencer sem construir.",
     "1FA31AFC497191C5AD7467BFC4E8E6C7": "Reforço Bem Disposto",
     "583601D34A4FAC568666FE8DFE288DFB": "Reforço Bem Disposto",
     "1FD4C33549D3B93FF40EA9953E97F5CE": "Transmitir ao Ser Eliminado",
@@ -2058,7 +1979,6 @@
     "E710C08E4E5C70FF8A286CB6EA101B4F": "Determina a exibição do Sinalizador, de um Elemento do HUD ou de Ambos.",
     "D3A54EAE40408580269CF39BCCA37888": "Branco",
     "195F2EE048C26E190C845691145D6CF6": "Largura",
-    "8B36050244257ED13DABA5BB06C9381C": "Velho Oeste",
     "9BD108A54CA8FA397E1DBD95E37958BB": "Ficha de Conclusão de Desafio Festival Invernal",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Chave do Festival Invernal",
     "194B94D745612B291C0C0CAC0487B727": "Vassoura de Bruxa",
@@ -2241,6 +2161,11 @@
   },
   "AntiCheat": {
     "ClientErrorMessage": "Erro em {provider}: {message}\n\nConsulte as Perguntas Frequentes — {provider} para mais informações."
+  },
+  "ArcadeVolley": {
+    "PlayerWinsFmt": "Jogador {0} VENCEU! Pressione para reiniciar",
+    "PressToServe": "Pressione para sacar",
+    "PressToStart": "Pressione para Começar"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "ERRO"
@@ -2839,6 +2764,11 @@
     "FortAnimGraphNode_BlendFacialCurves": "Animação|Curvas",
     "FortAnimGraphNode_BlendFacialCurves_Title": "Combinar Curvas Faciais",
     "FortAnimGraphNode_BlendFacialCurves_Tooltip": "Combina curvas faciais por 2 entradas de formas personalizadas, com base na predefinição selecionada."
+  },
+  "BoostBall": {
+    "HighScoreFormat": "MAIOR PONTUAÇÃO: {0}",
+    "ResultFormat": "{0} — {1}",
+    "ScoreFormat": "{0} — {1}"
   },
   "BootToFrontend_LowMemoryFallbackStrategy": {
     "Juno_BootToFrontEndMessage": "A memória atingiu nível crítico. Sessão encerrada.\nTente novamente!"
@@ -3544,6 +3474,21 @@
     "EmptyRecentsTabSubtitle": "As ilhas nas quais você jogou recentemente aparecerão aqui. Descubra algo novo.",
     "EmptyFollowingTabTitle": "Nada aqui por enquanto!",
     "EmptyRecentsTabTitle": "Tudo pronto para jogar?"
+  },
+  "DiscoveryGenreLabel": {
+    "DiscoveryGenreLabel_AdventureRPG": "Aventura e RPG",
+    "DiscoveryGenreLabel_BattleRoyale": "Battle Royale",
+    "DiscoveryGenreLabel_DeathrunPlatformer": "Corrida Mortal e Plataforma",
+    "DiscoveryGenreLabel_Horror": "Terror",
+    "DiscoveryGenreLabel_MusicRhythm": "Música e Ritmo",
+    "DiscoveryGenreLabel_PartyMiniGames": "Grupo e Minijogos",
+    "DiscoveryGenreLabel_Roguelike": "Roguelike",
+    "DiscoveryGenreLabel_RoleplayingSocial": "Interpretação e Social",
+    "DiscoveryGenreLabel_Shooter": "Tiro",
+    "DiscoveryGenreLabel_SimulationTycoon": "Simulação e Magnata",
+    "DiscoveryGenreLabel_SportsRacing": "Esportes e Corrida",
+    "DiscoveryGenreLabel_Strategy": "Estratégia",
+    "DiscoveryGenreLabel_Survival": "Sobrevivência"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -5012,11 +4957,14 @@
     "RefBoneAxisTooltip": "Selecione o eixo na transformação do osso de referência que aponta para \"frente\" e para \"cima\" no espaço do componente quando o personagem está em pé. Os padrões são definidos para a orientação normal da pelve.",
     "StateNameToolTipText": "Nome do estado — clique duas vezes para editar.",
     "StateNames": "StateNames",
+    "OrientationTypeLabel": "Tipo",
     "UpLabel": "Para Cima",
     "WeightAngularVelocityMapping": "Mapeamento de Velocidade Angular por Peso",
     "WeightLinearVelocityMapping": "Mapeamento de Velocidade Linear por Peso",
+    "WeightOrientationMapping": "Mapeamento de Orientação por Peso",
     "WeightAngularVelocityMappingTooltip": "O peso é dimensionado pelo componente selecionado da velocidade angular no alcance especificado (se o componente selecionado da velocidade for menor ou igual ao mínimo do alcance, o peso será zero. Se for maior ou igual ao máximo, o peso será um).",
     "WeightLinearVelocityMappingTooltip": "O peso é dimensionado pelo componente selecionado da velocidade linear no alcance especificado (se o componente selecionado da velocidade for menor ou igual ao mínimo do alcance, o peso será zero. Se for maior ou igual ao máximo, o peso será um).",
+    "WeightOrientationMappingTooltip": "O peso é escalonado pelo tipo de orientação selecionado dentro do intervalo especificado.",
     "BlueprintPropertiesRowText": "vvv Propriedades de Projeto vvv",
     "NativePropertiesRowText": "vvv Propriedades Nativas vvv"
   },
@@ -5391,6 +5339,7 @@
     "FreePrice": "Grátis",
     "LegoKitOfferDescription": "Kit LEGO®",
     "LeavingToday": "Disponível Até Hoje",
+    "LimitedTimeOfferLegalText": "Oferta por Tempo Limitado",
     "PegiMusicWarning": "DOWNLOADS DE MÚSICA NÃO CLASSIFICADOS PELO PEGI — www.pegi.info",
     "OutfitPackDescription": "Pacote de Trajes",
     "PackDescription": "Pacote",
@@ -5614,6 +5563,9 @@
     "Game": "Jogo",
     "TeamScoreboardNameFormat": "Equipe {0}",
     "JoinInProgressTooLate": "O jogo em que você estava tentando entrar já terminou."
+  },
+  "FortMinigamePersistence": {
+    "PersistenceUnavailable": "O progresso salvo não está disponível para esta ilha, então você não pode entrar agora. Tente novamente mais tarde."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "RECOMPENSA:",
@@ -7344,7 +7296,6 @@
     "MouseZoomScaling_Legacy": "Legado",
     "LegacyControllerOptionsCollection_Name": "Controles de Legado",
     "LegacyControlsEnabled": "Controles de Legado Habilitados",
-    "RenderingModePerformanceLegacy": "Desempenho Legado (Descontinuado)",
     "LegalCollection_Name": "Jurídico",
     "LegalInformation_Name": "Informações Jurídicas",
     "LicensedAudioTreatment_Name": "Áudio Licenciado",
@@ -7706,16 +7657,11 @@
     "MobileFPSType_Description": "Selecione a taxa de quadros desejada no jogo. Use para ajustar o desempenho do seu dispositivo. O FPS máximo nos menus é de 30 FPS.",
     "HybridMouseControlMode_Description": "Selecione qual Joy-Con 2 deve ser usado para os controles de mouse.\nObservação: os controles de mouse só estão habilitados para algumas experiências!",
     "TouchInteractMode_Description": "Seleciona o modo de interação por toque.\n\n<strong>Desligado</>: interações por toque são desabilitadas.",
-    "RenderingModeNoDX11_Description": "Seleciona qual modo de renderização de nível baixo utilizar.\n\nO DirectX 12 é necessário para habilitar recursos de renderização de ponta para obter fidelidade visual melhorada, como Nanite, Lumen e Hardware Ray-Tracing.\n\nO Modo Desempenho desabilita a maioria dos recursos de renderização para reduzir o consumo de memória e a carga no processador e na GPU, aumentando significativamente o desempenho. Também usa o DirectX 12.\n\nO Modo Desempenho Legado (descontinuado) funciona como o Modo Desempenho, mas usando o DirectX 11.",
     "RenderingMode_TwoModeDescription": "Seleciona qual modo de renderização de nível baixo utilizar.\n\nO DirectX 12 é necessário para habilitar recursos de renderização de ponta para obter fidelidade visual melhorada, como Nanite, Lumen e Hardware Ray-Tracing.\n\nO Modo Desempenho desabilita a maioria dos recursos de renderização para reduzir o consumo de memória e a carga no processador e na GPU, aumentando significativamente o desempenho. Usa DirectX 12 quando possível e DirectX 11 caso contrário.",
     "FortReleaseVersion_Description": "Seleciona a versão de lançamento usada para determinar os recursos habilitados (p. ex.: 15.20, 15.30, 16.00, etc.).",
-    "MatchmakingRegion_Description": "Seleciona a qual servidor você gostaria de se conectar. Servidores mais próximos a você geralmente indicam um desempenho melhor. Selecionar \"Automático\" escolhe o servidor com a melhor conexão.",
-    "MatchmakingRegion_Description_PS4": "Seleciona a qual servidor você gostaria de se conectar. Servidores mais próximos a você geralmente indicam um desempenho melhor. Selecionar \"Automático\" escolhe o servidor com a melhor conexão.",
-    "MatchmakingRegion_Description_PS5": "Seleciona a qual servidor você gostaria de se conectar. Servidores mais próximos a você geralmente indicam um desempenho melhor. Selecionar \"Automático\" escolhe o servidor com a melhor conexão.",
-    "MatchmakingRegion_Description_Switch": "Seleciona a qual servidor você gostaria de se conectar. Servidores mais próximos a você geralmente indicam um desempenho melhor. Selecionar \"Automático\" escolhe o servidor com a melhor conexão.",
-    "MatchmakingRegion_Description_Switch2": "Seleciona a qual servidor você gostaria de se conectar. Servidores mais próximos a você geralmente indicam um desempenho melhor. Selecionar \"Automático\" escolhe o servidor com a melhor conexão.",
-    "MatchmakingRegion_Description_XB1": "Seleciona a qual servidor você gostaria de se conectar. Servidores mais próximos a você geralmente indicam um desempenho melhor. Selecionar \"Automático\" escolhe o servidor com a melhor conexão.",
-    "MatchmakingRegion_Description_XSX": "Seleciona a qual servidor você gostaria de se conectar. Servidores mais próximos a você geralmente indicam um desempenho melhor. Selecionar \"Automático\" escolhe o servidor com a melhor conexão.",
+    "MatchmakingRegion_Description_V2": "Seleciona sua região de pareamento.A opção Automático foi criada para oferecer a melhor experiência.Os intervalos de ping exibidos são estimativas.O ping no jogo pode variar entre partidas e experiências.",
+    "MatchmakingSubregion_Description": "Seleciona sua subregião de pareamento preferida.O pareamento prioriza a sua seleção, mas a localização final não é garantida.A opção Automático foi criada para oferecer a melhor experiência.Selecionar uma subregião pode aumentar o tempo na fila e reduzir a paridade na partida.O ping exibido é uma estimativa.O ping no jogo pode variar entre partidas e experiências.",
+    "CompetitiveRegion_Description": "Seleciona a sua região no torneio.Esta configuração aparece apenas quando sua região de pareamento tem mais de uma região no torneio.",
     "BasicSensitivityCollection_Name": "Sensibilidade",
     "GyroV2Sensitivity_Name": "Sensibilidade",
     "SafeZone_Action": "Definir Área Segura",
@@ -7847,6 +7793,7 @@
     "StopRenderingInBackground_Name": "Parar Renderização no Plano de Fundo",
     "StopRenderingInBackground_Description": "Sempre que possível, para a renderização quando a janela do jogo não está em foco. Libera recursos da GPU para outros aplicativos.",
     "KeyboardMovementStrafeDiagonal_Name": "Ângulo de Correr e Atirar",
+    "MatchmakingSubregion_Name": "Preferência de Subregião",
     "SubtitlePage_Name": "Legendas",
     "SubtitlesCollection_Name": "Legendas",
     "Subtitles_Name": "Legendas",
@@ -7977,6 +7924,7 @@
     "TouchAndMotionCollection_Name": "Toque e Movimento",
     "TouchpadCollection_Name": "Touch Pad",
     "EForceMaxTouchpadSensitivity_Name": "Sensibilidade do Touch Pad no Máximo",
+    "CompetitiveRegion_Name": "Região do Torneio",
     "GyroButtonTrackball": "Trackball",
     "GyroTrackballDecay_Name": "Desaceleração da Trackball",
     "AimAssistPullStrength_Name": "Potência do Rastreamento da Assistência de Mira",
@@ -8429,7 +8377,8 @@
     "Public": "Público"
   },
   "FortSettingValueDiscrete_Region": {
-    "RegionDisplayWithPing": "{RegionDisplayName} ({RegionPing}ms)"
+    "RegionDisplayWithPingRange": "{RegionDisplayName} ({MinimumPing}-{MaximumPing} ms)",
+    "RegionDisplayWithPing": "{RegionDisplayName} ({MinimumPing}ms)"
   },
   "FortSettingValueDiscrete_ReportPerfStats": {
     "Disabled": "Desabilitado",
@@ -8442,6 +8391,11 @@
   "FortSettingValueDiscrete_SocialBool": {
     "OFF": "DESLIGADO",
     "ON": "LIGADO"
+  },
+  "FortSettingValueDiscrete_Subregion": {
+    "AutoSubregion": "Automática",
+    "SubregionPreferenceRequiresRegion": "A opção Automático foi criada para oferecer a melhor experiência.Para mudar esta configuração, selecione uma Região de Pareamento diferente do Automático.",
+    "SubregionDisplayWithPing": "{SubregionId} ({SubregionPing}ms)"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
     "VoiceChatMethod_Mute": "Silenciar",
@@ -8543,7 +8497,8 @@
     "GameVoiceChannelsDisplayNameSecondary": "Outros membros do jogo"
   },
   "FortSocialHeaderItemVM": {
-    "TeamMembersListDisplayName": "Membros da equipe"
+    "TeamMembersListDisplayName": "Membros da equipe",
+    "VerseVoiceMyChannelListDisplayName": "Canal de Voz"
   },
   "FortSocialInteractionMenu": {
     "InvalidInputFormat": "<text color=\"{0}\">INVÁLIDO</>",
@@ -8646,7 +8601,8 @@
     "PlaystationFriendPlatformName": "PlayStation Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "O Registro de Voz nos ajuda a analisar denúncias de violações das Regras da Comunidade.\n\n• Quando o bate-papo de voz estiver ligado, este recurso armazenará o áudio do bate-papo nos dispositivos de cada participante em segmentos de cinco minutos, que só serão enviados para a Epic Games em caso de denúncia de violação.\n\n• O Registro de Voz fica sempre ligado para menores de 18 anos.\n\nAcesse suas configurações de bate-papo de voz para ver mais detalhes e opções.",
     "VoiceChatVRR_Accept_O18_NewPlayer": "O Registro de Voz nos ajuda a analisar denúncias de violações das Regras da Comunidade.\n\n• Quando o bate-papo de voz estiver ligado, este recurso armazenará o áudio do bate-papo nos dispositivos de cada participante em segmentos de cinco minutos, que só serão enviados para a Epic Games em caso de denúncia de violação.\n\n• O Registro de Voz geralmente fica ligado, exceto em grupos formados por amigos em que todas as pessoas desliguem o recurso.\n\n• Você pode ver se o Registro de Voz está ligado ou desligado na Barra Lateral.\n\nAcesse suas configurações de bate-papo de voz para ver mais detalhes e opções.",
-    "XboxFriendPlatformName": "Rede Xbox"
+    "XboxFriendPlatformName": "Rede Xbox",
+    "FriendshipActionRateLimited": "Você realizou muitas ações em pouco tempo. Tente novamente mais tarde"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "Fizeram amizade há {timesince}",
@@ -8777,6 +8733,10 @@
     "SittingOut": "De Fora",
     "DownloadOnDemandProgress": "Atualizando ({0}%)"
   },
+  "FortTextChatConversationVM": {
+    "PartyFrameworkUnavailable": "Estrutura de grupo indisponível",
+    "SocialToolkitUnavailable": "Kit de ferramentas social indisponível"
+  },
   "FortTextChatPlayerVM": {
     "RedactedUserBlocked": "<Blocked player>",
     "RedactedUserGeneral": "<Hidden player>",
@@ -8894,7 +8854,6 @@
     "EpicPartyInviteDetailsSent": "Convite para grupo enviado para <Username>{0}</>",
     "PartyInviteDetailsSent": "Convite para grupo enviado para <Username>{0}</>",
     "EpicPartyJoinabilityChangedInviteOnlyDetails": "Este grupo é somente para convidados",
-    "EpicPartyJoinabilityChangedOpenDetails": "Este grupo é aberto",
     "EpicPartyJoinRequestReceived_Title": "Solicitação de Entrada no Grupo",
     "EpicPartyMemberCreated": "Jogador entrou no grupo",
     "PartyMemberCreated": "Jogador entrou no grupo",
@@ -8918,7 +8877,9 @@
     "LocalPlayerEpicPartyPromotedToast": "Você foi promovido a líder do grupo",
     "RequestToJoinParty_RateLimited": "Você enviou muitas solicitações, tente novamente mais tarde",
     "FriendToastSelfTooManyFriends": "Você tem amigos demais",
-    "FriendToastSelfOutboxFull": "Você tem solicitações de amizade enviadas demais"
+    "FriendToastSelfOutboxFull": "Você tem solicitações de amizade enviadas demais",
+    "EpicPartyJoinabilityChangedOpenDetails": "Seu grupo agora está aberto",
+    "NotifMgrForkMemberNoAccessToast": "{Username} não tem acesso à derivação selecionada, prosseguir irá ignorar a derivação."
   },
   "FortUIStateWidget_Login": {
     "OfferRHIChangeForStability_Title": "Alterar modo de renderização?",
@@ -8926,7 +8887,6 @@
     "UpdateCheck": "Verificando se há atualizações...",
     "ConnectionCheckText": "Verificando sua conexão...",
     "TryingLonger": "Continue tentando, seja paciente. \nConfira se há detalhes em {CheckStatusURL}.",
-    "OfferRHIChangeForStability_DX11": "DirectX 11",
     "FailedToLoadProfile": "Falha ao carregar perfil.",
     "RefreshingContent": "Carregando Conteúdo Dinâmico...",
     "FindBestSettings": "Encontrar as melhores configurações?",
@@ -8935,7 +8895,6 @@
     "LoggingIn": "Conectando...",
     "NoInternet": "Nenhuma Conexão de Internet Encontrada",
     "OfferRHIChangeForStability_PerformanceMode": "Modo Desempenho",
-    "OfferRHIChangeForStability_FullDescriptionDX12PerfMode": "O Modo Desempenho pode causar problemas de estabilidade no seu dispositivo, fazendo com que o Fortnite trave durante o jogo. Você gostaria de mudar para o Modo Desempenho Legado para uma experiência mais estável? {OptionalAutoRestartText}",
     "NoInternetDesc": "Verifique a sua conexão e tente novamente.",
     "QuitText": "Sair",
     "Benchmark": "Executando Pontos de Referência...",
@@ -9425,6 +9384,7 @@
     "Message.Unauthorized": "Você não tem permissão para jogar este conteúdo.",
     "MfaRequiredForTournament": "A autenticação de dois fatores precisa estar habilitada na sua conta Epic para você poder participar deste torneio. Acesse {TurnOnMfaURL} para habilitá-la.",
     "WrongNumberOfEventPlayers": "Você precisa estar em um grupo cheio para este torneio.",
+    "MatchCapExceeded": "Você jogou o número máximo de partidas para este evento.Confira a aba Competir para ver mais detalhes e os próximos eventos.",
     "Error.AccountLevelTooLow": "O seu nível de conta ({0}) não atende aos requisitos mínimos para jogar: {1}.",
     "Error.BRRankLevelTooLow": "Seu ranque atual no Battle Royale ({0}) não atende aos requisitos mínimos para jogar: {1}.",
     "Error.BRRankLevelTooHigh": "Seu ranque atual no Battle Royale ({0}) é alto demais para entrar neste torneio. O ranque máximo permitido para participar é {1}.",
@@ -10900,6 +10860,7 @@
   "Matchmaking": {
     "PartyMemberDisconnect": "Membro do grupo desconectado.",
     "PartyMemberTimeout": "Um membro do grupo não conseguiu se conectar.",
+    "MatchCapExceeded": "Já foi jogado o número máximo de partidas permitido para este evento.",
     "PartyTooBig": "Membros demais no grupo estão tentando registrar."
   },
   "MatchmakingContext": {
@@ -11596,7 +11557,7 @@
     "Join_Num_Alive": "Entrar no grupo — {PlayersAlive} restante(s)"
   },
   "PawnOptionRegistry": {
-    "AthenaCharacterDisplayName": "Personagem de Atena"
+    "DefaultCharacterDisplayName": "Personagem Padrão"
   },
   "PersonaCharacterModifierDetailsCustomization": {
     "VoiceDefault": "Padrão"
@@ -11770,7 +11731,19 @@
     "UFortQuestCategory::Misc": "Misc"
   },
   "QuestPanelDebugToolViewModel": {
+    "Placement_CategoryNotRegistered": "Declara uma tag correspondente e é válida para esta versão, mas nunca foi registrada. Normalmente é um problema de tempo, verifique novamente após a recompilação de uma categoria.",
+    "Placement_CategoryDisabled": "Declara uma tag correspondente, mas bCategoryEnabled está desativado. Configuração substituível, então um ajuste pode definir isso.",
+    "Placement_CategorySunset": "Declara uma tag correspondente, mas está descontinuada nesta versão.",
+    "Placement_CategoryPluginUnavailable": "Declara uma tag correspondente, mas o plugin dela foi descontinuado.",
+    "Placement_CategoryUnreleased": "Declara uma tag correspondente, mas será lançada em uma versão posterior.",
+    "Placement_CategoryEventGated": "Declara uma tag correspondente somente em IncludeQuestTagsByEvent, e este evento não está ativo.",
+    "Placement_CategorySuppressed": "Correspondido, mas o conteúdo está suprimido, então não recebe conteúdo e rejeita a alternativa.",
+    "Placement_NoOrganizationTags": "Nenhuma tag QuestCategory para corresponder.",
+    "Placement_CategoriesNotYetBuilt": "Nenhuma categoria existia quando isso foi organizado. Deve ser resolvido ao recompilar.",
+    "Placement_NoCategoryDeclaresTag": "Nenhuma categoria declara estas tags, nem qualquer categoria vinculada a elas.",
     "Visibility_NoView": "Não existem visualizações para esta tarefa.",
+    "Placement_FallbackUnavailable": "Nada correspondeu e a alternativa não está disponível, então este conteúdo não está em nenhuma categoria.",
+    "Placement_BundleSuppliedNoTags": "Murais usam apenas as tags do próprio pacote, e este não tem nenhuma. As tags da própria tarefa nunca foram lidas.",
     "VersionWarning_AssetSunset": "Este recurso foi descontinuado na sua versão atual e não está disponível.",
     "VersionWarning_AssetUnreleased": "Este recurso é de uma versão mais recente que a sua versão atual e não será carregado.",
     "VersionWarning_PluginSunset": "Este plugin foi descontinuado na sua versão atual e não será carregado.",
@@ -11948,6 +11921,9 @@
     "HasEnforcedSettingsU10Warning_Voice": "<strong>Apenas amigos</> é a configuração mais aberta disponível para crianças com menos de 10 anos. Se você escolher uma configuração mais tolerante, ela ficará disponível assim que sua criança tiver idade suficiente.",
     "HasEnforcedSettingsU13Warning_Text": "<strong>Amigos, membros de equipe e conexões</> é a configuração mais aberta disponível para crianças com menos de 13 anos. Se você escolher <strong>Todo Mundo</>, esta opção ficará disponível assim que sua criança tiver idade suficiente.",
     "HasEnforcedSettingsU13Warning_Voice": "<strong>Amigos, membros de equipe e conexões</> é a configuração mais aberta disponível para crianças com menos de 13 anos. Se você escolher <strong>Todo Mundo</>, esta opção ficará disponível assim que sua criança tiver idade suficiente."
+  },
+  "SimpleOfferVM": {
+    "OutDateFormat": "Termina em {Day} de {Month} de {Year}, às {Time} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
     "DeleteSnapEntries": "Delete Snap Entries",
@@ -12443,6 +12419,24 @@
     "Athena": "Battle Royale",
     "Creative": "Modo Criativo",
     "Campaign": "Salve o Mundo"
+  },
+  "SubregionNames": {
+    "BAH": "Bahrein",
+    "FR": "França",
+    "DE": "Alemanha",
+    "IA": "Iowa",
+    "IL": "Israel",
+    "MX": "México",
+    "MUM": "Mumbai",
+    "NCAL": "Norte da Califórnia",
+    "OH": "Ohio",
+    "OR": "Oregon",
+    "SYD": "Sydney",
+    "SAO": "São Paulo",
+    "TX": "Texas",
+    "TOK": "Tóquio",
+    "GB": "Reino Unido",
+    "VA": "Virginia"
   },
   "SupervisedSettingsManager": {
     "TimezoneDisplayFormat": "{0} {1} ({2})"

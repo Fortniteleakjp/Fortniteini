@@ -539,8 +539,6 @@
     "0F27FEB645424A655938FBAA00966985": "準備戰鬥",
     "06260D674B73C899F270E489FDED2318": "大逃殺",
     "33B8A20040C39F11D774A2981F344253": "大逃殺",
-    "922BA250460700D4A6C45A814459E9D4": "大逃殺",
-    "A7F0D4E047323614E099CCB1616FC33D": "大逃殺",
     "C403587B40DF25FCAA8E159AA3A7E558": "大逃殺",
     "D3A984E042745DAD6F26E19C18103AD2": "大逃殺",
     "61B644904C2939F994F877A526A4440B": "《大逃殺》概要經驗值",
@@ -562,7 +560,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "大滾桶DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "雙翼機",
     "5B5236944941BFD7DE82B8B05FE11D94": "雙翼機",
-    "DF56207843F6244003548CA79CFAA0F4": "雙翼機",
     "AD9DF9A2455C274907AE29971466ADBA": "刀刃",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "刀刃",
     "7641CC0743ADBB2B2B04ED9883DD8214": "裝飾",
@@ -753,12 +750,7 @@
     "A160CCFF49521B32A8B8E3AB90408722": "傷害等級",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "跳舞支援",
     "91DEE53D4336DA0C00BAD3ACA0899EE6": "閃耀並取悅你的朋友。",
-    "2C01E2F5420CED5A207C7B98302305A4": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
-    "394C9BDD403D04CBB1203997013A98CD": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
-    "47699A1C400A37DC893F54B2FCD92877": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
     "527C4E4949B247E160807D920F92EEC9": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
-    "5CFC98A54A14E69002262F89F0182317": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
-    "722B1B4541B7FEDB0D5373A168D11B14": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
     "8E47673F4F3406EAA533BFA7D3BACDAB": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
     "F1454581430BDE167B62D384A23A7C96": "致命雲霧正逼近中。隨著風暴加劇，風暴之眼將會縮小。",
     "F36292074E3360F745279784F74D8867": "致命射殺",
@@ -823,23 +815,16 @@
     "F92A2BBA4871D636829900B0E138FA81": "機器凡德博士挑戰",
     "BD6E914C471A66813327F2AEEA3867E7": "駕駛",
     "390597F64F2F483C06891FB95BA037D3": "驅動加農砲",
-    "29FA05054578E0CC32DA89B13152C692": "空投進入與裝載上路",
-    "42C6A24F40F7DB9C0D26D48BF84C2F4C": "空投進入與裝載上路",
     "48DE963D48E224F0FA34B392EEBB04F3": "空投進入與裝載上路",
     "56EC010C4FABD0181556A3B06A38ACEB": "空投進入與裝載上路",
-    "7BC26EA54582F700E6B4988782BFF806": "空投進入與裝載上路",
     "831C33534BEC50A3D3E4E89E7C3170D4": "空投進入與裝載上路",
-    "9178141B40FE92B80982CC9FF69DADDF": "空投進入與裝載上路",
-    "E4AF6B474D830CD9D7A25B87E57E55C0": "空投進入與裝載上路",
     "EE09C0E54BBFE547ECCF628D1A0F3BFB": "鼓式衝鋒槍",
     "7B9C4CB74DFEE2C4B1C9D99CA6D70896": "雙持手槍",
     "CA9DCBF64B31242269823E88C10A74C0": "雙持手槍",
     "9DCEC44C423596A81B77438A15C90787": "雙持手槍：半自動。",
     "DD10E1F74B4C77102CCDAAA7B1258400": "雙持手槍：半自動。",
     "3EC1D4304108BC1102AD90BF1CC5DC39": "膠帶",
-    "045079474451066B165246804C89FDF4": "雙人",
     "1CAFE187418D13AB72E3F6A1A6F6DCCE": "雙人",
-    "F9ABF3514BADBE7C8DBD23A2B8E6DB1E": "雙人",
     "941BB5D943AB82F7E60130B929A1A071": "略略略漢堡",
     "01558C734EDD8820D50C7B8065F7C617": "炸藥",
     "5AC45AA249F4846D74DD779DD825D066": "炸藥",
@@ -989,7 +974,6 @@
     "B66A963A4F1715DA7B033093DCCF9262": "滑翔翼",
     "2600DF544E09C9AC9E0EA69C95FBBA7C": "滑翔翼再部署",
     "87E39EA04808B27EA30A908F811EF0FA": "滑翔翼",
-    "0CC212B74A4C538363B8A1AF4698DB27": "單槍匹馬戰鬥，成為最後存活的一人。",
     "3C063B974F09C8A673507CBE3ADDB71D": "單槍匹馬戰鬥，成為最後存活的一人。",
     "8BEC89B8499664826B111685672B4E29": "單槍匹馬戰鬥，成為最後存活的一人。",
     "B8C59B304999B1F6964D1696FAB0E456": "黃金",
@@ -1013,9 +997,7 @@
     "F0737F4E40417749A441A59843B932F0": "墓地航行者",
     "0B5C62D0400E95930AEE12B1D2116EE2": "綠",
     "5D14C5F74CA277758C0476AA504D7CEA": "岩洞",
-    "2F8E1CA74ECE10A40A6200AFCA9AB2C8": "集結成隊，在其他所有小隊的攻擊下生存下來，以獲得勝利。",
     "331DB866438F7C72234C5B8338CC44A0": "集結成隊，在其他所有小隊的攻擊下生存下來，以獲得勝利。",
-    "708C85D2416421620CD59FA2E2C10C81": "集結成隊，在其他所有小隊的攻擊下生存下來，以獲得勝利。",
     "99E9D5F34DC01FC6B8774DB154EAC42E": "槍械、突擊步槍、機槍、輕型子彈、自動",
     "BD171E23474EFDCBD7F02C9D974BF923": "槍械、突擊步槍、機槍、輕型子彈、自動",
     "28BB4D024C130854E71CF4A22D80FF5B": "槍械、機槍 ",
@@ -1155,17 +1137,9 @@
     "41D131AC42BE610B50BC2B8699CE69F4": "安全著陸並<Emphasized>彈跳得更高</>",
     "63037FB94900FB1564D17B8D3B141318_Option 00": "降落路線受阻",
     "5B11769D4F71D4885B2B89B1D6C94BDE": "拉爾斯挑戰",
-    "43C636AD4055E070A1814FAD8B09AC1A": "存活到最後的雙人組獲勝",
-    "467E016E45A42621B5E9E0AB3EF7406C": "存活到最後的雙人組獲勝",
     "4D5F2A8D4C21C8D7E5939D8FA4E9B799": "存活到最後的雙人組獲勝",
-    "6F9C1DE3404CC98D7B61CC8FAB998751": "存活到最後的一人獲勝",
     "C21BFCC843ECBDD4244B80BC06CC68DC": "存活到最後的一人獲勝",
-    "0EAF945F4D112289133FCAAE8A04FEAC": "最後存活的小隊獲勝",
-    "16A8295D47A2161AF8459C931E0D6428": "最後存活的小隊獲勝",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "最後存活的小隊獲勝",
-    "A7EBE5AD488F015454C9ABA73187CDA2": "最後存活的小隊獲勝",
-    "1BAC988D4BE8BF136AF726B7914DBB8E": "最後存活的三人組獲勝",
-    "593710F041FC73B14B768D805A261803": "最後存活的三人組獲勝",
     "0E7DAF39462A8FDB208B1B94A8372C42": "射向天空，笑聲響徹雲霄。進入冷卻狀態。",
     "203048A346124F2326AE7489CF3CF605": "射向天空，笑聲響徹雲霄。再度啟動以提前取消。",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "射向天空，笑聲響徹雲霄。重新啟動以提前取消。",
@@ -1183,7 +1157,7 @@
     "3DA57402427AD07E9EEF1182BFB26A44": "左尾翼",
     "EF98507D4A9602DC9B4316BE1ED0C7B8": "左翼",
     "EF22E85B49A871DF9C133DA1F84B3900": "Lego 主題遊戲（JunoTG）",
-    "84C3BBA14C6CFD722047408811DD825B": "已共享 LEGO 主題遊戲 (LFNTG)",
+    "84C3BBA14C6CFD722047408811DD825B": "已共享 LEGO 主題遊戲 (LFN)",
     "FDA97C5F4842CB9AE5195393C8759F84": "Lego 簡約主題（JunoTM）",
     "0F93E33949F18F9AC630988B1779501D": "長度",
     "55D9779A456076ABC653E4AF1DA4E4E8": "視線",
@@ -1343,10 +1317,6 @@
     "8053EDE044FBF1265F6B1DBCEB781AED": "無戰鬥組合包購買選項代幣",
     "CBAC2A8245779FCB3C9F6B81D1A31342": "無戰鬥組合包購買選項代幣",
     "E261C67141F14F9652FD0C93C404E058": "無戰鬥組合包購買選項代幣",
-    "728166DF40860F5361F4A19937CC172B": "無建造",
-    "7FDF8EB848546CA80CCFB5BD469609D5": "無建造",
-    "8D361C9548DC46AF05FC699F7DDF362C": "無建造",
-    "B693137D453A34B460A400B2C9BC9FAA": "無建造",
     "74B0959E4E4A1C023C8183802DA98EBB": "無職業",
     "DEFB1E9148E435E13EC57EB6E1D449C3": "沒有燃料",
     "CDE7CA5C45B5B95F9B59029D105CE8E7": "沒有燃料！",
@@ -1394,19 +1364,13 @@
     "516CA75D4CF5403A2F82BF838CD51DB7": "模組與層級關係已過時",
     "6EB89D324C5E00500994CD96A83D5A72": "模組與層級關係已過時",
     "239C56EB4D132A667FA6FBB4C3EC025D": "造型",
-    "8B6494CE4E4559C92AE9EA80CA6ABD64": "比你的對手存活得更久",
     "4A9589F34AB5E10379942BBC15BC2F21": "有備無患",
-    "3F71CF134C5611AE2678858EB2829609": "超護盾",
-    "4AE6D7A04B229CC91981D08C0DFA5F10": "超護盾",
-    "8135E537499366CB0A97F1BB0B160E72": "超護盾",
-    "AB53E3BE4B82E5EF8ED1158F423278B4": "超護盾",
     "0399733A45284122D4FA1A91F1B55A7A": "季末挑戰完成代幣",
     "23E4AD8040BD27B12F54D592B136B741": "季末挑戰完成代幣",
     "60E8BD514CA49B8427DE5E968D50D6D0": "季末挑戰完成代幣",
     "B6C570664C3322374D227E9C64E5CE53": "季末挑戰完成代幣",
     "86A84DD84459F5837773B3BF3ECA2AAB": "力量寶石",
     "C3DD25E14510FC9EE31B5DA2464BB43A": "與夥伴組隊並擊敗其他人。",
-    "F53B296340C59B61E7F25CAD2D099037": "與夥伴組隊並擊敗其他人。",
     "666DA32449CF40B24E7D1EAC0965A360": "水中飛魚",
     "043E58CA40A0C7DFC66382B49649CBDE": "粒子",
     "B9016A7C440D95DEF4D8E0B4B607A19F": "粒子",
@@ -1417,12 +1381,7 @@
     "42BE8AEA47AC24A46AC90FBAC18CF477": "個人經驗值加成",
     "9A0379234914781523C92E86524D9CAE": "個人經驗值加成",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "選擇著陸點並搜索裝備。",
-    "64AD0DDF44CE2F5CAC01138692B7D3F8": "選擇著陸點並搜索裝備。",
     "69143D2545BB22E7C1E85180E84956D6": "選擇著陸點並搜索裝備。",
-    "7628F96349992B405AC53AA1794F0549": "選擇著陸點並搜索裝備。",
-    "83442C93431D30D525941EB7558D1E4F": "選擇著陸點並搜索裝備。",
-    "BB6F8C82403A7CEE42B60FBC587FA422": "選擇著陸點並搜索裝備。",
-    "BFE554FE4DB039079E95F6981704E2E8": "選擇著陸點並搜索裝備。",
     "EDCBC677446BC5F213863580F3C0A3B5": "選擇著陸點並搜索裝備。",
     "B3CFEDE943AA56C0AEE82CA08F806463": "拾取",
     "7240B5BC46A81D296CBCA080DF98ECB7": "鎬奔跑",
@@ -1490,21 +1449,12 @@
     "43088BA143F2B6BCAEE378847172BE8C": "四輪粉碎者",
     "CC13E7A44B19B6541560D085C426791D": "四輪粉碎者",
     "393E9456499B520AC90D5E8597A7D23D": "安靜的衝鋒槍，其<Emphasized>最後5顆子彈</>造成<Emphasized>的傷害提高</>",
-    "AEBB89F442C1D29C9277D5A10B1CFC71": "五人",
     "43E272F8443991243556F0AB98EC9BBE": "現實寶石",
     "2A5097B944627605414956BB8AE4337B": "隨機",
     "318128844F99D44E7F5C91B8F5457418": "隨機生成",
     "AE030E304F5F9780D063B09D3B1D7C72": "遠程弓",
     "E6EE95714DC76EF72E9B299D4F14A675": "遠程、弓、爆炸弓",
     "1CBC3F3747EECA210049B99100CF9AFC": "遠程武器",
-    "5DE047C24F180A1105DC75A6DB8EC0C6": "《大逃殺》積分賽",
-    "6C8E638B41A592AB4E8BE4ACA038C392": "《大逃殺》積分賽",
-    "8733662A43E19880D8477ABC0873E06A": "《大逃殺》積分賽",
-    "C0A48EEE420D2792EFEABCA23363F93A": "《大逃殺》積分賽",
-    "110AC5424A9CD65F8616369A58BB9FDC": "《零建造》積分賽",
-    "3CCF81374E0A4E25BDF11EA663A201F6": "《零建造》積分賽",
-    "8B38F7F24917A62647A50E9DC658AEE3": "《零建造》積分賽",
-    "B40A36024BBE098C75EEDE9D276FE71C": "《零建造》積分賽",
     "139A99CB4D3883CEA2F066BBA59EBD58": "速射衝鋒槍",
     "FD23E7C946966E8E24F1ADA1EDA51CB1": "速射衝鋒槍+",
     "BA4B1FDD40153AE8C9FC76ACC646E32C": "加大<Emphasized>彈匣容量</>的高射速衝鋒槍",
@@ -1515,10 +1465,6 @@
     "1C77EAFB46C48299170B7486AEFB6294": "紅橘",
     "7125E4704BEA318C6BD3D69B5893D080": "精煉製作材料。可以與其它材料一起製作，通常可以在寶箱中發現。",
     "16DA40C14B2BC801935504956E31A9C9": "游泳時恢復<Emphasized>生命值</>",
-    "6008627544CF6105EF4D3A9CD30C8BF8": "再生超護盾已啟動，使用它們繼續戰鬥。",
-    "69CD0F42427AF85EEB8A0F945648347A": "再生超護盾已啟動，使用它們繼續戰鬥。",
-    "AECBC7014762FC24FC1F79AFF9C303CC": "再生超護盾已啟動，使用它們繼續戰鬥。",
-    "BC225CF147155267909DD59C79265F16": "再生超護盾已啟動，使用它們繼續戰鬥。",
     "D956F3B24B85A136EDFF7681AD74FB8C": "恢復活力",
     "4DA1684D402A000482C5E196DBAEEA57": "良藥（劇毒）",
     "693438894A15790A4E7560A0E307A499": "良藥（劇毒）",
@@ -1633,7 +1579,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "護盾偷取",
     "4F611C954A5378BFC1804C96BB3981FE": "護盾協同",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "盾牌投擲",
-    "6FE5EF624909BEBF19A4F7A143733F40": "船艦加農砲",
     "D48B88DA4EC76F3203A964A55E4C04E7": "船艦加農砲",
     "85A285654B56001B52E9ABBC806822EB": "震波器具",
     "8E57565847BBBCA8EE6AD38208D056E1": "震波榴彈+",
@@ -1664,9 +1609,7 @@
     "D8644E6D483F77ABE1E733885BCCC6FD": "雪人、實用物品",
     "F24F341641A4FA3F48ABCB8574D8C08C": "社交",
     "6975749C41271746F89557A170BC3440": "單人",
-    "69E4B37A43B5B8D5B463D1804DB44BCF": "單人",
     "9D386B354AC0CE9DF6302EA26A39F514": "單人",
-    "E9EA6DC14E2DD703707893A0982B28C3": "單人",
     "F8FC74A04B95B293F430E9820F119697": "單人",
     "0784C09346B728C02D1AF5902E492822": "火花賽季通行證",
     "DAC933A8407FB35BAB93D480EBADA7CA": "火花聚光燈模板",
@@ -1700,8 +1643,6 @@
     "6081D89D44C1A4CA364179BC95D47978": "速度裝彈",
     "CD5B0A744223502F67BABD81B1230D5D": "噴畫",
     "CD3076B64ADB97607D7AF4A750656533": "萌芽TG（主題遊戲）",
-    "032AE3DE426C6820537F9A913730E19E": "小隊",
-    "7035BEE948A0E8CC30E4DC95823D5A21": "小隊",
     "E9F2A9B74636BB7610FE8E8BD075580C": "小隊",
     "459B35F94D969E08A4D1109E18B98C2F": "標準配備的<Emphasized>近距離</>武器",
     "81F9D4414FEA2CB4DD2813A6E08CB98B": "標準配備的<Emphasized>長射程</>武器",
@@ -1732,12 +1673,7 @@
     "F9C7F25943011FD6980D4D8B1A29C757": "新手科技",
     "4F03368E4610C163685D4B821835E30D": "正在開始遊戲",
     "DF374A4C4B641289F968258B7494F90E": "停留<Emphasized>在空中更久</>",
-    "0611FAA245AF688EFA1D3ABAF88BF0F1": "待在風暴之眼內",
-    "2F214E7F48E66EFE1C115C8F7E2E595C": "待在風暴之眼內",
     "404A7F8F45CCEA3AC57992A9D25A2D4A": "待在風暴之眼內",
-    "67EBCAF44A10423717EA0E9DF0B11170": "待在風暴之眼內",
-    "6C0CBF054F0F23BA941ABCA75F405034": "待在風暴之眼內",
-    "A07147014E36B1D243DF9C89E25878E3": "待在風暴之眼內",
     "BD933A0A4D2108A6FF3D948E3CD2DBD4": "待在風暴之眼內",
     "E5B8A51D416E77718A746EB15445A3B2": "待在風暴之眼內",
     "749E72FD4C3CC3C5F34EBF91EF87C060": "操縱加農砲",
@@ -1781,7 +1717,6 @@
     "01AC17C945E9F716F2DE30AD21D419D4": "消音狙擊步槍+",
     "B32EDD8A45D40C18A0F6F497FAEADAE2": "消音狙擊步槍具備<Emphasized>熱成像瞄準鏡</>",
     "CBC05E714B87E7BE8B6FC596A6097237": "消音衝鋒槍",
-    "00CA308D460DBD1D0DBF3BA35E0368E5": "存活到最後即可獲得輝煌勝利！",
     "DDDAFD77445379EE9BAF399713A063D6": "生存者",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "游泳<Emphasized>更快速</>",
     "E928E3A54C017ABB67564BB0EE06B190": "切換個人資料",
@@ -1872,17 +1807,9 @@
     "E415969B4BAAA6B59B6BFF9CAE728F5D": "奪寶而歸挑戰完成代幣",
     "611AA9CD49A134C1CF4EF793A0DCAD73": "街區",
     "57698C274195DFFFFFF44CB43FCB651F": "療癒游泳",
-    "2F83EE994C53BADD8F87BCAE2EBE4071": "贏家只能有一個。",
     "3961708B410A75AE04191ABCAD93E9F0": "贏家只能有一個。",
-    "58196919412BCB1D74783E8E981D2BBE": "贏家只能有一個。",
-    "6C225C9D49F86E1E30DCC3A701B26E56": "贏家只能有一個。",
-    "6C7119CA44F1ED5685A324B982ED8276": "贏家只能有一個。",
     "900A843C489A158D9D7014B7688759B3": "贏家只能有一個。",
-    "A29937E74B5530D54A09F291E771AB54": "贏家只能有一個。",
     "DBD8EB9C418D8B3F612D7091AB3132F5": "贏家只能有一個。",
-    "EADE4BDA4E918BF507B81B84222A950C": "贏家只能有一個。",
-    "ED03D0BC43A54D93E88728A02C17352F": "贏家只能有一個。",
-    "EF85CDE6446B65421F3064A152A6DAE1": "贏家只能有一個。",
     "9668C00D43496C901D756E874556A4B7": "此代碼將授予你參與 Fortnite Mobile iOS 活動的權利 ",
     "2291CAD9430769CC73D99D9B54DE8C4B": "此高級帳號可以賺取 V-Buck ，而不是X光駱馬。",
     "03DCCA2140EB4E06D8B69FB8CFE78A1B": "投擲",
@@ -1934,8 +1861,6 @@
     "EA08EDDB48C12586ECDF1589AB5C989C": "尾跡色彩升級",
     "06B8D6624AAC122415F9C0BFABD33BD4": "訓練機器人",
     "D71A7E704422BDFE7934EF8C6574DFAA": "入侵者",
-    "0BE26EA94B6DAE3CA1DE029A8BFF93DE": "三人",
-    "B8B7A46843A2FC0715BD8A924EC6B145": "三人",
     "E907B282416949BFACC17482A8283EE7": "可靠雙持劍",
     "E4621E044AA0247AA73F99BB8EB8D845": "可靠獵頭好手",
     "AFCC8C60409A488FEF95B1920178638A": "可靠彈匣",
@@ -2036,10 +1961,6 @@
     "CD4BED3D497056ACDDF697B2A1CED907": "WIP任務代幣",
     "FBD7D9E444205DDD378D8381B49848B1": "正在等候玩家",
     "A3594BE3426BC422F96680B9F1815D84": "山葵任務代幣",
-    "4406E6154F9246CE4482DCB93FF91A0B": "小心腳下，找好掩護，不建東西也能贏地面戰。",
-    "DA9EF0A9444088E1157495BE637A0B4E": "小心腳下，找好掩護，不建東西也能贏地面戰。",
-    "E1927EF245666D50E41FBD832EB57A44": "小心腳下，找好掩護，不建東西也能贏地面戰。",
-    "F75E7A144FF0A719B84A21893B2A8537": "小心腳下，找好掩護，不建東西也能贏地面戰。",
     "1FA31AFC497191C5AD7467BFC4E8E6C7": "充分休息助推器",
     "583601D34A4FAC568666FE8DFE288DFB": "充分休息助推器",
     "1FD4C33549D3B93FF40EA9953E97F5CE": "遭淘汰時傳輸",
@@ -2058,7 +1979,6 @@
     "E710C08E4E5C70FF8A286CB6EA101B4F": "是否顯示信標，顯示 HUD 元素，或二者皆顯示。",
     "D3A54EAE40408580269CF39BCCA37888": "白",
     "195F2EE048C26E190C845691145D6CF6": "寬度",
-    "8B36050244257ED13DABA5BB06C9381C": "狂野西部",
     "9BD108A54CA8FA397E1DBD95E37958BB": "冬日節慶挑戰完成代幣",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "冬日節慶鑰匙",
     "194B94D745612B291C0C0CAC0487B727": "女巫掃帚",
@@ -2241,6 +2161,11 @@
   },
   "AntiCheat": {
     "ClientErrorMessage": "{provider}錯誤：{message}\n\n請查閱{provider}常見問題集以獲取更多資訊。"
+  },
+  "ArcadeVolley": {
+    "PlayerWinsFmt": "玩家 {0} 獲勝！按下以重新開始",
+    "PressToServe": "按下發球",
+    "PressToStart": "按下開始"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "未命中"
@@ -2839,6 +2764,11 @@
     "FortAnimGraphNode_BlendFacialCurves": "動畫 | 曲線",
     "FortAnimGraphNode_BlendFacialCurves_Title": "混合面部曲線",
     "FortAnimGraphNode_BlendFacialCurves_Tooltip": "依據所選預設，以自訂方式混合來自兩個輸入來源的面部曲線"
+  },
+  "BoostBall": {
+    "HighScoreFormat": "高分紀錄：{0}",
+    "ResultFormat": "{0} - {1}",
+    "ScoreFormat": "{0} - {1}"
   },
   "BootToFrontend_LowMemoryFallbackStrategy": {
     "Juno_BootToFrontEndMessage": "記憶體已達到臨界水準─賽事結束。\n再試一次！"
@@ -3544,6 +3474,21 @@
     "EmptyRecentsTabSubtitle": "近期遊玩的島嶼會在此顯示。快來發現新事物。",
     "EmptyFollowingTabTitle": "沒什麼好看的！",
     "EmptyRecentsTabTitle": "準備好遊玩了嗎？"
+  },
+  "DiscoveryGenreLabel": {
+    "DiscoveryGenreLabel_AdventureRPG": "冒險與角色扮演",
+    "DiscoveryGenreLabel_BattleRoyale": "大逃殺",
+    "DiscoveryGenreLabel_DeathrunPlatformer": "死亡賽跑與平台遊戲",
+    "DiscoveryGenreLabel_Horror": "恐怖",
+    "DiscoveryGenreLabel_MusicRhythm": "音樂與節奏",
+    "DiscoveryGenreLabel_PartyMiniGames": "派對與小遊戲",
+    "DiscoveryGenreLabel_Roguelike": "Roguelike",
+    "DiscoveryGenreLabel_RoleplayingSocial": "角色扮演與社交",
+    "DiscoveryGenreLabel_Shooter": "射擊",
+    "DiscoveryGenreLabel_SimulationTycoon": "模擬與大亨",
+    "DiscoveryGenreLabel_SportsRacing": "運動與賽車",
+    "DiscoveryGenreLabel_Strategy": "策略",
+    "DiscoveryGenreLabel_Survival": "生存"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -5012,11 +4957,14 @@
     "RefBoneAxisTooltip": "選擇參考骨骼在變換中的軸向，當角色直立時，哪些軸會在組件空間中指向「前方」與「上方」。預設值是依照一般骨盆的朝向設定。",
     "StateNameToolTipText": "狀態名稱 - 點擊開始編輯。",
     "StateNames": "狀態名稱",
+    "OrientationTypeLabel": "類型",
     "UpLabel": "梳直",
     "WeightAngularVelocityMapping": "角速度權重對應",
     "WeightLinearVelocityMapping": "線性速度權重對應",
+    "WeightOrientationMapping": "方向權重對應",
     "WeightAngularVelocityMappingTooltip": "根據角速度的選定分量在指定範圍內調整權重（如果速度的選定分量小於等於範圍最小值，則權重為零；如果大於等於範圍最大值，則權重為一）。",
     "WeightLinearVelocityMappingTooltip": "根據線性速度的選定分量在指定範圍內進行調整權重（如果速度的選定分量小於或等於範圍最小值，則重量為零；如果大於或等於最大值，則重量為一）。",
+    "WeightOrientationMappingTooltip": "權重會依選擇的方向類型，在指定範圍內縮放。",
     "BlueprintPropertiesRowText": "vvv藍圖屬性vvv",
     "NativePropertiesRowText": "vvv原生屬性vvv"
   },
@@ -5391,6 +5339,7 @@
     "FreePrice": "免費",
     "LegoKitOfferDescription": "LEGO® 套件",
     "LeavingToday": "本日即將下架",
+    "LimitedTimeOfferLegalText": "限時優惠",
     "PegiMusicWarning": "PEGI未對音樂下載進行分級 - www.pegi.info",
     "OutfitPackDescription": "造型包",
     "PackDescription": "背包",
@@ -5614,6 +5563,9 @@
     "Game": "遊戲",
     "TeamScoreboardNameFormat": "隊伍{0}",
     "JoinInProgressTooLate": "你嘗試加入的遊戲已結束。"
+  },
+  "FortMinigamePersistence": {
+    "PersistenceUnavailable": "此島嶼無法使用你已儲存的進度，因此無法進入島嶼。請稍後再試。"
   },
   "FortMissionPopupWidget": {
     "REWARD:": "獎勵：",
@@ -7344,7 +7296,6 @@
     "MouseZoomScaling_Legacy": "傳統",
     "LegacyControllerOptionsCollection_Name": "傳統控制",
     "LegacyControlsEnabled": "已啟用傳統控制",
-    "RenderingModePerformanceLegacy": "舊版效能模式（已棄用）",
     "LegalCollection_Name": "法律資訊",
     "LegalInformation_Name": "法律資訊",
     "LicensedAudioTreatment_Name": "授權音訊",
@@ -7706,16 +7657,11 @@
     "MobileFPSType_Description": "選擇所需的遊戲內影格率。使用此選項在你的裝置上微調效能。選單中的最大 FPS 值為 30。",
     "HybridMouseControlMode_Description": "選擇應該用哪個 Joy‑Con 2 控制滑鼠。\n注意：滑鼠控制只有在某些體驗時能啟用！",
     "TouchInteractMode_Description": "選擇觸控互動模式。\n\n<strong>關閉</>：停用觸控互動。",
-    "RenderingModeNoDX11_Description": "選擇要使用的低階渲染模式。\n\n需使用 DirectX 12 才能啟用高階渲染功能（如 Nanite、Lumen 與硬體光線追蹤）以提升視覺逼真度。\n\n效能是一種透過停用大多數渲染功能來減少記憶體使用和降低 CPU 和 GPU 負載，從而提供顯著效能提升的模式。其亦使用 DirectX 12。\n\n舊版效能模式（已棄用）與效能模式相似，但使用的是 DirectX 11。",
     "RenderingMode_TwoModeDescription": "選擇要使用的低階渲染模式。\n\n需使用 DirectX 12 才能啟用高階渲染功能（如 Nanite、Lumen 與硬體光線追蹤）以提升視覺逼真度。\n\n效能是一種透過停用大多數渲染功能來減少記憶體使用和降低 CPU 和 GPU 負載，從而提供顯著效能提升的模式。於適用時使用 DirectX 12，否則使用 DirectX 11。",
     "FortReleaseVersion_Description": "選擇想要使用的發行版本來決定啟用哪些功能（例如 15.20、15.30、16.00 等）。",
-    "MatchmakingRegion_Description": "選擇要連線的伺服器。越靠近你的伺服器通常效能越好。選擇「自動」將連線至效能最佳的伺服器。",
-    "MatchmakingRegion_Description_PS4": "選擇要連線的伺服器。越靠近你的伺服器通常效能越好。選擇「自動」將連線至效能最佳的伺服器。",
-    "MatchmakingRegion_Description_PS5": "選擇要連線的伺服器。越靠近你的伺服器通常效能越好。選擇「自動」將連線至效能最佳的伺服器。",
-    "MatchmakingRegion_Description_Switch": "選擇要連線的伺服器。越靠近你的伺服器通常效能越好。選擇「自動」將連線至效能最佳的伺服器。",
-    "MatchmakingRegion_Description_Switch2": "選擇要連線的伺服器。越靠近你的伺服器通常效能越好。選擇「自動」將連線至效能最佳的伺服器。",
-    "MatchmakingRegion_Description_XB1": "選擇要連線的伺服器。越靠近你的伺服器通常效能越好。選擇「自動」將連線至效能最佳的伺服器。",
-    "MatchmakingRegion_Description_XSX": "選擇要連線的伺服器。越靠近你的伺服器通常效能越好。選擇「自動」將連線至效能最佳的伺服器。",
+    "MatchmakingRegion_Description_V2": "選擇你的配對區域。自動配對旨在提供最佳體驗。顯示的延遲範圍為估計值。遊戲內的延遲可能會因對戰和體驗而有所不同。",
+    "MatchmakingSubregion_Description": "選擇你偏好的配對子區域。配對時會優先採用你的選擇，但不保證能安排成功。自動配對旨在提供最佳體驗。選擇子區域可能會增加等待時間，並降低對戰的公平性。顯示的延遲值為估計值。遊戲內的延遲可能會因對戰和體驗而有所不同。",
+    "CompetitiveRegion_Description": "選擇你的錦標賽區域。只有在你的配對區域有超過一個錦標賽地區時，才會顯示此設定。",
     "BasicSensitivityCollection_Name": "靈敏度",
     "GyroV2Sensitivity_Name": "靈敏度",
     "SafeZone_Action": "設定安全區域",
@@ -7847,6 +7793,7 @@
     "StopRenderingInBackground_Name": "在背景停止渲染",
     "StopRenderingInBackground_Description": "當遊戲視窗沒有置頂時停止渲染（如可能）。釋放 GPU 資源供其他應用程式使用。",
     "KeyboardMovementStrafeDiagonal_Name": "橫移角度",
+    "MatchmakingSubregion_Name": "子區域偏好",
     "SubtitlePage_Name": "字幕",
     "SubtitlesCollection_Name": "字幕",
     "Subtitles_Name": "字幕",
@@ -7977,6 +7924,7 @@
     "TouchAndMotionCollection_Name": "觸控與動作",
     "TouchpadCollection_Name": "觸碰板",
     "EForceMaxTouchpadSensitivity_Name": "觸碰板靈敏度至最高",
+    "CompetitiveRegion_Name": "錦標賽地區",
     "GyroButtonTrackball": "軌跡球",
     "GyroTrackballDecay_Name": "軌跡球衰減",
     "AimAssistPullStrength_Name": "追蹤瞄準輔助強度",
@@ -8429,7 +8377,8 @@
     "Public": "公開"
   },
   "FortSettingValueDiscrete_Region": {
-    "RegionDisplayWithPing": "{RegionDisplayName}（{RegionPing} 毫秒）"
+    "RegionDisplayWithPingRange": "{RegionDisplayName} ({MinimumPing}-{MaximumPing}ms)",
+    "RegionDisplayWithPing": "{RegionDisplayName}（{MinimumPing} 毫秒）"
   },
   "FortSettingValueDiscrete_ReportPerfStats": {
     "Disabled": "已停用",
@@ -8442,6 +8391,11 @@
   "FortSettingValueDiscrete_SocialBool": {
     "OFF": "關",
     "ON": "開"
+  },
+  "FortSettingValueDiscrete_Subregion": {
+    "AutoSubregion": "自動",
+    "SubregionPreferenceRequiresRegion": "自動配對旨在提供最佳體驗。若要變更此設定，請選擇「自動」以外的配對區域。",
+    "SubregionDisplayWithPing": "{SubregionId}（{SubregionPing} 毫秒）"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
     "VoiceChatMethod_Mute": "靜音",
@@ -8543,7 +8497,8 @@
     "GameVoiceChannelsDisplayNameSecondary": "其他遊戲成員"
   },
   "FortSocialHeaderItemVM": {
-    "TeamMembersListDisplayName": "隊伍成員"
+    "TeamMembersListDisplayName": "隊伍成員",
+    "VerseVoiceMyChannelListDisplayName": "語音頻道"
   },
   "FortSocialInteractionMenu": {
     "InvalidInputFormat": "<text color=\"{0}\">無效</>",
@@ -8646,7 +8601,8 @@
     "PlaystationFriendPlatformName": "PlayStation Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "語音檢舉系統能幫助我們審查違反社群規則的檢舉通報。\n\n- 當語音聊天開啟時，此功能會在每一位參與人的裝置以滾動制的方式儲存五分鐘的語音聊天音訊。只有其他參與人檢舉違規時，該音訊才會傳到 Epic Games。\n\n- 若你未滿 18 歲，語音檢舉將隨時開啟。\n\n若要了解更多詳情和選項，請前往語音聊天設定。",
     "VoiceChatVRR_Accept_O18_NewPlayer": "語音檢舉系統能幫助我們審查違反社群規則的檢舉通報。\n\n- 當語音聊天開啟時，此功能會在每一位參與人的裝置以滾動制的方式儲存五分鐘的語音聊天音訊。只有其他參與人檢舉違規時，該音訊才會傳到 Epic Games。\n\n- 語音檢舉一般設為開啟，除非所有在好友之間的組隊中的玩家想要設為關閉。\n\n- 你可以在側欄確認目前語音檢舉的開關狀態。\n\n若要了解更多詳情和選項，請前往語音聊天設定。",
-    "XboxFriendPlatformName": "Xbox網路"
+    "XboxFriendPlatformName": "Xbox網路",
+    "FriendshipActionRateLimited": "你在短時間內執行過多操作。請稍後再試"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "{timesince}前成為好友",
@@ -8777,6 +8733,10 @@
     "SittingOut": "待機",
     "DownloadOnDemandProgress": "更新中（{0}%）"
   },
+  "FortTextChatConversationVM": {
+    "PartyFrameworkUnavailable": "目前無法使用組隊系統",
+    "SocialToolkitUnavailable": "目前無法使用社交功能"
+  },
   "FortTextChatPlayerVM": {
     "RedactedUserBlocked": "<Blocked player>",
     "RedactedUserGeneral": "<Hidden player>",
@@ -8894,7 +8854,6 @@
     "EpicPartyInviteDetailsSent": "已傳送派對邀請給<Username>{0}</>",
     "PartyInviteDetailsSent": "已傳送派對邀請給<Username>{0}</>",
     "EpicPartyJoinabilityChangedInviteOnlyDetails": "該組隊僅限邀請",
-    "EpicPartyJoinabilityChangedOpenDetails": "可加入組隊",
     "EpicPartyJoinRequestReceived_Title": "加入組隊請求",
     "EpicPartyMemberCreated": "玩家已加入派對",
     "PartyMemberCreated": "玩家已加入派對",
@@ -8918,7 +8877,9 @@
     "LocalPlayerEpicPartyPromotedToast": "你已被提升為派對隊長",
     "RequestToJoinParty_RateLimited": "你已傳送太多請求，請稍後再試",
     "FriendToastSelfTooManyFriends": "你有太多好友",
-    "FriendToastSelfOutboxFull": "你發送的朋友申請太多"
+    "FriendToastSelfOutboxFull": "你發送的朋友申請太多",
+    "EpicPartyJoinabilityChangedOpenDetails": "你的組隊現已可供加入",
+    "NotifMgrForkMemberNoAccessToast": "{Username} 無法存取所選的分支，繼續將忽略該分支"
   },
   "FortUIStateWidget_Login": {
     "OfferRHIChangeForStability_Title": "更改渲染模式？",
@@ -8926,7 +8887,6 @@
     "UpdateCheck": "正在檢查更新……",
     "ConnectionCheckText": "正在檢查你的連線……",
     "TryingLonger": "正在繼續嘗試中，請耐心等待。\n查看{CheckStatusURL}以了解詳情。",
-    "OfferRHIChangeForStability_DX11": "DirectX 11",
     "FailedToLoadProfile": "無法載入個人檔案。",
     "RefreshingContent": "正在取得動態內容……",
     "FindBestSettings": "尋找最佳設定？",
@@ -8935,7 +8895,6 @@
     "LoggingIn": "正在登入……",
     "NoInternet": "未偵測到網路連線",
     "OfferRHIChangeForStability_PerformanceMode": "效能模式",
-    "OfferRHIChangeForStability_FullDescriptionDX12PerfMode": "效能模式在你的裝置上可能產生穩定性問題，導致 Fortnite 在遊玩時當機。是否要切換成舊版效能模式，享有更穩定的遊戲體驗呢？{OptionalAutoRestartText}",
     "NoInternetDesc": "請檢查你的連線並重試。",
     "QuitText": "離開",
     "Benchmark": "執行效能測試中……",
@@ -9425,6 +9384,7 @@
     "Message.Unauthorized": "你沒有權限播放此內容。",
     "MfaRequiredForTournament": "你必須在 Epic 帳號上啟用雙重驗證才能參加本次錦標賽。訪問：{TurnOnMfaURL}以啟用。",
     "WrongNumberOfEventPlayers": "你需要參加本次錦標賽的完整派對。",
+    "MatchCapExceeded": "你已達到本次活動的最大配對次數。查看競賽標籤以了解詳情和即將開放的活動。",
     "Error.AccountLevelTooLow": "你的帳號等級（{0}）不符合遊戲的最低要求：{1}。",
     "Error.BRRankLevelTooLow": "你目前的《大逃殺》階位等級（{0}）不符合遊玩的最低需求：{1}。",
     "Error.BRRankLevelTooHigh": "你目前的《大逃殺》階位等級太高（{0}）無法參加本次錦標賽。允許玩的最高階位是{1}。",
@@ -10900,6 +10860,7 @@
   "Matchmaking": {
     "PartyMemberDisconnect": "組隊成員已斷線。",
     "PartyMemberTimeout": "組隊成員連線失敗。",
+    "MatchCapExceeded": "玩家已達到本次活動的最大配對次數。",
     "PartyTooBig": "太多組隊成員正在嘗試註冊。"
   },
   "MatchmakingContext": {
@@ -11596,7 +11557,7 @@
     "Join_Num_Alive": "加入派對 - 剩餘{PlayersAlive}名"
   },
   "PawnOptionRegistry": {
-    "AthenaCharacterDisplayName": "雅典娜角色"
+    "DefaultCharacterDisplayName": "預設角色"
   },
   "PersonaCharacterModifierDetailsCustomization": {
     "VoiceDefault": "預設"
@@ -11770,7 +11731,19 @@
     "UFortQuestCategory::Misc": "其他"
   },
   "QuestPanelDebugToolViewModel": {
+    "Placement_CategoryNotRegistered": "宣告了相符的標籤且在此版本有效，但從未記錄。這通常是時序問題 - 可在分類重建後再次確認。",
+    "Placement_CategoryDisabled": "宣告了相符的標籤，但 bCategoryEnabled 已關閉。此組態設定可覆寫，因此修補程式將可以設定它。",
+    "Placement_CategorySunset": "宣告了相符的標籤，但在此版本已不支援。",
+    "Placement_CategoryPluginUnavailable": "宣告了相符的標籤，但已不支援其外掛。",
+    "Placement_CategoryUnreleased": "宣告了相符的標籤，但會在之後的版本才推出。",
+    "Placement_CategoryEventGated": "宣告了僅在 IncludeQuestTagsByEvent 下相符的標籤，而該事件未啟用。",
+    "Placement_CategorySuppressed": "有相符結果，但內容遭到抑制，因此不會取得任何內容，並拒絕回退。",
+    "Placement_NoOrganizationTags": "沒有可供比對的 QuestCategory 標籤。",
+    "Placement_CategoriesNotYetBuilt": "整理此內容時不存在任何類別。應該會在重建時解決。",
+    "Placement_NoCategoryDeclaresTag": "沒有任何類別宣告這些標籤，或任何其上層標籤。",
     "Visibility_NoView": "此任務沒有可顯示的檢視畫面。",
+    "Placement_FallbackUnavailable": "沒有相符結果，且無法使用回退，因此此內容完全不屬於任何類別。",
+    "Placement_BundleSuppliedNoTags": "打卡卡片只會使用其組合包的標籤，而這個組合包沒有任何標籤。這個任務本身的標籤從未被讀取。",
     "VersionWarning_AssetSunset": "目前版本已不支援此資產，而且將不會啟用。",
     "VersionWarning_AssetUnreleased": "此資產將在比目前版本更新的版本中推出，而且將不會啟用。",
     "VersionWarning_PluginSunset": "目前版本已不支援此外掛，而且將不會啟用。",
@@ -11948,6 +11921,9 @@
     "HasEnforcedSettingsU10Warning_Voice": "<strong>僅限好友</>是針對 10 歲以下兒童可設定的上限。若選擇更寬鬆的設定，則會在孩子年齡符合後才會生效。",
     "HasEnforcedSettingsU13Warning_Text": "<strong>好友、隊員與聯絡人</>是針對 13 歲以下兒童可設定的上限。若選擇<strong>所有人</>，則會在孩子年齡符合後才會生效。",
     "HasEnforcedSettingsU13Warning_Voice": "<strong>好友、隊員與聯絡人</>是針對 13 歲以下兒童可設定的上限。若選擇<strong>所有人</>，則會在孩子年齡符合後才會生效。"
+  },
+  "SimpleOfferVM": {
+    "OutDateFormat": "於 {TimeZone} {Year} 年 {Month} 月 {Day} 日 {Time} 截止"
   },
   "SnapEditorVisualizer": {
     "DeleteSnapEntries": "Delete Snap Entries",
@@ -12443,6 +12419,24 @@
     "Athena": "大逃殺",
     "Creative": "創意模式",
     "Campaign": "末世守衛"
+  },
+  "SubregionNames": {
+    "BAH": "巴林",
+    "FR": "法國",
+    "DE": "德國",
+    "IA": "愛荷華州",
+    "IL": "以色列",
+    "MX": "墨西哥",
+    "MUM": "孟買",
+    "NCAL": "北加州",
+    "OH": "俄亥俄州",
+    "OR": "奧勒岡州",
+    "SYD": "雪梨",
+    "SAO": "聖保羅",
+    "TX": "德州",
+    "TOK": "東京",
+    "GB": "英國",
+    "VA": "維吉尼亞州"
   },
   "SupervisedSettingsManager": {
     "TimezoneDisplayFormat": "{0}{1} （{2}）"

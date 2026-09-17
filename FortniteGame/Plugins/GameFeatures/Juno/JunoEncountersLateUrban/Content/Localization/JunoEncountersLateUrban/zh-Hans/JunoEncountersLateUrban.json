@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "完成3个哥谭挑战",
     "8545084D4037D8328A80AAA600F845B1": "完成3个哥谭挑战",
     "8867A2174A1B609CA14739BFA57AD7BA": "完成3个哥谭挑战",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "完成5个哥谭挑战",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "清理罗宾逊公园",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "收集10个辣椒",
     "B724EFD84125E744670EEC852A03D7E5": "收集10个南瓜",
     "6D3D89EF484F1388F3EC94BA45D0198A": "收集30个心辉",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "收集30个雪",
+    "7DD7744E44595A1743F019932761EF3D": "收集30个臭腺",
     "72ED820E417BF03B7D74628BC7A0D50A": "收集30个雪",
     "AC0061C9484C5D72D42634A7DE52BD86": "收集50个光芯",
     "765CEFD440B6023FC0F2D895D64DC0B0": "瓜登局长 - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "制作10个生物质",
     "BB1E87384DF5BD8AC5657499C7C5603C": "击败10只蝎子",
     "DF66F10243EF456A3BC00BA9F1A6F003": "击败10只蝎子",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "击败20名佣兵",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "击败3只冰霜之熊",
     "60F095F34D1AC980533CABBD59BE64D2": "击败3只冰霜之熊",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "在罗宾逊公园击败佣兵",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "悠游冰山 - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "必须阻止毒藤女的佣兵！<empha>跟随蝙蝠信号前往罗宾逊公园，消灭毒藤女的佣兵。</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "毒藤女让哥谭的所有人——怎么说呢——“吐到不行”。我们怀疑她用了某种毒液，我们得尽快研究出解药。在<img id=\"IcoDes\"/><Des>干涸山谷</><empha>击败10只蝎子</>。在你完成任务之前，城市里的所有人都只能靠维生系统吊命。*咕*呃——我得走了。",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "夜班骑士",
+    "A75F4FE844F88A4440153482E2EA221C": "夜班骑士",
     "E5D175ED4A01969301A19E98405F2E01": "制作10个生物质",
     "8F85938943E9D27E8F7DD2A3D347810B": "哥谭又有更多建筑不见了，总觉得哪里不对劲。我怀疑有个新面孔摇摇晃晃地闯进这场混乱了。了解更多信息。<empha>在地图上跟随蝙蝠信号，并完成3个哥谭挑战。</>",
     "686582044561A9744F6D4B8E6A15A766": "爆炸能量电池 - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "暗夜之光 - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "那条可疑的线索已经断了。不过寒冷也许正是我们需要的。看看你能不能挖到点情报。前往<img id=\"IcoFro\"/><Fro>霜冻之地</>，并<empha>收集30个雪。</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "我们没猜错，企鹅人确实在幕后操盘，但他暂时把我排除在外了。别担心，阿尔弗雷德会给我带热可可的。你呢？你要去实地测试一些极地格斗技巧。前往<img id=\"IcoFro\"/><Fro>霜冻之地</>，并<empha>击败3只冰霜之熊。</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "夜班骑士"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "“我是蝙蝠侠。谜语人似乎把佣兵们耍得团团转，让他们按照他的计划来围攻我们。他们真的不怎么聪明。我敢打赌，那些傻瓜会被钓鱼邮件骗。<emphasis>击败20名佣兵。</>——我是蝙蝠侠，通话完毕。”",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "我是蝙蝠侠。毒藤女又开始搞事了。她改变了当地的植物群——那味道比企鹅在大太阳下野餐后剩下的残羹还要难闻。植物开始掉落<EmphA>臭腺</>了！清除污染物。<EmphA>收集30个臭腺</>。",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "接受挑战",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "完成5项哥谭挑战",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "收集30个臭腺",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "击败20名佣兵",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "反派的气息",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "佣兵倾巢而出",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "没错，又是蝙蝠侠。阿尔弗雷德探测到了一些新的活动。而且不是那种把蝙蝠镖蘸上黑色颜料，做成“抱歉，我又挫败了你的计划”卡片装饰的好事。去调查一下。<EmphA>完成5项哥谭挑战。</>"
   }
 }

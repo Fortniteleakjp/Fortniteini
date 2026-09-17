@@ -85,10 +85,10 @@
     "OptionDefinitionContainer.LabelOverride": "ป้าย"
   },
   "UserOptionDefinition": {
-    "BP_Device_StreamDataTrigger_C.DisableWhenReceivingFrom.DisplayName": "ปิดการใช้งานเมื่อได้รับจาก",
-    "BP_Device_StreamDataTrigger_C.DisableWhenReceivingFrom.Description": "ปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
-    "BP_Device_StreamDataTrigger_C.EnableWhenReceivingFrom.DisplayName": "เปิดการใช้งานเมื่อได้รับจาก",
-    "BP_Device_StreamDataTrigger_C.EnableWhenReceivingFrom.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_Device_StreamDataTrigger_C.DisableWhenReceivingFrom.DisplayName": "ปิดใช้งานเมื่อได้รับสัญญาณจาก",
+    "BP_Device_StreamDataTrigger_C.DisableWhenReceivingFrom.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
+    "BP_Device_StreamDataTrigger_C.EnableWhenReceivingFrom.DisplayName": "เปิดใช้งานเมื่อได้รับสัญญาณจาก",
+    "BP_Device_StreamDataTrigger_C.EnableWhenReceivingFrom.Description": "เปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
     "BP_Device_StreamDataTrigger_C.GetFinaleStateWhenReceivingFrom.DisplayName": "รับสถานะของรอบสุดท้ายเมื่อได้รับอีเวนต์",
     "BP_Device_StreamDataTrigger_C.GetMatchStateWhenReceivingFrom.DisplayName": "รับสถานะของแมตช์เมื่อได้รับอีเวนต์",
     "BP_Device_StreamDataTrigger_C.GetSeriesStateWhenReceivingFrom.DisplayName": "รับสถานะของซีรีส์เมื่อได้รับอีเวนต์",
@@ -99,7 +99,7 @@
     "BP_Device_StreamDataTrigger_C.No Match Data Request Transmit On.DisplayName": "ส่งสัญญาณเมื่อไม่มีการส่งคำขอข้อมูลแมตช์",
     "BP_Device_StreamDataTrigger_C.No Series Data Request Transmit On.DisplayName": "ส่งสัญญาณเมื่อไม่มีการส่งคำขอข้อมูลซีรีส์",
     "BP_Device_StreamDataTrigger_C.ResetWhenReceivingFrom.DisplayName": "รีเซ็ตเมื่อได้รับจาก",
-    "BP_Device_StreamDataTrigger_C.ResetWhenReceivingFrom.Description": "รีเซ็ตข้อมูลที่ไม่ใช่วิดีโอทั้งหมดบนอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_Device_StreamDataTrigger_C.ResetWhenReceivingFrom.Description": "รีเซ็ตข้อมูลที่ไม่ใช่วิดีโอทั้งหมดบนอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
     "BP_Device_StreamDataTrigger_C.In Finale Data Request Transmit On.Description": "ส่งสัญญาณทางช่องนี้หลังจากมีการส่งคำขอแมตช์หากอยู่ในแมตช์",
     "BP_Device_StreamDataTrigger_C.In Match Data Request Transmit On.Description": "ส่งสัญญาณทางช่องนี้หลังจากมีการส่งคำขอแมตช์หากอยู่ในแมตช์",
     "BP_Device_StreamDataTrigger_C.No Finale Data Request Transmit On.Description": "ส่งสัญญาณทางช่องนี้หลังจากมีการส่งคำขอแมตช์หากไม่ได้อยู่ในแมตช์",

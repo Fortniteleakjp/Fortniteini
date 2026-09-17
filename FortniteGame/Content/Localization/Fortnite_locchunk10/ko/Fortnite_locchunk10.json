@@ -539,8 +539,6 @@
     "0F27FEB645424A655938FBAA00966985": "전투 준비 완료",
     "06260D674B73C899F270E489FDED2318": "배틀로얄",
     "33B8A20040C39F11D774A2981F344253": "배틀로얄",
-    "922BA250460700D4A6C45A814459E9D4": "배틀로얄",
-    "A7F0D4E047323614E099CCB1616FC33D": "배틀로얄",
     "C403587B40DF25FCAA8E159AA3A7E558": "배틀로얄",
     "D3A984E042745DAD6F26E19C18103AD2": "배틀로얄",
     "61B644904C2939F994F877A526A4440B": "배틀로얄 컴펜디엄 XP",
@@ -562,7 +560,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "빅배럴 DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "복엽기",
     "5B5236944941BFD7DE82B8B05FE11D94": "복엽기",
-    "DF56207843F6244003548CA79CFAA0F4": "복엽기",
     "AD9DF9A2455C274907AE29971466ADBA": "블레이드",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "블레이드",
     "7641CC0743ADBB2B2B04ED9883DD8214": "장신구",
@@ -753,12 +750,7 @@
     "A160CCFF49521B32A8B8E3AB90408722": "피해 레벨",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "댄스 테라피",
     "91DEE53D4336DA0C00BAD3ACA0899EE6": "친구들을 즐겁고 놀라게 만들어보세요!",
-    "2C01E2F5420CED5A207C7B98302305A4": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
-    "394C9BDD403D04CBB1203997013A98CD": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
-    "47699A1C400A37DC893F54B2FCD92877": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
     "527C4E4949B247E160807D920F92EEC9": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
-    "5CFC98A54A14E69002262F89F0182317": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
-    "722B1B4541B7FEDB0D5373A168D11B14": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
     "8E47673F4F3406EAA533BFA7D3BACDAB": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
     "F1454581430BDE167B62D384A23A7C96": "죽음의 구름이 몰려옵니다. 태풍이 거세질수록 태풍의 눈은 좁아집니다.",
     "F36292074E3360F745279784F74D8867": "데드샷",
@@ -823,23 +815,16 @@
     "F92A2BBA4871D636829900B0E138FA81": "빈더봇 박사 도전",
     "BD6E914C471A66813327F2AEEA3867E7": "운전",
     "390597F64F2F483C06891FB95BA037D3": "캐넌 운전",
-    "29FA05054578E0CC32DA89B13152C692": "착지 및 아이템 탐색",
-    "42C6A24F40F7DB9C0D26D48BF84C2F4C": "착지 및 아이템 탐색",
     "48DE963D48E224F0FA34B392EEBB04F3": "착지 및 아이템 탐색",
     "56EC010C4FABD0181556A3B06A38ACEB": "착지 및 아이템 탐색",
-    "7BC26EA54582F700E6B4988782BFF806": "착지 및 아이템 탐색",
     "831C33534BEC50A3D3E4E89E7C3170D4": "착지 및 아이템 탐색",
-    "9178141B40FE92B80982CC9FF69DADDF": "착지 및 아이템 탐색",
-    "E4AF6B474D830CD9D7A25B87E57E55C0": "착지 및 아이템 탐색",
     "EE09C0E54BBFE547ECCF628D1A0F3BFB": "드럼 건",
     "7B9C4CB74DFEE2C4B1C9D99CA6D70896": "쌍권총",
     "CA9DCBF64B31242269823E88C10A74C0": "쌍권총",
     "9DCEC44C423596A81B77438A15C90787": "쌍권총: 반자동.",
     "DD10E1F74B4C77102CCDAAA7B1258400": "쌍권총: 반자동.",
     "3EC1D4304108BC1102AD90BF1CC5DC39": "강력 접착테이프",
-    "045079474451066B165246804C89FDF4": "듀오",
     "1CAFE187418D13AB72E3F6A1A6F6DCCE": "듀오",
-    "F9ABF3514BADBE7C8DBD23A2B8E6DB1E": "듀오",
     "941BB5D943AB82F7E60130B929A1A071": "병맛 버거",
     "01558C734EDD8820D50C7B8065F7C617": "다이너마이트",
     "5AC45AA249F4846D74DD779DD825D066": "다이너마이트",
@@ -989,7 +974,6 @@
     "B66A963A4F1715DA7B033093DCCF9262": "글라이더",
     "2600DF544E09C9AC9E0EA69C95FBBA7C": "글라이더 다시 펼치기",
     "87E39EA04808B27EA30A908F811EF0FA": "글라이더",
-    "0CC212B74A4C538363B8A1AF4698DB27": "죽느냐 사느냐... 혼자서 싸우는 서바이벌 혈투!",
     "3C063B974F09C8A673507CBE3ADDB71D": "죽느냐 사느냐... 혼자서 싸우는 서바이벌 혈투!",
     "8BEC89B8499664826B111685672B4E29": "죽느냐 사느냐... 혼자서 싸우는 서바이벌 혈투!",
     "B8C59B304999B1F6964D1696FAB0E456": "황금색",
@@ -1013,9 +997,7 @@
     "F0737F4E40417749A441A59843B932F0": "그레이브야드 보이저",
     "0B5C62D0400E95930AEE12B1D2116EE2": "초록색",
     "5D14C5F74CA277758C0476AA504D7CEA": "그로토",
-    "2F8E1CA74ECE10A40A6200AFCA9AB2C8": "단체로 총격전을 벌여 다른 스쿼드보다 오래 살아남으면 승리합니다!",
     "331DB866438F7C72234C5B8338CC44A0": "단체로 총격전을 벌여 다른 스쿼드보다 오래 살아남으면 승리합니다!",
-    "708C85D2416421620CD59FA2E2C10C81": "단체로 총격전을 벌여 다른 스쿼드보다 오래 살아남으면 승리합니다!",
     "99E9D5F34DC01FC6B8774DB154EAC42E": "총기 돌격소총 기관총 소형탄환 자동",
     "BD171E23474EFDCBD7F02C9D974BF923": "총기 돌격소총 기관총 소형탄환 자동",
     "28BB4D024C130854E71CF4A22D80FF5B": "총 기관총 ",
@@ -1155,17 +1137,9 @@
     "41D131AC42BE610B50BC2B8699CE69F4": "안전하게 착륙하고 <Emphasized>훨씬 더 높이 뛰어오르기</>",
     "63037FB94900FB1564D17B8D3B141318_Option 00": "착륙 경로 막힘",
     "5B11769D4F71D4885B2B89B1D6C94BDE": "라스 도전",
-    "43C636AD4055E070A1814FAD8B09AC1A": "마지막까지 살아남은 듀오가 승리",
-    "467E016E45A42621B5E9E0AB3EF7406C": "마지막까지 살아남은 듀오가 승리",
     "4D5F2A8D4C21C8D7E5939D8FA4E9B799": "마지막 생존 듀오 팀 승리",
-    "6F9C1DE3404CC98D7B61CC8FAB998751": "마지막까지 살아남은 자가 승리합니다",
     "C21BFCC843ECBDD4244B80BC06CC68DC": "마지막 생존자 승리",
-    "0EAF945F4D112289133FCAAE8A04FEAC": "마지막까지 살아남은 스쿼드가 승리합니다",
-    "16A8295D47A2161AF8459C931E0D6428": "마지막 생존 스쿼드 승리",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "마지막 생존 스쿼드 승리",
-    "A7EBE5AD488F015454C9ABA73187CDA2": "마지막까지 살아남은 스쿼드가 승리합니다",
-    "1BAC988D4BE8BF136AF726B7914DBB8E": "마지막까지 살아남은 트리오가 승리합니다",
-    "593710F041FC73B14B768D805A261803": "마지막까지 살아남은 트리오가 승리합니다",
     "0E7DAF39462A8FDB208B1B94A8372C42": "하늘을 가로질러 높이 날아오르세요. 재사용 대기시간이 적용됩니다.",
     "203048A346124F2326AE7489CF3CF605": "하늘을 가로질러 높이 날아오르세요. 다시 활성화하여 즉시 작동 중단할 수 있습니다.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "하늘을 가로질러 높이 날아오르세요. 다시 활성화하여 즉시 작동 중단할 수 있습니다.",
@@ -1183,7 +1157,7 @@
     "3DA57402427AD07E9EEF1182BFB26A44": "왼쪽 꼬리",
     "EF98507D4A9602DC9B4316BE1ED0C7B8": "왼쪽 날개",
     "EF22E85B49A871DF9C133DA1F84B3900": "레고 테마 게임(JunoTG)",
-    "84C3BBA14C6CFD722047408811DD825B": "레고 테마 게임 공유(LFNTG)",
+    "84C3BBA14C6CFD722047408811DD825B": "레고 테마 게임 공유(LFN)",
     "FDA97C5F4842CB9AE5195393C8759F84": "레고 테마 미니멀(JunoTM)",
     "0F93E33949F18F9AC630988B1779501D": "길이",
     "55D9779A456076ABC653E4AF1DA4E4E8": "시야",
@@ -1343,10 +1317,6 @@
     "8053EDE044FBF1265F6B1DBCEB781AED": "배틀번들 구매 옵션 토큰 없음",
     "CBAC2A8245779FCB3C9F6B81D1A31342": "배틀번들 구매 옵션 토큰 없음",
     "E261C67141F14F9652FD0C93C404E058": "배틀번들 구매 옵션 토큰 없음",
-    "728166DF40860F5361F4A19937CC172B": "건설 없음",
-    "7FDF8EB848546CA80CCFB5BD469609D5": "건설 없음",
-    "8D361C9548DC46AF05FC699F7DDF362C": "건설 없음",
-    "B693137D453A34B460A400B2C9BC9FAA": "건설 없음",
     "74B0959E4E4A1C023C8183802DA98EBB": "클래스 없음",
     "DEFB1E9148E435E13EC57EB6E1D449C3": "연료 부족",
     "CDE7CA5C45B5B95F9B59029D105CE8E7": "연료 부족!",
@@ -1394,19 +1364,13 @@
     "516CA75D4CF5403A2F82BF838CD51DB7": "만료된 모듈과 부모",
     "6EB89D324C5E00500994CD96A83D5A72": "만료된 모듈과 부모",
     "239C56EB4D132A667FA6FBB4C3EC025D": "의상",
-    "8B6494CE4E4559C92AE9EA80CA6ABD64": "적보다 오래 생존",
     "4A9589F34AB5E10379942BBC15BC2F21": "과도한 준비",
-    "3F71CF134C5611AE2678858EB2829609": "외장 보호막",
-    "4AE6D7A04B229CC91981D08C0DFA5F10": "외장 보호막",
-    "8135E537499366CB0A97F1BB0B160E72": "외장 보호막",
-    "AB53E3BE4B82E5EF8ED1158F423278B4": "외장 보호막",
     "0399733A45284122D4FA1A91F1B55A7A": "오버타임 도전 완료 토큰",
     "23E4AD8040BD27B12F54D592B136B741": "오버타임 도전 완료 토큰",
     "60E8BD514CA49B8427DE5E968D50D6D0": "오버타임 도전 완료 토큰",
     "B6C570664C3322374D227E9C64E5CE53": "오버타임 도전 완료 토큰",
     "86A84DD84459F5837773B3BF3ECA2AAB": "파워 스톤",
     "C3DD25E14510FC9EE31B5DA2464BB43A": "친구와 듀오를 맺고 다른 플레이어들을 처치해 보세요!",
-    "F53B296340C59B61E7F25CAD2D099037": "친구와 듀오를 맺고 다른 플레이어들을 처치해 보세요!",
     "666DA32449CF40B24E7D1EAC0965A360": "반 물고기",
     "043E58CA40A0C7DFC66382B49649CBDE": "파티클",
     "B9016A7C440D95DEF4D8E0B4B607A19F": "파티클",
@@ -1417,12 +1381,7 @@
     "42BE8AEA47AC24A46AC90FBAC18CF477": "개인 XP 부스트",
     "9A0379234914781523C92E86524D9CAE": "개인 XP 부스트",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "착륙 지점을 정하고 장비를 찾으세요.",
-    "64AD0DDF44CE2F5CAC01138692B7D3F8": "착륙 지점을 정하고 장비를 찾으세요.",
     "69143D2545BB22E7C1E85180E84956D6": "착륙 지점을 정하고 장비를 찾으세요.",
-    "7628F96349992B405AC53AA1794F0549": "착륙 지점을 정하고 장비를 찾으세요.",
-    "83442C93431D30D525941EB7558D1E4F": "착륙 지점을 정하고 장비를 찾으세요.",
-    "BB6F8C82403A7CEE42B60FBC587FA422": "착륙 지점을 정하고 장비를 찾으세요.",
-    "BFE554FE4DB039079E95F6981704E2E8": "착륙 지점을 정하고 장비를 찾으세요.",
     "EDCBC677446BC5F213863580F3C0A3B5": "착륙 지점을 정하고 장비를 찾으세요.",
     "B3CFEDE943AA56C0AEE82CA08F806463": "줍기",
     "7240B5BC46A81D296CBCA080DF98ECB7": "곡괭이 달리기",
@@ -1490,21 +1449,12 @@
     "43088BA143F2B6BCAEE378847172BE8C": "쿼드크래셔",
     "CC13E7A44B19B6541560D085C426791D": "쿼드크래셔",
     "393E9456499B520AC90D5E8597A7D23D": "<Emphasized>마지막 탄환 5발</>이 <Emphasized>주는 피해가 증가</>하는 조용한 기관단총",
-    "AEBB89F442C1D29C9277D5A10B1CFC71": "퀸트",
     "43E272F8443991243556F0AB98EC9BBE": "리얼리티 스톤",
     "2A5097B944627605414956BB8AE4337B": "랜덤",
     "318128844F99D44E7F5C91B8F5457418": "랜덤 생성",
     "AE030E304F5F9780D063B09D3B1D7C72": "원거리 활",
     "E6EE95714DC76EF72E9B299D4F14A675": "원거리 활 폭발활",
     "1CBC3F3747EECA210049B99100CF9AFC": "원거리 무기",
-    "5DE047C24F180A1105DC75A6DB8EC0C6": "랭크 배틀로얄",
-    "6C8E638B41A592AB4E8BE4ACA038C392": "랭크 배틀로얄",
-    "8733662A43E19880D8477ABC0873E06A": "랭크 배틀로얄",
-    "C0A48EEE420D2792EFEABCA23363F93A": "랭크 배틀로얄",
-    "110AC5424A9CD65F8616369A58BB9FDC": "랭크 빌드 제로",
-    "3CCF81374E0A4E25BDF11EA663A201F6": "랭크 빌드 제로",
-    "8B38F7F24917A62647A50E9DC658AEE3": "랭크 빌드 제로",
-    "B40A36024BBE098C75EEDE9D276FE71C": "랭크 빌드 제로",
     "139A99CB4D3883CEA2F066BBA59EBD58": "속사 기관단총",
     "FD23E7C946966E8E24F1ADA1EDA51CB1": "속사 기관단총 +",
     "BA4B1FDD40153AE8C9FC76ACC646E32C": "<Emphasized>탄창 크기가</>가 증가한 속사 기관단총",
@@ -1515,10 +1465,6 @@
     "1C77EAFB46C48299170B7486AEFB6294": "주홍색",
     "7125E4704BEA318C6BD3D69B5893D080": "정제된 제작 재료입니다. 다른 재료를 사용해서 만들 수 있으며 보통 상자에서 발견됩니다.",
     "16DA40C14B2BC801935504956E31A9C9": "수영할 때 <Emphasized>체력</> 회복",
-    "6008627544CF6105EF4D3A9CD30C8BF8": "재생 가능한 외장 보호막이 주어졌으니, 잘 이용해 계속 싸우세요.",
-    "69CD0F42427AF85EEB8A0F945648347A": "재생 가능한 외장 보호막이 주어졌으니, 잘 이용해 계속 싸우세요.",
-    "AECBC7014762FC24FC1F79AFF9C303CC": "재생 가능한 외장 보호막이 주어졌으니, 잘 이용해 계속 싸우세요.",
-    "BC225CF147155267909DD59C79265F16": "재생 가능한 외장 보호막이 주어졌으니, 잘 이용해 계속 싸우세요.",
     "D956F3B24B85A136EDFF7681AD74FB8C": "되찾은 활기",
     "4DA1684D402A000482C5E196DBAEEA57": "레메디(톡신)",
     "693438894A15790A4E7560A0E307A499": "레메디(톡신)",
@@ -1633,7 +1579,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "보호막 흡수",
     "4F611C954A5378BFC1804C96BB3981FE": "보호막 시너지",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "방패 던지기",
-    "6FE5EF624909BEBF19A4F7A143733F40": "함포",
     "D48B88DA4EC76F3203A964A55E4C04E7": "함포",
     "85A285654B56001B52E9ABBC806822EB": "충격파 기능성 도구",
     "8E57565847BBBCA8EE6AD38208D056E1": "충격파 수류탄 +",
@@ -1664,9 +1609,7 @@
     "D8644E6D483F77ABE1E733885BCCC6FD": "눈사람 유틸리티아이템",
     "F24F341641A4FA3F48ABCB8574D8C08C": "소셜",
     "6975749C41271746F89557A170BC3440": "솔로",
-    "69E4B37A43B5B8D5B463D1804DB44BCF": "솔로",
     "9D386B354AC0CE9DF6302EA26A39F514": "솔로",
-    "E9EA6DC14E2DD703707893A0982B28C3": "솔로",
     "F8FC74A04B95B293F430E9820F119697": "솔로",
     "0784C09346B728C02D1AF5902E492822": "스파크 시즌 패스",
     "DAC933A8407FB35BAB93D480EBADA7CA": "Sparks 스포트라이트 템플릿",
@@ -1700,8 +1643,6 @@
     "6081D89D44C1A4CA364179BC95D47978": "재장전 속도",
     "CD5B0A744223502F67BABD81B1230D5D": "스프레이",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG(테마 게임)",
-    "032AE3DE426C6820537F9A913730E19E": "스쿼드",
-    "7035BEE948A0E8CC30E4DC95823D5A21": "스쿼드",
     "E9F2A9B74636BB7610FE8E8BD075580C": "스쿼드",
     "459B35F94D969E08A4D1109E18B98C2F": "표준 <Emphasized>근접</> 무기",
     "81F9D4414FEA2CB4DD2813A6E08CB98B": "표준 <Emphasized>장거리</> 무기",
@@ -1732,12 +1673,7 @@
     "F9C7F25943011FD6980D4D8B1A29C757": "스타터 기술",
     "4F03368E4610C163685D4B821835E30D": "게임 시작",
     "DF374A4C4B641289F968258B7494F90E": "<Emphasized>공중에 머무르는 시간</> 증가",
-    "0611FAA245AF688EFA1D3ABAF88BF0F1": "폭풍의 눈 안에 있으세요",
-    "2F214E7F48E66EFE1C115C8F7E2E595C": "폭풍의 눈 안에 있으세요",
     "404A7F8F45CCEA3AC57992A9D25A2D4A": "폭풍의 눈 안에 머물기",
-    "67EBCAF44A10423717EA0E9DF0B11170": "폭풍의 눈 안에 있으세요",
-    "6C0CBF054F0F23BA941ABCA75F405034": "폭풍의 눈 안에 있으세요",
-    "A07147014E36B1D243DF9C89E25878E3": "폭풍의 눈 안에 있으세요",
     "BD933A0A4D2108A6FF3D948E3CD2DBD4": "폭풍의 눈 안에 머물기",
     "E5B8A51D416E77718A746EB15445A3B2": "폭풍의 눈 안에 머물기",
     "749E72FD4C3CC3C5F34EBF91EF87C060": "캐넌 조종",
@@ -1781,7 +1717,6 @@
     "01AC17C945E9F716F2DE30AD21D419D4": "소음기 장착 저격소총 +",
     "B32EDD8A45D40C18A0F6F497FAEADAE2": "<Emphasized>열감지 조준경</>이 장착된 소음기 장착 저격소총",
     "CBC05E714B87E7BE8B6FC596A6097237": "소음기 장착 기관단총",
-    "00CA308D460DBD1D0DBF3BA35E0368E5": "마지막까지 살아남아 빅토리 로얄을 달성하세요!",
     "DDDAFD77445379EE9BAF399713A063D6": "생존자",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "수영 <Emphasized>속도 증가</>",
     "E928E3A54C017ABB67564BB0EE06B190": "프로필 전환",
@@ -1872,17 +1807,9 @@
     "E415969B4BAAA6B59B6BFF9CAE728F5D": "도주 도전 완료 토큰",
     "611AA9CD49A134C1CF4EF793A0DCAD73": "더블록",
     "57698C274195DFFFFFF44CB43FCB651F": "수영 치료",
-    "2F83EE994C53BADD8F87BCAE2EBE4071": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
     "3961708B410A75AE04191ABCAD93E9F0": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
-    "58196919412BCB1D74783E8E981D2BBE": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
-    "6C225C9D49F86E1E30DCC3A701B26E56": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
-    "6C7119CA44F1ED5685A324B982ED8276": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
     "900A843C489A158D9D7014B7688759B3": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
-    "A29937E74B5530D54A09F291E771AB54": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
     "DBD8EB9C418D8B3F612D7091AB3132F5": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
-    "EADE4BDA4E918BF507B81B84222A950C": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
-    "ED03D0BC43A54D93E88728A02C17352F": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
-    "EF85CDE6446B65421F3064A152A6DAE1": "오직 한 명 또는 한 팀의 생존자만이 승리의 주인공이 됩니다.",
     "9668C00D43496C901D756E874556A4B7": "이 코드로 포트나이트 모바일 iOS 이벤트를 즐길 수 있습니다. ",
     "2291CAD9430769CC73D99D9B54DE8C4B": "이 프리미엄 계정은 엑스레이 라마 대신 V-Bucks를 얻을 수 있습니다.",
     "03DCCA2140EB4E06D8B69FB8CFE78A1B": "던지기",
@@ -1934,8 +1861,6 @@
     "EA08EDDB48C12586ECDF1589AB5C989C": "트레일 색상 업그레이드",
     "06B8D6624AAC122415F9C0BFABD33BD4": "훈련 봇",
     "D71A7E704422BDFE7934EF8C6574DFAA": "침입자",
-    "0BE26EA94B6DAE3CA1DE029A8BFF93DE": "트리오",
-    "B8B7A46843A2FC0715BD8A924EC6B145": "트리오",
     "E907B282416949BFACC17482A8283EE7": "믿음직스러운 쌍권총",
     "E4621E044AA0247AA73F99BB8EB8D845": "믿음직스러운 헤드헌터",
     "AFCC8C60409A488FEF95B1920178638A": "믿음직스러운 탄창",
@@ -2036,10 +1961,6 @@
     "CD4BED3D497056ACDDF697B2A1CED907": "업데이트 예정 퀘스트 토큰",
     "FBD7D9E444205DDD378D8381B49848B1": "플레이어 기다리는 중",
     "A3594BE3426BC422F96680B9F1815D84": "와사비 퀘스트 토큰",
-    "4406E6154F9246CE4482DCB93FF91A0B": "발밑을 조심하고 엄폐물을 활용해 건설 없이 그라운드 워에서 승리하세요.",
-    "DA9EF0A9444088E1157495BE637A0B4E": "발밑을 조심하고 엄폐물을 활용해 건설 없이 그라운드 워에서 승리하세요.",
-    "E1927EF245666D50E41FBD832EB57A44": "발밑을 조심하고 엄폐물을 활용해 건설 없이 그라운드 워에서 승리하세요.",
-    "F75E7A144FF0A719B84A21893B2A8537": "발밑을 조심하고 엄폐물을 활용해 건설 없이 그라운드 워에서 승리하세요.",
     "1FA31AFC497191C5AD7467BFC4E8E6C7": "충분한 휴식의 부스터",
     "583601D34A4FAC568666FE8DFE288DFB": "충분한 휴식의 부스터",
     "1FD4C33549D3B93FF40EA9953E97F5CE": "처치당할 시 송신",
@@ -2058,7 +1979,6 @@
     "E710C08E4E5C70FF8A286CB6EA101B4F": "비컨과 HUD 구성요소 중 하나만 표시할지, 둘 다 표시할지 설정합니다.",
     "D3A54EAE40408580269CF39BCCA37888": "흰색",
     "195F2EE048C26E190C845691145D6CF6": "너비",
-    "8B36050244257ED13DABA5BB06C9381C": "서부 개척 시대",
     "9BD108A54CA8FA397E1DBD95E37958BB": "겨울축제 도전 완료 토큰",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "겨울축제 열쇠",
     "194B94D745612B291C0C0CAC0487B727": "마녀의 빗자루",
@@ -2241,6 +2161,11 @@
   },
   "AntiCheat": {
     "ClientErrorMessage": "{provider} 오류: {message}\n\n{provider}의 FAQ에서 자세한 정보를 확인하세요."
+  },
+  "ArcadeVolley": {
+    "PlayerWinsFmt": "플레이어 {0} 승리!  눌러서 다시 시작",
+    "PressToServe": "눌러서 서브",
+    "PressToStart": "눌러서 시작"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "빗나감"
@@ -2520,7 +2445,7 @@
     "RecipientLoading": "불러오는 중...",
     "NoSelection": "선물할 친구를 선택하세요",
     "NoDailyGiftRemaining": "남은 일일 선물하기 횟수가 없습니다.\n내일 다시 시도해 주세요",
-    "DailyGiftsRemaining": "남은 일일 선물 수: {0}/{1}",
+    "DailyGiftsRemaining": "오늘 남은 선물 횟수: {0}/{1}",
     "PercentOffFormat": "{0} 할인",
     "PercentOnFormat": "{0} 할인",
     "AmountOffFormat": "{0} V-Bucks 할인",
@@ -2839,6 +2764,11 @@
     "FortAnimGraphNode_BlendFacialCurves": "애니메이션|커브",
     "FortAnimGraphNode_BlendFacialCurves_Title": "페이셜 커브 블렌드",
     "FortAnimGraphNode_BlendFacialCurves_Tooltip": "선택한 프리셋 기반 커스텀 방식으로 2개 입력의 페이셜 커브 블렌드"
+  },
+  "BoostBall": {
+    "HighScoreFormat": "고득점: {0}",
+    "ResultFormat": "{0} - {1}",
+    "ScoreFormat": "{0} - {1}"
   },
   "BootToFrontend_LowMemoryFallbackStrategy": {
     "Juno_BootToFrontEndMessage": "메모리가 임계치에 도달해서 세션이 종료되었습니다.\r\n다시 시도해보세요!"
@@ -3544,6 +3474,21 @@
     "EmptyRecentsTabSubtitle": "최근 플레이한 섬이 이곳에 표시됩니다. 새로운 것을 발견해 보세요.",
     "EmptyFollowingTabTitle": "아직 볼 게 없습니다!",
     "EmptyRecentsTabTitle": "플레이할 준비가 되셨나요?"
+  },
+  "DiscoveryGenreLabel": {
+    "DiscoveryGenreLabel_AdventureRPG": "어드벤처 및 RPG",
+    "DiscoveryGenreLabel_BattleRoyale": "배틀로얄",
+    "DiscoveryGenreLabel_DeathrunPlatformer": "데스런 및 플랫포머",
+    "DiscoveryGenreLabel_Horror": "공포",
+    "DiscoveryGenreLabel_MusicRhythm": "음악 및 리듬",
+    "DiscoveryGenreLabel_PartyMiniGames": "파티 및 미니 게임",
+    "DiscoveryGenreLabel_Roguelike": "로그라이크",
+    "DiscoveryGenreLabel_RoleplayingSocial": "롤플레잉 및 소셜",
+    "DiscoveryGenreLabel_Shooter": "슈팅",
+    "DiscoveryGenreLabel_SimulationTycoon": "시뮬레이션 및 타이쿤",
+    "DiscoveryGenreLabel_SportsRacing": "스포츠 및 레이싱",
+    "DiscoveryGenreLabel_Strategy": "전략",
+    "DiscoveryGenreLabel_Survival": "서바이벌"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -5012,11 +4957,14 @@
     "RefBoneAxisTooltip": "캐릭터가 똑바로 서 있을 때 컴포넌트 공간에서 '앞'과 '위'를 가리키는 레퍼런스 본의 트랜스폼 축을 선택합니다. 디폴트는 골반의 일반적인 방향으로 설정됩니다.",
     "StateNameToolTipText": "상태 이름 - 편집하려면 더블 클릭하세요.",
     "StateNames": "상태이름",
+    "OrientationTypeLabel": "타입",
     "UpLabel": "위",
     "WeightAngularVelocityMapping": "가중치 각 속도 매핑",
     "WeightLinearVelocityMapping": "가중치 선형 속도 매핑",
+    "WeightOrientationMapping": "가중치 방향 매핑",
     "WeightAngularVelocityMappingTooltip": "가중치는 지정된 범위 내에서 각 속도의 선택한 컴포넌트에 따라 조절됩니다(선택한 속도 컴포넌트가 범위의 최솟값 이하이면 가중치가 0, 최댓값 이상이면 가중치가 1).",
     "WeightLinearVelocityMappingTooltip": "가중치는 지정된 범위 내에서 선형 속도의 선택한 컴포넌트에 따라 조절됩니다(선택한 속도 컴포넌트가 범위의 최솟값 이하이면 가중치가 0, 최댓값 이상이면 가중치가 1).",
+    "WeightOrientationMappingTooltip": "가중치는 선택한 방향 타입에 따라 지정한 범위에서 스케일링됩니다.",
     "BlueprintPropertiesRowText": "vvv 블루프린트 프로퍼티 vvv",
     "NativePropertiesRowText": "vvv 네이티브 프로퍼티 vvv"
   },
@@ -5375,7 +5323,7 @@
   "FortItemShopOfferFilter": {
     "BundlesFilterSectionDisplayName": "번들즈",
     "GameCompatibilityOptionLabelFormat": "{0} 호환 아이템",
-    "OwnershipOptionLabel": "미소유 아이템"
+    "OwnershipOptionLabel": "미보유 아이템"
   },
   "FortItemShopOfferVM": {
     "AsteriskForLegalText": "*",
@@ -5391,6 +5339,7 @@
     "FreePrice": "무료",
     "LegoKitOfferDescription": "레고® 키트",
     "LeavingToday": "오늘 판매 종료",
+    "LimitedTimeOfferLegalText": "기간 한정 판매",
     "PegiMusicWarning": "PEGI 이용등급을 받지 않은 음악 다운로드 - www.pegi.info",
     "OutfitPackDescription": "의상 팩",
     "PackDescription": "팩",
@@ -5614,6 +5563,9 @@
     "Game": "게임",
     "TeamScoreboardNameFormat": "{0} 팀",
     "JoinInProgressTooLate": "참가하려는 게임이 이미 종료되었습니다."
+  },
+  "FortMinigamePersistence": {
+    "PersistenceUnavailable": "이 섬에서는 진행도 저장이 지원되지 않습니다. 지금은 참가할 수 없습니다. 나중에 다시 시도해 주세요."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "보상:",
@@ -7344,7 +7296,6 @@
     "MouseZoomScaling_Legacy": "레거시",
     "LegacyControllerOptionsCollection_Name": "기존 조작법",
     "LegacyControlsEnabled": "기존 설정 활성화",
-    "RenderingModePerformanceLegacy": "레거시 퍼포먼스 (지원 중단)",
     "LegalCollection_Name": "법률",
     "LegalInformation_Name": "법률 정보",
     "LicensedAudioTreatment_Name": "저작권 오디오",
@@ -7706,16 +7657,11 @@
     "MobileFPSType_Description": "원하는 프레임 속도를 설정합니다. 이를 사용하여 기기의 게임 성능을 세밀하게 조정할 수 있습니다. 메뉴의 최대 FPS는 30FPS입니다.",
     "HybridMouseControlMode_Description": "마우스 조작에 사용할 Joy‑Con 2를 선택합니다.\n참고: 마우스 조작은 일부 경험에서만 활성화됩니다!",
     "TouchInteractMode_Description": "터치 상호작용 모드를 선택합니다.\n\n<strong>끄기</>: 터치 상호작용을 사용하지 않습니다.",
-    "RenderingModeNoDX11_Description": "사용할 로우 레벨 렌더링 모드를 선택합니다.\n\n나나이트, 루멘, 하드웨어 레이 트레이싱 등 비주얼 퀄리티를 향상하는 고성능 렌더링 기능을 활성화하려면 DirectX 12가 필요합니다.\n\n퍼포먼스 모드는 메모리 사용량을 줄이고 CPU와 GPU의 부하를 줄이기 위해 대부분의 렌더링 기능을 비활성화하여 상당한 성능 향상을 제공하는 모드입니다. 퍼포먼스 모드 역시 DirectX 12를 사용합니다.\n\n레거시 퍼포먼스(지원 중단됨)는 퍼포먼스 모드와 같지만 DirectX 11을 사용합니다.",
     "RenderingMode_TwoModeDescription": "사용할 로우 레벨 렌더링 모드를 선택합니다.\n\n나나이트, 루멘, 하드웨어 레이 트레이싱 등 비주얼 퀄리티를 향상하는 고성능 렌더링 기능을 활성화하려면 DirectX 12가 필요합니다.\n\n퍼포먼스 모드는 메모리 사용량을 줄이고 CPU와 GPU의 부하를 줄이기 위해 대부분의 렌더링 기능을 비활성화하여 상당한 성능 향상을 제공하는 모드입니다. 가능한 경우 DirectX 12를 사용하고, 그렇지 않은 경우 DirectX 11을 사용합니다.",
     "FortReleaseVersion_Description": "활성화된 기능을 결정하는 데 사용할 릴리스 버전(예: 15.20, 15.30, 16.00 등)을 선택합니다.",
-    "MatchmakingRegion_Description": "원하는 연결 서버를 선택합니다. 서버가 사용자의 위치에서 가까울수록 연결 상태가 더 좋습니다. '자동'을 선택하면 최상의 연결 상태를 제공하는 서버가 선택됩니다.",
-    "MatchmakingRegion_Description_PS4": "원하는 연결 서버를 선택합니다. 서버가 사용자의 위치에서 가까울수록 연결 상태가 더 좋습니다. '자동'을 선택하면 최상의 연결 상태를 제공하는 서버가 선택됩니다.",
-    "MatchmakingRegion_Description_PS5": "원하는 연결 서버를 선택합니다. 서버가 사용자의 위치에서 가까울수록 연결 상태가 더 좋습니다. '자동'을 선택하면 최상의 연결 상태를 제공하는 서버가 선택됩니다.",
-    "MatchmakingRegion_Description_Switch": "원하는 연결 서버를 선택합니다. 서버가 사용자의 위치에서 가까울수록 연결 상태가 더 좋습니다. '자동'을 선택하면 최상의 연결 상태를 제공하는 서버가 선택됩니다.",
-    "MatchmakingRegion_Description_Switch2": "원하는 연결 서버를 선택합니다. 서버가 사용자의 위치에서 가까울수록 연결 상태가 더 좋습니다. '자동'을 선택하면 최상의 연결 상태를 제공하는 서버가 선택됩니다.",
-    "MatchmakingRegion_Description_XB1": "원하는 연결 서버를 선택합니다. 서버가 사용자의 위치에서 가까울수록 연결 상태가 더 좋습니다. '자동'을 선택하면 최상의 연결 상태를 제공하는 서버가 선택됩니다.",
-    "MatchmakingRegion_Description_XSX": "원하는 연결 서버를 선택합니다. 서버가 사용자의 위치에서 가까울수록 연결 상태가 더 좋습니다. '자동'을 선택하면 최상의 연결 상태를 제공하는 서버가 선택됩니다.",
+    "MatchmakingRegion_Description_V2": "매치메이킹 지역을 선택합니다. 자동은 최상의 경험을 제공하도록 설계되었습니다. 표시된 핑 범위는 추정치입니다. 게임 내 핑은 매치와 경험에 따라 달라질 수 있습니다.",
+    "MatchmakingSubregion_Description": "선호하는 매치메이킹 하위 지역을 선택합니다. 매치메이킹 시 선택한 설정을 우선하지만 해당 지역 배치가 보장되지는 않습니다. 자동은 최상의 경험을 제공하도록 설계되었습니다. 하위 지역을 선택하면 대기 시간이 늘어나고 매치의 공정성이 떨어질 수 있습니다. 표시된 핑은 추정치입니다. 게임 내 핑은 매치와 경험에 따라 달라질 수 있습니다.",
+    "CompetitiveRegion_Description": "토너먼트 지역을 선택합니다. 이 설정은 매치메이킹 지역에 토너먼트 지역이 2개 이상 있을 때만 표시됩니다.",
     "BasicSensitivityCollection_Name": "감도",
     "GyroV2Sensitivity_Name": "감도",
     "SafeZone_Action": "안전 구역 설정",
@@ -7847,6 +7793,7 @@
     "StopRenderingInBackground_Name": "배경 렌더링 중단",
     "StopRenderingInBackground_Description": "가능한 경우, 게임 화면이 포커싱되어 있지 않을 때 렌더링을 중단합니다. 다른 애플리케이션을 위해 GPU 리소스를 납겨둡니다.",
     "KeyboardMovementStrafeDiagonal_Name": "옆걸음 각도",
+    "MatchmakingSubregion_Name": "하위 지역 선호 설정",
     "SubtitlePage_Name": "자막",
     "SubtitlesCollection_Name": "자막",
     "Subtitles_Name": "자막",
@@ -7977,6 +7924,7 @@
     "TouchAndMotionCollection_Name": "터치 및 모션",
     "TouchpadCollection_Name": "터치패드",
     "EForceMaxTouchpadSensitivity_Name": "터치패드 감도 최대로",
+    "CompetitiveRegion_Name": "토너먼트 지역",
     "GyroButtonTrackball": "트랙 볼",
     "GyroTrackballDecay_Name": "트랙볼 감쇠",
     "AimAssistPullStrength_Name": "추적 조준 보정 강도",
@@ -8429,7 +8377,8 @@
     "Public": "공개"
   },
   "FortSettingValueDiscrete_Region": {
-    "RegionDisplayWithPing": "{RegionDisplayName} ({RegionPing}ms)"
+    "RegionDisplayWithPingRange": "{RegionDisplayName} ({MinimumPing}-{MaximumPing}ms)",
+    "RegionDisplayWithPing": "{RegionDisplayName} ({MinimumPing}ms)"
   },
   "FortSettingValueDiscrete_ReportPerfStats": {
     "Disabled": "사용 안 함",
@@ -8442,6 +8391,11 @@
   "FortSettingValueDiscrete_SocialBool": {
     "OFF": "끄기",
     "ON": "켜기"
+  },
+  "FortSettingValueDiscrete_Subregion": {
+    "AutoSubregion": "자동",
+    "SubregionPreferenceRequiresRegion": "자동은 최상의 경험을 제공하도록 설계되었습니다. 이 설정을 변경하려면 자동 이외의 매치메이킹 지역을 선택하세요.",
+    "SubregionDisplayWithPing": "{SubregionId} ({SubregionPing}ms)"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
     "VoiceChatMethod_Mute": "음소거",
@@ -8543,7 +8497,8 @@
     "GameVoiceChannelsDisplayNameSecondary": "기타 게임 멤버"
   },
   "FortSocialHeaderItemVM": {
-    "TeamMembersListDisplayName": "팀 멤버"
+    "TeamMembersListDisplayName": "팀 멤버",
+    "VerseVoiceMyChannelListDisplayName": "음성 채널"
   },
   "FortSocialInteractionMenu": {
     "InvalidInputFormat": "<text color=\"{0}\">유효하지 않음</>",
@@ -8646,7 +8601,8 @@
     "PlaystationFriendPlatformName": "PlayStation Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "음성 신고는 커뮤니티 규칙 위반 신고 내용을 더 효과적으로 검토할 수 있는 기능입니다.\n\n• 이 기능을 켜고 음성 채팅을 사용하면 각 참여자의 장치가 5분 단위로 음성 채팅 오디오를 저장했다가 참여자가 채팅 규정 위반을 신고한 경우에만 에픽게임즈로 보냅니다.\n\n• 18세 미만 플레이어는 음성 신고가 항상 켜져 있습니다.\n\n음성 채팅 설정에서 자세한 설명과 옵션을 확인하세요.",
     "VoiceChatVRR_Accept_O18_NewPlayer": "음성 신고는 커뮤니티 규칙 위반 신고 내용을 더 효과적으로 검토할 수 있는 기능입니다.\n\n• 이 기능을 켜고 음성 채팅을 사용하면 각 참여자의 장치가 5분 단위로 음성 채팅 오디오를 저장했다가 참여자가 채팅 규정 위반을 신고한 경우에만 에픽게임즈로 보냅니다.\n\n• 파티원 전원이 친구이며 모든 플레이어가 음성 신고 끄기를 선호하는 경우를 제외하고, 음성 신고는 대부분 켜져 있습니다.\n\n• 사이드바에서 현재 음성 신고 기능이 켜져 있는지 확인할 수 있습니다.\n\n음성 채팅 설정에서 자세한 설명과 옵션을 확인하세요.",
-    "XboxFriendPlatformName": "Xbox 네트워크"
+    "XboxFriendPlatformName": "Xbox 네트워크",
+    "FriendshipActionRateLimited": "짧은 시간 동안 너무 많은 행동을 했습니다. 나중에 다시 시도해 주세요"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "{timesince} 전 친구가 됨",
@@ -8746,7 +8702,7 @@
     "PlatformAuthErrorStateText": "포트나이트 크루를 구독한 플랫폼에 로그인하여 구독 보상을 받으세요",
     "InactiveSubscription": "크루 구독 필요",
     "RewardsDelayedErrorStateText": "보상 처리 중 오류가 발생했습니다. 나중에 다시 시도하거나, 문제가 계속된다면 지원센터에 문의해 주세요.",
-    "FutureUnlock": "포트나이트 크루를 <text color=\"FFFFFFFF\" fontface=\"black\">{MonthsRequired}개월 더 구독</>하면 잠금 해제됩니다",
+    "FutureUnlock": "포트나이트 크루를 <text color=\"FFFFFFFF\" fontface=\"black\">{MonthsRequired}개월 더 구독</>하면 해제됩니다",
     "UnlockDateFormat": "<text color=\"FFFFFFFF\" fontface=\"black\">{NextStageDate}</>에 잠금 해제",
     "PaymentProcessingErrorStateText": "현재 결제에 문제가 발생하여 보상이 일시적으로 보류 중입니다"
   },
@@ -8776,6 +8732,10 @@
     "Reevaluating": "재평가 중",
     "SittingOut": "매치 미참가 상태",
     "DownloadOnDemandProgress": "업데이트 중 ({0}%)"
+  },
+  "FortTextChatConversationVM": {
+    "PartyFrameworkUnavailable": "파티 프레임워크 이용 불가",
+    "SocialToolkitUnavailable": "소셜 툴키트 이용 불가"
   },
   "FortTextChatPlayerVM": {
     "RedactedUserBlocked": "<Blocked player>",
@@ -8894,7 +8854,6 @@
     "EpicPartyInviteDetailsSent": "<Username>{0}</> 님을 파티에 초대했습니다",
     "PartyInviteDetailsSent": "<Username>{0}</> 님을 파티에 초대했습니다",
     "EpicPartyJoinabilityChangedInviteOnlyDetails": "초대 전용 파티입니다",
-    "EpicPartyJoinabilityChangedOpenDetails": "파티에 참가할 수 있습니다",
     "EpicPartyJoinRequestReceived_Title": "파티 참가 요청",
     "EpicPartyMemberCreated": "플레이어가 파티에 참가했습니다.",
     "PartyMemberCreated": "플레이어가 파티에 참가했습니다.",
@@ -8918,7 +8877,9 @@
     "LocalPlayerEpicPartyPromotedToast": "파티장으로 임명되었습니다.",
     "RequestToJoinParty_RateLimited": "요청을 너무 많이 보냈습니다. 잠시 후 다시 시도해 주세요.",
     "FriendToastSelfTooManyFriends": "친구가 너무 많습니다.",
-    "FriendToastSelfOutboxFull": "보내신 친구 신청이 너무 많습니다."
+    "FriendToastSelfOutboxFull": "보내신 친구 신청이 너무 많습니다.",
+    "EpicPartyJoinabilityChangedOpenDetails": "이제 내 파티에 참가가 허용됩니다",
+    "NotifMgrForkMemberNoAccessToast": "{Username} 님은 선택한 포크에 액세스할 수 없습니다. 계속 진행하면 해당 포크를 무시합니다."
   },
   "FortUIStateWidget_Login": {
     "OfferRHIChangeForStability_Title": "랜더링 모드를 변경하시겠습니까?",
@@ -8926,7 +8887,6 @@
     "UpdateCheck": "업데이트 확인 중...",
     "ConnectionCheckText": "인터넷 연결 확인 중...",
     "TryingLonger": "계속 시도하는 중입니다.\n자세한 내용은 {CheckStatusURL}에서 확인할 수 있습니다.",
-    "OfferRHIChangeForStability_DX11": "DirectX 11",
     "FailedToLoadProfile": "프로필을 불러오지 못했습니다.",
     "RefreshingContent": "동적 콘텐츠 불러오는 중...",
     "FindBestSettings": "가장 적합한 설정을 찾으시겠습니까?",
@@ -8935,7 +8895,6 @@
     "LoggingIn": "로그인 중...",
     "NoInternet": "인터넷 연결을 찾을 수 없음",
     "OfferRHIChangeForStability_PerformanceMode": "퍼포먼스 모드",
-    "OfferRHIChangeForStability_FullDescriptionDX12PerfMode": "퍼포먼스 모드 사용 시 장치에 안정성 문제가 발생해 플레이 중 포트나이트가 충돌할 수 있습니다. 보다 안정적인 환경을 위해서 레거시 퍼포먼스 모드로 변경하시겠습니까? {OptionalAutoRestartText}",
     "NoInternetDesc": "인터넷 연결을 확인한 다음 다시 시도해보세요.",
     "QuitText": "종료",
     "Benchmark": "벤치마크 실시 중...",
@@ -9425,6 +9384,7 @@
     "Message.Unauthorized": "이 콘텐츠를 플레이할 권한이 없습니다.",
     "MfaRequiredForTournament": "이 토너먼트에 참가하기 위해서는 에픽 계정의 2단계 인증을 활성화해야 합니다. 2단계 인증 활성화하기:  {TurnOnMfaURL}",
     "WrongNumberOfEventPlayers": "이 토너먼트에 참가하려면 파티원들을 모아 파티를 형성해야 합니다.",
+    "MatchCapExceeded": "이 이벤트의 최대 매치 수에 모두 참가했습니다. 추가 정보와 예정된 이벤트는 경쟁 탭에서 확인하세요.",
     "Error.AccountLevelTooLow": "플레이어의 계정 레벨({0})이 플레이 최소 조건({1})을 충족하지 않습니다.",
     "Error.BRRankLevelTooLow": "플레이어의 현재 배틀로얄 랭크 레벨({0})이 다음 모드 플레이 최소 조건을 충족하지 않습니다: {1}.",
     "Error.BRRankLevelTooHigh": "플레이어의 현재 배틀로얄 랭크 레벨({0})이 이 토너먼트 플레이 최대 제한을 초과합니다. {1} 랭크 이하만 플레이할 수 있습니다.",
@@ -10900,6 +10860,7 @@
   "Matchmaking": {
     "PartyMemberDisconnect": "파티원 연결이 해제되었습니다.",
     "PartyMemberTimeout": "파티원이 연결하지 못했습니다.",
+    "MatchCapExceeded": "플레이어가 이 이벤트에 허용되는 최대 매치 수에 모두 참가했습니다.",
     "PartyTooBig": "등록하려는 파티원이 너무 많습니다."
   },
   "MatchmakingContext": {
@@ -11596,7 +11557,7 @@
     "Join_Num_Alive": "파티 참가 - 생존자 {PlayersAlive}명"
   },
   "PawnOptionRegistry": {
-    "AthenaCharacterDisplayName": "Athena 캐릭터"
+    "DefaultCharacterDisplayName": "기본 캐릭터"
   },
   "PersonaCharacterModifierDetailsCustomization": {
     "VoiceDefault": "기본"
@@ -11770,7 +11731,19 @@
     "UFortQuestCategory::Misc": "기타"
   },
   "QuestPanelDebugToolViewModel": {
+    "Placement_CategoryNotRegistered": "일치 태그를 선언했고 이 빌드에서 유효하지만, 등록된 적이 없습니다. 보통 타이밍 문제이므로, 카테고리를 다시 빌드하고 재확인하세요.",
+    "Placement_CategoryDisabled": "일치 태그를 선언했지만 bCategoryEnabled가 꺼져 있습니다. 환경설정을 통해 오버라이드할 수 있으므로 핫픽스로 설정할 수 있습니다.",
+    "Placement_CategorySunset": "일치 태그를 선언했지만 이 빌드에서 서비스 종료 상태입니다.",
+    "Placement_CategoryPluginUnavailable": "일치 태그를 선언했지만 해당 플러그인이 서비스 종료 상태입니다.",
+    "Placement_CategoryUnreleased": "일치 태그를 선언했지만 이후 빌드의 출시 버전입니다.",
+    "Placement_CategoryEventGated": "IncludeQuestTagsByEvent에서만 일치 태그를 선언했지만, 해당 이벤트가 활성 상태가 아닙니다.",
+    "Placement_CategorySuppressed": "매칭됐지만 콘텐츠가 숨겨져 있어, 콘텐츠를 가져오지 않으며 예비 항목을 거부합니다.",
+    "Placement_NoOrganizationTags": "매칭할 퀘스트 카테고리 태그가 없습니다.",
+    "Placement_CategoriesNotYetBuilt": "이 항목을 구성한 시점에 카테고리가 없었습니다. 다시 빌드하면 해결됩니다.",
+    "Placement_NoCategoryDeclaresTag": "어떤 카테고리에서도 이러한 태그나 이러한 태그의 상위 항목을 선언하지 않았습니다.",
     "Visibility_NoView": "이 퀘스트에 대한 뷰가 존재하지 않습니다.",
+    "Placement_FallbackUnavailable": "매칭된 항목이 없고 예비 항목을 사용할 수 없어, 이 콘텐츠는 어떤 카테고리에도 속하지 않습니다.",
+    "Placement_BundleSuppliedNoTags": "펀치 카드는 번들의 태그만 사용하지만, 이 번들에는 태그가 없습니다. 퀘스트의 자체의 태그를 읽지 않았습니다.",
     "VersionWarning_AssetSunset": "이 에셋은 현재 빌드에서 서비스가 종료되었으며 이용할 수 없습니다.",
     "VersionWarning_AssetUnreleased": "이 에셋은 현재 버전보다 추후 빌드에서 출시되며 쿠킹되지 않습니다.",
     "VersionWarning_PluginSunset": "이 플러그인은 현재 빌드에서 서비스가 종료되었으며 진행되지 않습니다.",
@@ -11948,6 +11921,9 @@
     "HasEnforcedSettingsU10Warning_Voice": "<strong>친구만</>은 10세 미만의 아동에게 가능한 최대 설정입니다. 더 높은 설정을 선택하더라도 자녀의 나이가 기준을 충족할 때 적용됩니다.",
     "HasEnforcedSettingsU13Warning_Text": "<strong>친구, 팀원 및 연결된 플레이어</>는 13세 미만의 아동에게 가능한 최대 설정입니다. <strong>모두</>를 선택하더라도 자녀의 나이가 기준을 충족할 때 적용됩니다.",
     "HasEnforcedSettingsU13Warning_Voice": "<strong>친구, 팀원 및 연결된 플레이어</>는 13세 미만의 아동에게 가능한 최대 설정입니다. <strong>모두</>를 선택하더라도 자녀의 나이가 기준을 충족할 때 적용됩니다."
+  },
+  "SimpleOfferVM": {
+    "OutDateFormat": "{Year}년 {Month}월 {Day}일 {Time}({TimeZone})에 종료"
   },
   "SnapEditorVisualizer": {
     "DeleteSnapEntries": "Delete Snap Entries",
@@ -12444,6 +12420,24 @@
     "Creative": "포크리",
     "Campaign": "세이브 더 월드"
   },
+  "SubregionNames": {
+    "BAH": "바레인",
+    "FR": "프랑스",
+    "DE": "독일",
+    "IA": "아이오와",
+    "IL": "이스라엘",
+    "MX": "멕시코",
+    "MUM": "뭄바이",
+    "NCAL": "북부 캘리포니아",
+    "OH": "오하이오",
+    "OR": "오리건",
+    "SYD": "시드니",
+    "SAO": "São Paulo",
+    "TX": "텍사스",
+    "TOK": "도쿄",
+    "GB": "영국",
+    "VA": "버지니아"
+  },
   "SupervisedSettingsManager": {
     "TimezoneDisplayFormat": "{0} {1} ({2})"
   },
@@ -12833,7 +12827,7 @@
   },
   "USeasonPassCategoryVMData": {
     "CategoryStatus_LockedCategoryFormat": "{CategoryName} 보상을 모두 획득해 개방하세요.",
-    "CategoryStatus_LockedRewardLevelFormat": "보상 {NumRewards}개를 더 획득하거나  {NumLevels}레벨을 달성해 개방",
+    "CategoryStatus_LockedRewardLevelFormat": "보상 {NumRewards}개 더 획득 또는  {NumLevels}레벨 달성 시 해제",
     "CategoryStatus_LockedUntilLevel": "{LevelRequired}레벨을 달성하여 이 세트를 개방하세요."
   },
   "USeasonPassElementBaseVMData": {
@@ -12843,8 +12837,8 @@
   "USeasonPassPageVMData": {
     "Status_LockedCategoryFormat": "{CategoryName} 보상을 모두 획득해 개방",
     "Status_LockedRewardFormat": "보상 {NumRewards}개 더 획득",
-    "Status_NoRewardsToClaimCostOneFormat": "레벨을 올려 추가 보상 획득",
-    "Status_NoRewardsToClaimFormat": "{Levels}레벨 더 올려 추가 보상 획득",
+    "Status_NoRewardsToClaimCostOneFormat": "레벨을 올려 추가 보상을 획득하세요",
+    "Status_NoRewardsToClaimFormat": "{Levels}레벨을 올려 추가 보상을 획득하세요",
     "Status_GoToCategoryForMoreRewards": "{CategoryName}에서 더 많은 보상 이용 가능",
     "Status_GoToNextPageForRewards": "{PageNumber}페이지에서 더 많은 보상 획득 가능",
     "Status_LockedLevelFormat": "또는 {NumLevels}레벨을 달성해 개방",

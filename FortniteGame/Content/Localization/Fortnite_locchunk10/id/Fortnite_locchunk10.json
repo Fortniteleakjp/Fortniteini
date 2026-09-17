@@ -539,8 +539,6 @@
     "0F27FEB645424A655938FBAA00966985": "Siap Bertarung",
     "06260D674B73C899F270E489FDED2318": "Battle Royale",
     "33B8A20040C39F11D774A2981F344253": "Battle Royale",
-    "922BA250460700D4A6C45A814459E9D4": "Battle Royale",
-    "A7F0D4E047323614E099CCB1616FC33D": "Battle Royale",
     "C403587B40DF25FCAA8E159AA3A7E558": "Battle Royale",
     "D3A984E042745DAD6F26E19C18103AD2": "Battle Royale",
     "61B644904C2939F994F877A526A4440B": "XP Kompendium Battle Royale",
@@ -562,7 +560,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "DX Tong-Besar",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Biplane",
     "5B5236944941BFD7DE82B8B05FE11D94": "Biplane",
-    "DF56207843F6244003548CA79CFAA0F4": "Biplane",
     "AD9DF9A2455C274907AE29971466ADBA": "Pedang",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Pedang",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Bling",
@@ -753,12 +750,7 @@
     "A160CCFF49521B32A8B8E3AB90408722": "Level Damage",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "Pendukung Tarian",
     "91DEE53D4336DA0C00BAD3ACA0899EE6": "Buat teman-temanmu terpukau dan senang.",
-    "2C01E2F5420CED5A207C7B98302305A4": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
-    "394C9BDD403D04CBB1203997013A98CD": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
-    "47699A1C400A37DC893F54B2FCD92877": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
     "527C4E4949B247E160807D920F92EEC9": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
-    "5CFC98A54A14E69002262F89F0182317": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
-    "722B1B4541B7FEDB0D5373A168D11B14": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
     "8E47673F4F3406EAA533BFA7D3BACDAB": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
     "F1454581430BDE167B62D384A23A7C96": "Awan mematikan sedang mendekat. Mata Badai akan mengecil saat badai menguat.",
     "F36292074E3360F745279784F74D8867": "Tembakan Mematikan",
@@ -823,23 +815,16 @@
     "F92A2BBA4871D636829900B0E138FA81": "Tantangan Dr. VinderBot",
     "BD6E914C471A66813327F2AEEA3867E7": "Kemudikan",
     "390597F64F2F483C06891FB95BA037D3": "Kemudikan Meriam",
-    "29FA05054578E0CC32DA89B13152C692": "Terjun & Bersiaplah",
-    "42C6A24F40F7DB9C0D26D48BF84C2F4C": "Terjun & Bersiaplah",
     "48DE963D48E224F0FA34B392EEBB04F3": "Terjun & Bersiaplah",
     "56EC010C4FABD0181556A3B06A38ACEB": "Terjun & Bersiaplah",
-    "7BC26EA54582F700E6B4988782BFF806": "Terjun & Bersiaplah",
     "831C33534BEC50A3D3E4E89E7C3170D4": "Terjun & Bersiaplah",
-    "9178141B40FE92B80982CC9FF69DADDF": "Terjun & Bersiaplah",
-    "E4AF6B474D830CD9D7A25B87E57E55C0": "Terjun & Bersiaplah",
     "EE09C0E54BBFE547ECCF628D1A0F3BFB": "Senapan Drum",
     "7B9C4CB74DFEE2C4B1C9D99CA6D70896": "Pistol Ganda",
     "CA9DCBF64B31242269823E88C10A74C0": "Pistol Ganda",
     "9DCEC44C423596A81B77438A15C90787": "Pistol Ganda: Semiotomatis.",
     "DD10E1F74B4C77102CCDAAA7B1258400": "Pistol Ganda: Semiotomatis.",
     "3EC1D4304108BC1102AD90BF1CC5DC39": "Lakban",
-    "045079474451066B165246804C89FDF4": "Duo",
     "1CAFE187418D13AB72E3F6A1A6F6DCCE": "Duo",
-    "F9ABF3514BADBE7C8DBD23A2B8E6DB1E": "Duo",
     "941BB5D943AB82F7E60130B929A1A071": "Durr Burger",
     "01558C734EDD8820D50C7B8065F7C617": "Dinamit",
     "5AC45AA249F4846D74DD779DD825D066": "Dinamit",
@@ -989,7 +974,6 @@
     "B66A963A4F1715DA7B033093DCCF9262": "Gantole",
     "2600DF544E09C9AC9E0EA69C95FBBA7C": "Pengerahan Ulang Gantole",
     "87E39EA04808B27EA30A908F811EF0FA": "Gantole",
-    "0CC212B74A4C538363B8A1AF4698DB27": "Bertarung sendirian untuk menjadi orang terakhir yang bertahan.",
     "3C063B974F09C8A673507CBE3ADDB71D": "Bertarung sendirian untuk menjadi orang terakhir yang bertahan.",
     "8BEC89B8499664826B111685672B4E29": "Bertarung sendirian untuk menjadi orang terakhir yang bertahan.",
     "B8C59B304999B1F6964D1696FAB0E456": "Emas",
@@ -1013,9 +997,7 @@
     "F0737F4E40417749A441A59843B932F0": "Voyager Kuburan",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Hijau",
     "5D14C5F74CA277758C0476AA504D7CEA": "Grotto",
-    "2F8E1CA74ECE10A40A6200AFCA9AB2C8": "Bentuk grup dan bertahan lebih lama dari skuad lain untuk meraih kemenangan.",
     "331DB866438F7C72234C5B8338CC44A0": "Bentuk grup dan bertahan lebih lama dari skuad lain untuk meraih kemenangan.",
-    "708C85D2416421620CD59FA2E2C10C81": "Bentuk grup dan bertahan lebih lama dari skuad lain untuk meraih kemenangan.",
     "99E9D5F34DC01FC6B8774DB154EAC42E": "Senjata Api Senapan Serbu Senapan Mesin PeluruRingan Otomatis",
     "BD171E23474EFDCBD7F02C9D974BF923": "Senjata Api Senapan Serbu Senapan Mesin PeluruRingan Otomatis",
     "28BB4D024C130854E71CF4A22D80FF5B": "Senapan Mesin Senjata Api ",
@@ -1155,17 +1137,9 @@
     "41D131AC42BE610B50BC2B8699CE69F4": "Mendarat dengan selamat dan <Emphasized>memantul lebih tinggi lagi</>",
     "63037FB94900FB1564D17B8D3B141318_Option 00": "Jalur mendarat terhalang",
     "5B11769D4F71D4885B2B89B1D6C94BDE": "Tantangan Lars",
-    "43C636AD4055E070A1814FAD8B09AC1A": "Duo yang Bertahan Terakhir Menang",
-    "467E016E45A42621B5E9E0AB3EF7406C": "Duo yang Bertahan Terakhir Menang",
     "4D5F2A8D4C21C8D7E5939D8FA4E9B799": "Duo yang Bertahan Terakhir Menang",
-    "6F9C1DE3404CC98D7B61CC8FAB998751": "Yang Bertahan Terakhir Menang",
     "C21BFCC843ECBDD4244B80BC06CC68DC": "Yang Bertahan Terakhir Menang",
-    "0EAF945F4D112289133FCAAE8A04FEAC": "Skuad yang Bertahan Terakhir Menang",
-    "16A8295D47A2161AF8459C931E0D6428": "Skuad yang Bertahan Terakhir Menang",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "Skuad yang Bertahan Terakhir Menang",
-    "A7EBE5AD488F015454C9ABA73187CDA2": "Skuad yang Bertahan Terakhir Menang",
-    "1BAC988D4BE8BF136AF726B7914DBB8E": "Trio yang Bertahan Terakhir Menang",
-    "593710F041FC73B14B768D805A261803": "Trio yang Bertahan Terakhir Menang",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Meluncur ke udara dan tertawalah di langit. Sedang cooldown.",
     "203048A346124F2326AE7489CF3CF605": "Meluncur ke udara dan tertawalah di langit. Aktifkan kembali untuk membatalkan lebih awal.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Meluncur ke udara dan tertawalah di langit. Aktifkan kembali untuk membatalkan lebih awal.",
@@ -1183,7 +1157,7 @@
     "3DA57402427AD07E9EEF1182BFB26A44": "Ekor Kiri",
     "EF98507D4A9602DC9B4316BE1ED0C7B8": "Sayap Kiri",
     "EF22E85B49A871DF9C133DA1F84B3900": "Game Tema Lego (JunoTG)",
-    "84C3BBA14C6CFD722047408811DD825B": "Lego Game Tema Bersama (LFNTG)",
+    "84C3BBA14C6CFD722047408811DD825B": "Lego Game Tema Bersama (LFN)",
     "FDA97C5F4842CB9AE5195393C8759F84": "Tema Lego Minimal (JunoTM)",
     "0F93E33949F18F9AC630988B1779501D": "Panjang",
     "55D9779A456076ABC653E4AF1DA4E4E8": "Garis Pandang",
@@ -1343,10 +1317,6 @@
     "8053EDE044FBF1265F6B1DBCEB781AED": "Token Opsi Pembelian Tanpa Battle Bundle",
     "CBAC2A8245779FCB3C9F6B81D1A31342": "Token Opsi Pembelian Tanpa Battle Bundle",
     "E261C67141F14F9652FD0C93C404E058": "Token Opsi Pembelian Tanpa Battle Bundle",
-    "728166DF40860F5361F4A19937CC172B": "Tak Perlu Membangun",
-    "7FDF8EB848546CA80CCFB5BD469609D5": "Tak Perlu Membangun",
-    "8D361C9548DC46AF05FC699F7DDF362C": "Tak Perlu Membangun",
-    "B693137D453A34B460A400B2C9BC9FAA": "Tak Perlu Membangun",
     "74B0959E4E4A1C023C8183802DA98EBB": "Tanpa Kelas",
     "DEFB1E9148E435E13EC57EB6E1D449C3": "Tidak Ada Bahan Bakar",
     "CDE7CA5C45B5B95F9B59029D105CE8E7": "Tidak Ada Bahan Bakar!",
@@ -1394,19 +1364,13 @@
     "516CA75D4CF5403A2F82BF838CD51DB7": "Modul dan Program Parenting yang Sudah Kedaluwarsa",
     "6EB89D324C5E00500994CD96A83D5A72": "Modul dan Program Parenting yang Sudah Kedaluwarsa",
     "239C56EB4D132A667FA6FBB4C3EC025D": "Kostum",
-    "8B6494CE4E4559C92AE9EA80CA6ABD64": "Bertahan Lebih Lama dari Lawanmu",
     "4A9589F34AB5E10379942BBC15BC2F21": "Terlalu Siap",
-    "3F71CF134C5611AE2678858EB2829609": "Perisai Tambahan",
-    "4AE6D7A04B229CC91981D08C0DFA5F10": "Perisai Tambahan",
-    "8135E537499366CB0A97F1BB0B160E72": "Perisai Tambahan",
-    "AB53E3BE4B82E5EF8ED1158F423278B4": "Perisai Tambahan",
     "0399733A45284122D4FA1A91F1B55A7A": "Token Penyelesaian Tantangan Overtime",
     "23E4AD8040BD27B12F54D592B136B741": "Token Penyelesaian Tantangan Overtime",
     "60E8BD514CA49B8427DE5E968D50D6D0": "Token Penyelesaian Tantangan Overtime",
     "B6C570664C3322374D227E9C64E5CE53": "Token Penyelesaian Tantangan Overtime",
     "86A84DD84459F5837773B3BF3ECA2AAB": "BATU KEKUATAN",
     "C3DD25E14510FC9EE31B5DA2464BB43A": "Bergabunglah dengan teman dan kalahkan semua pemain lain.",
-    "F53B296340C59B61E7F25CAD2D099037": "Bergabunglah dengan teman dan kalahkan semua pemain lain.",
     "666DA32449CF40B24E7D1EAC0965A360": "Ikan Suku Cadang",
     "043E58CA40A0C7DFC66382B49649CBDE": "Partikel",
     "B9016A7C440D95DEF4D8E0B4B607A19F": "Partikel",
@@ -1417,12 +1381,7 @@
     "42BE8AEA47AC24A46AC90FBAC18CF477": "Peningkatan XP Pribadi",
     "9A0379234914781523C92E86524D9CAE": "Peningkatan XP Pribadi",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "Pilih titik pendaratan dan cari perlengkapan.",
-    "64AD0DDF44CE2F5CAC01138692B7D3F8": "Pilih titik pendaratan dan cari perlengkapan.",
     "69143D2545BB22E7C1E85180E84956D6": "Pilih titik pendaratan dan cari perlengkapan.",
-    "7628F96349992B405AC53AA1794F0549": "Pilih titik pendaratan dan cari perlengkapan.",
-    "83442C93431D30D525941EB7558D1E4F": "Pilih titik pendaratan dan cari perlengkapan.",
-    "BB6F8C82403A7CEE42B60FBC587FA422": "Pilih titik pendaratan dan cari perlengkapan.",
-    "BFE554FE4DB039079E95F6981704E2E8": "Pilih titik pendaratan dan cari perlengkapan.",
     "EDCBC677446BC5F213863580F3C0A3B5": "Pilih titik pendaratan dan cari perlengkapan.",
     "B3CFEDE943AA56C0AEE82CA08F806463": "Ambil",
     "7240B5BC46A81D296CBCA080DF98ECB7": "Balap Beliung",
@@ -1490,21 +1449,12 @@
     "43088BA143F2B6BCAEE378847172BE8C": "Quadcrasher",
     "CC13E7A44B19B6541560D085C426791D": "Quadcrasher",
     "393E9456499B520AC90D5E8597A7D23D": "SMG Diam yang menimbulkan <Emphasized>damage yang bertambah</> pada <Emphasized>5 peluru terakhirnya</>",
-    "AEBB89F442C1D29C9277D5A10B1CFC71": "Quints",
     "43E272F8443991243556F0AB98EC9BBE": "BATU REALITAS",
     "2A5097B944627605414956BB8AE4337B": "Acak",
     "318128844F99D44E7F5C91B8F5457418": "Spawn acak",
     "AE030E304F5F9780D063B09D3B1D7C72": "Busur Jarak Jauh",
     "E6EE95714DC76EF72E9B299D4F14A675": "Busur Jarak Jauh BusurPeledak",
     "1CBC3F3747EECA210049B99100CF9AFC": "Senjata Jarak Jauh",
-    "5DE047C24F180A1105DC75A6DB8EC0C6": "Battle Royale Berperingkat",
-    "6C8E638B41A592AB4E8BE4ACA038C392": "Battle Royale Berperingkat",
-    "8733662A43E19880D8477ABC0873E06A": "Battle Royale Berperingkat",
-    "C0A48EEE420D2792EFEABCA23363F93A": "Battle Royale Berperingkat",
-    "110AC5424A9CD65F8616369A58BB9FDC": "Zero Build Berperingkat",
-    "3CCF81374E0A4E25BDF11EA663A201F6": "Zero Build Berperingkat",
-    "8B38F7F24917A62647A50E9DC658AEE3": "Zero Build Berperingkat",
-    "B40A36024BBE098C75EEDE9D276FE71C": "Zero Build Berperingkat",
     "139A99CB4D3883CEA2F066BBA59EBD58": "SMG Tembakan Cepat",
     "FD23E7C946966E8E24F1ADA1EDA51CB1": "SMG Tembakan Cepat +",
     "BA4B1FDD40153AE8C9FC76ACC646E32C": "SMG tembakan cepat dengan <Emphasized>ukuran magasin</> yang ditingkatkan",
@@ -1515,10 +1465,6 @@
     "1C77EAFB46C48299170B7486AEFB6294": "Oranye Merah",
     "7125E4704BEA318C6BD3D69B5893D080": "Bahan perakitan yang disempurnakan. Bisa dibuat dengan bahan lain, dan biasanya ditemukan di peti.",
     "16DA40C14B2BC801935504956E31A9C9": "Memulihkan <Emphasized>HP</> saat berenang",
-    "6008627544CF6105EF4D3A9CD30C8BF8": "Regenerasi Perisai Tambahan sedang aktif, gunakan untuk tetap bertahan dalam pertarungan.",
-    "69CD0F42427AF85EEB8A0F945648347A": "Regenerasi Perisai Tambahan sedang aktif, gunakan untuk tetap bertahan dalam pertarungan.",
-    "AECBC7014762FC24FC1F79AFF9C303CC": "Regenerasi Perisai Tambahan sedang aktif, gunakan untuk tetap bertahan dalam pertarungan.",
-    "BC225CF147155267909DD59C79265F16": "Regenerasi Perisai Tambahan sedang aktif, gunakan untuk tetap bertahan dalam pertarungan.",
     "D956F3B24B85A136EDFF7681AD74FB8C": "Dipulihkan",
     "4DA1684D402A000482C5E196DBAEEA57": "Remedy (Toxin)",
     "693438894A15790A4E7560A0E307A499": "Remedy (Toxin)",
@@ -1633,7 +1579,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Pencuri Perisai",
     "4F611C954A5378BFC1804C96BB3981FE": "Sinergi Perisai",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Lemparan Perisai",
-    "6FE5EF624909BEBF19A4F7A143733F40": "Meriam Kapal",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Meriam Kapal",
     "85A285654B56001B52E9ABBC806822EB": "Gawai Gelombang Kejut",
     "8E57565847BBBCA8EE6AD38208D056E1": "Granat Gelombang Kejut +",
@@ -1664,9 +1609,7 @@
     "D8644E6D483F77ABE1E733885BCCC6FD": "Snowman UtilityItem",
     "F24F341641A4FA3F48ABCB8574D8C08C": "Sosial",
     "6975749C41271746F89557A170BC3440": "Solo",
-    "69E4B37A43B5B8D5B463D1804DB44BCF": "Solo",
     "9D386B354AC0CE9DF6302EA26A39F514": "Solo",
-    "E9EA6DC14E2DD703707893A0982B28C3": "Solo",
     "F8FC74A04B95B293F430E9820F119697": "Solo",
     "0784C09346B728C02D1AF5902E492822": "Season Pass Sparks",
     "DAC933A8407FB35BAB93D480EBADA7CA": "Templat Lampu Sorot Sparks",
@@ -1700,8 +1643,6 @@
     "6081D89D44C1A4CA364179BC95D47978": "Muat Ulang Cepat",
     "CD5B0A744223502F67BABD81B1230D5D": "Cat Semprot",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (Game Bertema)",
-    "032AE3DE426C6820537F9A913730E19E": "Skuad",
-    "7035BEE948A0E8CC30E4DC95823D5A21": "Skuad",
     "E9F2A9B74636BB7610FE8E8BD075580C": "Skuad",
     "459B35F94D969E08A4D1109E18B98C2F": "Senjata <Emphasized>pertarungan jarak dekat</> versi standar.",
     "81F9D4414FEA2CB4DD2813A6E08CB98B": "Senjata <Emphasized>jarak jauh</> versi standar.",
@@ -1732,12 +1673,7 @@
     "F9C7F25943011FD6980D4D8B1A29C757": "Teknologi Pemula",
     "4F03368E4610C163685D4B821835E30D": "Memulai Game",
     "DF374A4C4B641289F968258B7494F90E": "Bertahan <Emphasized>di udara lebih lama</>",
-    "0611FAA245AF688EFA1D3ABAF88BF0F1": "Tetap di dalam Mata Badai",
-    "2F214E7F48E66EFE1C115C8F7E2E595C": "Tetap di Dalam Mata Badai",
     "404A7F8F45CCEA3AC57992A9D25A2D4A": "Tetap di dalam Mata Badai",
-    "67EBCAF44A10423717EA0E9DF0B11170": "Tetap di Dalam Mata Badai",
-    "6C0CBF054F0F23BA941ABCA75F405034": "Tetap di Dalam Mata Badai",
-    "A07147014E36B1D243DF9C89E25878E3": "Tetap di Dalam Mata Badai",
     "BD933A0A4D2108A6FF3D948E3CD2DBD4": "Tetap di dalam Mata Badai",
     "E5B8A51D416E77718A746EB15445A3B2": "Tetap di dalam Mata Badai",
     "749E72FD4C3CC3C5F34EBF91EF87C060": "Meriam Meluncur",
@@ -1781,7 +1717,6 @@
     "01AC17C945E9F716F2DE30AD21D419D4": "Senapan Penembak Runduk Berperedam +",
     "B32EDD8A45D40C18A0F6F497FAEADAE2": "Senapan Penembak Runduk Berperedam dengan <Emphasized>teropong penglihatan termal</>",
     "CBC05E714B87E7BE8B6FC596A6097237": "SMG Berperedam",
-    "00CA308D460DBD1D0DBF3BA35E0368E5": "Bertahanlah sampai akhir untuk meraih Victory Royale!",
     "DDDAFD77445379EE9BAF399713A063D6": "Penyintas",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Berenang <Emphasized>lebih cepat</>",
     "E928E3A54C017ABB67564BB0EE06B190": "Ganti Profil",
@@ -1872,17 +1807,9 @@
     "E415969B4BAAA6B59B6BFF9CAE728F5D": "Token Penyelesaian Tantangan Pelarian",
     "611AA9CD49A134C1CF4EF793A0DCAD73": "Blok",
     "57698C274195DFFFFFF44CB43FCB651F": "Renang yang Menyembuhkan",
-    "2F83EE994C53BADD8F87BCAE2EBE4071": "hanya boleh ada satu pemenang.",
     "3961708B410A75AE04191ABCAD93E9F0": "hanya boleh ada satu pemenang.",
-    "58196919412BCB1D74783E8E981D2BBE": "hanya boleh ada satu pemenang.",
-    "6C225C9D49F86E1E30DCC3A701B26E56": "Hanya boleh ada satu pemenang.",
-    "6C7119CA44F1ED5685A324B982ED8276": "hanya boleh ada satu pemenang.",
     "900A843C489A158D9D7014B7688759B3": "hanya boleh ada satu pemenang.",
-    "A29937E74B5530D54A09F291E771AB54": "hanya boleh ada satu pemenang.",
     "DBD8EB9C418D8B3F612D7091AB3132F5": "hanya boleh ada satu pemenang.",
-    "EADE4BDA4E918BF507B81B84222A950C": "hanya boleh ada satu pemenang.",
-    "ED03D0BC43A54D93E88728A02C17352F": "hanya boleh ada satu pemenang.",
-    "EF85CDE6446B65421F3064A152A6DAE1": "hanya boleh ada satu pemenang.",
     "9668C00D43496C901D756E874556A4B7": "Kode ini akan memberikan akses ke Event iOS Fortnite Mobile ",
     "2291CAD9430769CC73D99D9B54DE8C4B": "Akun premium ini bisa mendapatkan V-Buck, bukan Llama Sinar X.",
     "03DCCA2140EB4E06D8B69FB8CFE78A1B": "Lempar",
@@ -1934,8 +1861,6 @@
     "EA08EDDB48C12586ECDF1589AB5C989C": "Upgrade Warna Jejak",
     "06B8D6624AAC122415F9C0BFABD33BD4": "Bot Latihan",
     "D71A7E704422BDFE7934EF8C6574DFAA": "Pelanggar Batas",
-    "0BE26EA94B6DAE3CA1DE029A8BFF93DE": "Trio",
-    "B8B7A46843A2FC0715BD8A924EC6B145": "Trio",
     "E907B282416949BFACC17482A8283EE7": "Sepasang Terpercaya",
     "E4621E044AA0247AA73F99BB8EB8D845": "Headhunter Trusty",
     "AFCC8C60409A488FEF95B1920178638A": "Magasin Trusty",
@@ -2036,10 +1961,6 @@
     "CD4BED3D497056ACDDF697B2A1CED907": "Token Quest WIP",
     "FBD7D9E444205DDD378D8381B49848B1": "Menunggu Pemain",
     "A3594BE3426BC422F96680B9F1815D84": "Token Quest Wasabi",
-    "4406E6154F9246CE4482DCB93FF91A0B": "Perhatikan langkahmu dan gunakan pelindung untuk memenangkan perang darat tanpa membangun apa pun.",
-    "DA9EF0A9444088E1157495BE637A0B4E": "Perhatikan langkahmu dan gunakan pelindung untuk memenangkan perang darat tanpa membangun apa pun.",
-    "E1927EF245666D50E41FBD832EB57A44": "Perhatikan langkahmu dan gunakan pelindung untuk memenangkan perang darat tanpa membangun apa pun.",
-    "F75E7A144FF0A719B84A21893B2A8537": "Perhatikan langkahmu dan gunakan pelindung untuk memenangkan perang darat tanpa membangun apa pun.",
     "1FA31AFC497191C5AD7467BFC4E8E6C7": "Booster Istirahat Cukup",
     "583601D34A4FAC568666FE8DFE288DFB": "Booster Istirahat Cukup",
     "1FD4C33549D3B93FF40EA9953E97F5CE": "Saat Tereliminasi Kirim Transmisi di",
@@ -2058,7 +1979,6 @@
     "E710C08E4E5C70FF8A286CB6EA101B4F": "Menentukan apakah menampilkan Suar, menampilkan Elemen HUD, atau keduanya.",
     "D3A54EAE40408580269CF39BCCA37888": "Putih",
     "195F2EE048C26E190C845691145D6CF6": "Lebar",
-    "8B36050244257ED13DABA5BB06C9381C": "Dunia Barat Liar",
     "9BD108A54CA8FA397E1DBD95E37958BB": "Token Penyelesaian Tantangan Festival Musim Dingin",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Kunci Festival Musim Dingin",
     "194B94D745612B291C0C0CAC0487B727": "Tongkat Sapu Penyihir",
@@ -2241,6 +2161,11 @@
   },
   "AntiCheat": {
     "ClientErrorMessage": "Kesalahan {provider}: {message}\n\nSilakan periksa {provider} Pertanyaan Umum untuk informasi lebih lanjut."
+  },
+  "ArcadeVolley": {
+    "PlayerWinsFmt": "Pemain {0} MENANG!  Tekan untuk memulai ulang",
+    "PressToServe": "Tekan untuk servis",
+    "PressToStart": "Tekan untuk Memulai"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "GAGAL"
@@ -2839,6 +2764,11 @@
     "FortAnimGraphNode_BlendFacialCurves": "Animasi|Kurva",
     "FortAnimGraphNode_BlendFacialCurves_Title": "Padukan Kurva Wajah",
     "FortAnimGraphNode_BlendFacialCurves_Tooltip": "Memadukan kurva wajah dari 2 input secara kustom berdasarkan preset yang dipilih"
+  },
+  "BoostBall": {
+    "HighScoreFormat": "SKOR TERTINGGI: {0}",
+    "ResultFormat": "{0}—{1}",
+    "ScoreFormat": "{0}—{1}"
   },
   "BootToFrontend_LowMemoryFallbackStrategy": {
     "Juno_BootToFrontEndMessage": "Memori mencapai level kritis - sesi berakhir.\nCoba lagi!"
@@ -3544,6 +3474,21 @@
     "EmptyRecentsTabSubtitle": "Pulau yang baru kamu mainkan akan muncul di sini. Temukan hal baru.",
     "EmptyFollowingTabTitle": "Belum ada apa pun di sini!",
     "EmptyRecentsTabTitle": "Siap Bermain?"
+  },
+  "DiscoveryGenreLabel": {
+    "DiscoveryGenreLabel_AdventureRPG": "Petualangan & RPG",
+    "DiscoveryGenreLabel_BattleRoyale": "Battle Royale",
+    "DiscoveryGenreLabel_DeathrunPlatformer": "Deathrun & Platformer",
+    "DiscoveryGenreLabel_Horror": "Horor",
+    "DiscoveryGenreLabel_MusicRhythm": "Musik & Irama",
+    "DiscoveryGenreLabel_PartyMiniGames": "Tim & Game Mini",
+    "DiscoveryGenreLabel_Roguelike": "Roguelike",
+    "DiscoveryGenreLabel_RoleplayingSocial": "Bermain Peran & Sosial",
+    "DiscoveryGenreLabel_Shooter": "Shooter",
+    "DiscoveryGenreLabel_SimulationTycoon": "Simulasi & Tycoon",
+    "DiscoveryGenreLabel_SportsRacing": "Olahraga & Balapan",
+    "DiscoveryGenreLabel_Strategy": "Strategi",
+    "DiscoveryGenreLabel_Survival": "Bertahan Hidup"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -5012,11 +4957,14 @@
     "RefBoneAxisTooltip": "Pilih sumbu pada transformasi tulang referensi yang mengarah ke 'depan' dan ke 'atas' dalam ruang komponen saat karakter berdiri tegak. Pengaturan default diatur untuk orientasi normal panggul.",
     "StateNameToolTipText": "Nama state - klik dua kali untuk mengedit.",
     "StateNames": "StateNames",
+    "OrientationTypeLabel": "Tipe",
     "UpLabel": "Atas",
     "WeightAngularVelocityMapping": "Pemetaan Kecepatan Sudut Bobot",
     "WeightLinearVelocityMapping": "Pemetaan Kecepatan Linier Bobot",
+    "WeightOrientationMapping": "Pemetaan Orientasi Bobot",
     "WeightAngularVelocityMappingTooltip": "Bobot disesuaikan berdasarkan komponen dari kecepatan sudut yang dipilih dalam rentang yang ditentukan (jika komponen kecepatan yang dipilih <= min dari rentang, bobotnya nol, jika >= maks, bobotnya satu).",
     "WeightLinearVelocityMappingTooltip": "Bobot disesuaikan berdasarkan komponen dari kecepatan linier yang dipilih dalam rentang yang ditentukan (jika komponen kecepatan yang dipilih <= min dari rentang, bobotnya nol, jika >= maks, bobotnya satu).",
+    "WeightOrientationMappingTooltip": "Bobot diskalakan berdasarkan tipe orientasi yang dipilih dalam rentang yang ditentukan.",
     "BlueprintPropertiesRowText": "vvv Properti Cetak Biru vvv",
     "NativePropertiesRowText": "vvv Properti Bawaan vvv"
   },
@@ -5391,6 +5339,7 @@
     "FreePrice": "Gratis",
     "LegoKitOfferDescription": "Kit LEGO®",
     "LeavingToday": "Pergi Hari Ini",
+    "LimitedTimeOfferLegalText": "Penawaran Waktu Terbatas",
     "PegiMusicWarning": "UNDUHAN MUSIK TIDAK DINILAI OLEH PEGI - www.pegi.info",
     "OutfitPackDescription": "Paket Kostum",
     "PackDescription": "Paket",
@@ -5614,6 +5563,9 @@
     "Game": "Game",
     "TeamScoreboardNameFormat": "Tim {0}",
     "JoinInProgressTooLate": "Game yang akan kamu masuki sudah berakhir."
+  },
+  "FortMinigamePersistence": {
+    "PersistenceUnavailable": "Progres tersimpan tidak tersedia untuk pulau ini, jadi kamu tidak bisa bergabung sekarang. Silakan coba lagi nanti."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "IMBALAN:",
@@ -7344,7 +7296,6 @@
     "MouseZoomScaling_Legacy": "Peninggalan",
     "LegacyControllerOptionsCollection_Name": "Kontrol Peninggalan",
     "LegacyControlsEnabled": "Kontrol Peninggalan Diaktifkan",
-    "RenderingModePerformanceLegacy": "Performance Peninggalan (Usang)",
     "LegalCollection_Name": "Legal",
     "LegalInformation_Name": "Informasi Legal",
     "LicensedAudioTreatment_Name": "Audio Berlisensi",
@@ -7706,16 +7657,11 @@
     "MobileFPSType_Description": "Pilih frame rate yang diinginkan dalam game. Gunakan ini untuk menyempurnakan performa pada perangkatmu. FPS maksimum di menu adalah 30 FPS.",
     "HybridMouseControlMode_Description": "Pilih Joy-Con 2 mana yang akan digunakan untuk kontrol mouse.\nCatatan: Kontrol Mouse hanya diaktifkan untuk beberapa pengalaman bermain!",
     "TouchInteractMode_Description": "Memilih mode interaksi sentuh.\n\n<strong>Nonaktif</>: Interaksi sentuh dinonaktifkan.",
-    "RenderingModeNoDX11_Description": "Memilih mode rendering tingkat rendah yang akan digunakan.\n\nDirectX 12 diperlukan agar fitur rendering tingkat tinggi seperti Nanite, Lumen, dan Hardware Ray-Tracing dapat diaktifkan untuk meningkatkan fidelitas visual.\n\nPerformance adalah mode yang menawarkan peningkatan kinerja signifikan dengan menonaktifkan sebagian besar fitur rendering untuk mengurangi penggunaan memori serta meringankan beban CPU dan GPU. Fitur tersebut juga menggunakan DirectX 12.\n\nPerformance Peninggalan (Usang) seperti mode Performance, tetapi menggunakan DirectX 11.",
     "RenderingMode_TwoModeDescription": "Memilih mode rendering tingkat rendah yang akan digunakan.\n\nDirectX 12 diperlukan agar fitur rendering tingkat tinggi seperti Nanite, Lumen, dan Hardware Ray-Tracing dapat diaktifkan untuk meningkatkan fidelitas visual.\n\nPerformance adalah mode yang menawarkan peningkatan kinerja signifikan dengan menonaktifkan sebagian besar fitur rendering untuk mengurangi penggunaan memori serta meringankan beban CPU dan GPU. Ini menggunakan DirectX 12 jika memungkinkan dan DirectX 11 jika tidak.",
     "FortReleaseVersion_Description": "Pilih versi rilis mana yang ingin kamu gunakan untuk menentukan fitur apa saja yang diaktifkan (yaitu versi 15.20, 15.30, 16.00, dll.).",
-    "MatchmakingRegion_Description": "Pilih server yang ingin dihubungkan. Server yang berlokasi di dekatmu pada umumnya memiliki kinerja yang lebih baik. Memilih 'Otomatis' akan memilih server yang memiliki koneksi terbaik.",
-    "MatchmakingRegion_Description_PS4": "Pilih server yang ingin dihubungkan. Server yang berlokasi di dekatmu pada umumnya memiliki kinerja yang lebih baik. Memilih 'Otomatis' akan memilih server yang memiliki koneksi terbaik.",
-    "MatchmakingRegion_Description_PS5": "Pilih server yang ingin dihubungkan. Server yang berlokasi di dekatmu pada umumnya memiliki kinerja yang lebih baik. Memilih 'Otomatis' akan memilih server yang memiliki koneksi terbaik.",
-    "MatchmakingRegion_Description_Switch": "Pilih server yang ingin dihubungkan. Server yang berlokasi di dekatmu pada umumnya memiliki kinerja yang lebih baik. Memilih 'Otomatis' akan memilih server yang memiliki koneksi terbaik.",
-    "MatchmakingRegion_Description_Switch2": "Pilih server yang ingin dihubungkan. Server yang berlokasi di dekatmu pada umumnya memiliki kinerja yang lebih baik. Memilih 'Otomatis' akan memilih server yang memiliki koneksi terbaik.",
-    "MatchmakingRegion_Description_XB1": "Pilih server yang ingin dihubungkan. Server yang berlokasi di dekatmu pada umumnya memiliki kinerja yang lebih baik. Memilih 'Otomatis' akan memilih server yang memiliki koneksi terbaik.",
-    "MatchmakingRegion_Description_XSX": "Pilih server yang ingin dihubungkan. Server yang berlokasi di dekatmu pada umumnya memiliki kinerja yang lebih baik. Memilih 'Otomatis' akan memilih server yang memiliki koneksi terbaik.",
+    "MatchmakingRegion_Description_V2": "Memilih wilayah pencarian lawanmu. Otomatis dirancang untuk memberikan pengalaman terbaik. Rentang ping yang ditampilkan adalah perkiraan. Ping dalam game bisa berbeda antara pertandingan dan pengalaman bermain.",
+    "MatchmakingSubregion_Description": "Memilih subwilayah pencarian lawan pilihanmu. Pencarian Lawan memprioritaskan pilihanmu, tetapi penempatan tidak dijamin. Otomatis dirancang untuk memberikan pengalaman terbaik. Memilih subwilayah dapat meningkatkan waktu antrean dan mengurangi keadilan pertandingan. Ping yang ditampilkan adalah perkiraan. Ping dalam game bisa berbeda antara pertandingan dan pengalaman bermain.",
+    "CompetitiveRegion_Description": "Memilih wilayah turnamenmu. Pengaturan ini hanya ditampilkan saat wilayah pencarian lawanmu memiliki lebih dari satu wilayah turnamen.",
     "BasicSensitivityCollection_Name": "Sensitivitas",
     "GyroV2Sensitivity_Name": "Sensitivitas",
     "SafeZone_Action": "Atur Zona Aman",
@@ -7847,6 +7793,7 @@
     "StopRenderingInBackground_Name": "Hentikan Rendering di Latar Belakang",
     "StopRenderingInBackground_Description": "Hentikan rendering saat jendela game tidak difokuskan jika memungkinkan. Mengosongkan sumber daya GPU untuk aplikasi lain.",
     "KeyboardMovementStrafeDiagonal_Name": "Sudut Menyamping",
+    "MatchmakingSubregion_Name": "Preferensi Subwilayah",
     "SubtitlePage_Name": "Subtitle",
     "SubtitlesCollection_Name": "Subtitle",
     "Subtitles_Name": "Subtitle",
@@ -7977,6 +7924,7 @@
     "TouchAndMotionCollection_Name": "Sentuhan dan Gerakan",
     "TouchpadCollection_Name": "Alas Sentuh",
     "EForceMaxTouchpadSensitivity_Name": "Sensitivitas Alas Sentuh menjadi Maksimum",
+    "CompetitiveRegion_Name": "Wilayah Turnamen",
     "GyroButtonTrackball": "Trackball",
     "GyroTrackballDecay_Name": "Peluruhan Trackball",
     "AimAssistPullStrength_Name": "Kekuatan Bantuan Bidikan Pelacakan",
@@ -8429,7 +8377,8 @@
     "Public": "Publik"
   },
   "FortSettingValueDiscrete_Region": {
-    "RegionDisplayWithPing": "{RegionDisplayName} ({RegionPing} ms)"
+    "RegionDisplayWithPingRange": "{RegionDisplayName} ({MinimumPing}-{MaximumPing}md)",
+    "RegionDisplayWithPing": "{RegionDisplayName} ({MinimumPing} ms)"
   },
   "FortSettingValueDiscrete_ReportPerfStats": {
     "Disabled": "Dinonaktifkan",
@@ -8442,6 +8391,11 @@
   "FortSettingValueDiscrete_SocialBool": {
     "OFF": "NONAKTIF",
     "ON": "AKTIF"
+  },
+  "FortSettingValueDiscrete_Subregion": {
+    "AutoSubregion": "Otomatis",
+    "SubregionPreferenceRequiresRegion": "Otomatis dirancang untuk memberikan pengalaman terbaik. Untuk mengubah pengaturan ini, pilih Wilayah Pencarian Lawan selain Otomatis.",
+    "SubregionDisplayWithPing": "{SubregionId} ({SubregionPing} ms)"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
     "VoiceChatMethod_Mute": "Bisukan",
@@ -8543,7 +8497,8 @@
     "GameVoiceChannelsDisplayNameSecondary": "Anggota game lainnya"
   },
   "FortSocialHeaderItemVM": {
-    "TeamMembersListDisplayName": "Anggota tim"
+    "TeamMembersListDisplayName": "Anggota tim",
+    "VerseVoiceMyChannelListDisplayName": "Saluran Suara"
   },
   "FortSocialInteractionMenu": {
     "InvalidInputFormat": "<text color=\"{0}\">TIDAK VALID</>",
@@ -8646,7 +8601,8 @@
     "PlaystationFriendPlatformName": "PlayStation Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "Pelaporan suara membantu kami meninjau pelanggaran atas Peraturan Komunitas kami yang dilaporkan.\n\n• Saat obrolan suara diaktifkan, fitur ini menyimpan audio obrolan suara pada perangkat tiap peserta secara bergiliran tiap lima menit, yang akan dikirim ke Epic Games hanya jika peserta melaporkan pelanggaran.\n\n• Pelaporan suara selalu aktif bagi pemain di bawah usia 18 tahun.\n\nLihat pengaturan obrolan suaramu untuk detail dan opsi selengkapnya.",
     "VoiceChatVRR_Accept_O18_NewPlayer": "Pelaporan suara membantu kami meninjau pelanggaran atas Peraturan Komunitas kami yang dilaporkan.\n\n• Saat obrolan suara diaktifkan, fitur ini menyimpan audio obrolan suara pada perangkat tiap peserta secara bergiliran tiap lima menit, yang akan dikirim ke Epic Games hanya jika peserta melaporkan pelanggaran.\n\n• Pelaporan suara biasanya aktif, kecuali pada kelompok yang dibentuk oleh teman yang para pemainnya lebih memilih pelaporan suara dinonaktifkan.\n\n• Kamu bisa melihat apakah pelaporan suara sedang aktif atau nonaktif di Bilah Samping.\n\nLihat pengaturan obrolan suaramu untuk detail dan opsi selengkapnya.",
-    "XboxFriendPlatformName": "Jaringan Xbox"
+    "XboxFriendPlatformName": "Jaringan Xbox",
+    "FriendshipActionRateLimited": "Kamu telah melakukan terlalu banyak tindakan dalam waktu singkat. Silakan coba lagi nanti"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "Berteman {timesince} yang lalu",
@@ -8777,6 +8733,10 @@
     "SittingOut": "Tidak Ikut Serta",
     "DownloadOnDemandProgress": "Memperbarui ({0}%)"
   },
+  "FortTextChatConversationVM": {
+    "PartyFrameworkUnavailable": "Kerangka kerja Kelompok tidak tersedia",
+    "SocialToolkitUnavailable": "Kit peralatan Sosial tidak tersedia"
+  },
   "FortTextChatPlayerVM": {
     "RedactedUserBlocked": "<Blocked player>",
     "RedactedUserGeneral": "<Hidden player>",
@@ -8894,7 +8854,6 @@
     "EpicPartyInviteDetailsSent": "Undangan kelompok terkirim ke <Username>{0}</>",
     "PartyInviteDetailsSent": "Undangan kelompok terkirim ke <Username>{0}</>",
     "EpicPartyJoinabilityChangedInviteOnlyDetails": "Kelompok khusus undangan",
-    "EpicPartyJoinabilityChangedOpenDetails": "Kelompok terbuka",
     "EpicPartyJoinRequestReceived_Title": "Permintaan bergabung ke kelompok",
     "EpicPartyMemberCreated": "Pemain bergabung dengan kelompok",
     "PartyMemberCreated": "Pemain bergabung dengan kelompok",
@@ -8918,7 +8877,9 @@
     "LocalPlayerEpicPartyPromotedToast": "Kamu dipromosikan menjadi pemimpin kelompok",
     "RequestToJoinParty_RateLimited": "Kamu telah mengirim terlalu banyak permintaan pertemanan, coba beberapa waktu lagi",
     "FriendToastSelfTooManyFriends": "Kamu memiliki terlalu banyak teman",
-    "FriendToastSelfOutboxFull": "Kamu telah mengirimkan terlalu banyak permintaan pertemanan"
+    "FriendToastSelfOutboxFull": "Kamu telah mengirimkan terlalu banyak permintaan pertemanan",
+    "EpicPartyJoinabilityChangedOpenDetails": "Kelompokmu sekarang terbuka",
+    "NotifMgrForkMemberNoAccessToast": "{Username} tidak memiliki akses ke fork yang dipilih, melanjutkan akan mengabaikan fork"
   },
   "FortUIStateWidget_Login": {
     "OfferRHIChangeForStability_Title": "Ubah mode render?",
@@ -8926,7 +8887,6 @@
     "UpdateCheck": "Memeriksa pembaruan ...",
     "ConnectionCheckText": "Memeriksa koneksimu...",
     "TryingLonger": "Masih mencoba, harap bersabar. \nLihat {CheckStatusURL} untuk detail lebih lanjut.",
-    "OfferRHIChangeForStability_DX11": "DirectX 11",
     "FailedToLoadProfile": "Gagal Memuat Profil.",
     "RefreshingContent": "Mengambil Konten Dinamis ...",
     "FindBestSettings": "Menemukan Pengaturan Terbaik?",
@@ -8935,7 +8895,6 @@
     "LoggingIn": "Masuk ...",
     "NoInternet": "Tidak Ada Koneksi Internet yang Terdeteksi",
     "OfferRHIChangeForStability_PerformanceMode": "Mode Performance",
-    "OfferRHIChangeForStability_FullDescriptionDX12PerfMode": "Mode Performance mungkin tidak stabil di perangkatmu dan menyebabkan Fortnite mengalami crash saat bermain. Apa kamu ingin beralih ke mode Performance Peninggalan untuk mendapatkan pengalaman bermain yang lebih stabil? {OptionalAutoRestartText}",
     "NoInternetDesc": "Periksa koneksimu dan coba lagi.",
     "QuitText": "Keluar",
     "Benchmark": "Menjalankan Benchmark ...",
@@ -9425,6 +9384,7 @@
     "Message.Unauthorized": "Kamu tidak punya izin untuk memainkan konten ini.",
     "MfaRequiredForTournament": "Kamu harus mengaktifkan autentikasi dua faktor di akun Epic kamu agar bisa bermain dalam turnamen ini. Kunjungi {TurnOnMfaURL} untuk mengaktifkan.",
     "WrongNumberOfEventPlayers": "Kamu harus berada dalam kelompok lengkap untuk turnamen ini.",
+    "MatchCapExceeded": "Kamu sudah memainkan jumlah pertandingan maksimum untuk event ini.Lihat Tab Bersaing untuk detail selengkapnya dan event mendatang.",
     "Error.AccountLevelTooLow": "Level akunmu ({0}) tidak memenuhi persyaratan minimum untuk bermain: {1}.",
     "Error.BRRankLevelTooLow": "Level peringkat Battle Royale kamu saat ini ({0}) tidak memenuhi persyaratan minimum untuk bermain: {1}.",
     "Error.BRRankLevelTooHigh": "Level peringkat Battle Royale kamu saat ini ({0}) terlalu tinggi untuk memainkan turnamen ini. Peringkat maksimum yang diizinkan bermain adalah {1}.",
@@ -10900,6 +10860,7 @@
   "Matchmaking": {
     "PartyMemberDisconnect": "Koneksi anggota kelompok terputus.",
     "PartyMemberTimeout": "Anggota kelompok gagal terhubung.",
+    "MatchCapExceeded": "Pemain sudah memainkan jumlah pertandingan maksimum yang diizinkan untuk event ini.",
     "PartyTooBig": "Terlalu banyak anggota kelompok yang berusaha mendaftar."
   },
   "MatchmakingContext": {
@@ -11596,7 +11557,7 @@
     "Join_Num_Alive": "Bergabung dengan Kelompok - Tersisa {PlayersAlive}"
   },
   "PawnOptionRegistry": {
-    "AthenaCharacterDisplayName": "Karakter Athena"
+    "DefaultCharacterDisplayName": "Karakter Default"
   },
   "PersonaCharacterModifierDetailsCustomization": {
     "VoiceDefault": "Default"
@@ -11770,7 +11731,19 @@
     "UFortQuestCategory::Misc": "Serbaneka"
   },
   "QuestPanelDebugToolViewModel": {
+    "Placement_CategoryNotRegistered": "Mendeklarasikan tag yang cocok dan valid untuk build ini, tapi belum pernah didaftarkan. Biasanya masalah waktu - periksa lagi setelah menyusun ulang kategori.",
+    "Placement_CategoryDisabled": "Mendeklarasikan tag yang cocok tapi dengan bCategoryEnabled dimatikan. Konfigurasi bisa ditimpa, jadi hotfix bisa mengaturnya.",
+    "Placement_CategorySunset": "Mendeklarasikan tag yang cocok tapi sudah dihentikan di build ini.",
+    "Placement_CategoryPluginUnavailable": "Mendeklarasikan tag yang cocok tapi pluginnya sudah dihentikan.",
+    "Placement_CategoryUnreleased": "Mendeklarasikan tag yang cocok tapi rilisnya ada di build lebih baru.",
+    "Placement_CategoryEventGated": "Mendeklarasikan tag yang cocok hanya di bawah IncludeQuestTagsByEvent, dan event itu tidak aktif.",
+    "Placement_CategorySuppressed": "Cocok, tetapi konten disembunyikan, jadi tidak mengambil konten apa pun dan menolak fallback.",
+    "Placement_NoOrganizationTags": "Tidak ada tag QuestCategory yang cocok.",
+    "Placement_CategoriesNotYetBuilt": "Tidak ada kategori saat ini diatur. Harusnya terselesaikan saat penyusunan ulang.",
+    "Placement_NoCategoryDeclaresTag": "Tidak ada kategori yang mendeklarasikan tag ini, atau induk mana pun dari tag tersebut.",
     "Visibility_NoView": "Tidak ada tampilan untuk quest ini.",
+    "Placement_FallbackUnavailable": "Tidak ada yang cocok dan fallback tidak tersedia, jadi konten ini tidak termasuk kategori apa pun.",
+    "Placement_BundleSuppliedNoTags": "Kartu punch hanya memakai tag bundelnya, dan bundle ini tidak punya tag. Tag milik quest ini sendiri tidak pernah dibaca.",
     "VersionWarning_AssetSunset": "Aset ini sudah tidak didukung di versi ini dan tidak akan tersedia.",
     "VersionWarning_AssetUnreleased": "Aset ini akan dirilis pada versi yang lebih baru daripada milikmu saat ini dan tidak akan diproses.",
     "VersionWarning_PluginSunset": "Plugin ini sudah tidak didukung di versi ini dan tidak akan diaktifkan dalam permainan.",
@@ -11948,6 +11921,9 @@
     "HasEnforcedSettingsU10Warning_Voice": "<strong>Hanya Teman</> adalah pengaturan maksimal yang tersedia untuk anak-anak di bawah 10 tahun. Jika Anda memberikan izin yang lebih permisif, pengaturan tersebut akan aktif setelah anak Anda cukup umur.",
     "HasEnforcedSettingsU13Warning_Text": "<strong>Teman, anggota tim, dan koneksi</> adalah pengaturan maksimal yang tersedia untuk anak-anak di bawah 13 tahun. Jika Anda memilih <strong>Semua Orang</>, pengaturan ini akan aktif setelah anak Anda cukup umur.",
     "HasEnforcedSettingsU13Warning_Voice": "<strong>Teman, anggota tim, dan koneksi</> adalah pengaturan maksimal yang tersedia untuk anak-anak di bawah 13 tahun. Jika Anda memilih <strong>Semua Orang</>, pengaturan ini akan aktif setelah anak Anda cukup umur."
+  },
+  "SimpleOfferVM": {
+    "OutDateFormat": "Berakhir {Day} {Month} {Year} pukul ({Time} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
     "DeleteSnapEntries": "Delete Snap Entries",
@@ -12443,6 +12419,24 @@
     "Athena": "Battle Royale",
     "Creative": "Kreatif",
     "Campaign": "Selamatkan Dunia"
+  },
+  "SubregionNames": {
+    "BAH": "Bahrain",
+    "FR": "Prancis",
+    "DE": "Jerman",
+    "IA": "Iowa",
+    "IL": "Israel",
+    "MX": "Meksiko",
+    "MUM": "Mumbai",
+    "NCAL": "California Utara",
+    "OH": "Ohio",
+    "OR": "Oregon",
+    "SYD": "Sydney",
+    "SAO": "São Paulo",
+    "TX": "Texas",
+    "TOK": "Tokyo",
+    "GB": "Inggris Raya",
+    "VA": "Virginia"
   },
   "SupervisedSettingsManager": {
     "TimezoneDisplayFormat": "{0} {1} ({2})"

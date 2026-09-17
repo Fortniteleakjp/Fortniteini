@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Terminer 3 défis de Gotham",
     "8545084D4037D8328A80AAA600F845B1": "Terminer 3 défis de Gotham",
     "8867A2174A1B609CA14739BFA57AD7BA": "Terminer 3 défis de Gotham",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Terminer 5 défis de Gotham",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Nettoyer le parc Robinson",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Récupérer 10 piments",
     "B724EFD84125E744670EEC852A03D7E5": "Récupérer 10 citrouilles",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Récupérer 30 diaphanites",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Récupérer 30 unités de neige",
+    "7DD7744E44595A1743F019932761EF3D": "Obtenir 30 glandes pestilentielles",
     "72ED820E417BF03B7D74628BC7A0D50A": "Récupérer 30 unités de neige",
     "AC0061C9484C5D72D42634A7DE52BD86": "Rassembler 50 noyaux lumineux",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Une tarte pour le commissaire - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Fabriquer 10 biomasses",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Éliminer 10 scorpions",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Éliminer 10 scorpions",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Éliminer 20 hommes de main",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Éliminer 3 ours des glaces",
     "60F095F34D1AC980533CABBD59BE64D2": "Éliminer 3 ours des glaces",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Éliminer les hommes de main à Robinson Park",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "Garder la tête froide - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "Il faut arrêter les hommes de main d'Ivy ! <empha>Suivez le Bat-signal jusqu'à Robinson Park et éliminez les hommes de main d'Ivy.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "La population toute entière de Gotham a été prise de vomissements soudains et incontrôlables. Nous pensons que Poison Ivy est derrière tout ça. Elle semble utiliser une sorte de toxine à laquelle nous devons trouver l'antidote, et vite. <empha>Éliminez 10 scorpions</> dans les <img id=\"IcoDes\"/> <Des>vallées arides</>. Vous êtes le dernier espoir de la ville. *grf* Euh... Je dois y aller.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Justicier à temps plein",
+    "A75F4FE844F88A4440153482E2EA221C": "Justicier à temps plein",
     "E5D175ED4A01969301A19E98405F2E01": "Fabriquer 10 unités de biomasse",
     "8F85938943E9D27E8F7DD2A3D347810B": "D'autres bâtiments ont disparu de Gotham. Il y a anguille sous roche... Je soupçonne un nouveau superméchant d'avoir pris part au complot. Nous devons trouver des indices. <empha>Suivez le Bat-signal sur votre carte et terminez 3 défis de Gotham</>.",
     "686582044561A9744F6D4B8E6A15A766": "Destruction (bio)massive - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "À mon signal - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "La piste s'est refroidie. Hmm... Refroidie... C'est peut-être un indice ! Penchez-vous donc sur cette hypothèse. Rendez-vous sur les <img id=\"IcoFro\"/> <Fro>terres gelées</> et <empha>rapportez-moi 30 unités de neige</>.",
     "12AA70A84BF6C72E80C639A345F4F0FD": "C'était donc bien Cobblepot qui tirait les ficelles. Malheureusement, le Pingouin m'a bien refroidi. Ne vous en faites pas pour moi, Alfred est en train de me préparer un chocolat chaud. Mais vous ? Tâchez donc de maîtriser quelques techniques de combat des grands froids. Rendez-vous sur les <img id=\"IcoFro\"/> <Fro>terres gelées</> et <empha>abattez 3 ours des glaces</>."
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Justicier à temps plein"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "\"Ici Batman. Il semblerait que le Sphinx ait réussi à tromper les hommes de main pour qu'ils se plient à ses plans visant à nous éliminer. Ils ne sont vraiment pas très futés. Je parie que ces idiots se font aussi avoir par des arnaques de hameçonnage par e-mail.<emphasis>Éliminez 20 hommes de main.</> -Batman. Terminé.\"",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Batman à l'appareil. Poison Ivy recommence. Elle a modifié la flore locale... et ça sent pire que les restes de la veille du Pingouin après un pique-nique en plein soleil. Les plantes commencent à lâcher des <EmphA>glandes pestilentielles</> ! Éliminez les contaminants. <EmphA>Obtenez 30 glandes pestilentielles</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Défi accepté",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Terminer 5 défis de Gotham",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Obtenir 30 glandes pestilentielles",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Éliminer 20 hommes de main",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Une vilaine odeur",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "Les hommes de main sont hors d'état de nuire",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "Oui, c'est encore Batman. Alfred a détecté une nouvelle activité. Et pas du genre sympa où l'on trempe des batarangs dans de la peinture noire pour décorer des cartes avec le message \"Désolé d'avoir contrecarré vos plans\". Allez enquêter. <EmphA>Terminez 5 défis de Gotham.</>"
   }
 }

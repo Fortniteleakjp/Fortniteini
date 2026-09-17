@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Hoàn thành 3 Thử Thách Gotham",
     "8545084D4037D8328A80AAA600F845B1": "Hoàn thành 3 Thử Thách Gotham",
     "8867A2174A1B609CA14739BFA57AD7BA": "Hoàn thành 3 Thử Thách Gotham",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Vượt qua 5 Thử Thách Gotham",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Dọn Dẹp Công Viên Robinson",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Thu thập 10 Quả Ớt",
     "B724EFD84125E744670EEC852A03D7E5": "Thu thập 10 Bí Ngô",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Thu thập 30 Lõi Sáng",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Thu thập 30 Tuyết",
+    "7DD7744E44595A1743F019932761EF3D": "Thu thập 30 Tuyến Hôi",
     "72ED820E417BF03B7D74628BC7A0D50A": "Thu thập 30 tuyết",
     "AC0061C9484C5D72D42634A7DE52BD86": "Thu thập 50 Lõi Sáng",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Cảnh Sát Trưởng Gourd-on - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Chế tạo 10 Sinh Khối",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Đánh bại 10 Bọ Cạp",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Đánh bại 10 Bọ Cạp",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Đánh bại 20 tên Tay Sai",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Đánh bại 3 Gấu Băng",
     "60F095F34D1AC980533CABBD59BE64D2": "Đánh bại 3 Gấu Băng",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Đánh bại Tay Sai tại Công viên Robinson",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "Thư Giãn Trên Băng Trôi - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "Phải ngăn đám tay sai của Thường Xuân lại! <empha>Đi theo Tín Hiệu Dơi đến Công Viên Robinson và hạ gục đám Tay Sai của Thường Xuân.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "Thường Xuân đang khiến mọi người ở Gotham-- nói sao nhỉ-- \"nôn thốc nôn tháo\". Khả năng là cô ta đang dùng một loại Chất Độc nào đó và bọn tôi cần nghiên cứu thuốc giải, càng nhanh càng tốt. <empha>Đánh bại 10 con Bọ Cạp</> ở <img id=\"IcoDes\"/> <Des>Thung Lũng Khô</>. Từ giờ tới lúc bạn làm xong, thành phố sẽ sống dở chết dở . *Hự* Ờm-- tôi phải đi đây.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Hiệp Sĩ Gác Đêm",
+    "A75F4FE844F88A4440153482E2EA221C": "Hiệp Sĩ Săn Đêm",
     "E5D175ED4A01969301A19E98405F2E01": "Chế tạo 10 Sinh Khối",
     "8F85938943E9D27E8F7DD2A3D347810B": "Gotham lại có thêm nhiều tòa nhà biến mất và vụ này có gì đó rất đáng ngờ. Tôi nghi là có nhân tố mới lạch bạch lao vào mớ hỗn loạn này. Hãy tìm hiểu thêm xem sao. <empha>Đi theo Tín Hiệu Dơi trên Bản Đồ và hoàn thành 3 Thử Thách Gotham.</>",
     "686582044561A9744F6D4B8E6A15A766": "Căn Phòng Sinh BỤP! - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "Nguồn Sáng Trong Tối - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "Dấu vết mờ ám đó đã hoàn toàn nguội lạnh. Nhưng biết đâu cái lạnh chính là thứ ta cần. Để xem bạn có đào xới được chút tin tình báo nào không. Đi đến <img id=\"IcoFro\"/> <Fro>Vùng Băng Giá</> và <empha>thu thập 30 Tuyết.</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "Bọn tôi đã đoán đúng, Cobblepot chính kẻ đứng sau giật dây, nhưng giờ gã Cánh Cụt đó đang tạm gạt tôi sang một bên. Đừng lo, Alfred sắp mang ca cao đến cho tôi rồi. Nhưng còn bạn thì sao? Bạn sẽ đi thử nghiệm một số kỹ thuật tác chiến thực địa ở vùng Bắc Cực. Hãy đến <img id=\"IcoFro\"/> <Fro>Vùng Băng Giá</> và <empha>đánh bại 3 con Gấu Băng.</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Hiệp Sĩ Gác Đêm"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "\"Tôi, Batman đây. Có vẻ như Riddler đã lôi kéo đám Tay Sai làm theo kế hoạch của hắn để áp đảo chúng ta. Chúng thật sự không thông minh cho lắm. Tôi cá là mấy tên ngốc đó cũng sẽ dính bẫy lừa đảo qua email thôi.<emphasis>Hãy đánh bại 20 tên Tay Sai.</> - Batman báo cáo. Hết\".",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Batman đây. Poison Ivy lại giở trò nữa rồi. Thực vật trong vùng đã bị cô ta biến đổi-- và mùi của chúng còn kinh hơn cả đống đồ ăn thừa của gã Cánh Cụt sau buổi dã ngoại nắng đẹp. Cây cối bắt đầu rơi ra <EmphA>Tuyến Hôi</> kìa! Mau dọn sạch đống ô nhiễm này đi. <EmphA>Thu thập 30 Tuyến Hôi</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Chấp Nhận Thử Thách",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Vượt qua 5 Thử Thách Gotham",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Thu thập 30 Tuyến Hôi",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Đánh bại 20 tên Tay Sai",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Mùi Hương Kẻ Phản Diện",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "So Tài Với Tay Sai",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "Vâng, lại là Batman đây. Alfred đã phát hiện ra vài hoạt động mới. Và không phải mấy trò tích cực như nhúng Batarang vào sơn đen rồi vẽ thiệp \"Xin lỗi vì đã phá hỏng kế hoạch của ngươi\" đâu. Đi điều tra đi. <EmphA>Vượt qua 5 Thử Thách Gotham.</>"
   }
 }

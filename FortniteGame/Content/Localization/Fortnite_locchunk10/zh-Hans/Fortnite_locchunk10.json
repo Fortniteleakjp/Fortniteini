@@ -539,8 +539,6 @@
     "0F27FEB645424A655938FBAA00966985": "准备作战",
     "06260D674B73C899F270E489FDED2318": "大逃杀",
     "33B8A20040C39F11D774A2981F344253": "大逃杀",
-    "922BA250460700D4A6C45A814459E9D4": "大逃杀",
-    "A7F0D4E047323614E099CCB1616FC33D": "大逃杀",
     "C403587B40DF25FCAA8E159AA3A7E558": "大逃杀",
     "D3A984E042745DAD6F26E19C18103AD2": "大逃杀",
     "61B644904C2939F994F877A526A4440B": "大逃杀概略经验",
@@ -562,7 +560,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "桶滚DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "双翼飞机",
     "5B5236944941BFD7DE82B8B05FE11D94": "双翼飞机",
-    "DF56207843F6244003548CA79CFAA0F4": "双翼飞机",
     "AD9DF9A2455C274907AE29971466ADBA": "[PH]基础剑刃",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "[PH]基础剑刃",
     "7641CC0743ADBB2B2B04ED9883DD8214": "闪烁",
@@ -753,12 +750,7 @@
     "A160CCFF49521B32A8B8E3AB90408722": "伤害等级",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "舞蹈支持",
     "91DEE53D4336DA0C00BAD3ACA0899EE6": "闪耀！",
-    "2C01E2F5420CED5A207C7B98302305A4": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
-    "394C9BDD403D04CBB1203997013A98CD": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
-    "47699A1C400A37DC893F54B2FCD92877": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
     "527C4E4949B247E160807D920F92EEC9": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
-    "5CFC98A54A14E69002262F89F0182317": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
-    "722B1B4541B7FEDB0D5373A168D11B14": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
     "8E47673F4F3406EAA533BFA7D3BACDAB": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
     "F1454581430BDE167B62D384A23A7C96": "致命暴风雨云正在逼近，风暴之眼范围会逐渐缩小。",
     "F36292074E3360F745279784F74D8867": "致命射击",
@@ -823,23 +815,16 @@
     "F92A2BBA4871D636829900B0E138FA81": "温德尔机器博士挑战",
     "BD6E914C471A66813327F2AEEA3867E7": "驾驶",
     "390597F64F2F483C06891FB95BA037D3": "操纵加农炮",
-    "29FA05054578E0CC32DA89B13152C692": "空降并寻找装备",
-    "42C6A24F40F7DB9C0D26D48BF84C2F4C": "空降并寻找装备",
     "48DE963D48E224F0FA34B392EEBB04F3": "空降并寻找装备",
     "56EC010C4FABD0181556A3B06A38ACEB": "空降并寻找装备",
-    "7BC26EA54582F700E6B4988782BFF806": "空降并寻找装备",
     "831C33534BEC50A3D3E4E89E7C3170D4": "空降并寻找装备",
-    "9178141B40FE92B80982CC9FF69DADDF": "空降并寻找装备",
-    "E4AF6B474D830CD9D7A25B87E57E55C0": "空降并寻找装备",
     "EE09C0E54BBFE547ECCF628D1A0F3BFB": "弹鼓突击步枪",
     "7B9C4CB74DFEE2C4B1C9D99CA6D70896": "双枪",
     "CA9DCBF64B31242269823E88C10A74C0": "双枪",
     "9DCEC44C423596A81B77438A15C90787": "双枪：半自动。",
     "DD10E1F74B4C77102CCDAAA7B1258400": "双枪：半自动。",
     "3EC1D4304108BC1102AD90BF1CC5DC39": "胶布",
-    "045079474451066B165246804C89FDF4": "双人",
     "1CAFE187418D13AB72E3F6A1A6F6DCCE": "双人",
-    "F9ABF3514BADBE7C8DBD23A2B8E6DB1E": "双人",
     "941BB5D943AB82F7E60130B929A1A071": "杜尔汉堡",
     "01558C734EDD8820D50C7B8065F7C617": "潜在危险",
     "5AC45AA249F4846D74DD779DD825D066": "炸药",
@@ -989,7 +974,6 @@
     "B66A963A4F1715DA7B033093DCCF9262": "滑翔伞",
     "2600DF544E09C9AC9E0EA69C95FBBA7C": "重新部署滑翔伞",
     "87E39EA04808B27EA30A908F811EF0FA": "滑翔伞",
-    "0CC212B74A4C538363B8A1AF4698DB27": "独身投入战场，存活到最后。",
     "3C063B974F09C8A673507CBE3ADDB71D": "独身投入战场，存活到最后。",
     "8BEC89B8499664826B111685672B4E29": "独身投入战场，存活到最后。",
     "B8C59B304999B1F6964D1696FAB0E456": "黄金",
@@ -1013,9 +997,7 @@
     "F0737F4E40417749A441A59843B932F0": "墓地航海者",
     "0B5C62D0400E95930AEE12B1D2116EE2": "绿色",
     "5D14C5F74CA277758C0476AA504D7CEA": "洞穴",
-    "2F8E1CA74ECE10A40A6200AFCA9AB2C8": "组成小队，与其他队伍争夺胜利，笑到最后。",
     "331DB866438F7C72234C5B8338CC44A0": "组成小队，与其他队伍争夺胜利，笑到最后。",
-    "708C85D2416421620CD59FA2E2C10C81": "组成小队，与其他队伍争夺胜利，笑到最后。",
     "99E9D5F34DC01FC6B8774DB154EAC42E": "突击枪械步枪机关枪轻型子弹自动",
     "BD171E23474EFDCBD7F02C9D974BF923": "突击枪械步枪机关枪轻型子弹自动",
     "28BB4D024C130854E71CF4A22D80FF5B": "枪械 机枪 ",
@@ -1155,17 +1137,9 @@
     "41D131AC42BE610B50BC2B8699CE69F4": "安全降落并<Emphasized>更高地跳起</>",
     "63037FB94900FB1564D17B8D3B141318_Option 00": "着陆路径被阻挡",
     "5B11769D4F71D4885B2B89B1D6C94BDE": "拉尔斯挑战",
-    "43C636AD4055E070A1814FAD8B09AC1A": "坚持到最后的双人小队赢得胜利",
-    "467E016E45A42621B5E9E0AB3EF7406C": "坚持到最后的双人小队赢得胜利",
     "4D5F2A8D4C21C8D7E5939D8FA4E9B799": "坚持到最后的搭档赢得胜利",
-    "6F9C1DE3404CC98D7B61CC8FAB998751": "坚持到最后的人赢得胜利",
     "C21BFCC843ECBDD4244B80BC06CC68DC": "坚持到最后的人赢得胜利",
-    "0EAF945F4D112289133FCAAE8A04FEAC": "坚持到最后的小队赢得胜利",
-    "16A8295D47A2161AF8459C931E0D6428": "坚持到最后的小队赢得胜利",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "坚持到最后的小队赢得胜利",
-    "A7EBE5AD488F015454C9ABA73187CDA2": "坚持到最后的小队赢得胜利",
-    "1BAC988D4BE8BF136AF726B7914DBB8E": "坚持到最后的三人组赢得胜利",
-    "593710F041FC73B14B768D805A261803": "坚持到最后的三人组赢得胜利",
     "0E7DAF39462A8FDB208B1B94A8372C42": "发射升空，呼啸而过。冷却后可再次使用。",
     "203048A346124F2326AE7489CF3CF605": "发射升空，呼啸而过。重新激活可提前取消。",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "发射升空，呼啸而过。重新激活可提前取消。",
@@ -1183,7 +1157,7 @@
     "3DA57402427AD07E9EEF1182BFB26A44": "左尾",
     "EF98507D4A9602DC9B4316BE1ED0C7B8": "左翼",
     "EF22E85B49A871DF9C133DA1F84B3900": "乐高主题游戏（JunoTG）",
-    "84C3BBA14C6CFD722047408811DD825B": "乐高主题游戏共享（LFNTG）",
+    "84C3BBA14C6CFD722047408811DD825B": "乐高主题游戏共享（LFN）",
     "FDA97C5F4842CB9AE5195393C8759F84": "乐高主题最小（JunoTM）",
     "0F93E33949F18F9AC630988B1779501D": "长度",
     "55D9779A456076ABC653E4AF1DA4E4E8": "视线",
@@ -1343,10 +1317,6 @@
     "8053EDE044FBF1265F6B1DBCEB781AED": "无战斗同捆包购买选项标记",
     "CBAC2A8245779FCB3C9F6B81D1A31342": "无战斗同捆包购买选项标记",
     "E261C67141F14F9652FD0C93C404E058": "无战斗同捆包购买选项标记",
-    "728166DF40860F5361F4A19937CC172B": "无建筑",
-    "7FDF8EB848546CA80CCFB5BD469609D5": "无建筑",
-    "8D361C9548DC46AF05FC699F7DDF362C": "无建筑",
-    "B693137D453A34B460A400B2C9BC9FAA": "无建筑",
     "74B0959E4E4A1C023C8183802DA98EBB": "无职业",
     "DEFB1E9148E435E13EC57EB6E1D449C3": "没有燃料",
     "CDE7CA5C45B5B95F9B59029D105CE8E7": "没有燃料！",
@@ -1394,19 +1364,13 @@
     "516CA75D4CF5403A2F82BF838CD51DB7": "过时模块和属级",
     "6EB89D324C5E00500994CD96A83D5A72": "过时模块和属级",
     "239C56EB4D132A667FA6FBB4C3EC025D": "皮肤",
-    "8B6494CE4E4559C92AE9EA80CA6ABD64": "比对手坚持更久",
     "4A9589F34AB5E10379942BBC15BC2F21": "有备无患",
-    "3F71CF134C5611AE2678858EB2829609": "超频护盾",
-    "4AE6D7A04B229CC91981D08C0DFA5F10": "超频护盾",
-    "8135E537499366CB0A97F1BB0B160E72": "超频护盾",
-    "AB53E3BE4B82E5EF8ED1158F423278B4": "超频护盾",
     "0399733A45284122D4FA1A91F1B55A7A": "加时挑战完成令牌",
     "23E4AD8040BD27B12F54D592B136B741": "加时挑战完成令牌",
     "60E8BD514CA49B8427DE5E968D50D6D0": "加时挑战完成令牌",
     "B6C570664C3322374D227E9C64E5CE53": "加时挑战完成令牌",
     "86A84DD84459F5837773B3BF3ECA2AAB": "力量原石",
     "C3DD25E14510FC9EE31B5DA2464BB43A": "与一位玩家组成小队，击败所有对手。",
-    "F53B296340C59B61E7F25CAD2D099037": "与一位玩家组成小队，击败所有对手。",
     "666DA32449CF40B24E7D1EAC0965A360": "水中飞鱼",
     "043E58CA40A0C7DFC66382B49649CBDE": "微粒",
     "B9016A7C440D95DEF4D8E0B4B607A19F": "微粒",
@@ -1417,12 +1381,7 @@
     "42BE8AEA47AC24A46AC90FBAC18CF477": "个人经验加成",
     "9A0379234914781523C92E86524D9CAE": "个人经验加成",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "选择着陆点，搜索装备。",
-    "64AD0DDF44CE2F5CAC01138692B7D3F8": "选择着陆点，搜索装备。",
     "69143D2545BB22E7C1E85180E84956D6": "选择着陆点，搜索装备。",
-    "7628F96349992B405AC53AA1794F0549": "选择着陆点，搜索装备。",
-    "83442C93431D30D525941EB7558D1E4F": "选择着陆点，搜索装备。",
-    "BB6F8C82403A7CEE42B60FBC587FA422": "选择着陆点，搜索装备。",
-    "BFE554FE4DB039079E95F6981704E2E8": "选择着陆点，搜索装备。",
     "EDCBC677446BC5F213863580F3C0A3B5": "选择着陆点，搜索装备。",
     "B3CFEDE943AA56C0AEE82CA08F806463": "拾取",
     "7240B5BC46A81D296CBCA080DF98ECB7": "镐奔跑",
@@ -1490,21 +1449,12 @@
     "43088BA143F2B6BCAEE378847172BE8C": "四轮粉碎者",
     "CC13E7A44B19B6541560D085C426791D": "四轮粉碎者",
     "393E9456499B520AC90D5E8597A7D23D": "<Emphasized>最后5发子弹</>会造成<Emphasized>更高伤害</>的静音冲锋枪",
-    "AEBB89F442C1D29C9277D5A10B1CFC71": "五人",
     "43E272F8443991243556F0AB98EC9BBE": "现实原石",
     "2A5097B944627605414956BB8AE4337B": "随机",
     "318128844F99D44E7F5C91B8F5457418": "随机生成",
     "AE030E304F5F9780D063B09D3B1D7C72": "远程弓",
     "E6EE95714DC76EF72E9B299D4F14A675": "远程弓 爆炸弓",
     "1CBC3F3747EECA210049B99100CF9AFC": "远程武器",
-    "5DE047C24F180A1105DC75A6DB8EC0C6": "大逃杀段位",
-    "6C8E638B41A592AB4E8BE4ACA038C392": "大逃杀段位",
-    "8733662A43E19880D8477ABC0873E06A": "大逃杀段位赛",
-    "C0A48EEE420D2792EFEABCA23363F93A": "大逃杀段位",
-    "110AC5424A9CD65F8616369A58BB9FDC": "零建造段位",
-    "3CCF81374E0A4E25BDF11EA663A201F6": "零建造段位",
-    "8B38F7F24917A62647A50E9DC658AEE3": "零建造段位",
-    "B40A36024BBE098C75EEDE9D276FE71C": "零建造段位",
     "139A99CB4D3883CEA2F066BBA59EBD58": "速射冲锋枪",
     "FD23E7C946966E8E24F1ADA1EDA51CB1": "速射冲锋枪+",
     "BA4B1FDD40153AE8C9FC76ACC646E32C": "提升了<Emphasized>弹匣容量</>的高射速冲锋枪",
@@ -1515,10 +1465,6 @@
     "1C77EAFB46C48299170B7486AEFB6294": "橙红",
     "7125E4704BEA318C6BD3D69B5893D080": "精制过的制作素材，通常可在宝箱中发现，能够用其他素材制作。",
     "16DA40C14B2BC801935504956E31A9C9": "游泳时回复<Emphasized>生命值</>",
-    "6008627544CF6105EF4D3A9CD30C8BF8": "再生超频护盾已启动，通过它们保持战斗力。",
-    "69CD0F42427AF85EEB8A0F945648347A": "再生超频护盾已启动，可通过它们保持战斗力。",
-    "AECBC7014762FC24FC1F79AFF9C303CC": "再生超频护盾已启动，可通过它们保持战斗力。",
-    "BC225CF147155267909DD59C79265F16": "再生超频护盾已启动，可通过它们保持战斗力。",
     "D956F3B24B85A136EDFF7681AD74FB8C": "重新振作",
     "4DA1684D402A000482C5E196DBAEEA57": "救护者（迷惑者）",
     "693438894A15790A4E7560A0E307A499": "救护者（迷惑者）",
@@ -1633,7 +1579,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "护盾偷取",
     "4F611C954A5378BFC1804C96BB3981FE": "护盾增效",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "投掷盾牌",
-    "6FE5EF624909BEBF19A4F7A143733F40": "舰载加农炮",
     "D48B88DA4EC76F3203A964A55E4C04E7": "舰载加农炮",
     "85A285654B56001B52E9ABBC806822EB": "震荡波装置",
     "8E57565847BBBCA8EE6AD38208D056E1": "震荡波手雷+",
@@ -1664,9 +1609,7 @@
     "D8644E6D483F77ABE1E733885BCCC6FD": "雪人 实用道具",
     "F24F341641A4FA3F48ABCB8574D8C08C": "社交",
     "6975749C41271746F89557A170BC3440": "单人",
-    "69E4B37A43B5B8D5B463D1804DB44BCF": "单人",
     "9D386B354AC0CE9DF6302EA26A39F514": "单人",
-    "E9EA6DC14E2DD703707893A0982B28C3": "单人",
     "F8FC74A04B95B293F430E9820F119697": "单人",
     "0784C09346B728C02D1AF5902E492822": "火花英雄季卡",
     "DAC933A8407FB35BAB93D480EBADA7CA": "火花焦点模板",
@@ -1700,8 +1643,6 @@
     "6081D89D44C1A4CA364179BC95D47978": "快速换弹",
     "CD5B0A744223502F67BABD81B1230D5D": "涂鸦",
     "CD3076B64ADB97607D7AF4A750656533": "萌芽TG（主题游戏）",
-    "032AE3DE426C6820537F9A913730E19E": "小队",
-    "7035BEE948A0E8CC30E4DC95823D5A21": "小队",
     "E9F2A9B74636BB7610FE8E8BD075580C": "小队",
     "459B35F94D969E08A4D1109E18B98C2F": "制式<Emphasized>近战</>武器",
     "81F9D4414FEA2CB4DD2813A6E08CB98B": "制式<Emphasized>远距离</>武器",
@@ -1732,12 +1673,7 @@
     "F9C7F25943011FD6980D4D8B1A29C757": "初始特工能力",
     "4F03368E4610C163685D4B821835E30D": "正在开始游戏",
     "DF374A4C4B641289F968258B7494F90E": "停留在<Emphasized>空中更久</>",
-    "0611FAA245AF688EFA1D3ABAF88BF0F1": "留在风暴之眼中",
-    "2F214E7F48E66EFE1C115C8F7E2E595C": "留在风暴之眼中",
     "404A7F8F45CCEA3AC57992A9D25A2D4A": "留在风暴之眼中",
-    "67EBCAF44A10423717EA0E9DF0B11170": "留在风暴之眼中",
-    "6C0CBF054F0F23BA941ABCA75F405034": "留在风暴之眼中",
-    "A07147014E36B1D243DF9C89E25878E3": "留在风暴之眼中",
     "BD933A0A4D2108A6FF3D948E3CD2DBD4": "留在风暴之眼中",
     "E5B8A51D416E77718A746EB15445A3B2": "留在风暴之眼中",
     "749E72FD4C3CC3C5F34EBF91EF87C060": "操纵加农炮",
@@ -1781,7 +1717,6 @@
     "01AC17C945E9F716F2DE30AD21D419D4": "消音狙击步枪+",
     "B32EDD8A45D40C18A0F6F497FAEADAE2": "带<Emphasized>热感应瞄镜</>的消音狙击步枪",
     "CBC05E714B87E7BE8B6FC596A6097237": "消音冲锋枪",
-    "00CA308D460DBD1D0DBF3BA35E0368E5": "坚持到底，赢得大获全胜！",
     "DDDAFD77445379EE9BAF399713A063D6": "幸存者",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "游得<Emphasized>更快</>",
     "E928E3A54C017ABB67564BB0EE06B190": "切换档案",
@@ -1872,17 +1807,9 @@
     "E415969B4BAAA6B59B6BFF9CAE728F5D": "羊驼行动挑战完成标识",
     "611AA9CD49A134C1CF4EF793A0DCAD73": "原创街区",
     "57698C274195DFFFFFF44CB43FCB651F": "生命之泉",
-    "2F83EE994C53BADD8F87BCAE2EBE4071": "只有一人能获得胜利。",
     "3961708B410A75AE04191ABCAD93E9F0": "只有一人能获得胜利。",
-    "58196919412BCB1D74783E8E981D2BBE": "只有一个队伍能获得胜利。",
-    "6C225C9D49F86E1E30DCC3A701B26E56": "只有一个队伍能获得胜利。",
-    "6C7119CA44F1ED5685A324B982ED8276": "只有一个队伍能获得胜利。",
     "900A843C489A158D9D7014B7688759B3": "只有一个队伍能获得胜利。",
-    "A29937E74B5530D54A09F291E771AB54": "只有一个队伍能获得胜利。",
     "DBD8EB9C418D8B3F612D7091AB3132F5": "只有一个队伍能获得胜利。",
-    "EADE4BDA4E918BF507B81B84222A950C": "只有一个队伍能获得胜利。",
-    "ED03D0BC43A54D93E88728A02C17352F": "只有一个队伍能获得胜利。",
-    "EF85CDE6446B65421F3064A152A6DAE1": "只有一个队伍能获得胜利。",
     "9668C00D43496C901D756E874556A4B7": "此代码可兑换参与 Fortnite移动端iOS活动资格 ",
     "2291CAD9430769CC73D99D9B54DE8C4B": "此高级账户能得到V币而非X光羊驼奖励。",
     "03DCCA2140EB4E06D8B69FB8CFE78A1B": "投掷",
@@ -1934,8 +1861,6 @@
     "EA08EDDB48C12586ECDF1589AB5C989C": "轨迹颜色升级",
     "06B8D6624AAC122415F9C0BFABD33BD4": "训练机器人",
     "D71A7E704422BDFE7934EF8C6574DFAA": "闯入者",
-    "0BE26EA94B6DAE3CA1DE029A8BFF93DE": "三人",
-    "B8B7A46843A2FC0715BD8A924EC6B145": "三人",
     "E907B282416949BFACC17482A8283EE7": "可靠的双持武器",
     "E4621E044AA0247AA73F99BB8EB8D845": "可靠的猎首",
     "AFCC8C60409A488FEF95B1920178638A": "可靠的弹匣",
@@ -2036,10 +1961,6 @@
     "CD4BED3D497056ACDDF697B2A1CED907": "WIP任务令牌",
     "FBD7D9E444205DDD378D8381B49848B1": "等待玩家",
     "A3594BE3426BC422F96680B9F1815D84": "Wasabi Quest Token",
-    "4406E6154F9246CE4482DCB93FF91A0B": "注意脚下，利用掩体，在没有建筑的情况下赢得地面战的胜利。",
-    "DA9EF0A9444088E1157495BE637A0B4E": "注意脚下，利用掩体，在没有建筑的情况下赢得地面战的胜利。",
-    "E1927EF245666D50E41FBD832EB57A44": "注意脚下，利用掩体，在没有建筑的情况下赢得地面战的胜利。",
-    "F75E7A144FF0A719B84A21893B2A8537": "注意脚下，利用掩体，在没有建筑的情况下赢得地面战的胜利。",
     "1FA31AFC497191C5AD7467BFC4E8E6C7": "准备就绪的助推器",
     "583601D34A4FAC568666FE8DFE288DFB": "准备就绪的助推器",
     "1FD4C33549D3B93FF40EA9953E97F5CE": "被淘汰后发送信号到",
@@ -2058,7 +1979,6 @@
     "E710C08E4E5C70FF8A286CB6EA101B4F": "是否显示信标、HUD元素或同时显示。",
     "D3A54EAE40408580269CF39BCCA37888": "白色",
     "195F2EE048C26E190C845691145D6CF6": "宽度",
-    "8B36050244257ED13DABA5BB06C9381C": "狂野西部",
     "9BD108A54CA8FA397E1DBD95E37958BB": "冬季节日挑战完成令牌",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "冬季节日钥匙",
     "194B94D745612B291C0C0CAC0487B727": "女巫扫帚",
@@ -2241,6 +2161,11 @@
   },
   "AntiCheat": {
     "ClientErrorMessage": "{provider}错误：{message}\n\n请参阅{provider}常见问题获取更多信息。"
+  },
+  "ArcadeVolley": {
+    "PlayerWinsFmt": "玩家{0}胜利！按下以重新开始",
+    "PressToServe": "按下发球",
+    "PressToStart": "按下开始"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "未命中"
@@ -2839,6 +2764,11 @@
     "FortAnimGraphNode_BlendFacialCurves": "动画|曲线",
     "FortAnimGraphNode_BlendFacialCurves_Title": "融合面部曲线",
     "FortAnimGraphNode_BlendFacialCurves_Tooltip": "按照选定的预设，以自定义方式将来自两个方案的面部曲线进行融合"
+  },
+  "BoostBall": {
+    "HighScoreFormat": "最高分：{0}",
+    "ResultFormat": "{0} - {1}",
+    "ScoreFormat": "{0} - {1}"
   },
   "BootToFrontend_LowMemoryFallbackStrategy": {
     "Juno_BootToFrontEndMessage": "内存达到临界水平-会话结束。\n再试试看！"
@@ -3544,6 +3474,21 @@
     "EmptyRecentsTabSubtitle": "你最近玩过的岛屿会显示在这里。去探索新内容吧。",
     "EmptyFollowingTabTitle": "目前还没有内容！",
     "EmptyRecentsTabTitle": "准备好畅玩了吗？"
+  },
+  "DiscoveryGenreLabel": {
+    "DiscoveryGenreLabel_AdventureRPG": "冒险与角色扮演",
+    "DiscoveryGenreLabel_BattleRoyale": "大逃杀",
+    "DiscoveryGenreLabel_DeathrunPlatformer": "死亡跑酷与平台跳跃",
+    "DiscoveryGenreLabel_Horror": "惊悚",
+    "DiscoveryGenreLabel_MusicRhythm": "音乐与节奏",
+    "DiscoveryGenreLabel_PartyMiniGames": "派对与小游戏",
+    "DiscoveryGenreLabel_Roguelike": "肉鸽",
+    "DiscoveryGenreLabel_RoleplayingSocial": "角色扮演与社交",
+    "DiscoveryGenreLabel_Shooter": "枪手",
+    "DiscoveryGenreLabel_SimulationTycoon": "模拟与大亨",
+    "DiscoveryGenreLabel_SportsRacing": "体育与竞速",
+    "DiscoveryGenreLabel_Strategy": "策略",
+    "DiscoveryGenreLabel_Survival": "生存"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -5012,11 +4957,14 @@
     "RefBoneAxisTooltip": "选择角色直立时在组件空间中指向“向前”和“向上”的参考骨骼变换轴。默认值为骨盆的常规方向。",
     "StateNameToolTipText": "状态名称 - 双击可编辑。",
     "StateNames": "状态名称",
+    "OrientationTypeLabel": "野生动物类型",
     "UpLabel": "上",
     "WeightAngularVelocityMapping": "权重角速度映射",
     "WeightLinearVelocityMapping": "权重线性速度映射",
+    "WeightOrientationMapping": "权重方向映射",
     "WeightAngularVelocityMappingTooltip": "权重根据角速度的选定分量在指定范围内进行缩放（如果速度的选定分量小于等于范围的最小值，则权重为零；如果大于等于最大值，则权重为一）。",
     "WeightLinearVelocityMappingTooltip": "权重会根据线性速度的选定分量在指定范围内进行缩放（如果速度的选定分量小于等于范围的最小值，则权重为零；如果大于等于最大值，则权重为一）。",
+    "WeightOrientationMappingTooltip": "权重会在指定范围内根据所选方向类型进行缩放。",
     "BlueprintPropertiesRowText": "vvv 蓝图属性 vvv",
     "NativePropertiesRowText": "vvv 原生属性 vvv"
   },
@@ -5391,6 +5339,7 @@
     "FreePrice": "免费",
     "LegoKitOfferDescription": "乐高®套组",
     "LeavingToday": "今日即将下架",
+    "LimitedTimeOfferLegalText": "限时优惠",
     "PegiMusicWarning": "音乐下载未经过PEGI评级 - www.pegi.info",
     "OutfitPackDescription": "皮肤组合包",
     "PackDescription": "组合包",
@@ -5614,6 +5563,9 @@
     "Game": "游戏",
     "TeamScoreboardNameFormat": "小队{0}",
     "JoinInProgressTooLate": "你尝试加入的游戏已经结束。"
+  },
+  "FortMinigamePersistence": {
+    "PersistenceUnavailable": "此岛屿无法使用已保存的进度，所以你现在无法加入。请稍后重试。"
   },
   "FortMissionPopupWidget": {
     "REWARD:": "奖励：",
@@ -7344,7 +7296,6 @@
     "MouseZoomScaling_Legacy": "传奇",
     "LegacyControllerOptionsCollection_Name": "旧版操控",
     "LegacyControlsEnabled": "启用旧版操控",
-    "RenderingModePerformanceLegacy": "旧版性能模式（已弃用）",
     "LegalCollection_Name": "法律",
     "LegalInformation_Name": "法律信息",
     "LicensedAudioTreatment_Name": "授权音频",
@@ -7706,16 +7657,11 @@
     "MobileFPSType_Description": "选择所需的游戏内帧率用来微调你设备的性能。菜单中最高帧率为30FPS。",
     "HybridMouseControlMode_Description": "请选择要用哪个Joy‑Con 2来进行鼠标控制。\n注意：鼠标控制功能仅在部分游戏体验中可用！",
     "TouchInteractMode_Description": "选择触摸交互模式。\n\n<strong>关闭</>：关闭触摸交互。",
-    "RenderingModeNoDX11_Description": "选择使用哪种低级渲染模式。\n\n必须使用DirectX 12，才能启用Nanite、Lumen和硬件光线追踪等增强画质的高端渲染功能。\n\n“性能”模式通过禁用大部分渲染功能来减少内存使用并减轻CPU和GPU负载，从而显著提高性能。该模式也使用DirectX 12。\n\n旧版性能模式（已弃用）类似性能模式，但使用的是DirectX 11。",
     "RenderingMode_TwoModeDescription": "选择使用哪种低级渲染模式。\n\n必须使用DirectX 12，才能启用Nanite、Lumen和硬件光线追踪等增强画质的高端渲染功能。\n\n“性能”模式通过禁用大部分渲染功能来减少内存使用并减轻CPU和GPU负载，从而显著提高性能。该模式在可能的情况下使用DirectX 12，否则使用DirectX 11。",
     "FortReleaseVersion_Description": "选择您要使用的发布版本来决定启用哪些功能（如：15.20、15.30、16.00等）",
-    "MatchmakingRegion_Description": "选择你希望连接的服务器。临近的服务器通常会有更好的性能。选择“自动”以最佳连接来挑选服务器。",
-    "MatchmakingRegion_Description_PS4": "选择你希望连接的服务器。临近的服务器通常会有更好的性能。选择“自动”以最佳连接来挑选服务器。",
-    "MatchmakingRegion_Description_PS5": "选择你希望连接的服务器。临近的服务器通常会有更好的性能。选择“自动”以最佳连接来挑选服务器。",
-    "MatchmakingRegion_Description_Switch": "选择你希望连接的服务器。临近的服务器通常会有更好的性能。选择“自动”以最佳连接来挑选服务器。",
-    "MatchmakingRegion_Description_Switch2": "选择你希望连接的服务器。临近的服务器通常会有更好的性能。选择“自动”以最佳连接来挑选服务器。",
-    "MatchmakingRegion_Description_XB1": "选择你希望连接的服务器。临近的服务器通常会有更好的性能。选择“自动”以最佳连接来挑选服务器。",
-    "MatchmakingRegion_Description_XSX": "选择你希望连接的服务器。临近的服务器通常会有更好的性能。选择“自动”以最佳连接来挑选服务器。",
+    "MatchmakingRegion_Description_V2": "选择你的匹配地区。自动旨在提供最佳体验。显示的往复范围为估算值。游戏内Ping值在不同对局和体验之间可能会有所不同。",
+    "MatchmakingSubregion_Description": "选择你偏好的匹配子地区。匹配会优先考虑你的选择，但不保证一定会分配到该位置。自动旨在提供最佳体验。选择子地区可能会延长排队时间，并降低比赛的公平性。显示的延迟为估算值。游戏内Ping值在不同对局和体验之间可能会有所不同。",
+    "CompetitiveRegion_Description": "选择你的锦标赛地区。仅当你的匹配地区包含多个锦标赛地区时，才会显示此设置。",
     "BasicSensitivityCollection_Name": "灵敏度",
     "GyroV2Sensitivity_Name": "灵敏度",
     "SafeZone_Action": "设置安全区域",
@@ -7847,6 +7793,7 @@
     "StopRenderingInBackground_Name": "停止后台渲染",
     "StopRenderingInBackground_Description": "尽可能在游戏窗口未对焦时停止渲染。为其他应用程序释放 GPU 资源。",
     "KeyboardMovementStrafeDiagonal_Name": "扫射角度",
+    "MatchmakingSubregion_Name": "子地区偏好",
     "SubtitlePage_Name": "字幕",
     "SubtitlesCollection_Name": "字幕",
     "Subtitles_Name": "字幕",
@@ -7977,6 +7924,7 @@
     "TouchAndMotionCollection_Name": "触摸与运动",
     "TouchpadCollection_Name": "触控板",
     "EForceMaxTouchpadSensitivity_Name": "触控板灵敏度至最大值",
+    "CompetitiveRegion_Name": "锦标赛地区",
     "GyroButtonTrackball": "轨迹球",
     "GyroTrackballDecay_Name": "轨迹球衰减",
     "AimAssistPullStrength_Name": "追踪辅助瞄准强度",
@@ -8429,7 +8377,8 @@
     "Public": "公开"
   },
   "FortSettingValueDiscrete_Region": {
-    "RegionDisplayWithPing": "{RegionDisplayName}({RegionPing}ms)"
+    "RegionDisplayWithPingRange": "{RegionDisplayName}（{MinimumPing}-{MaximumPing}毫秒）",
+    "RegionDisplayWithPing": "{RegionDisplayName}({MinimumPing}ms)"
   },
   "FortSettingValueDiscrete_ReportPerfStats": {
     "Disabled": "已禁用",
@@ -8442,6 +8391,11 @@
   "FortSettingValueDiscrete_SocialBool": {
     "OFF": "关闭",
     "ON": "开启"
+  },
+  "FortSettingValueDiscrete_Subregion": {
+    "AutoSubregion": "自动",
+    "SubregionPreferenceRequiresRegion": "自动旨在提供最佳体验。如需更改此设置，请选择“自动”以外的匹配地区。",
+    "SubregionDisplayWithPing": "{SubregionId}({SubregionPing}ms)"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
     "VoiceChatMethod_Mute": "静音",
@@ -8543,7 +8497,8 @@
     "GameVoiceChannelsDisplayNameSecondary": "其他游戏成员"
   },
   "FortSocialHeaderItemVM": {
-    "TeamMembersListDisplayName": "队伍成员"
+    "TeamMembersListDisplayName": "队伍成员",
+    "VerseVoiceMyChannelListDisplayName": "语音频道"
   },
   "FortSocialInteractionMenu": {
     "InvalidInputFormat": "<text color=\"{0}\">无效</>",
@@ -8646,7 +8601,8 @@
     "PlaystationFriendPlatformName": "PlayStation Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "语音举报功能可以帮助我们审查所举报的社区违规行为。\n\n• 语音聊天开启时，语音报告会在每个参与者的设备上滚动存储五分钟的语音聊天音频，只有当参与者举报违规时才会将音频发送到 Epic Games。\n\n• 若你未满 18 岁，语音举报始终处于开启状态。\n\n查看语音聊天设置了解更多详情和选项。",
     "VoiceChatVRR_Accept_O18_NewPlayer": "语音举报功能可以帮助我们审查所举报的社区违规行为。\n\n• 语音聊天开启时，语音报告会在每个参与者的设备上滚动存储五分钟的语音聊天音频，只有当参与者举报违规时才会将音频发送到 Epic Games。\n\n• 语音举报通常处于开启状态，除非是在好友组成的队伍中，所有玩家都选择关闭语音报告。\n\n• 你可以在侧边栏查看语音报告功能是否开启或关闭。\n\n查看语音聊天设置了解更多详情和选项。",
-    "XboxFriendPlatformName": "Xbox 网络"
+    "XboxFriendPlatformName": "Xbox 网络",
+    "FriendshipActionRateLimited": "你在短时间内进行了太多操作。请稍后重试"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "在{timesince}前成为了好友",
@@ -8777,6 +8733,10 @@
     "SittingOut": "不参赛",
     "DownloadOnDemandProgress": "{0}%"
   },
+  "FortTextChatConversationVM": {
+    "PartyFrameworkUnavailable": "派对框架不可用",
+    "SocialToolkitUnavailable": "社交工具包不可用"
+  },
   "FortTextChatPlayerVM": {
     "RedactedUserBlocked": "<Blocked player>",
     "RedactedUserGeneral": "<Hidden player>",
@@ -8894,7 +8854,6 @@
     "EpicPartyInviteDetailsSent": "团队邀请已发送至<Username>{0}</>",
     "PartyInviteDetailsSent": "团队邀请已发送至{0}",
     "EpicPartyJoinabilityChangedInviteOnlyDetails": "此团队仅限受邀加入",
-    "EpicPartyJoinabilityChangedOpenDetails": "此团队可加入",
     "EpicPartyJoinRequestReceived_Title": "队伍加入请求",
     "EpicPartyMemberCreated": "玩家已加入团队",
     "PartyMemberCreated": "玩家已加入团队",
@@ -8918,7 +8877,9 @@
     "LocalPlayerEpicPartyPromotedToast": "你已晋升为团队领导者",
     "RequestToJoinParty_RateLimited": "你发送了太多次请求，请稍后再试",
     "FriendToastSelfTooManyFriends": "你的好友过多",
-    "FriendToastSelfOutboxFull": "你收到了过多的好友申请"
+    "FriendToastSelfOutboxFull": "你收到了过多的好友申请",
+    "EpicPartyJoinabilityChangedOpenDetails": "你的团队现可加入",
+    "NotifMgrForkMemberNoAccessToast": "{Username}无权访问所选分支，继续操作将忽略该分支。"
   },
   "FortUIStateWidget_Login": {
     "OfferRHIChangeForStability_Title": "更改渲染模式？",
@@ -8926,7 +8887,6 @@
     "UpdateCheck": "检查更新中……",
     "ConnectionCheckText": "正在检查你的连接……",
     "TryingLonger": "继续尝试，请耐心等待。\n前往{CheckStatusURL}查看详情。",
-    "OfferRHIChangeForStability_DX11": "DirectX 11",
     "FailedToLoadProfile": "档案加载失败。",
     "RefreshingContent": "正在获取动态内容……",
     "FindBestSettings": "寻找最佳设置?",
@@ -8935,7 +8895,6 @@
     "LoggingIn": "正在登录……",
     "NoInternet": "未检测到互联网连接",
     "OfferRHIChangeForStability_PerformanceMode": "性能模式",
-    "OfferRHIChangeForStability_FullDescriptionDX12PerfMode": "你的设备在性能模式下可能存在稳定性问题，导致Fortnite在游戏过程中崩溃。是否切换至旧版性能模式以获得更稳定体验？{OptionalAutoRestartText}",
     "NoInternetDesc": "请检查你的连接后重试。",
     "QuitText": "退出",
     "Benchmark": "正在运行基准……",
@@ -9425,6 +9384,7 @@
     "Message.Unauthorized": "你没有游玩此内容的权限。",
     "MfaRequiredForTournament": "要想参与该比赛，你必须在Epic账户上启用双重验证。点击{TurnOnMfaURL}启用。",
     "WrongNumberOfEventPlayers": "你需要加入完整团队以参加该比赛。",
+    "MatchCapExceeded": "你在本活动中的游玩局数已达上限。查看“赛事”标签页，了解更多详情和即将举行的活动。",
     "Error.AccountLevelTooLow": "你的账户等级未达到游玩标准。",
     "Error.BRRankLevelTooLow": "你当前的大逃杀段位（{0}）不符合游戏的最低要求：{1}。",
     "Error.BRRankLevelTooHigh": "你当前的大逃杀段位（{0}）过高，无法参加本次锦标赛。允许参赛的最高段位是{1}。",
@@ -10900,6 +10860,7 @@
   "Matchmaking": {
     "PartyMemberDisconnect": "团队成员已断开。",
     "PartyMemberTimeout": "团队成员连接失败。",
+    "MatchCapExceeded": "玩家在本活动中的对局次数已达上限。",
     "PartyTooBig": "尝试注册的团队成员过多。"
   },
   "MatchmakingContext": {
@@ -11596,7 +11557,7 @@
     "Join_Num_Alive": "加入队伍——{PlayersAlive}剩余"
   },
   "PawnOptionRegistry": {
-    "AthenaCharacterDisplayName": "雅典娜角色"
+    "DefaultCharacterDisplayName": "默认角色"
   },
   "PersonaCharacterModifierDetailsCustomization": {
     "VoiceDefault": "默认"
@@ -11770,7 +11731,19 @@
     "UFortQuestCategory::Misc": "杂项"
   },
   "QuestPanelDebugToolViewModel": {
+    "Placement_CategoryNotRegistered": "声明了匹配的标签，且对此版本有效，但从未注册。通常是时机问题——在重建类别后重新检查。",
+    "Placement_CategoryDisabled": "声明了匹配的标签，但bCategoryEnabled已关闭。配置可被覆盖，因此可以通过热修复进行设置。",
+    "Placement_CategorySunset": "声明了匹配的标签，但在此版本中已停用。",
+    "Placement_CategoryPluginUnavailable": "声明了匹配的标签，但其插件已停用。",
+    "Placement_CategoryUnreleased": "声明了匹配的标签，但将在后续版本中发布。",
+    "Placement_CategoryEventGated": "仅在IncludeQuestTagsByEvent下声明了匹配的标签，但该活动未激活。",
+    "Placement_CategorySuppressed": "已匹配但内容被抑制，因此不会获取任何内容，并拒绝回退。",
+    "Placement_NoOrganizationTags": "没有可供匹配的任务类别标签。",
+    "Placement_CategoriesNotYetBuilt": "整理时不存在任何类别。应可在重新构建时解决。",
+    "Placement_NoCategoryDeclaresTag": "没有任何类别声明这些标签或其父级标签。",
     "Visibility_NoView": "该任务不存在任何视图。",
+    "Placement_FallbackUnavailable": "未匹配到任何内容且回退不可用，因此此内容不属于任何类别。",
+    "Placement_BundleSuppliedNoTags": "打卡任务只使用其所属同捆包的标签，而这个同捆包没有标签。该任务自带的标签从未被读取过。",
     "VersionWarning_AssetSunset": "此资源在当前版本中已废止，且不可用。",
     "VersionWarning_AssetUnreleased": "此资源在比当前版本更晚的版本中发布，且无法打包。",
     "VersionWarning_PluginSunset": "此插件在当前版本中已废止，且无法打包。",
@@ -11948,6 +11921,9 @@
     "HasEnforcedSettingsU10Warning_Voice": "<strong>仅限好友</>是针对10岁以下儿童的最高设置。若你想选择更宽松的设置，需等到孩子达到足够年龄才可生效。",
     "HasEnforcedSettingsU13Warning_Text": "<strong>好友、队友和关联人</>是针对13岁以下儿童的最高设置。若你想选择<strong>所有人</>，需等到孩子达到足够年龄才可生效。",
     "HasEnforcedSettingsU13Warning_Voice": "<strong>好友、队友和关联人</>是针对13岁以下儿童的最高设置。若你想选择<strong>所有人</>，需等到孩子达到足够年龄才可生效。"
+  },
+  "SimpleOfferVM": {
+    "OutDateFormat": "结束时间：{Year}年{Month}月{Day}日{Time}（{TimeZone}）"
   },
   "SnapEditorVisualizer": {
     "DeleteSnapEntries": "Delete Snap Entries",
@@ -12443,6 +12419,24 @@
     "Athena": "大逃杀",
     "Creative": "创意模式",
     "Campaign": "守护家园"
+  },
+  "SubregionNames": {
+    "BAH": "巴林",
+    "FR": "法国",
+    "DE": "德国",
+    "IA": "爱荷华州",
+    "IL": "以色列",
+    "MX": "墨西哥",
+    "MUM": "孟买",
+    "NCAL": "北加利福尼亚州",
+    "OH": "俄亥俄州",
+    "OR": "俄勒冈州",
+    "SYD": "悉尼",
+    "SAO": "São Paulo",
+    "TX": "德克萨斯州",
+    "TOK": "东京",
+    "GB": "英国",
+    "VA": "弗吉尼亚州"
   },
   "SupervisedSettingsManager": {
     "TimezoneDisplayFormat": "{0}{1}（{2}）"

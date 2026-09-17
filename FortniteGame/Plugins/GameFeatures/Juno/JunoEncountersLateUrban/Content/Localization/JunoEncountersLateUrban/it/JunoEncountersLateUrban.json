@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Completa 3 Sfide di Gotham",
     "8545084D4037D8328A80AAA600F845B1": "Completa 3 Sfide di Gotham",
     "8867A2174A1B609CA14739BFA57AD7BA": "Completa 3 Sfide di Gotham",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Completa 5 Sfide di Gotham",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Elimina i nemici a Robinson Park",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Raccogli 10 peperoncini",
     "B724EFD84125E744670EEC852A03D7E5": "Raccogli 10 zucche",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Raccogli 30 corlucente",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Raccogli 30 unità di neve",
+    "7DD7744E44595A1743F019932761EF3D": "Raccogli 30 ghiandole puzzolenti",
     "72ED820E417BF03B7D74628BC7A0D50A": "Raccogli 30 unità di neve",
     "AC0061C9484C5D72D42634A7DE52BD86": "Raccogli 50 corlucente",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Commissario Zuccordon - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Crea 10 unità di biomassa",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Sconfiggi 10 scorpioni",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Sconfiggi 10 scorpioni",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Sconfiggi 20 scagnozzi",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Sconfiggi 3 orsi delle nevi",
     "60F095F34D1AC980533CABBD59BE64D2": "Sconfiggi 3 orsi delle nevi",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Sconfiggi gli scagnozzi a Robinson Park",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "Icebergo Lounge - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "Gli scagnozzi di Ivy devono essere fermati! <empha>Segui il Bat-segnale fino a Robinson Park e sconfiggi gli scagnozzi di Ivy.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "Ivy sta facendo, come posso dire... \"vomitare tantissimo\" tutti quanti a Gotham. Pensiamo che stia usando una specie di tossina e dobbiamo studiare un antidoto, subito. <empha>Sconfiggi 10 scorpioni</> nella <img id=\"IcoDes\"/> <Des>Valle arida.</> Finché non lo farai, la città sarà a rischio. *Urgh* Uh... devo andare.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Notturno di guardia",
+    "A75F4FE844F88A4440153482E2EA221C": "Notturno di guardia",
     "E5D175ED4A01969301A19E98405F2E01": "Crea 10 unità di biomassa",
     "8F85938943E9D27E8F7DD2A3D347810B": "Da Gotham sono spariti altri edifici e c'è qualcosa che puzza. Ho il sospetto che sia arrivato qualcuno di nuovo in questo caos. Scopri di più. <empha>Segui il Bat-segnale sulla mappa e completa 3 Sfide di Gotham.</>",
     "686582044561A9744F6D4B8E6A15A766": "BAM!-terie - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "Lo splendore oscuro - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "La traccia puzzolente si è raffreddata. Ma forse il freddo è proprio quello che ci serve. Vedi se riesci a scoprire qualche informazione. Vai nelle <img id=\"IcoFro\"/> <Fro>Terre ghiacciate</> e <empha>raccogli 30 unità di neve.</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "Avevamo ragione sul fatto che Cobblepot tirasse le fila, ma il Pinguino per ora ha congelato i miei piani. Non preoccuparti, Alfred mi sta portando una cioccolata calda. E tu, invece? Metterai alla prova sul campo alcune tecniche di combattimento artiche. Vai nelle <img id=\"IcoFro\"/> <Fro>Terre ghiacciate</> e <empha>sconfiggi 3 orsi delle nevi.</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Notturno di guardia"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "\"Qui Batman. Sembra che l'Enigmista abbia raggirato gli scagnozzi, facendo seguire loro i suoi piani per sopraffarci. Non sono davvero le persone più intelligenti. Scommetto che quegli sciocchi cadono anche nelle truffe di phishing via e-mail.<emphasis>Sconfiggi 20 scagnozzi.</> - Batman. Chiudo.\"",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Sono Batman. Poison Ivy è tornata in azione. Ha alterato la flora locale, e c'è in giro una puzza che mi ricorda i picnic del Pinguino in piena estate. Le piante hanno iniziato a rilasciare <EmphA>ghiandole puzzolenti</>! Elimina gli agenti contaminanti. <EmphA>Raccogli 30 ghiandole puzzolenti</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Sfida accettata",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Completa 5 Sfide di Gotham",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Raccogli 30 ghiandole puzzolenti",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Sconfiggi 20 scagnozzi",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Un odore malvagio",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "Gli scagnozzi si scategnano",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "Già, sono di nuovo Batman. Alfred ha rilevato attività. E non di quelle divertenti in cui basta preparare i Batarang e dei biglietti con sopra scritto \"Scusa per aver mandato all'aria i tuoi piani\". Vai a indagare. <EmphA>Completa 5 Sfide di Gotham.</>"
   }
 }

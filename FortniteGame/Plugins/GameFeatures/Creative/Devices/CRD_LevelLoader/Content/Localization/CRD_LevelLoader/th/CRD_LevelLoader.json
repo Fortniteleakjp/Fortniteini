@@ -11,10 +11,10 @@
   },
   "UserOptionDefinition": {
     "BP_LevelLoaderDevice_C.Disable.DisplayName": "ปิดใช้งาน",
-    "BP_LevelLoaderDevice_C.Disable.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_LevelLoaderDevice_C.Disable.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
     "BP_LevelLoaderDevice_C.Enable.DisplayName": "เปิดใช้งาน",
     "BP_LevelLoaderDevice_C.bEnableAtGameStart.DisplayName": "เปิดใช้งานเมื่อเริ่มเกม",
-    "BP_LevelLoaderDevice_C.Enable.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_LevelLoaderDevice_C.Enable.Description": "เปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
     "BP_LevelLoaderDevice_C.LevelInstanceName.DisplayName": "ชื่ออินสแตนซ์ด่าน",
     "BP_LevelLoaderDevice_C.LevelInstanceName.Description": "ชื่อของด่านที่จะโหลด",
     "BoolMetaData.FalseDisplayName": "ปิด",

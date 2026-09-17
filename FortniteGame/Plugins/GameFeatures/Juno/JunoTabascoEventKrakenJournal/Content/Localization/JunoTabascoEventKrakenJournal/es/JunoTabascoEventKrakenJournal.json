@@ -3,8 +3,7 @@
     "27EB9A0F4F056B7AD74894BC18571450": " Investiga el <EmphA>santuario</> y coloca la <EmphA>energía desconocida</>",
     "A936F4B748CFDC33DBC2CA869E8E0FD1": " Investiga el <EmphA>santuario</> y coloca la <EmphA>energía desconocida</>",
     "F9E6EBD14A071660586A4BB1B0F8C3BD": "<EmphA>El capitán Flintlocke</> ha tomado tierra en las costas de Riscos Rompeolas. Ese viejo pirata está aterrado por algún motivo. ¡Más vale que averigües por qué!",
-    "8A702C984F7CB482CFAF0084E4328CC8": "<EmphA>Flintlocke</> perdió su flota de naves por culpa de alguna clase de criatura espantosa en la <img id=\"Kraken\"/> <EmphA>Isla Brumosa</>, frente a la costa. Ve hasta allí para conseguir <EmphA>tomos de piezas de nave</> y construir tu propia nave. Necesitarás <EmphA>energía desconocida</> para atraer a la criatura.",
-    "3B84648D45F521D28D7CFDA13C4B9569": "<EmphA>La criatura de las profundidades</> tiene unos cuantos <EmphA>tomos de piezas de nave</> más en la barriga. Si consigues encontrar más, puede que consigas suficientes piezas para construir tu propia nave.",
+    "8A702C984F7CB482CFAF0084E4328CC8": "<EmphA>Flintlocke</> perdió su flota de naves por culpa de alguna clase de criatura espantosa en la <img id=\"Kraken\"/> <EmphA>Isla Brumosa</>, frente a la costa. Ve hasta allí para conseguir <EmphA>piezas de nave</> y construir tu propia nave. Necesitarás <EmphA>energía desconocida</> para atraer a la criatura.",
     "8D8C9D10470DC6454D35CD9766824B2E": "Según <EmphA>Flintlocke</>, la criatura tiene antojo de <EmphA>energía desconocida</>. ¡Ve a echarle un vistazo a ese <EmphA>santuario</> de ahí y sírvele una buena ración!",
     "77E62C894948ECF6DC86C495B7FC7190": "Una escapada isleña",
     "2A8573BA40439D3DFE555FBEB27A68AE": "Derrota a <EmphA>la criatura de las profundidades</>",
@@ -12,7 +11,6 @@
     "AFDE6587424A45183D243B8110833059": "Derrota a <EmphA>la criatura de las profundidades</>",
     "60C23B6745080BA38ADE5AB16EEFFDA0": "Equípate y lee el <EmphA>tomo de piezas de nave</>",
     "88B554D949DA8266B1969BA862505118": "Equípate y lee el <EmphA>tomo de piezas de nave</>",
-    "BCC8E6A348E7BD5F1BEFE7AE39C2F0CA": "Equípate y lee el <EmphA>tomo de piezas de nave</>",
     "645593DD470231CB61A8A0B626B87E44": "Cojo otro muelle",
     "C651EAA644335BF75BDBF986C3DE4B73": "¿Ese <img id=\"Airship\"/> <EmphA>muelle de naves</> siempre ha estado en la costa? Se percibe algo raro en el aire, ¡y no me refiero a las naves!",
     "CCE1E3D04F6BD600C678B8B18A205027": "Si estás leyendo esto, significa que <EmphA>la criatura de las profundidades</> está intentando reordenarte el cuerpo con rayos láser. ¿Y si procuras impedírselo?",
@@ -21,11 +19,8 @@
     "E55DB19F44C03178D587B1B0D22F69D4": "Oh, capitán, mi capitán",
     "0D218B134F0E8BA7FC4FAC9F4C87836A": "Ah, por eso da miedo lo desconocido",
     "2592332348A53874177B8E8CCDE9EF96": "Investiga el <EmphA>santuario</> y coloca la <EmphA>energía desconocida</> en la <img id=\"Kraken\"/> <EmphA>Isla Brumosa</>.",
-    "0F2E9E5F4868EB17175457B184CFF7A8": "¡A imprimir!",
     "0F63417A4DF9BC3BCCCF20B7B2CF8374": "Lee los <EmphA>tomos de piezas de nave</> restantes",
-    "87F408224575754B32FD39AEB13D19C8": "Lee los <EmphA>tomos de piezas de nave</> restantes",
     "FFE45B7F45D56AF6B6586FBD8FADBB27": "Lee los <EmphA>tomos de piezas de nave</> restantes",
-    "EDEA024746C6264B986217A4691D149E": "¡A las naves!",
     "2B645C554D4E123D5EDA29AFE67F8077": "Habla con <EmphA>Flintlocke</> en el <img id=\"Airship\"/> <EmphA>muelle de naves</>",
     "754F9E70421A8181F4CAEDBB82053D97": "Habla con <EmphA>Flintlocke</> en el <img id=\"Airship\"/> <EmphA>muelle de naves</>",
     "C2092421489C96968F94099D698421B3": "Habla con <EmphA>Flintlocke</> en el <img id=\"Airship\"/> <EmphA>muelle de naves</>",
@@ -38,7 +33,6 @@
     "6C604D4A4A73892A07AA919EABC50D0F": "Ve al <img id=\"Airship\"/> <EmphA>muelle de naves</>",
     "9737AA464579407BC20B899CFBEDF990": "Ve al <img id=\"Airship\"/> <EmphA>muelle de naves</>",
     "E03D054A4FF51388E6D0ED9EF1EF3130": "Ve al <img id=\"Airship\"/> <EmphA>muelle de naves</>",
-    "C337E7464403C0FB71B58EA2E0A73B3B": "¿Por qué va a dar miedo lo desconocido?",
-    "ECA7A23C4BF46F1F2FEFEE92168B9250": "Has encontrado un <EmphA>tomo de piezas de nave</> que habrá perdido <EmphA>la criatura de las profundidades</>, ¡y apenas lo había digerido! ¡Toma ya!"
+    "C337E7464403C0FB71B58EA2E0A73B3B": "¿Por qué va a dar miedo lo desconocido?"
   }
 }

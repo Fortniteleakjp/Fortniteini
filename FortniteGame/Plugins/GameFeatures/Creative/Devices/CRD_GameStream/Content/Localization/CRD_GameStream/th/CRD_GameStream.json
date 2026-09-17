@@ -13,10 +13,10 @@
     "OptionDefinitionContainer.LabelOverride": "ป้าย"
   },
   "UserOptionDefinition": {
-    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "ปิดใช้งานเมื่อได้รับอีเวนต์",
-    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
-    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "เปิดใช้งานเมื่อได้รับอีเวนต์",
-    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "BP_Creative_GameStream_C.Disable When Receiving From.DisplayName": "ปิดใช้งานเมื่อได้รับสัญญาณจาก",
+    "BP_Creative_GameStream_C.Disable When Receiving From.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
+    "BP_Creative_GameStream_C.Enable When Receiving From.DisplayName": "เปิดใช้งานเมื่อได้รับสัญญาณจาก",
+    "BP_Creative_GameStream_C.Enable When Receiving From.Description": "เปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
     "BP_Creative_GameStream_C.QueueAtEndGame.DisplayName": "เข้าคิวเมื่อจบเกม",
     "BP_Creative_GameStream_C.TransferPopulation.DisplayName": "โอนย้ายประชากร"
   }

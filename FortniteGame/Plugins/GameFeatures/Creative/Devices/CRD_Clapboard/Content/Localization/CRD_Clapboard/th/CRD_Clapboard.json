@@ -28,9 +28,9 @@
   },
   "UserOptionDefinition": {
     "Creative_Device_StreamClapBoard_C.Disable.DisplayName": "ปิดการใช้งาน",
-    "Creative_Device_StreamClapBoard_C.Disable.Description": "ปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "Creative_Device_StreamClapBoard_C.Disable.Description": "ปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
     "Creative_Device_StreamClapBoard_C.Enable.DisplayName": "เปิดการใช้งาน",
-    "Creative_Device_StreamClapBoard_C.Enable.Description": "เปิดการใช้งานอุปกรณ์เมื่อได้รับอีเวนต์จากช่องที่เลือก",
+    "Creative_Device_StreamClapBoard_C.Enable.Description": "เปิดใช้งานอุปกรณ์เมื่อได้รับสัญญาณจากช่องที่เลือก",
     "Creative_Device_StreamClapBoard_C.Time Reached.DisplayName": "ถึงเวลา",
     "Creative_Device_StreamClapBoard_C.Time Reached.Description": "เมื่อหมดเวลาของอุปกรณ์นี้ จะส่งสัญญาณผ่านช่องทางนี้"
   }

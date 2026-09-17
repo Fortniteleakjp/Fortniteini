@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Schließe 3 Gotham-Herausforderungen ab",
     "8545084D4037D8328A80AAA600F845B1": "Schließe 3 Gotham-Herausforderungen ab",
     "8867A2174A1B609CA14739BFA57AD7BA": "Schließe 3 Gotham-Herausforderungen ab",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Schließe 5 Gotham-Herausforderungen ab",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Schließe Robinson Park ab",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Sammle 10 Chilis",
     "B724EFD84125E744670EEC852A03D7E5": "Sammle 10 Kürbisse",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Sammle 30 Brightcore",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Sammle 30 Schnee",
+    "7DD7744E44595A1743F019932761EF3D": "Sammle 30 Stinksäcke ein",
     "72ED820E417BF03B7D74628BC7A0D50A": "Sammle 30 Schnee",
     "AC0061C9484C5D72D42634A7DE52BD86": "Sammle 50 Brightcore",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Kürbissioner Gordon – 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Stelle 10 Biomasse her",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Besiege 10 Skorpione",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Besiege 10 Skorpione",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Besiege 20 Handlanger",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Besiege 3 Frostbären",
     "60F095F34D1AC980533CABBD59BE64D2": "Besiege 3 Frostbären",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Besiege Handlanger im Robinson Park",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "Eiskalte Entspannung – 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "Ivys Handlanger müssen aufgehalten werden! <empha>Folge dem Bat-Signal zum Robinson Park und besiege Ivys Handlanger.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "Ivy bringt alle in Gotham dazu – wie drücke ich das jetzt aus? „Sich im Strahl zu übergeben.“ Wir glauben, dass sie eine Art Toxin benutzt, und müssen schnell ein Gegengift entwickeln. <empha>Besiege 10 Skorpione</> im <img id=\"IcoDes\"/> <Des>Dürretal</>. Uns läuft langsam die Zeit davon. *würg* Uff – ich muss schnell weg.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Stunde des Dunklen Ritters",
+    "A75F4FE844F88A4440153482E2EA221C": "Stunde des Dunklen Ritters",
     "E5D175ED4A01969301A19E98405F2E01": "Stelle 10-mal Biomasse her",
     "8F85938943E9D27E8F7DD2A3D347810B": "In Gotham verschwinden immer mehr Gebäude und irgendwas stinkt daran gewaltig. Ich wette, da ist ein neuer Schurke auf die Bühne gewatschelt. Finde mehr heraus. <empha>Folge dem Bat-Signal auf deiner Karte und erledige 3 Gotham-Herausforderungen.</>",
     "686582044561A9744F6D4B8E6A15A766": "BUMM!-Energiezellen – 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "Der dunkle Splitter – 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "Unsere heißeste Spur ist kalt geworden. Aber vielleicht ist „kalt“ genau das richtige Stichwort. Du musst weitere Informationen finden. Geh in die <img id=\"IcoFro\"/> <Fro>Frostlande</> und <empha>sammle 30 Schnee</>.",
     "12AA70A84BF6C72E80C639A345F4F0FD": "Wir hatten recht: Cobblepot steckt hinter der ganzen Sache, aber der Pinguin hat mich für eine Weile aufs Eis gelegt. Keine Bange, Alfred versorgt mich mit Kakao. Aber du? Du wirst ein paar arktische Kampfkünste für uns ausprobieren. Geh in die <img id=\"IcoFro\"/> <Fro>Frostlande</> und <empha>besiege 3 Frostbären</>."
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Stunde des Dunklen Ritters"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "„Hier spricht Batman. Es scheint, als hätte der Riddler die Handlanger irgendwie davon überzeugt, bei seinen Plänen mitzumachen und uns zu überrennen. Sie sind wirklich nicht die Hellsten. Ich wette, die würden sogar auf einen verdächtigen Link in einer E-Mail klicken.<emphasis>Besiege 20 Handlanger.</> – Batman Ende.“",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Batman hier. Poison Ivy treibt schon wieder ihr Unwesen. Sie hat die lokale Pflanzenwelt verändert – und sie stinkt schlimmer als die Überreste vom Pinguin, die zu lange in der Sonne gelegen haben. Pflanzen lassen jetzt <EmphA>Stinksäcke</> fallen! Beseitige die Verseuchung. <EmphA>Sammle 30 Stinksäcke ein</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Herausforderung angenommen",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Schließe 5 Gotham-Herausforderungen ab",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Sammle 30 Stinksäcke ein",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Besiege 20 Handlanger",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Duft einer Schurkin",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "Die Handlanger sind jetzt furchtsamer",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "Jepp, schon wieder Batman. Alfred hat ein paar neue Aktivitäten entdeckt. Und keine von der guten Sorte, bei der du Batarangs in schwarze Farbe tunkst und „Sorry, dass ich deine Pläne durchkreuzt habe“-Karten verzierst. Geh der Sache nach. <EmphA>Schließe 5 Gotham-Herausforderungen ab.</>"
   }
 }

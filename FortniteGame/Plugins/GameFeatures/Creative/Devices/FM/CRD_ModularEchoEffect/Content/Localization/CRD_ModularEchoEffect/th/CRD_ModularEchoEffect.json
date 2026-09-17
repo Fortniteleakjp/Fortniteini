@@ -12,7 +12,7 @@
     "29B4BF6A4694E4F84952CCB3354B215F": "เพิ่มเอฟเฟกต์เอคโค่ให้กับสัญญาณที่มาจากตัวสร้างเสียงของ Patchwork ก่อนที่จะส่งไปยังเอาต์พุต เช่น ลำโพง Patchwork",
     "61B45D3D48BA63DE75B0B5A3EE573FD5": "เพิ่มเอฟเฟกต์เอคโคให้กับสัญญาณที่มาจากตัวสร้างเสียงของ Patchwork ก่อนที่จะส่งไปยังเอาต์พุต เช่น ลำโพง Patchwork",
     "EB5BD0194043C7A6FBEC869C6395A17F": "Patchwork Audio Effect",
-    "09F01F834F96541459C3DDA6AE3B0519": "เอฟเฟกต์เอคโคของ Patchwork",
+    "09F01F834F96541459C3DDA6AE3B0519": "เอฟเฟกต์เอคโค่ของ Patchwork",
     "A84913B04BE289E1708EE0A13BAC03B2": "เอฟเฟกต์เอคโค่ของ Patchwork"
   },
   "Fort.Actor.Building.Defaults": {
@@ -25,7 +25,7 @@
     "Device_ModularEchoEffect_C.AudioOut.DisplayName": "เสียงขาออก",
     "Device_ModularEchoEffect_C.BeatIn.DisplayName": "จังหวะขาเข้า",
     "Device_ModularEchoEffect_C.Feedback.Description": "ควบคุมจำนวนการซ้ำที่เกิดขึ้น ค่าสูงขึ้นจะเพิ่มความเข้มข้นและระยะเวลาของเอฟเฟกต์เอคโค",
-    "EEnabledOnPhase.Create Only.DisplayName": "เฉพาะสร์าง",
+    "EEnabledOnPhase.Create Only.DisplayName": "สร้างเท่านั้น",
     "Device_ModularEchoEffect_C.Mix.Description": "กำหนดปริมาณเอาต์พุตเสียงที่เอฟเฟกต์นี้จะประมวลผล",
     "Device_ModularEchoEffect_C.AllowPortSelection.Description": "กำหนดว่าเครื่องมือ Patchwork สามารถเข้าถึงพอร์ตอินพุตหรือเอาต์พุตของสายเคเบิลบนอุปกรณ์ได้หรือไม่",
     "Device_ModularEchoEffect_C.EnabledOnPhase.Description": "กำหนดช่วงเวลาในเกมที่จะเปิดใช้งานอุปกรณ์ ช่วงก่อนเริ่มเกมประกอบด้วยระยะต่าง ๆ ทั้งหมดก่อนเริ่มเกม (เช่น ล็อบบี้ก่อนเริ่มเกมหรือการนับถอยหลังก่อนเริ่มเกม) การตั้งค่านี้จะไม่มีผลกับโหมดแก้ไข",
@@ -51,8 +51,8 @@
     "Device_ModularEchoEffect_C.OnEnabled.DisplayName": "เมื่อเปิดใช้งาน",
     "E_Fabric_LegalText.Patchwork.DisplayName": "Patchwork",
     "Device_ModularEchoEffect_C.LegalInfo.Description": "โปรดทราบ: การใช้อุปกรณ์เสียง Patchwork จะจำกัดเฉพาะการสร้างสรรค์ผลงานดนตรีใหม่และเป็นผลงานต้นฉบับเท่านั้น",
-    "Device_ModularEchoEffect_C.PowerButtonIn.DisplayName": "ปุ่มเปิด/ปิดขาเข้า",
-    "EEnabledOnPhase.Pre-Game Only.DisplayName": "เฉพาะแมตช์ที่รอเริ่ม",
+    "Device_ModularEchoEffect_C.PowerButtonIn.DisplayName": "ปุ่มเปิด/ปิด",
+    "EEnabledOnPhase.Pre-Game Only.DisplayName": "ช่วงก่อนเริ่มเกมเท่านั้น",
     "Device_ModularEchoEffect_C.Style.Description": "เลือกสไตล์สำหรับจังหวะการซิงค์ที่เลือก \"ตรง\" จะส่งผลลัพธ์ตามจังหวะการซิงค์ที่กำหนดไว้, \"สามพยางค์\" จะส่งผลลัพธ์ในความรู้สึกแบบจังหวะสับเปลี่ยนที่สองในสามของจังหวะการซิงค์ และ \"จุด\" จะส่งผลลัพธ์ในความรู้สึกแบบจังหวะเน้นเบาที่หนึ่งเท่าครึ่งของจังหวะการซิงค์",
     "Device_ModularEchoEffect_C.AudioOut.Description": "เลือกจุดหมายปลายทางให้สายเคเบิลเสียงขาออกของอุปกรณ์นี้",
     "Device_ModularEchoEffect_C.AudioIn.Description": "กำหนดอินพุตสำหรับพอร์ตเสียงขาเข้าของอุปกรณ์นี้",

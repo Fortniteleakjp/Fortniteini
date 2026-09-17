@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Selesaikan 3 Tantangan Gotham",
     "8545084D4037D8328A80AAA600F845B1": "Selesaikan 3 Tantangan Gotham",
     "8867A2174A1B609CA14739BFA57AD7BA": "Selesaikan 3 Tantangan Gotham",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Selesaikan 5 Tantangan Gotham",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Amankan Robinson Park",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Kumpulkan 10 Cabai",
     "B724EFD84125E744670EEC852A03D7E5": "Kumpulkan 10 Labu",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Kumpulkan 30 Brightcore",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Kumpulkan 30 Salju",
+    "7DD7744E44595A1743F019932761EF3D": "Kumpulkan 30 Kelenjar Bau",
     "72ED820E417BF03B7D74628BC7A0D50A": "Kumpulkan 30 salju",
     "AC0061C9484C5D72D42634A7DE52BD86": "Kumpulkan 50 Brightcore",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Komisaris Gourd-on - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Buat 10 Biomassa",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Kalahkan 10 Kalajengking",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Kalahkan 10 Kalajengking",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Kalahkan 20 Anak Buah",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Kalahkan 3 Beruang Beku",
     "60F095F34D1AC980533CABBD59BE64D2": "Kalahkan 3 Beruang Beku",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Kalahkan Anak Buah Penjahat di Robinson Park",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "Bersantai di Gunung Es - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "Anak buah penjahat Ivy harus dihentikan! <empha>Ikuti Bat-Signal ke Robinson Park dan kalahkan Anak Buah Penjahat Ivy.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "Ivy membuat semua orang di Gotham—bagaimana cara bilangnya—\"muntah parah\". Kami pikir dia menggunakan semacam Tokxin dan kami perlu meneliti penawarnya, segera. <empha>Kalahkan 10 Kalajengking</> di <img id=\"IcoDes\"/> <Des>Lembah Kering</>. Sebelum kamu berhasil melakukannya, kota ini masih sekarat. *grf* Uh, aku harus pergi.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Knight Shift",
+    "A75F4FE844F88A4440153482E2EA221C": "Knight Shift",
     "E5D175ED4A01969301A19E98405F2E01": "Buat 10 Biomassa",
     "8F85938943E9D27E8F7DD2A3D347810B": "Makin banyak bangunan yang hilang dari Gotham, dan ada sesuatu yang terasa mencurigakan. Aku curiga ada seseorang yang baru terperosok ke dalam kekacauan ini. Cari tahu lebih lanjut. <empha>Ikuti Bat-Signal di Peta kamu dan selesaikan 3 Tantangan Gotham.</>",
     "686582044561A9744F6D4B8E6A15A766": "Sel POW!-er - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "Terang yang Gelap - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "Jejak berbau amisnya sudah hilang. Tapi dingin mungkin justru yang kita butuhkan. Coba cari informasi. Pergi ke <img id=\"IcoFro\"/> <Fro>Padang Es</> dan <empha>kumpulkan 30 Salju.</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "Tebakan kita benar soal Cobblepot yang berada di balik semua ini, tapi The Penguin membuatku terabaikan untuk sementara. Jangan khawatir, Alfred akan membawakan cokelat untukku. Tapi kamu? Kamu akan menguji langsung beberapa teknik bertarung di lapangan Arktik. Pergi ke <img id=\"IcoFro\"/> <Fro>Padang Es</> dan <empha>kalahkan 3 Beruang Beku.</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Knight Shift"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "\"Ini Batman. Sepertinya The Riddler telah mengelabui para Anak Buah agar mengikuti rencananya untuk mengalahkan kita. Mereka memang bukan yang terpintar. Aku yakin orang-orang yang kurang pandai itu juga bakal kena penipuan phishing email.<emphasis>Kalahkan 20 Anak Buah.</> -Batman. Sampai jumpa.\\\"",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Batman di sini. Poison Ivy beraksi lagi. Dia mengubah tanaman di sekitar-- dan baunya lebih parah daripada sisa makanan The Penguin setelah piknik di bawah matahari. Tanamannya mulai menjatuhkan <EmphA>Kelenjar Bau</>! Bersihkan kontaminannya. <EmphA>Kumpulkan 30 Kelenjar Bau</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Tantangan Diterima",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Selesaikan 5 Tantangan Gotham",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Kumpulkan 30 Kelenjar Bau",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Kalahkan 20 Anak Buah",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Aroma Penjahat",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "Para Anak Buah Turun Beraksi",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "Yup, Batman lagi. Alfred menemukan aktivitas baru. Dan bukan yang seru, seperti mencelupkan Batarang ke cat hitam dan menghias kartu \"Maaf, rencanamu kugagalkan\". Ayo selidiki. <EmphA>Selesaikan 5 Tantangan Gotham.</>"
   }
 }

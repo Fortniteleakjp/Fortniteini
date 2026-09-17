@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Completa 3 desafíos de Gotham",
     "8545084D4037D8328A80AAA600F845B1": "Completa 3 desafíos de Gotham",
     "8867A2174A1B609CA14739BFA57AD7BA": "Completa 3 desafíos de Gotham",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Completa 5 desafíos de Gotham",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Despeja el Parque Robinson",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Recoge 10 pimientos",
     "B724EFD84125E744670EEC852A03D7E5": "Recoge 10 calabazas",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Reúne 30 de fulgurita",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Reúne 30 de nieve",
+    "7DD7744E44595A1743F019932761EF3D": "Recoge 30 glándulas apestosas",
     "72ED820E417BF03B7D74628BC7A0D50A": "Reúne 30 de nieve",
     "AC0061C9484C5D72D42634A7DE52BD86": "Recoge 50 de fulgurita",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Calabasionado Gordon: 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Fabrica 10 de biomasa",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Derrota 10 escorpiones",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Derrota 10 escorpiones",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Derrota a 20 secuaces",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Derrota 3 osos gélidos",
     "60F095F34D1AC980533CABBD59BE64D2": "Derrota 3 osos gélidos",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Derrota a los secuaces en Parque Robinson",
@@ -32,7 +35,7 @@
     "1C2452A24994F5994B2B028323160072": "Título principal de Gotham",
     "5ED5106F43A715FCCF18E48196C655BA": "Búsqueda en Gotham",
     "0F4E79B0416FE957C28BC4BA22B52820": "Título de objeto de Gotham",
-    "02326CBF4C33895343B117AFEE26CA46": "¡Gotham necesita tu ayuda! Sigue la luz de la batiseñal para encontrar las piezas de Gotham City que están escondidas por el continente  ",
+    "02326CBF4C33895343B117AFEE26CA46": "¡Gotham necesita tu ayuda! Sigue la luz de la batiseñal para encontrar las piezas de Gotham City que están escondidas por el continente.  ",
     "2F48CDDD43EED0E5C0458DB8125605EE": "Robados de Gotham City: 1/5",
     "BA80B4A44CE64446C273B7AAAD58E8AA": "Recolecta 10 pimientos brillantes",
     "1D585CF5485946C0D128B6A01C8A3CAE": "Recolecta 10 calabazas",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "De paseo por el hielo: 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "¡Hay que detener a los secuaces de Ivy! <empha>Sigue la batiseñal hasta el Parque Robinson y acaba con los secuaces de Poison Ivy.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "Poison Ivy está causando que toda Gotham... cómo decirlo... \"vomite hasta los pulmones\". Creemos que esparció algún tipo de toxina y tenemos que investigar rápido un antídoto. <empha>Derrota 10 escorpiones</> en el <img id=\"IcoDes\"/> <Des>valle seco</>. Hasta que lo hagas, la ciudad entera estará en cama. *Uag* Uf... disculpa, debo ir al batiinodoro.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Batyudante de caballero",
+    "A75F4FE844F88A4440153482E2EA221C": "Batyudante de caballero",
     "E5D175ED4A01969301A19E98405F2E01": "Fabrica 10 de biomasa",
     "8F85938943E9D27E8F7DD2A3D347810B": "Aún más edificios están desapareciendo de Gotham; algo me huele mal... tan mal como pescado crudo. Sospecho que un nuevo villano está aprovechando el caos para desplumar la ciudad. Descubre más. <empha>Sigue la batiseñal en tu mapa y completa 3 desafíos de Gotham.</>",
     "686582044561A9744F6D4B8E6A15A766": "BATerías: 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "El resplandor oscuro: 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "La pista graznante se enfrió. Pero el frío podría ser justo lo que buscábamos. A ver si puedes desenterrar alguna información oculta. Ve a las <img id=\"IcoFro\"/> <Fro>tierras heladas</> y <empha>recoge 30 de nieve.</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "Teníamos razón: Cobblepot está detrás de todo. Pero el Pingüino me tiene helado con sus jugadas. Descuida, Alfred me está preparando chocolate caliente. En cuanto a ti... Te toca probar algunas técnicas de combate ártico. Ve a las <img id=\"IcoFro\"/> <Fro>tierras heladas</> y <empha>derrota a 3 osos gélidos.</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Batyudante de caballero"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "Aquí Batman. Parece que el Acertijo engatusó a los secuaces para que lo siguieran en sus planes para invadirnos. Diría que no son los más perspicaces. Apuesto a que también caen en estafas por correo electrónico.<emphasis>Derrota a 20 secuaces.</> -Batman. Cambio y fuera\".",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Habla Batman. Poison Ivy lo está haciendo otra vez. Alteró la flora local, y huele peor que las sobras del Pingüino después de un pícnic bajo el sol. ¡Las plantas ahora están soltando <EmphA>glándulas apestosas</>! Elimina los contaminantes. <EmphA>Recoge 30 glándulas apestosas</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Desafío aceptado",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Completa 5 desafíos de Gotham",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Recoge 30 glándulas apestosas",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Derrota a 20 secuaces",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Perfume de villana",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "Los secuaces entran al juego.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "Sí, Batman otra vez. Alfred detectó una nueva actividad. Y no una de las buenas, esas en las que mojas batarangs en pintura negra y decoras tarjetas que dicen \"Lo siento, arruiné tus planes\". Ve a investigar. <EmphA>Completa 5 desafíos de Gotham.</>"
   }
 }

@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "Ukończ 3 wyzwania Gotham",
     "8545084D4037D8328A80AAA600F845B1": "Ukończ 3 wyzwania Gotham",
     "8867A2174A1B609CA14739BFA57AD7BA": "Ukończ 3 wyzwania Gotham",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "Ukończ 5 wyzwań Gotham",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "Ukończ Robinson Park",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "Zbierz 10 papryczek",
     "B724EFD84125E744670EEC852A03D7E5": "Zbierz 10 dyń",
     "6D3D89EF484F1388F3EC94BA45D0198A": "Zbierz 30 jasnordzeni",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "Zbierz 30 jedn. śniegu",
+    "7DD7744E44595A1743F019932761EF3D": "Zbierz 30 śmierdzących gruczołów",
     "72ED820E417BF03B7D74628BC7A0D50A": "Zbierz 30 jedn. śniegu",
     "AC0061C9484C5D72D42634A7DE52BD86": "Zbierz 50 jasnordzeni",
     "765CEFD440B6023FC0F2D895D64DC0B0": "Komisarz Dynia – 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "Stwórz 10 szt. biomasy",
     "BB1E87384DF5BD8AC5657499C7C5603C": "Pokonaj 10 skorpionów",
     "DF66F10243EF456A3BC00BA9F1A6F003": "Pokonaj 10 skorpionów",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "Pokonaj 20 pomagierów",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "Pokonaj 3 lodowe niedźwiedzie",
     "60F095F34D1AC980533CABBD59BE64D2": "Pokonaj 3 lodowe niedźwiedzie",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "Pokonaj pomagierów w Robinson Park",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "Wierzchołek góry lodowej – 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "Musimy powstrzymać pomagierów Bluszczu! <empha>Podążaj za bat-sygnałem do Robinson Park i rozpraw się z pomagierami Bluszczu.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "Bluszcz sprawia, że wszyscy w Gotham – jakby to ująć – wymiotują na potęgę. Myślimy, że używa jakieś toksyny, i musimy szybko znaleźć antidotum. <empha>Pokonaj 10 skorpionów</> w <img id=\"IcoDes\"/> <Des>Suchej Dolinie.</> Bez ciebie to miasto wyzionie ducha. *ugh* Eee... muszę lecieć.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "Rycerska Warta",
+    "A75F4FE844F88A4440153482E2EA221C": "Rycerska Warta",
     "E5D175ED4A01969301A19E98405F2E01": "Stwórz 10 szt. biomasy",
     "8F85938943E9D27E8F7DD2A3D347810B": "W Gotham znikają kolejne budynki, a cała sprawa śmierdzi rybą. Podejrzewam, że ktoś nowy maczał skrzydła w tym chaosie. Dowiedz się więcej. <empha>Podążaj za bat-sygnałem na mapie i ukończ 3 wyzwania Gotham.</>",
     "686582044561A9744F6D4B8E6A15A766": "ZasiLANIE – 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "Mroczna jasność – 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "Pachnący rybą trop zrobił się zimny. Ale może dokładnie tego nam trzeba... Zimna. Sprawdź, czy da się wykopać jakieś informacje. Udaj się do <img id=\"IcoFro\"/> <Fro>Mroźnych Ziem</> i <empha>zbierz 30 jedn. śniegu.</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "Mieliśmy rację, że to Cobblepot pociąga za sznurki. Szkoda tylko, że przemarzłem na kość przez tego zimnego drania Pingwina. Nie martw się, Alfred przyniesie mi kakao. Co do ciebie... Przetestuj w terenie kilka arktycznych technik walki. Udaj się do <img id=\"IcoFro\"/> <Fro>Mroźnych Ziem</> i <empha>pokonaj 3 lodowe niedźwiedzie.</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "Rycerska Warta"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "Tu Batman.Wygląda na to, że Człowiek-Zagadka skołował pomagierów, żeby poszli za jego planem i ruszyli na nas siłą.Nie grzeszą rozumem.Idę o zakład, że ci głupcy dają się też wkręcić w każdy mailowy scam.<emphasis>Pokonaj 20 pomagierów.</> – Batman. Bez odbioru.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "Tu Batman.Trujący Bluszcz znowu coś kombinuje.Zmieniła lokalną roślinność... i teraz śmierdzi tu gorzej niż po pikniku Pingwina w palącym słońcu.Rośliny zaczęły upuszczać <EmphA>śmierdzące gruczoły!</> Usuń zanieczyszczenia. <EmphA>Zbierz 30 śmierdzących gruczołów.</>",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "Wyzwanie przyjęte",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "Ukończ 5 wyzwań Gotham",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "Zbierz 30 śmierdzących gruczołów",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "Pokonaj 20 pomagierów",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "Zapach złoczyńcy",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "Nadchodzą pomagierzy",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "To znowu ja, Batman.Alfred wykrył nową aktywność.I to nie tę fajną, gdy macza się batarangi w czarnej farbie i ozdabia nimi kartki z napisem „Sorki za pokrzyżowanie planów”.Idź to zbadać.<EmphA>Ukończ 5 wyzwań Gotham.</>"
   }
 }

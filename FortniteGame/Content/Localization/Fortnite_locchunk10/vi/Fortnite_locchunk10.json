@@ -539,8 +539,6 @@
     "0F27FEB645424A655938FBAA00966985": "Sẵn Sàng Chiến Đấu",
     "06260D674B73C899F270E489FDED2318": "Cuộc Chiến Sinh Tồn",
     "33B8A20040C39F11D774A2981F344253": "Cuộc Chiến Sinh Tồn",
-    "922BA250460700D4A6C45A814459E9D4": "Cuộc Chiến Sinh Tồn",
-    "A7F0D4E047323614E099CCB1616FC33D": "Cuộc Chiến Sinh Tồn",
     "C403587B40DF25FCAA8E159AA3A7E558": "Cuộc Chiến Sinh Tồn",
     "D3A984E042745DAD6F26E19C18103AD2": "Cuộc Chiến Sinh Tồn",
     "61B644904C2939F994F877A526A4440B": "Bản Tóm Tắt Cuộc Chiến Sinh Tồn XP",
@@ -562,7 +560,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "Nòng Lớn DX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "Máy Bay Cánh Kép",
     "5B5236944941BFD7DE82B8B05FE11D94": "Máy Bay Cánh Kép",
-    "DF56207843F6244003548CA79CFAA0F4": "Máy Bay Cánh Kép",
     "AD9DF9A2455C274907AE29971466ADBA": "Lưỡi Cắt",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "Lưỡi Cắt",
     "7641CC0743ADBB2B2B04ED9883DD8214": "Phụ kiện",
@@ -753,12 +750,7 @@
     "A160CCFF49521B32A8B8E3AB90408722": "Mức Độ Sát Thương",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "Hỗ Trợ Nhảy",
     "91DEE53D4336DA0C00BAD3ACA0899EE6": "Làm bạn bè của bạn ngạc nhiên và thích thú.",
-    "2C01E2F5420CED5A207C7B98302305A4": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
-    "394C9BDD403D04CBB1203997013A98CD": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
-    "47699A1C400A37DC893F54B2FCD92877": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
     "527C4E4949B247E160807D920F92EEC9": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
-    "5CFC98A54A14E69002262F89F0182317": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
-    "722B1B4541B7FEDB0D5373A168D11B14": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
     "8E47673F4F3406EAA533BFA7D3BACDAB": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
     "F1454581430BDE167B62D384A23A7C96": "Những đám mây chết chóc đang tiến đến gần. Mắt Bão sẽ nhỏ lại khi cơn bão mạnh lên.",
     "F36292074E3360F745279784F74D8867": "Bắn Chí Mạng",
@@ -823,23 +815,16 @@
     "F92A2BBA4871D636829900B0E138FA81": "Thử Thách Tiến Sĩ VinderBot",
     "BD6E914C471A66813327F2AEEA3867E7": "Lái",
     "390597F64F2F483C06891FB95BA037D3": "Lái Súng Thần Công",
-    "29FA05054578E0CC32DA89B13152C692": "Nhảy Xuống & Lên Đồ",
-    "42C6A24F40F7DB9C0D26D48BF84C2F4C": "Nhảy Xuống & Lên Đồ",
     "48DE963D48E224F0FA34B392EEBB04F3": "Nhảy Xuống & Lên Đồ",
     "56EC010C4FABD0181556A3B06A38ACEB": "Nhảy Xuống & Lên Đồ",
-    "7BC26EA54582F700E6B4988782BFF806": "Nhảy Xuống & Lên Đồ",
     "831C33534BEC50A3D3E4E89E7C3170D4": "Nhảy Xuống & Lên Đồ",
-    "9178141B40FE92B80982CC9FF69DADDF": "Nhảy Xuống & Lên Đồ",
-    "E4AF6B474D830CD9D7A25B87E57E55C0": "Nhảy Xuống & Lên Đồ",
     "EE09C0E54BBFE547ECCF628D1A0F3BFB": "Súng Trống",
     "7B9C4CB74DFEE2C4B1C9D99CA6D70896": "Súng Lục Kép",
     "CA9DCBF64B31242269823E88C10A74C0": "Súng Lục Kép",
     "9DCEC44C423596A81B77438A15C90787": "Súng Lục Kép: Bán Tự Động.",
     "DD10E1F74B4C77102CCDAAA7B1258400": "Súng Lục Kép: Bán Tự Động.",
     "3EC1D4304108BC1102AD90BF1CC5DC39": "Băng Keo",
-    "045079474451066B165246804C89FDF4": "2v2",
     "1CAFE187418D13AB72E3F6A1A6F6DCCE": "2v2",
-    "F9ABF3514BADBE7C8DBD23A2B8E6DB1E": "2v2",
     "941BB5D943AB82F7E60130B929A1A071": "Burger Ngố",
     "01558C734EDD8820D50C7B8065F7C617": "Thuốc Nổ",
     "5AC45AA249F4846D74DD779DD825D066": "Thuốc Nổ",
@@ -989,7 +974,6 @@
     "B66A963A4F1715DA7B033093DCCF9262": "Dù Lượn",
     "2600DF544E09C9AC9E0EA69C95FBBA7C": "Bung Lại Dù Lượn",
     "87E39EA04808B27EA30A908F811EF0FA": "Dù Lượn",
-    "0CC212B74A4C538363B8A1AF4698DB27": "Tự mình chiến đấu để trở thành người sống sót cuối cùng.",
     "3C063B974F09C8A673507CBE3ADDB71D": "Tự mình chiến đấu để trở thành người sống sót cuối cùng.",
     "8BEC89B8499664826B111685672B4E29": "Tự mình chiến đấu để trở thành người sống sót cuối cùng.",
     "B8C59B304999B1F6964D1696FAB0E456": "Vàng",
@@ -1013,9 +997,7 @@
     "F0737F4E40417749A441A59843B932F0": "Du Hành Nghĩa Địa",
     "0B5C62D0400E95930AEE12B1D2116EE2": "Xanh Lục",
     "5D14C5F74CA277758C0476AA504D7CEA": "Hang Tối",
-    "2F8E1CA74ECE10A40A6200AFCA9AB2C8": "Tập hợp lại và sống sót lâu hơn tất cả các đội còn lại đang chiến đấu để giành chiến thắng.",
     "331DB866438F7C72234C5B8338CC44A0": "Tập hợp lại và sống sót lâu hơn tất cả các đội còn lại đang chiến đấu để giành chiến thắng.",
-    "708C85D2416421620CD59FA2E2C10C81": "Tập hợp lại và sống sót lâu hơn tất cả các biệt đội còn lại đang chiến đấu để giành chiến thắng.",
     "99E9D5F34DC01FC6B8774DB154EAC42E": "Súng Súng Trường Xung Kích Liên Thanh ĐạnNhẹ Tự Động",
     "BD171E23474EFDCBD7F02C9D974BF923": "Súng Súng Trường Xung Kích Liên Thanh ĐạnNhẹ Tự Động",
     "28BB4D024C130854E71CF4A22D80FF5B": "Súng Liên Thanh ",
@@ -1155,17 +1137,9 @@
     "41D131AC42BE610B50BC2B8699CE69F4": "Hạ cánh an toàn và <Emphasized>nảy cao hơn nữa</>",
     "63037FB94900FB1564D17B8D3B141318_Option 00": "Lối hạ cánh bị cản trở",
     "5B11769D4F71D4885B2B89B1D6C94BDE": "Thử Thách Lars",
-    "43C636AD4055E070A1814FAD8B09AC1A": "Đội Hai Người Cuối Cùng Còn Lại Giành Chiến Thắng",
-    "467E016E45A42621B5E9E0AB3EF7406C": "Đội Hai Người Cuối Cùng Còn Lại Giành Chiến Thắng",
     "4D5F2A8D4C21C8D7E5939D8FA4E9B799": "Đội Hai Người Cuối Cùng Còn Lại Giành Chiến Thắng",
-    "6F9C1DE3404CC98D7B61CC8FAB998751": "Người Sống Sót Cuối Cùng Sẽ Chiến Thắng",
     "C21BFCC843ECBDD4244B80BC06CC68DC": "Người Sống Sót Cuối Cùng Sẽ Chiến Thắng",
-    "0EAF945F4D112289133FCAAE8A04FEAC": "Biệt Đội Cuối Cùng Còn Lại Giành Chiến Thắng",
-    "16A8295D47A2161AF8459C931E0D6428": "Biệt Đội Cuối Cùng Còn Lại Giành Chiến Thắng",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "Biệt Đội Cuối Cùng Còn Lại Giành Chiến Thắng",
-    "A7EBE5AD488F015454C9ABA73187CDA2": "Biệt Đội Cuối Cùng Còn Lại Giành Chiến Thắng",
-    "1BAC988D4BE8BF136AF726B7914DBB8E": "Đội Ba Người Cuối Cùng Còn Lại Giành Chiến Thắng",
-    "593710F041FC73B14B768D805A261803": "Đội Ba Người Cuối Cùng Còn Lại Giành Chiến Thắng",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Phóng lên không trung và cười khúc khích trên bầu trời. Bắt đầu hồi chiêu.",
     "203048A346124F2326AE7489CF3CF605": "Phóng lên không trung và cười khúc khích trên bầu trời. Kích hoạt lại để hủy sớm.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Phóng lên không trung và cười khúc khích trên bầu trời. Kích hoạt lại để hủy sớm.",
@@ -1183,7 +1157,7 @@
     "3DA57402427AD07E9EEF1182BFB26A44": "Đuôi Trái",
     "EF98507D4A9602DC9B4316BE1ED0C7B8": "Cánh Trái",
     "EF22E85B49A871DF9C133DA1F84B3900": "Trò Chơi Chủ Đề LEGO (JunoTG)",
-    "84C3BBA14C6CFD722047408811DD825B": "Chủ Đề LEGO Dùng Chung Giữa Các Trò Chơi (LFNTG)",
+    "84C3BBA14C6CFD722047408811DD825B": "Trò Chơi Theo Chủ Đề LEGO Đã Chia Sẻ (LFN)",
     "FDA97C5F4842CB9AE5195393C8759F84": "Chủ Đề LEGO Tối Giản (JunoTM)",
     "0F93E33949F18F9AC630988B1779501D": "Chiều Dài",
     "55D9779A456076ABC653E4AF1DA4E4E8": "Đường Ngắm",
@@ -1343,10 +1317,6 @@
     "8053EDE044FBF1265F6B1DBCEB781AED": "Xu Không Có Tùy Chọn Mua Bộ Quà Chiến Đấu",
     "CBAC2A8245779FCB3C9F6B81D1A31342": "Xu Không Có Tùy Chọn Mua Bộ Quà Chiến Đấu",
     "E261C67141F14F9652FD0C93C404E058": "Xu Không Có Tùy Chọn Mua Bộ Quà Chiến Đấu",
-    "728166DF40860F5361F4A19937CC172B": "Không Xây Dựng",
-    "7FDF8EB848546CA80CCFB5BD469609D5": "Không Xây Dựng",
-    "8D361C9548DC46AF05FC699F7DDF362C": "Không Xây Dựng",
-    "B693137D453A34B460A400B2C9BC9FAA": "Không Xây Dựng",
     "74B0959E4E4A1C023C8183802DA98EBB": "Không Có Nghề",
     "DEFB1E9148E435E13EC57EB6E1D449C3": "Hết nhiên liệu",
     "CDE7CA5C45B5B95F9B59029D105CE8E7": "Hết nhiên liệu!",
@@ -1394,19 +1364,13 @@
     "516CA75D4CF5403A2F82BF838CD51DB7": "Mô-đun Và Can Thiệp Đã Quá Hạn",
     "6EB89D324C5E00500994CD96A83D5A72": "Mô-đun Và Can Thiệp Đã Quá Hạn",
     "239C56EB4D132A667FA6FBB4C3EC025D": "Trang Phục",
-    "8B6494CE4E4559C92AE9EA80CA6ABD64": "Sống Sót Lâu Hơn Đối Thủ",
     "4A9589F34AB5E10379942BBC15BC2F21": "Chuẩn bị quá kỹ",
-    "3F71CF134C5611AE2678858EB2829609": "Khiên Phụ",
-    "4AE6D7A04B229CC91981D08C0DFA5F10": "Khiên Phụ",
-    "8135E537499366CB0A97F1BB0B160E72": "Khiên Phụ",
-    "AB53E3BE4B82E5EF8ED1158F423278B4": "Khiên Phụ",
     "0399733A45284122D4FA1A91F1B55A7A": "Xu Hoàn Thành Thử Thách Cuối Mùa",
     "23E4AD8040BD27B12F54D592B136B741": "Xu Hoàn Thành Thử Thách Cuối Mùa",
     "60E8BD514CA49B8427DE5E968D50D6D0": "Xu Hoàn Thành Thử Thách Cuối Mùa",
     "B6C570664C3322374D227E9C64E5CE53": "Xu Hoàn Thành Thử Thách Cuối Mùa",
     "86A84DD84459F5837773B3BF3ECA2AAB": "ĐÁ SỨC MẠNH",
     "C3DD25E14510FC9EE31B5DA2464BB43A": "Ghép cặp với một người bạn và hạ gục tất cả những người khác.",
-    "F53B296340C59B61E7F25CAD2D099037": "Ghép cặp với một người bạn và hạ gục tất cả những người khác.",
     "666DA32449CF40B24E7D1EAC0965A360": "Phần Cá",
     "043E58CA40A0C7DFC66382B49649CBDE": "Hạt",
     "B9016A7C440D95DEF4D8E0B4B607A19F": "Hạt",
@@ -1417,12 +1381,7 @@
     "42BE8AEA47AC24A46AC90FBAC18CF477": "Tăng cường XP cá nhân",
     "9A0379234914781523C92E86524D9CAE": "Tăng cường XP cá nhân",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
-    "64AD0DDF44CE2F5CAC01138692B7D3F8": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
     "69143D2545BB22E7C1E85180E84956D6": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
-    "7628F96349992B405AC53AA1794F0549": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
-    "83442C93431D30D525941EB7558D1E4F": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
-    "BB6F8C82403A7CEE42B60FBC587FA422": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
-    "BFE554FE4DB039079E95F6981704E2E8": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
     "EDCBC677446BC5F213863580F3C0A3B5": "Chọn một điểm hạ cánh và tìm kiếm trang bị.",
     "B3CFEDE943AA56C0AEE82CA08F806463": "Nhặt lên",
     "7240B5BC46A81D296CBCA080DF98ECB7": "Chạy Đua Chiến Cụ",
@@ -1490,21 +1449,12 @@
     "43088BA143F2B6BCAEE378847172BE8C": "Xe Ủi",
     "CC13E7A44B19B6541560D085C426791D": "Xe Ủi",
     "393E9456499B520AC90D5E8597A7D23D": "SMG yên tĩnh gây <Emphasized>sát thương tăng cường</> với <Emphasized>5 viên đạn cuối cùng</>",
-    "AEBB89F442C1D29C9277D5A10B1CFC71": "5v5",
     "43E272F8443991243556F0AB98EC9BBE": "\tĐÁ HIỆN THỰC",
     "2A5097B944627605414956BB8AE4337B": "Ngẫu Nhiên",
     "318128844F99D44E7F5C91B8F5457418": "Lượt xuất hiện ngẫu nhiên",
     "AE030E304F5F9780D063B09D3B1D7C72": "Cung Tầm Xa",
     "E6EE95714DC76EF72E9B299D4F14A675": "Tầm Xa Cung CungNổ",
     "1CBC3F3747EECA210049B99100CF9AFC": "Vũ Khí Tầm Xa",
-    "5DE047C24F180A1105DC75A6DB8EC0C6": "Cuộc Chiến Sinh Tồn Xếp Hạng",
-    "6C8E638B41A592AB4E8BE4ACA038C392": "Cuộc Chiến Sinh Tồn Xếp Hạng",
-    "8733662A43E19880D8477ABC0873E06A": "Cuộc Chiến Sinh Tồn Xếp Hạng",
-    "C0A48EEE420D2792EFEABCA23363F93A": "Cuộc Chiến Sinh Tồn Xếp Hạng",
-    "110AC5424A9CD65F8616369A58BB9FDC": "Đọ Súng Thuần Chất Xếp Hạng",
-    "3CCF81374E0A4E25BDF11EA663A201F6": "Đọ Súng Thuần Chất Xếp Hạng",
-    "8B38F7F24917A62647A50E9DC658AEE3": "Đọ Súng Thuần Chất Xếp Hạng",
-    "B40A36024BBE098C75EEDE9D276FE71C": "Đọ Súng Thuần Chất Xếp Hạng",
     "139A99CB4D3883CEA2F066BBA59EBD58": "SMG Bắn Nhanh",
     "FD23E7C946966E8E24F1ADA1EDA51CB1": "SMG bắn nhanh +",
     "BA4B1FDD40153AE8C9FC76ACC646E32C": "SMG bắn nhanh với <Emphasized>dung lượng băng đạn</> tăng thêm",
@@ -1515,10 +1465,6 @@
     "1C77EAFB46C48299170B7486AEFB6294": "Đỏ Cam",
     "7125E4704BEA318C6BD3D69B5893D080": "Nguyên liệu chế tạo tinh chỉnh. Có thể làm với các nguyên liệu khác và thường được tìm thấy trong rương.",
     "16DA40C14B2BC801935504956E31A9C9": "Phục hồi <Emphasized>HP</> khi bơi.",
-    "6008627544CF6105EF4D3A9CD30C8BF8": "Tái Tạo Khiên Phụ sẽ được kích hoạt, hãy sử dụng chúng để tiếp tục chiến đấu.",
-    "69CD0F42427AF85EEB8A0F945648347A": "Tái Tạo Khiên Phụ sẽ được kích hoạt, hãy sử dụng chúng để tiếp tục chiến đấu.",
-    "AECBC7014762FC24FC1F79AFF9C303CC": "Tái Tạo Khiên Phụ sẽ được kích hoạt, hãy sử dụng chúng để tiếp tục chiến đấu.",
-    "BC225CF147155267909DD59C79265F16": "Tái Tạo Khiên Phụ sẽ được kích hoạt, hãy sử dụng chúng để tiếp tục chiến đấu.",
     "D956F3B24B85A136EDFF7681AD74FB8C": "Hồi Sức",
     "4DA1684D402A000482C5E196DBAEEA57": "Dược Sĩ (Độc Tố)",
     "693438894A15790A4E7560A0E307A499": "Dược Sĩ (Độc Tố)",
@@ -1633,7 +1579,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "Đánh Cắp Khiên",
     "4F611C954A5378BFC1804C96BB3981FE": "Hiệp Lực Khiên",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "Ném Khiên",
-    "6FE5EF624909BEBF19A4F7A143733F40": "Pháo Hạm",
     "D48B88DA4EC76F3203A964A55E4C04E7": "Pháo Hạm",
     "85A285654B56001B52E9ABBC806822EB": "Thiết Bị Sóng Xung Kích",
     "8E57565847BBBCA8EE6AD38208D056E1": "Lựu đạn Sóng Xung Kích +",
@@ -1664,9 +1609,7 @@
     "D8644E6D483F77ABE1E733885BCCC6FD": "VậtPhẩmTiệnÍch Người Tuyết",
     "F24F341641A4FA3F48ABCB8574D8C08C": "Xã Giao",
     "6975749C41271746F89557A170BC3440": "Đơn",
-    "69E4B37A43B5B8D5B463D1804DB44BCF": "Đơn",
     "9D386B354AC0CE9DF6302EA26A39F514": "Đơn",
-    "E9EA6DC14E2DD703707893A0982B28C3": "Đơn",
     "F8FC74A04B95B293F430E9820F119697": "Đơn",
     "0784C09346B728C02D1AF5902E492822": "Thẻ Mùa Sparks",
     "DAC933A8407FB35BAB93D480EBADA7CA": "Mẫu Spotlight Sparks",
@@ -1700,8 +1643,6 @@
     "6081D89D44C1A4CA364179BC95D47978": "Nạp Đạn Nhanh",
     "CD5B0A744223502F67BABD81B1230D5D": "Hình Xịt",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (Trò Chơi Chủ Đề)",
-    "032AE3DE426C6820537F9A913730E19E": "Biệt Đội",
-    "7035BEE948A0E8CC30E4DC95823D5A21": "Biệt Đội",
     "E9F2A9B74636BB7610FE8E8BD075580C": "Biệt Đội",
     "459B35F94D969E08A4D1109E18B98C2F": "Trang bị tiêu chuẩn <Emphasized>tầm gần</> vũ khí",
     "81F9D4414FEA2CB4DD2813A6E08CB98B": "Trang bị tiêu chuẩn <Emphasized>tầm xa</> vũ khí",
@@ -1732,12 +1673,7 @@
     "F9C7F25943011FD6980D4D8B1A29C757": "Tân Binh Kỹ Thuật",
     "4F03368E4610C163685D4B821835E30D": "Bắt Đầu Chơi",
     "DF374A4C4B641289F968258B7494F90E": "Giữ <Emphasized>trạng thái lơ lửng lâu hơn</>",
-    "0611FAA245AF688EFA1D3ABAF88BF0F1": "Ở Lại Bên Trong Mắt Bão",
-    "2F214E7F48E66EFE1C115C8F7E2E595C": "Ở Lại Bên Trong Mắt Bão",
     "404A7F8F45CCEA3AC57992A9D25A2D4A": "Ở Lại Bên Trong Mắt Bão",
-    "67EBCAF44A10423717EA0E9DF0B11170": "Ở Lại Bên Trong Mắt Bão",
-    "6C0CBF054F0F23BA941ABCA75F405034": "Ở Lại Bên Trong Mắt Bão",
-    "A07147014E36B1D243DF9C89E25878E3": "Ở Lại Bên Trong Mắt Bão",
     "BD933A0A4D2108A6FF3D948E3CD2DBD4": "Ở Lại Bên Trong Mắt Bão",
     "E5B8A51D416E77718A746EB15445A3B2": "Ở Lại Bên Trong Mắt Bão",
     "749E72FD4C3CC3C5F34EBF91EF87C060": "Điều Khiển Súng Thần Công",
@@ -1781,7 +1717,6 @@
     "01AC17C945E9F716F2DE30AD21D419D4": "Súng Trường Bắn Tỉa Giảm Thanh +",
     "B32EDD8A45D40C18A0F6F497FAEADAE2": "Súng Trường Bắn Tỉa Giảm Thanh với <Emphasized>ống ngắm nhiệt</>",
     "CBC05E714B87E7BE8B6FC596A6097237": "Súng Tiểu Liên Giảm Thanh",
-    "00CA308D460DBD1D0DBF3BA35E0368E5": "Sống sót đến cuối cùng để giành được Chiến Thắng Vinh Quang!",
     "DDDAFD77445379EE9BAF399713A063D6": "Người Sống Sót",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "Bơi <Emphasized>nhanh hơn</>",
     "E928E3A54C017ABB67564BB0EE06B190": "Chuyển Đổi Hồ Sơ",
@@ -1872,17 +1807,9 @@
     "E415969B4BAAA6B59B6BFF9CAE728F5D": "Xu Hoàn Thành Thử Thách Đào Tẩu",
     "611AA9CD49A134C1CF4EF793A0DCAD73": "Khối",
     "57698C274195DFFFFFF44CB43FCB651F": "Bơi Trị Liệu",
-    "2F83EE994C53BADD8F87BCAE2EBE4071": "Chỉ có thể có một người chiến thắng.",
     "3961708B410A75AE04191ABCAD93E9F0": "Chỉ có thể có một người chiến thắng.",
-    "58196919412BCB1D74783E8E981D2BBE": "Chỉ có thể có một người chiến thắng.",
-    "6C225C9D49F86E1E30DCC3A701B26E56": "Chỉ có thể có một người chiến thắng.",
-    "6C7119CA44F1ED5685A324B982ED8276": "Chỉ có thể có một người chiến thắng.",
     "900A843C489A158D9D7014B7688759B3": "Chỉ có thể có một người chiến thắng.",
-    "A29937E74B5530D54A09F291E771AB54": "Chỉ có thể có một người chiến thắng.",
     "DBD8EB9C418D8B3F612D7091AB3132F5": "Chỉ có thể có một người chiến thắng.",
-    "EADE4BDA4E918BF507B81B84222A950C": "Chỉ có thể có một người chiến thắng.",
-    "ED03D0BC43A54D93E88728A02C17352F": "Chỉ có thể có một người chiến thắng.",
-    "EF85CDE6446B65421F3064A152A6DAE1": "Chỉ có thể có một người chiến thắng.",
     "9668C00D43496C901D756E874556A4B7": "Mã này sẽ cấp quyền truy cập vào Sự kiện iOS trên Fortnite Mobile. ",
     "2291CAD9430769CC73D99D9B54DE8C4B": "Tài khoản cao cấp này có thể kiếm được VBucks thay vì Đà Mã Tia X.",
     "03DCCA2140EB4E06D8B69FB8CFE78A1B": "Ném",
@@ -1934,8 +1861,6 @@
     "EA08EDDB48C12586ECDF1589AB5C989C": "Nâng Cấp Màu Dấu Vết",
     "06B8D6624AAC122415F9C0BFABD33BD4": "Robot Huấn Luyện",
     "D71A7E704422BDFE7934EF8C6574DFAA": "Kẻ Xâm Nhập",
-    "0BE26EA94B6DAE3CA1DE029A8BFF93DE": "3v3",
-    "B8B7A46843A2FC0715BD8A924EC6B145": "3v3",
     "E907B282416949BFACC17482A8283EE7": "Song Thủ Đáng Tin",
     "E4621E044AA0247AA73F99BB8EB8D845": "Thợ Săn Đầu Người Đáng Tin",
     "AFCC8C60409A488FEF95B1920178638A": "Băng Đạn Đáng Tin",
@@ -2036,10 +1961,6 @@
     "CD4BED3D497056ACDDF697B2A1CED907": "Xu Nhiệm Vụ WIP",
     "FBD7D9E444205DDD378D8381B49848B1": "Chờ Người Chơi",
     "A3594BE3426BC422F96680B9F1815D84": "Xu Nhiệm Vụ Wasabi",
-    "4406E6154F9246CE4482DCB93FF91A0B": "Hãy cẩn thận và sử dụng chỗ ẩn nấp để giành chiến thắng trong cuộc chiến trên mặt đất mà không cần xây dựng.",
-    "DA9EF0A9444088E1157495BE637A0B4E": "Hãy cẩn thận và sử dụng chỗ ẩn nấp để giành chiến thắng trong cuộc chiến trên mặt đất mà không cần xây dựng.",
-    "E1927EF245666D50E41FBD832EB57A44": "Hãy cẩn thận và sử dụng chỗ ẩn nấp để giành chiến thắng trong cuộc chiến trên mặt đất mà không cần xây dựng.",
-    "F75E7A144FF0A719B84A21893B2A8537": "Hãy cẩn thận và sử dụng chỗ ẩn nấp để giành chiến thắng trong cuộc chiến trên mặt đất mà không cần xây dựng.",
     "1FA31AFC497191C5AD7467BFC4E8E6C7": "Tăng Cường Nghỉ Ngơi Đầy Đủ",
     "583601D34A4FAC568666FE8DFE288DFB": "Tăng Cường Nghỉ Ngơi Đầy Đủ",
     "1FD4C33549D3B93FF40EA9953E97F5CE": "Bật Phát Tín Hiệu Khi Bị Hạ",
@@ -2058,7 +1979,6 @@
     "E710C08E4E5C70FF8A286CB6EA101B4F": "Chọn hiển thị Đèn Hiệu, hiển thị thành phần HUD, hoặc cả hai.",
     "D3A54EAE40408580269CF39BCCA37888": "Trắng",
     "195F2EE048C26E190C845691145D6CF6": "Ngang",
-    "8B36050244257ED13DABA5BB06C9381C": "Miền Tây Hoang Dã",
     "9BD108A54CA8FA397E1DBD95E37958BB": "Xu Hoàn Thành Thử Thách Lễ Hội Mùa Đông",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Chìa Khóa Lễ Hội Mùa Đông",
     "194B94D745612B291C0C0CAC0487B727": "Chổi Phù Thủy",
@@ -2241,6 +2161,11 @@
   },
   "AntiCheat": {
     "ClientErrorMessage": "{provider} lỗi: {message}\n\nHãy tham khảo mục Hỏi Đáp {provider} để biết thêm thông tin."
+  },
+  "ArcadeVolley": {
+    "PlayerWinsFmt": "Người Chơi {0} CHIẾN THẮNG! Nhấn để khởi động lại",
+    "PressToServe": "Nhấn để thao tác",
+    "PressToStart": "Nhấn để bắt đầu"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "TRƯỢT"
@@ -2839,6 +2764,11 @@
     "FortAnimGraphNode_BlendFacialCurves": "Hoạt Ảnh|Đường Cong",
     "FortAnimGraphNode_BlendFacialCurves_Title": "Trộn Nhiều Đường Cong Khuôn Mặt",
     "FortAnimGraphNode_BlendFacialCurves_Tooltip": "Trộn nhiều đường cong khuôn mặt từ 2 đầu vào theo các cách tùy chỉnh dựa trên cài đặt sẵn đã chọn"
+  },
+  "BoostBall": {
+    "HighScoreFormat": "ĐIỂM SỐ CAO: {0}",
+    "ResultFormat": "{0} - {1}",
+    "ScoreFormat": "{0} - {1}"
   },
   "BootToFrontend_LowMemoryFallbackStrategy": {
     "Juno_BootToFrontEndMessage": "Bộ nhớ đã đạt đến mức nghiêm trọng - phiên đã kết thúc.\nHãy thử lại!"
@@ -3544,6 +3474,21 @@
     "EmptyRecentsTabSubtitle": "Những hòn đảo mà bạn đã chơi gần đây sẽ hiện ở đây. Khám phá những điều mới mẻ.",
     "EmptyFollowingTabTitle": "Hiện tại chưa có gì để xem cả!",
     "EmptyRecentsTabTitle": "Bạn sẵn sàng để Chơi chưa?"
+  },
+  "DiscoveryGenreLabel": {
+    "DiscoveryGenreLabel_AdventureRPG": "Phiêu Lưu & Nhập Vai",
+    "DiscoveryGenreLabel_BattleRoyale": "Cuộc Chiến Sinh Tồn",
+    "DiscoveryGenreLabel_DeathrunPlatformer": "Đường Chạy Tử Thần & Trò Chơi Đi Cảnh",
+    "DiscoveryGenreLabel_Horror": "Kinh Dị",
+    "DiscoveryGenreLabel_MusicRhythm": "Âm Nhạc & Tiết Tấu",
+    "DiscoveryGenreLabel_PartyMiniGames": "Tiệc Tùng & Game Mini",
+    "DiscoveryGenreLabel_Roguelike": "Roguelike",
+    "DiscoveryGenreLabel_RoleplayingSocial": "Nhập Vai & Xã Hội",
+    "DiscoveryGenreLabel_Shooter": "Bắn Súng",
+    "DiscoveryGenreLabel_SimulationTycoon": "Mô Phỏng & Thách Thức Kinh Doanh",
+    "DiscoveryGenreLabel_SportsRacing": "Thể Thao & Đua Xe",
+    "DiscoveryGenreLabel_Strategy": "Chiến Lược",
+    "DiscoveryGenreLabel_Survival": "Sinh Tồn"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -5012,11 +4957,14 @@
     "RefBoneAxisTooltip": "Chọn trục trong phép biến đổi của xương tham chiếu chỉ về 'phía trước' và 'phía trên' trong không gian thành phần khi nhân vật đứng thẳng. Các giá trị mặc định được đặt cho hướng Thường của xương chậu.",
     "StateNameToolTipText": "Tên trạng thái - nhấp đúp để chỉnh sửa.",
     "StateNames": "TênTrạngThái",
+    "OrientationTypeLabel": "Loại",
     "UpLabel": "Lên",
     "WeightAngularVelocityMapping": "Trọng Lượng Ánh Xạ Vận Tốc Góc",
     "WeightLinearVelocityMapping": "Trọng Lượng Ánh Xạ Vận Tốc Tuyến Tính",
+    "WeightOrientationMapping": "Ánh Xạ Theo Hướng Trọng Số",
     "WeightAngularVelocityMappingTooltip": "Trọng lượng được tính theo thành phần đã chọn của vận tốc góc trong phạm vi đã chỉ định (nếu thành phần đã chọn của vận tốc <= giá trị tối thiểu của phạm vi thì trọng lượng bằng không, nếu >= giá trị tối đa thì trọng lượng bằng một).",
     "WeightLinearVelocityMappingTooltip": "Trọng lượng được tính theo thành phần đã chọn của vận tốc tuyến tính trong phạm vi đã chỉ định (nếu thành phần đã chọn của vận tốc <= giá trị tối thiểu của phạm vi thì trọng lượng bằng 0, nếu >= giá trị tối đa thì trọng lượng bằng 1).",
+    "WeightOrientationMappingTooltip": "Trọng số được chia tỷ lệ theo loại hướng đã chọn trong phạm vi được chỉ định.",
     "BlueprintPropertiesRowText": "vvv Thuộc Tính Bản Vẽ vvv",
     "NativePropertiesRowText": "vvv Thuộc Tính Nguyên Bản vvv"
   },
@@ -5391,6 +5339,7 @@
     "FreePrice": "Miễn Phí",
     "LegoKitOfferDescription": "Bộ LEGO®",
     "LeavingToday": "Rời Đi Hôm Nay",
+    "LimitedTimeOfferLegalText": "Ưu Đãi Hạn Giờ",
     "PegiMusicWarning": "NHẠC TẢI VỀ CHƯA ĐƯỢC PEGI ĐÁNH GIÁ XẾP HẠNG - www.pegi.info",
     "OutfitPackDescription": "Gói Trang Phục",
     "PackDescription": "Gói",
@@ -5614,6 +5563,9 @@
     "Game": "Game",
     "TeamScoreboardNameFormat": "Đội {0}",
     "JoinInProgressTooLate": "Trò chơi bạn đang cố tham gia đã kết thúc."
+  },
+  "FortMinigamePersistence": {
+    "PersistenceUnavailable": "Tiến độ đã lưu không khả dụng cho hòn đảo này, vì vậy bạn không thể tham gia ngay bây giờ. Vui lòng thử lại sau."
   },
   "FortMissionPopupWidget": {
     "REWARD:": "PHẦN THƯỞNG:",
@@ -7344,7 +7296,6 @@
     "MouseZoomScaling_Legacy": "Di Sản",
     "LegacyControllerOptionsCollection_Name": "Điều Khiển Di Sản",
     "LegacyControlsEnabled": "Điều Khiển Di Sản Đã Bật",
-    "RenderingModePerformanceLegacy": "Hiệu Suất Cũ (Đã Ngưng Hỗ Trợ)",
     "LegalCollection_Name": "Pháp Lý",
     "LegalInformation_Name": "Thông Tin Pháp Lý",
     "LicensedAudioTreatment_Name": "Âm Thanh Được Cấp Phép",
@@ -7706,16 +7657,11 @@
     "MobileFPSType_Description": "Chọn một tốc độ khung hình mong muốn trong trò chơi. Dùng tính năng này để tinh chỉnh hiệu suất trên thiết bị của bạn. Tốc độ FPS tối đa trong menu là 30 FPS.",
     "HybridMouseControlMode_Description": "Chọn Joy-Con 2 để sử dụng cho điều khiển chuột.\nLưu ý: Điều Khiển Chuột chỉ khả dụng trong một vài trải nghiệm!",
     "TouchInteractMode_Description": "Chọn chế độ tương tác cảm ứng.\n\n<strong>Tắt</>: Tương tác cảm ứng bị vô hiệu.",
-    "RenderingModeNoDX11_Description": "Chọn chế độ kết xuất cấp thấp phù hợp để sử dụng.\n\nBắt buộc phải có DirectX 12 để sử dụng các tính năng kết xuất cao cấp nhằm nâng cao độ chân thực như Nanite, Lumen và Ray-Tracing Phần Cứng.\n\nHiệu Suất là chế độ giúp tăng đáng kể tốc độ xử lý bằng cách tắt hầu hết các tính năng kết xuất để giảm bộ nhớ sử dụng và giảm tải cho CPU cũng như GPU. Chế độ này sử dụng DirectX 12.\n\nHiệu Suất Cũ (Đã ngừng hỗ trợ) cũng tương tự như chế độ Hiệu Suất, nhưng sử dụng DirectX 11.",
     "RenderingMode_TwoModeDescription": "Chọn chế độ kết xuất cấp thấp phù hợp để sử dụng.\n\nBắt buộc phải có DirectX 12 để sử dụng các tính năng kết xuất cao cấp nhằm nâng cao độ chân thực như Nanite, Lumen và Ray-Tracing Phần Cứng.\n\nHiệu Suất là chế độ giúp tăng đáng kể tốc độ xử lý bằng cách tắt hầu hết các tính năng kết xuất để giảm bộ nhớ sử dụng và giảm tải cho CPU cũng như GPU. Chế độ này sử dụng DirectX 12 nếu có thể hoặc thay bằng DirectX 11.",
     "FortReleaseVersion_Description": "Chọn phiên bản phát hành mà bạn muốn sử dụng để xác định các tính năng được bật (ví dụ: 15.20, 15.30, 16.00...).",
-    "MatchmakingRegion_Description": "Chọn máy chủ mà bạn muốn kết nối. Các máy chủ gần bạn thường sẽ có hiệu suất tốt hơn. Chọn 'Tự Động' sẽ chọn máy chủ có kết nối tốt nhất.",
-    "MatchmakingRegion_Description_PS4": "Chọn máy chủ mà bạn muốn kết nối. Các máy chủ gần bạn thường sẽ có hiệu suất tốt hơn. Chọn 'Tự Động' sẽ chọn máy chủ có kết nối tốt nhất.",
-    "MatchmakingRegion_Description_PS5": "Chọn máy chủ mà bạn muốn kết nối. Các máy chủ gần bạn thường sẽ có hiệu suất tốt hơn. Chọn 'Tự Động' sẽ chọn máy chủ có kết nối tốt nhất.",
-    "MatchmakingRegion_Description_Switch": "Chọn máy chủ mà bạn muốn kết nối. Các máy chủ gần bạn thường sẽ có hiệu suất tốt hơn. Chọn 'Tự Động' sẽ chọn máy chủ có kết nối tốt nhất.",
-    "MatchmakingRegion_Description_Switch2": "Chọn máy chủ mà bạn muốn kết nối. Các máy chủ gần bạn thường sẽ có hiệu suất tốt hơn. Chọn 'Tự Động' sẽ chọn máy chủ có kết nối tốt nhất.",
-    "MatchmakingRegion_Description_XB1": "Chọn máy chủ mà bạn muốn kết nối. Các máy chủ gần bạn thường sẽ có hiệu suất tốt hơn. Chọn 'Tự Động' sẽ chọn máy chủ có kết nối tốt nhất.",
-    "MatchmakingRegion_Description_XSX": "Chọn máy chủ mà bạn muốn kết nối. Các máy chủ gần bạn thường sẽ có hiệu suất tốt hơn. Chọn 'Tự Động' sẽ chọn máy chủ có kết nối tốt nhất.",
+    "MatchmakingRegion_Description_V2": "Chọn khu vực ghép trận của bạn. Thao tác tự động được thiết kế nhằm mang lại trải nghiệm tốt nhất. Phạm vi ping hiển thị là khoảng ước tính. Ping trong trò chơi có thể thay đổi giữa các trận đấu và trải nghiệm.",
+    "MatchmakingSubregion_Description": "Chọn vùng phụ ghép trận mà bạn ưa thích. Ghép Trận sẽ ưu tiên lựa chọn của bạn nhưng không đảm bảo bạn sẽ được xếp vào đó. Thao tác tự động được thiết kế nhằm mang lại trải nghiệm tốt nhất. Việc chọn một tiểu vùng có thể làm tăng thời gian chờ và giảm độ công bằng của trận đấu. Ping hiển thị là ước tính. Ping trong trò chơi có thể thay đổi giữa các trận đấu và trải nghiệm.",
+    "CompetitiveRegion_Description": "Chọn khu vực cho giải đấu của bạn. Cài đặt này chỉ hiển thị khi khu vực ghép trận của bạn có hơn một khu vực giải đấu.",
     "BasicSensitivityCollection_Name": "Độ Nhạy",
     "GyroV2Sensitivity_Name": "Độ Nhạy",
     "SafeZone_Action": "Đặt Vùng An Toàn",
@@ -7847,6 +7793,7 @@
     "StopRenderingInBackground_Name": "Dừng Kết Xuất Ở Nền",
     "StopRenderingInBackground_Description": "Dừng kết xuất khi màn hình trò chơi không tập trung khi có thể. Giải phóng tài nguyên GPU để cho các ứng dụng khác.",
     "KeyboardMovementStrafeDiagonal_Name": "Góc Bắn Phá Trên Cao",
+    "MatchmakingSubregion_Name": "Ưu Tiên Vùng Phụ",
     "SubtitlePage_Name": "Phụ Đề",
     "SubtitlesCollection_Name": "Phụ Đề",
     "Subtitles_Name": "Phụ Đề",
@@ -7977,6 +7924,7 @@
     "TouchAndMotionCollection_Name": "Cảm Ứng và Chuyển Động",
     "TouchpadCollection_Name": "Bàn Di Chuột Cảm Ứng",
     "EForceMaxTouchpadSensitivity_Name": "Đặt Độ Nhạy Bàn Di Chuột Cảm Ứng lên Mức Tối Đa",
+    "CompetitiveRegion_Name": "Khu Vực Giải Đấu",
     "GyroButtonTrackball": "Bi Lăn",
     "GyroTrackballDecay_Name": "Phân Rã Bi Lăn",
     "AimAssistPullStrength_Name": "Cường Độ Hỗ Trợ Ngắm Bắn Dò Theo",
@@ -8429,7 +8377,8 @@
     "Public": "Công Khai"
   },
   "FortSettingValueDiscrete_Region": {
-    "RegionDisplayWithPing": "{RegionDisplayName} ({RegionPing}ms)"
+    "RegionDisplayWithPingRange": "{RegionDisplayName} ({MinimumPing}-{MaximumPing}ms)",
+    "RegionDisplayWithPing": "{RegionDisplayName} ({MinimumPing}ms)"
   },
   "FortSettingValueDiscrete_ReportPerfStats": {
     "Disabled": "Đã Tắt",
@@ -8442,6 +8391,11 @@
   "FortSettingValueDiscrete_SocialBool": {
     "OFF": "TẮT",
     "ON": "BẬT"
+  },
+  "FortSettingValueDiscrete_Subregion": {
+    "AutoSubregion": "Tự Động",
+    "SubregionPreferenceRequiresRegion": "Thao tác tự động được thiết kế nhằm mang lại trải nghiệm tốt nhất. Để thay đổi cài đặt này, hãy chọn một Khu Vực Ghép Trận khác Tự động.",
+    "SubregionDisplayWithPing": "{SubregionId} ({SubregionPing}ms)"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
     "VoiceChatMethod_Mute": "Tắt Tiếng",
@@ -8543,7 +8497,8 @@
     "GameVoiceChannelsDisplayNameSecondary": "Thành viên chơi khác"
   },
   "FortSocialHeaderItemVM": {
-    "TeamMembersListDisplayName": "Thành viên đội"
+    "TeamMembersListDisplayName": "Thành viên đội",
+    "VerseVoiceMyChannelListDisplayName": "Kênh Thoại"
   },
   "FortSocialInteractionMenu": {
     "InvalidInputFormat": "<text color=\"{0}\">KHÔNG HỢP LỆ</>",
@@ -8646,7 +8601,8 @@
     "PlaystationFriendPlatformName": "PlayStation Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "Tính năng báo cáo tin thoại giúp chúng tôi đánh giá các vi phạm được báo cáo về Quy Tắc Cộng Đồng của chúng tôi.\n\n• Khi Đàm Thoại được bật, tính năng này sẽ lưu trữ âm thanh Đàm Thoại trên thiết bị của mỗi người tham gia trong khoảng thời gian năm phút luân phiên, âm thanh này sẽ chỉ được gửi đến Epic Games nếu một người tham gia báo cáo vi phạm.\n\n• Tính năng báo cáo tin thoại luôn được bật nếu bạn dưới 18 tuổi.\n\nXem cài đặt Đàm Thoại của bạn để biết thêm chi tiết và tùy chọn.",
     "VoiceChatVRR_Accept_O18_NewPlayer": "Tính năng báo cáo tin thoại giúp chúng tôi đánh giá các vi phạm được báo cáo về Quy Tắc Cộng Đồng của chúng tôi.\n\n• Khi Đàm Thoại được bật, tính năng này sẽ lưu trữ âm thanh Đàm Thoại trên thiết bị của mỗi người tham gia trong khoảng thời gian năm phút luân phiên, âm thanh này sẽ chỉ được gửi đến Epic Games nếu một người tham gia báo cáo vi phạm.\n\n• Tính năng báo cáo tin thoại thường bật, trừ khi trong các phe được tạo từ nhóm bạn bè quen biết, những người chơi này đều thích tắt tính năng báo cáo tin thoại.\n\n• Bạn có thể xem liệu tính năng báo cáo tin thoại hiện tại bật hay tắt ở Thanh Bên.\n\nXem cài đặt Đàm Thoại của bạn để biết thêm chi tiết và tùy chọn.",
-    "XboxFriendPlatformName": "Mạng lưới Xbox"
+    "XboxFriendPlatformName": "Mạng lưới Xbox",
+    "FriendshipActionRateLimited": "Bạn đã thực hiện quá nhiều hành động trong một khoảng thời gian ngắn. Vui lòng thử lại sau"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "Đã trở thành bạn {timesince} trước",
@@ -8777,6 +8733,10 @@
     "SittingOut": "Đang Nghỉ Chơi",
     "DownloadOnDemandProgress": "Đang Cập Nhật ({0}%)"
   },
+  "FortTextChatConversationVM": {
+    "PartyFrameworkUnavailable": "Khung làm việc của Tổ Đội không khả dụng",
+    "SocialToolkitUnavailable": "Bộ công cụ xã giao không khả dụng"
+  },
   "FortTextChatPlayerVM": {
     "RedactedUserBlocked": "<Blocked player>",
     "RedactedUserGeneral": "<Hidden player>",
@@ -8894,7 +8854,6 @@
     "EpicPartyInviteDetailsSent": "Lời mời tham gia tổ đội được gửi tới <Username>{0}</>",
     "PartyInviteDetailsSent": "Lời mời tham gia phe được gửi tới <Username>{0}</>",
     "EpicPartyJoinabilityChangedInviteOnlyDetails": "Tổ đội chỉ chấp nhận người được mời",
-    "EpicPartyJoinabilityChangedOpenDetails": "Tổ đội mở công khai",
     "EpicPartyJoinRequestReceived_Title": "Yêu cầu tham gia tổ đội",
     "EpicPartyMemberCreated": "Người chơi đã tham gia tổ đội",
     "PartyMemberCreated": "Người chơi đã tham gia phe",
@@ -8918,7 +8877,9 @@
     "LocalPlayerEpicPartyPromotedToast": "Bạn đã được thăng chức thành thủ lĩnh tổ đội",
     "RequestToJoinParty_RateLimited": "Bạn đã gửi quá nhiều yêu cầu, vui lòng thử lại sau",
     "FriendToastSelfTooManyFriends": "Bạn có quá nhiều bạn",
-    "FriendToastSelfOutboxFull": "Bạn đã gửi quá nhiều lời mời kết bạn"
+    "FriendToastSelfOutboxFull": "Bạn đã gửi quá nhiều lời mời kết bạn",
+    "EpicPartyJoinabilityChangedOpenDetails": "Tổ đội của bạn giờ có thể tham gia rồi",
+    "NotifMgrForkMemberNoAccessToast": "{Username} không có quyền truy cập vào nhánh rẽ đã chọn, nếu tiếp tục sẽ bỏ qua nhánh đó"
   },
   "FortUIStateWidget_Login": {
     "OfferRHIChangeForStability_Title": "Thay đổi chế độ kết xuất?",
@@ -8926,7 +8887,6 @@
     "UpdateCheck": "Đang kiểm tra cập nhật...",
     "ConnectionCheckText": "Đang kiểm tra kết nối của bạn...",
     "TryingLonger": "Đang tiếp tục thử, xin hãy kiên nhẫn. \nKiểm tra {CheckStatusURL} để biết chi tiết!",
-    "OfferRHIChangeForStability_DX11": "DirectX 11",
     "FailedToLoadProfile": "Không Thể Tải Hồ Sơ.",
     "RefreshingContent": "Đang Tải Nội Dung Động...",
     "FindBestSettings": "Tìm Cài Đặt Tốt Nhất?",
@@ -8935,7 +8895,6 @@
     "LoggingIn": "Đang đăng nhập...",
     "NoInternet": "Không Phát Hiện Kết Nối Internet",
     "OfferRHIChangeForStability_PerformanceMode": "Chế Độ Hiệu Suất",
-    "OfferRHIChangeForStability_FullDescriptionDX12PerfMode": "Chế độ Hiệu Suất Cao có thể gặp sự cố ổn định trên thiết bị của bạn, dẫn đến Fortnite bị sập khi chơi. Bạn có muốn chuyển sang Chế Độ Hiệu Suất Cũ để có trải nghiệm ổn định hơn không? {OptionalAutoRestartText}",
     "NoInternetDesc": "Vui lòng kiểm tra kết nối của bạn và thử lại.",
     "QuitText": "Thoát",
     "Benchmark": "Đang Chạy Benchmark...",
@@ -9425,6 +9384,7 @@
     "Message.Unauthorized": "Bạn không có quyền truy cập để chơi nội dung này.",
     "MfaRequiredForTournament": "Bạn phải bật xác thực hai yếu tố trên tài khoản Epic của mình để chơi trong giải đấu này. Truy cập {TurnOnMfaURL} để bật.",
     "WrongNumberOfEventPlayers": "Bạn cần phải ở trong một phe đầy đủ để tham gia giải đấu này.",
+    "MatchCapExceeded": "Bạn đã chơi hết số trận tối đa cho sự kiện này. Kiểm tra Tab Cạnh Tranh để biết thêm chi tiết và các sự kiện sắp tới.",
     "Error.AccountLevelTooLow": "Cấp độ tài khoản của bạn ({0}) không đáp ứng các yêu cầu tối thiểu để chơi: {1}.",
     "Error.BRRankLevelTooLow": "Mức xếp hạng hiện tại của bạn trong Cuộc Chiến Sinh Tồn ({0}) không đáp ứng yêu cầu tối thiểu để tham gia: {1}.",
     "Error.BRRankLevelTooHigh": "Mức xếp hạng Cuộc Chiến Sinh Tồn hiện tại của bạn ({0}) quá cao để tham gia giải đấu này. Hạng tối đa được phép để tham gia là {1}.",
@@ -10900,6 +10860,7 @@
   "Matchmaking": {
     "PartyMemberDisconnect": "Thành viên trong phe đã ngắt kết nối.",
     "PartyMemberTimeout": "Thành viên trong phe đã không thể kết nối.",
+    "MatchCapExceeded": "Người chơi đã chơi hết số trận tối đa cho sự kiện này.",
     "PartyTooBig": "Đang có quá nhiều thành viên phe cố gắng đăng ký."
   },
   "MatchmakingContext": {
@@ -11596,7 +11557,7 @@
     "Join_Num_Alive": "Tham Gia Phe - Còn {PlayersAlive}"
   },
   "PawnOptionRegistry": {
-    "AthenaCharacterDisplayName": "Nhân Vật Athena"
+    "DefaultCharacterDisplayName": "Nhân Vật Mặc Định"
   },
   "PersonaCharacterModifierDetailsCustomization": {
     "VoiceDefault": "Mặc Định"
@@ -11770,7 +11731,19 @@
     "UFortQuestCategory::Misc": "Khác"
   },
   "QuestPanelDebugToolViewModel": {
+    "Placement_CategoryNotRegistered": "Có một thẻ khớp và hợp lệ cho bản dựng này, nhưng thẻ đó chưa từng được đăng ký. Thường là vấn đề về thời điểm - hãy kiểm tra lại sau khi xây dựng lại danh mục.",
+    "Placement_CategoryDisabled": "Có một thẻ khớp nhưng bCategoryEnabled đang tắt. Cấu hình có thể ghi đè, nên bản sửa nóng có thể đặt giá trị cho nó.",
+    "Placement_CategorySunset": "Có một thẻ khớp nhưng đã ngừng hỗ trợ trong bản dựng này.",
+    "Placement_CategoryPluginUnavailable": "Có một thẻ khớp nhưng plugin của thẻ đã ngừng hỗ trợ.",
+    "Placement_CategoryUnreleased": "Có một thẻ khớp nhưng sẽ phát hành ở một bản dựng sau.",
+    "Placement_CategoryEventGated": "Chỉ có một thẻ khớp trong IncludeQuestTagsByEvent và sự kiện đó không hoạt động.",
+    "Placement_CategorySuppressed": "Có thẻ khớp nhưng nội dung bị ẩn, nên không lấy nội dung nào và từ chối phương án dự phòng.",
+    "Placement_NoOrganizationTags": "Không có thẻ QuestCategory nào để khớp.",
+    "Placement_CategoriesNotYetBuilt": "Không có danh mục nào tồn tại khi nội dung này được sắp xếp. Sẽ được giải quyết khi dựng lại.",
+    "Placement_NoCategoryDeclaresTag": "Không có danh mục nào định nghĩa các thẻ này hoặc bất kỳ danh mục nào chứa chúng.",
     "Visibility_NoView": "Không thể truy cập để xem nhiệm vụ này.",
+    "Placement_FallbackUnavailable": "Không có thẻ khớp và phương án dự phòng không khả dụng, nên nội dung này không thuộc bất kỳ danh mục nào.",
+    "Placement_BundleSuppliedNoTags": "Thẻ đục lỗ chỉ dùng các thẻ của bộ quà và bộ quà này không có thẻ nào. Các thẻ riêng của nhiệm vụ chưa bao giờ được đọc.",
     "VersionWarning_AssetSunset": "Tài nguyên này đã bị ngừng hỗ trợ trong bản dựng hiện tại của bạn và sẽ không sử dụng được nữa.",
     "VersionWarning_AssetUnreleased": "Tài nguyên này phát hành trong một bản dựng mới hơn phiên bản hiện tại của bạn và sẽ không được hỗ trợ.",
     "VersionWarning_PluginSunset": "Plugin này đã ngừng hỗ trợ trong phiên bản hiện tại của bạn và sẽ không được hỗ trợ.",
@@ -11948,6 +11921,9 @@
     "HasEnforcedSettingsU10Warning_Voice": "<strong>Chỉ bạn bè</> là giới hạn tương tác tối đa dành cho trẻ dưới 10 tuổi. Nếu bạn chọn cài đặt bớt nghiêm ngặt hơn, cài đặt đó sẽ có hiệu lực khi con của bạn đủ tuổi.",
     "HasEnforcedSettingsU13Warning_Text": "<strong>Bạn bè, thành viên đội và các mối liên hệ</> là giới hạn tương tác tối đa dành cho trẻ dưới 13 tuổi. Nếu bạn chọn <strong>Tất cả mọi người</>, cài đặt này sẽ có hiệu lực khi con của bạn đủ tuổi.",
     "HasEnforcedSettingsU13Warning_Voice": "<strong>Bạn bè, thành viên đội và các mối liên hệ</> là giới hạn tương tác tối đa dành cho trẻ dưới 13 tuổi. Nếu bạn chọn <strong>Tất cả mọi người</>, cài đặt này sẽ có hiệu lực khi con của bạn đủ tuổi."
+  },
+  "SimpleOfferVM": {
+    "OutDateFormat": "Kết thúc vào {Time} ngày {Day}/{Month}/{Year} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
     "DeleteSnapEntries": "Delete Snap Entries",
@@ -12443,6 +12419,24 @@
     "Athena": "Cuộc Chiến Sinh Tồn",
     "Creative": "Sáng Tạo",
     "Campaign": "Giải Cứu Thế Giới"
+  },
+  "SubregionNames": {
+    "BAH": "Bahrain",
+    "FR": "Pháp",
+    "DE": "Đức",
+    "IA": "Iowa",
+    "IL": "Israel",
+    "MX": "Mexico",
+    "MUM": "Mumbai",
+    "NCAL": "Bắc California",
+    "OH": "Ohio",
+    "OR": "Oregon",
+    "SYD": "Sydney",
+    "SAO": "São Paulo",
+    "TX": "Texas",
+    "TOK": "Tokyo",
+    "GB": "Vương Quốc Anh",
+    "VA": "Virginia"
   },
   "SupervisedSettingsManager": {
     "TimezoneDisplayFormat": "{0} {1} ({2})"

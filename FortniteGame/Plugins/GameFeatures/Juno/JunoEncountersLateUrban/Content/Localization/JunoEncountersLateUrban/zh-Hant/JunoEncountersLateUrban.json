@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "完成 3 個高譚市挑戰",
     "8545084D4037D8328A80AAA600F845B1": "完成 3 個高譚市挑戰",
     "8867A2174A1B609CA14739BFA57AD7BA": "完成 3 個高譚市挑戰",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "完成 5 個高譚市挑戰",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "肅清羅賓森公園",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "收集 10 個辣椒",
     "B724EFD84125E744670EEC852A03D7E5": "收集 10 個南瓜",
     "6D3D89EF484F1388F3EC94BA45D0198A": "收集 30 個光核礦",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "收集 30 塊雪",
+    "7DD7744E44595A1743F019932761EF3D": "收集 30 個臭腺",
     "72ED820E417BF03B7D74628BC7A0D50A": "收集 30 塊雪",
     "AC0061C9484C5D72D42634A7DE52BD86": "收集 50 個光核礦",
     "765CEFD440B6023FC0F2D895D64DC0B0": "瓜登局長 - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "製作 10 個生物質",
     "BB1E87384DF5BD8AC5657499C7C5603C": "擊敗 10 隻蠍子",
     "DF66F10243EF456A3BC00BA9F1A6F003": "擊敗 10 隻蠍子",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "擊敗 20 名爪牙",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "擊敗 3 隻霜熊",
     "60F095F34D1AC980533CABBD59BE64D2": "擊敗 3 隻霜熊",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "擊敗在羅賓森公園的爪牙",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "冰山偷閒 - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "必須阻止毒藤女的爪牙！<empha>跟著蝙蝠信號燈前往羅賓森公園，並擊倒毒藤女的爪牙。</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "毒藤女讓高譚市的所有人——該怎麼說呢——「吐到歪頭」。我們覺得她應該是用了某種毒液，我們得趕快研究解毒劑才行。前往<img id=\"IcoDes\"/><Des>乾燥谷</><empha>擊敗 10 隻蠍子</>。在你完成這件事前，整座城市都會虛弱不堪。*咕* 呃——我得走了。",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "暗夜騎士出動",
+    "A75F4FE844F88A4440153482E2EA221C": "暗夜騎士出動",
     "E5D175ED4A01969301A19E98405F2E01": "製作 10 個生物質",
     "8F85938943E9D27E8F7DD2A3D347810B": "高譚市又有更多建築物消失了，背後的原因不禁讓人起「魚」。我懷疑有新的勢力搖搖擺擺地插手這場混亂了。去了解更多詳情吧。<empha>跟著地圖上的蝙蝠信號燈，完成 3 個高譚市挑戰。</>",
     "686582044561A9744F6D4B8E6A15A766": "爆！能量電池 - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "黑暗明光 - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "充滿魚腥味的線索就此冰封。但或許我們確實需要一點冰雪。去看看你能不能從中挖到點情報吧。去<img id=\"IcoFro\"/><Fro>霜原</><empha>收集 30 塊雪。</>",
     "12AA70A84BF6C72E80C639A345F4F0FD": "我們猜得沒錯，企鵝人果然在幕後操盤，但他暫時把我凍住了。別擔心，阿福會帶可可給我喝的。但你呢？你得實地測試一些極地格鬥技巧才行。前往<img id=\"IcoFro\"/><Fro>霜原</>並<empha>擊敗 3 隻霜熊。</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "暗夜騎士出動"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "「我是蝙蝠俠。謎天大聖似乎把那些爪牙耍得團團轉，讓他們乖乖照著他的計畫來對付我們。這些傢伙實在不怎麼聰明。我敢打賭，這些蠢蛋連釣魚郵件都會上當。<emphasis>擊敗 20 名爪牙。</> -蝙蝠俠結束通訊。」",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "我是蝙蝠俠。毒藤女又來了。她改造了當地植物，而且那種植物的味道比企鵝人在大太陽下野餐後的廚餘還難聞。植物不斷掉落<EmphA>臭腺</>！清除那些污染物。<EmphA>收集 30 個臭腺</>。",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "已接受挑戰",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "完成 5 個高譚市挑戰",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "收集 30 個臭腺",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "擊敗 20 名爪牙",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "反派的氣息",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "爪牙出動",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "沒錯，又是我，蝙蝠俠。阿福探測到了一些新活動。而且不是讓蝙蝠鏢沾上黑漆，再附上一張卡片寫著「抱歉，我破壞了你的計劃」那類有趣的事。去調查一下。<EmphA>完成 5 個高譚市挑戰。</>"
   }
 }

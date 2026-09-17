@@ -17,7 +17,7 @@
     "BP_Creative_PhoneBooth_C.Disable.DisplayName": "ปิดการใช้งาน",
     "BP_Creative_PhoneBooth_C.Disable.Description": "ปิดใช้งานอุปกรณ์ นำผู้เล่นทั้งหมดออกจากบูธเปลี่ยนชุดและป้องกันไม่ให้ใช้ได้",
     "BP_Creative_PhoneBooth_C.Enable.DisplayName": "เปิดการใช้งาน",
-    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "เปิดการใช้งานเมื่อเริ่มเกม",
+    "BP_Creative_PhoneBooth_C.EnabledAtGameStart.DisplayName": "เปิดใช้งานเมื่อเริ่มเกม",
     "BP_Creative_PhoneBooth_C.Enable.Description": "เปิดใช้งานอุปกรณ์ อนุญาตให้ผู้เล่นใช้บูธเปลี่ยนชุดได้",
     "BP_Creative_PhoneBooth_C.Show HUD Beacon.Description": "ซ่อนไอคอน HUD เมื่อ False",
     "BoolMetaData.FalseDisplayName": "ปิด",

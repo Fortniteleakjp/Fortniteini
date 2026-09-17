@@ -8,17 +8,20 @@
     "2B276D4D42A062A222AD94B6EE5B0B2F": "고담 도전 3개 완료",
     "8545084D4037D8328A80AAA600F845B1": "고담 도전 3개 완료",
     "8867A2174A1B609CA14739BFA57AD7BA": "고담 도전 3개 완료",
+    "2DEFC8D44E0E3BD166685FAB6BCF4325": "고담 도전 5개 완료",
     "42CDEE5C4DE471F1B82852B326BA5BB5": "로빈슨 공원 완료",
     "5EAB644F4F74BFF5EA0BCCB186A201AD": "고추 10개 수집",
     "B724EFD84125E744670EEC852A03D7E5": "호박 10개 수집",
     "6D3D89EF484F1388F3EC94BA45D0198A": "브라이트코어 30개 수집",
     "2F6C2C0940C8BCF8995A2D9287D557DD": "눈 30개 수집",
+    "7DD7744E44595A1743F019932761EF3D": "악취샘 30개 수집",
     "72ED820E417BF03B7D74628BC7A0D50A": "눈 30개 수집",
     "AC0061C9484C5D72D42634A7DE52BD86": "광명석 50개 수집",
     "765CEFD440B6023FC0F2D895D64DC0B0": "고든 호박청장 - 6/6",
     "4B08ED6841C317E04E23E2864F0D00FC": "바이오매스 10개 제작",
     "BB1E87384DF5BD8AC5657499C7C5603C": "전갈 10마리 쓰러뜨리기",
     "DF66F10243EF456A3BC00BA9F1A6F003": "전갈 10마리 쓰러뜨리기",
+    "B89A58BF4BEF2F0991C5EA9376212D0F": "부하 20명 처치",
     "2DC7F97042DDBF037F79BB9EA3FA349D": "서리 곰 3마리 쓰러뜨리기",
     "60F095F34D1AC980533CABBD59BE64D2": "서리 곰 3마리 쓰러뜨리기",
     "1DBCF48C4C63FFD89E0C9B9BFFCDA6A7": "로빈슨 공원에서 부하 처치",
@@ -42,6 +45,8 @@
     "355937AB44E1AFB6C5A38EA2B5476251": "아이스버그의 라운지 - 2/5",
     "483F41EA4ADA9FDA7C8EFFAEAC5E50DE": "아이비의 부하들을 막아야 합니다! <empha>배트시그널을 따라 로빈슨 공원으로 가서 아이비의 부하들을 쓰러뜨리세요.</>",
     "4186A88E42B7DCAF7F3EA39B84BD5647": "아이비 때문에 고담 시민 모두가, 어떻게 말해야 하지... '미친 듯이 토하고' 있어요. 어떤 맹독을 쓰는 것 같아요. 최대한 빨리 해독제를 연구해야 해요. <img id=\"IcoDes\"/><Des>메마른 계곡</>에서 <empha>전갈 10마리를 쓰러뜨리세요</>. 그때까지는 도시는 간신히 버티고 있을 테니까. 그윽... 어... 가야겠어요.",
+    "4F7F4DCA4D944B37084E5EA7161C0DA0": "나이트 시프트",
+    "A75F4FE844F88A4440153482E2EA221C": "나이트 시프트",
     "E5D175ED4A01969301A19E98405F2E01": "바이오매스 10개 제작",
     "8F85938943E9D27E8F7DD2A3D347810B": "고담에서 사라지는 건물이 늘었고 뭔가 수상쩍은 냄새가 나요. 이 난장판에 새로운 누군가가 뒤뚱거리며 찾아온 것 같은데요. 자세히 알아보세요. <empha>맵에서 배트 시그널을 따라가 고담 도전 3개를 완료</>하세요.",
     "686582044561A9744F6D4B8E6A15A766": "파!워 전지 - 5/6",
@@ -55,5 +60,19 @@
     "8F6F69F749F24438519500847641C6BE": "어두운 빛 - 6/6",
     "44ADEFFD4C42F9275549EDA8EA8C0577": "비린내 나는 흔적이 사라졌네요. 하지만 추위야말로 지금 필요한 걸지도 몰라요. 정보를 좀 캐낼 수 있는지 보세요. <img id=\"IcoFro\"/><Fro>서리 지대</>로 가 <empha>눈 30개를 수집</>하세요.",
     "12AA70A84BF6C72E80C639A345F4F0FD": "배후에 코블팟이 있다는 건 맞았지만, 펭귄 때문에 지금은 꽁꽁 얼어서 움직일 수가 없어요. 걱정 마세요. 알프레드가 코코아를 가져다 줄 거니까. 한편 당신은요? 혹한지 전투 기술을 현장에서 테스트하게 될 거예요. <img id=\"IcoFro\"/> <Fro>서리 지대</>로 가서 <empha>서리 곰 3마리를 쓰러뜨리세요.</>"
+  },
+  "DT_JunoLateUrban_Journal_Category": {
+    "WeeklyEvents_Title": "나이트 시프트"
+  },
+  "DT_JunoLateUrban_Journal_WeeklyEventTasks": {
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Description": "\"배트맨입니다. 리들러가 부하들을 속여서 우릴 날려버리려는 자기 계획에 따르도록 만든 것 같아요. 녀석들은 그다지 똑똑하진 않으니까요. 그 바보들은 이메일 피싱 사기에도 속아 넘어갈걸요.<emphasis>부하 20명을 쓰러뜨리세요.</> -배트맨. 통신 종료.\"",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Description": "배트맨이다. 포이즌 아이비가 또 뭔가를 꾸미고 있어. 아이비가 지역 식물들을 바꿔놨어. 햇빛 좋은 날 소풍 나온 펭귄이 남긴 음식물 쓰레기보다 악취가 심하더군. 식물들이 <EmphA>악취샘</>을 떨어뜨리기 시작했어! 오염원을 제거하고 <EmphA>악취샘 30개를 수집해</>.",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Title": "도전 수락",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_ShortDescription": "고담 도전 5개 완료",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_ShortDescription": "악취샘 30개 수집",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_ShortDescription": "부하 20명 처치",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_StinkGlandCollection_Title": "악당의 향기",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_HenchmenElims_Title": "몸 푸는 부하들",
+    "Juno_LateUrban_MicrowaveLobster_WeeklyEvent_POICompletion_Description": "맞아, 또 배트맨이야. 알프레드가 새로운 활동을 감지했어. 배트랑을 검은색 페인트에 담가서 '계획을 또 망쳐서 미안' 카드를 꾸미는 그런 멋진 건 물론 아니지. 가서 조사해. <EmphA>고담 도전 5개를 완료해.</>"
   }
 }

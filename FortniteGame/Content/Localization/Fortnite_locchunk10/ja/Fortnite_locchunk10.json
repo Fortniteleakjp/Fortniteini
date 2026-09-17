@@ -539,8 +539,6 @@
     "0F27FEB645424A655938FBAA00966985": "戦う準備よし",
     "06260D674B73C899F270E489FDED2318": "バトルロイヤル",
     "33B8A20040C39F11D774A2981F344253": "バトルロイヤル",
-    "922BA250460700D4A6C45A814459E9D4": "バトルロイヤル",
-    "A7F0D4E047323614E099CCB1616FC33D": "バトルロイヤル",
     "C403587B40DF25FCAA8E159AA3A7E558": "バトルロイヤル",
     "D3A984E042745DAD6F26E19C18103AD2": "バトルロイヤル",
     "61B644904C2939F994F877A526A4440B": "「バトルロイヤル」コンペンディウムXP",
@@ -562,7 +560,6 @@
     "0A9381554E499FD10B15438EDCFD41B0": "ビッグバレルDX",
     "1141551646D2B84FA4A5CD9BE56BC8B0": "バイプレーン",
     "5B5236944941BFD7DE82B8B05FE11D94": "バイプレーン",
-    "DF56207843F6244003548CA79CFAA0F4": "バイプレーン",
     "AD9DF9A2455C274907AE29971466ADBA": "ブレイド",
     "EDAA4E1A4AF1139677D30E85FACC53C2": "ブレイド",
     "7641CC0743ADBB2B2B04ED9883DD8214": "ブリング",
@@ -753,12 +750,7 @@
     "A160CCFF49521B32A8B8E3AB90408722": "ダメージレベル",
     "4E5042D4427FE2E4B38251A37A0D3A5F": "ダンスサポート",
     "91DEE53D4336DA0C00BAD3ACA0899EE6": "フレンドを驚かせて喜ばせよう。",
-    "2C01E2F5420CED5A207C7B98302305A4": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
-    "394C9BDD403D04CBB1203997013A98CD": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
-    "47699A1C400A37DC893F54B2FCD92877": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
     "527C4E4949B247E160807D920F92EEC9": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
-    "5CFC98A54A14E69002262F89F0182317": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
-    "722B1B4541B7FEDB0D5373A168D11B14": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
     "8E47673F4F3406EAA533BFA7D3BACDAB": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
     "F1454581430BDE167B62D384A23A7C96": "不穏な雲が間近に迫っている。ストームが強くなるにつれ、中心となるストームの目は徐々に小さくなる。",
     "F36292074E3360F745279784F74D8867": "デッドショット",
@@ -823,23 +815,16 @@
     "F92A2BBA4871D636829900B0E138FA81": "ヴィンダーボット博士チャレンジ",
     "BD6E914C471A66813327F2AEEA3867E7": "運転する",
     "390597F64F2F483C06891FB95BA037D3": "キャノンを操縦",
-    "29FA05054578E0CC32DA89B13152C692": "戦場に飛び込め。準備は怠るな",
-    "42C6A24F40F7DB9C0D26D48BF84C2F4C": "戦場に飛び込め。準備は怠るな",
     "48DE963D48E224F0FA34B392EEBB04F3": "戦場に飛び込め&準備は怠るな",
     "56EC010C4FABD0181556A3B06A38ACEB": "戦場に飛び込め&準備は怠るな",
-    "7BC26EA54582F700E6B4988782BFF806": "戦場に飛び込め。準備は怠るな",
     "831C33534BEC50A3D3E4E89E7C3170D4": "戦場に飛び込め&準備は怠るな",
-    "9178141B40FE92B80982CC9FF69DADDF": "戦場に飛び込め。準備は怠るな",
-    "E4AF6B474D830CD9D7A25B87E57E55C0": "戦場に飛び込め。準備は怠るな",
     "EE09C0E54BBFE547ECCF628D1A0F3BFB": "ドラムガン",
     "7B9C4CB74DFEE2C4B1C9D99CA6D70896": "デュアルピストル",
     "CA9DCBF64B31242269823E88C10A74C0": "デュアルピストル",
     "9DCEC44C423596A81B77438A15C90787": "デュアルピストル: セミオート。",
     "DD10E1F74B4C77102CCDAAA7B1258400": "デュアルピストル: セミオート。",
     "3EC1D4304108BC1102AD90BF1CC5DC39": "ダクトテープ",
-    "045079474451066B165246804C89FDF4": "デュオ",
     "1CAFE187418D13AB72E3F6A1A6F6DCCE": "デュオ",
-    "F9ABF3514BADBE7C8DBD23A2B8E6DB1E": "デュオ",
     "941BB5D943AB82F7E60130B929A1A071": "ダーバーガー",
     "01558C734EDD8820D50C7B8065F7C617": "ダイナマイト",
     "5AC45AA249F4846D74DD779DD825D066": "ダイナマイト",
@@ -989,7 +974,6 @@
     "B66A963A4F1715DA7B033093DCCF9262": "グライダー",
     "2600DF544E09C9AC9E0EA69C95FBBA7C": "グライダーの再展開",
     "87E39EA04808B27EA30A908F811EF0FA": "グライダー",
-    "0CC212B74A4C538363B8A1AF4698DB27": "単身でバトルに飛び込み、最後の1人になるまで生き残れ。",
     "3C063B974F09C8A673507CBE3ADDB71D": "単身でバトルに乗り込み、最後の1人になるまで生き残れ。",
     "8BEC89B8499664826B111685672B4E29": "単身でバトルに乗り込み、最後の1人になるまで生き残れ。",
     "B8C59B304999B1F6964D1696FAB0E456": "ゴールド",
@@ -1013,9 +997,7 @@
     "F0737F4E40417749A441A59843B932F0": "グレイブヤードボイジャー",
     "0B5C62D0400E95930AEE12B1D2116EE2": "グリーン",
     "5D14C5F74CA277758C0476AA504D7CEA": "グラトウ",
-    "2F8E1CA74ECE10A40A6200AFCA9AB2C8": "パーティーを組み、他のスクワッドを全て倒して勝利を掴め。",
     "331DB866438F7C72234C5B8338CC44A0": "パーティーを組み、他のスクワッドを倒して生き残れ。",
-    "708C85D2416421620CD59FA2E2C10C81": "パーティーを組み、他のスクワッドを全て倒して勝利を掴め。",
     "99E9D5F34DC01FC6B8774DB154EAC42E": "銃 アサルトライフル マシンガン 小口径弾 オートマチック",
     "BD171E23474EFDCBD7F02C9D974BF923": "銃 アサルトライフル マシンガン 小口径弾 オートマチック",
     "28BB4D024C130854E71CF4A22D80FF5B": "銃 マシンガン ",
@@ -1155,17 +1137,9 @@
     "41D131AC42BE610B50BC2B8699CE69F4": "安全に着地し<Emphasized>さらに高く跳ねる</>",
     "63037FB94900FB1564D17B8D3B141318_Option 00": "着地地点への経路が塞がれている",
     "5B11769D4F71D4885B2B89B1D6C94BDE": "ラーズチャレンジ",
-    "43C636AD4055E070A1814FAD8B09AC1A": "最後まで生き残ったデュオが勝利",
-    "467E016E45A42621B5E9E0AB3EF7406C": "最後まで生き残ったデュオが勝利",
     "4D5F2A8D4C21C8D7E5939D8FA4E9B799": "最後まで生き残ったデュオが勝利",
-    "6F9C1DE3404CC98D7B61CC8FAB998751": "最後まで生き残った人が勝利",
     "C21BFCC843ECBDD4244B80BC06CC68DC": "最後まで生き残った人が勝利",
-    "0EAF945F4D112289133FCAAE8A04FEAC": "最後まで生き残ったスクワッドが勝利",
-    "16A8295D47A2161AF8459C931E0D6428": "最後まで生き残ったスクワッドが勝利",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "最後まで生き残ったスクワッドが勝利",
-    "A7EBE5AD488F015454C9ABA73187CDA2": "最後まで生き残ったスクワッドが勝利",
-    "1BAC988D4BE8BF136AF726B7914DBB8E": "最後まで生き残ったトリオが勝利",
-    "593710F041FC73B14B768D805A261803": "最後まで生き残ったトリオが勝利",
     "0E7DAF39462A8FDB208B1B94A8372C42": "空へと舞い上がり不気味な笑い声を響かせる。その後、クールダウン状態になる。",
     "203048A346124F2326AE7489CF3CF605": "空へと舞い上がり不気味な笑い声を響かせよう。再発動で早めのキャンセルが可能。",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "空へと舞い上がり不気味な笑い声を響かせよう。再発動で早めのキャンセルが可能。",
@@ -1183,7 +1157,7 @@
     "3DA57402427AD07E9EEF1182BFB26A44": "左テイル",
     "EF98507D4A9602DC9B4316BE1ED0C7B8": "左翼",
     "EF22E85B49A871DF9C133DA1F84B3900": "レゴテーマ ゲーム(JunoTG)",
-    "84C3BBA14C6CFD722047408811DD825B": "レゴテーマ ゲーム 共有(LFNTG)",
+    "84C3BBA14C6CFD722047408811DD825B": "レゴテーマゲーム共有(LFN)",
     "FDA97C5F4842CB9AE5195393C8759F84": "レゴテーマ ミニマル(JunoTM)",
     "0F93E33949F18F9AC630988B1779501D": "長さ",
     "55D9779A456076ABC653E4AF1DA4E4E8": "視界",
@@ -1343,10 +1317,6 @@
     "8053EDE044FBF1265F6B1DBCEB781AED": "バトルバンドル購入オプショントークンなし",
     "CBAC2A8245779FCB3C9F6B81D1A31342": "バトルバンドル購入オプショントークンなし",
     "E261C67141F14F9652FD0C93C404E058": "バトルバンドル購入オプショントークンなし",
-    "728166DF40860F5361F4A19937CC172B": "建築物なし",
-    "7FDF8EB848546CA80CCFB5BD469609D5": "建築物なし",
-    "8D361C9548DC46AF05FC699F7DDF362C": "建築物なし",
-    "B693137D453A34B460A400B2C9BC9FAA": "建築物なし",
     "74B0959E4E4A1C023C8183802DA98EBB": "クラスなし",
     "DEFB1E9148E435E13EC57EB6E1D449C3": "燃料なし",
     "CDE7CA5C45B5B95F9B59029D105CE8E7": "燃料がない！",
@@ -1394,19 +1364,13 @@
     "516CA75D4CF5403A2F82BF838CD51DB7": "旧式のモジュールとペアレンティング",
     "6EB89D324C5E00500994CD96A83D5A72": "旧式のモジュールとペアレンティング",
     "239C56EB4D132A667FA6FBB4C3EC025D": "コスチューム",
-    "8B6494CE4E4559C92AE9EA80CA6ABD64": "敵よりも長く生き延びろ",
     "4A9589F34AB5E10379942BBC15BC2F21": "過剰対策",
-    "3F71CF134C5611AE2678858EB2829609": "オーバーシールド",
-    "4AE6D7A04B229CC91981D08C0DFA5F10": "オーバーシールド",
-    "8135E537499366CB0A97F1BB0B160E72": "オーバーシールド",
-    "AB53E3BE4B82E5EF8ED1158F423278B4": "オーバーシールド",
     "0399733A45284122D4FA1A91F1B55A7A": "オーバータイムチャレンジクリアトークン",
     "23E4AD8040BD27B12F54D592B136B741": "オーバータイムチャレンジクリアトークン",
     "60E8BD514CA49B8427DE5E968D50D6D0": "オーバータイムチャレンジクリアトークン",
     "B6C570664C3322374D227E9C64E5CE53": "オーバータイムチャレンジクリアトークン",
     "86A84DD84459F5837773B3BF3ECA2AAB": "パワー・ストーン",
     "C3DD25E14510FC9EE31B5DA2464BB43A": "2人でデュオを組んで全員倒せ。",
-    "F53B296340C59B61E7F25CAD2D099037": "デュオを組んで、1人残らず打ち負かせ。",
     "666DA32449CF40B24E7D1EAC0965A360": "パーツフィッシュ",
     "043E58CA40A0C7DFC66382B49649CBDE": "パーティクル",
     "B9016A7C440D95DEF4D8E0B4B607A19F": "パーティクル",
@@ -1417,12 +1381,7 @@
     "42BE8AEA47AC24A46AC90FBAC18CF477": "パーソナルXPブースト",
     "9A0379234914781523C92E86524D9CAE": "パーソナルXPブースト",
     "1E2756A24E84E31CB6EFA19AABE6CEEE": "降下地点を選び、装備を探そう。",
-    "64AD0DDF44CE2F5CAC01138692B7D3F8": "降下地点を選び、装備を探そう。",
     "69143D2545BB22E7C1E85180E84956D6": "降下地点を選び、装備を探そう。",
-    "7628F96349992B405AC53AA1794F0549": "降下地点を選び、装備を探そう。",
-    "83442C93431D30D525941EB7558D1E4F": "降下地点を選び、装備を探そう。",
-    "BB6F8C82403A7CEE42B60FBC587FA422": "降下地点を選び、装備を探そう。",
-    "BFE554FE4DB039079E95F6981704E2E8": "降下地点を選び、装備を探そう。",
     "EDCBC677446BC5F213863580F3C0A3B5": "降下地点を選び、装備を探そう。",
     "B3CFEDE943AA56C0AEE82CA08F806463": "拾う",
     "7240B5BC46A81D296CBCA080DF98ECB7": "ツルハシラン",
@@ -1490,21 +1449,12 @@
     "43088BA143F2B6BCAEE378847172BE8C": "クアッドクラッシャー",
     "CC13E7A44B19B6541560D085C426791D": "クアッドクラッシャー",
     "393E9456499B520AC90D5E8597A7D23D": "<Emphasized>最後の弾5発</>の<Emphasized>ダメージが上昇</>する静音サブマシンガン",
-    "AEBB89F442C1D29C9277D5A10B1CFC71": "クイント",
     "43E272F8443991243556F0AB98EC9BBE": "リアリティ・ストーン",
     "2A5097B944627605414956BB8AE4337B": "ランダム",
     "318128844F99D44E7F5C91B8F5457418": "ランダムスポーン",
     "AE030E304F5F9780D063B09D3B1D7C72": "遠隔 弓",
     "E6EE95714DC76EF72E9B299D4F14A675": "遠隔 弓 エクスプローシブボウ",
     "1CBC3F3747EECA210049B99100CF9AFC": "遠隔武器",
-    "5DE047C24F180A1105DC75A6DB8EC0C6": "ランクバトルロイヤル",
-    "6C8E638B41A592AB4E8BE4ACA038C392": "ランクバトルロイヤル",
-    "8733662A43E19880D8477ABC0873E06A": "ランクバトルロイヤル",
-    "C0A48EEE420D2792EFEABCA23363F93A": "ランクバトルロイヤル",
-    "110AC5424A9CD65F8616369A58BB9FDC": "ランクゼロビルド",
-    "3CCF81374E0A4E25BDF11EA663A201F6": "ランクゼロビルド",
-    "8B38F7F24917A62647A50E9DC658AEE3": "ランクゼロビルド",
-    "B40A36024BBE098C75EEDE9D276FE71C": "ランクゼロビルド",
     "139A99CB4D3883CEA2F066BBA59EBD58": "速射式サブマシンガン",
     "FD23E7C946966E8E24F1ADA1EDA51CB1": "速射式サブマシンガン+",
     "BA4B1FDD40153AE8C9FC76ACC646E32C": "<Emphasized>マガジンサイズ</>が拡張された速射サブマシンガン",
@@ -1515,10 +1465,6 @@
     "1C77EAFB46C48299170B7486AEFB6294": "レッドオレンジ",
     "7125E4704BEA318C6BD3D69B5893D080": "精製クラフト素材。素材から生成することができるが、一般的には宝箱で入手できる。",
     "16DA40C14B2BC801935504956E31A9C9": "泳いでいる間、<Emphasized>体力</>が回復する",
-    "6008627544CF6105EF4D3A9CD30C8BF8": "回復するオーバーシールドが有効。長く戦い続けるために利用しよう。",
-    "69CD0F42427AF85EEB8A0F945648347A": "回復するオーバーシールドが有効。長く戦い続けるために利用しよう。",
-    "AECBC7014762FC24FC1F79AFF9C303CC": "回復するオーバーシールドが有効。長く戦い続けるために利用しよう。",
-    "BC225CF147155267909DD59C79265F16": "回復するオーバーシールドが有効。長く戦い続けるために利用しよう。",
     "D956F3B24B85A136EDFF7681AD74FB8C": "再活性",
     "4DA1684D402A000482C5E196DBAEEA57": "レメディ(トクシン)",
     "693438894A15790A4E7560A0E307A499": "レメディ(トクシン)",
@@ -1633,7 +1579,6 @@
     "2E8B2A6E48BAA8B0689C11A7975503F6": "シールドスティール",
     "4F611C954A5378BFC1804C96BB3981FE": "シールドシナジー",
     "C5AEB7354F27A7CE2241EEBB01DBF3DC": "シールドトス",
-    "6FE5EF624909BEBF19A4F7A143733F40": "シップキャノン",
     "D48B88DA4EC76F3203A964A55E4C04E7": "シップキャノン",
     "85A285654B56001B52E9ABBC806822EB": "ショックウェーブガジェット",
     "8E57565847BBBCA8EE6AD38208D056E1": "ショックウェーブグレネード+",
@@ -1664,9 +1609,7 @@
     "D8644E6D483F77ABE1E733885BCCC6FD": "スノーマン ユーティリティアイテム",
     "F24F341641A4FA3F48ABCB8574D8C08C": "ソーシャル",
     "6975749C41271746F89557A170BC3440": "ソロ",
-    "69E4B37A43B5B8D5B463D1804DB44BCF": "ソロ",
     "9D386B354AC0CE9DF6302EA26A39F514": "ソロ",
-    "E9EA6DC14E2DD703707893A0982B28C3": "ソロ",
     "F8FC74A04B95B293F430E9820F119697": "ソロ",
     "0784C09346B728C02D1AF5902E492822": "スパークス シーズンパス",
     "DAC933A8407FB35BAB93D480EBADA7CA": "Sparks スポットライトのテンプレート",
@@ -1700,8 +1643,6 @@
     "6081D89D44C1A4CA364179BC95D47978": "スピードリロード",
     "CD5B0A744223502F67BABD81B1230D5D": "スプレー",
     "CD3076B64ADB97607D7AF4A750656533": "SproutTG (テーマ ゲーム)",
-    "032AE3DE426C6820537F9A913730E19E": "スクワッド",
-    "7035BEE948A0E8CC30E4DC95823D5A21": "スクワッド",
     "E9F2A9B74636BB7610FE8E8BD075580C": "スクワッド",
     "459B35F94D969E08A4D1109E18B98C2F": "標準仕様の<Emphasized>近接</>銃",
     "81F9D4414FEA2CB4DD2813A6E08CB98B": "標準仕様の<Emphasized>長距離</>武器",
@@ -1732,12 +1673,7 @@
     "F9C7F25943011FD6980D4D8B1A29C757": "スターター技術",
     "4F03368E4610C163685D4B821835E30D": "ゲームを開始中",
     "DF374A4C4B641289F968258B7494F90E": "<Emphasized>空中飛行がより長く</>持続する",
-    "0611FAA245AF688EFA1D3ABAF88BF0F1": "ストームの目の中に留まれ",
-    "2F214E7F48E66EFE1C115C8F7E2E595C": "ストームの目の中に留まれ",
     "404A7F8F45CCEA3AC57992A9D25A2D4A": "ストームの目の中に留まれ",
-    "67EBCAF44A10423717EA0E9DF0B11170": "ストームの目の中に留まれ",
-    "6C0CBF054F0F23BA941ABCA75F405034": "ストームの目の中に留まれ",
-    "A07147014E36B1D243DF9C89E25878E3": "ストームの目の中に留まれ",
     "BD933A0A4D2108A6FF3D948E3CD2DBD4": "ストームの目の中に留まれ",
     "E5B8A51D416E77718A746EB15445A3B2": "ストームの目の中に留まれ",
     "749E72FD4C3CC3C5F34EBF91EF87C060": "キャノンを操縦",
@@ -1781,7 +1717,6 @@
     "01AC17C945E9F716F2DE30AD21D419D4": "サイレンサー付きスナイパーライフル+",
     "B32EDD8A45D40C18A0F6F497FAEADAE2": "<Emphasized>サーマルビジョンスコープ</>付きのサイレンサー付きスナイパーライフル",
     "CBC05E714B87E7BE8B6FC596A6097237": "サイレンサー付きサブマシンガン",
-    "00CA308D460DBD1D0DBF3BA35E0368E5": "最後まで生き延びてVictory Royaleを獲得しよう！",
     "DDDAFD77445379EE9BAF399713A063D6": "サバイバー",
     "3A0B45FA4957FFE685EE89BEC3076D2C": "泳ぎが<Emphasized>速くなる</>",
     "E928E3A54C017ABB67564BB0EE06B190": "プロフィール切り替え",
@@ -1872,17 +1807,9 @@
     "E415969B4BAAA6B59B6BFF9CAE728F5D": "ゲッタウェイチャレンジ クリアトークン",
     "611AA9CD49A134C1CF4EF793A0DCAD73": "ザ・ブロック",
     "57698C274195DFFFFFF44CB43FCB651F": "治療水泳",
-    "2F83EE994C53BADD8F87BCAE2EBE4071": "敵を全て倒せ。",
     "3961708B410A75AE04191ABCAD93E9F0": "敵を全て倒せ。",
-    "58196919412BCB1D74783E8E981D2BBE": "敵を全て倒せ。",
-    "6C225C9D49F86E1E30DCC3A701B26E56": "敵を全て倒せ。",
-    "6C7119CA44F1ED5685A324B982ED8276": "敵を全て倒せ。",
     "900A843C489A158D9D7014B7688759B3": "敵を全て倒せ。",
-    "A29937E74B5530D54A09F291E771AB54": "敵を全て倒せ。",
     "DBD8EB9C418D8B3F612D7091AB3132F5": "敵を全て倒せ。",
-    "EADE4BDA4E918BF507B81B84222A950C": "敵を全て倒せ。",
-    "ED03D0BC43A54D93E88728A02C17352F": "敵を全て倒せ。",
-    "EF85CDE6446B65421F3064A152A6DAE1": "敵を全て倒せ。",
     "9668C00D43496C901D756E874556A4B7": "このコードを使うと、「フォートナイト モバイル」iOSイベントのアクセス権が付与されます ",
     "2291CAD9430769CC73D99D9B54DE8C4B": "これはプレミアムアカウントのため、X線ラマの代わりにV-Bucksを獲得できます。",
     "03DCCA2140EB4E06D8B69FB8CFE78A1B": "投げる",
@@ -1934,8 +1861,6 @@
     "EA08EDDB48C12586ECDF1589AB5C989C": "トレイルカラーアップグレード",
     "06B8D6624AAC122415F9C0BFABD33BD4": "トレーニングボット",
     "D71A7E704422BDFE7934EF8C6574DFAA": "トレスパッサー",
-    "0BE26EA94B6DAE3CA1DE029A8BFF93DE": "トリオ",
-    "B8B7A46843A2FC0715BD8A924EC6B145": "トリオ",
     "E907B282416949BFACC17482A8283EE7": "トラスティデュアルウィールド",
     "E4621E044AA0247AA73F99BB8EB8D845": "トラスティヘッドハンター",
     "AFCC8C60409A488FEF95B1920178638A": "トラスティマガジン",
@@ -2036,10 +1961,6 @@
     "CD4BED3D497056ACDDF697B2A1CED907": "WIPクエストトークン",
     "FBD7D9E444205DDD378D8381B49848B1": "プレイヤーを待っています",
     "A3594BE3426BC422F96680B9F1815D84": "ワサビクエストトークン",
-    "4406E6154F9246CE4482DCB93FF91A0B": "慎重に行動し、遮蔽物を利用して地上での戦いを制しよう。建築はできないぞ。",
-    "DA9EF0A9444088E1157495BE637A0B4E": "慎重に行動し、遮蔽物を利用して地上での戦いを制しよう。建築はできないぞ。",
-    "E1927EF245666D50E41FBD832EB57A44": "慎重に行動し、遮蔽物を利用して地上での戦いを制しよう。建築はできないぞ。",
-    "F75E7A144FF0A719B84A21893B2A8537": "慎重に行動し、遮蔽物を利用して地上での戦いを制しよう。建築はできないぞ。",
     "1FA31AFC497191C5AD7467BFC4E8E6C7": "休息ブースター",
     "583601D34A4FAC568666FE8DFE288DFB": "休息ブースター",
     "1FD4C33549D3B93FF40EA9953E97F5CE": "倒すと発信機がオンになる",
@@ -2058,7 +1979,6 @@
     "E710C08E4E5C70FF8A286CB6EA101B4F": "ビーコンを表示するか、HUD要素を表示するか、両方表示するかの設定。",
     "D3A54EAE40408580269CF39BCCA37888": "ホワイト",
     "195F2EE048C26E190C845691145D6CF6": "幅",
-    "8B36050244257ED13DABA5BB06C9381C": "ワイルドウェスト",
     "9BD108A54CA8FA397E1DBD95E37958BB": "ウィンターフェストチャレンジクリアトークン",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "ウィンターフェストキー",
     "194B94D745612B291C0C0CAC0487B727": "ウィッチブルーム",
@@ -2241,6 +2161,11 @@
   },
   "AntiCheat": {
     "ClientErrorMessage": "{provider} エラー: {message}\n\n{provider}のFAQをご参照ください。"
+  },
+  "ArcadeVolley": {
+    "PlayerWinsFmt": "プレイヤー{0}の勝利！ 再開するには押してください",
+    "PressToServe": "押してサーブ",
+    "PressToStart": "ボタンを押して開始"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "ミス"
@@ -2839,6 +2764,11 @@
     "FortAnimGraphNode_BlendFacialCurves": "アニメーション|輪郭線",
     "FortAnimGraphNode_BlendFacialCurves_Title": "顔の輪郭線のブレンド",
     "FortAnimGraphNode_BlendFacialCurves_Tooltip": "選択したプリセットをもとに2つの入力からカスタムで顔の輪郭線をブレンドする"
+  },
+  "BoostBall": {
+    "HighScoreFormat": "ハイスコア: {0}",
+    "ResultFormat": "{0} - {1}",
+    "ScoreFormat": "{0} - {1}"
   },
   "BootToFrontend_LowMemoryFallbackStrategy": {
     "Juno_BootToFrontEndMessage": "メモリが危険域に到達。セッションが終了しました。\nもう一度お試しください！"
@@ -3544,6 +3474,21 @@
     "EmptyRecentsTabSubtitle": "最近プレイした島がここに表示されます。 新しいものを見つけ出そう。",
     "EmptyFollowingTabTitle": "まだ何もありません！",
     "EmptyRecentsTabTitle": "プレイの準備はOK？"
+  },
+  "DiscoveryGenreLabel": {
+    "DiscoveryGenreLabel_AdventureRPG": "アドベンチャー＆RPG",
+    "DiscoveryGenreLabel_BattleRoyale": "バトルロイヤル",
+    "DiscoveryGenreLabel_DeathrunPlatformer": "デスラン＆プラットフォーマー",
+    "DiscoveryGenreLabel_Horror": "恐怖",
+    "DiscoveryGenreLabel_MusicRhythm": "音楽＆リズム",
+    "DiscoveryGenreLabel_PartyMiniGames": "パーティー＆ミニゲーム",
+    "DiscoveryGenreLabel_Roguelike": "ローグライク",
+    "DiscoveryGenreLabel_RoleplayingSocial": "RPG＆ソーシャル",
+    "DiscoveryGenreLabel_Shooter": "シューター",
+    "DiscoveryGenreLabel_SimulationTycoon": "シミュレーション＆タイクーン",
+    "DiscoveryGenreLabel_SportsRacing": "スポーツ＆レーシング",
+    "DiscoveryGenreLabel_Strategy": "ストラテジー",
+    "DiscoveryGenreLabel_Survival": "サバイバル"
   },
   "DisplayNameFormat": {
     "DisplayNameFormatNoPrefix": "{0}",
@@ -5012,11 +4957,14 @@
     "RefBoneAxisTooltip": "キャラクターが直立しているときに、コンポーネント空間で「前方」と「上方」を指す参照ボーンのトランスフォームの軸を選択します。デフォルトでは、骨盤の通常の向きに合わせて設定されています。",
     "StateNameToolTipText": "ステート名 - ダブルクリックで編集。",
     "StateNames": "StateNames",
+    "OrientationTypeLabel": "タイプ",
     "UpLabel": "アップ",
     "WeightAngularVelocityMapping": "ウェイト角速度マッピング",
     "WeightLinearVelocityMapping": "ウェイト直線速度マッピング",
+    "WeightOrientationMapping": "ウェイトの向きマッピング",
     "WeightAngularVelocityMappingTooltip": "ウェイトは、指定された探知距離における角速度の選択されたコンポーネントによって調整されます(速度の選択されたコンポーネントが探知距離の最小値以下の場合はウェイトがゼロになり、最大値以上の場合はウェイトが1になります)。",
     "WeightLinearVelocityMappingTooltip": "ウェイトは、指定された探知距離における直線速度の選択されたコンポーネントによって調整されます(速度の選択されたコンポーネントが探知距離の最小値以下の場合はウェイトがゼロになり、最大値以上の場合はウェイトが1になります)。",
+    "WeightOrientationMappingTooltip": "ウェイトは選択した向きのタイプに応じて、指定した範囲内でスケーリングされます。",
     "BlueprintPropertiesRowText": "vvv 図のプロパティ vvv",
     "NativePropertiesRowText": "vvv ネイティブプロパティ vvv"
   },
@@ -5336,7 +5284,7 @@
     "FractionFormatPattern": "{Numerator} / {Denominator}"
   },
   "FortItemInfoPresentationWidget": {
-    "QuantityRep": "{Count} {DisplayName}",
+    "QuantityRep": "{DisplayName}: {Count}個",
     "PercentageRep": "{Count}% {DisplayName}"
   },
   "FortItemInfoWidget": {
@@ -5391,6 +5339,7 @@
     "FreePrice": "無料",
     "LegoKitOfferDescription": "レゴ®セット",
     "LeavingToday": "本日配信終了",
+    "LimitedTimeOfferLegalText": "期間限定オファー",
     "PegiMusicWarning": "ダウンロード用ミュージックはPEGIによる年齢評価を受けていません - www.pegi.info",
     "OutfitPackDescription": "コスチュームパック",
     "PackDescription": "パック",
@@ -5614,6 +5563,9 @@
     "Game": "ゲーム",
     "TeamScoreboardNameFormat": "チーム{0}",
     "JoinInProgressTooLate": "参加しようとしているゲームはすでに終了しています。"
+  },
+  "FortMinigamePersistence": {
+    "PersistenceUnavailable": "この島では進行状況の保存が利用できないため、今は参加できません。後でもう一度お試しください。"
   },
   "FortMissionPopupWidget": {
     "REWARD:": "報酬:",
@@ -7344,7 +7296,6 @@
     "MouseZoomScaling_Legacy": "レガシー",
     "LegacyControllerOptionsCollection_Name": "レガシー操作",
     "LegacyControlsEnabled": "レガシーコントロール有効",
-    "RenderingModePerformanceLegacy": "レガシーパフォーマンス(廃止)",
     "LegalCollection_Name": "法的事項",
     "LegalInformation_Name": "法的事項の情報",
     "LicensedAudioTreatment_Name": "著作権のある音声",
@@ -7706,16 +7657,11 @@
     "MobileFPSType_Description": "ゲーム内の目標フレームレートを選択します。これを利用して、デバイスのパフォーマンスを微調整しましょう。メニュー内での最大FPSは30FPSです。",
     "HybridMouseControlMode_Description": "どのJoy‑Con 2をマウス操作に使用するかを選択します。\n注: マウス操作は一部の体験でのみ有効になります！",
     "TouchInteractMode_Description": "タッチインタラクトモードを選択します。\n\n<strong>オフ</>: タッチでのインタラクトが無効になります。",
-    "RenderingModeNoDX11_Description": "どのローレベル・レンダリングモードを使用するかを選択します。Nanite、Lumen、ハードウェアレイトレーシングのような視覚的忠実度を高めるハイエンド・レンダリング機能を有効にするには、DirectX 12を使用する必要があります。「パフォーマンス」は、多くのレンダリング機能を無効にしてメモリ使用量を減らし、CPUとGPUの負荷を軽減することで、パフォーマンスを大幅に向上させるモードです。また、DirectX 12を使用します。\n\nレガシーのパフォーマンス(廃止)はパフォーマンスモードと同様ですが、DirectX 11を使用します。",
     "RenderingMode_TwoModeDescription": "どのローレベル・レンダリングモードを使用するかを選択します。Nanite、Lumen、ハードウェアレイトレーシングのような視覚的忠実度を高めるハイエンド・レンダリング機能を有効にするには、DirectX 12を使用する必要があります。「パフォーマンス」は、多くのレンダリング機能を無効にしてメモリ使用量を減らし、CPUとGPUの負荷を軽減することで、パフォーマンスを大幅に向上させるモードです。可能ならDirectX 12を使用し、それ以外の場合はDirectX 11を使用します。",
     "FortReleaseVersion_Description": "有効にする機能を決定するために、使用するリリース バージョンを選択してください(15.20、15.30、16.00など)。",
-    "MatchmakingRegion_Description": "接続するサーバーを選びます。通常は、サーバーとの距離が近いほどパフォーマンスが向上します。「自動」を選ぶと、最も接続状況が良いサーバーを自動的に選択します。",
-    "MatchmakingRegion_Description_PS4": "接続するサーバーを選びます。通常は、サーバーとの距離が近いほどパフォーマンスが向上します。「自動」を選ぶと、最も接続状況が良いサーバーを自動的に選択します。",
-    "MatchmakingRegion_Description_PS5": "接続するサーバーを選びます。通常は、サーバーとの距離が近いほどパフォーマンスが向上します。「自動」を選ぶと、最も接続状況が良いサーバーを自動的に選択します。",
-    "MatchmakingRegion_Description_Switch": "接続するサーバーを選びます。通常は、サーバーとの距離が近いほどパフォーマンスが向上します。「自動」を選ぶと、最も接続状況が良いサーバーを自動的に選択します。",
-    "MatchmakingRegion_Description_Switch2": "接続するサーバーを選びます。通常は、サーバーとの距離が近いほどパフォーマンスが向上します。「自動」を選ぶと、最も接続状況が良いサーバーを自動的に選択します。",
-    "MatchmakingRegion_Description_XB1": "接続するサーバーを選びます。通常は、サーバーとの距離が近いほどパフォーマンスが向上します。「自動」を選ぶと、最も接続状況が良いサーバーを自動的に選択します。",
-    "MatchmakingRegion_Description_XSX": "接続するサーバーを選びます。通常は、サーバーとの距離が近いほどパフォーマンスが向上します。「自動」を選ぶと、最も接続状況が良いサーバーを自動的に選択します。",
+    "MatchmakingRegion_Description_V2": "マッチメイキング地域を選択します。「自動」は最高の体験ができるように設計されています。表示されるpingの範囲は推定です。ゲーム内のpingはマッチや体験によって異なる場合があります。",
+    "MatchmakingSubregion_Description": "優先するマッチメイキングのサブ地域を選択します。マッチメイキングでは選択内容が優先されますが、割り当てが保証されるわけではありません。「自動」は最高の体験ができるように設計されています。サブ地域を選択すると、待ち時間が長くなり、マッチの公平性が下がる可能性があります。表示されるpingは推定です。ゲーム内のpingはマッチや体験によって異なる場合があります。",
+    "CompetitiveRegion_Description": "トーナメント地域を選択します。この設定は、マッチメイキング地域に複数のトーナメント地域がある場合にのみ表示されます。",
     "BasicSensitivityCollection_Name": "感度",
     "GyroV2Sensitivity_Name": "感度",
     "SafeZone_Action": "セーフゾーンを設定",
@@ -7847,6 +7793,7 @@
     "StopRenderingInBackground_Name": "バックグラウンドでのレンダリングを停止",
     "StopRenderingInBackground_Description": "ゲームウィンドウが最前面になく、かつ可能な場合にレンダリングを停止する。GPUのリソースを解放し、他のアプリケーションで使用できるようにする。",
     "KeyboardMovementStrafeDiagonal_Name": "攻撃角度",
+    "MatchmakingSubregion_Name": "サブ地域の優先設定",
     "SubtitlePage_Name": "字幕",
     "SubtitlesCollection_Name": "字幕",
     "Subtitles_Name": "字幕",
@@ -7977,6 +7924,7 @@
     "TouchAndMotionCollection_Name": "タッチとモーション",
     "TouchpadCollection_Name": "タッチパッド",
     "EForceMaxTouchpadSensitivity_Name": "タッチパッドの感度を最大にする",
+    "CompetitiveRegion_Name": "トーナメント地域",
     "GyroButtonTrackball": "トラックボール",
     "GyroTrackballDecay_Name": "トラックボールの減速割合",
     "AimAssistPullStrength_Name": "トラッキング照準アシストの強度",
@@ -8429,7 +8377,8 @@
     "Public": "公開"
   },
   "FortSettingValueDiscrete_Region": {
-    "RegionDisplayWithPing": "{RegionDisplayName} ({RegionPing}ms)"
+    "RegionDisplayWithPingRange": "{RegionDisplayName}({MinimumPing}-{MaximumPing}ミリ秒)",
+    "RegionDisplayWithPing": "{RegionDisplayName} ({MinimumPing}ms)"
   },
   "FortSettingValueDiscrete_ReportPerfStats": {
     "Disabled": "無効",
@@ -8442,6 +8391,11 @@
   "FortSettingValueDiscrete_SocialBool": {
     "OFF": "オフ",
     "ON": "オン"
+  },
+  "FortSettingValueDiscrete_Subregion": {
+    "AutoSubregion": "自動",
+    "SubregionPreferenceRequiresRegion": "「自動」は最高の体験ができるように設計されています。この設定を変更するには、「自動」以外のマッチメイキング地域を選択してください。",
+    "SubregionDisplayWithPing": "{SubregionId} ({SubregionPing}ms)"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
     "VoiceChatMethod_Mute": "ミュート",
@@ -8543,7 +8497,8 @@
     "GameVoiceChannelsDisplayNameSecondary": "他のゲームメンバー"
   },
   "FortSocialHeaderItemVM": {
-    "TeamMembersListDisplayName": "チームメンバー"
+    "TeamMembersListDisplayName": "チームメンバー",
+    "VerseVoiceMyChannelListDisplayName": "ボイスチャンネル"
   },
   "FortSocialInteractionMenu": {
     "InvalidInputFormat": "<text color=\"{0}\">無効</>",
@@ -8646,7 +8601,8 @@
     "PlaystationFriendPlatformName": "PlayStation™Network",
     "VoiceChatVRR_Accept_U18_NewPlayer": "音声通報は、コミュニティ規定違反の通報を調査する際に役立ちます。\n\n• ボイスチャットをオンにすると、この機能によってボイスチャットの音声が5分単位で各参加者のデバイスに保存されます。保存された音声は、参加者が違反を通報した場合にのみ、Epic Gamesに送信されます。\n\n• あなたが18歳未満の場合、音声通報は常にオンになります。\n\n詳細やその他のオプションについては、ボイスチャットの設定をご確認ください。",
     "VoiceChatVRR_Accept_O18_NewPlayer": "音声通報は、コミュニティ規定違反の通報を調査する際に役立ちます。\n\n• ボイスチャットをオンにすると、この機能によってボイスチャットの音声が5分単位で各参加者のデバイスに保存されます。保存された音声は、参加者が違反を通報した場合にのみ、Epic Gamesに送信されます。\n\n• 音声通報は通常オンになっていますが、フレンド同士で組んだパーティーにおいて、全プレイヤーが音声通報をオフにすることを希望している場合はオフになります。\n\n• 音声通報が現在オンなのかオフなのかは、サイドバーで確認できます。\n\n詳細やその他のオプションについては、ボイスチャットの設定をご確認ください。",
-    "XboxFriendPlatformName": "Xbox ネットワーク"
+    "XboxFriendPlatformName": "Xbox ネットワーク",
+    "FriendshipActionRateLimited": "短時間内で実行されたアクションの回数が多すぎます。後でもう一度お試しください"
   },
   "FortSocialUser": {
     "LastInteractionFormat_FriendshipAccept": "{timesince}前にフレンドになった",
@@ -8777,6 +8733,10 @@
     "SittingOut": "欠場中",
     "DownloadOnDemandProgress": "アップデート中 ({0}%)"
   },
+  "FortTextChatConversationVM": {
+    "PartyFrameworkUnavailable": "パーティーフレームワーク利用不可",
+    "SocialToolkitUnavailable": "ソーシャルツールキット利用不可"
+  },
   "FortTextChatPlayerVM": {
     "RedactedUserBlocked": "<Blocked player>",
     "RedactedUserGeneral": "<Hidden player>",
@@ -8894,7 +8854,6 @@
     "EpicPartyInviteDetailsSent": "<Username>{0}</>をパーティーに招待しました",
     "PartyInviteDetailsSent": "<Username>{0}</>をパーティーに招待しました",
     "EpicPartyJoinabilityChangedInviteOnlyDetails": "パーティーは招待制です",
-    "EpicPartyJoinabilityChangedOpenDetails": "パーティーに参加可能です",
     "EpicPartyJoinRequestReceived_Title": "パーティ参加リクエスト",
     "EpicPartyMemberCreated": "プレイヤーがパーティーに参加しました",
     "PartyMemberCreated": "プレイヤーがパーティーに参加しました",
@@ -8918,7 +8877,9 @@
     "LocalPlayerEpicPartyPromotedToast": "パーティーリーダーに昇格しました",
     "RequestToJoinParty_RateLimited": "リクエスト送信の制限に達しました。時間をおいてもう一度試してください",
     "FriendToastSelfTooManyFriends": "フレンドが多すぎます",
-    "FriendToastSelfOutboxFull": "送信フレンド申請の上限に達しています"
+    "FriendToastSelfOutboxFull": "送信フレンド申請の上限に達しています",
+    "EpicPartyJoinabilityChangedOpenDetails": "あなたのパーティーは参加可能になりました",
+    "NotifMgrForkMemberNoAccessToast": "{Username} は選択されたフォークにアクセスできません。フォークを無視して処理を続行します"
   },
   "FortUIStateWidget_Login": {
     "OfferRHIChangeForStability_Title": "レンダリングモードを変更しますか？ ",
@@ -8926,7 +8887,6 @@
     "UpdateCheck": "アップデートを確認中…",
     "ConnectionCheckText": "接続を確認中…",
     "TryingLonger": "再接続中です。しばらくお待ちください\n詳細は{CheckStatusURL}でご確認ください。",
-    "OfferRHIChangeForStability_DX11": "DirectX 11",
     "FailedToLoadProfile": "プロフィールの読み込みに失敗しました。",
     "RefreshingContent": "動的コンテンツを読み出し中…",
     "FindBestSettings": "最適な設定を見つけますか？",
@@ -8935,7 +8895,6 @@
     "LoggingIn": "ログイン中…",
     "NoInternet": "インターネット接続が見つかりません",
     "OfferRHIChangeForStability_PerformanceMode": "パフォーマンスモード",
-    "OfferRHIChangeForStability_FullDescriptionDX12PerfMode": "パフォーマンスモードではデバイスの安定性に問題が発生し、プレイ中にフォートナイトがクラッシュする可能性があります。より高い安定性を得るためにレガシーのパフォーマンスモードへ切り替えますか？ {OptionalAutoRestartText}",
     "NoInternetDesc": "接続を確認して、もう一度お試しください。",
     "QuitText": "終了する",
     "Benchmark": "ベンチマークを実行中…",
@@ -9425,6 +9384,7 @@
     "Message.Unauthorized": "このコンテンツのプレイは許可されていません。",
     "MfaRequiredForTournament": "このトーナメントをプレイするためには、Epicアカウントで2段階認証を有効にする必要があります。有効にするには{TurnOnMfaURL}にアクセスしてください。",
     "WrongNumberOfEventPlayers": "このトーナメントに参加するには、最大人数のパーティーに加わる必要があります。",
+    "MatchCapExceeded": "本イベントでのプレイ可能なマッチ数の上限に達しています。詳細と今後のイベントについては「競技」タブをご確認ください。",
     "Error.AccountLevelTooLow": "あなたのアカウントレベル({0})では「{1}」をプレイする条件を満たしていません。",
     "Error.BRRankLevelTooLow": "あなたの現在のバトルロイヤルランクレベル({0})は、参加条件を満たしていません: {1}",
     "Error.BRRankLevelTooHigh": "あなたの現在のバトルロイヤルランクレベル({0})は、このトーナメントをプレイするには高すぎます。プレイできる最高のランクは{1}です。",
@@ -10900,6 +10860,7 @@
   "Matchmaking": {
     "PartyMemberDisconnect": "パーティーメンバーの接続が切れました。",
     "PartyMemberTimeout": "パーティーメンバーが接続に失敗しました。",
+    "MatchCapExceeded": "このプレイヤーは、本イベントでプレイ可能なマッチ数の上限に達しました。",
     "PartyTooBig": "登録しようとしているパーティーメンバーが多すぎます。"
   },
   "MatchmakingContext": {
@@ -11596,7 +11557,7 @@
     "Join_Num_Alive": "パーティーに参加 - 残り{PlayersAlive}人"
   },
   "PawnOptionRegistry": {
-    "AthenaCharacterDisplayName": "アテナキャラクター"
+    "DefaultCharacterDisplayName": "デフォルトキャラクター"
   },
   "PersonaCharacterModifierDetailsCustomization": {
     "VoiceDefault": "デフォルト"
@@ -11770,7 +11731,19 @@
     "UFortQuestCategory::Misc": "Misc"
   },
   "QuestPanelDebugToolViewModel": {
+    "Placement_CategoryNotRegistered": "一致するタグを定義しておりこのビルドでも有効ですが、一度も登録されていません。タイミングの問題である可能性が高いです。カテゴリーの再構築後にもう一度確認してください。",
+    "Placement_CategoryDisabled": "一致するタグを定義していますが、bCategoryEnabledがオフになっています。設定は上書き可能なので、ホットフィックスで設定できます。",
+    "Placement_CategorySunset": "一致するタグを定義していますが、このビルドではサンセットされています。",
+    "Placement_CategoryPluginUnavailable": "一致するタグを定義していますが、プラグインはサンセットされています。",
+    "Placement_CategoryUnreleased": "一致するタグを定義していますが、今後のビルドで配信されます。",
+    "Placement_CategoryEventGated": "IncludeQuestTagsByEventの下でのみ一致するタグを定義しており、そのイベントが有効化されていません。",
+    "Placement_CategorySuppressed": "一致しましたがコンテンツが抑制されているため、コンテンツを取得せずフォールバックを拒否しています。",
+    "Placement_NoOrganizationTags": "一致するクエストカテゴリータグがありません。",
+    "Placement_CategoriesNotYetBuilt": "これが整理された時点ではカテゴリーが存在しませんでした。リビルド後に解決するはずです。",
+    "Placement_NoCategoryDeclaresTag": "どのカテゴリも、これらのタグやその親カテゴリを定義していません。",
     "Visibility_NoView": "このクエストのビューがありません。",
+    "Placement_FallbackUnavailable": "一致するものがなく、フォールバックも利用できないため、このコンテンツはどのカテゴリーにも属していません。",
+    "Placement_BundleSuppliedNoTags": "パンチカードはバンドルのタグのみを使用しますが、このバンドルにはタグがありません。クエストそのもののタグは一度も読み込まれませんでした。",
     "VersionWarning_AssetSunset": "このアセットは現行ビルドで廃止され、以降は利用できなくなります。",
     "VersionWarning_AssetUnreleased": "このアセットは現行版以降のビルドでリリースされ、公開ブロックが解かれます。",
     "VersionWarning_PluginSunset": "このプラグインは現在のバージョンで廃止されており、クックはされません。",
@@ -11948,6 +11921,9 @@
     "HasEnforcedSettingsU10Warning_Voice": "お子様が10歳未満の場合、チャットが認められるのは<strong>フレンドのみ</>までとなります。より広範囲の設定を選んだ場合は、お子様が対象年齢になった時点で効力を発揮します。",
     "HasEnforcedSettingsU13Warning_Text": "お子様が13歳未満の場合、チャットが認められるのは<strong>フレンド、チームメンバー、つながり</>までとなります。<strong>全員</>を選んだ場合は、お子様が対象年齢になった時点で効力を発揮します。",
     "HasEnforcedSettingsU13Warning_Voice": "お子様が13歳未満の場合、チャットが認められるのは<strong>フレンド、チームメンバー、つながり</>までとなります。<strong>全員</>を選んだ場合は、お子様が対象年齢になった時点で効力を発揮します。"
+  },
+  "SimpleOfferVM": {
+    "OutDateFormat": "{Year}年{Month}月{Day}日の{Time}({TimeZone})に終了します"
   },
   "SnapEditorVisualizer": {
     "DeleteSnapEntries": "Delete Snap Entries",
@@ -12443,6 +12419,24 @@
     "Athena": "バトルロイヤル",
     "Creative": "クリエイティブ",
     "Campaign": "世界を救え"
+  },
+  "SubregionNames": {
+    "BAH": "バーレーン",
+    "FR": "フランス",
+    "DE": "ドイツ",
+    "IA": "アイオワ",
+    "IL": "イスラエル",
+    "MX": "メキシコ",
+    "MUM": "ムンバイ",
+    "NCAL": "カリフォルニア北部",
+    "OH": "オハイオ",
+    "OR": "オレゴン",
+    "SYD": "シドニー",
+    "SAO": "São Paulo",
+    "TX": "テキサス",
+    "TOK": "東京",
+    "GB": "イギリス",
+    "VA": "ヴァージニア"
   },
   "SupervisedSettingsManager": {
     "TimezoneDisplayFormat": "{0} {1} ({2})"
