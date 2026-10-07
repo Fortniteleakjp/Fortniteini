@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "Dale forma abriéndote camino (seguramente a través del paisaje)",
     "UnableToGetPointData": "No se puede obtener información de puntos de la entrada",
     "UnableToGetSpatialData": "No se puede obtener información geográfica de la entrada"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "No se han podido recuperar los datos de la textura de altura. Ha fallado la inicialización.",
-    "FailExtractGrassTypeOverrides": "Error al extraer las anulaciones del tipo de hierba."
   }
 }

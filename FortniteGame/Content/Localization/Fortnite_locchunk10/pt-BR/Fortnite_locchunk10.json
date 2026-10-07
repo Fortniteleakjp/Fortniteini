@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "Lâmina com um potente ataque Saltar e Golpear secundário.",
     "144AC202422D81D8ECA7FDADA0248752": "Rifle clássico com alta precisão e alcance longo.",
     "174ADE3045B991036DAB808BA3802CDA": "Rifle clássico com alta precisão e alcance longo.",
-    "A633A07540E67656A515748EC42D2BFA": "Rifle clássico com alta precisão e alcance longo.",
     "5CA4C768442DACE154F650919AEBF7CC": "Emoção e diversão nas alturas. Inicie ao pular quando está no ar.",
     "62060089487721326B23BBA33709B481": "Emoção e diversão nas alturas. Inicie ao pular quando está no ar.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "Emoção e diversão nas alturas. Inicie ao pular quando está no ar.",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "Cura jogadores próximos enquanto estiver ativa.",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "Rifle de Assalto Pesado",
     "2118AC47465E7B7FC3544E9411BEDFC9": "Rifle de Assalto Pesado +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "Rifle de Assalto Pesado",
+    "6F59A98A484163C0B20075AB5FAF04BF": "Rifle de Assalto Pesado",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "Espingarda Pesada",
     "6202063447BC0BE9C686E0B7FA3EE710": "Espingarda Pesada",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "Espingarda Pesada",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "Meio Mortal Indy",
     "118BD9B247A79B6E7AB2189A409B7EFA": "Parafuso Reverso Indy",
     "55F09A7841788A6D5EABF7AE7C720557": "Rifle de Infantaria",
-    "C115B50C4700A573DC237EAC7C92E21B": "Rifle de Infantaria",
     "F1638A45469F392DAF5444BE0A097644": "Rifle de Infantaria",
     "F317A4514DE5AEE182F39DA192E355AD": "Rifle de Infantaria",
     "1D7BBE454E1553569F9589A7E633F06D": "Infinitos",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "O Último Sobrevivente Vence",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "O Esquadrão Sobrevivente Vence",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Decole e gargalhe pelo céu. Entra em recarga.",
-    "203048A346124F2326AE7489CF3CF605": "Decole e gargalhe pelo céu. Reative para cancelar antecipadamente.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Decole e gargalhe pelo céu. Reative para cancelar antecipadamente.",
     "261743A8479BF496B7D041B28AA7D369": "Lança os Jogadores a longas distâncias.",
     "86CE1B5747A296D9410A23BD7ED6275C": "Lança um contêiner explosivo com tinta cinemática.",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "Coloque pontos de rota para guiar o caminho.",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Ficha de Pesquisa de Elegibilidade de Jogador",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "Revincule a ação {s}.",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "Arco Desentupidor",
     "4567895244A3DDF0A6347DB93EA4AB9A": "Bomba de Boogie-woogie de Bolso",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "Bolha de Proteção de Bolso",
     "FB786D2942DF31556A360EBB36845337": "Granada de Onda de Choque de Bolso",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "Vassoura de Bruxa de Bolso",
-    "09BC060C4709B5E30DB790861955D110": "Poder",
     "4CBE793B4385D3726F1EA5950991BC9C": "Poder",
     "D13EC04349B8427E99FF49AFABDD232A": "Poder",
     "D6FFC2F1422B954E038F569E60AA52EE": "Modelo de Hora do Poder",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "Furtivo",
     "61B1F6E14915E099FA166191039CA76B": "Boneco de Neve Furtivo",
     "E72D7990488977EC9E88CAA2F852A420": "Boneco de Neve Furtivo",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "Rifle de Precisão: Semiautomático. Um rifle com alcance médio a longo, que causa um bom dano e pode ser disparado rapidamente. Com mira telescópica para precisão extra.",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "Rifle de Precisão: com supressor. Um poderoso rifle de precisão equipado com supressor, feito para disparos únicos e precisos, e com uma cadência de tiro lenta.",
     "AD1D0E4849B9874FC0ADF397EB542112": "Rifle de Precisão: com supressor. Um poderoso rifle de precisão equipado com supressor, feito para disparos únicos e precisos, e com uma cadência de tiro lenta.",
     "719A80194FE6CA987DF1FF92404DF970": "Rifle de Precisão que pode ser <Emphasized>recarregado enquanto não está em uso</>",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "Ficha de Conclusão de Desafio Festival Invernal",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Chave do Festival Invernal",
     "194B94D745612B291C0C0CAC0487B727": "Vassoura de Bruxa",
-    "EFCEF17944284794FC6D49B915B991EE": "Vassoura de Bruxa",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "O X marca o local",
     "D40AA64648243870B6889FA424D3E046": "Tormenta X-4",
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "Sequência de Ação de IA",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "Lista de ativos"
   },
   "Athena": {
     "NPCHiredIndication": " (Seguidor)",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "Ocorreu um Erro!",
     "AlreadyOwnItemTitle": "Ocorreu um erro!",
     "AlreadyOwnBPDescription": "Você receberá uma Ficha de Presente de Passe de Batalha porque <text color=\"FFF\">{DisplayName}</> comprou um Passe de Batalha durante sua tentativa de presentar.\n Você pode usá-la para presentear outro amigo com um Passe de Batalha. Se não for usada até o fim da temporada, a Ficha de Presente de Passe de Batalha será convertida em 950 V-Bucks na sua conta."
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "Nova opção de embrulho de presente adquirida!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "Ocorreu um erro desconhecido",
+    "RecipientCantReceiveGiftsDescription": "Parece que <text color=\"FFF\">{DisplayName}</> não pode receber presentes",
+    "RecipientBoughtItemsDescription": "Parece que <text color=\"FFF\">{DisplayName}</> acabou de comprar:",
+    "AlreadyOwnItemDescription": "Parece que <text color=\"FFF\">{DisplayName}</> acabou de comprar este item.",
+    "GiftChangedDescription": "Parece que o conteúdo do presente mudou...",
+    "GiftChangedTitle": "OPA!",
+    "GenericErrorTitle": "OPA! Ocorreu um erro!",
+    "RecipientBoughtItemsTitle": "Ocorreu um Erro!",
+    "RecipientCantReceiveGiftsTitle": "Ocorreu um Erro!",
+    "AlreadyOwnItemTitle": "Ocorreu um erro!",
+    "AlreadyOwnBPDescription": "Você receberá uma Ficha de Presente de Passe de Batalha porque <text color=\"FFF\">{DisplayName}</> comprou um Passe de Batalha durante sua tentativa de presentar.\n Você pode usá-la para presentear outro amigo com um Passe de Batalha. Se não for usada até o fim da temporada, a Ficha de Presente de Passe de Batalha será convertida em 950 V-Bucks na sua conta."
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "Continuar",
+    "GetVBucks": "Adquirir V-Bucks",
+    "PurchaseGift": "Comprar Presente!",
+    "ReloadVBucks": "Recarregar V-Bucks",
+    "SendGift": "Mandar Presente!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "Agora, {DisplayName} receberá",
+    "SocialNameInfo": "{DisplayName} receberá",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(one=item,other=itens)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(one=Item,other=Itens)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "Continuar",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "Plugin HLTv2ToCustomizableUI",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "Ferramentas de Juno",
     "SpatialMetricProfiler": "SpatialProfiler",
     "WeaponModernizationEditorCommands": "Ferramenta de Modernização de Arma"
   },
@@ -3838,7 +3864,7 @@
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
     "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "ConfigurePrefabTool": "Estrutura pré-fabricada"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "Depositar {amount} de {resourcetype}",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "Não é possível coletar mais unidades deste item!",
     "PlayerKickedCallout": "Jogador {PlayerName} foi removido por inatividade.",
     "PlayerKickedSoonCallout": "Jogador {PlayerName} será removido por inatividade.",
-    "IdleWarning": "Sua equipe precisa da sua ajuda! Dê uma mãozinha antes que a Ray mande você de volta para a Base Inicial.\nRetorno em {SecondsRemaining}"
+    "IdleWarning": "A equipe precisa da sua ajuda! Dê uma mãozinha antes que a Ray mande você de volta.\nRetornando em {SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "Ver Conjuntos"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "Nó para acessar opções de depuração de pose",
     "OrientationWarping": "Distorção de Orientação",
     "OrientationWarpingTooltip": "Orienta o RootBone para corresponder à direção da locomoção e gira a espinha dorsal em sentido anti-horário.",
+    "SimpleFootPlantingTooltip": "Fixa pés com CI no local ao posicionar, voltando gradualmente conforme o pé animado se afasta da posição inicial.Independentemente da distorção de declive.",
     "AttackIKTooltip": "Posicionar mãos/pés de acordo com os ossos de IK durante uma animação de ataque.",
     "FortAnimNode_CurveFilterSlot_Tooltip": "Reproduz animação a partir de um código usando AnimMontage",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "Reproduz animação a partir de um código usando AnimMontage",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "Define a escala dos ossos de personagens usando um mutante.",
     "ScaleHuskBonesTooltip": "Define a escala dos ossos de carcaças com base no tipo (p. ex.: carcaças anãs são pequenas, mas têm cabeças grandes).",
     "SetIKTarget_Description": "Definir Alvos Foot IK",
+    "SimpleFootPlanting": "Posicionamento de Pé Simples",
     "SpeedWarping": "Distorção de Velocidade",
     "RootSlopeTiltTooltip": "Inclina a raiz do esqueleto em direção à normal do piso por uma fração limitada, para que um nó de deformação de inclinação inferior reconfigure os membros contra um corpo já inclinado.",
     "TransformRollerTreads": "Transformar Esteiras",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "energia",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "COLEGAS",
+    "GiftingPartyMembersList": "MEMBROS DO GRUPO"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "AMIGOS",
     "GiftingPartyMembersList": "MEMBROS DO GRUPO"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "Limpando...",
     "LogoutUsabilityExperiment": "Limpando...",
     "FailedClientSettingsDownloadTitle": "Falha no Download da Nuvem",
+    "LoginXmppAsync": "Conectando aos serviços de grupo...",
     "ConsoleConnectionChangePromptTitle": "Mudança no Status de Conexão",
     "QueryKeychainNoMcpMsg": "Não foi possível acessar o MCP para baixar keychain",
     "CreatingParty": "Criando Grupo...",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "Disparo Automático",
     "AutoInteractContainers_Name": "Abrir Recipientes Automaticamente",
     "AutoOpenDoors_Name": "Abrir Portas Automaticamente",
+    "AutoPickUpEnabled_Name": "Coletar Itens Automaticamente",
     "AutoPickupWeaponsConsolePC_Name": "Coletar Armas Automaticamente",
     "AutoPickupWeapons_Name": "Coletar Armas Automaticamente",
     "AutoInteractRevives_Name": "Reviver Colega de Equipe Automaticamente",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "Ocultar Materiais de Construção Automaticamente",
     "AutoSetQuality_Action": "Configurar Automaticamente",
     "AutoSetQuality_Name": "Configurar Qualidade Automaticamente",
+    "MobileAutofireCollection_Name": "Fogo Automático",
     "TouchAutomationsCollection_Name": "Ações Automáticas",
     "AutomaticallyApplyXP_Name": "Aplicação automática - EXP de pessoas",
     "DynamicResolution_Description": "Ajusta automaticamente a resolução 3D de acordo com a carga na GPU. Quando o uso da GPU estiver baixo, a resolução aumenta até o valor nativo. Quando o uso da GPU estiver alto, a resolução diminui até a configuração Mínima da Resolução 3D.",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "As configurações mais altas de geometria dão um formato mais detalhado a objetos planos. Aumentar essa configuração deixa os objetos mais detalhados, mas pode reduzir o desempenho.",
     "TextureQuality_Description_Default": "As configurações mais altas de textura concedem um visual mais detalhado a objetos planos. Aumentar essa configuração deixa os objetos mais detalhados, mas pode reduzir o desempenho.",
     "TextureQuality_Description_NoHighMips": "Configurações mais altas de textura concedem um visual mais detalhado a objetos planos. Aumentar essa configuração deixa os objetos mais detalhados, mas pode reduzir o desempenho.\n\n<Icon.Warning></> As texturas de alta qualidade não estão instaladas. Elas podem ser baixadas pelo Inicializador da Epic Games nas Opções de Instalação do Fortnite.",
+    "TextureQuality_Description_EpicAssetsInstalled": "Configurações mais altas de textura concedem um visual mais detalhado a objetos planos. Aumentar essa configuração deixa os objetos mais detalhados, mas pode reduzir o desempenho.\n\nTexturas de qualidade Épica estão instaladas no momento. Para liberar espaço e transmitir os recursos durante o jogo, as texturas podem ser desinstaladas pelo Inicializador da Epic Games, nas Opções de Instalação do Fortnite.",
+    "TextureQuality_Description_EpicAssetsStreamed": "Configurações mais altas de textura concedem um visual mais detalhado a objetos planos. Aumentar essa configuração deixa os objetos mais detalhados, mas pode reduzir o desempenho.\n\nTexturas de qualidade Épica são transmitidas sob demanda por padrão. Para reduzir downloads durante o jogo, elas podem ser instaladas opcionalmente pelo Inicializador da Epic Games nas Opções de Instalação do Fortnite.",
     "Hitmarkers_Name": "Marcadores",
     "AutoClamber_On": "Segurar Avançar",
     "AutoHurdle_On": "Segurar Avançar",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "Malhas",
     "MapPickupDotRarity_Name": "Indicadores de Coleta no Minimapa",
     "FOVMinimum_Name": "Campo de Visão Mínimo",
+    "MobileCheatsCollection_Name": "Trapaças em Dispositivos Móveis",
     "MobileFPSType_Name": "Taxa de Quadros de Dispositivo Móvel",
     "MotionBlur_Name": "Distorção de Movimento",
     "MouseAndKeyboardBindingsCollection_Name": "Mouse e Teclado",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "Liga/Desliga a inversão dos comandos na pilotagem da aeronave no controle. Quando ligado, o movimento para frente vai inclinar a aeronave para baixo.",
     "InvertPitchForAircraftSecondary_Description": "Liga/Desliga a inversão dos controles do mouse na pilotagem de aeronave. Quando ligado, mover o mouse para a frente faz a aeronave se inclinar para baixo.",
     "InvertPitchForAircraftTouch_Description": "Habilita/desabilita a inversão de controle de toque de aeronave. Quando habilitada, usar o controle de toque para frente vai mover a aeronave para baixo.",
+    "AutoPickUpEnabled_Description": "Ativa/desativa coleta automática de itens.Quando essa opção estiver ativada, itens serão coletados automaticamente ao passar por cima deles.",
     "AutoSortConsumablesToHigherSlots_Description": "Liga/Desliga organizar consumíveis automaticamente em espaços do número mais alto para mais baixo. Quando ligada, o padrão dos itens consumíveis, como poções de vida e de escudo, será entrar no espaço vazio de número mais alto da barra de acesso rápido ao serem coletados.",
     "AutoSortConsumablesToRight_Description": "Liga/Desliga organizar consumíveis automaticamente. Quando ligada, o padrão dos itens consumíveis, como poções de vida e de escudo, será entrar no espaço vazio mais à direita da barra de acesso rápido ao serem coletados.",
     "GamepadAutoRun_Description_PS4": "Liga/Desliga correr automático no controle. Quando ligado, apertar duas vezes o botão L3 fará você correr automaticamente para frente sem precisar segurar o controle esquerdo para frente.",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "{0} {0}|plural(one=amigo,other=amigos) em comum"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "A entidade \"{0}\" possui um fort_multi_trace_weapon_component, mas seu modelo não é shotgun_template. Apenas modelos de espingarda podem usar o fort_multi_trace_weapon_component; pistol_teplate, assault_rifle_template, and sub_machine_gun_template devem usar o fort_trace_weapon_component.",
-    "ArmoryTemplates_RequiresWeaponEntity": "Entidade \"{0}\" carrega {1}. Isso só pode ser usado em um dos modelos de arma (ou seja, pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template).",
-    "ArmoryTemplates_ShotgunRequiresMulti": "A Entidade \"{0}\" é o shotgun_template, mas não possui um fort_multi_trace_weapon_component. Espingardas devem usar fort_multi_trace_weapon_component (e não fort_trace_weapon_component)."
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "A entidade \"{0}\" carrega {1}, mas só permite {2}.",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "O Arquétipo \"{0}\" não possui variante principal. Exatamente uma variante deve ser marcada com a tag \"{1}\".",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "Guerreiras do K-Pop",
     "LegoIslandTag": "Ilha LEGO",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "Percurso Veloz",
     "SolidWaveIslandTag": "Round 6",
     "TmntIslandTag": "Tartarugas Ninja",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index}.{Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "Em posição",
+    "Toolbar": "Barra de ferramentas do editor de encaixe"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "Indicadores de Dados de Conectividade de Juno",
@@ -10576,43 +10613,51 @@
     "ConsolidatePrimitivesCombined": "Criando Redirecionadores - /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "Criando Redirecionadores - /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "Criando Redirecionadores - /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "Coletando ativos de \"{0}\"",
+    "UpdateGeneratedMeshes": "Gerando malhas sujas",
+    "PrintAtomModelsInfo": "Imprimindo informações sobre modelos de átomos",
     "RepairGeneratedMeshes": "Reparando Modelos de Átomo",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "Executando processador primitivo : {0} ({1})",
+    "RegeneratePrimitives": "Executando processador primitivo...",
+    "UpdateAllAtomModelsToUseProcessors": "Atualizando modelos de átomos"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "Ferramenta de Fabricação de Frontend de Juno",
     "ImGuiFrontendCraftingDataToolTooltip": "Ferramenta para copiar dados da interface para uso no frontend"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Tem processador definido, mas precisa gerar as malhas.",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "Não tem processador definido, mas há referência a malhas geradas."
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "A estrutura de linha '{0}' é definida no módulo apenas para cliente '{1}', mas é referenciada por '{2}' que carrega no servidor. Mova a estrutura para um módulo de Tempo de Execução ou garanta que os dados sejam carregados apenas no cliente."
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Tem uma malha instanciada automaticamente nula",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "Possui uma Malha de Proxy nula",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requer pelo menos uma malha instanciada automaticamente",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "Requer pelo menos uma Malha de Proximidade"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "A linha de PI \"{0}\" está definida para Substituir, mas não possui ReplacementPOI, então ela só será removida.Estabeleça uma substituição ou defina IneligibleAction como Remover.",
+    "ReplacementDisabled": "A linha de PI \"{0}\" define a linha desabilitada \"{1}\" como seu ReplacementPOI, então a substituição sempre falhará e o espaço apenas será liberado.",
+    "ReplaceWithSelf": "A linha de PI \"{0}\" tem a si mesma como seu ReplacementPOI.A substituição seria tão inelegível quanto a linha que substitui.",
+    "EmptyBiomes": "A linha de PI \"{0}\" não inclui biomas, então não poderá ser colocada.Inclua os biomas em que ela se encaixa.",
+    "IneligibleActionOnUnsupportedType": "A linha de PI \"{0}\" define IneligibleAction, mas não é um PI da Superfície, então será ignorada.O passe de desativação não modela o estado de desmonte para PIs de caverna, entrada da caverna, ponte e local de pesca.",
+    "ReplacementCycle": "As linhas de PI \"{0}\" e \"{1}\" definem uma à outra como suas substitutas.Quebre o ciclo: uma delas precisa ser definida como Remover."
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "PlaylistBaseDataTableOverrides[{0}] para a tag de playlist '{1}': a tabela de substituição '{2}' tem a estrutura de linha '{3}', mas a tabela base '{4}' usa a estrutura de linha '{5}'. Substituir uma tabela de dados com um tipo de linha diferente causa corrupção de memória durante a execução. A tabela de substituição DEVE usar exatamente a mesma estrutura de linha que a tabela base."
   },
   "JunoValidator_StaticMesh": {
-    "JunoValidator_StaticMesh_InvalidLODs": "Asset contains invalid LOD chain",
-    "JunoValidator_StaticMesh_OpaqueExport": "Can be deleted because it no longer contains transparent materials",
-    "JunoValidator_StaticMesh_CommonParts_Tag": "Common Parts mesh doesn't have 'Render.CommonParts' Atom tag",
-    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Common Parts mesh doesn't have AtomMergedMesh_CommonParts LODGroup",
-    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
-    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
-    "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_InvalidLODs": "Ativo contém uma cadeia de LOD inválida",
+    "JunoValidator_StaticMesh_OpaqueExport": "Pode ser excluído, pois não contém mais materiais transparentes",
+    "JunoValidator_StaticMesh_CommonParts_Tag": "A malha de partes comuns não tem a tag átomo \"Render.CommonParts\"",
+    "JunoValidator_StaticMesh_CommonParts_LODGroup": "A malha de partes comuns não tem o LODGroup AtomMergedMesh_CommonParts",
+    "JunoValidator_StaticMesh_CommonParts_NumLODs": "A malha de partes comuns não tem apenas um LOD",
+    "JunoValidator_StaticMesh_WrongLODGroup": "O nome do LODGroup não começa com \"AtomMergedMesh\"",
+    "JunoValidator_StaticMesh_TransparentExport": "Deve ser gerado sem materiais transparentes",
+    "JunoValidator_StaticMesh_NumLODs": "Possui apenas um LOD"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "Pouca memória",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "Lite UIKit"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "Motivo de *Desenvolvedor* exibido: {0}",
     "Connecting": "CONECTANDO",
@@ -10849,8 +10897,8 @@
     "Europe": "Europa",
     "Middle East": "Oriente Médio",
     "NA-Central": "AN — Central",
-    "NA-East": "AN — Leste",
     "NA-West": "AN — Oeste",
+    "North America": "América do Norte",
     "Oceania": "Oceania",
     "Undefined": "Indefinido"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "Nenhum UMonologueComponent foi passado para NearbySubject",
     "SpatialContextNoSelf": "Nenhum UMonologueComponent foi passado para SpatialContext",
     "SpatialContextNoPawn": "SpatialContext – Não foi possível obter o Peão a partir do sujeito"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "Ocultar Itens do Lobby",
+    "LobbyDropsCollectionGame_Name": "Itens do Lobby",
+    "HideLobbyDrops_Description": "Quando ativado, ocultará Itens do Lobby para lobbies do Battle Royale, Blitz e Reload. Não será possível obter Itens do Lobby."
   },
   "MyTownManager": {
     "MissingPersonalityName": "Sem localização para {0}",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "<Username>{Username}</> saiu do grupo",
     "MemberKickedToast": "<Username>{Username}</> foi removido(a) do grupo",
     "UnableToJoinCheckingForRejoin": "Buscando possíveis partidas existentes, aguarde.",
+    "EpicPartyJoinFailedNoResponse_Title": "Não foi possível entrar no grupo",
     "EpicPartyJoinFailedPrivate_Title": "Não foi possível entrar no grupo",
     "UnableToJoinPartyPrivate_Title": "Não foi possível entrar no grupo",
     "FailedPartyJoin": "Falha ao entrar no grupo",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "Impossível obter as informações da taxa de poder.",
     "UnableToJoinUserBuildHigherFormat": "Não é possível entrar no grupo de <Username>{0}</>. Sua versão do Fortnite é mais antiga.",
     "UnableToJoinUserBuildLowerFormat": "Não é possível entrar no grupo de <Username>{0}</>. Sua versão do Fortnite é mais nova.",
+    "EpicPartyJoinFailedNoResponse": "Não foi possível entrar no grupo de <Username>{0}</>.",
     "UnableToJoinDeniedUserUnknownResult": "Não é possível entrar no grupo de <Username>{0}</>. Código do motivo da recusa: {1}",
     "EpicPartyJoinFailedUnknown": "Não é possível entrar no grupo de <Username>{0}</>. Código do Erro: {1}",
     "UnableToJoinUserUnknownResult": "Não é possível entrar no grupo de <Username>{0}</>. Código do Erro: {1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "Não é possível entrar no grupo. Código do Motivo da Recusa: {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "Não é possível entrar no grupo. Código do Erro: {0}",
     "UnableToJoinPartyUnknownResult": "Não é possível entrar no grupo. Código do Erro: {0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "Não foi possível entrar nesse grupo.",
     "ReadyTextSpectatingGame": "Assistindo Partida",
     "ReadyTextWatchingReplay": "Assistindo a um Replay",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "Você já está nesse grupo",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "Termina em {Day} de {Month} de {Year}, às {Time} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "Excluir entradas de encaixe",
+    "DuplicateSnapEntries": "Duplicar entradas de encaixe",
+    "PasteSnapEntries": "Colar entradas de encaixe",
+    "SelectSnapEntry": "Selecionar ponto de encaixe"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "{0} Restante(s)"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "Você enviou um presente para <text color=\"FFF\">{DisplayName}</>!"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "Você enviou um presente para <text color=\"FFF\">{DisplayName}</>!"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "Tudo",
     "CategoriesGroupNameKey": "Categorias",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "Tentando definir um nome vazio."
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "Configurar estrutura pré-fabricada"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "Sair da partida e jogar {LinkCode}?",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Abre o HLTv2 para que a Ferramenta de Migração para Interface Personalizável possa migrar todas as configurações de HLTv2 para a nova estrutura de interface personalizável."
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "Configurar estrutura pré-fabricada",
+    "BeginConfigurePrefabTool_ToolTip": "Configurar estrutura pré-fabricada"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "Abrir Analista Espacial",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "Não foi possível voltar ao jogo. Tentativas máximas de voltar excedidas."
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "Lista de ativos"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "A tabela de dados do Catálogo [fileira {0}] não tem uma etiqueta de Subcategoria válida.",
     "NeitherItemNorTag": "A tabela de dados do Catálogo [fileira {0}] não tem uma definição de item nem uma etiqueta de identidade. É preciso ter ao menos uma.",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "A tabela de dados do Catálogo [linha {0}] parece ser um PNJ amigável, mas não tem dados definidos de gerador de IA.",
     "CategoryTagInvalid": "A tabela de dados do Catálogo [fileira {0}] não tem uma etiqueta de Categoria válida.",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "A tabela de dados do Catálogo [{0}] faz referência a um item [{1}] que não existirá quando o plugin do pacote for preparado em [{2}].  Remova a linha ou atualize a versão de lançamento do item para corresponder."
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "A tabela de dados de diálogo [linha {0}] tem texto inválido na propriedade [{1}]:{2}\"{3}\""
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contém uma tag RequiredIngredients em branco!!Isso pode causar problemas durante a execução.",
     "DirectOutputsWithLootTierKey": "A FCraftingFormula [{0}] tem tanto uma ResultLootTierKey quanto uma Saída Direta (entrada de ExtraData). Remova a entrada de ResultLootTierKey ou Saída Direta"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData com ActorName [{0}] tem uma receita em branco!!Isso pode causar problemas durante a execução."
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingDisplayActorDataEntry no catálogo [{0}] possui uma receita em branco!! Isso pode causar erros durante a execução."
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "O Item [{0}] tem a versão de lançamento [{1}], mas é referenciado pela tabela de saque [{2}], cujo plugin é compilado em [{3}]. O item não existirá quando esta tabela de saque for executada. Remova o item da tabela de saque ou atualize a versão de lançamento do item para corresponder à versão do plugin."
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "Tabela de dados do registro [linha {0}] tem um tipo CompletionReaction que concede uma recompensa, mas está definido como GrantToWorld.  Deve ser GrantToParticipants para conceder corretamente a todos os jogadores..",
     "TextInvalid": "A tabela de dados do Diário [linha {0}] tem texto inválido na propriedade [{1}]:{2}\"{3}\"",
     "PrereqQuestProgressNotification": "O item bHideQuestProgressNotification da tarefa na tabela de dados de registro [linha {0}], Índice de Pré-requisitos [{1}], deve estar ligado",
     "PrereqQuestStartingToast": "O item bShouldDisplayStartingToast da tarefa na tabela de dados de registro [linha {0}], Índice de Pré-requisitos [{1}], deve estar desligado",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "Tabela de dados do registro [fileira {0}], o Índice de Pré-requisitos [{1}] de AwesomeLevelIndex não é um índice válido para UpgradeRequirements de {2}.",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "Tabela de dados do registro [fileira {0}], o Índice de Pré-requisitos [{1}] de CampTagConfigKey não está mapeado em uma tabela de dados de FJunoAwesomePoiConfigTableRow.",
     "PrereqTownbuilderInvalidNoValidALI": "Tabela de dados do registro [fileira {0}], o Índice de Pré-requisitos [{1}] não possui um AwesomeLevelIndex válido.",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "Tabela de dados do registro [linha {0}], Índice de Pré-requisitos [{1}] não tem uma tag CampTagConfigKey válida.",
     "PrerequistitesInvalidNoValidPreReqType": "Tabela de dados do registro [fileira {0}], o Índice de Pré-requisitos [{1}] não possui um tipo de pré-requisito válido.",
     "PrereqQuestInvalidNotNeededPFComponent": "Tabela de dados do registro [fileira {0}], o Índice de Pré-requisitos [{1}] possui um componente PersistenceFramework desnecessário.",
     "PrereqQuestInvalidQuestSoftPtr": "Tabela de dados do registro [linha {0}], o Índice de Pré-requisitos [{1}] possui um Quest SoftPtr inválido [{2}].",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "Tabela de dados do registro [linha {0}], o Índice de Pré-requisitos [{1}] não possui QuestDef.",
     "PrereqTownbuilderInvalidRCButEmptyRL": "Tabela de dados do registro [fileira {0}], o Índice de Pré-requisitos [{1}] relativo a ResourceCost, mas {2} possui um ResourceList vazio.",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "Tabela de dados do registro [fileira {0}], Índice de Pré-requisitos [{1}]. Não foi possível encontrar UpgradeStep com UpgradeStepIdentifer {2} para UpgradeStages de {3}.",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "Tabela de dados do registro [linha {0}] não possui Pré-requisitos.",
+    "CategoryTagInvalid": "Tabela de dados do registro [{0}], não tem uma tag de Categoria válida.",
+    "CompletionReactionsInvalid": "Tabela de dados do registro [linha {0}] está configurada para se revelar por meio do Índice de Reação de Conclusão [{1}].",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "Tabela de dados do registro [fileira {0}] está configurada para se relevar através de NextTaskRowName, desmarque RevealNextTaskOnComplete para se desbloquear e fale com um engenheiro!",
     "CompletionReactionsInvalid_RowNotExist": "Tabela de dados do diário [linha {0}], revela [linha {1}] na conclusão, que não existe.",
     "CompletionReactionsInvalid_AutoReveal": "Tabela de dados do diário [linha {0}], revela [linha {1}] na conclusão, que usa uma AutoRevealCondition.  Isto não é permitido, ConditionsForAutoRevealOrHide gerencia a revelação de tarefas por conta própria.",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "Tabela de dados do registro [linha {0}] usa RevealNextTaskOnComplete, mas NextTaskRowName {1} está incorreta.  Marque a opção novamente.",
+    "ValidateLoadedAsset": "Tabela de dados do registro [{0}], Índice de Pré-requisitos {1} referencia uma tarefa [{2}] que não existirá quando o plugin do pacote for preparado em [{3}]. Remova a linha ou atualize a versão de lançamento do item para corresponder."
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "LootPackage [{0}] faz referência a um item [{1}] que não existirá quando o plugin do pacote for preparado em [{2}]. Remova a linha ou atualize a versão de lançamento do item para corresponder."
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "Modificar Objeto",

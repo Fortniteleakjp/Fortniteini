@@ -524,7 +524,7 @@
     "Device_WildlifeSpawner_V2_C.CustomDamageToEnvironment.DisplayName": "ความเสียหายแบบกำหนดเองต่อสภาพแวดล้อม",
     "Device_WildlifeSpawner_V2_C.CustomDamageToPlayer.DisplayName": "ความเสียหายแบบกำหนดเองต่อผู้เล่น",
     "Device_WildlifeSpawner_V2_C.CustomMovementSpeedMultiplier.DisplayName": "ตัวคูณความเร็วในการเคลื่อนที่แบบกำหนดเอง",
-    "Device_WildlifeSpawner_V2_C.Type.Sidekick Sprite.DisplayName": "แดชสไปรต์",
+    "Device_WildlifeSpawner_V2_C.Type.Sidekick Sprite.DisplayName": "สไปรต์แดช",
     "Device_WildlifeSpawner_V2_C.EnergyConsumeAmount.Description": "กำหนดจำนวนพลังงานที่ถูกใช้เมื่อฟังก์ชันที่เกี่ยวข้องถูกเรียกใช้งาน",
     "Device_WildlifeSpawner_V2_C.EnergyRestoreAmount.Description": "กำหนดจำนวนพลังงานที่ฟื้นฟูเมื่อฟังก์ชันที่เกี่ยวข้องถูกเรียกใช้งาน",
     "Device_WildlifeSpawner_V2_C.BiomeVariant.Description": "กำหนดตัวเลือกสีสำหรับแต่ละชีวนิเวศ ไก่ หมูป่า และหมาป่า ตอนนี้มีตัวแปรสีที่แตกต่างกันให้ใช้งาน",

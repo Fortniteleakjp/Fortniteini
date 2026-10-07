@@ -1,7 +1,7 @@
 {
   "": {
-    "CF64E10C4A0F48B668BDEE94B48D3F0E": "- Afinar\n- Ver consejos",
-    "68916EDC47FE6CA7F612B9A3E8560CB7": "- Afinar\n- Ver consejos\n- Cambiar los controles",
+    "6EC6EB644B7B8B6E55717E97FCE44AAF": "- Afinar\n- Ver consejos",
+    "EF955F7C42453B739C9A4B999B275BBC": "- Afinar\n- Ver consejos\n- Cambiar los controles",
     "ABE23DC84867226614A110A9B3149B7C": "0",
     "D0146C6B4F55F43540DFE096DB883FFD": "0",
     "0C351640485A73AB016B57BE7DD4061B": "1",
@@ -42,7 +42,7 @@
     "BBF815A04F57F9CEE6F1D798C6836B67": "Cambia la asignación de entrada que se usa en partidas de sincronización de ritmo.",
     "D7C1CF734A58F5A52CFDBAB8B6C4D8D8": "Predeterminado",
     "259E3EE845A106DD376622B3DAA75596": "Distorsión",
-    "471C061448979EF30F49BE951E91B025": "Finalizar (mantener presionado)",
+    "9B7BD04D4CF30CC5475759B351D7BC56": "Finalizar (mantener presionado)",
     "3D347E8E4186B42CE9A26CBC72C2F08E": "Drop",
     "1004498F472C2D684814C1B6EE13ECCC": "Batería",
     "5DE708AA4E391EB74B735C802069228E": "Batería",
@@ -127,6 +127,7 @@
     "37C0527B44FD8C0B6D71A7825F6CF049": "Abrir diálogo de calibración de entrada",
     "126160FF49ABEEB1639C8C9C9B99C4E7": "Abre este menú para ver misiones, afinar y acceder a consejos.",
     "05B6BA3B4A8CBA0D02D9A79A792955F3": "Abre este menú para ver misiones, afinar, cambiar el esquema de control y acceder a consejos.",
+    "EFED6B7B4B18A936EFB909930F866C5C": "Abre la biblioteca de música",
     "129FC22742A59AA635D6DFAF3DD4C9C9": "Epílogo",
     "8340BEEF48A5194089E25E828EA76344": "OverDrive",
     "085D67754714D980105768AA0DD8B0E1": "J1",
@@ -155,7 +156,7 @@
     "F8EEE0CC444517014CF9DE91D15B66FB": "Presiona para detener un gesto en reproducción",
     "43C8845C49DC39F9E56684958C6A939C": "Ajuste Partes pro",
     "33A4853B4F08CD18BE680783DC04DA12": "Entrada rápida de gesto",
-    "02DB116C44508A5F5C18ACB0700B9257": "Recuerda visitar el menú del juego\nsi necesitas:",
+    "F254F78A45B169702C72AAB9988EBDF5": "Recuerda visitar el menú del juego\nsi necesitas:",
     "5928B25B4FC8D182A37CCE800665F41E": "Establecer controles personalizados",
     "B95D54BA41A52DB6517E6CBAA49872C1": "Establece controles para cuando la dificultad sea",
     "CDBBF76B453F25BC576A7792757CCC03": "SetByBP",
@@ -194,7 +195,8 @@
     "F26AD81E4DFB2785736162A9E2E699BF": "Cuando estés en el escenario, los controles de jugabilidad se verán de esta forma.",
     "A81F972F446CB431A4A35B8CDFD25D67": "Muy grande",
     "3ADD53E6402D614D8CB0DEBF099502CC": "XXLarge",
-    "17DD8ECB46F03E95BB7F78A2F8E49953": "¡TODO LISTO PARA TOCAR!",
+    "7AC1F2804D153DA2438194B8AA222CB8": "¡TODO LISTO PARA TOCAR!",
+    "C7FC6FB74423F841DD619684417E57E8": "¡TODO LISTO PARA TOCAR!",
     "8732E8134F35DF10054F1BB2D35ED801": "{PlayerID}",
     "F114D6214E4ACAFC0F2A48811749DB90": "x{value}"
   },
@@ -286,5 +288,16 @@
     "CategoryX-W": "X-W",
     "CategoryY-Z": "Y-Z",
     "CategoryZ-Y": "Z-Y"
+  },
+  "ST_PilgrimCoreStrings": {
+    "SongDifficulty_Easy": "E",
+    "SongStatus_Featured": "Destacadas",
+    "SongDifficulty_Hard": "D",
+    "SongDifficulty_Medium": "I",
+    "SongDifficulty_None": "N",
+    "SongStatus_New": "Nuevas",
+    "SongStatus_Shared": "Compartidas",
+    "SongStatus_Spotlight": "Efectos",
+    "SongDifficulty_Expert": "X"
   }
 }

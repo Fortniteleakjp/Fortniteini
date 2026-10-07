@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "إعداد الشكل للمسار العابر (التضاريس على الأرجح!)",
     "UnableToGetPointData": "تعذر الحصول على بيانات النقطة من المُدخل",
     "UnableToGetSpatialData": "تعذر الحصول على البيانات المكانية من المُدخل"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "تعذر استرجاع بيانات إكساء الارتفاع، وفشلت التهيئة.",
-    "FailExtractGrassTypeOverrides": "فشل استخلاص تجاوزات نوع العشب."
   }
 }

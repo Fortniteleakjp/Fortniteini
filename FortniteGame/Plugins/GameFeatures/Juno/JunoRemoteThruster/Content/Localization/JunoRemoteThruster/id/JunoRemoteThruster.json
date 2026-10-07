@@ -1,13 +1,13 @@
 {
   "": {
-    "89C0FBAD44FADF34B8511F882A8640D1": "Gunakan beberapa item ini saat kamu butuh dorongan. ",
-    "ACEE789D4CB4CF1EE4874BA6768119DE": "Saat dorongan untukmu butuh sedikit \"yuk\" lagi!"
+    "392A3EDF4970168C7B7DE6834388E77F": "Gunakan beberapa item ini saat kamu butuh dorongan. ",
+    "3DBC64E84D2AE7558E61E4AFA1298CAA": "Saat doronganmu butuh lebih \"greget\" lagi!"
   },
   "Juno_GameplayItemToTagMapping": {
-    "7F12123A4DDD99D670F726A00737F034": "Pasang pendorong besar ke struktur yang sudah ada dan objek dinamis.",
-    "A273638A43FBCAE3F1D05BA2085ACB16": "Pasang pendorong kecil ke struktur yang sudah ada dan objek dinamis.",
-    "FB90A27F4B95E168E9C6CA88443875D0": "Pendorong Besar",
-    "5E9A371D43E076126910D39AF338F4B5": "Pendorong Kecil"
+    "394CD65446E532A162F2399C49C6C554": "Pasang pendorong besar ke struktur bangunan yang sudah ada dan objek dinamis.",
+    "0CFDE8624230BF8C658E339A15C5E8B8": "Pasang pendorong kecil ke struktur yang sudah ada dan objek dinamis.",
+    "098208DB40D467063DFAB7B353FE8DE5": "Pendorong Besar",
+    "59EAC72F40D22825B526C582E95BF8F5": "Pendorong Kecil"
   },
   "PP_CraftingFormulas_RemoteThrusterPlacer": {
     "8D875AFF4462C00749F100AD55FE62DF": "Pendorong Besar",

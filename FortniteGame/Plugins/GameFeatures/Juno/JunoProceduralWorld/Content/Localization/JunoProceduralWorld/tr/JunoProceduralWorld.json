@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "(Muhtemelen Manzara üzerinde) Yolunu bulma için belirlenen şekil",
     "UnableToGetPointData": "Girdiden Uzamsal Nokta verisi alınamıyor.",
     "UnableToGetSpatialData": "Girdiden Uzamsal veri alınamıyor."
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "Yükseklik dokusu verisi alınamadı, başlatma başarısız oldu.",
-    "FailExtractGrassTypeOverrides": "Çimen türü geçersiz kılmaları alınamadı."
   }
 }

@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "สร้างรูปร่างเพื่อหาทางข้าม (อาจจะเป็นภูมิประเทศ!)",
     "UnableToGetPointData": "ไม่สามารถรับข้อมูลจุดจากอินพุตได้",
     "UnableToGetSpatialData": "ไม่สามารถรับข้อมูลภูมิสารสนเทศจากอินพุตได้"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "ไม่สามารถดึงข้อมูลสำหรับพื้นผิวความสูงได้ การเริ่มต้นล้มเหลว",
-    "FailExtractGrassTypeOverrides": "ไม่สามารถดึงข้อมูลการตั้งค่าทับซ้อนของประเภทหญ้าได้"
   }
 }

@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "Định hình để tìm đường đi (có thể là Cảnh Quan!)",
     "UnableToGetPointData": "Không thể lấy dữ liệu Điểm từ đầu vào",
     "UnableToGetSpatialData": "Không thể lấy dữ liệu Không Gian từ đầu vào"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "Không thể truy xuất dữ liệu cho kết cấu độ cao, khởi tạo thất bại.",
-    "FailExtractGrassTypeOverrides": "Trích xuất ghi đè loại cỏ không thành công."
   }
 }

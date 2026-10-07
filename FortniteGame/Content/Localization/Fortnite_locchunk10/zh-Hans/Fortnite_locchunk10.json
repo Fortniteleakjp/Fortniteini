@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "[PH]一柄没有装饰的剑，可以发起强大的二次跳跃攻击。",
     "144AC202422D81D8ECA7FDADA0248752": "经典步枪，高精准度，射程非常远。",
     "174ADE3045B991036DAB808BA3802CDA": "经典步枪，高精准度，射程非常远。",
-    "A633A07540E67656A515748EC42D2BFA": "经典步枪，高精准度，射程非常远。",
     "5CA4C768442DACE154F650919AEBF7CC": "开足马力，全速推进，享受刺激。在空中时通过跳跃发起。",
     "62060089487721326B23BBA33709B481": "开足马力，全速推进，享受刺激。在空中时通过跳跃发起。",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "开足马力，全速推进，享受刺激。在空中时通过跳跃发起。",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "激活时治疗附近玩家。",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "重型突击步枪",
     "2118AC47465E7B7FC3544E9411BEDFC9": "重型突击步枪+",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "重型突击步枪",
+    "6F59A98A484163C0B20075AB5FAF04BF": "重型突击步枪",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "重型霰弹枪",
     "6202063447BC0BE9C686E0B7FA3EE710": "重型霰弹枪",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "重型霰弹枪",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "印地重力翻转",
     "118BD9B247A79B6E7AB2189A409B7EFA": "印地巡回",
     "55F09A7841788A6D5EABF7AE7C720557": "步兵步枪",
-    "C115B50C4700A573DC237EAC7C92E21B": "加兰德步枪",
     "F1638A45469F392DAF5444BE0A097644": "加兰德步枪",
     "F317A4514DE5AEE182F39DA192E355AD": "加兰德步枪",
     "1D7BBE454E1553569F9589A7E633F06D": "无限",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "坚持到最后的人赢得胜利",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "坚持到最后的小队赢得胜利",
     "0E7DAF39462A8FDB208B1B94A8372C42": "发射升空，呼啸而过。冷却后可再次使用。",
-    "203048A346124F2326AE7489CF3CF605": "发射升空，呼啸而过。重新激活可提前取消。",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "发射升空，呼啸而过。重新激活可提前取消。",
     "261743A8479BF496B7D041B28AA7D369": "长距离地发射玩家。",
     "86CE1B5747A296D9410A23BD7ED6275C": "发射一个装有影漆的高爆容器。",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "放置路标，指引方向。",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "玩家调查合格标识",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "请重新绑定{s}动作。",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "搋子弓",
     "4567895244A3DDF0A6347DB93EA4AB9A": "随身尬舞手雷",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "便携护盾保护罩",
     "FB786D2942DF31556A360EBB36845337": "便携震荡波手雷",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "随身女巫扫帚",
-    "09BC060C4709B5E30DB790861955D110": "能量",
     "4CBE793B4385D3726F1EA5950991BC9C": "能量",
     "D13EC04349B8427E99FF49AFABDD232A": "能量",
     "D6FFC2F1422B954E038F569E60AA52EE": "超能时刻模板",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "潜行者",
     "61B1F6E14915E099FA166191039CA76B": "伪装雪人",
     "E72D7990488977EC9E88CAA2F852A420": "鬼祟雪人",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "狙击步枪：半自动式。中至长距离的步枪，造成不错的伤害，射速很快。带瞄准镜，额外增加瞄准精度。",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "狙击步枪：配备消音器。一把强大的狙击步枪，配备消音器，可单发精准射击，射速较慢。",
     "AD1D0E4849B9874FC0ADF397EB542112": "狙击步枪：配备消音器。一把强大的狙击步枪，配备消音器，可单发精准射击，射速较慢。",
     "719A80194FE6CA987DF1FF92404DF970": "能在<Emphasized>未持起时装填</>的狙击步枪",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "冬季节日挑战完成令牌",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "冬季节日钥匙",
     "194B94D745612B291C0C0CAC0487B727": "女巫扫帚",
-    "EFCEF17944284794FC6D49B915B991EE": "女巫扫帚",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "画着“X”的地方就是藏宝点！",
     "D40AA64648243870B6889FA424D3E046": "X4风暴之翼",
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "AI动作序列",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "资产列表"
   },
   "Athena": {
     "NPCHiredIndication": " （随从）",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "出错了！",
     "AlreadyOwnItemTitle": "出错了！",
     "AlreadyOwnBPDescription": "你将收到战斗通行证礼物代币，因为<text color=\"FFF\">{DisplayName}</>在你尝试送礼期间购买了战斗通行证。\n你可以用它将战斗通行证送给其他好友。如果到本赛季结束时你仍未使用战斗通行证礼物代币，该代币将被转换为950 V币存入你的账户。"
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "获得了新的礼品包装选项！"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "发生了一个未知的错误",
+    "RecipientCantReceiveGiftsDescription": "看来<text color=\"FFF\">{DisplayName}</>没有资格接受礼物",
+    "RecipientBoughtItemsDescription": "看起来<text color=\"FFF\">{DisplayName}</>刚刚购买了以下物品：",
+    "AlreadyOwnItemDescription": "看起来<text color=\"FFF\">{DisplayName}</>刚刚购买了此物品。",
+    "GiftChangedDescription": "看起来礼物的内容已经改变……",
+    "GiftChangedTitle": "哎呀！",
+    "GenericErrorTitle": "哎呀！出错了！",
+    "RecipientBoughtItemsTitle": "出错了！",
+    "RecipientCantReceiveGiftsTitle": "出错了！",
+    "AlreadyOwnItemTitle": "出错了！",
+    "AlreadyOwnBPDescription": "你将收到战斗通行证礼物代币，因为<text color=\"FFF\">{DisplayName}</>在你尝试送礼期间购买了战斗通行证。\n你可以用它将战斗通行证送给其他好友。如果到本赛季结束时你仍未使用战斗通行证礼物代币，该代币将被转换为950 V币存入你的账户。"
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "继续",
+    "GetVBucks": "获取V币",
+    "PurchaseGift": "购买礼物！",
+    "ReloadVBucks": "重新加载V币",
+    "SendGift": "发送礼物！"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName}现在将收到",
+    "SocialNameInfo": "{DisplayName}将收到",
+    "ItemsCount": "{GiftItemsCount}个项目",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount}个物品"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "继续",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "HLTv2至可自定义界面插件",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "Juno工具",
     "SpatialMetricProfiler": "空间分析工具",
     "WeaponModernizationEditorCommands": "武器现代化工具"
   },
@@ -3836,9 +3862,9 @@
     "FailedToWriteDescriptor": "未能找到插件“{0}”"
   },
   "FJunoViewportToolsModule": {
-    "SectionName": "Juno",
-    "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "SectionName": "朱诺",
+    "ExtensionName": "Juno工具",
+    "ConfigurePrefabTool": "预制件"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "存放{amount} {resourcetype}",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "无法获取更多此类物品！",
     "PlayerKickedCallout": "玩家{PlayerName}因无所事事被踢了。",
     "PlayerKickedSoonCallout": "玩家{PlayerName}即将因无所事事被踢。",
-    "IdleWarning": "你的团队需要你的帮助! 请在瑞送你回大本营之前提供帮助。\n返回倒计时：{SecondsRemaining}"
+    "IdleWarning": "你的团队需要你的帮助！请在瑞送你回大本营之前提供帮助。\n返回倒计时：{SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "查看游戏集"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "节点访问姿势调试选项",
     "OrientationWarping": "方位变形",
     "OrientationWarpingTooltip": "指向根骨骼以匹配运动方向，并逆时针选择脊柱。",
+    "SimpleFootPlantingTooltip": "在落地后将脚部IK钉在原地，并在动画脚部离开已固定的位置时逐渐淡出混合效果。与坡度弯曲无关。",
     "AttackIKTooltip": "在一次攻击动画中，根据IK骨骼放置手部/脚部。",
     "FortAnimNode_CurveFilterSlot_Tooltip": "使用 AnimMontage 播放代码中的动画",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "使用 AnimMontage 播放代码中的动画",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "使用转变器缩放角色骨骼。",
     "ScaleHuskBonesTooltip": "调整毒尸怪的骨骼比例（例：矮人毒尸怪块头小但脑袋很大）",
     "SetIKTarget_Description": "设置 Foot IK 目标",
+    "SimpleFootPlanting": "简单脚部落地",
     "SpeedWarping": "速度变形",
     "RootSlopeTiltTooltip": "通过钳位分数将骨架根部朝向地板法线倾斜，这样下游的坡度变形节点就能针对已经倾斜的身体重新解析肢体。",
     "TransformRollerTreads": "转化轮滑/胎面",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "能量",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "好友",
+    "GiftingPartyMembersList": "队伍成员"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "好友",
     "GiftingPartyMembersList": "队伍成员"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "清理中…",
     "LogoutUsabilityExperiment": "清理中……",
     "FailedClientSettingsDownloadTitle": "云端下载失败",
+    "LoginXmppAsync": "正在连接组队服务……",
     "ConsoleConnectionChangePromptTitle": "连接状态变更",
     "QueryKeychainNoMcpMsg": "无法访问MCP以下载钥匙链",
     "CreatingParty": "创建队伍……",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "自动射击",
     "AutoInteractContainers_Name": "自动打开容器",
     "AutoOpenDoors_Name": "自动开门",
+    "AutoPickUpEnabled_Name": "自动拾取物品",
     "AutoPickupWeaponsConsolePC_Name": "自动拾取武器",
     "AutoPickupWeapons_Name": "自动拾取武器",
     "AutoInteractRevives_Name": "自动复活队友",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "自动隐藏建筑材料",
     "AutoSetQuality_Action": "自动设置",
     "AutoSetQuality_Name": "自动设置画质",
+    "MobileAutofireCollection_Name": "自动射击",
     "TouchAutomationsCollection_Name": "自动操作",
     "AutomaticallyApplyXP_Name": "自动应用 - 成员经验值",
     "DynamicResolution_Description": "根据GPU负载自动调整3D分辨率。GPU使用率较低时，分辨率将提升至原生分辨率。GPU使用率较高时，分辨率将降低至最低3D分辨率预设值。",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "较高的几何设置使物体的形状更加细致。增加这个设置会使对象更加细致，但会降低性能。",
     "TextureQuality_Description_Default": "纹理设置越高，平面物体的外观就越细致。增加这个设置会使对象更加细致，但会降低性能。",
     "TextureQuality_Description_NoHighMips": "纹理设置越高，平面物体的外观就越细致。提高设置参数会使物体更加细致，但会降低性能。\n\n<Icon.Warning></>未安装高质量纹理。可以在Epic Games启动器中的Fortnite安装选项内下载资源。",
+    "TextureQuality_Description_EpicAssetsInstalled": "纹理设置越高，平面物体的外观就越细致。提高设置参数会使物体更加细致，但会降低性能。\n\n当前已安装史诗品质纹理。要释放空间并在游戏过程中流式传输资源，可通过Epic Games启动器的Fortnite安装选项卸载纹理。",
+    "TextureQuality_Description_EpicAssetsStreamed": "纹理设置越高，平面物体的外观就越细致。提高设置参数会使物体更加细致，但会降低性能。\n\n史诗级画质纹理默认按需流式传输。为了减少游戏过程中的下载，可选择在Epic Games启动器的Fortnite安装选项中安装。",
     "Hitmarkers_Name": "命中标记",
     "AutoClamber_On": "按住向前",
     "AutoHurdle_On": "长按前进",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "网格",
     "MapPickupDotRarity_Name": "小地图拾取指示",
     "FOVMinimum_Name": "最小景深（FOV）",
+    "MobileCheatsCollection_Name": "移动端作弊",
     "MobileFPSType_Name": "移动帧率",
     "MotionBlur_Name": "动态模糊",
     "MouseAndKeyboardBindingsCollection_Name": "键鼠",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "开启或关闭飞行器手柄操作翻转。在开启时，向前移动将会使飞行器会俯倾。",
     "InvertPitchForAircraftSecondary_Description": "开启或关闭鼠标反向控制飞行器。在开启时，按前进时飞行器会俯倾。",
     "InvertPitchForAircraftTouch_Description": "开启或关闭飞行器触控转向反转。开启后，向前移动触控会使飞行器前倾。",
+    "AutoPickUpEnabled_Description": "切换开启或关闭自动拾取物品。开启后，经过物品时会自动将其拾取。",
     "AutoSortConsumablesToHigherSlots_Description": "开启/关闭自动将消耗品整理至靠右侧栏位的功能。开启时，拾取生命和护盾等消耗品后将默认放入快捷栏最右边的空栏位。",
     "AutoSortConsumablesToRight_Description": "开启/关闭自动将消耗品整理至靠右侧栏位的功能。开启时，拾取生命和护盾等消耗品后将默认放入快捷栏最右边的空栏位。",
     "GamepadAutoRun_Description_PS4": "开启或关闭控制器自动奔跑。开启时，按下两次L3键将自动向前奔跑，无需持续按住左操作杆。",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "{0}个共同好友"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "实体“{0}”携带fort_multi_trace_weapon_component，但其模板不是shotgun_template。只有霰弹枪模板可以使用fort_multi_trace_weapon_component；手枪模板、突击步枪模板和冲锋枪模板必须使用fort_trace_weapon_component。",
-    "ArmoryTemplates_RequiresWeaponEntity": "实体“{0}”携带{1}。这只能用于其中一个武器模板（即pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template）。",
-    "ArmoryTemplates_ShotgunRequiresMulti": "实体“{0}”是霰弹枪模板，但不携带fort_multi_trace_weapon_component。霰弹枪必须使用fort_multi_trace_weapon_component（而不是fort_trace_weapon_component）。"
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "实体“{0}”携带了{1}，但该实体只允许携带{2}。",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "原型“{0}”没有主变体。有且仅有一个变体必须被标记为“{1}”。",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "糖豆人",
     "BrightCoilIslandTag": "K-Pop 猎魔女团",
     "LegoIslandTag": "乐高岛屿",
-    "RocketRacingTag": "火箭竞速",
     "SpeedrunTag": "极速过关",
     "SolidWaveIslandTag": "鱿鱼游戏",
     "TmntIslandTag": "忍者神龟",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index}.{Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "输入放置",
+    "Toolbar": "对齐编辑器工具栏"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "Juno连接数据标签",
@@ -10576,43 +10613,51 @@
     "ConsolidatePrimitivesCombined": "正在创建重定向器 - /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "正在创建重定向器 - /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "正在创建重定向器 - /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "正在收集“{0}”资源",
+    "UpdateGeneratedMeshes": "生成脏网格",
+    "PrintAtomModelsInfo": "正在打印AtomModels信息",
     "RepairGeneratedMeshes": "正在修复原子模型",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "正在运行基础处理器：{0}({1})",
+    "RegeneratePrimitives": "正在运行图元处理器......",
+    "UpdateAllAtomModelsToUseProcessors": "正在更新原子模型"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "Juno前端制作数据工具",
     "ImGuiFrontendCraftingDataToolTooltip": "用于复制UI数据以供前端使用的工具"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "有一组处理器，但需要生成网格。",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "未设置处理器但引用了生成的网格体"
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "行结构‘{0}’在仅客户端模块‘{1}’中定义，但被在服务器上加载的‘{2}’引用。将结构体移动到运行时模块，或确保数据仅在客户端加载。"
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "具有空的自动实例化网格",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "包含空的代理网格",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "需要至少一个自动实例化网格体",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "需要至少一个代理网格体"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "兴趣点行“{0}”已设置为“替换”，但未命名替换兴趣点，因此它只会被移除。指定一个替换项，或不可用操作将设为移除。",
+    "ReplacementDisabled": "兴趣点行“{0}”将已禁用的行“{1}”设置为其替换兴趣点，因此替换将始终失败，槽位只会被释放。",
+    "ReplaceWithSelf": "兴趣点行“{0}”将自身命名为替换兴趣点。替换项将和它所替换的行一样，都不可用。",
+    "EmptyBiomes": "兴趣点行“{0}”未指定任何生态群系，因此无法放置。指定其所属的生物群系。",
+    "IneligibleActionOnUnsupportedType": "兴趣点行“{0}”设置了不可用操作，但它不是主世界兴趣点，因此将被忽略。洞穴、洞穴入口、桥梁和钓鱼点兴趣点的专属拆解状态，退役通行证不会建模。",
+    "ReplacementCycle": "兴趣点行“{0}”和“{1}”将彼此命名为替换项。打破循环：其中一个必须是“移除”。"
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "播放列表标签'{1}'的PlaylistBaseDataTableOverrides[{0}]：重载表'{2}'的行结构为'{3}'，但基础表'{4}'使用的行结构为'{5}'。使用不同的行类型重载数据表会导致运行时内存损坏。重载表必须使用与基础表完全相同的行结构。"
   },
   "JunoValidator_StaticMesh": {
-    "JunoValidator_StaticMesh_InvalidLODs": "Asset contains invalid LOD chain",
-    "JunoValidator_StaticMesh_OpaqueExport": "Can be deleted because it no longer contains transparent materials",
-    "JunoValidator_StaticMesh_CommonParts_Tag": "Common Parts mesh doesn't have 'Render.CommonParts' Atom tag",
-    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Common Parts mesh doesn't have AtomMergedMesh_CommonParts LODGroup",
-    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
-    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
-    "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_InvalidLODs": "资产包含无效LOD链",
+    "JunoValidator_StaticMesh_OpaqueExport": "可删除，因为它不再包含透明材料",
+    "JunoValidator_StaticMesh_CommonParts_Tag": "常用部件网格不具备“Render.CommonParts”原子标签",
+    "JunoValidator_StaticMesh_CommonParts_LODGroup": "普通部件网格不具备AtomMergedMesh_CommonParts 细节级别组",
+    "JunoValidator_StaticMesh_CommonParts_NumLODs": "普通部件网格体不只有一个细节级别",
+    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup名称不以'AtomMergedMesh'开头",
+    "JunoValidator_StaticMesh_TransparentExport": "需要重新生成，不使用透明材料",
+    "JunoValidator_StaticMesh_NumLODs": "仅有一个细节水平"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "内存不足",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "简易UI工具"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*Dev*显示的原因：{0}",
     "Connecting": "连接中",
@@ -10849,8 +10897,8 @@
     "Europe": "欧洲",
     "Middle East": "中东",
     "NA-Central": "北美-中部",
-    "NA-East": "北美-东部",
     "NA-West": "北美-西部",
+    "North America": "北美洲",
     "Oceania": "大洋洲",
     "Undefined": "未定义"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "未将UMonologueComponent传递至NearbySubject",
     "SpatialContextNoSelf": "未将UMonologueComponent传递至SpatialContext",
     "SpatialContextNoPawn": "空间上下文 - 未能从主题获取角色"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "隐藏游戏大厅掉落",
+    "LobbyDropsCollectionGame_Name": "大厅掉落",
+    "HideLobbyDrops_Description": "启用后，将在大逃杀、Blitz和火力全开游戏大厅中隐藏游戏大厅掉落。你将无法从游戏大厅掉落中领取掉落。"
   },
   "MyTownManager": {
     "MissingPersonalityName": "{0}未本地化",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "{Username}离开团队",
     "MemberKickedToast": "{Username}已被团队踢除",
     "UnableToJoinCheckingForRejoin": "检查可加入的比赛中，请稍等。",
+    "EpicPartyJoinFailedNoResponse_Title": "无法加入组队",
     "EpicPartyJoinFailedPrivate_Title": "无法加入组队",
     "UnableToJoinPartyPrivate_Title": "无法加入组队",
     "FailedPartyJoin": "无法加入队伍",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "无法获取能量等级信息。",
     "UnableToJoinUserBuildHigherFormat": "无法加入{0}的组队，其他人的 Fortnite 版本较新。",
     "UnableToJoinUserBuildLowerFormat": "无法加入{0}的组队，其他人的 Fortnite 版本较旧。",
+    "EpicPartyJoinFailedNoResponse": "无法加入<Username>{0}的</>队伍。",
     "UnableToJoinDeniedUserUnknownResult": "无法加入{0}的队伍。拒绝原因代码{1}",
     "EpicPartyJoinFailedUnknown": "无法加入<Username>{0}</>的团队。错误代码{1}",
     "UnableToJoinUserUnknownResult": "无法加入{0}的队伍。错误代码{1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "无法加入队伍。拒绝原因代码{0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "无法加入队伍。错误代码{0}",
     "UnableToJoinPartyUnknownResult": "无法加入队伍。错误代码{0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "无法加入该队伍。",
     "ReadyTextSpectatingGame": "正在观战",
     "ReadyTextWatchingReplay": "正在观看回放",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "你已经在该团队中了",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "结束时间：{Year}年{Month}月{Day}日{Time}（{TimeZone}）"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "删除Snap条目",
+    "DuplicateSnapEntries": "重复快照条目",
+    "PasteSnapEntries": "粘贴Snap条目",
+    "SelectSnapEntry": "选择吸附点"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "{0}剩余"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "你已成功向<text color=\"FFF\">{DisplayName}</>发送了一个礼物！"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "你已成功向<text color=\"FFF\">{DisplayName}</>发送了一个礼物！"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "全部",
     "CategoriesGroupNameKey": "类别",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "你要设置的名称为空。"
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "配置预制件"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "离开比赛和玩{LinkCode}？",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "打开“HLTv2至可自定义界面迁移工具”，将所有HLTv2设置迁移至新的可自定义界面框架。"
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "配置预制件",
+    "BeginConfigurePrefabTool_ToolTip": "配置预制件"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "打开空间分析工具",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "已达到最高重试次数，无法再次加入游戏。"
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "资产列表"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "索引数据表格[第{0}行]，没有有效的SubCategory标签。",
     "NeitherItemNorTag": "索引数据表格[第{0}行]，没有项目定义和身份标签。必须拥有至少一个。",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "索引数据表格[第{0}行]疑似包含友好NPC，但未设置AI生成器数据。",
     "CategoryTagInvalid": "索引数据表格[第{0}行]，没有有效的Category标签。",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "法典数据表 [{0}] 引用了一个物品 [{1}]，当包的插件在 [{2}] 中烘焙时，该物品不会存在。移除该行，或更新物品的发布版本以匹配。"
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "对话数据表[第{0}行]的属性[{1}]中包含无效文本：{2}\"{3}\""
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}]包含空白的RequiredIngredients标签！这可能会在运行时引发问题。",
     "DirectOutputsWithLootTierKey": "FCraftingFormula[{0}]同时拥有ResultLootTierKey和直接输出（ExtraData条目）。请移除ResultLootTierKey或直接输出条目"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "带有ActorName [{0}]的FJunoGuidedBuildingData配方为空！这可能会在运行时引发问题。"
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingDisplayActorDataEntry（索引 [{0}]）有空白配方！！这可能会在运行时引发问题。"
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "物品[{0}]的发布版本为[{1}]，但被战利品表[{2}]引用，其插件在[{3}]中编译。当此战利品表运行时，物品将不存在。从战利品表中移除该物品，或者更新物品的发布版本以匹配插件的版本。"
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "日志数据表[第{0}行]包含一个提供奖励的CompletionReaction类型，但已设置为GrantToWorld。必须设置为GrantToParticipants（发放给参与者），才能将物品正确发放给所有玩家。",
     "TextInvalid": "日志数据表[第{0}行]的属性[{1}]中包含无效文本：{2}\"{3}\"",
     "PrereqQuestProgressNotification": "日志数据表格[第{0}行]，先决条件索引[{1}]任务的bHideQuestProgressNotification应设为开启",
     "PrereqQuestStartingToast": "日志数据表格[第{0}行]，先决条件索引[{1}]任务的bShouldDisplayStartingToast应设为关闭",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "日志数据表格[第{0}行]，先决条件索引[{1}] AwesomeLevelIndex不是{2}UpgradeRequirements的有效索引。",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "日志数据表格[第{0}行]，先决条件索引[{1}] CampTagConfigKey未映射到FJunoAwesomePoiConfigTableRow DataTable。",
     "PrereqTownbuilderInvalidNoValidALI": "日志数据表格[第{0}行]，先决条件索引[{1}]没有有效的AwesomeLevelIndex。",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "日志数据表格[第{0}行]，先决条件索引[{1}]没有有效的CampTagConfigKey标签。",
     "PrerequistitesInvalidNoValidPreReqType": "日志数据表格[第{0}行]，先决条件索引[{1}]没有有效的Prereq Type。",
     "PrereqQuestInvalidNotNeededPFComponent": "日志数据表格[第{0}行]，先决条件索引[{1}]有一个不必要的PersistenceFramework组件。",
     "PrereqQuestInvalidQuestSoftPtr": "日志数据表格[第{0}行]，先决条件索引[{1}]包含一个无效任务软引用[{2}]。",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "日志数据表格[第{0}行]，先决条件索引[{1}]无任务定义。",
     "PrereqTownbuilderInvalidRCButEmptyRL": "日志数据表格[第{0}行]，先决条件索引[{1}] 应用了ResourceCost，但{2}有一个空ResourceList。",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "日志数据表格[第{0}行]，先决条件索引[{1}]，无法使用UpgradeStepIdentifer{2}找到{3}UpgradeStages的UpgradeStep。",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "日志数据表[{0}行]，没有任何先决条件。",
+    "CategoryTagInvalid": "日志数据表格[第{0}行]，没有有效的Cateogry标签。",
+    "CompletionReactionsInvalid": "日志数据表格[第{0}行]已设置为通过CompletionReaction索引[{1}]显示自身。",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "日志数据表格[第{0}行]，已设置为通过NextTaskRowName显示自身。请取消RevealNextTaskOnComplete选中以解除锁定，并咨询工程师！",
     "CompletionReactionsInvalid_RowNotExist": "日志数据表[{0}行]，完成时显示[{1}行]，该行不存在。",
     "CompletionReactionsInvalid_AutoReveal": "日志数据表[{0}行]，完成时显示[{1}行]，该行使用AutoRevealCondition。  操作不允许，ConditionsForAutoRevealOrHide自行管理任务显示。",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "日记数据表[行{0}]，使用RevealNextTaskOnComplete，但NextTaskRowName{1}不正确。请重新勾选该复选框。",
+    "ValidateLoadedAsset": "日志数据表[{0}]的前提索引{1}引用了一个任务[{2}]，该任务在[{3}]中烘焙该软件包的插件时不会存在。移除该行，或更新物品的发布版本以匹配。"
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "LootPackage[{0}]引用了一个在[{2}]中Cook包插件时不存在的物品[{1}]。移除该行，或更新物品的发布版本以匹配。"
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "修改对象",

@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "進行尋路的形狀（應該是地景！）",
     "UnableToGetPointData": "無法從輸入取得點資料",
     "UnableToGetSpatialData": "無法從輸入取得空間資料"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "無法擷取高度貼圖的資料，初始化失敗。",
-    "FailExtractGrassTypeOverrides": "擷取草地類型覆寫失敗。"
   }
 }

@@ -3,6 +3,7 @@
     "49B378FE454107B7C0ABB48593EBEFEF": "<ModalEmphasis>PARA BAIXO</> <img id=\"Toy_Down\"></> é acionado por",
     "1D1E45FA40764B122FF94B865FF84E75": "<ModalEmphasis>PARA CIMA</> <img id=\"Toy_Up\"></> é acionado por",
     "2256DEB245C50E2AA9E748B9EC0AAB52": "Prenda balões enormes e vá pelos ares!",
+    "589BC8C545D9D766C0F02DAA67AF848E": "Prenda balões enormes e vá pelos ares!",
     "B765F16245D3CDDF49FCBC96AECBB8E6": "Elevação",
     "46C7F27B4A5570C7071636BB7EF37E8D": "Cuidado para não estourar PRA VALER.",
     "DE1B3DC54A5A2F6A61984D8910B7C15E": "Cuidado para não estourar PRA VALER.",
@@ -20,18 +21,24 @@
     "2AA87E9E40F4F4D87E02BBB60A2F4230": "Balão Grande Ativado",
     "7988ADD74C897E641532648A25A6DF3C": "Balão Pequeno Ativado",
     "4BF3C90548F87C88D250488EF274D429": "Afixa balões grandes em estruturas e objetos dinâmicos.",
+    "B57EF9BD4D82A829083838A7E5BE2085": "Afixa balões grandes em estruturas e objetos dinâmicos.",
     "440F445446B80318CCC479951407C133": "Afixa balões pequenos em estruturas e objetos dinâmicos.",
     "B3815C7846E7DD14D5367CAC8F99EB48": "Afixa balões pequenos em estruturas e objetos dinâmicos.",
     "05B57A294FAB1DCF676427A33756BAF3": "Balão",
     "6912F6C0402D9B0A69215BBC06DFDEB4": "Balão Grande Ativado",
+    "000401864743389FEA88AFA4F5CC7938": "Balão Grande",
     "A166E9E64F9340DFF3A46097854A4749": "Balão Grande",
     "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Balão Pequeno"
   },
   "PP_CraftingFormulas_BalloonPlacer": {
     "6495022A4829D02B261015B911B01425": "Balão Ativado",
+    "9EAD3440427D82936B635984CAF49DD5": "Balão Ativado",
+    "A100B48D4918A58E8E23A397CDF7D425": "Balão Grande Ativado",
     "FDE747E34AEA63A021F817A7EDC9C8CD": "Balão Grande Ativado",
     "D21109984304353E3518FF8B1261AE98": "Balão Flutuante",
+    "07EE1A9D424270272AFE5F95BC0C3D35": "Balão Grande",
     "1A23A2F54ADBABED1627428E7C501958": "Balão Grande",
+    "191F83F24C3BBC485C4F0DB6317EE0C1": "Balão Pequeno",
     "F6D64FCE4ACECD4A2D5456AD51C8884F": "Balão Pequeno"
   }
 }

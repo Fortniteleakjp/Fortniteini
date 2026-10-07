@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "Forma da attraversare tramite percorso (probabilmente paesaggio!)",
     "UnableToGetPointData": "Impossibile ottenere dati di punto da input",
     "UnableToGetSpatialData": "Impossibile ottenere dati di spazio da input"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "Impossibile recuperare i dati per la texture d'altezza, inizializzazione fallita.",
-    "FailExtractGrassTypeOverrides": "Estrazione degli override del tipo erba fallita."
   }
 }

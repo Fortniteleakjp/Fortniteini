@@ -1,13 +1,13 @@
 {
   "": {
-    "89C0FBAD44FADF34B8511F882A8640D1": "Usane un po' quando è il momento di avere una spinta. ",
-    "ACEE789D4CB4CF1EE4874BA6768119DE": "Quando hai bisogno di una spinta un po' più... spinta!"
+    "392A3EDF4970168C7B7DE6834388E77F": "Usane un po' quando è il momento di avere una spinta. ",
+    "3DBC64E84D2AE7558E61E4AFA1298CAA": "Quando hai bisogno di una spinta un po' più... spinta!"
   },
   "Juno_GameplayItemToTagMapping": {
-    "7F12123A4DDD99D670F726A00737F034": "Attacca grandi propulsori a strutture esistenti e oggetti dinamici.",
-    "A273638A43FBCAE3F1D05BA2085ACB16": "Attacca piccoli propulsori a strutture esistenti e oggetti dinamici.",
-    "FB90A27F4B95E168E9C6CA88443875D0": "Propulsore grande",
-    "5E9A371D43E076126910D39AF338F4B5": "Propulsore piccolo"
+    "394CD65446E532A162F2399C49C6C554": "Attacca grandi propulsori a strutture esistenti e oggetti dinamici.",
+    "0CFDE8624230BF8C658E339A15C5E8B8": "Attacca piccoli propulsori a strutture esistenti e oggetti dinamici.",
+    "098208DB40D467063DFAB7B353FE8DE5": "Propulsore grande",
+    "59EAC72F40D22825B526C582E95BF8F5": "Propulsore piccolo"
   },
   "PP_CraftingFormulas_RemoteThrusterPlacer": {
     "8D875AFF4462C00749F100AD55FE62DF": "Propulsore grande",

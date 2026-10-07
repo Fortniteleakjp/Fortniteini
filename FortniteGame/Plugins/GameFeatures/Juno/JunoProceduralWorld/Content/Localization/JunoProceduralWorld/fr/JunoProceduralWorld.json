@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "Forme sur laquelle trouver son chemin (probablement un paysage !)",
     "UnableToGetPointData": "Impossible de récupérer les données du point depuis le dispositif d'entrée.",
     "UnableToGetSpatialData": "Impossible de récupérer les données spatiales depuis le dispositif d'entrée."
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "Les données n'ont pas pu être récupérées pour la texture de hauteur ; l'initialisation a échoué.",
-    "FailExtractGrassTypeOverrides": "Échec d'extraction des remplacements de type d'herbe."
   }
 }

@@ -44,7 +44,7 @@
     "F6F9A3724610131C8DE39BBC0CE4ADBB": "{Name} *"
   },
   "JunoBuildingCosmetics": {
-    "PartQuantityAndName": "{0} {1}"
+    "PartQuantityAndName": "{0} {0}|plural(one=objet,other=objets) de type {1}"
   },
   "JunoBuildingCosmeticsEditor": {
     "ImGuiJunoAccountItemEditor": "Juno Account Item Editor",

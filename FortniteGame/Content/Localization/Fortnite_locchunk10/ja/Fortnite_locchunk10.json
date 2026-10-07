@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "二次的なジャンプ攻撃が可能な剣。",
     "144AC202422D81D8ECA7FDADA0248752": "高い精度と射程を備えたクラシックなライフル。",
     "174ADE3045B991036DAB808BA3802CDA": "高い精度と射程を備えたクラシックなライフル。",
-    "A633A07540E67656A515748EC42D2BFA": "高い精度と射程を備えたクラシックなライフル。",
     "5CA4C768442DACE154F650919AEBF7CC": "フルスロットルで噴出するスリルと興奮を。空中でジャンプして起動。",
     "62060089487721326B23BBA33709B481": "フルスロットルで噴出するスリルと興奮を。空中でジャンプして起動。",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "フルスロットルで噴出するスリルと興奮を。空中でジャンプして起動。",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "アクティブな間、付近のプレイヤーを回復する。",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "ヘビーアサルトライフル",
     "2118AC47465E7B7FC3544E9411BEDFC9": "ヘビーアサルトライフル+",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "ヘビーアサルトライフル",
+    "6F59A98A484163C0B20075AB5FAF04BF": "ヘビーアサルトライフル",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "ヘビーショットガン",
     "6202063447BC0BE9C686E0B7FA3EE710": "ヘビーショットガン",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "ヘビーショットガン",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "インディGフリップ",
     "118BD9B247A79B6E7AB2189A409B7EFA": "インディラウンダー",
     "55F09A7841788A6D5EABF7AE7C720557": "インファントリーライフル",
-    "C115B50C4700A573DC237EAC7C92E21B": "インファントリーライフル",
     "F1638A45469F392DAF5444BE0A097644": "インファントリーライフル",
     "F317A4514DE5AEE182F39DA192E355AD": "インファントリーライフル",
     "1D7BBE454E1553569F9589A7E633F06D": "無限",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "最後まで生き残った人が勝利",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "最後まで生き残ったスクワッドが勝利",
     "0E7DAF39462A8FDB208B1B94A8372C42": "空へと舞い上がり不気味な笑い声を響かせる。その後、クールダウン状態になる。",
-    "203048A346124F2326AE7489CF3CF605": "空へと舞い上がり不気味な笑い声を響かせよう。再発動で早めのキャンセルが可能。",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "空へと舞い上がり不気味な笑い声を響かせよう。再発動で早めのキャンセルが可能。",
     "261743A8479BF496B7D041B28AA7D369": "プレイヤーを遠くまで打ち上げる。",
     "86CE1B5747A296D9410A23BD7ED6275C": "爆発するムービーペンキの容れ物を発射する。",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "ウェイポイントを設置して経路を導く。",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "プレイヤーアンケート適正トークン",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "{s}アクションを割り当て直してください。",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "プランジャーボウ",
     "4567895244A3DDF0A6347DB93EA4AB9A": "ポケット ブギーボム",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "ポケットシールドバブル",
     "FB786D2942DF31556A360EBB36845337": "ポケット ショックウェーブグレネード",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "ポケット・ウィッチブルーム",
-    "09BC060C4709B5E30DB790861955D110": "パワー",
     "4CBE793B4385D3726F1EA5950991BC9C": "パワー",
     "D13EC04349B8427E99FF49AFABDD232A": "パワー",
     "D6FFC2F1422B954E038F569E60AA52EE": "パワー・アワー テンプレート",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "コソコソ",
     "61B1F6E14915E099FA166191039CA76B": "スニーキースノーマン",
     "E72D7990488977EC9E88CAA2F852A420": "スニーキースノーマン",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "スナイパーライフル: セミオート。有効射程が中～長距離のライフルで、与えるダメージは大きく、速射が可能。より正確に狙えるようスコープが付いている。",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "スナイパーライフル: サイレンサー付き。 サイレンサー付きの強力なスナイパーライフル。単発の精密射撃向けに設計されているため、連射速度は遅い。",
     "AD1D0E4849B9874FC0ADF397EB542112": "スナイパーライフル: サイレンサー付き。 サイレンサー付きの強力なスナイパーライフル。単発の精密射撃向けに設計されているため、連射速度は遅い。",
     "719A80194FE6CA987DF1FF92404DF970": "<Emphasized>構えていなくてもリロード</>されるスナイパーライフル",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "ウィンターフェストチャレンジクリアトークン",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "ウィンターフェストキー",
     "194B94D745612B291C0C0CAC0487B727": "ウィッチブルーム",
-    "EFCEF17944284794FC6D49B915B991EE": "ウィッチブルーム",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X印の示す場所！",
     "D40AA64648243870B6889FA424D3E046": "X-4ストームウイング",
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "AIアクションシーケンス",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "アセットのリスト"
   },
   "Athena": {
     "NPCHiredIndication": " (フォロワー)",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "不明な問題が発生しました！",
     "AlreadyOwnItemTitle": "不明な問題が発生しました！",
     "AlreadyOwnBPDescription": "バトルパスを贈る手続きの最中に<text color=\"FFF\">{DisplayName}</> がバトルパスを購入したため、バトルパスはあなたが受け取ることになります。\n他のフレンドに贈ることも可能です。バトルパスギフトトークンがシーズン終了までに使用されなかった場合は、950 V-Bucksに変換されあなたのアカウントへ振り込まれます。"
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "新しいギフトラップのオプションを入手！"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "未知のエラーが発生しました",
+    "RecipientCantReceiveGiftsDescription": "<text color=\"FFF\">{DisplayName}</>はギフトを受け取ることができない対象者のようです",
+    "RecipientBoughtItemsDescription": "<text color=\"FFF\">{DisplayName}</>がたった今以下のアイテムを購入したようです。",
+    "AlreadyOwnItemDescription": "<text color=\"FFF\">{DisplayName}</>がたった今このアイテムを購入したようです。",
+    "GiftChangedDescription": "ギフトの内容が変更されたようです…",
+    "GiftChangedTitle": "おっと！",
+    "GenericErrorTitle": "おっと！ 不明な問題が発生しました！",
+    "RecipientBoughtItemsTitle": "不明な問題が発生しました！",
+    "RecipientCantReceiveGiftsTitle": "不明な問題が発生しました！",
+    "AlreadyOwnItemTitle": "不明な問題が発生しました！",
+    "AlreadyOwnBPDescription": "バトルパスを贈る手続きの最中に<text color=\"FFF\">{DisplayName}</> がバトルパスを購入したため、バトルパスはあなたが受け取ることになります。\n他のフレンドに贈ることも可能です。バトルパスギフトトークンがシーズン終了までに使用されなかった場合は、950 V-Bucksに変換されあなたのアカウントへ振り込まれます。"
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "続行",
+    "GetVBucks": "V-Bucksを入手",
+    "PurchaseGift": "ギフトを購入！",
+    "ReloadVBucks": "V-Bucksを補充",
+    "SendGift": "ギフトを贈ろう！"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName}が今受け取るもの:",
+    "SocialNameInfo": "{DisplayName}が受け取るもの:",
+    "ItemsCount": "{GiftItemsCount}個のアイテム",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount}個のアイテム"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "続行",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "HLTv2からカスタマイズUIプラグイン",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "Junoツール",
     "SpatialMetricProfiler": "SpatialProfiler",
     "WeaponModernizationEditorCommands": "武器近代化ツール"
   },
@@ -3837,8 +3863,8 @@
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
-    "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "ExtensionName": "Junoツール",
+    "ConfigurePrefabTool": "プレハブ"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "{resourcetype}を{amount}個投入する",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "このアイテムはこれ以上持てません！",
     "PlayerKickedCallout": "無操作状態が続いたため、プレイヤー{PlayerName}はキックされました。",
     "PlayerKickedSoonCallout": "無操作状態が続いているため、{PlayerName}がキックされます。",
-    "IdleWarning": "チームはあなたの助けを必要としています！ このままチームに協力しない場合は、レイに拠点へ戻されてしまいますので、ご注意ください。"
+    "IdleWarning": "チームがあなたの助けを必要としています！ このままチームに協力しない場合は、レイに送り返されてしまいますので、ご注意ください。\n戻るまで{SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "プレイセットを表示"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "ポーズのデバッグオプションにアクセスするためのノード",
     "OrientationWarping": "向きのゆがみ",
     "OrientationWarpingTooltip": "ルートボーンが運動の方向に合うように、かつ脊髄の回転と反対になるように向きを変える。",
+    "SimpleFootPlantingTooltip": "接地したらIKの足をその場に固定し、アニメーションの足が固定位置から離れる動きに合わせてブレンドを解除する。スロープワーピングとは無関係に作動する。",
     "AttackIKTooltip": "攻撃アニメーションの際、IKボーンに合わせて手/足を配置します。",
     "FortAnimNode_CurveFilterSlot_Tooltip": "アニメーションモンタージュを使ってコードからアニメーションを再生する",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "アニメーションモンタージュを使ってコードからアニメーションを再生する",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "ミューテーターを使用してキャラクターのボーンをスケールしよう。",
     "ScaleHuskBonesTooltip": "ハスクの種類に応じてボーンをスケールする(ドワーフハスクは小さな体の割に頭部が大きい、など)",
     "SetIKTarget_Description": "足のIKターゲットを設定",
+    "SimpleFootPlanting": "シンプルな足のプランティング",
     "SpeedWarping": "スピードワーピング",
     "RootSlopeTiltTooltip": "スケルトンの底部を定率で傾けながら床の標準値に近づけます。そうすることで、すでに傾いている胴部に応じて、斜面下方の屈曲ノードが手足の位置を再定義します。",
     "TransformRollerTreads": "車輪型/歩行型を変身",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "エネルギー",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "フレンド",
+    "GiftingPartyMembersList": "パーティーメンバー"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "フレンド",
     "GiftingPartyMembersList": "パーティーメンバー"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "クリーンアップ中…",
     "LogoutUsabilityExperiment": "クリーンアップ中…",
     "FailedClientSettingsDownloadTitle": "クラウドダウンロードに失敗しました",
+    "LoginXmppAsync": "パーティーサービスに接続中…",
     "ConsoleConnectionChangePromptTitle": "接続状態変更",
     "QueryKeychainNoMcpMsg": "キーチェーンのダウンロード時にMCPへアクセスできませんでした",
     "CreatingParty": "パーティーを作成中…",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "自動発射",
     "AutoInteractContainers_Name": "コンテナ自動開封",
     "AutoOpenDoors_Name": "ドアの自動オープン",
+    "AutoPickUpEnabled_Name": "アイテムの自動回収",
     "AutoPickupWeaponsConsolePC_Name": "武器の自動回収",
     "AutoPickupWeapons_Name": "武器の自動回収",
     "AutoInteractRevives_Name": "チームメイト自動復活",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "建築素材の自動非表示",
     "AutoSetQuality_Action": "自動設定",
     "AutoSetQuality_Name": "クオリティの自動設定",
+    "MobileAutofireCollection_Name": "AutoFire",
     "TouchAutomationsCollection_Name": "自動アクション",
     "AutomaticallyApplyXP_Name": "自動適用 - キャラクターXP",
     "DynamicResolution_Description": "GPU負荷に応じて3D解像度を自動調整します。 GPU使用率が低いとき、解像度はネイティブ解像度を上限に上昇します。 GPU使用率が高いとき、解像度は最小3D解像度を下限に低下します。",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "ジオメトリ設定を上げると、オブジェクトの形状をよりきめ細かに描画します。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。",
     "TextureQuality_Description_Default": "テクスチャの設定を上げると、フラットなオブジェクトの表面をよりきめ細かに描画します。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。",
     "TextureQuality_Description_NoHighMips": "テクスチャ設定を上げると、フラットなオブジェクトの表面がよりきめ細かに描画されます。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。<Icon.Warning></> 高品質テクスチャがインストールされていません。Epic Games Launcherのフォートナイトのインストールオプションからダウンロードできます。",
+    "TextureQuality_Description_EpicAssetsInstalled": "テクスチャ設定を上げると、フラットなオブジェクトの表面がよりきめ細かに描画されます。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。現在、最高品質のテクスチャがインストールされています。容量を解放し、ゲームプレイ中にアセットをストリーミングするには、Epic Games Launcherのフォートナイトインストールオプションからテクスチャをアンインストールしてください。",
+    "TextureQuality_Description_EpicAssetsStreamed": "テクスチャ設定を上げると、フラットなオブジェクトの表面がよりきめ細かに描画されます。設定を上げるとオブジェクトはより細やかに描画されますが、パフォーマンスが低下する場合があります。デフォルトでは、最高品質のテクスチャがオンデマンドでストリーミングされます。Epic Games Launcherのフォートナイトインストールオプションから必要に応じてダウンロードすることで、ゲームプレイ中のダウンロード量を削減することもできます。",
     "Hitmarkers_Name": "ヒットマーカー",
     "AutoClamber_On": "前に移動を長押し",
     "AutoHurdle_On": "前に移動を長押し",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "メッシュ",
     "MapPickupDotRarity_Name": "マップ拾得インジケーター",
     "FOVMinimum_Name": "最小視野角(FOV)",
+    "MobileCheatsCollection_Name": "モバイルチート",
     "MobileFPSType_Name": "モバイルフレームレート",
     "MotionBlur_Name": "モーションブラー",
     "MouseAndKeyboardBindingsCollection_Name": "マウスとキーボード",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "飛行機のコントローラー操作反転のオン/オフを切り替えます。オンの場合、前に動かすと飛行機が下降します。",
     "InvertPitchForAircraftSecondary_Description": "飛行機のマウス操作の反転オン/オフを切り替えます。オンの場合、マウスを前に動かすと飛行機が下降します。",
     "InvertPitchForAircraftTouch_Description": "飛行機のタッチ操作反転のオン/オフを切り替えます。オンの場合、タッチを前に動かすと飛行機が下降します。",
+    "AutoPickUpEnabled_Description": "アイテムの自動回収のオン/オフを切り替えます。オンの場合、アイテムの上を通ると自動的に回収します。",
     "AutoSortConsumablesToHigherSlots_Description": "「消耗品をより大きい番号のスロットに自動ソート」のオン/オフを切り替えます。オンの場合、体力回復やシールド回復などの消耗アイテムを拾うと、空いているクイックバースロットの最も大きい番号のスロットにデフォルトで設定されます。",
     "AutoSortConsumablesToRight_Description": "「消耗品を右側に自動ソート」のオン/オフを切り替えます。オンの場合、体力回復やシールド回復などの消耗アイテムを拾うと、空いているクイックバースロットの一番右にデフォルトで置かれます。",
     "GamepadAutoRun_Description_PS4": "ワイヤレスコントローラーのオートダッシュのオン/オフを切り替えます。オンの場合、L3ボタンを2回押し込むと自動的に前方にダッシュするので、左スティックを倒したままにする必要はありません。",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "相互フレンド{0}人"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "エンティティ「{0}」にはfort_multi_trace_weapon_componentがあるが、テンプレートがshotgun_templateではない。fort_multi_trace_weapon_componentを使用できるのはショットガンのテンプレートのみ。pistol_teplate、assault_rifle_template、sub_machine_gun_templateはfort_trace_weapon_componentを使用しなければならない。",
-    "ArmoryTemplates_RequiresWeaponEntity": "エンティティ「{0}」には{1}がある。これはいずれかの武器テンプレート(pistol_template、assault_rifle_template、shotgun_template、sub_machine_gun_templateなど)でのみ使用できる。",
-    "ArmoryTemplates_ShotgunRequiresMulti": "エンティティ「{0}」はshotgun_templateだが、fort_multi_trace_weapon_componentがない。ショットガンはfort_multi_trace_weapon_componentを使用しなければならない(fort_trace_weapon_componentは使用しない)。"
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "エンティティ'{0}'は{1}を保持していますが、許可されているのは{2}のみです。",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "アーキタイプ「{0}」にはメインバリアントがありません。「{1}」のタグがつけられたバリアントは必ず1つでなければなりません。",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "KPOPガールズ! デーモン・ハンターズ",
     "LegoIslandTag": "レゴの島",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "スピードラン",
     "SolidWaveIslandTag": "イカゲーム",
     "TmntIslandTag": "TMNT",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index}.{Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "インプレース",
+    "Toolbar": "スナップエディタのツールバー"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "Juno接続データのフラグ",
@@ -10576,43 +10613,51 @@
     "ConsolidatePrimitivesCombined": "リダイレクターを作成中 - /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "リダイレクターを作成中 - /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "リダイレクターを作成中 - /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "'{0}'アセットを収集中",
+    "UpdateGeneratedMeshes": "汚れたメッシュを生成中",
+    "PrintAtomModelsInfo": "Atomモデル情報をプリントアウト中",
     "RepairGeneratedMeshes": "Atomモデルを修復中",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "プリミティブプロセッサを実行中: {0} ({1})",
+    "RegeneratePrimitives": "プリミティブプロセッサを実行中…",
+    "UpdateAllAtomModelsToUseProcessors": "Atomモデルをアップデート中"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "Juno フロントエンド クラフトデータツール",
     "ImGuiFrontendCraftingDataToolTooltip": "フロントエンドで使用するUIデータをコピーするためのツール"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "プロセッサが設定されていますが、メッシュを生成する必要があります。",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "プロセッサが設定されていませんが、生成されたメッシュを参照しています"
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "行の構造体'{0}'はクライアント専用モジュール'{1}'で定義されていますが、サーバーでロードされる'{2}'から参照されています。構造体をランタイムモジュールに移動するか、データがクライアントにのみ読み込まれるようにしてください。"
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "自動インスタンス化されたメッシュがありません",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "無効なプロキシメッシュがあります",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "オート・インスタンスド・メッシュが1個以上必要",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "プロキシメッシュが1つ以上必要"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "置き換えに設定された注目スポット行「{0}」にReplacementPOIの名前がないため、削除のみ行われます。置き換えに設定されたものに名称を設定するか、IneligibleActionを削除に設定してください。",
+    "ReplacementDisabled": "注目スポット行「{0}」の名前が、ReplacementPOIとして設定されている行「{1}」を無効化しているため、置き換えは必ず失敗し、スロットが解放されるだけになります。",
+    "ReplaceWithSelf": "注目スポット行「{0}」がReplacementPOIとしてそれ自体を指定しています。置き換えられる行が、置き換え元のものと同様に要件を満たさなくなります。",
+    "EmptyBiomes": "POIの行「{0}」にバイオーム名がないため、配置できません。属するバイオームの名前を挙げてください。",
+    "IneligibleActionOnUnsupportedType": "注目スポット行「{0}」にIneligibleActionが設定されていますが、オーバーワールドの注目スポットではないため無視されます。洞窟、洞窟の入口、橋、釣りスポットの注目スポットには独自の解体状態がありますが、リタイアメントパスではモデル化されていません。",
+    "ReplacementCycle": "注目スポット行の「{0}」と「{1}」が、互いの名前を代替として指定しています。どちらかを削除して、循環を止める必要があります。"
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "プレイリストタグ「{1}」用のPlaylistBaseDataTableOverrides[{0}]: オーバーライドテーブル「{2}」は行構造「{3}」を用いていますが、ベーステーブル「{4}」は行構造「{5}」を用いています。異なる行タイプでデータテーブルをオーバーライドすると、実行時にメモリが破損します。オーバーライドテーブルは、ベーステーブルと全く同じ行構造を使用する必要があります。"
   },
   "JunoValidator_StaticMesh": {
-    "JunoValidator_StaticMesh_InvalidLODs": "Asset contains invalid LOD chain",
-    "JunoValidator_StaticMesh_OpaqueExport": "Can be deleted because it no longer contains transparent materials",
-    "JunoValidator_StaticMesh_CommonParts_Tag": "Common Parts mesh doesn't have 'Render.CommonParts' Atom tag",
-    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Common Parts mesh doesn't have AtomMergedMesh_CommonParts LODGroup",
-    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
-    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
-    "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_InvalidLODs": "アセットに無効なLODチェーンが含まれています",
+    "JunoValidator_StaticMesh_OpaqueExport": "透明のマテリアルを含まなくなったので、削除することが可能です",
+    "JunoValidator_StaticMesh_CommonParts_Tag": "共通パーツのメッシュに'Render.CommonParts'のAtomタグがありません",
+    "JunoValidator_StaticMesh_CommonParts_LODGroup": "共通パーツのメッシュにAtomMergedMesh_CommonParts LODGroupがありません",
+    "JunoValidator_StaticMesh_CommonParts_NumLODs": "共通パーツのメッシュに1つだけのLODが含まれていません",
+    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroupの名前が'AtomMergedMesh'から始まるものではありません",
+    "JunoValidator_StaticMesh_TransparentExport": "透明のマテリアルを含まずに再生成される必要があります",
+    "JunoValidator_StaticMesh_NumLODs": "1つのLODしかありません"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "メモリ残量少",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "ライトUIキット"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*開発*理由の表示: {0}",
     "Connecting": "接続中",
@@ -10849,8 +10897,8 @@
     "Europe": "ヨーロッパ",
     "Middle East": "中東",
     "NA-Central": "アメリカ-中部",
-    "NA-East": "アメリカ-東",
     "NA-West": "アメリカ-西",
+    "North America": "北米",
     "Oceania": "オセアニア",
     "Undefined": "定義なし"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "NearbySubjectにUMonologueComponentが渡されませんでした",
     "SpatialContextNoSelf": "SpatialContextにUMonologueComponentが渡されていません",
     "SpatialContextNoPawn": "SpatialContext - サブジェクトからポーンを取得できませんでした"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "ロビードロップを非表示にする",
+    "LobbyDropsCollectionGame_Name": "ロビードロップ",
+    "HideLobbyDrops_Description": "有効にすると、バトルロイヤル、Blitz、リロードのロビーからロビードロップを非表示にします。ロビードロップからドロップを受け取ることはできなくなります。"
   },
   "MyTownManager": {
     "MissingPersonalityName": "{0}の位置を確認できない",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "<Username>{Username}</>がパーティーを離脱しました",
     "MemberKickedToast": "<Username>{Username}</>はパーティーからキックされました",
     "UnableToJoinCheckingForRejoin": "可能なマッチがあるか確認しています。お待ちください。",
+    "EpicPartyJoinFailedNoResponse_Title": "パーティーに参加できませんでした",
     "EpicPartyJoinFailedPrivate_Title": "パーティーに参加できませんでした",
     "UnableToJoinPartyPrivate_Title": "パーティーに参加できませんでした",
     "FailedPartyJoin": "パーティーへの参加に失敗しました",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "パワーレート情報を取得できません。",
     "UnableToJoinUserBuildHigherFormat": "<Username>{0}</>のパーティーに参加できません。相手のフォートナイトのバージョンより古いバージョンを使用しています。",
     "UnableToJoinUserBuildLowerFormat": "<Username>{0}</>のパーティーに参加できません。相手のフォートナイトのバージョンより新しいバージョンを使用しています。",
+    "EpicPartyJoinFailedNoResponse": "<Username>{0}</>のパーティーに参加できませんでした。",
     "UnableToJoinDeniedUserUnknownResult": "<Username>{0}</>のパーティーに参加できませんでした。拒否理由のコード {1}",
     "EpicPartyJoinFailedUnknown": "<Username>{0}</>のパーティーに参加できませんでした。エラーコード{1}",
     "UnableToJoinUserUnknownResult": "<Username>{0}</>のパーティーに参加できませんでした。エラーコード{1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "パーティーに参加できませんでした。拒否理由のコード {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "パーティーに参加できませんでした。エラーコード{0}",
     "UnableToJoinPartyUnknownResult": "パーティーに参加できませんでした。エラーコード{0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "そのパーティーに参加できません。",
     "ReadyTextSpectatingGame": "ゲームを観戦中",
     "ReadyTextWatchingReplay": "リプレイを視聴中",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "すでにそのパーティーに参加しています",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "{Year}年{Month}月{Day}日の{Time}({TimeZone})に終了します"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "スナップのエントリーを削除する",
+    "DuplicateSnapEntries": "スナップエントリーの重複",
+    "PasteSnapEntries": "スナップエントリーを貼り付ける",
+    "SelectSnapEntry": "スナップポイントを選択"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "残り{0}"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "無事に<text color=\"FFF\">{DisplayName}</>へギフトを贈りました！"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "無事に<text color=\"FFF\">{DisplayName}</>へギフトを贈りました！"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "全て",
     "CategoriesGroupNameKey": "カテゴリー",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "空白の名前を設定しようとしています。"
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "プレハブを調整"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "マッチから離脱して{LinkCode}をプレイしますか？",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "すべてのHLTv2設定を新しいカスタマイズUIフレームワークに移行するための、HLTv2からカスタマイズUI移行ツールを開く"
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "プレハブを調整",
+    "BeginConfigurePrefabTool_ToolTip": "プレハブを調整"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "空間プロファイラを開く",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "ゲームに再参加できません。再接続試行の上限を越えました。"
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "アセットのリスト"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "コーデックスのデータテーブル[行{0}]には有効なサブカテゴリーのタグがありません。",
     "NeitherItemNorTag": "コーデックスのデータテーブル[行{0}]にはアイテムの定義もアイデンティティのタグもありません。少なくとも1つは必要です。",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "コーデックスデータテーブル[行{0}]はフレンドリーなNPCのようですが、AIスポナーデータが設定されていません。",
     "CategoryTagInvalid": "コーデックスのデータテーブル[行{0}]には有効なカテゴリーのタグがありません。",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "コデックスデータテーブル [{0}] で参照されているアイテム [{1}] は、[{2}] でパッケージのプラグインがクックされるときには存在しません。行を削除するか、アイテムのリリースバージョンを更新して一致させてください。"
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "ダイアログデータテーブル[行{0}]のプロパティ[{1}]に無効なテキストが含まれています: {2}\"{3}\""
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] に空のRequiredIngredientsタグが含まれています！！これにより、ランタイムで問題が発生する可能性があります。",
     "DirectOutputsWithLootTierKey": "FCraftingFormula[{0}]には、ResultLootTierKeyと直接出力(ExtraDataエントリ)の両方が設定されています。ResultLootTierKeyまたは直接出力エントリを削除"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "アクター名[{0}]のFJunoGuidedBuildingDataには、空のレシピがあります！これにより、ランタイムで問題が発生する可能性があります。"
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "インデックス[{0}]のFJunoGuidedBuildingDisplayActorDataEntryに空白のレシピがあります！ これにより、ランタイムで問題が発生する可能性があります。"
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "アイテム[{0}]のリリースバージョンは[{1}]ですが、プラグインが[{3}]でクックされる戦利品テーブル[{2}]によって参照されています。この戦利品テーブルが実行されると、アイテムは出現しません。アイテムを戦利品テーブルから削除するか、アイテムのリリースバージョンを更新して、プラグインのバージョンに合わせてください。"
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "ジャーナルデータテーブル[行{0}]には報酬を付与するCompletionReactionタイプがありますが、GrantToWorldに設定されています。すべてのプレイヤーに正しく付与するには、GrantToParticipantsである必要があります。",
     "TextInvalid": "ジャーナルデータテーブル[行{0}]のプロパティ[{1}]に無効なテキストが含まれています: {2}\"{3}\"",
     "PrereqQuestProgressNotification": "ジャーナルのデータテーブル[行{0}]、前提条件インデックス[{1}]のクエストのbHideQuestProgressNotificationはオンにする必要があります",
     "PrereqQuestStartingToast": "ジャーナルのデータテーブル[行{0}]、前提条件インデックス[{1}]のクエストのbShouldDisplayStartingToastはオフにする必要があります",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}] AwesomeLevelIndexは{2}のUpgradeRequirementsの有効なインデックスではありません。",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}] CampTagConfigKeyはFJunoAwesomePoiConfigTableRow DataTableにマップされません。",
     "PrereqTownbuilderInvalidNoValidALI": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]には有効なAwesomeLevelIndexがありません。",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]に有効なCampTagConfigKeyタグがありません。",
     "PrerequistitesInvalidNoValidPreReqType": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]には有効な前提条件タイプがありません。",
     "PrereqQuestInvalidNotNeededPFComponent": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]にはPersistenceFramework",
     "PrereqQuestInvalidQuestSoftPtr": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]には無効なクエストSoftPtr [{2}]。",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]にはQuestDefなし。",
     "PrereqTownbuilderInvalidRCButEmptyRL": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]はResourceCostを参照していますが、{2}のResourceListは空です。",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "ジャーナルのデータテーブル[行{0}]、前提条件のインデックス[{1}]、{3}のUpgradeStages向けのUpgradeStepIdentifer {2}でUpgradeStepが見つかりませんでした。",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "ジャーナルデータテーブル [行 {0}]には前提条件がありません。",
+    "CategoryTagInvalid": "ジャーナルのデータテーブル[行{0}]には有効なカテゴリーのタグがありません。",
+    "CompletionReactionsInvalid": "ジャーナルのデータテーブル[行{0}]は、CompletionReactionインデックス[{1}]を介して公開されるように設定されています。",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "ジャーナルのデータテーブル[行{0}]は、NextTaskRowNameを通じ自動で表示されるように設定されています。RevealNextTaskOnCompleteのチェックを外してブロックを解除し、エンジニアに相談してください！",
     "CompletionReactionsInvalid_RowNotExist": "ジャーナルのデータテーブル[行{0}]は完了時、存在しない[行{1}]を開示します。",
     "CompletionReactionsInvalid_AutoReveal": "ジャーナルのデータテーブル[行{0}]は完了時、AutoRevealConditionを使用する[行{1}]を開示します。これは許可されていません。タスクの自動開示はConditionsForAutoRevealOrHideが管理します。",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "日誌データテーブル [行 {0}] で RevealNextTaskOnComplete を使用していますが、NextTaskRowName {1} が正しくありません。ボックスを再確認してください。",
+    "ValidateLoadedAsset": "ジャーナルデータテーブル[{0}]の前提条件インデックス{1}が、パッケージのプラグインが[{3}]でクックされたときに存在しないクエスト[{2}]を参照しています。行を削除するか、アイテムのリリースバージョンを更新して一致させてください。"
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "LootPackage [{0}] でアイテム [{1}] が参照されていますが、パッケージのプラグインが [{2}] でクックされる際にはこのアイテムは存在しません。行を削除するか、アイテムテムのリリースバージョンを更新して一致させてください。"
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "オブジェクトの変更",

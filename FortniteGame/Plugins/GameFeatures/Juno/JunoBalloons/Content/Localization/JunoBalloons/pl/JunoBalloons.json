@@ -3,6 +3,7 @@
     "49B378FE454107B7C0ABB48593EBEFEF": "<img id=\"Toy_Down\"></><ModalEmphasis>DÓŁ</> jest wyzwalany przez",
     "1D1E45FA40764B122FF94B865FF84E75": "<img id=\"Toy_Up\"></><ModalEmphasis>GÓRA</> jest wyzwalana przez",
     "2256DEB245C50E2AA9E748B9EC0AAB52": "Przyczep większe balony i uleć w niebo!",
+    "589BC8C545D9D766C0F02DAA67AF848E": "Przyczep większe balony i uleć w niebo!",
     "B765F16245D3CDDF49FCBC96AECBB8E6": "Unieś",
     "46C7F27B4A5570C7071636BB7EF37E8D": "Pompujesz bardzo mocno i fruniesz!",
     "DE1B3DC54A5A2F6A61984D8910B7C15E": "Pompujesz bardzo mocno i fruniesz!",
@@ -20,18 +21,24 @@
     "2AA87E9E40F4F4D87E02BBB60A2F4230": "Duży balon aktywowalny",
     "7988ADD74C897E641532648A25A6DF3C": "Mały balon aktywowalny",
     "4BF3C90548F87C88D250488EF274D429": "Przymocuj duże balony do istniejących budowli i dynamicznych obiektów.",
+    "B57EF9BD4D82A829083838A7E5BE2085": "Przymocuj duże balony do istniejących budowli i dynamicznych obiektów.",
     "440F445446B80318CCC479951407C133": "Przymocuj małe balony do istniejących budowli i dynamicznych obiektów.",
     "B3815C7846E7DD14D5367CAC8F99EB48": "Przymocuj małe balony do istniejących budowli i dynamicznych obiektów.",
     "05B57A294FAB1DCF676427A33756BAF3": "Balon",
     "6912F6C0402D9B0A69215BBC06DFDEB4": "Duży balon aktywowalny",
+    "000401864743389FEA88AFA4F5CC7938": "Duży balon",
     "A166E9E64F9340DFF3A46097854A4749": "Duży balon",
     "1618D3CC4CCEF8458C2DE4AD9DF7E809": "Mały balon"
   },
   "PP_CraftingFormulas_BalloonPlacer": {
     "6495022A4829D02B261015B911B01425": "Balon aktywowalny",
+    "9EAD3440427D82936B635984CAF49DD5": "Balon aktywowalny",
+    "A100B48D4918A58E8E23A397CDF7D425": "Duży balon aktywowalny",
     "FDE747E34AEA63A021F817A7EDC9C8CD": "Duży balon aktywowalny",
     "D21109984304353E3518FF8B1261AE98": "Pływający balon",
+    "07EE1A9D424270272AFE5F95BC0C3D35": "Duży balon",
     "1A23A2F54ADBABED1627428E7C501958": "Duży balon",
+    "191F83F24C3BBC485C4F0DB6317EE0C1": "Mały balon",
     "F6D64FCE4ACECD4A2D5456AD51C8884F": "Mały balon"
   }
 }

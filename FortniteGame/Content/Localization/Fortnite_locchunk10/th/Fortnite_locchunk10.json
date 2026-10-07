@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "ดาบที่มีการโจมตีรองเป็นการกระโดดโจมตีที่รุนแรง",
     "144AC202422D81D8ECA7FDADA0248752": "ปืนไรเฟิลสุดคลาสสิกที่มีความแม่นยำสูงและระยะการยิงยอดเยี่ยม",
     "174ADE3045B991036DAB808BA3802CDA": "ปืนไรเฟิลสุดคลาสสิกที่มีความแม่นยำสูงและระยะการยิงยอดเยี่ยม",
-    "A633A07540E67656A515748EC42D2BFA": "ปืนไรเฟิลสุดคลาสสิกที่มีความแม่นยำสูงและระยะการยิงยอดเยี่ยม",
     "5CA4C768442DACE154F650919AEBF7CC": "ความตื่นเต้นและสนุกสนานเต็มสูบ ติดเครื่องด้วยการกระโดดขณะอยู่กลางอากาศ",
     "62060089487721326B23BBA33709B481": "ความตื่นเต้นและสนุกสนานเต็มสูบ ติดเครื่องด้วยการกระโดดขณะอยู่กลางอากาศ",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "ความตื่นเต้นและสนุกสนานเต็มสูบ ติดเครื่องด้วยการกระโดดขณะอยู่กลางอากาศ",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "รักษาผู้เล่นใกล้เคียงในขณะที่ใช้งาน",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "ปืนไรเฟิลจู่โจมหนัก",
     "2118AC47465E7B7FC3544E9411BEDFC9": "ปืนไรเฟิลจู่โจมหนัก +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "ปืนไรเฟิลจู่โจมหนัก",
+    "6F59A98A484163C0B20075AB5FAF04BF": "ปืนไรเฟิลจู่โจมหนัก",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "ปืนลูกซองหนัก",
     "6202063447BC0BE9C686E0B7FA3EE710": "ปืนลูกซองหนัก",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "ปืนลูกซองหนัก",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "จีฟลิปอินดี้",
     "118BD9B247A79B6E7AB2189A409B7EFA": "ราวน์เดอร์อินดี้",
     "55F09A7841788A6D5EABF7AE7C720557": "ปืนไรเฟิลทหารราบ",
-    "C115B50C4700A573DC237EAC7C92E21B": "ปืนไรเฟิลทหารราบ",
     "F1638A45469F392DAF5444BE0A097644": "ปืนไรเฟิลทหารราบ",
     "F317A4514DE5AEE182F39DA192E355AD": "ปืนไรเฟิลทหารราบ",
     "1D7BBE454E1553569F9589A7E633F06D": "ไม่จำกัด",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "โซโล่คนสุดท้ายที่รอดชีวิตคือผู้ชนะ",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "ทีมสุดท้ายที่รอดชีวิตคือผู้ชนะ",
     "0E7DAF39462A8FDB208B1B94A8372C42": "ทะยานขึ้นไปบนอากาศและหัวเราะเสียงแหลมลั่นทั่วท้องฟ้า และมีคูลดาวน์",
-    "203048A346124F2326AE7489CF3CF605": "ทะยานขึ้นไปบนอากาศและหัวเราะเสียงแหลมลั่นทั่วท้องฟ้า ใช้งานอีกครั้งเพื่อยกเลิกก่อนเวลา",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "ทะยานขึ้นไปบนอากาศและหัวเราะเสียงแหลมลั่นทั่วท้องฟ้า เปิดใช้งานอีกครั้งเพื่อยกเลิกก่อนเวลา",
     "261743A8479BF496B7D041B28AA7D369": "ดีดตัวผู้เล่นออกไปในระยะไกล",
     "86CE1B5747A296D9410A23BD7ED6275C": "ปล่อยภาชนะระเบิดที่บรรจุสีแบบภาพยนตร์",
@@ -1403,16 +1402,14 @@
     "9EC314644018A0419EA1F482397A0E43": "วางจุดทางเพื่อแนะนำเส้นทาง",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "โทเคนการมีสิทธิ์เข้าร่วมสำรวจผู้เล่น",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "โปรดผูกการดำเนินการ{s}",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "ธนูหัวดูด",
     "4567895244A3DDF0A6347DB93EA4AB9A": "ระเบิดบูกี้พกพา",
     "ECC1B5C641A0A7993449F39BB4F46B87": "ระเบิดอิมพัลส์พกพา ",
     "E61C38174110702E2CD630BAA89685BF": "รอยร้าวมิติพกพา",
-    "E522F4A843D34DAEB2A0018323D90C65": "ระเบิดเกราะพกพา",
+    "E522F4A843D34DAEB2A0018323D90C65": "ระเบิดโดมเกราะพกพา",
     "FB786D2942DF31556A360EBB36845337": "ระเบิดคลื่นกระแทกพกพา",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "ไม้กวาดแม่มดพกพา",
-    "09BC060C4709B5E30DB790861955D110": "พลัง",
     "4CBE793B4385D3726F1EA5950991BC9C": "พลัง",
     "D13EC04349B8427E99FF49AFABDD232A": "พลัง",
     "D6FFC2F1422B954E038F569E60AA52EE": "เทมเพลตช่วงเวลาแห่งพลัง",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "ลอบเร้น",
     "61B1F6E14915E099FA166191039CA76B": "มนุษย์หิมะลอบเร้น",
     "E72D7990488977EC9E88CAA2F852A420": "มนุษย์หิมะลอบเร้น",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "ปืนไรเฟิลซุ่มยิง: กึ่งอัตโนมัติ ปืนไรเฟิลระยะกลางถึงระยะไกลที่สร้างความเสียหายได้ดีและยิงได้อย่างรวดเร็ว ติดกล้องเล็งเพื่อเพิ่มความแม่นยำขณะเล็งผ่านกล้อง",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "ปืนไรเฟิลซุ่มยิง: เก็บเสียง ปืนไรเฟิลซุ่มยิงสุดทรงพลังที่ติดตั้งอุปกรณ์เก็บเสียง ซึ่งสร้างมาเพื่อการยิงทีละนัดแบบแม่นยำโดยมีอัตราการยิงต่ำ",
     "AD1D0E4849B9874FC0ADF397EB542112": "ปืนไรเฟิลซุ่มยิง: เก็บเสียง ปืนไรเฟิลซุ่มยิงสุดทรงพลังที่ติดตั้งอุปกรณ์เก็บเสียง ซึ่งสร้างมาเพื่อการยิงทีละนัดแบบแม่นยำโดยมีอัตราการยิงต่ำ",
     "719A80194FE6CA987DF1FF92404DF970": "ปืนไรเฟิลซุ่มยิงที่<Emphasized>รีโหลดได้โดยไม่ต้องถือ</>",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "โทเคนพิชิตชาเลนจ์เทศกาลฤดูหนาว",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "กุญแจเทศกาลฤดูหนาว",
     "194B94D745612B291C0C0CAC0487B727": "ไม้กวาดแม่มด",
-    "EFCEF17944284794FC6D49B915B991EE": "ไม้กวาดแม่มด",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "เครื่องหมายกากบาทตรงจุด!",
     "D40AA64648243870B6889FA424D3E046": "เครื่องบินสตอร์มวิง X4",
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "ลำดับแอ็กชันของ Ai",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "รายชื่อแอสเซท"
   },
   "Athena": {
     "NPCHiredIndication": " (ผู้ติดตาม)",
@@ -2378,7 +2375,7 @@
   "AthenaEventMatchStatusScreen": {
     "BusLaunchingInText": "รถแบทเทิลบัสจะออกใน",
     "LastStopInText": "ทุกคนลงใน",
-    "EndGameText": "จบเกม",
+    "EndGameText": "เกมโอเวอร์",
     "StormShrinkingText": "ตาพายุกำลังตีวงแคบ",
     "StormShrinkingInText": "ตาพายุจะตีวงแคบในอีก",
     "StormFormingInText": "พายุก่อตัวใน",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "มีข้อผิดพลาดบางอย่างเกิดขึ้น!",
     "AlreadyOwnItemTitle": "มีข้อผิดพลาดบางอย่างเกิดขึ้น!",
     "AlreadyOwnBPDescription": "ตอนนี้คุณจะได้รับโทเคนของขวัญแบทเทิลพาส เนื่องจาก <text color=\"FFF\">{DisplayName}</> ได้ซื้อแบทเทิลพาสในระหว่างที่คุณพยายามให้ของขวัญ\n คุณสามารถใช้โทเคนนี้เพื่อมอบแบทเทิลพาสให้เพื่อนคนอื่นเป็นของขวัญได้ ในกรณีไม่ได้ใช้โทเคนของขวัญแบทเทิลพาสจนถึงวันสุดท้ายของซีซั่น โทเคนก็จะถูกแปลงเป็นวีบั๊ก 950 หน่วยในบัญชีของคุณ"
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "คุณได้รับตัวเลือกการห่อของขวัญแบบใหม่!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ",
+    "RecipientCantReceiveGiftsDescription": "ดูเหมือนว่า <text color=\"FFF\">{DisplayName}</> จะไม่มีสิทธิ์รับของขวัญ",
+    "RecipientBoughtItemsDescription": "ดูเหมือนว่า <text color=\"FFF\">{DisplayName}</> เพิ่งซื้อไอเทมดังต่อไปนี้:",
+    "AlreadyOwnItemDescription": "ดูเหมือนว่า <text color=\"FFF\">{DisplayName}</> เพิ่งซื้อไอเทมนี้ไป",
+    "GiftChangedDescription": "ดูเหมือนว่าคอนเทนต์ของของขวัญจะมีการเปลี่ยนแปลง…",
+    "GiftChangedTitle": "โอ๊ะ!",
+    "GenericErrorTitle": "โอ๊ะ! มีข้อผิดพลาดบางอย่างเกิดขึ้น!",
+    "RecipientBoughtItemsTitle": "มีข้อผิดพลาดบางอย่างเกิดขึ้น!",
+    "RecipientCantReceiveGiftsTitle": "มีข้อผิดพลาดบางอย่างเกิดขึ้น!",
+    "AlreadyOwnItemTitle": "มีข้อผิดพลาดบางอย่างเกิดขึ้น!",
+    "AlreadyOwnBPDescription": "ตอนนี้คุณจะได้รับโทเคนของขวัญแบทเทิลพาส เนื่องจาก <text color=\"FFF\">{DisplayName}</> ได้ซื้อแบทเทิลพาสในระหว่างที่คุณพยายามให้ของขวัญ\n คุณสามารถใช้โทเคนนี้เพื่อมอบแบทเทิลพาสให้เพื่อนคนอื่นเป็นของขวัญได้ ในกรณีไม่ได้ใช้โทเคนของขวัญแบทเทิลพาสจนถึงวันสุดท้ายของซีซั่น โทเคนก็จะถูกแปลงเป็นวีบั๊ก 950 หน่วยในบัญชีของคุณ"
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "ดำเนินการต่อ",
+    "GetVBucks": "ซื้อวีบั๊ก",
+    "PurchaseGift": "ซื้อของขวัญ!",
+    "ReloadVBucks": "เติมวีบั๊ก",
+    "SendGift": "ส่งของขวัญ!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "ตอนนี้ {DisplayName} จะได้รับ",
+    "SocialNameInfo": "{DisplayName} จะได้รับ",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(one=ชิ้น,other=ชิ้น)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(one=ชิ้น,other=ชิ้น)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "ดำเนินการต่อ",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "ปลั๊กอิน HLTv2ToCustomizableUI",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "เครื่องมือจูโน่",
     "SpatialMetricProfiler": "ตัววิเคราะห์เชิงพื้นที่",
     "WeaponModernizationEditorCommands": "เครื่องมือปรับปรุงอาวุธ"
   },
@@ -3505,7 +3531,7 @@
   },
   "DownloadOnDemandAddProjectModal": {
     "DownloadOnDemandAddProjectModalAlreadyHasLinkCode": "โปรดลองอีกครั้ง - คุณมีรหัสอยู่แล้ว",
-    "DownloadOnDemandAddProjectModalInvalidLinkCode": "โปรดลองอีกครั้ง - รหัสเชื่อมโยงไม่ถูกต้อง"
+    "DownloadOnDemandAddProjectModalInvalidLinkCode": "โปรดลองอีกครั้ง - รหัสเชื่อมต่อไม่ถูกต้อง"
   },
   "DownloadOnDemandComponent": {
     "ProjectDownloadedOnServerFailedTitle": "ข้อผิดพลาดสัญญาณข้อมูล",
@@ -3836,9 +3862,9 @@
     "FailedToWriteDescriptor": "ไม่พบปลั๊กอิน '{0}'"
   },
   "FJunoViewportToolsModule": {
-    "SectionName": "Juno",
-    "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "SectionName": "จูโน่",
+    "ExtensionName": "เครื่องมือจูโน่",
+    "ConfigurePrefabTool": "ชิ้นส่วนสำเร็จรูป"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "ฝาก {amount} {resourcetype}",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "เก็บไอเทมนี้เพิ่มไม่ได้แล้ว!",
     "PlayerKickedCallout": "ผู้เล่น {PlayerName} ถูกเตะออกเพราะนิ่งเฉย",
     "PlayerKickedSoonCallout": "ผู้เล่น {PlayerName} จะถูกไล่ออกในไม่ช้าเนื่องจากนิ่งเฉย",
-    "IdleWarning": "ทีมของคุณต้องการให้คุณช่วย โปรดให้ความช่วยเหลือก่อนที่เรย์จะส่งคุณกลับไปที่โฮมเบส\nกำลังกลับใน {SecondsRemaining}"
+    "IdleWarning": "ทีมของคุณต้องการให้คุณช่วย! โปรดให้ความช่วยเหลือก่อนที่เรย์จะส่งคุณกลับไป\nจะกลับไปในอีก {SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "ดูเพลย์เซ็ต"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "โหนดสำหรับเข้าถึงตัวเลือกดีบั๊กท่าทาง",
     "OrientationWarping": "การ Warping ทิศทาง",
     "OrientationWarpingTooltip": "ปรับ RootBone ให้ตรงกับทิศทางการเคลื่อนที่ และหมุนกระดูกสันหลังไปในทิศทางตรงกันข้าม",
+    "SimpleFootPlantingTooltip": "ตรึงเท้า IK ให้อยู่กับที่เมื่อเท้าสัมผัสพื้น และค่อยๆ คลายออกเมื่อเท้าในแอนิเมชันเคลื่อนออกจากตำแหน่งที่ตรึงไว้ ทำงานแยกจาก Slope Warping",
     "AttackIKTooltip": "วางมือ/เท้าตามกระดูก IK ระหว่างแอนิเมชันการโจมตี",
     "FortAnimNode_CurveFilterSlot_Tooltip": "เล่นแอนิเมชันจากโค้ดโดยใช้ AnimMontage",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "เล่นแอนิเมชันจากโค้ดโดยใช้ AnimMontage",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "ปรับขนาดกระดูกตัวละครโดยใช้ตัวแก้ข้อมูล",
     "ScaleHuskBonesTooltip": "ปรับขนาดกระดูกของซอมบี้ฮัสค์ตามประเภทของมัน (เช่น ซอมบี้ฮัสค์แบบคนแคระตัวเล็กแต่หัวโต)",
     "SetIKTarget_Description": "ตั้งเป้าหมาย IK เท้า",
+    "SimpleFootPlanting": "การตรึงเท้าแบบง่าย",
     "SpeedWarping": "การ Warping ความเร็ว",
     "RootSlopeTiltTooltip": "เอียงฐานโครงโมเดลเข้าหาแนวตั้งฉากของพื้นตามสัดส่วนที่กำหนดไว้ เพื่อให้โหนดปรับการเคลื่อนไหวตามความลาดเอียงในลำดับถัดไปคำนวณตำแหน่งแขนขาใหม่โดยอิงจากลำตัวที่ถูกเอียงไว้แล้ว",
     "TransformRollerTreads": "แปลงล้อ/สายพาน",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "พลังงาน",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "เพื่อน",
+    "GiftingPartyMembersList": "สมาชิกปาร์ตี้"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "เพื่อน",
     "GiftingPartyMembersList": "สมาชิกปาร์ตี้"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "กำลังทำความสะอาด...",
     "LogoutUsabilityExperiment": "กำลังทำความสะอาด...",
     "FailedClientSettingsDownloadTitle": "ดาวน์โหลดจากคลาวด์ล้มเหลว",
+    "LoginXmppAsync": "กำลังเชื่อมต่อกับบริการปาร์ตี้...",
     "ConsoleConnectionChangePromptTitle": "สถานะการเชื่อมต่อมีการเปลี่ยนแปลง",
     "QueryKeychainNoMcpMsg": "ไม่สามารถเข้าถึง MCP เพื่อดาวน์โหลดคีย์เชนได้",
     "CreatingParty": "กำลังสร้างปาร์ตี้...",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "ยิงอัตโนมัติ",
     "AutoInteractContainers_Name": "เปิดกล่องไอเทมอัตโนมัติ",
     "AutoOpenDoors_Name": "เปิดประตูอัตโนมัติ",
+    "AutoPickUpEnabled_Name": "เก็บไอเทมอัตโนมัติ",
     "AutoPickupWeaponsConsolePC_Name": "เก็บอาวุธอัตโนมัติ",
     "AutoPickupWeapons_Name": "เก็บอาวุธอัตโนมัติ",
     "AutoInteractRevives_Name": "ชุบชีวิตเพื่อนร่วมทีมอัตโนมัติ",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "ซ่อนวัสดุก่อสร้างโดยอัตโนมัติ",
     "AutoSetQuality_Action": "ตั้งค่าอัตโนมัติ",
     "AutoSetQuality_Name": "ตั้งค่าคุณภาพกราฟิกอัตโนมัติ",
+    "MobileAutofireCollection_Name": "ยิงอัตโนมัติ",
     "TouchAutomationsCollection_Name": "การกระทำอัตโนมัติ",
     "AutomaticallyApplyXP_Name": "การใช้งานอัตโนมัติ - XP บุคลากร",
     "DynamicResolution_Description": "ปรับความละเอียด 3D โดยอัตโนมัติตามการใช้งาน GPU เมื่อการใช้งาน GPU ต่ำ ความละเอียดจะเพิ่มขึ้นเป็นความละเอียดเดิมที่ตั้งไว้ เมื่อการใช้งาน GPU สูง ความละเอียดจะลดลงเป็นการตั้งค่าความละเอียด 3D ขั้นต่ำ",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "การตั้งค่ารายละเอียดฉากหลังสูงช่วยให้วัตถุมีรูปร่างคมชัดมากขึ้น\nการตั้งค่านี้ให้สูงขึ้นจะทำให้วัตถุมีรายละเอียดมากขึ้น\nแต่อาจจะทำให้ประสิทธิภาพลดลงได้",
     "TextureQuality_Description_Default": "การตั้งค่าคุณภาพพื้นผิวที่สูงขึ้นทำให้วัตถรูปทรงแบนดูมีรายละเอียดมากขึ้น\nการตั้งค่านี้ให้สูงขึ้นจะทำให้วัตถุมีรายละเอียดมากขึ้น\nแต่อาจจะทำให้ประสิทธิภาพลดลงได้",
     "TextureQuality_Description_NoHighMips": "การตั้งค่าคุณภาพพื้นผิวที่สูงขึ้นทำให้วัตถุรูปทรงแบนดูมีรายละเอียดมากขึ้น การตั้งค่านี้ให้สูงขึ้นจะทำให้วัตถุมีรายละเอียดมากขึ้น แต่อาจจะทำให้ประสิทธิภาพลดลงได้\n\n<Icon.Warning></> ยังไม่ได้ติดตั้งพื้นผิวคุณภาพสูง คุณสามารถดาวน์โหลดพื้นผิวดังกล่าวได้จากตัวเลือกการติดตั้ง Fortnite ใน Epic Games Launcher",
+    "TextureQuality_Description_EpicAssetsInstalled": "การตั้งค่าคุณภาพพื้นผิวที่สูงขึ้นทำให้วัตถุรูปทรงแบนดูมีรายละเอียดมากขึ้น การตั้งค่านี้ให้สูงขึ้นจะทำให้วัตถุมีรายละเอียดมากขึ้น แต่อาจจะทำให้ประสิทธิภาพลดลงได้\n\nขณะนี้ติดตั้งพื้นผิวคุณภาพ Epic แล้ว หากต้องการเพิ่มพื้นที่ว่างและสตรีม Asset ระหว่างเล่นเกม คุณสามารถถอนการติดตั้งพื้นผิวได้จากตัวเลือกการติดตั้ง Fortnite ใน Epic Games Launcher",
+    "TextureQuality_Description_EpicAssetsStreamed": "การตั้งค่าคุณภาพพื้นผิวที่สูงขึ้นทำให้วัตถุรูปทรงแบนดูมีรายละเอียดมากขึ้น การตั้งค่านี้ให้สูงขึ้นจะทำให้วัตถุมีรายละเอียดมากขึ้น แต่อาจจะทำให้ประสิทธิภาพลดลงได้\n\nตามค่าเริ่มต้น พื้นผิวคุณภาพ Epic จะถูกสตรีมเมื่อจำเป็น หากต้องการลดการดาวน์โหลดระหว่างเล่นเกม คุณสามารถเลือกติดตั้งพื้นผิวได้จากตัวเลือกการติดตั้ง Fortnite ใน Epic Games Launcher",
     "Hitmarkers_Name": "เครื่องหมายแสดงการโดนโจมตี",
     "AutoClamber_On": "กดเดินหน้าค้าง",
     "AutoHurdle_On": "กดเดินหน้าค้าง",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "เมช",
     "MapPickupDotRarity_Name": "ตัวระบุไอเทมเก็บได้บนมินิแมป",
     "FOVMinimum_Name": "ขอบเขตการมองเห็นขั้นต่ำ (FOV)",
+    "MobileCheatsCollection_Name": "สูตรโกงมือถือ",
     "MobileFPSType_Name": "เฟรมเรตมือถือ",
     "MotionBlur_Name": "โมชั่นเบลอ",
     "MouseAndKeyboardBindingsCollection_Name": "เมาส์และคีย์บอร์ด",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "เปิด/ปิด การกลับทิศทางบังคับยานบิน เมื่อเปิด การเคลื่อนที่ไปข้างหน้าจะกดหัวเครื่องบินลง",
     "InvertPitchForAircraftSecondary_Description": "เปิด/ปิดใช้งานการกลับทิศทางการบังคับเครื่องบินด้วยเมาส์\nเมื่อเปิดใช้งาน การเคลื่อนเมาส์ไปข้างหน้าจะกดหัวเครื่องบินลง",
     "InvertPitchForAircraftTouch_Description": "เปิด/ปิด การกลับทิศทางบังคับแบบสัมผัสของยานรบ เมื่อเปิด การสัมผัสไปข้างหน้าจะทำให้ยานรบกดหัวลง",
+    "AutoPickUpEnabled_Description": "เปิด/ปิดการเก็บไอเทมอัตโนมัติ เมื่อเปิดใช้งาน จะเก็บไอเทมโดยอัตโนมัติเมื่อเดินผ่าน",
     "AutoSortConsumablesToHigherSlots_Description": "เปิด/ปิดการจัดเรียงไอเทมใช้งานไปช่องข้างบนโดยอัตโนมัติ เมื่อเปิดใช้งาน ไอเทมใช้งาน\nเช่น พลังชีวิตและเกราะ จะถูกจัดเรียงไปยังช่องว่างด้านบนสุดในแถบควิกบาร์โดยอัตโนมัติ",
     "AutoSortConsumablesToRight_Description": "เปิด/ปิดการจัดเรียงไอเทมใช้งานไปช่องด้านขวาโดยอัตโนมัติ เมื่อเปิดใช้งาน\nไอเทมใช้งาน เช่น พลังชีวิตและเกราะ จะถูกจัดเรียงไปยังช่องว่างด้านขวาสุด\nในแถบควิกบาร์โดยอัตโนมัติ",
     "GamepadAutoRun_Description_PS4": "เปิด/ปิดฟังก์ชันการวิ่งอัตโนมัติของคอนโทรลเลอร์\nเมื่อเปิดใช้งาน การกดปุ่ม L3 สองครั้งจะทำให้คุณวิ่งไปข้างหน้าโดยอัตโนมัติ\nโดยไม่จำเป็นต้องดันจอยสติ๊กอนาล็อกซ้ายไปข้างหน้าค้างไว้",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "เพื่อนที่มีร่วมกัน {0} {0}|plural(one=คน,other=คน)"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "Entity '{0}' ใช้ fort_multi_trace_weapon_component แต่เทมเพลตไม่ใช่ shotgun_template มีเพียง shotgun_template เท่านั้นที่สามารถใช้ fort_multi_trace_weapon_component ได้ ส่วน pistol_template, assault_rifle_template และ sub_machine_gun_template ต้องใช้ fort_trace_weapon_component",
-    "ArmoryTemplates_RequiresWeaponEntity": "Entity '{0}' ใช้งาน {1} อยู่ ซึ่งสามารถใช้ได้กับเทมเพลตอาวุธบางประเภทเท่านั้น (เช่น pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template)",
-    "ArmoryTemplates_ShotgunRequiresMulti": "Entity '{0}' คือ shotgun_template แต่ไม่ได้ใช้ fort_multi_trace_weapon_component ปืนลูกซองต้องใช้ fort_multi_trace_weapon_component (ไม่ใช่ fort_trace_weapon_component)"
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "Entity '{0}' ใช้งาน {1} อยู่ ทั้งที่อนุญาตให้ใช้เพียง {2}",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "Archetype '{0}' ไม่มีรูปแบบหลัก ต้องมีรูปแบบที่ติดแท็ก '{1}' เพียงหนึ่งเดียวเท่านั้น",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "เกิร์ลกรุ๊ปนักล่าปีศาจ",
     "LegoIslandTag": "เกาะ LEGO",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "เล่นเกมเร็ว",
     "SolidWaveIslandTag": "Squid Game",
     "TmntIslandTag": "เต่านินจา",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index} {Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "อยู่กับที่",
+    "Toolbar": "แถบเครื่องมือสแน็ปเอดิเตอร์"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "ธงข้อมูลการเชื่อมต่อจูโน",
@@ -10576,43 +10613,51 @@
     "ConsolidatePrimitivesCombined": "ตัวเปลี่ยนเส้นทางการสร้าง - /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "ตัวเปลี่ยนเส้นทางการสร้าง - /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "ตัวเปลี่ยนเส้นทางการสร้าง - /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "กำลังรวบรวมแอสเซท '{0}'",
+    "UpdateGeneratedMeshes": "กำลังสร้าง Dirty Meshes",
+    "PrintAtomModelsInfo": "กำลังพิมพ์ข้อมูลโมเดลอะตอม",
     "RepairGeneratedMeshes": "ซ่อมโมเดลอะตอม",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "กำลังเรียกใช้โปรเซสเซอร์ระดับพื้นฐาน: {0} ({1})",
+    "RegeneratePrimitives": "กำลังรันโปรเซสเซอร์ระดับพื้นฐาน...",
+    "UpdateAllAtomModelsToUseProcessors": "กำลังอัปเดตโมเดลอะตอม"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "เครื่องมือข้อมูลคราฟติ้ง Juno Frontend",
     "ImGuiFrontendCraftingDataToolTooltip": "เครื่องมือสำหรับคัดลอกข้อมูล UI เพื่อใช้ใน frontend"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "มีเซ็ตโปรเซสเซอร์แล้ว แต่ต้องสร้างเมช",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "ไม่มีเซ็ตโปรเซสเซอร์ แต่อ้างอิงถึงเมชที่สร้างขึ้น"
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "แถว Struct '{0}' ถูกกำหนดไว้ในโมดูลเฉพาะไคลเอนต์ '{1}' แต่อ้างอิงโดย '{2}' ซึ่งโหลดบนเซิร์ฟเวอร์ ย้าย Struct ไปยังโมดูลรันไทม์ หรือตรวจสอบให้แน่ใจว่าข้อมูลจะโหลดบนไคลเอนต์เท่านั้น"
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "มี Null Auto Instanced Mesh",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "มีพร็อกซี่เมชที่เป็น Null",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "ต้องมี Auto Instanced Mesh อย่างน้อย 1 รายการ",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "ต้องมี Proxy Mesh อย่างน้อย 1 รายการ"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "แถว POI '{0}' ถูกตั้งค่าเป็น Replace แต่ไม่ได้ระบุ ReplacementPOI ดังนั้นจึงจะถูกลบออกเท่านั้น ระบุ Replacement หรือกำหนด IneligibleAction เป็น Remove",
+    "ReplacementDisabled": "แถว POI '{0}' ระบุแถว '{1}' ที่ถูกปิดใช้งานเป็น ReplacementPOI ดังนั้นการแทนที่จะล้มเหลว และจะมีคืนเพียงช่องเท่านั้น",
+    "ReplaceWithSelf": "แถว POI '{0}' ระบุตัวเองเป็น ReplacementPOI ตัวที่นำมาแทนจะมีสถานะไม่เข้าเกณฑ์เช่นเดียวกับแถวที่มันแทนที่",
+    "EmptyBiomes": "แถวสถานที่สำคัญ '{0}' ไม่ได้ระบุชีวนิเวศไว้ เลยไม่สามารถนำไปวางได้ ตั้งชื่อชีวนิเวศที่มันอยู่",
+    "IneligibleActionOnUnsupportedType": "แถว POI '{0}' ตั้งค่า IneligibleAction ไว้ แต่ไม่ใช่ Overworld POI ดังนั้นระบบจะไม่สนใจ POI ประเภทถ้ำ ทางเข้าถ้ำ สะพาน และจุดตกปลา มีสถานะ Teardown ของตัวเองซึ่ง Retirement Pass ไม่ได้รองรับ",
+    "ReplacementCycle": "แถว POI '{0}' และ '{1}' ระบุอีกฝ่ายเป็น Replacement ยุติวงจรนี้: หนึ่งในนั้นต้องตั้งค่าเป็น Remove"
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "PlaylistBaseDataTableOverrides[{0}] สำหรับแท็กเพลย์ลิสต์ '{1}': ตาราง Override '{2}' ใช้ Row Struct '{3}' แต่ตารางต้นฉบับ '{4}' ใช้ Row Struct '{5}' การ Override Data Table ด้วย Row Type ที่แตกต่างกันจะทำให้หน่วยความจำเสียหายขณะรันไทม์ ตาราง Override ต้องใช้ Row Struct เดียวกันกับตารางต้นฉบับทุกประการ"
   },
   "JunoValidator_StaticMesh": {
-    "JunoValidator_StaticMesh_InvalidLODs": "Asset contains invalid LOD chain",
-    "JunoValidator_StaticMesh_OpaqueExport": "Can be deleted because it no longer contains transparent materials",
-    "JunoValidator_StaticMesh_CommonParts_Tag": "Common Parts mesh doesn't have 'Render.CommonParts' Atom tag",
-    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Common Parts mesh doesn't have AtomMergedMesh_CommonParts LODGroup",
-    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
-    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
-    "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_InvalidLODs": "แอสเซทมี LOD Chain ที่ไม่ถูกต้อง",
+    "JunoValidator_StaticMesh_OpaqueExport": "สามารถลบได้เนื่องจากไม่มีวัสดุโปร่งใสแล้ว",
+    "JunoValidator_StaticMesh_CommonParts_Tag": "เมซ Common Parts ไม่มีแท็กอะตอม 'Render.CommonParts'",
+    "JunoValidator_StaticMesh_CommonParts_LODGroup": "เมซ Common Parts ไม่มี AtomMergedMesh_CommonParts LODGroup",
+    "JunoValidator_StaticMesh_CommonParts_NumLODs": "เมซ Common Parts ไม่ได้มี LOD แค่อันเดียว",
+    "JunoValidator_StaticMesh_WrongLODGroup": "ชื่อ LODGroup ไม่ได้ขึ้นต้นด้วย 'AtomMergedMesh'",
+    "JunoValidator_StaticMesh_TransparentExport": "ต้องสร้างใหม่โดยไม่มีวัสดุโปร่งใส",
+    "JunoValidator_StaticMesh_NumLODs": "มี LOD ได้เพียงแค่อันเดียว"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "ความจำต่ำ",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "Lite UIKit"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*นักพัฒนา* เหตุผลที่แสดง: {0}",
     "Connecting": "กำลังเชื่อมต่อ",
@@ -10849,8 +10897,8 @@
     "Europe": "ยุโรป",
     "Middle East": "ตะวันออกกลาง",
     "NA-Central": "อเมริกาเหนือตอนกลาง",
-    "NA-East": "อเมริกาเหนือฝั่งตะวันออก",
     "NA-West": "อเมริกาเหนือฝั่งตะวันตก",
+    "North America": "อเมริกาเหนือ",
     "Oceania": "โอเชียเนีย",
     "Undefined": "ไม่ระบุ"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "ไม่มีการส่ง UMonologueComponent ไปยัง NearbySubject",
     "SpatialContextNoSelf": "ไม่มีการส่ง UMonologueComponent ไปยัง SpatialContext",
     "SpatialContextNoPawn": "SpatialContext - ไม่สามารถดึงตัวละครจาก subject ได้"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "ซ่อนล็อบบี้ดร็อป",
+    "LobbyDropsCollectionGame_Name": "ล็อบบี้ดร็อป",
+    "HideLobbyDrops_Description": "เมื่อเปิดใช้ ระบบจะซ่อนล็อบบี้ดร็อปจากล็อบบี้แบทเทิลรอยัล บลิทซ์ และรีโหลด คุณจะไม่สามารถรับดร็อปจากล็อบบี้ดร็อปได้"
   },
   "MyTownManager": {
     "MissingPersonalityName": "ไม่มีคำแปลสำหรับ {0}",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "<Username>{Username}</> ออกจากปาร์ตี้แล้ว",
     "MemberKickedToast": "<Username>{Username}</> ถูกไล่ออกจากปาร์ตี้",
     "UnableToJoinCheckingForRejoin": "กำลังตรวจสอบแมตช์ที่อาจมีอยู่ โปรดรอ",
+    "EpicPartyJoinFailedNoResponse_Title": "ไม่สามารถเข้าร่วมปาร์ตี้",
     "EpicPartyJoinFailedPrivate_Title": "ไม่สามารถเข้าร่วมปาร์ตี้",
     "UnableToJoinPartyPrivate_Title": "ไม่สามารถเข้าร่วมปาร์ตี้",
     "FailedPartyJoin": "เข้าร่วมปาร์ตี้ไม่สำเร็จ",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "ไม่สามารถรับข้อมูลพลังได้",
     "UnableToJoinUserBuildHigherFormat": "ไม่สามารถเข้าร่วมปาร์ตี้ของ <Username>{0}</> Fortnite เวอร์ชันของพวกเขาใหม่กว่าของคุณ",
     "UnableToJoinUserBuildLowerFormat": "ไม่สามารถเข้าร่วมปาร์ตี้ของ <Username>{0}</> Fortnite เวอร์ชันของพวกเขาเก่ากว่าของคุณ",
+    "EpicPartyJoinFailedNoResponse": "ไม่สามารถเข้าร่วมปาร์ตี้ของ <Username>{0}</> ได้",
     "UnableToJoinDeniedUserUnknownResult": "ไม่สามารถเข้าร่วมปาร์ตี้ของ <Username>{0}</> รหัสเหตุผลการปฏิเสธ {1}",
     "EpicPartyJoinFailedUnknown": "ไม่สามารถเข้าร่วมปาร์ตี้ของ <Username>{0}</> รหัสข้อผิดพลาด {1}",
     "UnableToJoinUserUnknownResult": "ไม่สามารถเข้าร่วมปาร์ตี้ของ <Username>{0}</> รหัสข้อผิดพลาด {1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "ไม่สามารถเข้าร่วมปาร์ตี้  รหัสเหตุผลการปฏิเสธ {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "ไม่สามารถเข้าร่วมปาร์ตี้  รหัสข้อผิดพลาด {0}",
     "UnableToJoinPartyUnknownResult": "ไม่สามารถเข้าร่วมปาร์ตี้  รหัสข้อผิดพลาด {0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "ไม่สามารถเข้าร่วมปาร์ตี้นี้ได้",
     "ReadyTextSpectatingGame": "กำลังดูเกม",
     "ReadyTextWatchingReplay": "กำลังดูรีเพลย์",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "คุณอยู่ในปาร์ตี้นั้นอยู่แล้ว",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "สิ้นสุดวันที่ {Day} {Month} {Year} เวลา {Time} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "ลบรายการสแน็ป",
+    "DuplicateSnapEntries": "ทำซ้ำรายการสแนป",
+    "PasteSnapEntries": "วางรายการสแน็ป",
+    "SelectSnapEntry": "เลือกจุดสแนป"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "เหลืออีก {0}"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "คุณส่งของขวัญให้ <text color=\"FFF\">{DisplayName}</> สำเร็จ!"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "คุณส่งของขวัญให้ <text color=\"FFF\">{DisplayName}</> สำเร็จ!"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "ทั้งหมด",
     "CategoriesGroupNameKey": "หมวดหมู่",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "ชื่อที่ตั้งว่างเปล่า"
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "กำหนดค่าพรีแฟบ"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "ออกจากแมตช์และเล่น {LinkCode}?",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "เปิด HLTv2 ที่เครื่องมือย้าย UI ที่ปรับแต่งได้เพื่อย้ายการตั้งค่า HLTv2 ทั้งหมดไปที่เฟรมเวิร์ก UI ที่ปรับแต่งได้อันใหม่"
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "กำหนดค่าพรีแฟบ",
+    "BeginConfigurePrefabTool_ToolTip": "กำหนดค่าพรีแฟบ"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "เปิด Spatial Profiler",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "ไม่สามารถกลับเข้าร่วมเกมได้ จำนวนครั้งที่พยายามกลับเข้าร่วมเกมเกินขีดจำกัด"
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "รายชื่อแอสเซท"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "ตารางข้อมูลคู่มือ [แถว {0}] ไม่มีแท็กหมวดหมู่ย่อยที่ถูกต้อง",
     "NeitherItemNorTag": "ตารางข้อมูลคู่มือ [แถว {0}] ไม่มีทั้งนิยามรายการหรือแท็กข้อมูลระบุตัวตน ต้องมีอย่างน้อยหนึ่งอัน",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "ตารางข้อมูลบันทึก [แถว {0}] ดูเหมือนว่าจะเป็น NPC ที่เป็นมิตร แต่ไม่มีชุดข้อมูล AI Spawner",
     "CategoryTagInvalid": "ตารางข้อมูลคู่มือ [แถว {0}] ไม่มีแท็กหมวดหมู่ที่ถูกต้อง",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "ตารางข้อมูลบันทึก [{0}] อ้างอิงไอเทม [{1}] ซึ่งจะไม่มีอยู่อีกต่อไปเมื่อปลั๊กอินของแพ็กเกจทำการประมวลผลสำเร็จใน [{2}] ลบแถวหรืออัปเดตเวอร์ชันเผยแพร่ของไอเทมให้ตรงกัน"
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "แถว {0} ของ Dialog Data Table มีข้อความที่ไม่ถูกต้องในพร็อพเพอร์ตี [{1}]: {2} \"{3}\""
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] มีแท็ก RequiredIngredients ว่างเปล่า!! สิ่งนี้อาจทำให้เกิดปัญหาขณะรันเกม",
     "DirectOutputsWithLootTierKey": "FCraftingFormula [{0}] มีทั้ง ResultLootTierKey และ Direct Output (รายการ ExtraData) ลบ ResultLootTierKey หรือรายการ Direct Output ออก"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData ที่มี ActorName [{0}] มีสูตรอาหารว่าง!! สิ่งนี้อาจทำให้เกิดปัญหาขณะรันเกม"
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingDisplayActorDataEntry ที่ดัชนี [{0}] มีสูตรว่างเปล่า!! สิ่งนี้อาจทำให้เกิดปัญหาขณะรันเกม"
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "ไอเทม [{0}] มีเวอร์ชันเผยแพร่ [{1}] แต่ถูกอ้างอิงโดยตารางไอเทม [{2}] ซึ่งปลั๊กอินจะคอมไพล์ใน [{3}] ไอเทมนี้จะยังไม่มีอยู่ในช่วงที่ตารางไอเทมนี้ทำงาน กรุณานำไอเทมนี้ออกจากตารางไอเทม หรืออัปเดตเวอร์ชันเผยแพร่ของไอเทมให้ตรงกับเวอร์ชันของปลั๊กอิน"
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "ตารางข้อมูลบันทึก [แถว {0}] มีประเภท CompletionReaction ที่ให้รางวัล แต่ตั้งค่าเป็น GrantToWorld  ต้องเป็น GrantToParticipants เพื่อมอบให้ผู้เล่นทุกคนได้อย่างถูกต้อง..",
     "TextInvalid": "[แถว {0}] ของ Journal Data Table มีข้อความที่ไม่ถูกต้องในพร็อพเพอร์ตี [{1}]: {2} \"{3}\"",
     "PrereqQuestProgressNotification": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] ค่า bHideQuestProgressNotification ของเควสต์ควรถูกเปิด",
     "PrereqQuestStartingToast": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] ค่า bShouldDisplayStartingToast ของเควสต์ควรถูกปิด",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] AwesomeLevelIndex ไม่ใช่ดัชนีที่ถูกต้องสำหรับ UpgradeRequirements ของ {2}",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] CampTagConfigKey ไม่แม็ปไปยังตารางข้อมูล FJunoAwesomePoiConfigTableRow",
     "PrereqTownbuilderInvalidNoValidALI": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] ไม่มี AwesomeLevelIndex ที่ถูกต้อง",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "ตารางข้อมูลบันทึก [แถว {0}] Prerequistites Index [{1}] ไม่มีแท็ก CampTagConfigKey ที่ถูกต้อง",
     "PrerequistitesInvalidNoValidPreReqType": "ข้อมูลตารางบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] ไม่มีประเภท Prereq ที่ถูกต้อง",
     "PrereqQuestInvalidNotNeededPFComponent": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] มีคอมโพเนนต์ PersistenceFramework ซึ่งไม่จำเป็น",
     "PrereqQuestInvalidQuestSoftPtr": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] Quest SoftPtr [{2}] ไม่ถูกต้อง",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] ไม่มี QuestDef",
     "PrereqTownbuilderInvalidRCButEmptyRL": "ตารางข้อมูลบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}] อ้างอิงถึง ResourceCost แต่ {2} มี ResourceList ว่างเปล่า",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "ข้อมูลตารางบันทึก [แถว {0}], ดัชนีข้อกำหนดเบื้องต้น [{1}], ไม่พบ UpgradeStep ที่มี UpgradeStepIdentifer {2} สำหรับ UpgradeStages ของ {3}",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "ตารางข้อมูลบันทึก [แถว {0}] ไม่มี Prerequistites ใดๆ",
+    "CategoryTagInvalid": "ตารางข้อมูลบันทึก [แถว {0}] ไม่มีแท็กหมวดหมู่ที่ถูกต้อง",
+    "CompletionReactionsInvalid": "ตารางข้อมูลบันทึก [แถว {0}] ถูกตั้งค่าให้เปิดเผยผ่าน CompletionReaction Index [{1}]",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "ข้อมูลตารางบันทึก [แถว {0}] ตั้งค่าให้เปิดเผยตัวเองผ่าน NextTaskRowName ยกเลิกการเลือก RevealNextTaskOnComplete เพื่อเลิกบล็อกและพูดคุยกับวิศวกร!",
     "CompletionReactionsInvalid_RowNotExist": "ตารางข้อมูลบันทึก [แถว {0}] เผยให้เห็น [แถว {1}] เมื่อเสร็จสิ้น ซึ่งไม่มีอยู่จริง",
     "CompletionReactionsInvalid_AutoReveal": "ตารางข้อมูลบันทึก [แถว {0}] เผยให้เห็น [แถว {1}] เมื่อเสร็จสิ้น ซึ่งจะใช้ AutoRevealCondition  ไม่อนุญาตให้ทำเช่นนี้ ระบบ ConditionsForAutoRevealOrHide จะจัดการการเปิดเผยหรือซ่อน Task โดยอัตโนมัติ",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "ตารางข้อมูลบันทึก [แถว {0}] ใช้ RevealNextTaskOnComplete แต่ NextTaskRowName {1} ไม่ถูกต้อง  โปรดตรวจสอบกล่องอีกครั้ง",
+    "ValidateLoadedAsset": "ตารางข้อมูลบันทึก [{0}] Prerequistites Index {1} อ้างอิงเควสต์ [{2}] ซึ่งจะไม่มีอยู่อีกต่อไปเมื่อปลั๊กอินของแพ็กเกจทำการประมวลผลสำเร็จใน [{3}] ลบแถวหรืออัปเดตเวอร์ชันเผยแพร่ของไอเทมให้ตรงกัน"
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "LootPackage [{0}] อ้างอิงไอเทม [{1}] ซึ่งจะไม่มีอยู่อีกต่อไปเมื่อปลั๊กอินของแพ็กเกจทำการประมวลผลสำเร็จใน [{2}] ลบแถวหรืออัปเดตเวอร์ชันเผยแพร่ของไอเทมให้ตรงกัน"
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "ปรับแต่งวัตถุ",

@@ -1,0 +1,20 @@
+{
+  "": {
+    "DAF7033743CCA8B78533CB97BF0DB9FF": "Tout",
+    "C9BF29D0413545CB8728E9AC4F690808": "Grand",
+    "DD59158A42F152DF2A2D9CB6460F2751": "Moyen",
+    "B3DF82B44A3D1474DA0CB7ACA0778712": "Uniquement les PNJ",
+    "98E009EB43BC45AEC143CFAE0772EBFF": "Uniquement les joueurs",
+    "E12990604F698BFC70AC9BB2AEC94359": "Envoie un signal continu aux dispositifs associés lorsqu'une créature ou un joueur se trouve à proximité.",
+    "192C643F4E67EAFAA15AFF99D0EDF91D": "Maître des capteurs",
+    "5555B8F1425787F4C54601BE82C977AC": "Taille",
+    "82C5CEDA4ACAD974C69EB9A78BC3AB0E": "Petit",
+    "6145857E49892E748B4A778F1B6F8112": "Activer"
+  },
+  "Juno_UpdateItemData": {
+    "E50128014ACB9868D624D7B5B7C9BA9D": "Capteur de proximité"
+  },
+  "PP_CraftingFormulas_GravityBeam": {
+    "7ACA7850405D916F3CD004915C09E163": "Capteur de proximité"
+  }
+}

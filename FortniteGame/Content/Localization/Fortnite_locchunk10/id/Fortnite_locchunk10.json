@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "Pedang yang memiliki serangan kuat pada lompatan kedua.",
     "144AC202422D81D8ECA7FDADA0248752": "Senapan klasik dengan tingkat akurasi tinggi dan jangkauan yang jauh.",
     "174ADE3045B991036DAB808BA3802CDA": "Senapan klasik dengan tingkat akurasi tinggi dan jangkauan yang jauh.",
-    "A633A07540E67656A515748EC42D2BFA": "Senapan klasik dengan tingkat akurasi tinggi dan jangkauan yang jauh.",
     "5CA4C768442DACE154F650919AEBF7CC": "Ledakan penuh sensasi dan kesenangan. Mulai dengan Melompat selagi di udara.",
     "62060089487721326B23BBA33709B481": "Ledakan penuh sensasi dan kesenangan. Mulai dengan Melompat selagi di udara.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "Ledakan penuh sensasi dan kesenangan. Mulai dengan Melompat selagi di udara.",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "Menyembuhkan pemain di sekitar saat aktif.",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "AR Berat",
     "2118AC47465E7B7FC3544E9411BEDFC9": "AR Berat +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "Senapan Serbu Berat",
+    "6F59A98A484163C0B20075AB5FAF04BF": "Senapan Serbu Berat",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "Senapan Gentel Berat",
     "6202063447BC0BE9C686E0B7FA3EE710": "Senapan Gentel Berat",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "Senapan Gentel Berat",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "G-Flip Indy",
     "118BD9B247A79B6E7AB2189A409B7EFA": "Putaran Indy",
     "55F09A7841788A6D5EABF7AE7C720557": "Senapan Infanteri",
-    "C115B50C4700A573DC237EAC7C92E21B": "Senapan Infanteri",
     "F1638A45469F392DAF5444BE0A097644": "Senapan Infanteri",
     "F317A4514DE5AEE182F39DA192E355AD": "Senapan Infanteri",
     "1D7BBE454E1553569F9589A7E633F06D": "Tak Terbatas",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "Yang Bertahan Terakhir Menang",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "Skuad yang Bertahan Terakhir Menang",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Meluncur ke udara dan tertawalah di langit. Sedang cooldown.",
-    "203048A346124F2326AE7489CF3CF605": "Meluncur ke udara dan tertawalah di langit. Aktifkan kembali untuk membatalkan lebih awal.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Meluncur ke udara dan tertawalah di langit. Aktifkan kembali untuk membatalkan lebih awal.",
     "261743A8479BF496B7D041B28AA7D369": "Meluncurkan Pemain jarak jauh.",
     "86CE1B5747A296D9410A23BD7ED6275C": "Meluncurkan kontainer cat sinematik yang bisa meledak.",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "Tempatkan titik jalur untuk memandu jalan.",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Token Kelayakan Survei Pemain",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "Mohon atur ulang tombol untuk aksi {s}.",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "Busur Tongkat Sedot",
     "4567895244A3DDF0A6347DB93EA4AB9A": "Bom Joget Saku",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "Gelembung Perisai Saku",
     "FB786D2942DF31556A360EBB36845337": "Granat Saku Gelombang Kejut",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "Tongkat Sapu Penyihir Saku",
-    "09BC060C4709B5E30DB790861955D110": "Kekuatan",
     "4CBE793B4385D3726F1EA5950991BC9C": "Kekuatan",
     "D13EC04349B8427E99FF49AFABDD232A": "Kekuatan",
     "D6FFC2F1422B954E038F569E60AA52EE": "Templat Puncak Kekuatan",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "Mencurigakan",
     "61B1F6E14915E099FA166191039CA76B": "Boneka Salju Licik",
     "E72D7990488977EC9E88CAA2F852A420": "Boneka Salju Licik",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "Senapan Penembak Runduk: Semiotomatis. Senapan jarak menengah hingga jauh yang menimbulkan damage besar dan dapat ditembakkan dengan cepat. Dilengkapi teropong untuk meningkatkan akurasi saat membidik.",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "Senapan Penembak Runduk: Berperedam. Senapan penembak runduk kuat yang dilengkapi dengan peredam suara, dirancang untuk tembakan tunggal presisi dengan laju tembakan yang lambat.",
     "AD1D0E4849B9874FC0ADF397EB542112": "Senapan Penembak Runduk: Berperedam. Senapan penembak runduk kuat yang dilengkapi dengan peredam suara, dirancang untuk tembakan tunggal presisi dengan laju tembakan yang lambat.",
     "719A80194FE6CA987DF1FF92404DF970": "Senapan penembak runduk yang bisa <Emphasized>mengisi ulang saat tidak digenggam</>",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "Token Penyelesaian Tantangan Festival Musim Dingin",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Kunci Festival Musim Dingin",
     "194B94D745612B291C0C0CAC0487B727": "Tongkat Sapu Penyihir",
-    "EFCEF17944284794FC6D49B915B991EE": "Tongkat Sapu Penyihir",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "Titiknya Ada di Tanda X!",
     "D40AA64648243870B6889FA424D3E046": "Stormwing X4",
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "Urutan Aksi AI",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "Daftar Aset"
   },
   "Athena": {
     "NPCHiredIndication": " (Pengikut)",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "Terjadi Kesalahan!",
     "AlreadyOwnItemTitle": "Terjadi kesalahan!",
     "AlreadyOwnBPDescription": "Sekarang, kamu akan menerima Token Kado Battle Pass karena <text color=\"FFF\">{DisplayName}</> membeli Battle Pass selama upaya pemberian Kado yang kamu lakukan.\n Kamu dapat menggunakannya untuk memberikan Battle Pass kepada teman yang lain. Jika Token Kado Battle Pass tidak digunakan hingga akhir musim, token tersebut akan dikonversi menjadi 950 V-Buck di akunmu."
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "Opsi bungkus hadiah baru diperoleh!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "Kesalahan yang tidak diketahui telah terjadi",
+    "RecipientCantReceiveGiftsDescription": "Sepertinya <text color=\"FFF\">{DisplayName}</> tidak memenuhi syarat untuk menerima hadiah.",
+    "RecipientBoughtItemsDescription": "Sepertinya <text color=\"FFF\">{DisplayName}</> baru membeli item di bawah ini:",
+    "AlreadyOwnItemDescription": "Sepertinya <text color=\"FFF\">{DisplayName}</> baru membeli item ini.",
+    "GiftChangedDescription": "Sepertinya konten hadiah telah berubah ...",
+    "GiftChangedTitle": "UPS!",
+    "GenericErrorTitle": "UPS! Terjadi kesalahan!",
+    "RecipientBoughtItemsTitle": "Terjadi Kesalahan!",
+    "RecipientCantReceiveGiftsTitle": "Terjadi Kesalahan!",
+    "AlreadyOwnItemTitle": "Terjadi kesalahan!",
+    "AlreadyOwnBPDescription": "Sekarang, kamu akan menerima Token Kado Battle Pass karena <text color=\"FFF\">{DisplayName}</> membeli Battle Pass selama upaya pemberian Kado yang kamu lakukan.\n Kamu dapat menggunakannya untuk memberikan Battle Pass kepada teman yang lain. Jika Token Kado Battle Pass tidak digunakan hingga akhir musim, token tersebut akan dikonversi menjadi 950 V-Buck di akunmu."
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "Lanjutkan",
+    "GetVBucks": "Dapatkan V-Buck",
+    "PurchaseGift": "Beli Hadiah!",
+    "ReloadVBucks": "Muat Ulang V-Buck",
+    "SendGift": "Kirim Hadiah!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName} sekarang akan menerima",
+    "SocialNameInfo": "{DisplayName} akan menerima",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(one=Item,other=Item)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(one=Item,other=Item)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "Lanjut",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "Plugin HLTv2ToCustomizableUI",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "Alat Juno",
     "SpatialMetricProfiler": "SpatialProfiler",
     "WeaponModernizationEditorCommands": "Alat Modernisasi Senjata"
   },
@@ -3837,8 +3863,8 @@
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
-    "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "ExtensionName": "Peralatan Juno",
+    "ConfigurePrefabTool": "Pracetak"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "Deposit {amount} {resourcetype}",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "Tidak bisa menyimpan lebih banyak item ini!",
     "PlayerKickedCallout": "Pemain {PlayerName} dikeluarkan karena diam.",
     "PlayerKickedSoonCallout": "Pemain {PlayerName} akan segera dikeluarkan karena diam.",
-    "IdleWarning": "Tim kamu butuh bantuanmu! Bantu sebelum Ray mengirim kamu kembali ke Pangkalan.\nKembali dalam {SecondsRemaining}"
+    "IdleWarning": "Timmu membutuhkan bantuanmu! Tolong bantu sebelum Ray mengirim kamu kembali.\nKembali dalam {SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "Lihat Perlengkapan Bermain"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "Simpul untuk mengakses opsi debug pose",
     "OrientationWarping": "Orientasi Melengkung",
     "OrientationWarpingTooltip": "Mengarahkan RootBone agar sesuai dengan arah gerak, dan memutar balik tulang belakang.",
+    "SimpleFootPlantingTooltip": "Menyematkan kaki IK di tempatnya setelah mendarat, lalu membaur kembali saat kaki yang dianimasikan bergerak menjauh dari posisi tumpuan. Terlepas dari lengkungan lereng.",
     "AttackIKTooltip": "Tempatkan tangan/kaki sesuai tulang IK selama animasi serangan.",
     "FortAnimNode_CurveFilterSlot_Tooltip": "Memutar animasi dari kode menggunakan AnimMontage",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "Memutar animasi dari kode menggunakan AnimMontage",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "Menentukan skala tulang karakter menggunakan mutator.",
     "ScaleHuskBonesTooltip": "Menentukan skala tulang Husk berdasarkan tipenya. (yaitu Husk kerdil berukuran kecil tetapi memiliki kepala besar)",
     "SetIKTarget_Description": "Atur Target IK Kaki",
+    "SimpleFootPlanting": "Penanaman Kaki Sederhana",
     "SpeedWarping": "Kecepatan Warping",
     "RootSlopeTiltTooltip": "Memiringkan akar kerangka ke arah normal lantai dengan fraksi yang dijepit, memungkinkan node slope-warp bawah menyelesaikan ulang anggota badan terhadap tubuh yang sudah miring.",
     "TransformRollerTreads": "Transformasi Rol/Tapak",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "energi",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "TEMAN",
+    "GiftingPartyMembersList": "ANGGOTA KELOMPOK"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "TEMAN",
     "GiftingPartyMembersList": "ANGGOTA KELOMPOK"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "Membersihkan ...",
     "LogoutUsabilityExperiment": "Membersihkan ...",
     "FailedClientSettingsDownloadTitle": "Pengunduhan Cloud Gagal",
+    "LoginXmppAsync": "Menghubungkan ke layanan kelompok ...",
     "ConsoleConnectionChangePromptTitle": "Perubahan Status Koneksi",
     "QueryKeychainNoMcpMsg": "Tidak bisa mengakses MCP untuk mengunduh keychain",
     "CreatingParty": "Membuat kelompok ...",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "Tembakan Otomatis",
     "AutoInteractContainers_Name": "Buka Kontainer Otomatis",
     "AutoOpenDoors_Name": "Buka Pintu Otomatis",
+    "AutoPickUpEnabled_Name": "Ambil Item Otomatis",
     "AutoPickupWeaponsConsolePC_Name": "Ambil Senjata Otomatis",
     "AutoPickupWeapons_Name": "Ambil Senjata Otomatis",
     "AutoInteractRevives_Name": "Sembuhkan Rekan Tim Otomatis",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "Sembunyikan Otomatis Material Bangunan",
     "AutoSetQuality_Action": "Atur Otomatis",
     "AutoSetQuality_Name": "Atur Kualitas Otomatis",
+    "MobileAutofireCollection_Name": "Tembakan Otomatis",
     "TouchAutomationsCollection_Name": "Tindakan Otomatis",
     "AutomaticallyApplyXP_Name": "Penerapan Otomatis - XP Karakter",
     "DynamicResolution_Description": "Secara otomatis menyesuaikan resolusi 3D berdasarkan beban GPU. Saat penggunaan GPU rendah, resolusi akan meningkat ke resolusi asli. Saat penggunaan GPU tinggi, resolusi akan turun ke pengaturan Resolusi 3D Minimum.",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "Pengaturan geometri yang lebih tinggi memberikan bentuk yang lebih detail pada objek. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.",
     "TextureQuality_Description_Default": "Pengaturan tekstur yang lebih tinggi memberikan tampilan yang lebih detail pada objek datar. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.",
     "TextureQuality_Description_NoHighMips": "Pengaturan tekstur yang lebih tinggi memberikan tampilan yang lebih detail pada objek datar. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.\n\n<Icon.Warning></> Tekstur kualitas tinggi tidak terinstal. Tekstur ini bisa diunduh dari Epic Games Launcher di Installation Options Fortnite.",
+    "TextureQuality_Description_EpicAssetsInstalled": "Pengaturan tekstur yang lebih tinggi memberikan tampilan yang lebih detail pada objek datar. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.\nTekstur kualitas Epik sudah terinstal saat ini. Untuk mengosongkan ruang dan melakukan streaming aset selama gameplay, instalasi tekstur bisa dihapus dari Epic Games Launcher di Opsi Instalasi Fortnite.",
+    "TextureQuality_Description_EpicAssetsStreamed": "Pengaturan tekstur yang lebih tinggi memberikan tampilan yang lebih detail pada objek datar. Meningkatkan pengaturan ini akan membuat objek terlihat lebih detail, tetapi dapat mengurangi performa.\nTekstur kualitas Epic ditampilkan dalam streaming sesuai permintaan secara default. Untuk mengurangi unduhan selama permainan, tekstur ini bisa diinstal secara opsional dari Epic Games Launcher di Opsi Instalasi Fortnite.",
     "Hitmarkers_Name": "Penanda Kena",
     "AutoClamber_On": "Tahan Tombol Maju",
     "AutoHurdle_On": "Tahan Tombol Maju",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "Mesh",
     "MapPickupDotRarity_Name": "Indikator Pengambilan Peta Mini",
     "FOVMinimum_Name": "Ruang Pandang (FOV) Minimum",
+    "MobileCheatsCollection_Name": "Kecurangan Seluler",
     "MobileFPSType_Name": "Frame Rate Ponsel",
     "MotionBlur_Name": "Gerakan Blur",
     "MouseAndKeyboardBindingsCollection_Name": "Mouse & Keyboard",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "Mengaktifkan atau menonaktifkan fitur pembalikan kemudi controller pada pesawat. Saat diaktifkan, pergerakan maju akan mengarahkan pesawat ke bawah.",
     "InvertPitchForAircraftSecondary_Description": "Mengaktifkan/menonaktifkan inversi kemudi mouse pesawat. Bila diaktifkan, menggerakkan mouse ke depan akan mengarahkan pesawat ke bawah.",
     "InvertPitchForAircraftTouch_Description": "Mengaktifkan/menonaktifkan inversi kemudi sentuh pesawat. Bila diaktifkan, menggerakkan sentuhan ke depan akan mengarahkan pesawat ke bawah.",
+    "AutoPickUpEnabled_Description": "Mengaktifkan/menonaktifkan ambil item otomatis. Bila diaktifkan, item akan otomatis diambil ketika dilangkahi.",
     "AutoSortConsumablesToHigherSlots_Description": "Mengaktifkan/menonaktifkan urutkan otomatis item habis pakai ke slot lebih tinggi. Saat aktif, item habis pakai seperti HP dan perisai akan secara otomatis berada pada slot bilah alih kosong paling atas saat diambil.",
     "AutoSortConsumablesToRight_Description": "Mengaktifkan/menonaktifkan sortir otomatis item habis pakai. Saat aktif, item habis pakai seperti HP dan perisai akan secara otomatis berada pada slot bilah alih kosong paling atas saat diambil.",
     "GamepadAutoRun_Description_PS4": "Mengaktifkan/menonaktifkan lari otomatis pada controller. Saat aktif, menekan Tombol L3 dua kali akan membuatmu berlari ke secara otomatis depan tanpa perlu menahan Tuas Kiri ke arah depan.",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "{0} {0}|plural(one=Teman,other=Teman) Bersama"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "Entitas '{0}' membawa fort_multi_trace_weapon_component tetapi templatnya bukan shotgun_template. Hanya templat senapan gentel yang bisa menggunakan fort_multi_trace_weapon_component; pistol_teplate, assault_rifle_template, dan sub_machine_gun_template harus menggunakan fort_trace_weapon_component.",
-    "ArmoryTemplates_RequiresWeaponEntity": "Entitas '{0}' membawa {1}. Ini hanya bisa digunakan pada salah satu templat senjata (yaitu pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template).",
-    "ArmoryTemplates_ShotgunRequiresMulti": "Entitas '{0}' adalah shotgun_template tetapi tidak membawa fort_multi_trace_weapon_component. Senapan gentel harus menggunakan fort_multi_trace_weapon_component (bukan fort_trace_weapon_component)."
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "Entitas '{0}' membawa {1} meskipun hanya mengizinkan {2}.",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "Archetype '{0}' tidak memiliki varian utama. Satu varian harus ditandai '{1}'.",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "KPop Demon Hunters",
     "LegoIslandTag": "Pulau LEGO",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "Lari Cepat",
     "SolidWaveIslandTag": "Squid Game",
     "TmntIslandTag": "TMNT",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index}. {Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "Di Tempat",
+    "Toolbar": "Bilah Alat Editor Snap"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "Bendera Data Konektivitas Juno",
@@ -10576,43 +10613,51 @@
     "ConsolidatePrimitivesCombined": "Membuat Redirector - /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "Membuat Redirector - /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "Membuat Redirector - /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "Mengumpulkan Aset '{0}'",
+    "UpdateGeneratedMeshes": "Membuat Mesh Kotor",
+    "PrintAtomModelsInfo": "Mencetak info AtomModels",
     "RepairGeneratedMeshes": "Memperbaiki Model Atom",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "Menjalankan Primitive Processor: {0} ({1})",
+    "RegeneratePrimitives": "Menjalankan Primitive Processor ....",
+    "UpdateAllAtomModelsToUseProcessors": "Memperbarui Model Atom"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "Alat Data Pembuatan Frontend Juno",
     "ImGuiFrontendCraftingDataToolTooltip": "Alat untuk menyalin data UI untuk digunakan di frontend"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Telah memiliki processor tetapi perlu menghasilkan mesh.",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "Tidak memiliki pengaturan processor, tetapi mereferensikan mesh yang dihasilkan"
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "Struktur baris '{0}' didefinisikan dalam modul khusus klien '{1}', tetapi direferensikan oleh '{2}' yang dimuat di server. Pindahkan struktur ke modul Runtime atau pastikan data hanya dimuat di klien."
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Memiliki Auto Instanced Mesh kosong",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "Memiliki Proxy Mesh kosong",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Memerlukan setidaknya satu Mesh Instance Auto",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "Memerlukan setidaknya satu Mesh Proxy"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "Baris POI '{0}' disetel ke Replace, tetapi tidak menamai ReplacementPOI, jadi baris ini hanya akan dihapus. Beri nama pengganti atau atur IneligibleAction ke Remove.",
+    "ReplacementDisabled": "Baris POI '{0}' menonaktifkan baris nama '{1}' sebagai ReplacementPOI, jadi pengganti akan selalu gagal dan slot hanya akan dikosongkan.",
+    "ReplaceWithSelf": "Baris POI \"{0}\" menamai dirinya sendiri sebagai ReplacementPOI-nya. Penggantinya akan tetap tidak memenuhi syarat seperti baris yang digantikannya.",
+    "EmptyBiomes": "Baris POI '{0}' tidak menamai bioma, jadi tidak akan pernah bisa ditempatkan. Sebutkan bioma tempatnya berada.",
+    "IneligibleActionOnUnsupportedType": "Baris POI '{0}' menetapkan IneligibleAction tetapi bukan POI Overworld, jadi akan diabaikan. Status teardown POI gua, pintu masuk gua, jembatan, dan spot memancing tidak dimodelkan oleh retirement pass.",
+    "ReplacementCycle": "Baris POI '{0}' dan '{1}' saling menamai sebagai pengganti. Putuskan siklusnya: salah satu dari mereka harus berupa Remove."
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "PlaylistBaseDataTableOverrides[{0}] untuk tag daftar putar '{1}': tabel pengambilalihan '{2}' memiliki struktur baris '{3}', tetapi tabel dasar '{4}' menggunakan struktur baris '{5}'. Mengganti tabel data dengan tipe baris yang berbeda menyebabkan kerusakan memori saat runtime. Tabel pengambilalihan HARUS menggunakan struktur baris yang sama persis dengan tabel dasar."
   },
   "JunoValidator_StaticMesh": {
-    "JunoValidator_StaticMesh_InvalidLODs": "Asset contains invalid LOD chain",
-    "JunoValidator_StaticMesh_OpaqueExport": "Can be deleted because it no longer contains transparent materials",
-    "JunoValidator_StaticMesh_CommonParts_Tag": "Common Parts mesh doesn't have 'Render.CommonParts' Atom tag",
-    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Common Parts mesh doesn't have AtomMergedMesh_CommonParts LODGroup",
-    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
-    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
-    "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_InvalidLODs": "Aset berisi rangkaian LOD yang tidak valid",
+    "JunoValidator_StaticMesh_OpaqueExport": "Bisa dihapus karena tidak lagi berisi material transparan",
+    "JunoValidator_StaticMesh_CommonParts_Tag": "Jaring Komponen Umum tidak memiliki tag Atom 'Render.CommonParts'",
+    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Jaring Komponen Biasa tidak memiliki AtomMergedMesh_CommonParts LODGroup",
+    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Mesh Komponen Umum atom memiliki lebih dari satu LOD",
+    "JunoValidator_StaticMesh_WrongLODGroup": "Nama LODGroup tidak diawali dengan 'AtomMergedMesh'",
+    "JunoValidator_StaticMesh_TransparentExport": "Perlu dibuat ulang tanpa material transparan",
+    "JunoValidator_StaticMesh_NumLODs": "Hanya memiliki satu LOD"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "Memori rendah",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "KitUI Lite"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "Alasan *Dev* yang ditampilkan: {0}",
     "Connecting": "MENGHUBUNGKAN",
@@ -10849,8 +10897,8 @@
     "Europe": "Eropa",
     "Middle East": "Timur Tengah",
     "NA-Central": "NA-Pusat",
-    "NA-East": "NA-Timur",
     "NA-West": "NA-Barat",
+    "North America": "Amerika Utara",
     "Oceania": "Oseania",
     "Undefined": "Tidak Diketahui"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "Tidak ada UMonologueComponent yang diteruskan ke NearbySubject",
     "SpatialContextNoSelf": "Tidak ada UMonologueComponent yang diberikan ke SpatialContext",
     "SpatialContextNoPawn": "SpatialContext - Tidak dapat mengambil Pion dari subjek"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "Sembunyikan Drop Lobi",
+    "LobbyDropsCollectionGame_Name": "Drop Lobi",
+    "HideLobbyDrops_Description": "Jika diaktifkan, akan menyembunyikan Drop Lobi dari lobi Battle Royale, Blitz, dan Reload. Kamu tidak akan bisa mengambil drop dari Drop Lobi."
   },
   "MyTownManager": {
     "MissingPersonalityName": "Tidak ada pelokalan untuk {0}",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "<Username>{Username}</> meninggalkan kelompok",
     "MemberKickedToast": "<Username>{Username}</> dikeluarkan dari kelompok",
     "UnableToJoinCheckingForRejoin": "Memeriksa kemungkinan pertandingan yang ada, silakan tunggu.",
+    "EpicPartyJoinFailedNoResponse_Title": "Tidak bisa bergabung dengan kelompok",
     "EpicPartyJoinFailedPrivate_Title": "Tidak bisa bergabung dengan kelompok",
     "UnableToJoinPartyPrivate_Title": "Tidak bisa bergabung dengan kelompok",
     "FailedPartyJoin": "Gagal bergabung dalam kelompok",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "Tidak bisa mendapatkan info rating kekuatan.",
     "UnableToJoinUserBuildHigherFormat": "Tidak bisa bergabung dalam kelompok <Username>{0}</>; versi Fortnite mereka lebih baru dari milikmu.",
     "UnableToJoinUserBuildLowerFormat": "Tidak bisa bergabung dalam kelompok <Username>{0}</>; versi Fortnite mereka lebih lama dari milikmu.",
+    "EpicPartyJoinFailedNoResponse": "Tidak bisa bergabung dalam kelompok <Username>{0}</>.",
     "UnableToJoinDeniedUserUnknownResult": "Tidak bisa bergabung dalam kelompok <Username>{0}</>.  Kode Alasan Penolakan {1}",
     "EpicPartyJoinFailedUnknown": "Tidak bisa bergabung dalam kelompok <Username>{0}</>.  Kode Kesalahan {1}",
     "UnableToJoinUserUnknownResult": "Tidak bisa bergabung dalam kelompok <Username>{0}</>.  Kode Kesalahan {1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "Tidak bisa bergabung dalam kelompok.  Kode Alasan Penolakan {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "Tidak bisa bergabung dalam kelompok.  Kode Kesalahan {0}",
     "UnableToJoinPartyUnknownResult": "Tidak bisa bergabung dalam kelompok.  Kode Kesalahan {0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "Tidak bisa bergabung dalam kelompok itu.",
     "ReadyTextSpectatingGame": "Menonton Game",
     "ReadyTextWatchingReplay": "Menonton Rekaman Ulang",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "Kamu sudah berada di kelompok itu",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "Berakhir {Day} {Month} {Year} pukul ({Time} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "Hapus Entri Snap",
+    "DuplicateSnapEntries": "Salin Entri Snap",
+    "PasteSnapEntries": "Tempel Entri Snap",
+    "SelectSnapEntry": "Pilih Titik Snap"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "Sisa {0}"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "Kamu berhasil mengirimkan hadiah kepada <text color=\"FFF\">{DisplayName}</>!"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "Kamu berhasil mengirimkan hadiah kepada <text color=\"FFF\">{DisplayName}</>!"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "Semua",
     "CategoriesGroupNameKey": "Kategori",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "Mencoba mengatur nama yang kosong."
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "Konfigurasi Prefab"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "Tinggalkan pertandingan dan mainkan {LinkCode}?",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Buka HLTv2 ke Alat Migrator UI yang Bisa Dikustom untuk melakukan migrasi semua pengaturan HLTv2 ke kerangka kerja UI baru yang bisa dikustom."
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "Konfigurasi Prefab",
+    "BeginConfigurePrefabTool_ToolTip": "Konfigurasi Prefab"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "Buka Profiler Spasial",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "Tidak dapat bergabung kembali ke game. Upaya maks untuk bergabung kembali telah terlampaui."
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "Daftar Aset"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "Tabel data kodeks [baris {0}] tidak memiliki tag SubCategory yang valid.",
     "NeitherItemNorTag": "Tabel data kodeks [baris {0}] tidak memiliki definisi item maupun tag identitas. Harus memiliki setidaknya satu.",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "Tabel data kodeks [baris {0}] sepertinya merupakan NPC ramah tetapi tidak memiliki set data Spawner AI.",
     "CategoryTagInvalid": "Tabel data kodeks [baris {0}], tidak memiliki tag Kategori yang valid.",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "Tabel data Codex [{0}] mereferensikan item [{1}] yang tidak akan ada saat plugin paket dimuat di [{2}]. Hapus baris, atau perbarui versi rilis item agar sesuai."
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "Tabel data dialog [baris {0}] memiliki teks tidak valid di properti [{1}]:{2}\"{3}\""
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] berisi tag RequiredIngredients kosong!! Ini mungkin akan menyebabkan masalah saat runtime.",
     "DirectOutputsWithLootTierKey": "FCraftingFormula [{0}] memiliki ResultLootTierKey dan Output Langsung (entri ExtraData). Hapus entri ResultLootTierKey atau Output Langsung"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData dengan ActorName [{0}] punya resep kosong!!Ini mungkin akan menyebabkan masalah saat runtime."
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingDisplayActorDataEntry pada indeks [{0}] berisi resep kosong! Ini mungkin akan menyebabkan masalah saat pengoperasian."
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "Item [{0}] memiliki versi rilis [{1}] tapi dirujuk oleh tabel jarahan [{2}] yang plugin-nya diproses di [{3}]. Item tidak akan ada saat tabel jarahan ini berjalan. Hapus item dari tabel jarahan, atau perbarui versi rilis item agar sesuai dengan versi plugin."
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "Tabel data jurnal [baris {0}] memiliki tipe CompletionReaction yang memberikan hadiah, tetapi diatur ke GrantToWorld.Harus GrantToParticipants untuk memberikan ke semua pemain dengan benar..",
     "TextInvalid": "Tabel data jurnal [baris {0}] memiliki teks tidak valid di properti [{1}]:{2}\"{3}\"",
     "PrereqQuestProgressNotification": "Tabel data jurnal [baris {0}], quest Indeks Prasyarat [{1}] bHideQuestProgressNotification harus aktif",
     "PrereqQuestStartingToast": "Tabel data jurnal [baris {0}], quest Indeks Prasyarat [{1}] bShouldDisplayStartingToast harus nonaktif",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}], AwesomeLevelIndex bukan indeks yang valid untuk UpgradeRequirements {2}.",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] CampTagConfigKey tidak memetakan ke DataTable FJunoAwesomePoiConfigTableRow.",
     "PrereqTownbuilderInvalidNoValidALI": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] tidak memiliki AwesomeLevelIndex yang valid.",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] tidak memiliki tag CampTagConfigKey yang valid.",
     "PrerequistitesInvalidNoValidPreReqType": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] tidak memiliki Tipe Prasyarat yang valid.",
     "PrereqQuestInvalidNotNeededPFComponent": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] memiliki komponen PersistenceFramework, ini tidak diperlukan.",
     "PrereqQuestInvalidQuestSoftPtr": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] memiliki SoftPtr Quest yang tidak valid [{2}].",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] tidak memiliki QuestDef.",
     "PrereqTownbuilderInvalidRCButEmptyRL": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}] mereferensikan ResourceCost, tapi {2} memiliki ResourceList yang kosong.",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "Tabel data jurnal [baris {0}], Indeks Prasyarat [{1}], Tidak dapat menemukan UpgradeStep dengan UpgradeStepIdentifer {2} untuk UpgradeStages {3}.",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "Tabel data jurnal [baris {0}], tidak memiliki Prasyarat.",
+    "CategoryTagInvalid": "Tabel data jurnal [baris {0}], tidak memiliki tag Kategori yang valid.",
+    "CompletionReactionsInvalid": "Tabel data jurnal [baris {0}], diatur untuk ditampilkan via Indeks Reaksi Penyelesaian [{1}].",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "Tabel data jurnal [baris {0}], diatur untuk mengungkapkan dirinya melalui NextTaskRowName, hapus centang RevealNextTaskOnComplete untuk membuka blokir dan berbicara dengan teknisi!",
     "CompletionReactionsInvalid_RowNotExist": "Tabel data jurnal [baris {0}], menampilkan [baris {1}] setelah penyelesaian, tetapi tidak ada.",
     "CompletionReactionsInvalid_AutoReveal": "Tabel data jurnal [baris {0}], menampilkan [baris {1}] setelah penyelesaian menggunakan AutoRevealCondition.  Ini tidak diizinkan, ConditionsForAutoRevealOrHide mengelola pengungkapan Tugas secara mandiri.",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "Tabel data jurnal [baris {0}] menggunakan RevealNextTaskOnComplete, tetapi NextTaskRowName {1} salah.  Silakan periksa kembali.",
+    "ValidateLoadedAsset": "Tabel data jurnal [{0}] Indeks Prasyarat {1} merujuk ke quest [{2}] yang tidak akan ada ketika plugin paket dimatangkan [{3}]. Hapus baris, atau perbarui versi rilis item agar sesuai."
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "LootPackage [{0}] merujuk pada item [{1}] yang tidak akan ada saat plugin paketnya selesai diproses di [{2}]. Hapus baris, atau perbarui versi rilis item agar sesuai."
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "Modifikasi Objek",

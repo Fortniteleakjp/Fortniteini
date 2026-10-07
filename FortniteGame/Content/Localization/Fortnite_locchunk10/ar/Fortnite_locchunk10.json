@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "سيف يتمتع بهجوم وثبة ثانوي قوي.",
     "144AC202422D81D8ECA7FDADA0248752": "بندقية كلاسيكية ذات دقة عالية ومدى كبير.",
     "174ADE3045B991036DAB808BA3802CDA": "بندقية كلاسيكية ذات دقة عالية ومدى كبير.",
-    "A633A07540E67656A515748EC42D2BFA": "بندقية كلاسيكية ذات دقة عالية ومدى كبير.",
     "5CA4C768442DACE154F650919AEBF7CC": "انفجار شديد من الإثارة والمتعة. ابدأ بالقفز وأنت في الهواء.",
     "62060089487721326B23BBA33709B481": "انفجار شديد من الإثارة والمتعة. ابدأ بالقفز وأنت في الهواء.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "انفجار شديد من الإثارة والمتعة. ابدأ بالقفز وأنت في الهواء.",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "علاج اللاعبين القريبين وهي نشطة.",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "بندقية هجومية ثقيلة",
     "2118AC47465E7B7FC3544E9411BEDFC9": "بندقية هجومية ثقيلة +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "بندقية هجومية ثقيلة",
+    "6F59A98A484163C0B20075AB5FAF04BF": "بندقية هجومية ثقيلة",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "شوزِن ثقيل",
     "6202063447BC0BE9C686E0B7FA3EE710": "شوزِن ثقيل",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "شوزِن ثقيل",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "جي فليب إندي",
     "118BD9B247A79B6E7AB2189A409B7EFA": "مستدير إندي",
     "55F09A7841788A6D5EABF7AE7C720557": "بندقية مشاة",
-    "C115B50C4700A573DC237EAC7C92E21B": "بندقية مشاة",
     "F1638A45469F392DAF5444BE0A097644": "بندقية مشاة",
     "F317A4514DE5AEE182F39DA192E355AD": "بندقية مشاة",
     "1D7BBE454E1553569F9589A7E633F06D": "لا نهائي",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "من يصمد للنهاية يفوز",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "الفرقة الصامدة للنهاية تفوز",
     "0E7DAF39462A8FDB208B1B94A8372C42": "حلّق في الهواء واجعل ضحكتك تعلو في السماء. تخضع لفترة انتظار.",
-    "203048A346124F2326AE7489CF3CF605": "حلّق في الهواء واجعل ضحكتك تعلو في السماء. أعد التنشيط للإلغاء مبكرًا.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "انطلِق في الهواء واجعل ضحكتك تعلو للسماوات. أعد التنشيط للإلغاء مبكرًا.",
     "261743A8479BF496B7D041B28AA7D369": "تطلق اللاعبين لمسافة بعيدة",
     "86CE1B5747A296D9410A23BD7ED6275C": "يطلق حاوية متفجرة من الطلاء السنيمائي.",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "وضع نقاط وسيطة للإرشاد إلى الطريق.",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "رمز أهلية استبيان اللاعب",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "يُرجى إعادة ربط الإجراء {s} .",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "قوس الغطاس",
     "4567895244A3DDF0A6347DB93EA4AB9A": "قنبلة رقص الجيب",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "فقاعة الدرع الصغيرة",
     "FB786D2942DF31556A360EBB36845337": "قنبلة موجات صادمة صغيرة",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "مكنسة ساحرة للجيب",
-    "09BC060C4709B5E30DB790861955D110": "الطاقة",
     "4CBE793B4385D3726F1EA5950991BC9C": "الطاقة",
     "D13EC04349B8427E99FF49AFABDD232A": "الطاقة",
     "D6FFC2F1422B954E038F569E60AA52EE": "قالب ساعة القوة",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "تسللية",
     "61B1F6E14915E099FA166191039CA76B": "رجل الثلج المتخفي",
     "E72D7990488977EC9E88CAA2F852A420": "رجل الثلج المتخفي",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "بندقية القنص: نصف آلية. بندقية بمدى نيران متوسط إلى كبير، توجه ضررًا بدرجة جيدة بمعدل سريع لإطلاق النيران. مزودة بمنظار للحصول على دقة تصويب إضافية.",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "بندقية قناصة: مزودة بكاتم صوت. بندقية قنص قوية مزودة بكاتم صوت لتسديد طلقات فردية دقيقة بمعدل إطلاق نار بطيء.",
     "AD1D0E4849B9874FC0ADF397EB542112": "بندقية قناصة: مزودة بكاتم صوت. بندقية قنص قوية مزودة بكاتم صوت لتسديد طلقات فردية دقيقة بمعدل إطلاق نار بطيء.",
     "719A80194FE6CA987DF1FF92404DF970": "بندقية قنص يمكنها <Emphasized>إعادة التلقيم عندما تكون غير محمولة باليد</>",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "توكن إكمال تحدي ونترفست",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "مفتاح ونترفست",
     "194B94D745612B291C0C0CAC0487B727": "مكنسة الساحرة",
-    "EFCEF17944284794FC6D49B915B991EE": "مكنسة الساحرة",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "علامة X تحدد النقطة!",
     "D40AA64648243870B6889FA424D3E046": "جناح العاصفة X4",
@@ -2164,8 +2161,8 @@
   },
   "ArcadeVolley": {
     "PlayerWinsFmt": "فاز اللاعب {0}! اضغط لإعادة اللعب",
-    "PressToServe": "اضغط للقذف",
-    "PressToStart": "اضغط للبدء"
+    "PressToServe": "اضغط للإرسال",
+    "PressToStart": "Press to start"
   },
   "ArcadeWeaponUIModule": {
     "ArcadeWeaponMiss": "إخفاق"
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "تسلسل حركات الذكاء الاصطناعي",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "قائمة الأصول"
   },
   "Athena": {
     "NPCHiredIndication": " (مُتابع)",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "حدثت مشكلة!",
     "AlreadyOwnItemTitle": "حدثت مشكلة!",
     "AlreadyOwnBPDescription": "ستتلقى الآن الرمز المميز لهدية بطاقة المعركة لأن <text color=\"FFF\">{DisplayName}</> اشترى بطاقة معركة أثناء محاولة الإهداء.\n يمكنك استخدامه لتقديم بطاقة معركة هدية إلى صديق آخر. إذا لم يتم استخدام الرمز المميز لهدية بطاقة المعركة بحلول نهاية الموسم، فسيتم تحويله إلى 950 من عملات V-Bucks في حسابك."
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "حصلت على خيار تغليف هدايا جديد!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "حدث خطأ غير معروف",
+    "RecipientCantReceiveGiftsDescription": "يبدو أن <text color=\"FFF\">{DisplayName}</> غير مؤهل لاستلام المكافآت",
+    "RecipientBoughtItemsDescription": "يبدو أن <text color=\"FFF\">{DisplayName}</> اشترى العناصر التالية للتو:",
+    "AlreadyOwnItemDescription": "يبدو أن <text color=\"FFF\">{DisplayName}</> اشترى هذا العنصر للتو.",
+    "GiftChangedDescription": "يبدو أن محتوى الهدية قد تغير...",
+    "GiftChangedTitle": "عفوًا!",
+    "GenericErrorTitle": "عفوًا! حدثت مشكلة!",
+    "RecipientBoughtItemsTitle": "حدثت مشكلة!",
+    "RecipientCantReceiveGiftsTitle": "حدثت مشكلة!",
+    "AlreadyOwnItemTitle": "حدثت مشكلة!",
+    "AlreadyOwnBPDescription": "ستتلقى الآن الرمز المميز لهدية بطاقة المعركة لأن <text color=\"FFF\">{DisplayName}</> اشترى بطاقة معركة أثناء محاولة الإهداء.\n يمكنك استخدامه لتقديم بطاقة معركة هدية إلى صديق آخر. إذا لم يتم استخدام الرمز المميز لهدية بطاقة المعركة بحلول نهاية الموسم، فسيتم تحويله إلى 950 من عملات V-Bucks في حسابك."
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "متابعة",
+    "GetVBucks": "احصل على عملات V-Bucks",
+    "PurchaseGift": "اشتر هدية!",
+    "ReloadVBucks": "إعادة تحميل نقود V-Bucks",
+    "SendGift": "أرسل هدية!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName} سيتلقى الآن",
+    "SocialNameInfo": "سوف يحصل {DisplayName} على",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(zero=عنصر, one=عنصر, two=عنصر, few=عناصر, many=عنصر, other=عنصر)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(zero=عنصر, one=عنصر, two=عنصر, few=عناصر, many=عنصر, other=عنصر)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "متابعة",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "مكوّن HLTv2 إلى واجهة مستخدم قابلة للتخصيص",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "أدوات Juno",
     "SpatialMetricProfiler": "المحلل المكاني",
     "WeaponModernizationEditorCommands": "أداة تحديث الأسلحة"
   },
@@ -3837,8 +3863,8 @@
   },
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
-    "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "ExtensionName": "أدوات Juno",
+    "ConfigurePrefabTool": "مبني جاهز"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "قم بإيداع {amount} {resourcetype}",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "لا يمكن حمل المزيد من هذا العنصر!",
     "PlayerKickedCallout": "تم طرد اللاعب {PlayerName} لكونه خاملاً.",
     "PlayerKickedSoonCallout": "سيتم طرد اللاعب {PlayerName} قريبًا لكونه خاملاً.",
-    "IdleWarning": "فريقك بحاجة إلى مساعدتك! يرجى تقديم مساعدة قبل إلى تعيدك Ray إلى القاعدة الرئيسية.\nالعودة خلال {SecondsRemaining}"
+    "IdleWarning": "فريقك بحاجة إلى مساعدتك!يُرجى تقديم مساعدة قبل أن تعيدك راي.\nالعودة خلال {SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "عرض مجموعات اللعب"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "نقطة للوصول إلى خيارات تصحيح الوضعية",
     "OrientationWarping": "انحراف التوجهات",
     "OrientationWarpingTooltip": "توجيه عظم الجذر لمطابقة اتجاه الحركة، ويقوم العداد بتدوير العمود الفقري.",
+    "SimpleFootPlantingTooltip": "يثبّت أقدام IK في مكانها بمجرد ملامستها الأرض ثم يتلاشى التثبيت تدريجيًا كلما ابتعدت الأقدام المتحركة عن موضع التثبيت.لا يتأثر بانحراف المنحدرات.",
     "AttackIKTooltip": "ضع اليدين/القدمين وفقًا لعظام IK في أثناء حركة هجوم.",
     "FortAnimNode_CurveFilterSlot_Tooltip": "لتشغيل الرسوم المتحركة من التعليمات البرمجية باستخدام مقطع الرسوم المتحركة",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "لتشغيل الرسوم المتحركة من التعليمات البرمجية باستخدام مقطع الرسوم المتحركة",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "تكبير عظام الشخصية باستخدام المطفّر.",
     "ScaleHuskBonesTooltip": "يكبر عظام المومياوات بناءً على نوعه. (أي أن المومياء القزم صغير ولكن لديه رؤوس كبيرة)",
     "SetIKTarget_Description": "ضبط أهداف أقدام IK",
+    "SimpleFootPlanting": "تثبيت القدم البسيط",
     "SpeedWarping": "انحراف السرعة",
     "RootSlopeTiltTooltip": "إمالة الجذر الهيكلي بالاتجاه العمودي للأرضية بنسبة محددة ومقيدة، بحيث تُعيد عقدة تشويه المنحدرات التالية ضبط أطراف الشخصية وفقًا لجسد مائل بالفعل.",
     "TransformRollerTreads": "تحويل البكرات/المداسات",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "طاقة",
     "CostFmtStr": "{CostValue}: {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "مواجهة",
+    "GiftingPartyMembersList": "أعضاء المجموعة"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "أصدقاؤك",
     "GiftingPartyMembersList": "أعضاء المجموعة"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "جارٍ التنظيف...",
     "LogoutUsabilityExperiment": "جارٍ التنظيف...",
     "FailedClientSettingsDownloadTitle": "فشل تنزيل السحابة",
+    "LoginXmppAsync": "جارٍ الاتصال بخدمات المجموعة...",
     "ConsoleConnectionChangePromptTitle": "تغيير حالة الاتصال",
     "QueryKeychainNoMcpMsg": "تعذر الوصول إلى MCP لتنزيل سلسلة المفاتيح",
     "CreatingParty": "جارٍ إنشاء مجموعة...",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "إطلاق النار التلقائي",
     "AutoInteractContainers_Name": "فتح الحاويات تلقائيًا",
     "AutoOpenDoors_Name": "فتح الأبواب تلقائيًا",
+    "AutoPickUpEnabled_Name": "الالتقاط التلقائي للعناصر",
     "AutoPickupWeaponsConsolePC_Name": "التقاط الأسلحة التلقائي",
     "AutoPickupWeapons_Name": "التقاط الأسلحة التلقائي",
     "AutoInteractRevives_Name": "إنعاش زميل الفريق تلقائيًا",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "إخفاء مواد البناء التلقائي",
     "AutoSetQuality_Action": "التعيين التلقائي",
     "AutoSetQuality_Name": "جودة التعيين التلقائي",
+    "MobileAutofireCollection_Name": "إطلاق النار التلقائي",
     "TouchAutomationsCollection_Name": "الإجراءات التلقائية",
     "AutomaticallyApplyXP_Name": "تطبيق تلقائي - نقاط خبرة الأشخاص",
     "DynamicResolution_Description": "لضبط الدقة الثلاثية الأبعاد تلقائيًا حسب حِمل وحدة معالجة الرسوميات. عندما يكون استخدام وحدة معالجة الرسوميات منخفضًا، ستزيد الدقة حتى تصل إلى الدقة الأصلية. عندما يكون استخدام وحدة معالجة الرسوميات مرتفعًا، ستقل الدقة حتى تصل إلى إعداد الحد الأدنى من الدقة الثلاثية الأبعاد.",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "تؤدي زيادة إعدادات الأبعاد إلى منح الأجسام شكلًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلاً، ولكن قد تقلل من الأداء.",
     "TextureQuality_Description_Default": "تؤدي زيادة إعدادات الأنسجة إلى منح الأجسام المسطحة مظهرًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلاً، ولكن قد يقلل من الأداء.",
     "TextureQuality_Description_NoHighMips": "تؤدي زيادة إعدادات الأنسجة إلى منح الأجسام المسطحة مظهرًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلًا، لكنها قد تقلل من الأداء.\n\n<Icon.Warning></> لم يتم تثبيت أنسجة عالية الجودة. يمكن تحميلها من مشغّل Epic Games من خيارات تثبيت Fortnite.",
+    "TextureQuality_Description_EpicAssetsInstalled": "تؤدي زيادة إعدادات الأنسجة إلى منح الأجسام المسطحة مظهرًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلًا، ولكن قد يقلل من الأداء.\n\nأنسجة جودة Epic مثبتة حاليًا. لتحرير المساحة وبث الأصول في أثناء اللعب، يمكن إلغاء تثبيت الأنسجة من مشغّل Epic Games ضمن خيارات تثبيت Fortnite.",
+    "TextureQuality_Description_EpicAssetsStreamed": "تؤدي زيادة إعدادات الأنسجة إلى منح الأجسام المسطحة مظهرًا أكثر تفصيلًا. يؤدي رفع هذا الإعداد إلى جعل الأجسام أكثر تفصيلًا، ولكن قد يقلل من الأداء.\n\nيتم بث أنسجة جودة Epic عند الطلب افتراضيًا. لتقليل عمليات التنزيل في أثناء اللعب، يمكن تثبيتها اختياريًا من مشغّل Epic Games ضمن خيارات تثبيت Fortnite.",
     "Hitmarkers_Name": "مؤشرات الإصابة",
     "AutoClamber_On": "الاستمرار بالحركة إلى الأمام",
     "AutoHurdle_On": "اضغط باستمرار إلي الأمام",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "التشابكات",
     "MapPickupDotRarity_Name": "مؤشرات التقاط الخريطة المصغرة",
     "FOVMinimum_Name": "أدنى مجال رؤية",
+    "MobileCheatsCollection_Name": "عمليات الغش على الأجهزة المحمولة",
     "MobileFPSType_Name": "معدل إطارات الأجهزة المحمولة",
     "MotionBlur_Name": "ضبابية الحركة",
     "MouseAndKeyboardBindingsCollection_Name": "الماوس ولوحة المفاتيح",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "لتشغيل/ إيقاف عكس توجيه وحدة تحكم الطائرة. عند التشغيل، يؤدي التحريك إلى الأمام إلى توجيه الطائرة إلى أسفل.",
     "InvertPitchForAircraftSecondary_Description": "تشغيل/إيقاف عكس توجيه الطائرة من خلال الماوس عند التشغيل، يؤدي تحريك الماوس للأمام إلى توجيه الطائرة للأسفل",
     "InvertPitchForAircraftTouch_Description": "لتشغيل/ إيقاف عكس توجيه عناصر تحكم الطائرة باللمس. عند التشغيل، يؤدي تحريك عناصر التحكم باللمس إلى الأمام إلى توجيه الطائرة إلى أسفل.",
+    "AutoPickUpEnabled_Description": "تشغيل/إيقاف الالتقاط التلقائي للعناصر.عند التشغيل، ستُلتقط العناصر تلقائيًا عند المرور فوقها.",
     "AutoSortConsumablesToHigherSlots_Description": "عند تشغيل/إيقاف تشغيل الفرز التلقائي للعناصر القابلة للاستهلاك إلى أعلى خانات مرقمة عند التشغيل، سيتم إدراج العناصر القابلة للاستهلاك مثل الصحة والدروع افتراضيًا للخانة الفارغة الأعلى عند اختيارها.",
     "AutoSortConsumablesToRight_Description": "تشغيل/إيقاف تشغيل الفرز التلقائي للعناصر القابلة للاستهلاك إلى اليمين عند التشغيل، سيتم إدراج العناصر القابلة للاستهلاك مثل الصحة والدروع افتراضيًا للخانة الفارغة أقصى اليمين عند اختيارها.",
     "GamepadAutoRun_Description_PS4": "تشغيل/إيقاف الجري التلقائي بوحدة التحكم. عند التشغيل، سيؤدي الضغط على زر L3 مرتين إلى جعلك تجري للأمام تلقائيًا دون الحاجة إلى الضغط مطولًا على الذراع الأيسر للأمام.",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "{0} من الأصدقاء {0}|plural(zero=المشتركين, one=المشتركين, two=المشتركين, few=المشتركين, many=المشتركين, other=المشتركين)"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "يحمل الكيان \"{0}\" مكون سلاح_تتبع_متعدد_للحصن ولكن قالبه ليس قالب_شوزِن. يمكن لقوالب الشوزِن فقط استخدام مكون سلاح_تتبع_متعدد_للحصن؛ ويجب على قالب_المسدس وقالب_البندقية_الهجومية وقالب_الرشاش الخفيف استخدام مكون سلاح_تتبع_للحصن.",
-    "ArmoryTemplates_RequiresWeaponEntity": "الكيان \"{0}\" يحمل {1}. لا يمكن استخدام هذا إلا على أحد قوالب الأسلحة (أي: قالب_مسدس، قالب_بندقية_هجومية، قالب_شوزِن، قالب_رشاش خفيف).",
-    "ArmoryTemplates_ShotgunRequiresMulti": "الكيان \"{0}\" هو قالب_الشوزِن لكنه لا يحمل مكون سلاح_تتبع_متعدد_للحصن. يجب أن تستخدم بنادق الشوزِن مكون سلاح_تتبع_متعدد_للحصن (وليس مكون سلاح_تتبع_للحصن)."
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "يحمل الكيان \"{0}\" عنصر {1} بينما يسمح بتضمين {2} فقط.",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "النموذج الأصلي \"{0}\" ليس له نسخة رئيسية. يجب وضع علامة \"{1}\" على نسخة واحدة.",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "فرقة البوب الكورية: صائدات الأشرار",
     "LegoIslandTag": "جزيرة LEGO",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "تشغيل سريع",
     "SolidWaveIslandTag": "لعبة الحبّار",
     "TmntIslandTag": "سلاحف النينجا",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index}. {Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "في المكان",
+    "Toolbar": "شريط أدوات مُحرر اللقطات"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "علامات بيانات Juno Connectivity",
@@ -10576,43 +10613,51 @@
     "ConsolidatePrimitivesCombined": "Creating Redirectors - /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "Creating Redirectors - /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "Creating Redirectors - /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "جارٍ جمع \"{0}\" من الأصول",
+    "UpdateGeneratedMeshes": "جارٍ توليد شبكات غير محفوظة",
+    "PrintAtomModelsInfo": "جارٍ طباعة معلومات النماذج الذرية",
     "RepairGeneratedMeshes": "جارٍ إصلاح النماذج الذَرية",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "جارٍ تشغيل المعالج الأولي: {0} ({1})",
+    "RegeneratePrimitives": "جارٍ تشغيل المعالج الأولي...",
+    "UpdateAllAtomModelsToUseProcessors": "جارٍ تحديث النماذج الذرية"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "أداة بيانات تصنيع Juno الأمامية",
     "ImGuiFrontendCraftingDataToolTooltip": "أداة لنسخ بيانات واجهة المستخدم لاستخدامها في الواجهة الأمامية"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "يحتوي على مجموعة معالجات ولكنه يحتاج إلى إنشاء الشبكات.",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "لا يحتوي على مجموعة معالجات ولكنه يشير إلى الشبكات التي تم إنشاؤها"
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "هيكل الصف \"{0}\" ينتمي إلى الوحدة \"{1}\" الخاصة ببرنامج اللعبة فقط، ولكن يستخدمه \"{2}\" الذي يتم تحميله على الخادم. انقل الهيكل إلى وحدة وقت التشغيل أو تأكد من تحميل البيانات على برنامج اللعبة فقط."
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "يحتوي على شبكة مجهزة تلقائيًا فارغة",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "يمتلك شبكة وكيل فارغة",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "يتطلب شبكة واحدة على الأقل مُشغّلة تلقائيًا",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "يتطلب شبكة وكيل واحدة على الأقل"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "يُضبط صف نقطة الاهتمام '{0}' على استبدال، لكن لا تُعيّن أي نقطة اهتمام بديلة، لذا سيُزال فقط.عيّن بديلًا أو اضبط إجراءً غير صالح على إزالة.",
+    "ReplacementDisabled": "يعيّن صف نقطة الاهتمام '{0}' الصف '{1}' المعطل كنقطة اهتمام بديلة، لذا سيفشل الاستبدال دائمًا وستُخلى الخانة فقط.",
+    "ReplaceWithSelf": "يُعيّن صف نقطة الاهتمام \"‏{0}‏\" نفسه كنقطة الاهتمام البديلة.سيكون البديل غير مؤهل بقدر عدم أهلية الصف الذي يحل محله.",
+    "EmptyBiomes": "لا تتضمن نقطة الاهتمام في الصف \"{0}\" أي مناطق حيوية، لذا لا يمكن وضعها.حدد المناطق الحيوية التي تنتمي إليها.",
+    "IneligibleActionOnUnsupportedType": "يحدد صف نقطة الاهتمام '{0}' إجراءً غير صالح، لكنه ليس نقطة اهتمام في مجمل العالم، لذا سيُتجاهل.التفكيك الذاتي لنقاط الاهتمام للكهف ومدخل الكهف والجسر وموقع الصيد يوضح أن تصريح الاستبعاد غير مناسب.",
+    "ReplacementCycle": "كل من صفّي نقطتي الاهتمام '{0}' و'{1}' يعيّن الآخر كبديل.اكسر الحلقة: يجب ضبط أحدهما على إزالة."
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "تجاوزات جدول بيانات أساسي لقائمة التشغيل[{0}] لعلامة قائمة التشغيل '{1}': يحتوي جدول التجاوز '{2}' على هيكل الصف '{3}'، لكن الجدول الأساسي '{4}' يستخدم هيكل صف '{5}'. يؤدي تجاوز جدول بيانات بنوع صف مختلف إلى تلف الذاكرة في أثناء التشغيل. يجب أن يستخدم جدول التجاوز هيكل الصف نفسه المستخدم في الجدول الأساسي."
   },
   "JunoValidator_StaticMesh": {
-    "JunoValidator_StaticMesh_InvalidLODs": "Asset contains invalid LOD chain",
-    "JunoValidator_StaticMesh_OpaqueExport": "Can be deleted because it no longer contains transparent materials",
-    "JunoValidator_StaticMesh_CommonParts_Tag": "Common Parts mesh doesn't have 'Render.CommonParts' Atom tag",
-    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Common Parts mesh doesn't have AtomMergedMesh_CommonParts LODGroup",
-    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
-    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
-    "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_InvalidLODs": "يحتوي الأصل على سلسلة LOD غير صالحة",
+    "JunoValidator_StaticMesh_OpaqueExport": "يمكن الحذف بسبب عدم وجود مواد شفافة",
+    "JunoValidator_StaticMesh_CommonParts_Tag": "لا تحتوي شبكة الأجزاء المشتركة على علامة 'Render.CommonParts' الذرية",
+    "JunoValidator_StaticMesh_CommonParts_LODGroup": "لا تحتوي شبكة الأجزاء المشتركة على AtomMergedMesh_CommonParts LODGroup",
+    "JunoValidator_StaticMesh_CommonParts_NumLODs": "لا تحتوي شبكة الأجزاء المشتركة على LOD واحد فقط",
+    "JunoValidator_StaticMesh_WrongLODGroup": "لا يبدأ اسم LODGroup بـ\"AtomMergedMesh\"",
+    "JunoValidator_StaticMesh_TransparentExport": "يلزم تطبيق إعادة الإنشاء دون مواد شفافة",
+    "JunoValidator_StaticMesh_NumLODs": "يحتوي على LOD واحد فقط"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "مساحة الذاكرة منخفضة",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "Lite UIKit"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*Dev* السبب المبيّن: {0}",
     "Connecting": "جارٍ الاتصال",
@@ -10849,8 +10897,8 @@
     "Europe": "أوروبا",
     "Middle East": "الشرق الأوسط",
     "NA-Central": "وسط أمريكا الشمالية",
-    "NA-East": "أمريكا الشمالية الشرقية",
     "NA-West": "أمريكا الشمالية الغربية",
+    "North America": "أمريكا الشمالية",
     "Oceania": "أوقيانوسيا",
     "Undefined": "غير محدد"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "لم يتم تمرير مكّون المونولوج U ‏(UMonologueComponent) إلى موضوع قريب (NearbySubject).",
     "SpatialContextNoSelf": "لم يتم تمرير مكّون المونولوج U ‏(UMonologueComponent) إلى سياق المكان (SpatialContext)",
     "SpatialContextNoPawn": "سياق المكان - تعذر الحصول على Pawn من الموضوع"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "إخفاء مكافآت الردهة",
+    "LobbyDropsCollectionGame_Name": "مكافآت الردهة",
+    "HideLobbyDrops_Description": "عند التفعيل، سيتم إخفاء مكافآت الردهة من ردهات باتل رويال وBlitz والإعادة.لن تتمكن من الحصول على مكافآت من مكافآت الردهة."
   },
   "MyTownManager": {
     "MissingPersonalityName": "لا يوجد تعريب لـ {0}",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "غادر <Username>{Username}</> المجموعة",
     "MemberKickedToast": "تم طرد <Username>{Username}</> من المجموعة",
     "UnableToJoinCheckingForRejoin": "جار التحقق من مواجهات قائمة محتملة، يُرجى الانتظار.",
+    "EpicPartyJoinFailedNoResponse_Title": "تعذّر الانضمام إلى المجموعة",
     "EpicPartyJoinFailedPrivate_Title": "تعذّر الانضمام إلى المجموعة",
     "UnableToJoinPartyPrivate_Title": "تعذّر الانضمام إلى المجموعة",
     "FailedPartyJoin": "تعذر الانضمام إلى مجموعة",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "تعذر الحصول على معلومات تصنيف القوة.",
     "UnableToJoinUserBuildHigherFormat": "تعذر الانضمام إلى مجموعة <Username>{0}</>، نسخة Fortnite لديهم أحدث من نسختك.",
     "UnableToJoinUserBuildLowerFormat": "تعذر الانضمام إلى مجموعة <Username>{0}</>، نسخة Fortnite لديهم أقدم من نسختك.",
+    "EpicPartyJoinFailedNoResponse": "يتعذر الانضمام إلى مجموعة <Username>{0}</>.",
     "UnableToJoinDeniedUserUnknownResult": "يتعذر الانضمام إلى مجموعة <Username>{0}</>. رمز الخطأ {1}",
     "EpicPartyJoinFailedUnknown": "يتعذر الانضمام إلى مجموعة <Username>{0}</>. رمز الخطأ {1}",
     "UnableToJoinUserUnknownResult": "يتعذر الانضمام إلى مجموعة <Username>{0}</>. رمز الخطأ {1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "يتعذر الانضمام إلى المجموعة. رمز الخطأ {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "يتعذر الانضمام إلى المجموعة.  رمز الخطأ: {0}",
     "UnableToJoinPartyUnknownResult": "يتعذر الانضمام إلى المجموعة.  رمز الخطأ: {0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "يتعذر الانضمام إلى تلك المجموعة.",
     "ReadyTextSpectatingGame": "مشاهدة المواجهة",
     "ReadyTextWatchingReplay": "مشاهدة إعادة",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "أنت في تلك المجموعة بالفعل",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "ينتهي في {Month} {Day}، {Year} الساعة {Time} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "حذف إدخالات اللقطة",
+    "DuplicateSnapEntries": "تكرار إدخالات اللقطة",
+    "PasteSnapEntries": "لصق إدخالات اللقطة",
+    "SelectSnapEntry": "اختر نقطة الالتقاط"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "متبقي {0}"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "لقد أرسلت هدية بنجاح إلى <text color=\"FFF\">{DisplayName}</>!"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "لقد أرسلت هدية بنجاح إلى <text color=\"FFF\">{DisplayName}</>!"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "الكل",
     "CategoriesGroupNameKey": "الفئات",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "محاولة تعيين اسم فارغ."
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "تهيئة مبنى جاهز"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "أتود مغادرة المواجهة ولعب {LinkCode}؟",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "تفتح أداة نقل HLTv2 إلى واجهة المستخدم القابلة للتخصيص لنقل جميع إعدادات HLTv2 إلى إطار عمل واجهة المستخدم القابلة للتخصيص الجديد."
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "تهيئة مبنى جاهز",
+    "BeginConfigurePrefabTool_ToolTip": "تهيئة مبنى جاهز"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "افتح المحلل المكاني",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "تتعذر إعادة الانضمام إلى اللعبة. تم تجاوز الحد الأقصى لمحاولات إعادة الانضمام إلى اللعبة."
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "قائمة الأصول"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "جدول بيانات المخطوطات [الصف {0}] لا يحتوي على علامة فئة فرعية صالحة.",
     "NeitherItemNorTag": "جدول بيانات المخطوطات [الصف {0}] لا يحتوي على تعريف عنصر ولا علامة هوية. يجب وجود أحدهما على الأقل.",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "يبدو أن جدول بيانات المخطوطات [الصف {0}] هو لشخصية غير قابلة للعب ودودة، لكن ليس له مجموعة بيانات ناشر الذكاء الاصطناعي.",
     "CategoryTagInvalid": "جدول بيانات المخطوطات [الصف {0}] لا يحتوي على علامة فئة صالحة.",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "يشير جدول بيانات المخطوطات [{0}] إلى عنصر [{1}] لن يكون موجودًا عند تحضير المكوّن الإضافي للحزمة في [{2}]. يجب إزالة الصف أو تحديث نسخة إصدار العنصر للمطابقة."
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "يحتوي جدول بيانات الحوار [الصف {0}] على نص غير صالح في الخاصية [{1}]:{2}\"{3}\""
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "تتضمن FCraftingFormula [{0}] بطاقة RequiredIngredients فارغة!! قد يسبب هذا مشكلات في أثناء وقت التشغيل.",
     "DirectOutputsWithLootTierKey": "لتركيبة التصنيع F (FCraftingFormula) [{0}] مفتاح مستوى غنائم النتيجة (ResultLootTierKey) وإخراج مباشر (إدخال بيانات إضافي). قم بإزالة مفتاح مستوى غنائم النتيجة (ResultLootTierKey) أو إدخال الإخراج المباشر"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData بـActorName [{0}] يحتوي على وصفة فارغة!! قد يسبب هذا مشكلات في أثناء وقت التشغيل."
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "لدى FJunoGuidedBuildingDisplayActorDataEntry في فهرس [{0}] وصفة فارغة!! قد يسبب هذا مشكلات في أثناء وقت التشغيل."
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "للعنصر [{0}] نسخة إصدار [{1}] ولكنه مشار إليه في جدول غنائم [{2}] الذي يتم تحضير مكوّنه الإضافي في [{3}]. لن يكون العنصر موجودًا عند تشغيل جدول الغنائم هذا. يجب إزالة العنصر من جدول الغنائم أو تحديث نسخة إصدار العنصر لمطابقة نسخة المكوّن الإضافي."
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "جدول بيانات المذكرة [الصف {0}] يحتوي على نوع CompletionReaction يمنح مكافأة، ولكنه مضبوط على GrantToWorld.  يجب أن تكون GrantToParticipants لمنح جميع اللاعبين بشكل صحيح..",
     "TextInvalid": "يحتوي جدول بيانات المذكرة [الصف {0}] على نص غير صالح في الخاصية [{1}]:{2}\"{3}\"",
     "PrereqQuestProgressNotification": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات الأساسية [{1}]، يجب تشغيل bHideQuestProgressNotification الخاص بالمهمة",
     "PrereqQuestStartingToast": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات الأساسية [{1}]، يجب إيقاف تشغيل bShouldDisplayStartingToast الخاص بالمهمة",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}] AwesomeLevelIndex ليس فهرسًا صالحًا لـUpgradeRequirements الخاصة بـ{2}.",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، لا يتم تعيين CampTagConfigKey إلى جدول بيانات FJunoAwesomePoiConfigTableRow.",
     "PrereqTownbuilderInvalidNoValidALI": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، لا يحتوي على AwesomeLevelIndex صالح.",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "جدول بيانات المذكرة [الصف {0}]، مؤشر المتطلبات المسبقة [{1}] لا يحتوي على علامة CampTagConfigKey صالحة.",
     "PrerequistitesInvalidNoValidPreReqType": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، لا يحتوي على نوع متطلب مسبق صالح.",
     "PrereqQuestInvalidNotNeededPFComponent": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، يحتوي على مكون Persistence Framework، وهو ليس ضروريًا.",
     "PrereqQuestInvalidQuestSoftPtr": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، يحتوي على مؤشر مهمة (Quest SoftPtr) غير صالح [{2}].",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، لا يحتوي على تعريف المهمة (QuestDef).",
     "PrereqTownbuilderInvalidRCButEmptyRL": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، يشير إلى ResourceCost، ولكن لدى {2} ResourceList فارغة.",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "جدول بيانات الدفتر [الصف {0}]، مؤشر المتطلبات المسبقة [{1}]، تعذر العثور على UpgradeStep باستخدام UpgradeStepIdentifer {2} لـUpgradeStages الخاص بـ{3}.",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "جدول بيانات المذكرة [الصف {0}]، لا يحتوي على أي متطلبات مسبقة.",
+    "CategoryTagInvalid": "جدول بيانات المذكرة [{0} الصف]، لا يحتوي على علامة فئة صالحة.",
+    "CompletionReactionsInvalid": "تم إعداد جدول بيانات المذكرة [الصف {0}] لإظهار نفسه عبر مؤشر CompletionReaction [{1}].",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "جدول بيانات الدفتر [الصف {0}]، تم إعداده ليكشف عن نفسه عبر NextTaskRowName، قم بإلغاء تحديد RevealNextTaskOnComplete لإلغاء الحظر والتحدث إلى مهندس!",
     "CompletionReactionsInvalid_RowNotExist": "جدول بيانات الدفتر [الصف {0}]، يكشف عن [الصف {1}] عند الإكمال وهو ليس موجودًا.",
     "CompletionReactionsInvalid_AutoReveal": "جدول بيانات الدفتر [الصف {0}]، يكشف عن [الصف {1}] عند الإكمال مستخدمًا شرط الكشف التلقائي.  هذا غير مسموح، شروط الكشف أو الإخفاء التلقائي تتحكم بنفسها في الكشف عن المهام.",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "جدول بيانات المذكرة [صف {0}]، يستخدم RevealNextTaskOnComplete، لكن NextTaskRowName {1} غير صحيح.  يُرجى التحقق مرة أخرى من الصندوق.",
+    "ValidateLoadedAsset": "يشير جدول بيانات المذكرة [{0}] المؤشر المسبق {1} إلى مهمة [{2}] لن تكون موجودة عند إعداد المكون الإضافي للحزمة [{3}]. يجب إزالة الصف أو تحديث نسخة إصدار العنصر للمطابقة."
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "تشير LootPackage [{0}] إلى عنصر [{1}] لن يكون موجودًا عندما يجري تحضير المكوّن الإضافي الخاص بالحزمة في [{2}]. يجب إزالة الصف أو تحديث نسخة إصدار العنصر للمطابقة."
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "تعديل غرض",

@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "Güçlü bir ikincil sıçrama saldırısına sahip bir kılıç.",
     "144AC202422D81D8ECA7FDADA0248752": "Yüksek isabetliliğe ve menzile sahip klasik bir tüfektir.",
     "174ADE3045B991036DAB808BA3802CDA": "Yüksek isabetliliğe ve menzile sahip klasik bir tüfektir.",
-    "A633A07540E67656A515748EC42D2BFA": "Yüksek isabetliliğe ve menzile sahip klasik bir tüfektir.",
     "5CA4C768442DACE154F650919AEBF7CC": "Tam gaz bir eğlence ve heyecan patlaması. Havadayken zıplayarak başlatabilirsin.",
     "62060089487721326B23BBA33709B481": "Tam gaz bir eğlence ve heyecan patlaması. Havadayken zıplayarak başlatabilirsin.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "Tam gaz bir eğlence ve heyecan patlaması. Havadayken zıplayarak başlatabilirsin.",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "Yanarken yakındaki oyuncuları iyileştirir.",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "Ağır Taarruz Tüfeği",
     "2118AC47465E7B7FC3544E9411BEDFC9": "Ağır Taarruz Tüfeği +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "Ağır Taarruz Tüfeği",
+    "6F59A98A484163C0B20075AB5FAF04BF": "Ağır Taarruz Tüfeği",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "Ağır Pompalı Tüfek",
     "6202063447BC0BE9C686E0B7FA3EE710": "Ağır Pompalı Tüfek",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "Ağır Pompalı Tüfek",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "İddialı G Dönüşü",
     "118BD9B247A79B6E7AB2189A409B7EFA": "İddialı Ters Takla",
     "55F09A7841788A6D5EABF7AE7C720557": "Piyade Tüfeği",
-    "C115B50C4700A573DC237EAC7C92E21B": "Piyade Tüfeği",
     "F1638A45469F392DAF5444BE0A097644": "Piyade Tüfeği",
     "F317A4514DE5AEE182F39DA192E355AD": "Piyade Tüfeği",
     "1D7BBE454E1553569F9589A7E633F06D": "Sonsuz",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "En Son Hayatta Kalan Kazanır",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "Hayatta Kalan Son Ekip Kazanır",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Havaya fırla ve gökyüzünde dolaşırken kahkahalar at. Bekleme süresine girer.",
-    "203048A346124F2326AE7489CF3CF605": "Havaya fırla ve gökyüzünde dolaşırken kahkahalar at. Erken sonlandırmak için tekrar kullan.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Havaya fırla ve gökyüzünde dolaşırken kahkahalar at. Erken sonlandırmak için tekrar kullan.",
     "261743A8479BF496B7D041B28AA7D369": "Oyuncuları uzun mesafelere fırlatır.",
     "86CE1B5747A296D9410A23BD7ED6275C": "Patlayıcı bir sinematik boya kabı fırlatır.",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "Yolu gösterecek ara noktalar yerleştir.",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Oyuncu Anketi Uygunluk Jetonu",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "Lütfen {s} eylemini yeniden bir tuşa ata.",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "Pompa Yayı",
     "4567895244A3DDF0A6347DB93EA4AB9A": "Cep Çılgın Dans Bombası",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "Cep Kalkan Balonu",
     "FB786D2942DF31556A360EBB36845337": "Cep Şok Dalgası Bombası",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "Cep Boy Cadı Süpürgesi",
-    "09BC060C4709B5E30DB790861955D110": "Güç",
     "4CBE793B4385D3726F1EA5950991BC9C": "Güç",
     "D13EC04349B8427E99FF49AFABDD232A": "Güç",
     "D6FFC2F1422B954E038F569E60AA52EE": "Güç Saati Şablonu",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "Hızlı ve Sinsi",
     "61B1F6E14915E099FA166191039CA76B": "Sinsi Kardan Adam",
     "E72D7990488977EC9E88CAA2F852A420": "Sinsi Kardan Adam",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "Keskin Nişancı Tüfeği: Yarı Otomatik. İyi hasar veren ve hızlıca ateş edilebilen orta-uzun menzilli tüfek. Daha iyi nişan alabilmek için dürbünlü.",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "Keskin Nişancı Tüfeği: Susturuculu. Yavaş atış hızıyla tek ancak isabetli atışlar için tasarlanmış, susturuculu ve güçlü bir keskin nişancı tüfeği.",
     "AD1D0E4849B9874FC0ADF397EB542112": "Keskin Nişancı Tüfeği: Susturuculu. Yavaş atış hızıyla tek ancak isabetli atışlar için tasarlanmış, susturuculu ve güçlü bir keskin nişancı tüfeği.",
     "719A80194FE6CA987DF1FF92404DF970": "<Emphasized>Elde tutmadan şarjörü değiştirilebilen</> bir keskin nişancı tüfeği.",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "Kış Festivali'ni Tamamlama Jetonu",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Kış Festivali Anahtarı",
     "194B94D745612B291C0C0CAC0487B727": "Cadı Süpürgesi",
-    "EFCEF17944284794FC6D49B915B991EE": "Cadı Süpürgesi",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X Nerede Hazine Orada!",
     "D40AA64648243870B6889FA424D3E046": "X-4 Fırtınakanat",
@@ -2163,7 +2160,7 @@
     "ClientErrorMessage": "{provider} hatası: {message}\n\nDaha fazla bilgi için lütfen {provider} SSS belgesine bak."
   },
   "ArcadeVolley": {
-    "PlayerWinsFmt": "Oyuncu {0} KAZANDI!  Yeniden başlatmak için bir tuşa bas",
+    "PlayerWinsFmt": "Oyuncu {0} KAZANDI! Yeniden başlatmak için bir tuşa bas",
     "PressToServe": "Servis yapmak için tıkla",
     "PressToStart": "Başlamak için bas"
   },
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "Bir Şeyler Ters Gitti!",
     "AlreadyOwnItemTitle": "Bir şeyler ters gitti!",
     "AlreadyOwnBPDescription": "Sen hediye ederken, <text color=\"FFF\">{DisplayName}</> bir Savaş Bileti satın aldığı için bir Savaş Bileti Hediye Jetonu alacaksın.\nBir arkadaşına Savaş Bileti hediye etmek için kullanabilirsin. Savaş Bileti Hediye Jetonu'nu sezonun sonuna kadar kullanmazsan, 950 V-Papel'e dönüştürülüp hesabına yüklenir."
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "Yeni hediye kaplama seçeneği alındı!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "Bilinmeyen bir hata oluştu",
+    "RecipientCantReceiveGiftsDescription": "<text color=\"FFF\">{DisplayName}</> hediye almaya uygun değil",
+    "RecipientBoughtItemsDescription": "Görünüşe göre <text color=\"FFF\">{DisplayName}</> az önce aşağıdaki eşyaları aldı:",
+    "AlreadyOwnItemDescription": "Görünüşe göre <text color=\"FFF\">{DisplayName}</> az önce bu eşyayı aldı.",
+    "GiftChangedDescription": "Görünüşe göre hediyenin içeriği değişmiş...",
+    "GiftChangedTitle": "HAY AKSİ!",
+    "GenericErrorTitle": "HAY AKSİ! Bir şeyler ters gitti!",
+    "RecipientBoughtItemsTitle": "Bir Şeyler Ters Gitti!",
+    "RecipientCantReceiveGiftsTitle": "Bir Şeyler Ters Gitti!",
+    "AlreadyOwnItemTitle": "Bir şeyler ters gitti!",
+    "AlreadyOwnBPDescription": "Sen hediye ederken, <text color=\"FFF\">{DisplayName}</> bir Savaş Bileti satın aldığı için bir Savaş Bileti Hediye Jetonu alacaksın.\nBir arkadaşına Savaş Bileti hediye etmek için kullanabilirsin. Savaş Bileti Hediye Jetonu'nu sezonun sonuna kadar kullanmazsan, 950 V-Papel'e dönüştürülüp hesabına yüklenir."
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "Devam Et",
+    "GetVBucks": "V-Papel Al",
+    "PurchaseGift": "Hediye Olarak Satın Al!",
+    "ReloadVBucks": "V-Papelleri Yeniden Yükle",
+    "SendGift": "Hediye Gönder!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName} şimdi şunu alacak:",
+    "SocialNameInfo": "{DisplayName} şunu alacak:",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(one=Eşya,other=Eşya)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(one=Eşya,other=Eşya)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "Devam Et",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "Çantana bu eşyadan daha fazla koyamazsın!",
     "PlayerKickedCallout": "{PlayerName} adlı oyuncu oyuna katılmadığı için atıldı.",
     "PlayerKickedSoonCallout": "{PlayerName} adlı oyuncu oyuna katılmadığı için atılacak.",
-    "IdleWarning": "Ekibinin yardımına ihtiyacı var! Lütfen Ray seni Ana Üs'se geri göndermeden onlara yardımcı ol.\nDönmene kalan süre: {SecondsRemaining}"
+    "IdleWarning": "Ekibinin yardımına ihtiyacı var!Ray seni geri göndermeden önce lütfen yardım et.\n{SecondsRemaining} içinde geri dönülecek."
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "Oyun Modlarına Bak"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "Poz hatası ayıklama seçeneklerine erişme noktası",
     "OrientationWarping": "Yönlendirme Bükülmesi",
     "OrientationWarpingTooltip": "KökKemik'i hareket yönüne doğru çevirir ve omurgayı aksi yönde döndürür.",
+    "SimpleFootPlantingTooltip": "Yere bastıktan sonra ayakların ters kinematiğini sabitler, animasyonlu ayak sabitlenen konumdan uzaklaştıkça karışımı kademeli olarak azaltır.Eğim bükmeden bağımsızdır.",
     "AttackIKTooltip": "Elleri veya ayakları, saldırı animasyonu sırasında kemiklerin ters kinematiğine göre yerleştirir.",
     "FortAnimNode_CurveFilterSlot_Tooltip": "Plays animation from code using AnimMontage",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "Plays animation from code using AnimMontage",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "Bir düzenleyici kullanarak karakter kemiklerini ölçekler.",
     "ScaleHuskBonesTooltip": "Suratsızların türüne göre kemiklerini ölçeklendirir (örn. Güdük suratsızlar kısadır ama koca kafalıdır).",
     "SetIKTarget_Description": "Ters Kinematik Hedeflerine Ayak Belirle",
+    "SimpleFootPlanting": "Basit Ayak Sabitleme",
     "SpeedWarping": "Hız Bükme",
     "RootSlopeTiltTooltip": "İskelet kökünü, belirli bir oranda zemin normaline doğru eğer. Böylece bir sonraki eğim-bükme düğümünün uzuvları zaten eğilmiş bir vücuda göre yeniden hesaplanır.",
     "TransformRollerTreads": "Palet/Silindir Geçişi",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "enerji",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "ARKADAŞLAR",
+    "GiftingPartyMembersList": "GRUP ÜYELERİ"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "ET",
     "GiftingPartyMembersList": "GRUP ÜYELERİ"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "Temizleniyor...",
     "LogoutUsabilityExperiment": "Temizleniyor...",
     "FailedClientSettingsDownloadTitle": "Bulut İndirmesi Başarısız",
+    "LoginXmppAsync": "Grup hizmetlerine bağlanılıyor...",
     "ConsoleConnectionChangePromptTitle": "Bağlantı Durumu Değişikliği",
     "QueryKeychainNoMcpMsg": "Anahtar zincirini indirmek için MCP'ye erişilemiyor",
     "CreatingParty": "Grup yaratılıyor...",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "Otomatik Ateş Et",
     "AutoInteractContainers_Name": "Kutuları Otomatik Aç",
     "AutoOpenDoors_Name": "Kapıları Otomatik Aç",
+    "AutoPickUpEnabled_Name": "Eşyaları Otomatik Topla",
     "AutoPickupWeaponsConsolePC_Name": "Silahları Otomatik Topla",
     "AutoPickupWeapons_Name": "Silahları Otomatik Topla",
     "AutoInteractRevives_Name": "Otomatik Takım Arkadaşı Diriltme",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "İnşa Malzemelerini Otomatik Sakla",
     "AutoSetQuality_Action": "Otomatik Ayarla",
     "AutoSetQuality_Name": "Otomatik Kalite Ayarlama",
+    "MobileAutofireCollection_Name": "Otomatik Ateş",
     "TouchAutomationsCollection_Name": "Otomatik Eylemler",
     "AutomaticallyApplyXP_Name": "Otomatik Uygulama - İnsan TP'si",
     "DynamicResolution_Description": "Ekran kartı yüküne bağlı olarak 3D çözünürlüğü otomatik olarak ayarlar. Ekran kartı kullanımı düşükken çözünürlük, standart çözünürlüğe yükselir. Ekran kartı kullanımı yüksekken çözünürlük, Minimum 3D Çözünürlük ayarlarına düşer.",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "Daha yüksek geometri ayarları, düz cisimlere daha detaylı bir şekil verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.",
     "TextureQuality_Description_Default": "Daha yüksek doku ayarları düz cisimlere daha detaylı bir görüntü verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.",
     "TextureQuality_Description_NoHighMips": "Daha yüksek doku ayarları düz cisimlere daha detaylı bir görüntü verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.\n\n<Icon.Warning></> Yüksek çözünürlüklü dokular yüklü değil. Bu dokular, Epic Games Başlatıcısı'ndaki Fortnite Yükleme Seçenekleri üzerinden indirilebilir.",
+    "TextureQuality_Description_EpicAssetsInstalled": "Daha yüksek doku ayarları düz cisimlere daha detaylı bir görüntü verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.\n\nDestansı çözünürlükteki dokular şu anda yüklü. Yer açmak ve oyun oynanırken öğeleri yayınlamak için dokular, Epic Games başlatıcısındaki Fortnite Yükleme Seçenekleri üzerinden kaldırılabilir.",
+    "TextureQuality_Description_EpicAssetsStreamed": "Daha yüksek doku ayarları düz cisimlere daha detaylı bir görüntü verir. Bu ayarı yükseltmek cisimlerin daha detaylı görünmesini sağlar ancak performansı düşürebilir.\n\nDestansı çözünürlükteki dokular talep üzerine varsayılan olarak yayınlanır. Oyun sırasında indirmeleri azaltmak için bu içerikler isteğe bağlı olarak Epic Games başlatıcısındaki Fortnite Yükleme Seçenekleri üzerinden yüklenebilir.",
     "Hitmarkers_Name": "Vuruş İşaretçileri",
     "AutoClamber_On": "İleri Tuşunu Basılı Tut",
     "AutoHurdle_On": "İleri Tuşunu Basılı Tut",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "Model İskeletleri",
     "MapPickupDotRarity_Name": "Mini Harita Eşya Göstergesi",
     "FOVMinimum_Name": "Minimum Görüş Alanı",
+    "MobileCheatsCollection_Name": "Mobil Hileler",
     "MobileFPSType_Name": "Mobil Kare Hızı",
     "MotionBlur_Name": "Hareket Bulanıklığı",
     "MouseAndKeyboardBindingsCollection_Name": "Fare ve Klavye",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "Hava araçlarının yönlendirmelerinin ters çevrilmesini açar/kapatır. Açık olduğunda ileri hareketler hava aracının yönünü aşağı çevirir.",
     "InvertPitchForAircraftSecondary_Description": "Hava araçlarının yönlendirmelerinin ters çevrilmesini açar/kapatır. Açık olduğunda, fareyi ileri itmek hava aracının yönünü aşağı çevirir.",
     "InvertPitchForAircraftTouch_Description": "Hava araçlarının dokunmatik yönlendirmelerinin ters çevrilmesini açar/kapatır. Açık olduğunda dokunmatik kontrolleri ileri itmek hava aracının yönünü aşağı çevirir.",
+    "AutoPickUpEnabled_Description": "Eşyaları otomatik toplamayı açar/kapatır. Açık olduğunda, eşyaların üzerinden geçtiğinde eşyalar otomatik olarak toplanır.",
     "AutoSortConsumablesToHigherSlots_Description": "Tek kullanımlık eşyaları otomatik olarak daha yüksek numaralı yuvalara sıralama özelliğini açar/kapatır. Açıkken, can ve kalkan gibi eşyalar yerden alındığında otomatik olarak boş yuvalardan en yüksek numaralı olanlara konulur.",
     "AutoSortConsumablesToRight_Description": "Tek kullanımlık eşyaları otomatik olarak sağa alma özelliğini açar/kapatır. Açıkken, can ve kalkan gibi eşyalar yerden alındığında otomatik olarak boş yuvalardan en sağdakine konulur.",
     "GamepadAutoRun_Description_PS4": "Kontrol cihazının otomatik koşu ayarını açar/kapatır. Açık olduğu zaman L3 düğmesine iki kez basmak, sol çubuğu ileri itmene gerek kalmadan otomatik olarak ileri koşmanı sağlar.",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "{0} Ortak {0}|plural(one=Arkadaş,other=Arkadaş)"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "\"{0}\", bir fort_multi_trace_weapon_component taşıyor ama şablonu shotgun_template değil. Sadece pompalı tüfek şablonları, fort_multi_trace_weapon_component kullanabilir; tabanca şablonu, taarruz tüfeği şablonu ve hafif makineli tüfek şablonu fort_trace_weapon_component kullanmalıdır.",
-    "ArmoryTemplates_RequiresWeaponEntity": "\"{0}\", bir {1} taşıyor. Bu, yalnızca silah şablonlarından birinde kullanılabilir (yani pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template).",
-    "ArmoryTemplates_ShotgunRequiresMulti": "\"{0}\", av tüfeği şablonudur ancak fort_multi_trace_weapon_component içermez. Av tüfekleri, fort_multi_trace_weapon_component kullanmalı (fort_trace_weapon_component kullanmamalı)."
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "\"{0}\" varlığı, yalnızca {2} öğesine izin veriyorken bir {1} taşır.",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "Gece Harekâtçısı \"{0}\" bir ana çeşide sahip değil. Tam olarak bir çeşit \"{1}\" olarak etiketlenmeli.",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "K-Pop İblis Avcıları",
     "LegoIslandTag": "LEGO Adası",
-    "RocketRacingTag": "ROCKET RACING",
     "SpeedrunTag": "Hızlı Bitirme",
     "SolidWaveIslandTag": "Squid Game",
     "TmntIslandTag": "Ninja Kaplumbağalar",
@@ -10600,6 +10637,14 @@
     "JunoValidator_GeometryCollection_NullProxyMeshes": "Boş bir Proxy Örgüsü bulunuyor",
     "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
     "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "\"{0}\" konum satırı, Değiştir olarak ayarlanmış ancak Yedek Konum adı belirtilmemiş, bu yüzden yalnızca kaldırılacak.Kaldırmak için yedek öğesi adlandır veya Uygunsuz Eylem belirle.",
+    "ReplacementDisabled": "\"{0}\" konum satırı, devre dışı bırakılmış \"{1}\" satırı Yedek Konum olarak belirtiyor, bu yüzden değiştirme işlemi her zaman başarısız olacak ve yalnızca yuva boşaltılacak.",
+    "ReplaceWithSelf": "\"{0}\" konum satırı, kendisini Yedek Konum olarak adlandırıyor.Değiştirilen satırın yerine gelecek satır da aynı derecede uygunsuz olacaktır.",
+    "EmptyBiomes": "Konum satırı \"{0}\", herhangi bir bölge adı içermediği için asla yerleştirilemez.Ait olduğu bölgeleri adlandır.",
+    "IneligibleActionOnUnsupportedType": "\"{0}\" konum satırı, Uygunsuz Eylem olarak ayarlanmış ancak bir Merkez Dünya konumu değil, bu yüzden yok sayılacak.Mağara, mağara girişi, köprü ve balık tutma noktası konumlarının kendi yıkım durumu vardır. Kullanım dışı bırakma geçişi bunları modellemez.",
+    "ReplacementCycle": "\"{0}\" ve \"{1}\" adındaki konum satırları, birbirlerini yedek olarak adlandırıyor.Döngüyü kır: İçlerinden biri Kaldırılacak olarak belirlenmeli."
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "Oyun listesi etiketi '{1}' için PlaylistBaseDataTableOverrides [{0}]: Kural tablosu '{2}' '{3}' satır yapısına sahipken temel tablo '{4}' '{5}' satır yapısını kullanıyor. Bir veri tablosunu farklı bir satır türüyle geçersiz kılmak, çalışma zamanında bellek bozulmasına neden olur. Kural tablosu, temel tabloyla tamamen aynı satır yapısını kullanmalıdır."
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "Lite UIKit"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*Geliştirici* Gösterilen sebep: {0}",
     "Connecting": "BAĞLANILIYOR",
@@ -10849,8 +10897,8 @@
     "Europe": "Avrupa",
     "Middle East": "Ortadoğu",
     "NA-Central": "Merkezi Kuzey Amerika",
-    "NA-East": "Kuzey Amerika - Doğu",
     "NA-West": "Kuzey Amerika - Batı",
+    "North America": "Kuzey Amerika",
     "Oceania": "Okyanusya",
     "Undefined": "Tanımsız"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "Hiçbir U Monolog Bileşeni, Yakındaki Özne'ye geçmedi",
     "SpatialContextNoSelf": "Hiçbir U Monolog Bileşeni, Uzamsal Bağlam'a geçmedi",
     "SpatialContextNoPawn": "Uzamsal Bağlam - Bu özneden piyon alınamadı"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "Lobi Ganimetlerini Gizle",
+    "LobbyDropsCollectionGame_Name": "Lobi Ganimetleri",
+    "HideLobbyDrops_Description": "Etkinleştirildiğinde Battle Royale, Blitz ve Yeniden lobilerindeki Lobi Ganimetlerini gizler.Lobi Ganimetlerinden ganimet alamayacaksın."
   },
   "MyTownManager": {
     "MissingPersonalityName": "{0} için yerelleştirme yok",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "<Username>{Username}</> gruptan çıktı",
     "MemberKickedToast": "<Username>{Username}</> gruptan atıldı",
     "UnableToJoinCheckingForRejoin": "Olası bir var olan eşleşme kontrol ediliyor, lütfen bekle.",
+    "EpicPartyJoinFailedNoResponse_Title": "Gruba katılamıyorsun",
     "EpicPartyJoinFailedPrivate_Title": "Gruba katılamıyorsun",
     "UnableToJoinPartyPrivate_Title": "Gruba katılamıyorsun",
     "FailedPartyJoin": "Gruba katılım başarısız oldu",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "Güç derecelendirmesi bilgisi alınamıyor.",
     "UnableToJoinUserBuildHigherFormat": "<Username>{0}</> adlı oyuncunun grubuna katılım gerçekleşemiyor. Oyuncunun Fortnite sürümü seninkinden yeni.",
     "UnableToJoinUserBuildLowerFormat": "<Username>{0}</> adlı oyuncunun grubuna katılım gerçekleşemiyor. Oyuncunun Fortnite sürümü seninkinden eski.",
+    "EpicPartyJoinFailedNoResponse": "<Username>{0}</> adlı oyuncunun grubuna katılım gerçekleştirilemiyor.",
     "UnableToJoinDeniedUserUnknownResult": "<Username>{0}</> adlı oyuncunun grubuna katılım gerçekleşemedi. Red Neden Kodu: {1}",
     "EpicPartyJoinFailedUnknown": "<Username>{0}</> adlı oyuncunun grubuna katılım gerçekleşemiyor. Hata Kodu: {1}",
     "UnableToJoinUserUnknownResult": "<Username>{0}</> adlı oyuncunun grubuna katılım gerçekleşemiyor. Hata Kodu: {1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "Gruba katılınamadı. Red Neden Kodu: {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "Gruba katılınamıyor. Hata Kodu: {0}",
     "UnableToJoinPartyUnknownResult": "Gruba katılınamıyor. Hata Kodu: {0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "Bu gruba katılım gerçekleştirilemiyor.",
     "ReadyTextSpectatingGame": "Oyun İzleniyor",
     "ReadyTextWatchingReplay": "Bir Tekrar Seyrediyor",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "Zaten o gruptasın",
@@ -12517,6 +12573,9 @@
     "TwoTeamScore": "{0}"
   },
   "UAthenaGiftConfirmedPanel": {
+    "RecipientInfo": "<text color=\"FFF\">{DisplayName}</> adlı oyuncuya başarıyla bir hediye gönderdin!"
+  },
+  "UAthenaGiftFlowConfirmedPanel": {
     "RecipientInfo": "<text color=\"FFF\">{DisplayName}</> adlı oyuncuya başarıyla bir hediye gönderdin!"
   },
   "UAthenaLockerCategorySortConfig": {

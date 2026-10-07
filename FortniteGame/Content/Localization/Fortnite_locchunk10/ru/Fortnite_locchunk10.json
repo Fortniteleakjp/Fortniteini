@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "Клинок с дополнительной мощной атакой в прыжке.",
     "144AC202422D81D8ECA7FDADA0248752": "Классическая винтовка, которая обладает отличной точностью и дальностью.",
     "174ADE3045B991036DAB808BA3802CDA": "Классическая винтовка, которая обладает отличной точностью и дальностью.",
-    "A633A07540E67656A515748EC42D2BFA": "Классическая винтовка, которая обладает отличной точностью и дальностью.",
     "5CA4C768442DACE154F650919AEBF7CC": "Веселье на полную катушку. Чтобы активировать, подпрыгните, находясь в воздухе.",
     "62060089487721326B23BBA33709B481": "Веселье на полную катушку. Чтобы активировать, подпрыгните, находясь в воздухе.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "Веселье на полную катушку. Чтобы активировать, подпрыгните, находясь в воздухе.",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "Пока действует, исцеляет игроков неподалёку.",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "Тяжёлый автомат",
     "2118AC47465E7B7FC3544E9411BEDFC9": "Тяжёлый автомат +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "Тяжёлый автомат",
+    "6F59A98A484163C0B20075AB5FAF04BF": "Тяжёлый автомат",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "Тяжёлый дробовик",
     "6202063447BC0BE9C686E0B7FA3EE710": "Тяжёлый дробовик",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "Тяжёлый дробовик",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "Инди-переворот",
     "118BD9B247A79B6E7AB2189A409B7EFA": "Инди-оборот",
     "55F09A7841788A6D5EABF7AE7C720557": "Самозарядная винтовка",
-    "C115B50C4700A573DC237EAC7C92E21B": "Самозарядная винтовка",
     "F1638A45469F392DAF5444BE0A097644": "Самозарядная винтовка",
     "F317A4514DE5AEE182F39DA192E355AD": "Самозарядная винтовка",
     "1D7BBE454E1553569F9589A7E633F06D": "Бесконечн.",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "Последний выживший побеждает",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "Побеждает выживший отряд",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Поднимитесь в воздух и промчитесь сквозь облака. Требуется время на восстановление.",
-    "203048A346124F2326AE7489CF3CF605": "Поднимитесь в воздух и промчитесь сквозь облака. Активируйте повторно, чтобы отменить.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Поднимитесь в воздух и промчитесь сквозь облака. Активируйте повторно, чтобы отменить.",
     "261743A8479BF496B7D041B28AA7D369": "Бросает игроков на большое расстояние.",
     "86CE1B5747A296D9410A23BD7ED6275C": "Запускает взрывчатый контейнер с кинематографической краской.",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "Размещайте ориентиры, чтобы указать путь.",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Жетон полноправного участника опроса",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "Пожалуйста, назначьте действие «{s}» для другой кнопки.",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "Вантузный лук",
     "4567895244A3DDF0A6347DB93EA4AB9A": "Карманная буги-вуги-бомба",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "Карманная бронесфера",
     "FB786D2942DF31556A360EBB36845337": "Карманная ударная граната",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "Карманная метла ведьмы",
-    "09BC060C4709B5E30DB790861955D110": "Мощность",
     "4CBE793B4385D3726F1EA5950991BC9C": "Мощь",
     "D13EC04349B8427E99FF49AFABDD232A": "Мощность",
     "D6FFC2F1422B954E038F569E60AA52EE": "Шаблон «Час силы»",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "Тише воды, ниже травы",
     "61B1F6E14915E099FA166191039CA76B": "Скрытный снеговик",
     "E72D7990488977EC9E88CAA2F852A420": "Скрытный снеговик",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "Полуавтоматическая снайперская винтовка. Это оружие, подходящее для средней и дальней дистанции, довольно скорострельно и наносит приличный урон. Оборудовано оптическим прицелом.",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "Снайперская винтовка с глушителем. Мощная снайперская винтовка с глушителем, которая стреляет медленно, но точно.",
     "AD1D0E4849B9874FC0ADF397EB542112": "Снайперская винтовка с глушителем. Мощная снайперская винтовка с глушителем, которая стреляет медленно, но точно.",
     "719A80194FE6CA987DF1FF92404DF970": "Снайперская винтовка, которая <Emphasized>перезаряжается, когда вы не держите её в руках</>",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "Значок за испытание «Зимний фестиваль»",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Ключ Зимнего фестиваля",
     "194B94D745612B291C0C0CAC0487B727": "Метла ведьмы",
-    "EFCEF17944284794FC6D49B915B991EE": "Метла ведьмы",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "Сокровища ждут!",
     "D40AA64648243870B6889FA424D3E046": "X-4 «Буревестник»",
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "Последовательность ИИ-действий",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "Список материалов"
   },
   "Athena": {
     "NPCHiredIndication": " (Компаньон)",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "Произошла ошибка!",
     "AlreadyOwnItemTitle": "Произошла ошибка!",
     "AlreadyOwnBPDescription": "Сейчас вы получите подарочный сертификат боевого пропуска, так как пользователь <text color=\"FFF\">{DisplayName}</> успел купить боевой пропуск, пока мы оформляли подарок.\n Его можно будет использовать, чтобы подарить боевой пропуск другому вашему другу. Если подарочный сертификат боевого пропуска не будет израсходован до конца сезона, мы конфискуем его и начислим вам 950 В-баксов."
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "Получена новая обёртка!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "Произошла неизвестная ошибка",
+    "RecipientCantReceiveGiftsDescription": "Похоже, игрок <text color=\"FFF\">{DisplayName}</> не может получать подарки",
+    "RecipientBoughtItemsDescription": "Похоже, что пользователь <text color=\"FFF\">{DisplayName}</> только что приобрёл следующие предметы:",
+    "AlreadyOwnItemDescription": "Похоже, что пользователь <text color=\"FFF\">{DisplayName}</> только что приобрёл этот предмет.",
+    "GiftChangedDescription": "Похоже, что содержимое подарка изменилось…",
+    "GiftChangedTitle": "ОЙ!",
+    "GenericErrorTitle": "ОЙ! Произошла ошибка!",
+    "RecipientBoughtItemsTitle": "Произошла ошибка!",
+    "RecipientCantReceiveGiftsTitle": "Произошла ошибка!",
+    "AlreadyOwnItemTitle": "Произошла ошибка!",
+    "AlreadyOwnBPDescription": "Сейчас вы получите подарочный сертификат боевого пропуска, так как пользователь <text color=\"FFF\">{DisplayName}</> успел купить боевой пропуск, пока мы оформляли подарок.\n Его можно будет использовать, чтобы подарить боевой пропуск другому вашему другу. Если подарочный сертификат боевого пропуска не будет израсходован до конца сезона, мы конфискуем его и начислим вам 950 В-баксов."
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "Продолжить",
+    "GetVBucks": "Получить В-баксы",
+    "PurchaseGift": "Купить подарок!",
+    "ReloadVBucks": "Пополнить запас В-баксов",
+    "SendGift": "Отправить подарок!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName} теперь получит",
+    "SocialNameInfo": "{DisplayName} получит",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(one=предмет,few=предмета,many=предметов,other=предмета)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(one=предмет,few=предмета,many=предметов,other=предмета)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "Продолжить",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "Плагин HLTv2ToCustomizableUI",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "Инструменты Juno",
     "SpatialMetricProfiler": "SpatialProfiler",
     "WeaponModernizationEditorCommands": "Инструмент модернизации оружия"
   },
@@ -3838,7 +3864,7 @@
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
     "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "ConfigurePrefabTool": "Готовые элементы"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "Разместить: {amount} {resourcetype}",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "Не хватает места!",
     "PlayerKickedCallout": "Игрок {PlayerName} исключён за бездействие.",
     "PlayerKickedSoonCallout": "Игрок {PlayerName} скоро будет исключён за бездействие.",
-    "IdleWarning": "Ваша команда попала в передрягу! Успейте прийти на помощь, прежде чем Лучик отправит вас на базу.\nВозвращение через {SecondsRemaining}"
+    "IdleWarning": "Вашей команде нужна помощь!Успейте прийти на помощь, прежде чем Лучик отправит вас обратно.\nВозвращение через {SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "Просмотреть наборы"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "Пункт доступа к параметрам отладки позы",
     "OrientationWarping": "Искажение ориентации",
     "OrientationWarpingTooltip": "Размещает RootBone по направлению движения и считает количество поворотов.",
+    "SimpleFootPlantingTooltip": "Фиксирует IK-ступни на земле. При перемещении анимированной стопы от позиции происходит размытие.Не зависит от искривления склона.",
     "AttackIKTooltip": "Расположите руки/ноги в соответствии с костями (IK) во время анимации атаки.",
     "FortAnimNode_CurveFilterSlot_Tooltip": "Воспроизводит анимацию из кода с помощью AnimMontage",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "Воспроизводит анимацию из кода с помощью AnimMontage",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "Измеряет кости персонажа с помощью модификатора.",
     "ScaleHuskBonesTooltip": "Определяет размер костей мозгляков в зависимости от типа существ (например мозгляки-карлики маленькие, но с большими головами)",
     "SetIKTarget_Description": "Установить целевые значения Foot IK",
+    "SimpleFootPlanting": "Простое размещение стоп",
     "SpeedWarping": "Искажение скорости",
     "RootSlopeTiltTooltip": "Наклоняет корень скелета в направлении нормали поверхности в ограниченном диапазоне, чтобы последующий узел деформации склона пересчитывал положение конечностей относительно уже наклонённого тела.",
     "TransformRollerTreads": "Преобразование роликов/гусениц",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "ед. энергии",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "ДРУЗЬЯ",
+    "GiftingPartyMembersList": "УЧАСТНИКИ КОМАНДЫ"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "ДРУЗЬЯ",
     "GiftingPartyMembersList": "УЧАСТНИКИ ГРУППЫ"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "Очистка…",
     "LogoutUsabilityExperiment": "Очистка…",
     "FailedClientSettingsDownloadTitle": "Ошибка при загрузке данных из облака",
+    "LoginXmppAsync": "Подключение к службам групп…",
     "ConsoleConnectionChangePromptTitle": "Изменение состояния соединения",
     "QueryKeychainNoMcpMsg": "Нет доступа к MCP для загрузки ключей",
     "CreatingParty": "Создание группы…",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "Автострельба",
     "AutoInteractContainers_Name": "Автооткрывание контейнеров",
     "AutoOpenDoors_Name": "Автооткрывание дверей",
+    "AutoPickUpEnabled_Name": "Автоподбор предметов",
     "AutoPickupWeaponsConsolePC_Name": "Автоподбор оружия",
     "AutoPickupWeapons_Name": "Автоподбор оружия",
     "AutoInteractRevives_Name": "Автовоскрешение союзника",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "Автоматическое скрытие строительных материалов",
     "AutoSetQuality_Action": "Автоопределение",
     "AutoSetQuality_Name": "Автоопределение качества",
+    "MobileAutofireCollection_Name": "Автострельба",
     "TouchAutomationsCollection_Name": "Автоматизация",
     "AutomaticallyApplyXP_Name": "Автоматическое использование опыта персонала",
     "DynamicResolution_Description": "Автоматически регулирует разрешение 3D в зависимости от нагрузки на видеокарту. Если нагрузка небольшая, разрешение увеличивается вплоть до исходного. Если же нагрузка высокая, разрешение уменьшается до значения параметра «Минимальное разрешение 3D».",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "Высокая детализация геометрии позволит отображать более чёткие контуры и формы объектов. Увеличение этого параметра может снизить производительность.",
     "TextureQuality_Description_Default": "Чем выше качество текстур, тем детальнее прорисованы плоские объекты. Увеличение этого параметра может снизить производительность.",
     "TextureQuality_Description_NoHighMips": "Чем выше качество текстур, тем детальнее прорисованы плоские объекты. Увеличение этого параметра позволит отображать более чёткие контуры и формы объектов, но может снизить производительность.\n\n<Icon.Warning></> Текстуры высокого качества не установлены. Их можно загрузить в настройках установки Fortnite в программе запуска Epic Games.",
+    "TextureQuality_Description_EpicAssetsInstalled": "Чем выше качество текстур, тем детальнее прорисованы плоские объекты. Увеличение этого параметра может снизить быстродействие.\n\nСейчас установлены текстуры эпического качества. Чтобы освободить место и загружать ресурсы во время игры, удалите текстуры, перейдя в настройки установки Fortnite в программе запуска Epic Games.",
+    "TextureQuality_Description_EpicAssetsStreamed": "Чем выше качество текстур, тем детальнее прорисованы плоские объекты. Увеличение этого параметра может снизить быстродействие.\n\nПо умолчанию текстуры эпического качества загружаются по запросу. Чтобы реже загружать данные во время игры, установите текстуры, перейдя в настройки установки Fortnite в программе запуска Epic Games.",
     "Hitmarkers_Name": "Звуки попадания",
     "AutoClamber_On": "Зажать «Вперёд»",
     "AutoHurdle_On": "Зажать «Вперёд»",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "Качество сеток",
     "MapPickupDotRarity_Name": "Индикаторы полезных предметов на мини-карте",
     "FOVMinimum_Name": "Минимальный угол обзора",
+    "MobileCheatsCollection_Name": "Читы мобильной версии",
     "MobileFPSType_Name": "Частота кадров (мобильная версия)",
     "MotionBlur_Name": "Размытие в движении",
     "MouseAndKeyboardBindingsCollection_Name": "Мышь и клавиатура",
@@ -7659,8 +7697,8 @@
     "TouchInteractMode_Description": "Позволяет выбрать режим сенсорного взаимодействия.\n\n<strong>«Выкл.»</>: сенсорное взаимодействие выключено.",
     "RenderingMode_TwoModeDescription": "Позволяет выбрать режим визуализации низкого уровня.\n\nОн необходим для использования продвинутых функций визуализации, улучшающих качество изображения, вроде Nanite, Lumen и аппаратной трассировки лучей.\n\nРежим «производительность» может значительно повысить быстродействие, а также снизить нагрузку на процессор и видеокарту за счёт выключения большинства функций визуализации. Он использует DirectX 12 по возможности, а в противном случае — DirectX 11.",
     "FortReleaseVersion_Description": "Позволяет выбрать версию игры, чтобы определить, какие функции должны использоваться (15.20, 15.30, 16.00 и т. д.).",
-    "MatchmakingRegion_Description_V2": "Определяет ваш регион подбора игроков. Значение «Авто» позволяет автоматически подбирать наиболее подходящий регион.Указанные значения диапазона задержки сигнала (пинга) приблизительны. Значения пинга могут отличаться в разных матчах и режимах.",
-    "MatchmakingSubregion_Description": "Определяет предпочтительный субрегион подбора игроков. Система подбора игроков учитывает ваш выбор, но не гарантирует, что будет выбран именно этот субрегион.Значение «Авто» позволяет автоматически подбирать наиболее подходящий регион.Выбор субрегиона может увеличить время ожидания в очереди и сделать матчи менее справедливыми. Указанные значения задержки сигнала (пинга) приблизительны. Значения пинга могут отличаться в разных матчах и режимах.",
+    "MatchmakingRegion_Description_V2": "Определяет ваш регион подбора игроков. Значение «Авто» позволяет автоматически подбирать наиболее подходящий регион. Указанные значения диапазона задержки сигнала (пинга) приблизительны. Значения пинга могут отличаться в разных матчах и режимах.",
+    "MatchmakingSubregion_Description": "Определяет предпочтительный субрегион подбора игроков. Система подбора игроков учитывает ваш выбор, но не гарантирует, что будет выбран именно этот субрегион. Значение «Авто» позволяет автоматически подбирать наиболее подходящий регион. Выбор субрегиона может увеличить время ожидания в очереди и сделать матчи менее справедливыми. Указанные значения задержки сигнала (пинга) приблизительны. Значения пинга могут отличаться в разных матчах и режимах.",
     "CompetitiveRegion_Description": "Выбор региона проведения турнира.Этот параметр отображается, только если у вашего региона подбора игроков есть более 1 турнирного региона.",
     "BasicSensitivityCollection_Name": "Чувствительность",
     "GyroV2Sensitivity_Name": "Чувствительность",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "Позволяет включить или выключить инверсию при управлении летательным аппаратом с помощью контроллера. Если инверсия включена, отклоните контроллер вперёд, чтобы наклонить аппарат вниз.",
     "InvertPitchForAircraftSecondary_Description": "Включить/выключить инверсию при пилотировании летательного аппарата с помощью мыши. Если инверсия включена, подвиньте мышь вперёд, чтобы наклонить аппарат вниз.",
     "InvertPitchForAircraftTouch_Description": "Позволяет включить или выключить инверсию при управлении летательным аппаратом с помощью сенсорных элементов. Если инверсия включена, проведите вперёд, чтобы наклонить аппарат вниз.",
+    "AutoPickUpEnabled_Description": "Включает или отключает автоматический подбор предметов.При включении персонаж будет автоматически подбирать предметы, на которые наступает.",
     "AutoSortConsumablesToHigherSlots_Description": "Позволяет включить и отключить авторазмещение при поднятии для расходуемых предметов, повышающих параметры защиты и здоровья, в самую верхнюю из свободных ячеек.",
     "AutoSortConsumablesToRight_Description": "Позволяет включить и отключить авторазмещение при поднятии для расходуемых предметов, повышающих параметры защиты и здоровья, в самую правую из свободных ячеек.",
     "GamepadAutoRun_Description_PS4": "Позволяет включить и отключить автоматический бег на контроллере. При включении двойное нажатие на кнопку L3 заставит персонажа самостоятельно бежать вперёд, и вам не нужно будет удерживать левый мини-джойстик в наклоне.",
@@ -8394,7 +8433,7 @@
   },
   "FortSettingValueDiscrete_Subregion": {
     "AutoSubregion": "Авто",
-    "SubregionPreferenceRequiresRegion": "Значение «Авто» позволяет автоматически подбирать наиболее подходящий регион.Чтобы изменить этот параметр, выберите любой регион подбора игроков, кроме «Авто».",
+    "SubregionPreferenceRequiresRegion": "Значение «Авто» позволяет автоматически подбирать наиболее подходящий регион. Чтобы изменить этот параметр, выберите любой регион подбора игроков, кроме «Авто».",
     "SubregionDisplayWithPing": "{SubregionId} ({SubregionPing} мс)"
   },
   "FortSettingValueDiscrete_VoiceChatMethod": {
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "{0} {0}|plural(one=общий друг,few=общих друга,many=общих друзей,other=общих друга)"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "Сущность «{0}» имеет компонент fort_multi_trace_weapon_component, но её шаблон — не shotgun_template. Только шаблоны дробовиков могут использовать компонент fort_multi_trace_weapon_component; шаблоны пистолетов, автоматов и пистолетов-пулемётов должны использовать компонент fort_trace_weapon_component.",
-    "ArmoryTemplates_RequiresWeaponEntity": "Существо «{0}» несёт {1}. Можно использовать только для одного из шаблонов оружия (например, pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template).",
-    "ArmoryTemplates_ShotgunRequiresMulti": "Сущность «{0}» — это shotgun_template, но у неё нет компонента fort_multi_trace_weapon_component. Дробовики должны использовать компонент fort_multi_trace_weapon_component (не fort_trace_weapon_component)."
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "Существо «{0}» несёт {1}, хотя разрешено только {2}.",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "У архетипа «{0}» отсутствует основной вариант. Ровно один вариант должен быть отмечен как «{1}».",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "Кейпоп-охотницы на демонов",
     "LegoIslandTag": "Остров LEGO",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "Скоростной заезд",
     "SolidWaveIslandTag": "Игра в кальмара",
     "TmntIslandTag": "Черепашки-ниндзя",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index}. {Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "На месте",
+    "Toolbar": "Панель редактора привязки"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "Флаги данных соединения Juno",
@@ -10576,30 +10613,38 @@
     "ConsolidatePrimitivesCombined": "Создание редиректоров — /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "Создание редиректоров — /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "Создание перенаправлений — /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "Сбор ресурсов «{0}»",
+    "UpdateGeneratedMeshes": "Создание грязных сеток",
+    "PrintAtomModelsInfo": "Вывод информации о моделях атома",
     "RepairGeneratedMeshes": "Восстановление моделей атома",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "Запуск обработчика примитивов: {0} ({1})",
+    "RegeneratePrimitives": "Запуск обработчика примитивов...",
+    "UpdateAllAtomModelsToUseProcessors": "Обновление моделей атома"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "Инструмент данных создания в интерфейсе Juno",
     "ImGuiFrontendCraftingDataToolTooltip": "Инструмент для копирования данных в пользовательский интерфейс"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Обработчик задан, но сетки нужно сгенерировать",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "Обработчик не задан, но есть ссылки на сгенерированные сетки"
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "Структура строки «{0}» определена в клиентском модуле «{1}», но на неё ссылается «{2}», который загружается на сервере. Переместите структуру в модуль Runtime или убедитесь, что данные загружаются только на стороне клиента."
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Содержит пустую сетку автосоздания экземпляров",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "Имеет пустую сетку прокси",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Требуется по крайней мере одна автоинстанцированная сетка.",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "Требуется хотя бы одна прокси-сетка"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "Строка локации «{0}» подразумевает замену, но из-за отсутствия локации на замену она будет только удалена.Укажите замену или установите для параметра некорректного действия значение «Удалить».",
+    "ReplacementDisabled": "Строка локации «{0}» запрещает строке «{1}» производить замену локации, поэтому замена всегда будет завершаться сбоем и освобождением ячейки.",
+    "ReplaceWithSelf": "Строка локации «{0}» отмечена как локация на замену.Замена будет такой же недопустимой, как и строка, которую она заменяет.",
+    "EmptyBiomes": "В строке достопримечательности «{0}» не указаны биомы, поэтому её нельзя разместить. Укажите биомы, к которым она принадлежит.",
+    "IneligibleActionOnUnsupportedType": "Строка локации «{0}» задаёт некорректное действие, но поскольку это не мировая локация, строка будет проигнорирована.Состояние демонтажа таких локаций, как пещера, вход в пещеру, мост и рыбное место, не моделируется пропуском вывода из эксплуатации.",
+    "ReplacementCycle": "Строки локаций «{0}» и «{1}» указывают друг друга как замену.Необходимо внести изменения: одна из них должна подлежать удалению."
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "PlaylistBaseDataTableOverrides[{0}] для тега плейлиста «{1}»: таблица переопределения «{2}» имеет структуру «{3}», но базовая таблица «{4}» использует структуру строк «{5}». Переопределение таблицы данных с другим типом строк приводит к повреждению памяти во время выполнения. Таблица переопределения ДОЛЖНА использовать ту же структуру строк, что и базовая таблица."
@@ -10612,7 +10657,7 @@
     "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
     "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
     "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_NumLODs": "Только один уровень детализации"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "Недостаточно памяти",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "Упрощённый UIKit"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*Рзрб* Отображаемая причина: {0}",
     "Connecting": "ПОДКЛЮЧЕНИЕ",
@@ -10849,8 +10897,8 @@
     "Europe": "Европа",
     "Middle East": "Ближний Восток",
     "NA-Central": "Северная Америка (центр)",
-    "NA-East": "Северная Америка — Восток",
     "NA-West": "Северная Америка — Запад",
+    "North America": "Северная Америка",
     "Oceania": "Океания",
     "Undefined": "Не определён"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "Компоненту NearbySubject не передан компонент UMonologueComponent",
     "SpatialContextNoSelf": "Компоненту SpatialContext не передан компонент UMonologueComponent",
     "SpatialContextNoPawn": "SpatialContext: не удалось получить пешку от субъекта"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "Скрыть награды в лобби",
+    "LobbyDropsCollectionGame_Name": "Награды в лобби",
+    "HideLobbyDrops_Description": "Если параметр включён, награды лобби «Королевской битвы», Blitz и «Перезарядки» будут скрыты.Вы не сможете получать награды лобби."
   },
   "MyTownManager": {
     "MissingPersonalityName": "Нет локализации для: {0}",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "Игрок <Username>{Username}</> покидает группу",
     "MemberKickedToast": "Игрок <Username>{Username}</> исключён из группы",
     "UnableToJoinCheckingForRejoin": "Поиск возможного совпадения, подождите.",
+    "EpicPartyJoinFailedNoResponse_Title": "Не удалось присоединиться к группе",
     "EpicPartyJoinFailedPrivate_Title": "Не удалось присоединиться к группе",
     "UnableToJoinPartyPrivate_Title": "Не удалось присоединиться к группе",
     "FailedPartyJoin": "Не удалось присоединиться к группе",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "Не удалось получить данные об уровне мощи.",
     "UnableToJoinUserBuildHigherFormat": "Не удалось присоединиться к группе игрока <Username>{0}</>. У вас установлена устаревшая версия Fortnite.",
     "UnableToJoinUserBuildLowerFormat": "Не удалось присоединиться к группе игрока <Username>{0}</>. У участников группы установлена устаревшая версия Fortnite.",
+    "EpicPartyJoinFailedNoResponse": "Не удалось присоединиться к группе игрока <Username>{0}</>.",
     "UnableToJoinDeniedUserUnknownResult": "Не удалось присоединиться к группе игрока <Username>{0}</>.  Код причины отказа: {1}",
     "EpicPartyJoinFailedUnknown": "Не удалось присоединиться к группе игрока <Username>{0}</>.  Код ошибки: {1}",
     "UnableToJoinUserUnknownResult": "Не удалось присоединиться к группе игрока <Username>{0}</>.  Код ошибки: {1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "Не удалось присоединиться к группе.  Код причины отказа: {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "Не удалось присоединиться к группе. Код ошибки: {0}.",
     "UnableToJoinPartyUnknownResult": "Не удалось присоединиться к группе. Код ошибки: {0}.",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "Не удалось присоединиться к этой группе.",
     "ReadyTextSpectatingGame": "Просмотр игры",
     "ReadyTextWatchingReplay": "Смотрит повтор",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "Вы уже состоите в этой группе",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "Время окончания: {Month} ({Day}), {Year} г. в {Time} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "Удалить записи привязки",
+    "DuplicateSnapEntries": "Дублировать записи привязки",
+    "PasteSnapEntries": "Вставить записи привязки",
+    "SelectSnapEntry": "Выбрать точку привязки"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "Осталось: {0}"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "Подарок для игрока <text color=\"FFF\">{DisplayName}</> успешно отправлен!"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "Подарок для игрока <text color=\"FFF\">{DisplayName}</> успешно отправлен!"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "Все",
     "CategoriesGroupNameKey": "Категории",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "Нельзя оставить пустое поле."
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "Настроить элементы"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "Покинуть матч и запустить {LinkCode}?",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Предоставляет инструменту для переноса настраиваемого пользовательского интерфейса доступ к инструменту макетов интерфейса (в. 2), чтобы перенести все настройки инструмента макетов интерфейса (в. 2) в новую настраиваемую инфраструктуру интерфейса."
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "Настроить элементы",
+    "BeginConfigurePrefabTool_ToolTip": "Настроить элементы"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "Открыть пространственный профайлер",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "Невозможно вновь присоединиться к игре. Превышено максимальное количество попыток."
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "Список материалов"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "Таблица данных кодекса [ряд {0}], нет действующего тега подкатегории.",
     "NeitherItemNorTag": "Таблица данных кодекса [ряд {0}], нет ни определения предмета, ни тега идентификатора. Должен быть хотя бы один элемент.",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "Таблица данных кодекса [строка {0}] содержит дружелюбного персонажа, но для него не задан генератор ИИ.",
     "CategoryTagInvalid": "Таблица данных кодекса [ряд {0}], нет действующего тега категории.",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "Таблица данных Codex [{0}] ссылается на предмет [{1}], который не будет существовать во время упаковки плагина для [{2}].Удалите строку или обновите версию выпуска предмета, чтобы они совпадали."
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "Таблица данных диалога [строка {0}] содержит недопустимый текст в свойстве [{1}]:{2}«{3}»"
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "Формула изготовления [{0}] содержит пустой тег RequiredIngredients! Это может вызвать проблемы во время выполнения.",
     "DirectOutputsWithLootTierKey": "FCraftingFormula [{0}] имеет как ResultLootTierKey, так и прямой вывод (запись ExtraData). Удалите ResultLootTierKey или запись прямого вывода"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData с ActorName [{0}] содержит пустой рецепт!!Это может вызвать проблемы во время выполнения."
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "У FJunoGuidedBuildingDisplayActorDataEntry с индексом [{0}] пустой чертёж! В связи с этим при запуске могут возникать ошибки."
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "Предмет [{0}] имеет версию выпуска [{1}], но на него ссылается таблица добычи [{2}], чей модуль компилируется в [{3}]. Предмет отсутствует, когда используется эта таблица добычи. Удалите предмет из таблицы добычи или обновите версию предмета, чтобы она соответствовала версии плагина."
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "Таблица данных журнала [строка {0}] содержит тип CompletionReaction, который дарует награду, но при этом установлено значение GrantToWorld.  Нужно использовать GrantToParticipants, чтобы правильно выдать предмет всем игрокам.",
     "TextInvalid": "Таблица данных журнала [строка {0}] содержит недопустимый текст в свойстве [{1}]:{2}«{3}»",
     "PrereqQuestProgressNotification": "Таблица данных журнала [ряд {0}], индекс предварительных требований [{1}]: параметр bHideQuestProgressNotification задания должен быть включён.",
     "PrereqQuestStartingToast": "Таблица данных журнала [ряд {0}], индекс предварительных требований [{1}]: параметр bShouldDisplayStartingToast задания должен быть отключён.",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "Таблица данных журнала [ряд {0}], индекс предварительных требований [{1}] AwesomeLevelIndex не является действующим индексом UpgradeRequirements ({2}).",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "Таблица данных журнала [ряд {0}], индекс предварительных требований [{1}] CampTagConfigKey не соотносится с таблицей данных FJunoAwesomePoiConfigTableRow.",
     "PrereqTownbuilderInvalidNoValidALI": "Таблица данных журнала [ряд {0}], у индекса предварительных требований [{1}] нет действующего AwesomeLevelIndex.",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "Таблица данных журнала [ряд {0}], у индекса предварительных требований [{1}] нет действующего тега CampTagConfigKey.",
     "PrerequistitesInvalidNoValidPreReqType": "Таблица данных журнала [ряд {0}], у индекса предварительных требований [{1}] нет действующего типа предварительных требований.",
     "PrereqQuestInvalidNotNeededPFComponent": "Таблица данных журнала [ряд {0}], у индекса предварительных требований [{1}] имеется компонент PersistenceFramework, это не требуется.",
     "PrereqQuestInvalidQuestSoftPtr": "Таблица данных журнала [ряд {0}], у индекса предварительных требований [{1}] недействительное значение параметра Quest SoftPtr [{2}].",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "Таблица данных журнала [ряд {0}], у индекса предварительных требований [{1}] нет параметра QuestDef.",
     "PrereqTownbuilderInvalidRCButEmptyRL": "Таблица данных журнала [ряд {0}], индекс предварительных требований [{1}] ссылается на ResourceCost, однако {2} имеет пустой ResourceList.",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "Таблица данных журнала [ряд {0}], индекс предварительных требований [{1}], не удалось найти UpgradeStep с UpgradeStepIdentifer {2} для UpgradeStages ({3}).",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "Таблица данных журнала [ряд {0}] не имеет предварительных требований.",
+    "CategoryTagInvalid": "Таблица данных журнала [{0}], отсутствует действующий тег категории.",
+    "CompletionReactionsInvalid": "Таблица данных журнала [строка {0}] настроена так, чтобы отображаться через CompletionReaction Index [{1}].",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "Таблица данных журнала [ряд {0}] настроена на самораскрытие с помощью NextTaskRowName. Уберите отметку с RevealNextTaskOnComplete, чтобы снять блокировку, и обратитесь к инженеру!",
     "CompletionReactionsInvalid_RowNotExist": "Таблица данных журнала [ряд {0}] при завершении раскрывает несуществующий [ряд {1}].",
     "CompletionReactionsInvalid_AutoReveal": "Таблица данных журнала [ряд {0}] при завершении раскрывает [ряд {1}], который использует AutoRevealCondition.  Это запрещено, так как ConditionsForAutoRevealOrHide управляет раскрытием задач самостоятельно.",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "Таблица данных журнала [строка {0}] использует RevealNextTaskOnComplete, но NextTaskRowName {1} неверно.Пожалуйста, снова поставьте галочку.",
+    "ValidateLoadedAsset": "В таблице данных журнала [{0}] по индексу {1} в условиях указано задание [{2}], которое будет отсутствовать после подготовки плагина для пакета в [{3}]. Удалите строку или обновите версию выпуска предмета, чтобы они совпадали."
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "LootPackage [{0}] содержит ссылку на предмет [{1}], которого не будет при подготовке плагина набора в [{2}].Удалите строку или обновите версию выпуска предмета, чтобы они совпадали."
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "Изменить объект",

@@ -1,13 +1,13 @@
 {
   "": {
-    "89C0FBAD44FADF34B8511F882A8640D1": "Użyj kilku takich, gdy potrzeba zwiększyć obroty. ",
-    "ACEE789D4CB4CF1EE4874BA6768119DE": "Gdy jeszcze bardziej trzeba podkręcić obroty."
+    "392A3EDF4970168C7B7DE6834388E77F": "Użyj kilku takich, gdy potrzeba zwiększyć obroty. ",
+    "3DBC64E84D2AE7558E61E4AFA1298CAA": "Gdy trzeba jeszcze bardziej podkręcić obroty."
   },
   "Juno_GameplayItemToTagMapping": {
-    "7F12123A4DDD99D670F726A00737F034": "Przymocuj duże silniki do istniejących budowli i dynamicznych obiektów.",
-    "A273638A43FBCAE3F1D05BA2085ACB16": "Przymocuj małe silniki do istniejących budowli i dynamicznych obiektów.",
-    "FB90A27F4B95E168E9C6CA88443875D0": "Duży silnik",
-    "5E9A371D43E076126910D39AF338F4B5": "Mały silnik"
+    "394CD65446E532A162F2399C49C6C554": "Przymocuj duże silniki do istniejących budowli i dynamicznych obiektów.",
+    "0CFDE8624230BF8C658E339A15C5E8B8": "Przymocuj małe silniki do istniejących budowli i dynamicznych obiektów.",
+    "098208DB40D467063DFAB7B353FE8DE5": "Duży silnik",
+    "59EAC72F40D22825B526C582E95BF8F5": "Mały silnik"
   },
   "PP_CraftingFormulas_RemoteThrusterPlacer": {
     "8D875AFF4462C00749F100AD55FE62DF": "Duży silnik",

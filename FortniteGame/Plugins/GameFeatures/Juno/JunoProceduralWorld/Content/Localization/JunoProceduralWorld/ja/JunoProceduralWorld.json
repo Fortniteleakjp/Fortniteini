@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "経路検索の形状 (おそらく風景！)",
     "UnableToGetPointData": "入力から地点データを取得できませんでした",
     "UnableToGetSpatialData": "入力から空間データを取得できませんでした"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "高所テクスチャのデータを取得できず、初期化が失敗しました。",
-    "FailExtractGrassTypeOverrides": "草タイプのオーバーライドを抽出できませんでした。"
   }
 }

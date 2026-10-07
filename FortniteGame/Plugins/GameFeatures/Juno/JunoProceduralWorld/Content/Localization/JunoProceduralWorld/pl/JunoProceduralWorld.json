@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "Ukształtuj celem odnalezienia drogi w poprzek (prawdopodobnie środowisko!)",
     "UnableToGetPointData": "Nie można uzyskać danych punktu z wejścia",
     "UnableToGetSpatialData": "Nie można uzyskać danych przestrzennych z wejścia"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "Nie można pobrać danych tekstury wysokości. Inicjalizacja nieudana.",
-    "FailExtractGrassTypeOverrides": "Nie udało się pobrać zastąpienia rodzaju trawy."
   }
 }

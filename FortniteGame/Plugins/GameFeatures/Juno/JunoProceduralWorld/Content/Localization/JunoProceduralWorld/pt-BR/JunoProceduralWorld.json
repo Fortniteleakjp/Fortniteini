@@ -15,9 +15,5 @@
     "UPCGJunoPathfindSettingsShapePin": "Forma para encontrar a rota (provavelmente Paisagem!)",
     "UnableToGetPointData": "Não é possível obter dados de Ponto pela entrada",
     "UnableToGetSpatialData": "Não é possível obter dados Espaciais pela entrada"
-  },
-  "PCGJunoGenerateLandscapeTexturesElement": {
-    "HeightTextureInitFailed": "Não foi possível recuperar os dados de altura da textura. Falha na inicialização.",
-    "FailExtractGrassTypeOverrides": "Falha ao extrair modificações de tipo de vegetação."
   }
 }

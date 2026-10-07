@@ -356,7 +356,6 @@
     "BEFEB0CC4887556D5F83EA8C31563F5F": "Một thanh kiếm có đòn phụ bổ xuống mạnh mẽ.",
     "144AC202422D81D8ECA7FDADA0248752": "Một khẩu súng trường cổ điển với độ chính xác cao và tầm bắn xa.",
     "174ADE3045B991036DAB808BA3802CDA": "Một khẩu súng trường cổ điển với độ chính xác cao và tầm bắn xa.",
-    "A633A07540E67656A515748EC42D2BFA": "Một khẩu súng trường cổ điển với độ chính xác cao và tầm bắn xa.",
     "5CA4C768442DACE154F650919AEBF7CC": "Một cú nổ gia tốc hết cỡ đầy phấn khích và niềm vui. Khởi động bằng cách Nhảy trên không.",
     "62060089487721326B23BBA33709B481": "Một cú nổ gia tốc hết cỡ đầy phấn khích và niềm vui. Khởi động bằng cách Nhảy trên không.",
     "C9915DA648EFCD8E2185FD816CDBBAA2": "Một cú nổ gia tốc hết cỡ đầy phấn khích và niềm vui. Khởi động bằng cách Nhảy trên không.",
@@ -1029,6 +1028,8 @@
     "E30F49304F96387D777824B552323084": "Hồi máu cho những người chơi gần đó khi đang hoạt động.",
     "2B4A2EC64C34C0E3DF8EC8A039979786": "AR Nặng",
     "2118AC47465E7B7FC3544E9411BEDFC9": "AR Nặng +",
+    "3643B4A94A5C6BB2254661BD6A92AC40": "Súng Trường Xung Kích Hạng Nặng",
+    "6F59A98A484163C0B20075AB5FAF04BF": "Súng Trường Xung Kích Hạng Nặng",
     "4D1E3CCE4AB63DBE205F768CC950F2D3": "Shotgun Hạng Nặng",
     "6202063447BC0BE9C686E0B7FA3EE710": "Shotgun Hạng Nặng",
     "7E9D83BD49686D2C9D75B9B31698D5D6": "Shotgun Hạng Nặng",
@@ -1089,7 +1090,6 @@
     "3B23812B4104C655B1751DAB80ED2993": "Lật Chữ G Indy",
     "118BD9B247A79B6E7AB2189A409B7EFA": "Khám Phá Indy",
     "55F09A7841788A6D5EABF7AE7C720557": "Súng Trường Bộ Binh",
-    "C115B50C4700A573DC237EAC7C92E21B": "Súng Trường Bộ Binh",
     "F1638A45469F392DAF5444BE0A097644": "Súng Trường Bộ Binh",
     "F317A4514DE5AEE182F39DA192E355AD": "Súng Trường Bộ Binh",
     "1D7BBE454E1553569F9589A7E633F06D": "Vô Hạn",
@@ -1141,7 +1141,6 @@
     "C21BFCC843ECBDD4244B80BC06CC68DC": "Người Sống Sót Cuối Cùng Sẽ Chiến Thắng",
     "1740E88D4507B5C9B2AAD1892CFA36A8": "Biệt Đội Cuối Cùng Còn Lại Giành Chiến Thắng",
     "0E7DAF39462A8FDB208B1B94A8372C42": "Phóng lên không trung và cười khúc khích trên bầu trời. Bắt đầu hồi chiêu.",
-    "203048A346124F2326AE7489CF3CF605": "Phóng lên không trung và cười khúc khích trên bầu trời. Kích hoạt lại để hủy sớm.",
     "907C815D4FCFB0C6BC3A0DBB738CAC9D": "Phóng lên không trung và cười khúc khích trên bầu trời. Kích hoạt lại để hủy sớm.",
     "261743A8479BF496B7D041B28AA7D369": "Phóng người chơi đi những khoảng cách xa.",
     "86CE1B5747A296D9410A23BD7ED6275C": "Phóng một thùng thuốc nổ chứa sơn điện ảnh.",
@@ -1403,7 +1402,6 @@
     "9EC314644018A0419EA1F482397A0E43": "Đặt các điểm đánh dấu để dẫn lối.",
     "3867525B47775904DD3B9FB4C779F25E": "Placeholder item. DO NOT SHIP.",
     "291AD5F7469E20890EFCD288976C3A9B": "Token Đủ Điều Kiện Khảo Sát Người Chơi",
-    "C57C049B4748282A4A892784AABBF09C": "PlayerName_default",
     "18F99A0D4BDBB73D3346019F9482B30A": "Vui lòng gán lại phím cho hành động {s}.",
     "81AFE9C84B9ACD45C44764B28EBF86C0": "Cung Thông Tắc",
     "4567895244A3DDF0A6347DB93EA4AB9A": "Bom Nhảy Múa Bỏ Túi",
@@ -1412,7 +1410,6 @@
     "E522F4A843D34DAEB2A0018323D90C65": "Bong Bóng Khiên Bỏ Túi",
     "FB786D2942DF31556A360EBB36845337": "Lựu Đạn Sóng Xung Kích Bỏ Túi",
     "32E0A00C47255BAEBDF72AAF92DD94C1": "Chổi Phù Thủy Bỏ Túi",
-    "09BC060C4709B5E30DB790861955D110": "Sức Mạnh",
     "4CBE793B4385D3726F1EA5950991BC9C": "Sức mạnh",
     "D13EC04349B8427E99FF49AFABDD232A": "Sức Mạnh",
     "D6FFC2F1422B954E038F569E60AA52EE": "Mẫu Giờ Thống Trị",
@@ -1602,6 +1599,7 @@
     "4D0811B84A251BD52C82C89A6F3E409B": "Lén Lút",
     "61B1F6E14915E099FA166191039CA76B": "Người Tuyết Lén Lút",
     "E72D7990488977EC9E88CAA2F852A420": "Người Tuyết Lén Lút",
+    "8C3D91E34BDE4D5E650D8FA688A0926D": "Súng Trường Bắn Tỉa: Bán Tự Động. Một khẩu súng trường tầm trung đến xa gây sát thương tốt và có thể bắn nhanh. Có ống ngắm để tăng độ chính xác khi ngắm bắn.",
     "0EDC01BF43DF751F9F5E58A4AA5A5DFF": "Súng Trường Bắn Tỉa: Giảm Thanh. Một khẩu súng trường bắn tỉa mạnh mẽ được trang bị bộ giảm thanh được chế tạo để bắn những phát chính xác đơn lẻ với tốc độ bắn chậm.",
     "AD1D0E4849B9874FC0ADF397EB542112": "Súng Trường Bắn Tỉa: Giảm Thanh. Một khẩu súng trường bắn tỉa mạnh mẽ được trang bị bộ giảm thanh được chế tạo để bắn những phát chính xác đơn lẻ với tốc độ bắn chậm.",
     "719A80194FE6CA987DF1FF92404DF970": "Súng trường bắn tỉa có thể <Emphasized>nạp đạn khi không được cầm</>",
@@ -1982,7 +1980,6 @@
     "9BD108A54CA8FA397E1DBD95E37958BB": "Xu Hoàn Thành Thử Thách Lễ Hội Mùa Đông",
     "CBC7ADD24B1103A2F555E8AF59888C5F": "Chìa Khóa Lễ Hội Mùa Đông",
     "194B94D745612B291C0C0CAC0487B727": "Chổi Phù Thủy",
-    "EFCEF17944284794FC6D49B915B991EE": "Chổi Phù Thủy",
     "E802A4F6446FEB69B7765E9251FD766E": "X",
     "71184DB949BE8B082462B7B962C39E48": "X Đánh Dấu Vị Trí!",
     "D40AA64648243870B6889FA424D3E046": "Cánh Bão X4",
@@ -2191,7 +2188,7 @@
   },
   "AssetTypeActions": {
     "AIActionSequence": "Chuỗi Hành Động AI",
-    "UJunoAssetListAssetFactory": "Asset List"
+    "UJunoAssetListAssetFactory": "Danh Sách Tài Sản"
   },
   "Athena": {
     "NPCHiredIndication": " (Tùy Tùng)",
@@ -2419,6 +2416,35 @@
     "RecipientCantReceiveGiftsTitle": "Đã Có Sự Cố Xảy Ra!",
     "AlreadyOwnItemTitle": "Đã có sự cố xảy ra!",
     "AlreadyOwnBPDescription": "Giờ bạn sẽ nhận Xu Quà Thẻ Chiến Đấu vì <text color=\"FFF\">{DisplayName}</> đã mua Thẻ Chiến Đấu trong khi bạn đang tặng quà.\n Bạn có thể dùng nó để tặng Thẻ Chiến Đấu cho một người bạn khác. Nếu Xu Quà Thẻ Chiến Đấu không được dùng trước khi mùa kết thúc, nó sẽ được đổi thành 950 V-Buck trong tài khoản của bạn."
+  },
+  "AthenaGiftingFlowConfirmationScreen": {
+    "NewGiftBoxReceived": "Nhận Được Hộp Quà Mới!"
+  },
+  "AthenaGiftingFlowErrorsPanel": {
+    "GenericErrorDescription": "Có lỗi không xác định",
+    "RecipientCantReceiveGiftsDescription": "Có vẻ <text color=\"FFF\">{DisplayName}</> không đủ điều kiện nhận quà",
+    "RecipientBoughtItemsDescription": "Có vẻ <text color=\"FFF\">{DisplayName}</> đã vừa mua những vật phẩm dưới đây:",
+    "AlreadyOwnItemDescription": "Có vẻ <text color=\"FFF\">{DisplayName}</> đã vừa mua vật phẩm này.",
+    "GiftChangedDescription": "Có vẻ nội dung quà tặng đã thay đổi...",
+    "GiftChangedTitle": "ỐI!",
+    "GenericErrorTitle": "ỐI! Đã có sự cố xảy ra!",
+    "RecipientBoughtItemsTitle": "Đã Có Sự Cố Xảy Ra!",
+    "RecipientCantReceiveGiftsTitle": "Đã Có Sự Cố Xảy Ra!",
+    "AlreadyOwnItemTitle": "Đã có sự cố xảy ra!",
+    "AlreadyOwnBPDescription": "Giờ bạn sẽ nhận Xu Quà Thẻ Chiến Đấu vì <text color=\"FFF\">{DisplayName}</> đã mua Thẻ Chiến Đấu trong khi bạn đang tặng quà.\n Bạn có thể dùng nó để tặng Thẻ Chiến Đấu cho một người bạn khác. Nếu Xu Quà Thẻ Chiến Đấu không được dùng trước khi mùa kết thúc, nó sẽ được đổi thành 950 V-Buck trong tài khoản của bạn."
+  },
+  "AthenaGiftingFlowPurchaseButton": {
+    "Continue": "Tiếp tục",
+    "GetVBucks": "Mua V-Buck",
+    "PurchaseGift": "Mua quà tặng!",
+    "ReloadVBucks": "Nạp V-Buck",
+    "SendGift": "Gửi Quà!"
+  },
+  "AthenaGiftingFlowPurchasePanel": {
+    "RetrySocialNameInfo": "{DisplayName} giờ sẽ nhận được",
+    "SocialNameInfo": "{DisplayName} sẽ nhận được",
+    "ItemsCount": "{GiftItemsCount} {GiftItemsCount}|plural(one=Vật Phẩm,other=Vật Phẩm)",
+    "ItemsAndMaxCount": "{GiftItemsCount}/{ItemsTotalCount} {ItemsTotalCount}|plural(one=Vật Phẩm,other=Vật Phẩm)"
   },
   "AthenaGiftingPurchaseButton": {
     "Continue": "Tiếp tục",
@@ -3006,7 +3032,7 @@
   },
   "Contexts": {
     "HLTv2ToCustomizableUI": "HLTv2ToCustomizableUI Plugin",
-    "JunoViewportToolsCommands": "Juno Tools",
+    "JunoViewportToolsCommands": "Công Cụ Của Juno",
     "SpatialMetricProfiler": "Máy Phân Tích Không Gian",
     "WeaponModernizationEditorCommands": "Công Cụ Cải Tiến Vũ Khí"
   },
@@ -3838,7 +3864,7 @@
   "FJunoViewportToolsModule": {
     "SectionName": "Juno",
     "ExtensionName": "JunoTools",
-    "ConfigurePrefabTool": "Prefab"
+    "ConfigurePrefabTool": "Mô Hình Tạo Sẵn"
   },
   "FStateDrivenEvent_DepositResource": {
     "DepositResource": "Gom {amount} {resourcetype}",
@@ -4659,7 +4685,7 @@
     "ItemCapacityReachedText": "Không thể mang thêm vật phẩm này!",
     "PlayerKickedCallout": "Người chơi {PlayerName} đã bị đẩy ra vì không hoạt động.",
     "PlayerKickedSoonCallout": "Người chơi {PlayerName} sẽ bị đẩy ra sớm vì không hoạt động.",
-    "IdleWarning": "Đội của bạn cần sự giúp đỡ từ bạn! Hãy giúp đỡ trước khi Ray gửi bạn trở lại Căn Cứ Chính.\nQuay lại chỗ Kendo {SecondsRemaining}"
+    "IdleWarning": "Cả đội cần bạn giúp! Hãy giúp đỡ trước khi Ray đưa bạn quay lại.\nQuay lại sau {SecondsRemaining}"
   },
   "Fort.PlaysetInventoryPanel": {
     "InteractionText": "Xem Bộ Chơi"
@@ -4794,6 +4820,7 @@
     "FortAnimNode_PoseDebug_Tooltip": "Nút để truy cập các tùy chọn gỡ lỗi tư thế",
     "OrientationWarping": "Biến Dạng Định Hướng",
     "OrientationWarpingTooltip": "Định hướng Xương Gốc để khớp với hướng di chuyển, và xoay ngược cột sống.",
+    "SimpleFootPlantingTooltip": "Ghim chân IK tại chỗ khi đã chạm đất, rồi hòa trộn dần khi chân trong hoạt ảnh rời khỏi vị trí đã đặt. Tách biệt với biến dạng độ dốc.",
     "AttackIKTooltip": "Đặt tay/chân theo xương IK trong suốt hoạt ảnh tấn công.",
     "FortAnimNode_CurveFilterSlot_Tooltip": "Chạy hoạt ảnh từ mã nguồn sử dụng AnimMontage",
     "FortAnimNode_NoBlendCurveSlot_Tooltip": "Chạy hoạt ảnh từ mã nguồn sử dụng AnimMontage",
@@ -4811,6 +4838,7 @@
     "ScaleCharacterBonesTooltip": "Căn chỉnh xương nhân vật bằng công cụ biến đổi.",
     "ScaleHuskBonesTooltip": "Căn chỉnh xương Husk dựa theo phân loại. (ví dụ: Husk Lùn nhỏ nhưng có đầu lớn)",
     "SetIKTarget_Description": "Cài Đặt Mục Tiêu Đặt Chân",
+    "SimpleFootPlanting": "Đặt Chân Đơn Giản",
     "SpeedWarping": "Biến Dạng Tốc Độ",
     "RootSlopeTiltTooltip": "Nghiêng gốc Lính Xương về phía pháp tuyến của sàn theo một tỉ lệ giới hạn. Điều này giúp nút biến dạng dốc ở phía dưới xử lý lại các chi chống dựa trên phần thân đã bị nghiêng.",
     "TransformRollerTreads": "Chuyển đổi Trục Lăn/Rãnh Lốp",
@@ -5216,6 +5244,10 @@
     "EnergyCostUnits": "năng lượng",
     "CostFmtStr": "{CostValue} {CostType}"
   },
+  "FortGiftingFlowSocialUserListView": {
+    "GiftingFriendsList": "BẠN BÈ",
+    "GiftingPartyMembersList": "THÀNH VIÊN PHE"
+  },
   "FortGiftingSocialUserListView": {
     "GiftingFriendsList": "BẠN BÈ",
     "GiftingPartyMembersList": "THÀNH VIÊN PHE"
@@ -5620,6 +5652,7 @@
     "DisconnectingFromLobby": "Đang dọn dẹp...",
     "LogoutUsabilityExperiment": "Đang dọn dẹp...",
     "FailedClientSettingsDownloadTitle": "Tải Từ Đám Mây Thất Bại",
+    "LoginXmppAsync": "Đang kết nối với các dịch vụ tổ đội...",
     "ConsoleConnectionChangePromptTitle": "Thay Đổi Trạng Thái Kết Nối",
     "QueryKeychainNoMcpMsg": "Không thể truy cập MCP để tải xuống keychain",
     "CreatingParty": "Đang Tạo Phe Đội...",
@@ -6644,6 +6677,7 @@
     "AutoFireName": "Bắn Tự Động",
     "AutoInteractContainers_Name": "Tự Động Mở Thùng Chứa",
     "AutoOpenDoors_Name": "Tự Động Mở Cửa",
+    "AutoPickUpEnabled_Name": "Tự Động Nhặt Vật Phẩm",
     "AutoPickupWeaponsConsolePC_Name": "Tự Động Nhặt Vũ Khí",
     "AutoPickupWeapons_Name": "Tự Động Nhặt Vũ Khí",
     "AutoInteractRevives_Name": "Tự Động Hồi Sinh Đồng Đội",
@@ -6657,6 +6691,7 @@
     "AutoHideBuildingMaterials_Name": "Tự Động Ẩn Nguyên Liệu Xây dựng",
     "AutoSetQuality_Action": "Tự Động Cài Đặt",
     "AutoSetQuality_Name": "Chất Lượng Tự Động Cài Đặt",
+    "MobileAutofireCollection_Name": "Bắn Tự Động",
     "TouchAutomationsCollection_Name": "Hành Động Tự Động",
     "AutomaticallyApplyXP_Name": "Áp Dụng Tự Động - XP Nhân Lực",
     "DynamicResolution_Description": "Tự động điều chỉnh độ phân giải 3D dựa trên mức tải của GPU. Khi mức sử dụng GPU thấp, độ phân giải sẽ tăng lên tối đa đến độ phân giải gốc. Khi mức sử dụng GPU cao, độ phân giải sẽ giảm xuống cài đặt Độ Phân Giải 3D Tối Thiểu.",
@@ -7123,6 +7158,8 @@
     "MeshQuality_Description": "Cài đặt hình học ở mức cao hơn cho vật thể có hình dáng chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.",
     "TextureQuality_Description_Default": "Cài đặt kết cấu ở mức cao hơn cho vật thể phẳng có vẻ ngoài chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.",
     "TextureQuality_Description_NoHighMips": "Cài đặt kết cấu ở mức cao hơn cho vật thể phẳng có vẻ ngoài chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.\n\n<Icon.Warning></> Kết cấu chất lượng cao không được cài đặt. Bạn có thể tải về kết cấu chất lượng cao từ Epic Games Launcher trong Tùy Chọn Cài Đặt Fortnite.",
+    "TextureQuality_Description_EpicAssetsInstalled": "Cài đặt kết cấu ở mức cao hơn cho vật thể phẳng có vẻ ngoài chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.\n\nKết cấu chất lượng cực cao không được cài đặt. Để giải phóng dung lượng và tải tài nguyên trong trò chơi, bạn có thể gỡ cài đặt kết cấu từ Epic Games Launcher trong Tùy Chọn Cài Đặt Fortnite.",
+    "TextureQuality_Description_EpicAssetsStreamed": "Cài đặt kết cấu ở mức cao hơn cho vật thể phẳng có vẻ ngoài chi tiết hơn. Tăng mức cài đặt này sẽ làm vật thể chi tiết hơn, nhưng có thể làm giảm hiệu suất.\n\nTheo mặc định, kết cấu chất lượng Sử Thi sẽ được phát trực tuyến theo yêu cầu. Để giảm lượng tải xuống trong quá trình chơi, người chơi có thể tùy chọn cài đặt từ Trình Khởi Chạy Epic Games trong Tùy Chọn Cài Đặt Fortnite.",
     "Hitmarkers_Name": "Dấu Trúng Đích",
     "AutoClamber_On": "Giữ Nút Tiến Trước",
     "AutoHurdle_On": "Giữ Nút Tiến Trước",
@@ -7369,6 +7406,7 @@
     "MeshQuality_Name": "Mắt Lưới",
     "MapPickupDotRarity_Name": "Chỉ Báo Nhặt Bản Đồ Nhỏ",
     "FOVMinimum_Name": "Tầm Nhìn (FOV) Tối Thiểu",
+    "MobileCheatsCollection_Name": "Gian Lận Trên Di Động",
     "MobileFPSType_Name": "Tốc Độ Khung Hình Mobile",
     "MotionBlur_Name": "Độ Mờ Chuyển Động",
     "MouseAndKeyboardBindingsCollection_Name": "Chuột & Bàn Phím",
@@ -7966,6 +8004,7 @@
     "InvertPitchForAircraftPrimary_Description": "Bật/Tắt chế độ đảo ngược hướng lái máy bay bằng bộ điều khiển. Khi bật, nhấn nút tiến lên sẽ làm máy bay chúi xuống.",
     "InvertPitchForAircraftSecondary_Description": "Bật/tắt đảo ngược điều khiển chuột máy bay. Khi bật, di chuột tiến lên sẽ làm máy bay chúi xuống.",
     "InvertPitchForAircraftTouch_Description": "Bật/tắt đảo ngược điều khiển máy bay bằng cảm ứng. Khi bật, di chuyển cảm ứng về phía trước sẽ làm máy bay nghiêng xuống.",
+    "AutoPickUpEnabled_Description": "Bật/tắt tự động nhặt vật phẩm. Khi bật tính năng này, vật phẩm sẽ tự động được nhặt khi bạn di chuyển qua chúng.",
     "AutoSortConsumablesToHigherSlots_Description": "Bật/tắt chức năng tự động sắp xếp vật phẩm tiêu hao vào các ô có số thứ tự cao hơn. Khi bật, các vật phẩm tiêu hao như thuốc hồi HP và khiên sẽ mặc định xếp vào thanh tắt còn trống có số thứ tự cao nhất khi được nhặt lên.",
     "AutoSortConsumablesToRight_Description": "Bật/tắt chức năng tự động sắp xếp vật phẩm tiêu hao sang bên phải. Khi bật, các vật phẩm tiêu hao như thuốc hồi HP và khiên sẽ mặc định xếp vào thanh tắt còn trống ngoài cùng bên phải khi được nhặt lên.",
     "GamepadAutoRun_Description_PS4": "Bật/tắt chế độ chạy tự động trên bộ điều khiển. Khi bật, ấn Nút L3 hai lần sẽ khiến bạn tự động chạy về phía trước mà không cần đẩy giữ cần trái về phía trước.",
@@ -9008,9 +9047,8 @@
     "Social_MutualFriendsFormat": "{0} {0}|plural(one=Bạn Bè,other=Bạn Bè) Chung"
   },
   "FortValidator_ArmoryTemplates": {
-    "ArmoryTemplates_NonShotgunForbidsMulti": "Thực thể '{0}' đi kèm một fort_multi_trace_weapon_component nhưng template của thực thể này không phải shotgun_template. Chỉ riêng template súng săn mới có thể sử dụng fort_multi_trace_weapon_component; pistol_teplate, assault_rifle_template và sub_machine_gun_template must use fort_trace_weapon_component.",
-    "ArmoryTemplates_RequiresWeaponEntity": "Thực thể '{0}' đi kèm một {1}. Chức năng này chỉ có thể sử dụng được trên một trong các template vũ khí (ví dụ pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template).",
-    "ArmoryTemplates_ShotgunRequiresMulti": "Thực thể '{0}' là shotgun_template nhưng không đi kèm một fort_multi_trace_weapon_component. Shotgun phải sử dụng fort_multi_trace_weapon_component (không phải fort_trace_weapon_component)."
+    "ArmoryTemplates_WeaponEntityClassComponentRequirements": "Thực thể \"{0}\" đi kèm một {1} trong khi nó chỉ cho phép {2}.",
+    "ArmoryTemplates_RequiresWeaponEntity_WeaponComponent": "Entity '{0}' carries a {1}. This can only be used on one of the weapon templates (i.e. pistol_template, assault_rifle_template, shotgun_template, sub_machine_gun_template, held_item_template)."
   },
   "FortValidator_ExtractionAssetMapping": {
     "NoMainVariant": "Nguyên mẫu \"{0}\" không có biến thể chính. Phải có chính xác một biến thể được gắn thẻ \"{1}\".",
@@ -10503,7 +10541,6 @@
     "FallGuysTag": "Fall Guys",
     "BrightCoilIslandTag": "Thợ Săn Quỷ KPop",
     "LegoIslandTag": "Đảo LEGO",
-    "RocketRacingTag": "Rocket Racing",
     "SpeedrunTag": "Chinh Phục Thời Gian",
     "SolidWaveIslandTag": "Squid Game",
     "TmntIslandTag": "Ninja Rùa",
@@ -10559,8 +10596,8 @@
     "RestrictionLineFormat": "{Index}.{Restriction}"
   },
   "JunoBuildingSnapEditorDetails": {
-    "SnapEditorRotateInPlace": "In Place",
-    "Toolbar": "Snap Editor Toolbar"
+    "SnapEditorRotateInPlace": "Tại Chỗ",
+    "Toolbar": "Thanh Công Cụ Trình Chỉnh Sửa Snap"
   },
   "JunoCVD": {
     "JunoCVDConnectivityDataFlagsMenuLabel": "Chỉ Báo Dữ Liệu Kết Nối Juno",
@@ -10576,43 +10613,51 @@
     "ConsolidatePrimitivesCombined": "Tạo bộ chuyển hướng - /JunoAtomAssets/CombinedMeshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesMeshes": "Tạo bộ chuyển hướng - /JunoAtomAssets/Meshes -> /JunoAtomAssets/ProcessedMeshes",
     "ConsolidatePrimitivesRender": "Tạo bộ chuyển hướng - /JunoGame/Brick/Mesh/Render -> /JunoAtomAssets/ProcessedMeshes",
-    "GetAssetsOfType": "Gathering '{0}' Assets",
-    "UpdateGeneratedMeshes": "Generating Dirty Meshes",
-    "PrintAtomModelsInfo": "Printing out a AtomModels info",
+    "GetAssetsOfType": "Đang thu thập Tài Nguyên '{0}'",
+    "UpdateGeneratedMeshes": "Đang Tạo Các Mắt Lưới Bụi Bẩn",
+    "PrintAtomModelsInfo": "Đang in ra thông tin Mô Hình Nguyên Tử",
     "RepairGeneratedMeshes": "Sửa Chữa Mô Hình Nguyên Tử",
-    "RegeneratePrimitivesOnPrimitive": "Running Primitive Processor : {0} ({1})",
-    "RegeneratePrimitives": "Running Primitive Processor...",
-    "UpdateAllAtomModelsToUseProcessors": "Updating Atom Models"
+    "RegeneratePrimitivesOnPrimitive": "Đang Chạy Bộ Xử Lý Sơ Khai: {0} ({1})",
+    "RegeneratePrimitives": "Đang chạy Bộ Xử Lý Nguyên Thủy...",
+    "UpdateAllAtomModelsToUseProcessors": "Đang Cập Nhật Các Mô Hình Nguyên Tử"
   },
   "JunoFECraftingDataTool": {
     "ImGuiFrontendCraftingDataTool": "Công Cụ Dữ Liệu Chế Tạo Phần Hiển Thị Juno",
     "ImGuiFrontendCraftingDataToolTooltip": "Công cụ sao chép dữ liệu UI dùng trong phần hiển thị"
   },
   "JunoValidator_AtomModel": {
-    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Has a processor set but needs to generate the meshes.",
-    "JunoValidator_AtomModel_InvalidProcessorInstance": "Has no processor set but is referencing generated meshes"
+    "JunoValidator_AtomModel_NeedToGenerateMeshes": "Đã thiết lập bộ xử lý nhưng cần tạo các lưới.",
+    "JunoValidator_AtomModel_InvalidProcessorInstance": "Chưa đặt bộ xử lý nhưng đang tham chiếu các lưới đã tạo"
   },
   "JunoValidator_ClientOnlyGameFeatureData": {
     "ClientOnlyRowStructOnServer": "Cấu trúc hàng '{0}' được định nghĩa trong mô-đun chỉ dành cho máy khách '{1}', nhưng được tham chiếu bởi '{2}' tải trên máy chủ. Di chuyển cấu trúc đến một mô-đun Thời Gian Chạy hoặc đảm bảo dữ liệu chỉ được tải trên máy khách."
   },
   "JunoValidator_GeometryCollection": {
-    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Has a null Auto Instanced Mesh",
+    "JunoValidator_GeometryCollection_NullAutoInstancedMesh": "Có một Lưới Tạo Phiên Bản Tự Động bị lỗi",
     "JunoValidator_GeometryCollection_NullProxyMeshes": "Có Lưới Proxy trống",
-    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Requires at least one Auto Instanced Mesh",
-    "JunoValidator_GeometryCollection_ProxyMeshes": "Requires at least one Proxy Mesh"
+    "JunoValidator_GeometryCollection_ZeroAutoInstancedMesh": "Yêu Cầu Ít Nhất Một Lưới Đa Bản Sao Tự Động",
+    "JunoValidator_GeometryCollection_ProxyMeshes": "Yêu cầu ít nhất một Lưới Proxy"
+  },
+  "JunoValidator_POI": {
+    "ReplaceWithoutReplacement": "Hàng Điểm Đến '{0}' được thiết lập để Thay Thế nhưng không đặt tên Điểm Đến Thay Thế nào, nên mục này sẽ chỉ bị xóa. Đặt tên mục thay thế hoặc đặt IneligibleAction thành Remove.",
+    "ReplacementDisabled": "Tên hàng Điểm Đến '{0}' đã vô hiệu hóa việc đặt hàng '{1}' làm Điểm Đến Thay Thế, nên không thể thay thế và ô đó sẽ chỉ để trống.",
+    "ReplaceWithSelf": "Hàng Điểm Đến '{0}' tự đặt tên nó là Điểm Đến Thay Thế. Thao tác thay thế này cũng sẽ không hợp lệ như hàng mà nó thay thế.",
+    "EmptyBiomes": "Hàng Điểm Đến có tên '{0}' không chỉ định quần thể nào nên sẽ không bao giờ được đặt. Hãy nêu tên những quần thể mà nó thuộc về.",
+    "IneligibleActionOnUnsupportedType": "Hàng Điểm Đến '{0}' thiết lập Hành Động Không Hợp Lệ nhưng không phải Điểm Đến Thế Giới Mở, nên sẽ được bỏ qua. Các Điểm Đến gồm hang động, lối vào hang, cầu và điểm câu cá có trạng thái phá hủy mà thẻ nghỉ hưu không mô phỏng lại.",
+    "ReplacementCycle": "Các hàng Điểm Đến '{0}' và '{1}' đặt tên nhau thành mục thay thế. Phá vỡ vòng lặp: một trong số chúng phải là một Lệnh Xóa."
   },
   "JunoValidator_PlaylistDataTableOverrides": {
     "MismatchedRowStruct": "PlaylistBaseDataTableOverrides[{0}] cho tag danh sách phát '{1}': bảng ghi đè '{2}' có cấu trúc hàng '{3}', nhưng bảng cơ sở '{4}' sử dụng cấu trúc hàng '{5}'. Việc ghi đè một bảng dữ liệu với một loại hàng khác sẽ gây ra lỗi bộ nhớ khi chạy. Bảng ghi đè PHẢI sử dụng cấu trúc hàng chính xác giống như bảng cơ sở."
   },
   "JunoValidator_StaticMesh": {
-    "JunoValidator_StaticMesh_InvalidLODs": "Asset contains invalid LOD chain",
-    "JunoValidator_StaticMesh_OpaqueExport": "Can be deleted because it no longer contains transparent materials",
-    "JunoValidator_StaticMesh_CommonParts_Tag": "Common Parts mesh doesn't have 'Render.CommonParts' Atom tag",
-    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Common Parts mesh doesn't have AtomMergedMesh_CommonParts LODGroup",
-    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Common Parts mesh doesn't have only one LOD",
-    "JunoValidator_StaticMesh_WrongLODGroup": "LODGroup name does not start with 'AtomMergedMesh'",
-    "JunoValidator_StaticMesh_TransparentExport": "Needs to be regenerated without transparent materials",
-    "JunoValidator_StaticMesh_NumLODs": "Only has one LOD"
+    "JunoValidator_StaticMesh_InvalidLODs": "Tài sản chứa chuỗi LOD không hợp lệ",
+    "JunoValidator_StaticMesh_OpaqueExport": "Có thể xóa vì không còn chứa vật liệu trong suốt",
+    "JunoValidator_StaticMesh_CommonParts_Tag": "Lưới Bộ Phận Thường không có Thẻ Phân Tử 'Render.CommonParts'",
+    "JunoValidator_StaticMesh_CommonParts_LODGroup": "Lưới bộ phận thường không có LODGroup AtomMergedMesh_CommonParts",
+    "JunoValidator_StaticMesh_CommonParts_NumLODs": "Lưới Bộ Phận Thường không chỉ có một LOD",
+    "JunoValidator_StaticMesh_WrongLODGroup": "Tên LODGroup không bắt đầu bằng 'AtomMergedMesh'",
+    "JunoValidator_StaticMesh_TransparentExport": "Cần được tạo lại mà không có vật liệu trong suốt",
+    "JunoValidator_StaticMesh_NumLODs": "Chỉ có một LOD"
   },
   "Juno_Toast_LowMemoryFallbackStrategy": {
     "WarningToastTitle": "Bộ nhớ thấp",
@@ -10825,6 +10870,9 @@
   "LfgFilterHeader": {
     "EntryNumberParenthesis": "({0})"
   },
+  "LiteUIKit": {
+    "WidgetPaletteCategory": "UIKit Lite"
+  },
   "LoadingScreen": {
     "DebugLoadingScreenReason": "*Phát Triển* Lý do hiển thị: {0}",
     "Connecting": "ĐANG KẾT NỐI",
@@ -10849,8 +10897,8 @@
     "Europe": "Châu Âu",
     "Middle East": "Trung Đông",
     "NA-Central": "Bắc Mỹ-Trung Tâm",
-    "NA-East": "Bắc Mỹ-Miền Đông",
     "NA-West": "Bắc Mỹ-Miền Tây",
+    "North America": "Bắc Mỹ",
     "Oceania": "Châu Đại Dương",
     "Undefined": "Không Xác Định"
   },
@@ -11105,6 +11153,11 @@
     "NearbySubjectsNoSelf": "Không có UMonologueComponent nào được chuyển đến NearbySubject",
     "SpatialContextNoSelf": "Không có UMonologueComponent được truyền vào SpatialContext",
     "SpatialContextNoPawn": "SpatialContext - Không thể lấy được Nhân Vật từ chủ thể"
+  },
+  "MorningBellSetting": {
+    "HideLobbyDrops_Name": "Ẩn Hộp Thả Sảnh Chờ",
+    "LobbyDropsCollectionGame_Name": "Hộp Thả Sảnh Chờ",
+    "HideLobbyDrops_Description": "Khi bật, sẽ ẩn Hộp Thả Sảnh Chờ khỏi sảnh chờ Cuộc Chiến Sinh Tồn, Blitz và Tái Chiến Thần Tốc. Bạn sẽ không thể nhận hộp thả từ Hộp Thả Sảnh Chờ."
   },
   "MyTownManager": {
     "MissingPersonalityName": "Không có bản địa hóa cho {0}",
@@ -11464,6 +11517,7 @@
     "MemberLeftToast": "<Username>{Username}</> đã rời khỏi phe",
     "MemberKickedToast": "<Username>{Username}</> đã bị mời khỏi phe",
     "UnableToJoinCheckingForRejoin": "Đang kiểm tra trận đấu hiện có, vui lòng chờ.",
+    "EpicPartyJoinFailedNoResponse_Title": "Không thể tham gia tổ đội",
     "EpicPartyJoinFailedPrivate_Title": "Không thể tham gia tổ đội",
     "UnableToJoinPartyPrivate_Title": "Không thể tham gia phe",
     "FailedPartyJoin": "Không thể tham gia phe",
@@ -11495,6 +11549,7 @@
     "UnableToJoinFailedPowerRatingUnknown": "Không thể lấy thông tin về mức sức mạnh.",
     "UnableToJoinUserBuildHigherFormat": "Không thể tham gia phe của <Username>{0}</>, phiên bản Fortnite của họ mới hơn phiên bản của bạn.",
     "UnableToJoinUserBuildLowerFormat": "Không thể tham gia phecủa <Username>{0}</>, phiên bản Fortnite của họ cũ hơn phiên bản của bạn.",
+    "EpicPartyJoinFailedNoResponse": "Không thể tham gia tổ đội của <Username>{0}</>.",
     "UnableToJoinDeniedUserUnknownResult": "Không thể tham gia phe của <Username>{0}</>. Mã Lý Do Từ Chối {1}",
     "EpicPartyJoinFailedUnknown": "Không thể tham gia tổ đội của <Username>{0}</>. Mã Lỗi {1}",
     "UnableToJoinUserUnknownResult": "Không thể tham gia phe của <Username>{0}</>. Mã Lỗi {1}",
@@ -11504,6 +11559,7 @@
     "UnableToJoinDeniedPartyUnknownResult": "Không thể tham gia phe.  Mã Lý Do Từ Chối {0}",
     "EpicPartyJoinFailedUnknown_UnknownName": "Không thể tham gia tổ đội.  Mã Lỗi {0}",
     "UnableToJoinPartyUnknownResult": "Không thể tham gia phe.  Mã Lỗi {0}",
+    "EpicPartyJoinFailedNoResponse_UnknownName": "Không thể tham gia tổ đội đó.",
     "ReadyTextSpectatingGame": "Đang Xem Ván Chơi",
     "ReadyTextWatchingReplay": "Đang Xem Phát Lại",
     "EpicPartyJoinFailedAlreadyInParty_UnknownName": "Bạn đã sẵn sàng tham gia tổ đội đó",
@@ -11926,10 +11982,10 @@
     "OutDateFormat": "Kết thúc vào {Time} ngày {Day}/{Month}/{Year} ({TimeZone})"
   },
   "SnapEditorVisualizer": {
-    "DeleteSnapEntries": "Delete Snap Entries",
-    "DuplicateSnapEntries": "Duplicate Snap Entries",
-    "PasteSnapEntries": "Paste Snap Entries",
-    "SelectSnapEntry": "Select Snap Point"
+    "DeleteSnapEntries": "Xóa Bản Ghi Snap",
+    "DuplicateSnapEntries": "Nhân Bản Mục Snap",
+    "PasteSnapEntries": "Dán Mục Snap",
+    "SelectSnapEntry": "Chọn Điểm Snap"
   },
   "SocialBanModal": {
     "SocialBanTimeRemaining": "Còn {0}"
@@ -12519,6 +12575,9 @@
   "UAthenaGiftConfirmedPanel": {
     "RecipientInfo": "Bạn đã gửi thành công một món quà cho <text color=\"FFF\">{DisplayName}</>!"
   },
+  "UAthenaGiftFlowConfirmedPanel": {
+    "RecipientInfo": "Bạn đã gửi thành công một món quà cho <text color=\"FFF\">{DisplayName}</>!"
+  },
   "UAthenaLockerCategorySortConfig": {
     "AllGroupNameKey": "Tất Cả",
     "CategoriesGroupNameKey": "Mục",
@@ -12541,7 +12600,7 @@
     "EmptyEntryError": "Hãy thử để trống tên."
   },
   "UConfigurePrefabTool": {
-    "ToolName": "Configure Prefab"
+    "ToolName": "Mô Hình Tạo Sẵn"
   },
   "UEFN": {
     "LaunchDataLeaveMatchAndMatchmakeLinkCode": "Rời trận và chơi {LinkCode}?",
@@ -12728,8 +12787,8 @@
     "OpenHLTv2ToCustomizableUIMigrator_ToolTip": "Mở Công Cụ Chuyển HLTv2 sang Giao Diện Người Dùng Tùy Chỉnh để chuyển toàn bộ thiết lập HLTv2 sang khung Giao Diện Người Dùng tùy chỉnh mới."
   },
   "UICommands.JunoViewportToolsCommands": {
-    "BeginConfigurePrefabTool": "Configure Prefab",
-    "BeginConfigurePrefabTool_ToolTip": "Configure Prefab"
+    "BeginConfigurePrefabTool": "Mô Hình Tạo Sẵn",
+    "BeginConfigurePrefabTool_ToolTip": "Mô Hình Tạo Sẵn"
   },
   "UICommands.SpatialMetricsProfiler": {
     "OpenSpatialProfiler": "Mở Máy Phân Tích Không Gian",
@@ -12753,24 +12812,24 @@
     "MaxRejoinFail": "Không thể tham gia lại trận đấu. Đã vượt quá số lần tham gia lại."
   },
   "UJunoAssetListAssetFactory": {
-    "MenuEntry": "Asset List"
+    "MenuEntry": "Danh Sách Tài Sản"
   },
   "UJunoValidator_Codex": {
     "SubcategoryTagInvalid": "Bảng dữ liệu Codex [hàng {0}] không có thẻ Danh Mục Con hợp lệ.",
     "NeitherItemNorTag": "Bảng dữ liệu Codex [hàng {0}] không có định nghĩa lẫn thẻ định danh vật phẩm. Phải có ít nhất một trong hai.",
-    "NPCNoSpawnerDat": "Codex data table [row {0}] looks like it is a friendly NPC but has no AI Spawner data set.",
+    "NPCNoSpawnerDat": "Bảng dữ liệu Codex [hàng {0}] có vẻ như là một NPC thân thiện nhưng không có bộ dữ liệu Máy Tạo AI.",
     "CategoryTagInvalid": "Bảng dữ liệu Codex [hàng {0}], không có thẻ Danh Mục hợp lệ.",
-    "ValidateLoadedAsset": "Codex data table [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "Bảng dữ liệu Sổ Tay [{0}] tham chiếu đến một vật phẩm [{1}] không tồn tại khi plugin của gói được tạo trong [{2}]. Xóa dòng hoặc cập nhật phiên bản phát hành của vật phẩm cho khớp."
   },
   "UJunoValidator_ContextualMessageConfig": {
     "TextInvalid": "Bảng dữ liệu hội thoại [hàng {0}] có văn bản không hợp lệ trong thuộc tính [{1}]:{2}\"{3}\""
   },
   "UJunoValidator_CraftingFormula": {
-    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] contains a blank RequiredIngredients tag!! This can cause issues at runtime.",
+    "ValidateLoadedAsset_Implementation": "FCraftingFormula [{0}] chứa Thẻ Thành Phần Cần Thiết bị trống!! Điều này có thể gây ra vấn đề khi chạy trò chơi.",
     "DirectOutputsWithLootTierKey": "Công Thức Chế Tạo [{0}] có cả ResultLootTierKey và Đầu Ra Trực Tiếp (mục nhập ExtraData). Xóa ResultLootTierKey hoặc mục Đầu Ra Trực Tiếp"
   },
   "UJunoValidator_GuidedBuildingActorValidator": {
-    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData with ActorName [{0}] has a blank recipe!! This can cause issues at runtime."
+    "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingData với ActorName [{0}] có công thức trống!! Điều này có thể gây ra vấn đề khi chạy trò chơi."
   },
   "UJunoValidator_GuidedBuildingDisplayActorValidator": {
     "ValidateLoadedAsset_Implementation": "FJunoGuidedBuildingDisplayActorDataEntry tại chỉ số [{0}] có một công thức trống!! Điều này có thể gây ra vấn đề khi chạy trò chơi."
@@ -12782,7 +12841,7 @@
     "ItemNewerThanLootTablePlugin": "Vật Phẩm [{0}] có phiên bản phát hành là [{1}] nhưng được gọi trong bảng chiến lợi phẩm [{2}] có plugin được tạo ra trong [{3}]. Vật Phẩm sẽ không tồn tại khi chạy bảng chiến lợi phẩm này. Hãy xóa Vật Phẩm khỏi bảng chiến lợi phẩm hoặc cập nhật phiên bản phát hành của vật phẩm để khớp với phiên bản của plugin."
   },
   "UJunoValidator_Journal": {
-    "RewardsInvalid": "Journal data table [row {0}] has a CompletionReaction type that grants a reward, but is set to GrantToWorld.  It must be GrantToParticipants to correctly grant to all players..",
+    "RewardsInvalid": "Bảng dữ liệu nhật ký [hàng {0}] có loại CompletionReaction trao phần thưởng, nhưng được đặt thành GrantToWorld.  Phải là GrantToParticipants mới chính xác để phát quà cho tất cả người chơi..",
     "TextInvalid": "Bảng dữ liệu nhật ký [hàng {0}] có văn bản không hợp lệ trong thuộc tính [{1}]:{2}\"{3}\"",
     "PrereqQuestProgressNotification": "Bạn cần bật thuộc tính bHideQuestProgressNotification của Bảng dữ liệu nhật ký [hàng {0}] và của Chỉ Mục Điều Kiện Tiên Quyết [{1}] của nhiệm vụ",
     "PrereqQuestStartingToast": "Bạn cần tắt thuộc tính bShouldDisplayStartingToast của Bảng dữ liệu nhật ký [hàng {0}] và của Chỉ Mục Điều Kiện Tiên Quyết [{1}] của nhiệm vụ",
@@ -12790,7 +12849,7 @@
     "PrereqTownbuilderInvalidALINotValidIndexUpReq": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] AwesomeLevelIndex không phải là chỉ số hợp lệ cho UpgradeRequirements của {2}.",
     "PrereqTownbuilderInvalidCTCKNotMapFDT": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] CampTagConfigKey không liên kết với Bảng Dữ Liệu FJunoAwesomePoiConfigTableRow.",
     "PrereqTownbuilderInvalidNoValidALI": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] không có AwesomeLevelIndex hợp lệ.",
-    "PrereqTownbuilderInvalid": "Journal data table [row {0}], Prerequistites Index [{1}] does not have valid CampTagConfigKey tag.",
+    "PrereqTownbuilderInvalid": "Bảng dữ liệu Nhật Ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] không có thẻ CampTagConfigKey hợp lệ.",
     "PrerequistitesInvalidNoValidPreReqType": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] không có Điều Kiện Tiên Quyết hợp lệ.",
     "PrereqQuestInvalidNotNeededPFComponent": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] chứa thành phần PersistenceFramework, thành phần này là không cần thiết",
     "PrereqQuestInvalidQuestSoftPtr": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] chứa SoftPtr của Nhiệm Vụ không hợp lệ [{2}].",
@@ -12798,17 +12857,17 @@
     "PrereqQuestNull": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] không có QuestDef.",
     "PrereqTownbuilderInvalidRCButEmptyRL": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}] tham chiếu đến ResourceCost, nhưng {2} có ResourceList trống.",
     "PrereqTownbuilderInvalidNotFoundUpStpWithUStpsIdForUpStgs": "Bảng dữ liệu nhật ký [hàng {0}], Chỉ Số Điều Kiện Tiên Quyết [{1}], Không tìm thấy UpgradeStep có UpgradeStepIdentifer {2} cho UpgradeStages của {3}.",
-    "PrerequistitesInvalid": "Journal data table [row {0}], does not have any Prerequistites.",
-    "CategoryTagInvalid": "Journal data table [row {0}], does not have valid Cateogry tag.",
-    "CompletionReactionsInvalid": "Journal data table [row {0}], is setup to reveal itself via CompletionReaction Index [{1}].",
+    "PrerequistitesInvalid": "Bảng dữ liệu nhật ký [hàng {0}] không có Điều Kiện Tiên Quyết nào.",
+    "CategoryTagInvalid": "Bảng dữ liệu Nhật Ký [hàng {0}], không có thẻ Danh Mục hợp lệ.",
+    "CompletionReactionsInvalid": "Bảng dữ liệu nhật ký [hàng {0}] được thiết lập để tiết lộ chính nó thông qua Chỉ Số Phản Ứng Hoàn Thành [{1}].",
     "NextTaskRowNameInvalidUncheckRevealNTOnComplt": "Bảng dữ liệu nhật ký [hàng {0}], được thiết lập để tự hiển thị thông qua NextTaskRowName, bỏ chọn RevealNextTaskOnComplete để gỡ chặn và liên hệ với kỹ sư!",
     "CompletionReactionsInvalid_RowNotExist": "Bảng dữ liệu nhật ký [hàng {0}], tiết lộ [hàng {1}] khi hoàn thành không tồn tại.",
     "CompletionReactionsInvalid_AutoReveal": "Bảng dữ liệu nhật ký [hàng {0}], tiết lộ [hàng {1}] khi hoàn thành, sử dụng ĐiềuKiệnTựĐộngTiếtLộ.  Tùy chọn này không được phép, ĐiềuKiệnTựTiếtLộHoặcẨn tự quản lý việc tiết lộ Công Việc.",
-    "NextTaskRowNameInvalid": "Journal data table [row {0}], uses RevealNextTaskOnComplete, but NextTaskRowName {1} is incorrect.  Please recheck the box.",
-    "ValidateLoadedAsset": "Journal data table [{0}] Prerequistites Index {1} references an quest [{2}] that won't exist when the package's plugin cooks in [{3}]. Remove the row, or update the item's release version to match."
+    "NextTaskRowNameInvalid": "Bảng dữ liệu nhật ký [hàng {0}], sử dụng RevealNextTaskOnComplete, nhưng NextTaskRowName {1} không chính xác.  Hãy chọn lại ô.",
+    "ValidateLoadedAsset": "Bảng dữ liệu nhật ký [{0}] Chỉ Số Điều Kiện Tiên Quyết {1} tham chiếu một nhiệm vụ [{2}] không tồn tại khi plugin của gói xử lý trong [{3}]. Xóa dòng hoặc cập nhật phiên bản phát hành của vật phẩm cho khớp."
   },
   "UJunoValidator_LootTables": {
-    "ValidateLoadedAsset": "LootPackage [{0}] references an item [{1}] that won't exist when the package's plugin cooks in [{2}]. Remove the row, or update the item's release version to match."
+    "ValidateLoadedAsset": "Gói Chiến Lợi Phẩm [{0}] tham chiếu một vật phẩm [{1}] không tồn tại khi plugin của gói được tạo trong [{2}]. Xóa dòng hoặc cập nhật phiên bản phát hành của vật phẩm cho khớp."
   },
   "UK2Node_ModifyObject": {
     "NodeTitle": "Tùy Biến Đối Tượng",
