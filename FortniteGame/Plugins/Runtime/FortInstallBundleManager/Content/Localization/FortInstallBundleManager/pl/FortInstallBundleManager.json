@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "W trakcie próby uzyskania dostępu do pliku wystąpił błąd. Sprawdź procesy działające w tle.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Doszło do uszkodzenia pliku. Spróbuj ponownie później.",
+    "BuildPatchInstallShortError_DownloadError": "Nie można pobrać aktualizacji. Sprawdź połączenie internetowe i spróbuj ponownie.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Na dysku brakuje miejsca. Zwolnij trochę miejsca i spróbuj ponownie.",
+    "BuildPatchInstallShortError_BuildCorrupt": "Instalacja jest uszkodzona. Skontaktuj się z działem pomocy.",
+    "BuildPatchInstallShortError_UserCanceled": "Anulowane przez użytkownika."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Już prawie gotowe! Otwórz aplikację, aby dokończyć.",
     "DownloadCompleteNotification.Title": "Przeprowadź instalację i zacznij grać",

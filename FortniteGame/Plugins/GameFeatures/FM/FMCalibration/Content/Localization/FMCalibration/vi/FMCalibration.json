@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Độ Trễ Tính Điểm: {score} ± {score_accuracy} ms (tương đối so với dấu thời gian)\nĐộ Trễ Toàn Phần: {full} ± {full_accuracy} ms (được xử lý như tay cầm)\nĐộ Trễ Phát Hiện Cao Độ: {PDL}\nĐộ Trễ Âm Thanh: {aud}\nĐộ Trễ Tính Điểm Mạng: {netscore} ms (cài đặt thanh trượt)\nĐộ Trễ Mạng Toàn Phần: {netfull} ms (cần tiêu hao khi phát hiện cao độ)\nMic: {Mic}\nFPS Mục Tiêu: {TFPS}\nFPS Đo Được: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Bỏ Qua",
     "ACC666164CC789B5272EF181112AD053": "Bỏ Qua",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Bỏ Qua (Giữ)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Bỏ Qua (Giữ)",
     "1A538069412C112D9C8082A233A70316": "Bỏ Qua Phần Âm Thanh",
     "3871B782494462ABB804A39E36FA3D31": "Bỏ Qua Phần Âm Thanh",
     "712947A9483DDF4820A42A908088305B": "Bỏ Qua Phần Video",

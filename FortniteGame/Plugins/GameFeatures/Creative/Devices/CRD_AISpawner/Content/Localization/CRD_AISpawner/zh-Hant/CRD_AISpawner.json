@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "缺少角色藍圖素材，無法重定向！",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "缺少重定向工具素材，無法重定向！",
     "E48FFE554DF62BB14204249459CFA281": "缺少重定向工具，無法將角色藍圖套用到野生動物骨骼網格。",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "否",
-    "A521461240CE088B5475E59B6D7906BA": "否",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "否",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "否",
     "ECF833FD4F55F3986302D5BC44F5F236": "NPC 角色定義",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "NPC 生成器",
     "9F9D969F42C631D33B38889AFE826051": "NPC 生成器",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "依可自訂條件生成 NPC。",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "依可自訂條件生成非玩家角色 (NPC)。",
     "EF26C08F4E22BEF782257EB5CF496F7B": "馴服",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "是",
-    "9134CFD84B97240E799723A73DBBD800": "是",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} 公尺",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} 秒"
+    "C16EFE3D43080CF15939008A177CCF83": "是",
+    "EA642BC04B7709D992859191777DCE14": "是",
+    "276AFD6147CBF407476EE89309745FA9": "{0} 公尺",
+    "7BF5F517456041F8733C6683495F9A35": "{0} 秒"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "必須指定有效的 NPC 角色定義、 Verse AI 行為類別或角色物品定義。",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "標籤"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "允許超過建議生成上限",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "允許無限生成",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "允許此生成器突破建議的活躍 NPC 全域上限並生成 NPC。警告：超過建議上限可能會對效能產生負面影響，請謹慎使用。",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "移除",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "停用時移除 AI",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "停用時移除 AI",
     "Device_AISpawner_Base_C.Despawn.Description": "移除屬於此裝置、現仍存活的 AI",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "決定是否要顯示生成半徑。",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "決定 AI 是根據生成計時器倒數時間來生成，還是根據事件生成。",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "顯示生成半徑",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "生成",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "生成數量",
-    "6F19C1DE4967DC35BDD369912183D5BE": "根據計時器生成",
+    "86DDE05B434D6828ACE3129B4FB07784": "根據計時器生成",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "生成範圍",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "穿牆生成",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "生成計時器",

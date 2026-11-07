@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Se ha producido un error al acceder al archivo. Comprueba los procesos en ejecución.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Se ha corrompido el archivo. Inténtalo de nuevo.",
+    "BuildPatchInstallShortError_DownloadError": "No se han podido descargar los datos del parche. Comprueba la conexión a internet e inténtalo de nuevo.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "No hay suficiente espacio disponible en el disco. Libera espacio en el disco e inténtalo de nuevo.",
+    "BuildPatchInstallShortError_BuildCorrupt": "La instalación está corrupta. Ponte en contacto con asistencia al jugador.",
+    "BuildPatchInstallShortError_UserCanceled": "Usuario cancelado."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "¡Ya falta poco! Abre la aplicación para finalizar.",
     "DownloadCompleteNotification.Title": "Completa la instalación y juega",

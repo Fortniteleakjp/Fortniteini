@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "Tidak ada aset Cetak Biru Karakter untuk melakukan penargetan ulang!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "Tidak ada aset Penarget Ulang untuk melakukan penargetan ulang!",
     "E48FFE554DF62BB14204249459CFA281": "Tidak ada Penarget Ulang untuk menargetkan ulang Cetak Biru Karakter di Mesh Kerangka Margasatwa.",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "TIDAK",
-    "A521461240CE088B5475E59B6D7906BA": "TIDAK",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "TIDAK",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "TIDAK",
     "ECF833FD4F55F3986302D5BC44F5F236": "Definisi Karakter NPC",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Spawner NPC",
     "9F9D969F42C631D33B38889AFE826051": "Spawner NPC",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "Spawn NPC dengan opsi yang bisa disesuaikan.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Spawn karakter non-pemain dengan opsi yang bisa disesuaikan.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "JINAKKAN",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "YA",
-    "9134CFD84B97240E799723A73DBBD800": "YA",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} dtk"
+    "C16EFE3D43080CF15939008A177CCF83": "YA",
+    "EA642BC04B7709D992859191777DCE14": "YA",
+    "276AFD6147CBF407476EE89309745FA9": "{0} m",
+    "7BF5F517456041F8733C6683495F9A35": "{0} dtk"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Definisi Karakter NPC, Perilaku AI Verse, atau Definisi Item Karakter yang valid harus ditentukan.",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "Label"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "Izinkan Melebihi Batas Spawn Anjuran",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Izinkan Spawn Tanpa Batas",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "Izinkan spawner ini untuk memunculkan NPC melebihi batas global anjuran untuk NPC aktif. Peringatan: Melebihi batas anjuran dapat berdampak negatif pada performa, jadi gunakan dengan hati-hati.",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Despawn",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Despawn AI Saat Dinonaktifkan",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "Despawn AI Saat Dinonaktifkan",
     "Device_AISpawner_Base_C.Despawn.Description": "Despawn setiap AI yang sudah ada di perangkat ini",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Menentukan apakah radius spawn perlu ditampilkan atau tidak.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Menentukan apakah AI di-spawn berdasarkan hitung mundur Timer Spawn, atau spawn berdasarkan event.",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Tampilkan Radius Spawn",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Spawn",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Jumlah Spawn",
-    "6F19C1DE4967DC35BDD369912183D5BE": "Spawn Sesuai Timer",
+    "86DDE05B434D6828ACE3129B4FB07784": "Spawn Sesuai Timer",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Radius Spawn",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Spawn Melalui Dinding",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Timer Spawn",

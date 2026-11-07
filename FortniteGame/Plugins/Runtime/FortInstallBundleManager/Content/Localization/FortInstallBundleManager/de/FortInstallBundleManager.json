@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Ein Fehler beim Dateizugriff ist aufgetreten. Überprüfe bitte die laufenden Prozesse.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Dateien wurden beschädigt. Versuche es bitte erneut.",
+    "BuildPatchInstallShortError_DownloadError": "Die Update-Daten konnten nicht heruntergeladen werden. Überprüfe deine Internetverbindung und versuche es erneut.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Es ist nicht genug Speicherplatz verfügbar. Schaffe bitte etwas Platz und versuche es erneut.",
+    "BuildPatchInstallShortError_BuildCorrupt": "Die Installation ist beschädigt. Wende dich bitte an den Support.",
+    "BuildPatchInstallShortError_UserCanceled": "Abbruch durch den Benutzer."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Fast geschafft! Öffne zum Abschließen die App.",
     "DownloadCompleteNotification.Title": "Schließe die Installation ab und spiele",

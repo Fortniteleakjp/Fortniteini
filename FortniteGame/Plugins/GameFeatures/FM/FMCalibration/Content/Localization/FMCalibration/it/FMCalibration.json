@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Latenza punteggio: {score} ± {score_accuracy} ms (rispetto alle marche temporali)\nLatenza totale: {full} ± {full_accuracy} ms (trattata come controller)\nLatenza rilevamento tono: {PDL}\nLatenza audio: {aud}\nLatenza punteggio rete: {netscore} ms (impostazioni cursore)\nLatenza totale rete: {netfull} ms (costo del rilevamento del tono)\nMicrofono: {Mic}\nFPS obiettivo: {TFPS}\nFPS rilevati: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Salta",
     "ACC666164CC789B5272EF181112AD053": "Salta",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Salta (tieni premuto)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Salta (tieni premuto)",
     "1A538069412C112D9C8082A233A70316": "Salta audio",
     "3871B782494462ABB804A39E36FA3D31": "Salta audio",
     "712947A9483DDF4820A42A908088305B": "Salta video",

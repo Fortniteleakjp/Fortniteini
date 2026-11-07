@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Si è verificato un errore durante l'accesso ai file. Verificare i processi in esecuzione.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Alcuni file si sono corrotti. Riprova.",
+    "BuildPatchInstallShortError_DownloadError": "Impossibile scaricare i dati della patch. Controlla la connessione a Internet e prova di nuovo.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Spazio su disco insufficiente. Liberare spazio su disco e riprovare.",
+    "BuildPatchInstallShortError_BuildCorrupt": "Si è verificato un problema durante l'installazione. Contattare l'assistenza.",
+    "BuildPatchInstallShortError_UserCanceled": "Utente annullato."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Ci siamo quasi! Apri l'app per completare.",
     "DownloadCompleteNotification.Title": "Completa l'installazione e gioca",

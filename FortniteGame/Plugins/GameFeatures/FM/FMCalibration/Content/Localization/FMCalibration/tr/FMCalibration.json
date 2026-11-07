@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Puan Gecikmesi: {score} ± {score_accuracy} ms (zamana göre)\nTam Gecikme: {full} ± {full_accuracy} ms (oyun kumandası gecikmesi olarak değerlendirilir)\nSes Perdesi Algılama Gecikmesi: {PDL}\nSes Gecikmesi: {aud}\nNet Puanlama Gecikmesi: {netscore} ms (ayar çubuğu ayarları)\nNet Tam Gecikme: {netfull} ms (ses perdesi algılamanın sonucu)\nMikrofon: {Mic}\nHedef FPS: {TFPS}\nÖlçülen FPS: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Atla",
     "ACC666164CC789B5272EF181112AD053": "Atla",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Geç (Basılı Tut)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Geç (Basılı Tut)",
     "1A538069412C112D9C8082A233A70316": "Sesi Geç",
     "3871B782494462ABB804A39E36FA3D31": "Sesi Geç",
     "712947A9483DDF4820A42A908088305B": "Videoyu Geç",

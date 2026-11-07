@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "分數延遲：{score} ± {score_accuracy} 毫秒（相對於時間戳記）\n總延遲：{full} ± {full_accuracy} 毫秒（視為控制器操作）\n音高偵測延遲：{PDL}\n音訊延遲：{aud}\n網路計分延遲：{netscore} 毫秒（滑桿設定）\n網路總延遲：{netfull} 毫秒（音高偵測所產生的損耗）\n麥克風：{Mic}\n目標 FPS：{TFPS}\n測量 FPS：{MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "跳過",
     "ACC666164CC789B5272EF181112AD053": "跳過",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "跳過（長按）",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "跳過（長按）",
     "1A538069412C112D9C8082A233A70316": "跳過音訊",
     "3871B782494462ABB804A39E36FA3D31": "跳過音訊",
     "712947A9483DDF4820A42A908088305B": "跳過畫面",

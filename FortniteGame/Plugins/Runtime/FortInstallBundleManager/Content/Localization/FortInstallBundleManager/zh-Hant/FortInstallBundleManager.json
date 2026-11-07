@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "發生檔案存取錯誤。請檢查執行中的程序。",
+    "BuildPatchInstallShortError_FileConstructionFail": "發生檔案損毀。請再試一次。",
+    "BuildPatchInstallShortError_DownloadError": "無法下載修補資料。請檢查網路連線並重試。",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "可用磁碟空間不足。請釋出磁碟空間後再試一次。",
+    "BuildPatchInstallShortError_BuildCorrupt": "安裝檔已毀損。請聯絡客服。",
+    "BuildPatchInstallShortError_UserCanceled": "使用者已取消。"
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "就快好了！開啟應用程式完成安裝。",
     "DownloadCompleteNotification.Title": "完成安裝便可進行遊戲",

@@ -4,5 +4,9 @@
     "7994DE504DB79DAE905114A246884E20": "遊戲選單",
     "7FF24D27490963636521C0A65D3608A9": "火花",
     "A3DA822D4AE1C68ED38A08ACA01840C9": "{category_name}   （{item_count}）"
+  },
+  "ST_SparksUICommon_DebugTexts": {
+    "Preview_SongArtist_MaxLength": "約翰·威廉姆斯 (John Williams) 與倫敦交響樂團",
+    "Preview_SongTitle_MaxLength": "Star Wars Main Title Theme/March of the Resistance（Fortnite 改編版）"
   }
 }

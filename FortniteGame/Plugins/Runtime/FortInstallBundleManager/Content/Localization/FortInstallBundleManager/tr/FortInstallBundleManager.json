@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Bir dosyaya erişilirken hata meydana geldi. Lütfen çalışmakta olan programlarını gözden geçir.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Bir dosyada bozukluk meydana geldi. Lütfen tekrar dene.",
+    "BuildPatchInstallShortError_DownloadError": "Yama verileri indirilemiyor. Lütfen internet bağlantını kontrol et ve tekrar dene.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Disk alanı yeterli değil. Lütfen diskinde yer açtıktan sonra tekrar dene.",
+    "BuildPatchInstallShortError_BuildCorrupt": "Yükleme bozulmuş. Lütfen destek ekibi ile iletişime geç.",
+    "BuildPatchInstallShortError_UserCanceled": "Kullanıcı iptal etti."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Az kaldı! Tamamlamak için uygulamayı aç.",
     "DownloadCompleteNotification.Title": "Yüklemeyi tamamla ve oyna",

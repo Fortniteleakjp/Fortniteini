@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Telah terjadi kesalahan akses file. Periksa proses yang sedang kamu jalankan.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Telah terjadi kerusakan file. Silakan coba lagi.",
+    "BuildPatchInstallShortError_DownloadError": "Tidak dapat mengunduh data patch. Periksa koneksi internetmu, dan coba lagi.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Ruang disk yang tersedia tidak cukup. Kosongkan sebagian ruang disk dan coba lagi.",
+    "BuildPatchInstallShortError_BuildCorrupt": "Instalasi rusak. Silakan hubungi bantuan.",
+    "BuildPatchInstallShortError_UserCanceled": "Pengguna membatalkan."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Sedikit lagi! Buka aplikasi untuk menyelesaikan.",
     "DownloadCompleteNotification.Title": "Selesaikan instalasi dan bermain",

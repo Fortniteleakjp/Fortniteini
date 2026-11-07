@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "Yeniden hedeflemek için karakter şeması öğesi eksik!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "Yeniden hedeflemek için yeniden hedefleyici öğesi eksik!",
     "E48FFE554DF62BB14204249459CFA281": "Vahşi hayvan iskelet örgüsünde karakter şemasını yeniden hedeflemek için yeniden hedefleyici kayıp.",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "HAYIR",
-    "A521461240CE088B5475E59B6D7906BA": "HAYIR",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "HAYIR",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "HAYIR",
     "ECF833FD4F55F3986302D5BC44F5F236": "Karakter Tanımı",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Karakter Çıkma Yeri",
     "9F9D969F42C631D33B38889AFE826051": "Karakter Çıkma Yeri",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "Özelleştirilebilir seçenekleri bulunan karakterler çıkarır.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Özelleştirilebilir seçenekleri bulunan oyuncu olmayan karakterler çıkarır.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "EVCİLLEŞTİR",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "EVET",
-    "9134CFD84B97240E799723A73DBBD800": "EVET",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} sn"
+    "C16EFE3D43080CF15939008A177CCF83": "EVET",
+    "EA642BC04B7709D992859191777DCE14": "EVET",
+    "276AFD6147CBF407476EE89309745FA9": "{0} m",
+    "7BF5F517456041F8733C6683495F9A35": "{0} sn"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Geçerli bir NPC Karakter Tanımı, Verse Yapay Zekâ Davranışı veya Karakter Eşyası Tanımı belirtilmelidir.",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "Etiket"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "Önerilen Çıkarma Sınırının Aşılmasına İzin Ver",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Sonsuz Çıkmaya İzin Ver",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "Bu çıkma yerinin, aktif karakterler için önerilen genel sınırın üzerinde karakter çıkarmasına izin verir. Uyarı: Önerilen sınırın aşılması performansı olumsuz etkileyebilir, lütfen dikkatli kullan.",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Yok Et",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Devre Dışı Bırakılınca Yapay Zekâyı Yok Et",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "Devre Dışı Bırakılınca Yapay Zekâyı Yok Et",
     "Device_AISpawner_Base_C.Despawn.Description": "Bu cihazdan çıkmış olan yapay zekâların hepsini yok eder.",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Çıkma yarıçapının görünüp görünmeyeceğini belirler.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Yapay zekânın, Çıkma Süreölçerine göre mi yoksa etkinliklere göre mi çıkacağını belirler.",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Çıkarma Yarıçapını Göster",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Çıkar",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Çıkma Sayısı",
-    "6F19C1DE4967DC35BDD369912183D5BE": "Süreyle Çıkar",
+    "86DDE05B434D6828ACE3129B4FB07784": "Süreyle Çıkar",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Çıkarma Yarıçapı",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Duvarların Arkasında Çıkar",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Çıkma Süreölçeri",

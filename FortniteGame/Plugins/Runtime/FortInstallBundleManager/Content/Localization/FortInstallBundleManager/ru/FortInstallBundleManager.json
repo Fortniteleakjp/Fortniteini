@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Ошибка доступа к файлу. Проверьте запущенные процессы.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Файл был повреждён. Повторите попытку позже.",
+    "BuildPatchInstallShortError_DownloadError": "Не удалось загрузить пакет обновления. Проверьте соединение с интернетом и повторите попытку позже.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Недостаточно свободного места. Освободите место и попробуйте заново.",
+    "BuildPatchInstallShortError_BuildCorrupt": "Ошибка установки. Обратитесь в службу поддержки.",
+    "BuildPatchInstallShortError_UserCanceled": "Отменено пользователем."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Почти готово! Запустите приложение, чтобы завершить процесс.",
     "DownloadCompleteNotification.Title": "Завершите установку и начните игру",

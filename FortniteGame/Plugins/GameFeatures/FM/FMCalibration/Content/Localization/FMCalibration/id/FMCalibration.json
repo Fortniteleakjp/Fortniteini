@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Latensi Skor: {score} ± {score_accuracy} mdtk (relatif terhadap stempel waktu)\nLatensi Penuh: {full} ± {full_accuracy} mdtk (diperlakukan sebagai controller)\nLatensi Deteksi Nada: {PDL}\nLatensi Audio: {aud}\nLatensi Skor Net: {netscore} mdtk (pengaturan penggeser)\nLatensi Penuh Net: {netfull} mdtk (mengorbankan deteksi nada)\nMikrofon: {Mic}\nFPS Target: {TFPS}\nFPS Terukur: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Lewati",
     "ACC666164CC789B5272EF181112AD053": "Lewati",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Lewati (Tahan)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Lewati (Tahan)",
     "1A538069412C112D9C8082A233A70316": "Lewati Audio",
     "3871B782494462ABB804A39E36FA3D31": "Lewati Audio",
     "712947A9483DDF4820A42A908088305B": "Lewati Video",

@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "¡Falta el plano del personaje para realizar el redireccionamiento!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "¡Falta el elemento redireccionador para realizar el redireccionamiento!",
     "E48FFE554DF62BB14204249459CFA281": "Falta un reorientador para cambiar el objetivo del plano del personaje en la malla esquelética de animal salvaje.",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "NO",
-    "A521461240CE088B5475E59B6D7906BA": "NO",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "NO",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "NO",
     "ECF833FD4F55F3986302D5BC44F5F236": "Definición de personaje PNJ",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Generador de PNJ",
     "9F9D969F42C631D33B38889AFE826051": "Generador de PNJ",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "Genera PNJ con opciones personalizables.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Genera personajes no jugables con opciones personalizables.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "DOMAR",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "SÍ",
-    "9134CFD84B97240E799723A73DBBD800": "SÍ",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} s"
+    "C16EFE3D43080CF15939008A177CCF83": "SÍ",
+    "EA642BC04B7709D992859191777DCE14": "SÍ",
+    "276AFD6147CBF407476EE89309745FA9": "{0} m",
+    "7BF5F517456041F8733C6683495F9A35": "{0} s"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Hay que especificar una definición de personaje PNJ, una definición de objeto de personaje o una clase de comportamiento IA de Verse válidas.",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "Etiqueta"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "Permitir superar el límite de generación recomendado",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Permitir infinitas generaciones",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "Permite a este generador que cree personajes no jugador más allá del límite global recomendado de personajes no jugador activos. Aviso: superar el límite recomendado puede afectar negativamente al rendimiento. Úsalo con precaución.",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Eliminar",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Destruir IA al deshabilitar",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "Destruir IA al deshabilitar",
     "Device_AISpawner_Base_C.Despawn.Description": "Elimina cualquier IA existente de este dispositivo.",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Establece si es necesario mostrar el radio de aparición.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Establece si la IA se genera durante la cuenta atrás del cronómetro de aparición o durante los eventos.",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Mostrar radio de aparición",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Generar",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Límite de generación",
-    "6F19C1DE4967DC35BDD369912183D5BE": "Aparición cronometrada",
+    "86DDE05B434D6828ACE3129B4FB07784": "Aparición cronometrada",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Radio de aparición",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Aparecer a través de paredes",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Cronómetro de aparición",

@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "حدث خطأ في الوصول إلى الملف. يُرجى مراجعة العمليات الجارية.",
+    "BuildPatchInstallShortError_FileConstructionFail": "حدث خطأ في الملف. يرجى إعادة المحاولة.",
+    "BuildPatchInstallShortError_DownloadError": "تعذر تنزيل بيانات ملف التصحيح. يرجى التحقق من اتصالك بالإنترنت وإعادة المحاولة مرة أخرى.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "لا توجد مساحة قرص كافية. يُرجى تفريغ بعض المساحة على القرص وإعادة المحاولة.",
+    "BuildPatchInstallShortError_BuildCorrupt": "التثبيت غير صالح. يُرجى الاتصال بالدعم.",
+    "BuildPatchInstallShortError_UserCanceled": "قام المستخدم بالإلغاء."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "اقتربت من النهاية! افتح التطبيق لإتمام الخطوات الأخيرة.",
     "DownloadCompleteNotification.Title": "أكمِل التثبيت واستمتع باللعب",

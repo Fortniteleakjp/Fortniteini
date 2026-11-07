@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "出现文件访问错误。请检查正在运行的进程。",
+    "BuildPatchInstallShortError_FileConstructionFail": "发生文件损坏。请重试。",
+    "BuildPatchInstallShortError_DownloadError": "无法下载补丁数据。请检查网络连接后重试。",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "可用磁盘空间不足。请释放磁盘空间后重试。",
+    "BuildPatchInstallShortError_BuildCorrupt": "安装已损坏。请联系客服。",
+    "BuildPatchInstallShortError_UserCanceled": "用户已取消。"
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "就快好了！打开应用完成安装。",
     "DownloadCompleteNotification.Title": "完成安装，进行游戏",

@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "أصل مخطط شخصية تنفيذ إعادة التوجيه مفقود!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "أصل أداة إعادة التوجيه لتنفيذ إعادة التوجيه مفقود!",
     "E48FFE554DF62BB14204249459CFA281": "أداة إعادة الاستهداف مفقودة لإعادة توجيه مخطط الشخصية على الشبكة العظمية للحياة البرية.",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "لا",
-    "A521461240CE088B5475E59B6D7906BA": "لا",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "لا",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "لا",
     "ECF833FD4F55F3986302D5BC44F5F236": "تعريف الشخصية للشخصيات غير القابلة للعب",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "ناشر الشخصيات غير قابلة للعب",
     "9F9D969F42C631D33B38889AFE826051": "ناشر الشخصيات غير قابلة للعب",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "لنشر الشخصيات غير القابلة للعب مع خيارات قابلة للتخصيص.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "لنشر شخصيات غير قابلة للعب بخيارات قابلة للتخصيص.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "ترويض",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "نعم",
-    "9134CFD84B97240E799723A73DBBD800": "نعم",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} م",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} من الثواني"
+    "C16EFE3D43080CF15939008A177CCF83": "نعم",
+    "EA642BC04B7709D992859191777DCE14": "نعم",
+    "276AFD6147CBF407476EE89309745FA9": "{0} م",
+    "7BF5F517456041F8733C6683495F9A35": "{0} من الثواني"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "يلزم تحديد تعريف شخصية صالح للشخصيات غير القابلة للعب أو فئة سلوك Verse صالحة للذكاء الاصطناعي أو تعريف لعنصر شخصية.",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "ملصق"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "السماح بتجاوز حد النشر الموصى به",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "السماح بالنشر اللانهائي",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "يسمح لهذا الناشر بنشر شخصيات غير قابلة للعب تتجاوز الحد العالمي الموصى به للشخصيات النشطة غير القابلة للعب. تحذير: قد يؤثر تجاوز الحد الموصى به سلبًا في الأداء، استخدمه بحذر.",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "إلغاء النشر",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "إلغاء نشر عناصر الذكاء الاصطناعي عند التعطيل",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "إلغاء نشر عناصر الذكاء الاصطناعي عند التعطيل",
     "Device_AISpawner_Base_C.Despawn.Description": "إزالة أي عناصر ذكاء اصطناعي حالية تخصّ هذا الجهاز",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "لتحديد ما إذا كنا بحاجة إلى إظهار نطاق النشر أم لا.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "يحدد ما إذا كان الذكاء الاصطناعي سينتشر بناءً على العد التنازلي لمؤقت الناشر أو في الأحداث.",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "إظهار نطاق النشر",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "نشر",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "عدد مرات النشر",
-    "6F19C1DE4967DC35BDD369912183D5BE": "النشر بمؤقت",
+    "86DDE05B434D6828ACE3129B4FB07784": "النشر بمؤقت",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "نطاق النشر",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "النشر خلال الجدران",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "مؤقت النشر",

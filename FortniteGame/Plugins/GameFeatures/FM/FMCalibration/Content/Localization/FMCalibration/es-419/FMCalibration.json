@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Latencia de puntaje: {score} ± {score_accuracy} ms (en relación con las marcas de tiempo)\nLatencia total: {full} ± {full_accuracy} ms (se trata como control)\nLatencia de detección de tono: {PDL}\nLatencia de sonido: {aud}\nLatencia de puntaje neta: {netscore} ms (ajustes de deslizador)\nLatencia total neta: {netfull} ms (costo de detección de tono)\nMicrófono: {Mic}\nTargetFPS: {TFPS}\nMeasuredFPS: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Omitir",
     "ACC666164CC789B5272EF181112AD053": "Omitir",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Omitir (mantener presionado)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Omitir (mantener presionado)",
     "1A538069412C112D9C8082A233A70316": "Omitir sonido",
     "3871B782494462ABB804A39E36FA3D31": "Omitir sonido",
     "712947A9483DDF4820A42A908088305B": "Omitir video",

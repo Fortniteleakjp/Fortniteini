@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "ไม่สามารถรีทาร์เก็ตได้ เนื่องจากไม่พบแอสเซ็ต Character Blueprint!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "ไม่สามารถรีทาร์เก็ตได้ เนื่องจากไม่พบแอสเซ็ต Retargeter!",
     "E48FFE554DF62BB14204249459CFA281": "ไม่พบตัวกำหนดเป้าหมายซ้ำที่จะใช้กำหนดเป้าหมายพิมพ์เขียวตัวละครซ้ำในโครงของหุ่นสัตว์ป่า",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "ไม่",
-    "A521461240CE088B5475E59B6D7906BA": "ไม่",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "ไม่",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "ไม่",
     "ECF833FD4F55F3986302D5BC44F5F236": "ลักษณะตัวละคร NPC",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "จุดเกิด NPC",
     "9F9D969F42C631D33B38889AFE826051": "จุดเกิด NPC",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "สร้าง NPC ด้วยตัวเลือกที่สามารถปรับแต่งได้",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "สร้างตัวละครที่เล่นไม่ได้ด้วยตัวเลือกที่สามารถปรับแต่งได้",
     "EF26C08F4E22BEF782257EB5CF496F7B": "ทำให้เชื่อง",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "ใช่",
-    "9134CFD84B97240E799723A73DBBD800": "ใช่",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} เมตร",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} วินาที"
+    "C16EFE3D43080CF15939008A177CCF83": "ใช่",
+    "EA642BC04B7709D992859191777DCE14": "ใช่",
+    "276AFD6147CBF407476EE89309745FA9": "{0} เมตร",
+    "7BF5F517456041F8733C6683495F9A35": "{0} วินาที"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "จะต้องกำหนดลักษณะของตัวละคร NPC, พฤติกรรม AI ของ Verse หรือข้อมูลไอเทมตัวละครที่ถูกต้อง",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "ป้าย"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "อนุญาตให้สร้างเกินขีดจำกัดที่แนะนำ",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "อนุญาตให้เกิดได้ไม่จำกัด",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "อนุญาตให้จุดเกิดนี้สร้าง NPC เกินขีดจำกัด NPC แนะนำที่ทั่วโลกใช้งานอยู่ คำเตือน: การสร้างเกินขีดจำกัดที่แนะนำอาจส่งผลในแง่ลบต่อประสิทธิภาพได้ โปรดใช้งานด้วยความระมัดระวัง",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "ลบออก",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "ลบ AI เมื่อถูกปิดใช้งาน",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "ลบ AI เมื่อถูกปิดใช้งาน",
     "Device_AISpawner_Base_C.Despawn.Description": "ลบ AI ใดๆ ที่มีอยู่ ซึ่งเป็นของอุปกรณ์เครื่องนี้",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "กำหนดว่าเราจะต้องแสดงรัศมีการเกิดหรือไม่",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "กำหนดว่า AI จะเกิดตามการนับถอยหลังของตัวนับเวลาการเกิด หรือเกิดเมื่อมีอีเวนต์",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "แสดงรัศมีการเกิด",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "เกิด",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "จำนวนการเกิด",
-    "6F19C1DE4967DC35BDD369912183D5BE": "เกิดตามตัวจับเวลา",
+    "86DDE05B434D6828ACE3129B4FB07784": "เกิดตามตัวจับเวลา",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "รัศมีการเกิด",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "เกิดทะลุกำแพง",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "ตัวจับเวลาการเกิด",

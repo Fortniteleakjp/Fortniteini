@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Latence de score : {score} ± {score_accuracy} ms (par rapport aux horodatages)\nLatence totale : {full} ± {full_accuracy} ms (considérée comme manette)\nLatence de détection de la hauteur tonale : {PDL}\nLatence audio : {aud}\nLatence de score réseau : {netscore} ms (paramètres du curseur)\nLatence totale réseau : {netfull} ms (coût de la détection de la hauteur tonale)\nMicro : {Mic}\nFréquence d'images visée : {TFPS}\nFréquence d'images mesurée : {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Passer",
     "ACC666164CC789B5272EF181112AD053": "Passer",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Passer (maintenir)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Passer (maintenir)",
     "1A538069412C112D9C8082A233A70316": "Ignorer l'audio",
     "3871B782494462ABB804A39E36FA3D31": "Ignorer l'audio",
     "712947A9483DDF4820A42A908088305B": "Ignorer la vidéo",

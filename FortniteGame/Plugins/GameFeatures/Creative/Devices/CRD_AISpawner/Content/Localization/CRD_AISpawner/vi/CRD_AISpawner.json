@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "Thiếu tài nguyên Bản Thiết Kế Nhân Vật để định vị lại mục tiêu!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "Thiếu Đối Tượng Định Vị Lại để định vị lại mục tiêu!",
     "E48FFE554DF62BB14204249459CFA281": "Thiếu Trình Chuyển Đổi để chuyển khung xương Bản Vẽ Nhân Vật trên Lưới Xương của Thú Hoang.",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "KHÔNG",
-    "A521461240CE088B5475E59B6D7906BA": "KHÔNG",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "KHÔNG",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "KHÔNG",
     "ECF833FD4F55F3986302D5BC44F5F236": "Định Nghĩa Nhân Vật NPC",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Máy Tạo NPC",
     "9F9D969F42C631D33B38889AFE826051": "Máy Tạo NPC",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "Tạo các NPC với các tùy chọn có thể tùy chỉnh.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Tạo các nhân vật không thể điều khiển với các tùy chọn có thể tùy chỉnh.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "THUẦN HÓA",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "CÓ",
-    "9134CFD84B97240E799723A73DBBD800": "CÓ",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} m",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} giây"
+    "C16EFE3D43080CF15939008A177CCF83": "CÓ",
+    "EA642BC04B7709D992859191777DCE14": "CÓ",
+    "276AFD6147CBF407476EE89309745FA9": "{0} m",
+    "7BF5F517456041F8733C6683495F9A35": "{0} s"
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Phải chỉ định Định Nghĩa Nhân Vật NPC, Hành Vi AI Verse hoặc Định Nghĩa Vật Phẩm Nhân Vật hợp lệ.",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "Nhãn"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "Cho Phép Vượt Giới Hạn Tạo Đề Xuất",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Cho Phép Tạo Ra Không Giới Hạn",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "Cho phép Máy Tạo này tạo ra các NPC vượt quá Giới Hạn Toàn Cục khuyến nghị của các NPC đang hoạt động. Cảnh báo: Vượt quá giới hạn khuyến nghị có thể ảnh hưởng tiêu cực đến hiệu năng, vui lòng cân nhắc khi sử dụng.",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Thu Hồi",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Thu Hồi AI Khi Bị Vô Hiệu Hoá",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "Thu Hồi AI Khi Bị Vô Hiệu Hoá",
     "Device_AISpawner_Base_C.Despawn.Description": "Thu hồi toàn bộ AI hiện có thuộc về thiết bị này",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Quyết định xem có cần hiển thị bán kính tạo ra hay không.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Xác định xem AI được tạo ra khi Bộ Đếm Giờ Tạo Sinh Vật đếm ngược, hay được tạo ra khi có sự kiện.",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Hiển Thị Phạm Vi Xuất Hiện",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Tạo Ra",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Số Lượng Tạo Ra",
-    "6F19C1DE4967DC35BDD369912183D5BE": "Tạo Ra Theo Bộ Đếm Giờ",
+    "86DDE05B434D6828ACE3129B4FB07784": "Tạo Ra Theo Bộ Đếm Giờ",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Bán Kính Xuất Hiện",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Tạo Ở Vị Trí Xuyên Qua Bức Tường",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Bộ Đếm Giờ Tạo Mới",

@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Ocurrió un error de acceso de archivo. Comprueba tus procesos en curso.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Hay un archivo dañado. Vuelve a intentarlo.",
+    "BuildPatchInstallShortError_DownloadError": "No se pudieron descargar los datos del parche. Revisa tu conexión a Internet y vuelve a intentarlo.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "No hay suficiente espacio en el disco. Libera algo de espacio e inténtalo de nuevo.",
+    "BuildPatchInstallShortError_BuildCorrupt": "La instalación está dañada. Ponte en contacto con el servicio de asistencia.",
+    "BuildPatchInstallShortError_UserCanceled": "Cancelado por el usuario."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "¡Ya casi! Abre la aplicación para terminar.",
     "DownloadCompleteNotification.Title": "Completa la instalación y juega.",

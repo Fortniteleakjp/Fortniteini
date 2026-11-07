@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Opóźnienie punktacji: {score} ± {score_accuracy} ms (względem znaczników czasu)\nPełne opóźnienie: {full} ± {full_accuracy} ms (traktowane jako kontroler)\nOpóźnienie wykrywania wysokości dźwięku: {PDL}\nOpóźnienie dźwięku: {aud}\nOpóźnienie punktacji sieci: {netscore} ms (ustawienia suwaka)\nPełne opóźnienie sieci: {netfull} ms (koszt wykrywania wysokości dźwięku)\nMikrofon: {Mic}\nDocelowa liczba klatek na sekundę: {TFPS}\nZmierzona liczba klatek na sekundę: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Pomiń",
     "ACC666164CC789B5272EF181112AD053": "Pomiń",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Pomiń (przytrzymaj)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Pomiń (przytrzymaj)",
     "1A538069412C112D9C8082A233A70316": "Pomiń dźwięk",
     "3871B782494462ABB804A39E36FA3D31": "Pomiń dźwięk",
     "712947A9483DDF4820A42A908088305B": "Pomiń obraz",

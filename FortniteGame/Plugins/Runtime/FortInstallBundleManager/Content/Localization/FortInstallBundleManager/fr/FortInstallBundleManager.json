@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Une erreur a empêché l'accès aux fichiers. Veuillez vérifier vos processus en cours.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Des fichiers ont été corrompus. Veuillez réessayer.",
+    "BuildPatchInstallShortError_DownloadError": "Impossible de télécharger les données de mise à jour. Veuillez vérifier votre connexion à Internet et réessayer.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Espace disque insuffisant. Veuillez faire de la place sur votre disque dur et réessayer.",
+    "BuildPatchInstallShortError_BuildCorrupt": "L'installation est corrompue. Veuillez contacter l'assistance.",
+    "BuildPatchInstallShortError_UserCanceled": "Utilisateur annulé."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "On y est presque ! Ouvrez l'application pour terminer l'opération.",
     "DownloadCompleteNotification.Title": "Terminez l'installation et jouez",

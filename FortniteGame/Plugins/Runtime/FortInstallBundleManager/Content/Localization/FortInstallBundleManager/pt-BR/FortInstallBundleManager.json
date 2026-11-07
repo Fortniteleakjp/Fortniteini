@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "Ocorreu um erro ao acessar um arquivo. Verifique seus processos ativos.",
+    "BuildPatchInstallShortError_FileConstructionFail": "Um arquivo foi corrompido. Tente novamente.",
+    "BuildPatchInstallShortError_DownloadError": "Não foi possível baixar os arquivos do patch. Verifique sua conexão com a internet e tente novamente.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "Espaço insuficiente no disco. Libere espaço no disco e tente novamente.",
+    "BuildPatchInstallShortError_BuildCorrupt": "A instalação está corrompida. Entre em contato com o suporte.",
+    "BuildPatchInstallShortError_UserCanceled": "Cancelado pelo usuário."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "Quase lá! Abra o aplicativo para terminar.",
     "DownloadCompleteNotification.Title": "Conclua a instalação e jogue",

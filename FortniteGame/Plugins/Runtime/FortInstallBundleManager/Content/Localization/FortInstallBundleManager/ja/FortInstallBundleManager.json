@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "ファイルのアクセスエラーが発生しました。起動プロセスをご確認ください。",
+    "BuildPatchInstallShortError_FileConstructionFail": "ファイルが破損しました。もう一度お試しください。",
+    "BuildPatchInstallShortError_DownloadError": "パッチデータをダウンロードできませんでした。インターネット接続をご確認のうえ、後でもう一度お試しください。",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "必要なディスク空き容量が不足しています。十分なディスク空き容量を確保した上でもう一度お試しください。",
+    "BuildPatchInstallShortError_BuildCorrupt": "インストールデータが破損しています。 サポートまでご連絡ください。",
+    "BuildPatchInstallShortError_UserCanceled": "ユーザーによるキャンセル。"
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "もう少しです！ アプリを開いて完了しましょう。",
     "DownloadCompleteNotification.Title": "インストールを完了してプレイしましょう",

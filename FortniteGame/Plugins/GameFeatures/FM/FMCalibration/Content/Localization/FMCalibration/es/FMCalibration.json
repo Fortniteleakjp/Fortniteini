@@ -64,7 +64,7 @@
     "5881E95643B64EAC8ACCACA3BF4FCFE6": "Latencia de puntuación: {score} ± {score_accuracy} ms (respecto a las marcas de tiempo)\nLatencia total: {full} ± {full_accuracy} ms (considerada como controlador)\nLatencia de detección de tono: {PDL}\nLatencia de sonido: {aud}\nLatencia de puntuación neta: {netscore} ms (ajustes del deslizador)\nLatencia neta total: {netfull} ms (coste de detección de tono)\nMicrófono: {Mic}\nFPS de destino: {TFPS}\nFPS medidos: {MFPS}",
     "8F10C21946C92A1EBA8B399ED344B746": "Omitir",
     "ACC666164CC789B5272EF181112AD053": "Omitir",
-    "22BE81AF4B8A0A3E49BE75B953329CCB": "Saltar (mantener)",
+    "DCFF1C064E2C360E55B758B1BD440E0F": "Saltar (mantener)",
     "1A538069412C112D9C8082A233A70316": "Omitir",
     "3871B782494462ABB804A39E36FA3D31": "Omitir",
     "712947A9483DDF4820A42A908088305B": "Omitir",

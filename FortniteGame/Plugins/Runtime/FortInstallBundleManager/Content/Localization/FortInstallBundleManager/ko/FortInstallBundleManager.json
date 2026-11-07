@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "파일 액세스 오류가 발생했습니다. 실행 중인 프로세스를 확인해보세요.",
+    "BuildPatchInstallShortError_FileConstructionFail": "파일 손상이 발생했습니다. 나중에 다시 시도해보세요.",
+    "BuildPatchInstallShortError_DownloadError": "패치 데이터를 다운로드할 수 없습니다. 인터넷 연결을 확인한 다음 다시 시도해보세요.",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "사용할 수 있는 디스크 공간이 부족합니다. 디스크 공간을 확보한 다음 다시 시도해보세요.",
+    "BuildPatchInstallShortError_BuildCorrupt": "설치 파일이 손상되었습니다. 지원센터에 문의하시기 바랍니다.",
+    "BuildPatchInstallShortError_UserCanceled": "사용자가 취소했습니다."
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "거의 끝났습니다! 앱을 열어 완료하세요.",
     "DownloadCompleteNotification.Title": "설치를 완료해 플레이하세요",

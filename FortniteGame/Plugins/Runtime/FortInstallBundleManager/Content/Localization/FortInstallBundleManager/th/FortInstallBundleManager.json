@@ -1,4 +1,12 @@
 {
+  "BuildPatchInstallError": {
+    "BuildPatchInstallShortError_MoveFileToInstall": "เกิดข้อผิดพลาดในการเข้าถึงไฟล์ โปรดตรวจสอบกระบวนการที่ทำงานอยู่",
+    "BuildPatchInstallShortError_FileConstructionFail": "ไฟล์เกิดความเสียหาย โปรดลองอีกครั้ง",
+    "BuildPatchInstallShortError_DownloadError": "ไม่สามารถดาวน์โหลดข้อมูลแพตช์ได้ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณและลองใหม่อีกครั้ง",
+    "BuildPatchInstallShortError_OutOfDiskSpace": "พื้นที่ดิสก์ที่พร้อมให้ใช้งานไม่เพียงพอ โปรดเพิ่มพื้นที่ว่างในดิสก์แล้วลองอีกครั้ง",
+    "BuildPatchInstallShortError_BuildCorrupt": "การติดตั้งเกิดข้อผิดพลาด โปรดติดต่อฝ่ายบริการ",
+    "BuildPatchInstallShortError_UserCanceled": "ผู้ใช้ยกเลิกคำสั่ง"
+  },
   "FortInstallBundleManager": {
     "DownloadCompleteNotification.BodyText": "เหลืออีกนิด! เปิดแอปเพื่อให้เสร็จสิ้นขั้นตอน",
     "DownloadCompleteNotification.Title": "ติดตั้งให้เสร็จสิ้นแล้วมาลุยกันเลย",

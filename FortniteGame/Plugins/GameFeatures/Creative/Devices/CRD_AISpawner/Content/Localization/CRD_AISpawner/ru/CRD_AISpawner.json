@@ -7,8 +7,8 @@
     "4041DC934D461842A88AF4A78C587836": "Отсутствует схема персонажа для перенаправления!",
     "1D92BADF44D89F07EACEEC8BEDAF7748": "Отсутствует перенаправитель!",
     "E48FFE554DF62BB14204249459CFA281": "На скелетной модели животного отсутствует перенаправитель цели для схемы персонажа.",
-    "44B00AF146DE2D0FBAF9D892BBB6AB1A": "НЕТ",
-    "A521461240CE088B5475E59B6D7906BA": "НЕТ",
+    "C86F44724D5F86012BE22ABB3ACE48F7": "НЕТ",
+    "DCBB9C91484BDB15C9672B977AFC0C6E": "НЕТ",
     "ECF833FD4F55F3986302D5BC44F5F236": "Определение неигрового персонажа",
     "3B6BE19E4F58686C02BF43AA85E01AFD": "Генератор неигровых персонажей",
     "9F9D969F42C631D33B38889AFE826051": "Генератор неигровых персонажей",
@@ -20,10 +20,10 @@
     "1A6A10864573E886B224699E7445E1D4": "Создаёт неигровых персонажей (NPC) с возможностью настройки.",
     "BF0029DC4DB651F35AF349ACDF8D93EC": "Создаёт неигровых персонажей с возможностью настройки.",
     "EF26C08F4E22BEF782257EB5CF496F7B": "Приручить",
-    "90D0CF964D5800BF0CA0C39EB4F8F234": "ДА",
-    "9134CFD84B97240E799723A73DBBD800": "ДА",
-    "C9559F494B5EB0AAD52F76AD2514A792": "{0} м",
-    "6547252D4BE97F3A3BCD9D92E1DAAE75": "{0} сек."
+    "C16EFE3D43080CF15939008A177CCF83": "ДА",
+    "EA642BC04B7709D992859191777DCE14": "ДА",
+    "276AFD6147CBF407476EE89309745FA9": "{0} м",
+    "7BF5F517456041F8733C6683495F9A35": "{0} сек."
   },
   "ActorFactoryAISpawner": {
     "CanCreateActor.NoAIBehavior": "Необходимо указать действительное определение неигрового персонажа, поведение ИИ на Verse или определение предмета персонажа.",
@@ -46,9 +46,11 @@
     "OptionDefinitionContainer.LabelOverride": "Метка"
   },
   "UserOptionDefinition": {
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.DisplayName": "Разрешить превышение рекомендуемого лимита создания",
     "Device_AISpawner_Base_C.AllowInfiniteSpawn.DisplayName": "Разрешить создание без ограничений",
+    "Device_AISpawner_Base_C.AllowExceedRecommendedSpawnLimit.Description": "Позволяет создавать неигровых персонажей даже после того, как достигнуто рекомендуемое общее количество активных неигровых персонажей. Внимание: превышение рекомендуемого лимита может негативно повлиять на производительность. Будьте осторожны.",
     "Device_AISpawner_Base_C.Despawn.DisplayName": "Удалить",
-    "66A6DF0F42D1DCE8F1EF03A02FE58735": "Удалить ИИ при отключении устройства",
+    "99BAC91C4FC9BDBAC35BD3BCFDE35484": "Удалить ИИ при отключении устройства",
     "Device_AISpawner_Base_C.Despawn.Description": "Удаляет всех существующих ИИ, относящихся к этому устройству.",
     "Device_AISpawner_Base_C.ShowSpawnRadius.Description": "Определяет, нужно ли показывать радиус появления.",
     "Device_AISpawner_Base_C.SpawnOnTimer.Description": "Определяет, когда будет появляться ИИ: по таймеру появления или при событиях.",
@@ -78,7 +80,7 @@
     "Device_AISpawner_Base_C.ShowSpawnRadius.DisplayName": "Показывать радиус появления",
     "Device_AISpawner_Base_C.Spawn.DisplayName": "Создать",
     "Device_AISpawner_Base_C.SpawnCount.DisplayName": "Создаваемое количество",
-    "6F19C1DE4967DC35BDD369912183D5BE": "Создавать по таймеру",
+    "86DDE05B434D6828ACE3129B4FB07784": "Создавать по таймеру",
     "Device_AISpawner_Base_C.SpawnRadius.DisplayName": "Радиус появления",
     "Device_AISpawner_Base_C.SpawnThroughWalls.DisplayName": "Появление за стенами",
     "Device_AISpawner_Base_C.SpawnTimer.DisplayName": "Таймер появления",
